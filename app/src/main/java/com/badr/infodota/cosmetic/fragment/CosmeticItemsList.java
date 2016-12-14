@@ -29,6 +29,7 @@ import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.BaseActivity;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.fragment.SearchableFragment;
 import com.badr.infodota.base.util.DialogUtils;
 import com.badr.infodota.base.util.ProgressTask;
@@ -54,7 +55,7 @@ import java.util.List;
  * Date: 31.03.14
  * Time: 17:12
  */
-public class CosmeticItemsList extends Fragment implements SearchableFragment {
+public class CosmeticItemsList extends SCBaseFragment implements SearchableFragment {
     public static final int REFRESH = 123123;
     private final static String FLURRY_EVENT = "openCosmeticList";
     BeanContainer beanContainer = BeanContainer.getInstance();
@@ -118,6 +119,51 @@ public class CosmeticItemsList extends Fragment implements SearchableFragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.cosmetic_items_list, container, false);
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

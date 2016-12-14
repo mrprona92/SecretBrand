@@ -24,6 +24,7 @@ import android.widget.EditText;
 import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.stream.adapter.pager.TwitchPagerAdapter;
 import com.badr.infodota.stream.api.Stream;
 import com.badr.infodota.stream.service.TwitchService;
@@ -33,7 +34,7 @@ import com.badr.infodota.stream.service.TwitchService;
  * Date: 07.03.14
  * Time: 15:18
  */
-public class TwitchHolder extends Fragment { //pullToRefresh + FloatingActionButton.
+public class TwitchHolder extends SCBaseFragment { //pullToRefresh + FloatingActionButton.
 
     public static final int REFRESH = 6001;
     public static final int ADD_CHANNEL = 322;
@@ -43,6 +44,51 @@ public class TwitchHolder extends Fragment { //pullToRefresh + FloatingActionBut
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.twitch_holder, container, false);
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

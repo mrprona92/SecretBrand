@@ -16,13 +16,14 @@ import android.widget.LinearLayout;
 
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.quiz.activity.QuizActivity;
 
 /**
  * User: Histler
  * Date: 09.02.14
  */
-public class QuizTypeSelect extends Fragment {
+public class QuizTypeSelect extends SCBaseFragment {
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
@@ -36,6 +37,51 @@ public class QuizTypeSelect extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.quiz_type_select, container, false);
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return R.string.menu_quiz;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

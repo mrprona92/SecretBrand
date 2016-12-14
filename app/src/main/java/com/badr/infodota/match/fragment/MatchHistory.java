@@ -79,6 +79,51 @@ public class MatchHistory extends UpdatableRecyclerFragment<PlayerMatch, History
     }
 
     @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
+    }
+
+    @Override
     public RecyclerView.LayoutManager getLayoutManager(Context context) {
         return new GridLayoutManager(context, 1);
     }

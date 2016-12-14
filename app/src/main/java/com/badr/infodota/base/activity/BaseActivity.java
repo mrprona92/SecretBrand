@@ -43,6 +43,7 @@ public class BaseActivity extends AppCompatActivity {
         if (mActionMenuView != null) {
             mActionMenuView.setVisibility(View.GONE);
         }
+        Log.d("BINH", "initActionBar() called with: " + "");
     }
 
     public ActionMenuView getActionMenuView() {

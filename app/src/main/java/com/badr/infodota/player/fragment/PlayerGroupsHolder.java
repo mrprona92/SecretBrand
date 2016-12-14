@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.player.adapter.pager.PlayerGroupsPagerAdapter;
 
 /**
@@ -19,12 +20,57 @@ import com.badr.infodota.player.adapter.pager.PlayerGroupsPagerAdapter;
  * Date: 04.02.14
  * Time: 19:48
  */
-public class PlayerGroupsHolder extends Fragment {
+public class PlayerGroupsHolder extends SCBaseFragment {
     private PlayerGroupsPagerAdapter adapter;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.match_history_holder, container, false);
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

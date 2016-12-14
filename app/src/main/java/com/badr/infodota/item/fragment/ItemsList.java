@@ -13,6 +13,7 @@ import android.support.v7.widget.ActionMenuView;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.PopupMenu;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.SearchView;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -27,6 +28,7 @@ import com.badr.infodota.R;
 import com.badr.infodota.base.activity.AboutActivity;
 import com.badr.infodota.base.activity.ListHolderActivity;
 import com.badr.infodota.base.adapter.OnItemClickListener;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.fragment.SearchableFragment;
 import com.badr.infodota.base.service.LocalSpiceService;
 import com.badr.infodota.base.util.ResourceUtils;
@@ -46,7 +48,7 @@ import java.util.Locale;
  * Date: 17.01.14
  * Time: 18:28
  */
-public class ItemsList extends Fragment implements SearchableFragment, OnItemClickListener, RequestListener<Item.List> {
+public class ItemsList extends SCBaseFragment implements SearchableFragment, OnItemClickListener, RequestListener<Item.List> {
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private RecyclerView gridView;
     private ItemsAdapter mAdapter;
@@ -168,6 +170,51 @@ public class ItemsList extends Fragment implements SearchableFragment, OnItemCli
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.item_list, container, false);
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

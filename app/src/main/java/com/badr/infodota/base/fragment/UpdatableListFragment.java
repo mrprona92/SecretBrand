@@ -17,7 +17,7 @@ import com.badr.infodota.R;
  * 29.12.2014
  * 16:04
  */
-public abstract class UpdatableListFragment extends Fragment {
+public abstract class UpdatableListFragment extends SCBaseFragment {
 
     final private AdapterView.OnItemClickListener mOnClickListener
             = new AdapterView.OnItemClickListener() {

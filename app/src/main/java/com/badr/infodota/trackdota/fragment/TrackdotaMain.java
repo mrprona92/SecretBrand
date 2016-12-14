@@ -23,6 +23,7 @@ import android.widget.Toast;
 
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.util.Refresher;
 import com.badr.infodota.trackdota.activity.TrackdotaGameInfoActivity;
 import com.badr.infodota.trackdota.adapter.pager.TrackdotaPagerAdapter;
@@ -38,7 +39,7 @@ import com.octo.android.robospice.request.listener.RequestListener;
  * 14.04.2015
  * 11:28
  */
-public class TrackdotaMain extends Fragment implements RequestListener<GamesResult>, Refresher {
+public class TrackdotaMain extends SCBaseFragment implements RequestListener<GamesResult>, Refresher {
     public static final int SEARCH_MATCH = 322;
     private static final long DELAY_20_SEC = 20000;
     private SpiceManager mSpiceManager = new SpiceManager(UncachedSpiceService.class);
@@ -83,6 +84,51 @@ public class TrackdotaMain extends Fragment implements RequestListener<GamesResu
         View view = inflater.inflate(R.layout.trackdota, container, false);
         progressBar = view.findViewById(R.id.progressBar);
         return view;
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

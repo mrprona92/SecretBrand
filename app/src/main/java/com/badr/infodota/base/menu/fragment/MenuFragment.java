@@ -14,6 +14,7 @@ import android.view.ViewGroup;
 
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.menu.adapter.DHMenuAdapter;
 
 import java.lang.ref.WeakReference;
@@ -26,7 +27,7 @@ import butterknife.Unbinder;
  * User: Histler
  * Date: 09.02.14
  */
-public class MenuFragment extends Fragment implements DHMenuAdapter.OnItemClickListener{
+public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItemClickListener{
 
     private static WeakReference<ListHolderActivity> mActivityRef;
 
@@ -63,6 +64,51 @@ public class MenuFragment extends Fragment implements DHMenuAdapter.OnItemClickL
         mRecyclerMenu.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
         mRecyclerMenu.setNestedScrollingEnabled(false);
         return mView;
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return R.string.menu_menuname;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

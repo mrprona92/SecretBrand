@@ -19,7 +19,7 @@ import com.badr.infodota.base.adapter.holder.BaseViewHolder;
 /**
  * Created by Badr on 21.12.2014.
  */
-public abstract class UpdatableRecyclerFragment<T, VIEW_HOLDER extends BaseViewHolder> extends Fragment implements OnItemClickListener, SwipeRefreshLayout.OnRefreshListener {
+public abstract class UpdatableRecyclerFragment<T, VIEW_HOLDER extends BaseViewHolder> extends SCBaseFragment implements OnItemClickListener, SwipeRefreshLayout.OnRefreshListener {
     protected SwipeRefreshLayout mListContainer;
     protected RecyclerView mRecyclerView;
     protected View mProgressBar;

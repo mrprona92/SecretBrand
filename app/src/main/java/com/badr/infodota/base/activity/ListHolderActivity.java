@@ -37,6 +37,7 @@ import com.badr.infodota.R;
 import com.badr.infodota.base.api.Constants;
 import com.badr.infodota.base.configs.ScreenIDs;
 import com.badr.infodota.base.dao.Helper;
+import com.badr.infodota.base.fragment.ConfirmDialog;
 import com.badr.infodota.base.fragment.SCAlertDialog;
 import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.fragment.SearchableFragment;
@@ -47,6 +48,7 @@ import com.badr.infodota.base.task.UpdateLoadRequest;
 import com.badr.infodota.base.util.UiUtils;
 import com.badr.infodota.base.util.UpdateUtils;
 import com.badr.infodota.cosmetic.fragment.CosmeticItemsList;
+import com.badr.infodota.counter.api.TruepickerHero;
 import com.badr.infodota.counter.fragment.CounterPickFilter;
 import com.badr.infodota.hero.fragment.HeroesList;
 import com.badr.infodota.item.fragment.ItemsList;
@@ -158,9 +160,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
             }
         }
-
-        initControl();
-
         super.onStart();
     }
 
@@ -184,6 +183,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         preferences.edit().remove("mainMenuLastSelected").commit();
         UpdateUtils.checkNewVersion(this, false);
 
+
+
         navSpinner= (Spinner) mToolbar.findViewById(R.id.nav_spinner);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 R.layout.spinner_item, getResources().getStringArray(R.array.main_menu));
@@ -191,30 +192,25 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         navSpinner.setAdapter(adapter);
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
         int selected = prefs.getInt("mainMenuLastSelected", 0);
+
         navSpinner.setOnItemSelectedListener(this);
         navSpinner.setSelection(Math.min(selected, adapter.getCount() - 1));
+       // navSpinner.setVisibility(View.GONE);
 
-        navSpinner.setVisibility(View.GONE);
+        initControl();
 
         UpdateUtils.checkNewVersion(this, false);
+
         //не нужен AppRater.onAppLaunched(this);
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu items for use in the action bar
-        if(mFragmentDetails instanceof MenuFragment){
+        if(mCurrentFragment instanceof MenuFragment){
             navSpinner.setVisibility(View.VISIBLE);
         }else{
             navSpinner.setVisibility(View.GONE);
-        }
-
-        if(mFragmentDetails instanceof HeroesList){
-            lblToolbarTitle.setVisibility(View.GONE);
-            mActionMenuView.setVisibility(View.GONE);
-        }else{
-            lblToolbarTitle.setVisibility(View.VISIBLE);
-            mActionMenuView.setVisibility(View.VISIBLE);
         }
 
         getMenuInflater().inflate(R.menu.search, menu);
@@ -223,8 +219,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
         searchView.setQueryHint(getString(android.R.string.search_go));
         searchView.setOnQueryTextListener(this);
-
-
 
         return super.onCreateOptionsMenu(menu);
     }
@@ -245,7 +239,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onBackPressed() {
-        if (doubleBackToExitPressedOnce) {
+        /*if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
             return;
         }
@@ -257,7 +251,29 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             public void run() {
                 doubleBackToExitPressedOnce = false;
             }
-        }, Constants.MILLIS_FOR_EXIT);
+        }, Constants.MILLIS_FOR_EXIT);*/
+        if (mFragmentManager.getBackStackEntryCount() >= 1) {
+            Log.d(TAG, "onBackPressed() called. More than 0 fragment in back stack");
+            clearBackStack();
+            openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, false, false);
+            return;
+        } else {
+            Log.d(TAG, "onBackPressed() called. Finish()");
+            ConfirmDialog confirmDialog = new ConfirmDialog(ListHolderActivity.this);
+            confirmDialog.setMessageId(R.string.quiz);
+            confirmDialog.setTitleId(R.string.ask_quit);
+            confirmDialog.setOnConfirmDialogListener(new ConfirmDialog.ConfirmDialogListener() {
+                @Override
+                public void onSelect(int indexButton) {
+                    if (indexButton == 1) {
+                        ListHolderActivity.super.onBackPressed();
+                        android.os.Process.killProcess(android.os.Process.myPid());
+                        System.exit(1);
+                    }
+                }
+            });
+            confirmDialog.show();
+        }
     }
 
     @Override
@@ -285,49 +301,47 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         ft.commitAllowingStateLoss();
     }
 
-    private Fragment mFragmentDetails;
-
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
             switch (position) {
                 default:
                 case 0:
-                    mFragmentDetails = new HeroesList();
+                    mCurrentFragment = new HeroesList();
                     break;
                 case 1:
-                    mFragmentDetails = new ItemsList();
+                    mCurrentFragment = new ItemsList();
                     break;
                 case 2:
-                    mFragmentDetails = new PlayerGroupsHolder();
+                    mCurrentFragment = new PlayerGroupsHolder();
                     break;
                 case 3:
-                    mFragmentDetails = new CounterPickFilter();
+                    mCurrentFragment = new CounterPickFilter();
                     break;
                 case 4:
-                    mFragmentDetails = new CosmeticItemsList();
+                    mCurrentFragment = new CosmeticItemsList();
                     break;
                 case 5:
-                    mFragmentDetails = new QuizTypeSelect();
+                    mCurrentFragment = new QuizTypeSelect();
                     break;
                 case 6:
-                    mFragmentDetails = new TwitchHolder();
+                    mCurrentFragment = new TwitchHolder();
                     break;
                 case 7:
-                    mFragmentDetails = new NewsList();
+                   // mCurrentFragment = new NewsList();
                     break;
                 case 8:
-                    mFragmentDetails = LeaguesGamesList.newInstance(null);
+                    mCurrentFragment = LeaguesGamesList.newInstance(null);
                     break;
                 case 9:
-                    mFragmentDetails = new TrackdotaMain();
+                    mCurrentFragment = new TrackdotaMain();
                     break;
                     /*
                 case 9:
 					details=new LeaguesGamesList.newInstance("&c2=7057&c1=2390");
                     break;*/
             }
-            replaceFragment(mFragmentDetails);
+            replaceFragment(mCurrentFragment);
             lastSelected = position;
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
             prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
@@ -362,23 +376,26 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     //Tab Change
     @OnClick(R.id.tabHero)
     public void onClickTabHero() {
-        openScreen(ScreenIDs.ScreenTab.HERO);
+        clearBackStack();
+        openScreen(ScreenIDs.ScreenTab.HERO, HeroesList.class, null, true, false);
     }
 
     @OnClick(R.id.tabConterPick)
     public void onClickTabCounterPick() {
-        //openScreen(ScreenIDs.ScreenTab.COUNTERPICK);
+        clearBackStack();
         openScreen(ScreenIDs.ScreenTab.COUNTERPICK, CounterPickFilter.class, null, true, false);
     }
 
     @OnClick(R.id.tabQuiz)
     public void onClickTabQuiz() {
-        openScreen(ScreenIDs.ScreenTab.QUIZ);
+        clearBackStack();
+        openScreen(ScreenIDs.ScreenTab.QUIZ, QuizTypeSelect.class, null, true, false);
     }
 
     @OnClick(R.id.tabMenu)
     public void onClickTabMenu() {
-        openScreen(ScreenIDs.ScreenTab.MENU);
+        clearBackStack();
+        openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, true, false);
     }
 
     public void openScreen(ScreenIDs.ScreenTab tab) {
@@ -388,19 +405,19 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             switch (tab) {
                 default:
                 case HERO:
-                    mFragmentDetails = new HeroesList();
+                    mCurrentFragment = new HeroesList();
                     position = 0;
                     break;
                 case COUNTERPICK:
-                    mFragmentDetails = new CounterPickFilter();
+                    mCurrentFragment = new CounterPickFilter();
                     position = 1;
                     break;
                 case QUIZ:
-                    mFragmentDetails = new QuizTypeSelect();
+                    mCurrentFragment = new QuizTypeSelect();
                     position = 2;
                     break;
                 case MENU:
-                    mFragmentDetails = new MenuFragment();
+                    mCurrentFragment = new MenuFragment();
                     position = 3;
                     break;
                     /*
@@ -408,7 +425,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 					details=new LeaguesGamesList.newInstance("&c2=7057&c1=2390");
                     break;*/
             }
-            replaceFragment(mFragmentDetails);
+            replaceFragment(mCurrentFragment);
             mCurrentTab = tab;
             lastSelected = position;
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
@@ -468,19 +485,20 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             switch (position) {
                 default:
                 case 0:
-                    mFragmentDetails = new ItemsList();
+                    //mFragmentDetails = new ItemsList();
+                    openScreen(ScreenIDs.ScreenTab.MENU, ItemsList.class, null, true, true);
                     break;
                 case 1:
-                    mFragmentDetails = new NewsList();
+                    openScreen(ScreenIDs.ScreenTab.MENU, NewsList.class, null, true, true);
                     break;
                 case 2:
-                    mFragmentDetails =  LeaguesGamesList.newInstance(null);
+                    mCurrentFragment =  LeaguesGamesList.newInstance(null);
                     break;
                 case 3:
-                    mFragmentDetails = new TrackdotaMain();
+                    mCurrentFragment = new TrackdotaMain();
                     break;
                 case 4:
-                    mFragmentDetails = new TwitchHolder();
+                    mCurrentFragment = new TwitchHolder();
                     break;
                 case 5:
                     UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
@@ -491,7 +509,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 case 7:
                     //TODO quit app
                     AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
-                    alertDialog.setTitle("Reset...");
+                    alertDialog.setTitle("Dota Assitant");
                     alertDialog.setMessage("Do you want quit application?");
                     alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int which) {
@@ -501,7 +519,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                     alertDialog.show();
                     break;
             }
-            replaceFragment(mFragmentDetails);
+            replaceFragment(mCurrentFragment);
     }
 
 
@@ -591,6 +609,13 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     public void updateUI() {
         Log.d(TAG, "updateUI: called");
 
+        if(mCurrentFragment instanceof HeroesList){
+            lblToolbarTitle.setVisibility(View.GONE);
+            mActionMenuView.setVisibility(View.GONE);
+        }else{
+            lblToolbarTitle.setVisibility(View.VISIBLE);
+        }
+
         if (mCurrentFragment != null) {
             if (mCurrentFragment.getToolbarTitle() != -99) {
                 if (lblToolbarTitle != null && mCurrentFragment.getToolbarTitle() > 0) {
@@ -601,8 +626,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             }
         }
 
-        btnBack.setVisibility(mFragmentManager.getBackStackEntryCount() >= 1 ? View.VISIBLE : GONE);
-
+        //btnBack.setVisibility(mFragmentManager.getBackStackEntryCount() >= 1 ? View.VISIBLE : GONE);
 
         if (mCurrentFragment instanceof HeroesList)
             setHighLightTab(ScreenIDs.ScreenTab.HERO);
@@ -660,6 +684,15 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 openScreen2(tab, fragmentClass, bundles, isAnimate, shouldAddToBackStack);
             }
         });
+    }
+
+    public void clearBackStack() {
+        Log.e(TAG, "clearBackStack() called:" + mFragmentManager.getBackStackEntryCount());
+        if (mFragmentManager.getBackStackEntryCount() > 0) {
+            FragmentManager.BackStackEntry first = mFragmentManager.getBackStackEntryAt(0);
+            boolean didPop = mFragmentManager.popBackStackImmediate(first.getId(), FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            Log.d(TAG, "clearBackStack: didPop " + didPop);
+        }
     }
 
 

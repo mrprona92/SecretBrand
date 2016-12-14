@@ -67,6 +67,39 @@ public class SearchedPlayersList extends UpdatableRecyclerFragment<Unit, PlayerH
     }
 
     @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+        Activity activity = getActivity();
+        if (activity != null) {
+            mSpiceManager.execute(new SearchedPlayersLoadRequest(activity.getApplicationContext(), null), this);
+        }
+    }
+
+    @Override
     public RecyclerView.LayoutManager getLayoutManager(Context context) {
         return new GridLayoutManager(context, 1);
     }
@@ -114,11 +147,20 @@ public class SearchedPlayersList extends UpdatableRecyclerFragment<Unit, PlayerH
         }
     }
 
-    private void initData() {
-        Activity activity = getActivity();
-        if (activity != null) {
-            mSpiceManager.execute(new SearchedPlayersLoadRequest(activity.getApplicationContext(), null), this);
-        }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override
