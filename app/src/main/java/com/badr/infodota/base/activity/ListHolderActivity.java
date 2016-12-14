@@ -175,6 +175,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
         MenuFragment.updateActivity(this);
 
+        Log.d(TAG, "onCreate() called with: " + "savedInstanceState = [" + savedInstanceState + "]");
+
         ActionBar bar = getSupportActionBar();
         bar.setDisplayShowTitleEnabled(false);
         bar.setDisplayShowHomeEnabled(false);
