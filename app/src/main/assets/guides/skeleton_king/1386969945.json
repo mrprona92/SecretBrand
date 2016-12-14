@@ -1,0 +1,116 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Carry Ganking Wraith King  [6.79]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"clarity",
+				"flask",
+				"branches"
+			],
+			"Starting Items - Random Gold":
+			[
+				"stout_shield",
+				"tango",
+				"clarity",
+				"flask",
+				"circlet"
+			],
+			"Early Game Items":
+			[
+				"boots",
+				"magic_stick",
+				"hand_of_midas",
+				"invis_sword",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"black_king_bar",
+				"abyssal_blade",
+				"assault"
+			],
+			"luxury":
+			[
+				"bfury",
+				"monkey_king_bar",
+				"travel_boots",
+				"heart",
+				"armlet",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Helps protect you from harassment",
+				"branches":"Attribute bonuses are always nice to have",
+				"circlet":"Allows for an extra item slot",
+				"magic_stick":"Very important to have mana for your ultimate",
+				"clarity":"Makes sure you have enough mana for Wraithfire Blast",
+				"flask":"Major health regeneration",
+				"tango":"Minor health regeneration",
+				"travel_boots":"Late game, you can sell your treads and get boots of travel if you don't have any slots for a TP scroll",
+				"power_treads":"Treads are your boots of choice. Tread switching is important on Wraith King to keep your mana up",
+				"hand_of_midas":"Very nice item to keep up your experience and levels. Also gives attack speed, which is needed on Wraith King. Can be skipped if you are very far behind or you think you need to be active earlier in the game because  the enemy has a very late game focusesd lineup",
+				"assault":"Rounds out your stats and provides nice bonuses to your team",
+				"heart":"Will make you almost impossible to kill and give a nice damage boost",
+				"black_king_bar":"Black King Bar is a very important item in games where the enemy can lock you down and nuke you. You do not always have to get a BKB however, as the enemy locking you down may not be an issue for you	",
+				"rapier":"Wraith King is a very good Divine Rapier holder as he is very hard to kill, but you still should not buy it unless you are winning by a large margin",
+				"monkey_king_bar":"Good against carries with evasion",
+				"bfury":"Good item if you want to farm or are against an illusion hero. I would reccommend Battle Fury sometime during your Core Items.",
+				"armlet":"Armlet can be a good item on Wraith King, although I generally don't like it because of the amount of damage you take",
+				"invis_sword":"Gives more ganking and initiation power. Feel free to get this after drums if you don't want to start ganking",
+				"ancient_janggo":"Mana regeneration, move speed and attack speed are all things Wraith King needs",
+				"abyssal_blade":"Great for keeping enemies locked down in combination with Wraithfire Blast"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_vampiric_aura",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_mortal_strike",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"Has a decent length stun. This is your most useful ability early game",
+				"skeleton_king_vampiric_aura":"A level of Vampiric Aura is useful to keep yourself alive in lane, and allows you to jungle later",
+				"skeleton_king_mortal_strike":"This can make you do huge amounts of damage with autoattacks",
+				"skeleton_king_reincarnation":"Keeps you alive. Make sure you  have enough mana for this in a potentially dangerous situtation"
+		}
+	}
+}

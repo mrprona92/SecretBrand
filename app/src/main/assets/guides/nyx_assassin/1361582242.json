@@ -1,0 +1,103 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"6.82 - Standard Nyx Assassin (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"dagon"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"necronomicon",
+				"ghost",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"ethereal_blade",
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Get this if in the middle-lane and desperate for mana/life regeneration.",
+				"urn_of_shadows":"Use Urn of Shadows offensively or defensively to constantly earn kills and stay alive, roaming.
+
+If you can't reach Dagon in time, just get Urn of Shadows and move on.",
+				"sheepstick":"Scythe of Vyse just further adds to Nyx Assassin's capabilities to gank and contribute to fights when the late-game comes around.",
+				"dagon":"Dagon nets you fast kills and with your ability combination, you can nearly kill off any hero in the game.
+
+Do not take more than 20 minutes to get this item, if you can't get it, don't keep pushing for it as it becomes less and less effective.",
+				"necronomicon":"Get this at level 3 for the true sight. This helps your pushing line-up, reveal invisible foes and further attack speed and damage.",
+				"ethereal_blade":"Ethereal Blade synergizes well with Nyx Assassin's moves after his ultimate, furthering the damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_impale",
+			"2":"nyx_assassin_mana_burn",
+			"3":"nyx_assassin_impale",
+			"4":"nyx_assassin_spiked_carapace",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_mana_burn",
+			"9":"nyx_assassin_mana_burn",
+			"10":"nyx_assassin_mana_burn",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_spiked_carapace",
+			"13":"nyx_assassin_spiked_carapace",
+			"14":"nyx_assassin_spiked_carapace",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nyx_assassin_impale":"Impale is not a guaranteed stun when clicking on a hero and works by targeting by point and not by target, making stuns being more manually chosen and less guaranteed.",
+				"nyx_assassin_mana_burn":"Mana Burn's mana cost is constant, the damage multiplier goes up with each level, so leveling it fast is up to you.",
+				"nyx_assassin_spiked_carapace":"Spiked Carapace has a constant mana cost and constant reflect duration (how long it stays active on you), use it when you know you'll be targeted or to counteract stuns. This ability is a great escape mechanism and should be maxed second.",
+				"nyx_assassin_vendetta":"Open with Vendetta to hit foes then follow up with Impale, Mana Burn to finish off your opponent (with Urn of Shadows or Dagon)."
+		}
+	}
+}

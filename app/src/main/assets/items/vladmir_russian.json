@@ -1,0 +1,20 @@
+{
+  "dotaId": "vladmir",
+  "id": 81,
+  "img": "vladmir_lg.png",
+  "dname": "Vladmir\u0027s Offering",
+  "qual": "rare",
+  "cost": 2325,
+  "desc": "Пассивная: Vladmir\u0027s Aura - Дает ауру вампиризма, восстановления здоровья, маны, дополнительного урона и брони союзникам в радиусе 900.  Процент вампиризма зависит от дальности атаки носящего предмет героя.<br/><br/>Аура от нескольких Vladmir\u0027s Aura не сочетается.",
+  "notes": "Не сочетается с аурами Ring of Basilius, Ring of Aquila или Vladmir\u0027s Offering.",
+  "attrib": "+ 2 ко всем атрибутам<br/>AURA HEALTH REGEN: 3<br/>РЕГЕН МАНЫ В АУРЕ: 0.8<br/>АУРА ДОП. БРОНИ: 5<br/>ДОП. УРОН В АУРЕ: 15%<br/>ВАМПИРИЗМ В БЛИЖНЕМ БОЮ: 15%<br/>ВАМПИРИЗМ В ДАЛЬНЕМ БОЮ: 10%<br/>РАДИУС АУРЫ: 900",
+  "mc": false,
+  "cd": false,
+  "lore": "Жуткая маска, проклятая злобой павшего вампира.",
+  "components": [
+    "headdress",
+    "ring_of_basilius",
+    "lifesteal"
+  ],
+  "created": true
+}

@@ -1,0 +1,113 @@
+{
+	"Hero":"meepo",
+	"Title":"MEEPO Guide v6.81",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"vladmir",
+				"ultimate_scepter",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ethereal_blade",
+				"heart",
+				"blink",
+				"assault",
+				"sheepstick",
+				"travel_boots",
+				"manta",
+				"orchid",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"flask":"Можно дать другому MEEPO или союзнику",
+				"vladmir":"Не менее важный предмет для персонажа, так как аура вампиризма распространяяется остальным клонам.",
+				"ring_of_basilius":"\"RING OF BASILIUS\" даст небольшую регенирацию маны, что ссыграет большую роль для фарма в лесу. В дальнейшем я настоятельно советую сложить с него  \"VLADIMIR'S OFFERING\"",
+				"sheepstick":"Цель будет иметь базовую скорость в 100 единиц в секунду, но эффекты, дающие максимальную скорость, сняты не будут. Снимает блокировку урона и уклонение. Мгновенно уничтожает иллюзии.",
+				"heart":"[ENG]
+It is necessary to collect if you have a \"AGHANIM'S SCEPTER\"
+[RUS]
+Стоит собирать если у вас есть \"AGHANIM'S SCEPTER\"",
+				"manta":"Произносит заклинание, во время которого вы неуязвимы. Делает на время двух дополнительных MEEPO к которым можно телепортироваться скиллом \"POOF\"",
+				"tranquil_boots":"Почему не \"POWER TREADS\"? Ответ таков: нам нужны ботинки на скорсть, чтобы быстро догонять жертву, а постоянно прожимать фэйзы всем MEEPO не вариант, да и лишней регенирация здоровья не будет, поэтому \"TRANQUIL BOOTS\" - это лучший выбор"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_divided_we_stand",
+			"4":"meepo_poof",
+			"5":"meepo_poof",
+			"6":"meepo_geostrike",
+			"7":"meepo_poof",
+			"8":"meepo_earthbind",
+			"9":"meepo_geostrike",
+			"10":"meepo_divided_we_stand",
+			"11":"meepo_geostrike",
+			"12":"meepo_geostrike",
+			"13":"meepo_earthbind",
+			"14":"meepo_earthbind",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"meepo_divided_we_stand",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_earthbind":"[ENG]
+While preventing units from going invisible, Earthbind won't hit units that are already invisible. Does not work on magic immune units or Roshan.
+[RUS]
+Не даёт уйти в невидимость, но не действует на уже невидимых врагов. Не действует на невосприимчивых к магии юнитов и на Рошана.",
+				"meepo_poof":"[ENG]
+Can be cast through the minimap. With this ability, you can easily eliminate the entire enemy team.
+[RUS]
+Способность может быть применена через мини-карту. Может телепортировать к вашим иллюзиям. Благодаря этому скиллу вы можете запросто устранить всю вражескую кома",
+				"meepo_geostrike":"[ENG]
+Slows magic immune units.
+[RUS]
+Замедляет юнитов, невосприимчивых к магии.",
+				"meepo_divided_we_stand":"[ENG]
+Clones can't use \"ARCANE BOOTS\" or pick up runes.
+[RUS]
+Клоны не могут использовать артефакт \"ARCANE BOOTS\" или поднимать руны.",
+				"attribute_bonus":"[ENG]
+Attribute bonuses directly affect all three of a Hero's primary attributes: Strength, Agility, and Intelligence.
+[RUS]
+Бонусы к атрибутам влияют на все три характеристики героя: силу, ловкость и интеллект."
+		}
+	}
+}

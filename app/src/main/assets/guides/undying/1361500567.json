@@ -1,0 +1,92 @@
+{
+	"Hero":"undying",
+	"Title":"[DMX] Undying (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"flask",
+				"clarity",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"vanguard",
+				"hood_of_defiance",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"pipe",
+				"shivas_guard",
+				"ultimate_scepter",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"blade_mail",
+				"veil_of_discord",
+				"assault",
+				"sheepstick"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_decay",
+			"2":"undying_tombstone",
+			"3":"undying_tombstone",
+			"4":"undying_soul_rip",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_tombstone",
+			"8":"undying_soul_rip",
+			"9":"undying_soul_rip",
+			"10":"undying_soul_rip",
+			"11":"undying_flesh_golem",
+			"12":"undying_decay",
+			"13":"undying_decay",
+			"14":"undying_decay",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Un sort qui vous permettra d'harass facilement vos adversaires tout en leur volant de la force, ce qui vous rendra plus tanky.",
+				"undying_soul_rip":"Un très bon sort qui permet soit de faire des dommages, soit de heal. A utiliser quand il y a de nombreuses unités à proximité.",
+				"undying_tombstone":"Cette tombe sera un cauchemar pour les adversaires qui tentent de vous gank ou de push. En effet les zombies feront beaucoup de dégâts et ralentiront énormément vos ennemis.",
+				"undying_flesh_golem":"Un ultimate qui vous permet de tanker jusqu'au bout de la terre, tout en affaiblissant vos adversaires."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Time Walk",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Совершает рывок к указанной точке, снижая скорость передвижения всех врагов, находящихся на его пути, на 3 секунды.",
+        "notes": "Во время действия этой способности Faceless Void неуязвим.",
+        "dmg": "",
+        "attrib": "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">700/900/1100/1300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 19/17/15/13",
+        "lore": "Дарктеррор разрывает ткань времени, проходя через Класзурем и мгновенно возвращаясь назад.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_time_walk",
+        "youtube":"S0rGy8SU5wM",
+        "id": 0
+    },
+    {
+        "dname": "Backtrack",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Faceless Void искажает время и пространство, чтобы уклониться от физических и магических атак.",
+        "notes": "Способности, дающие эффект True Strike, не работают против этой способности.",
+        "dmg": "",
+        "attrib": "ШАНС УКЛОНЕНИЯ: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b>",
+        "cmb": "",
+        "lore": "Дарктеррор видит то, что еще только предстоит увидеть.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_backtrack",
+        "youtube":"CUVqXuRDxOc",
+        "id": 1
+    },
+    {
+        "dname": "Time Lock",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "При атаке появляется шанс остановить время для вражеского юнита, оглушая его и нанося дополнительный урон.",
+        "notes": "Оглушает врагов, невосприимчивых к заклинаниям.<br/>Не складывается с эффектом от артефакта Skull Basher.<br/>Наносит вдвое больше урона, если цель удара находится под действием способности Chronosphere.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1</font></b><br/>ШАНС: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">40/50/60/70</font></b>",
+        "cmb": "",
+        "lore": "К удару Faceless Void прибавляется сила сдвига измерения.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_time_lock",
+        "youtube":"xYXHpdTOWLA",
+        "id": 2
+    },
+    {
+        "dname": "Chronosphere",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Создает прореху в пространстве и времени, заключая всех врагов в сферу и сильно увеличивая свою скорость передвижения внутри нее. Только Faceless Void и подконтрольные ему существа остаются нетронутыми ее силой. Раскрывает невидимость внутри сферы.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Останавливает действия всех существ и построек за исключением подконтрольных Faceless Void.<br/>На Faceless Void не действует ни своя, ни чужая Chronosphere.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">425</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/4.5/5</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">4/5/6</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">60/60/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/225/300<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 130/115/100",
+        "lore": "Когда открывается проход в Класзурем, все бедняги, оказавшиеся в проходе, вряд ли могут выбраться из него.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_chronosphere",
+        "youtube":"vGJ7FLM7uJg",
+        "id": 3
+    }
+]

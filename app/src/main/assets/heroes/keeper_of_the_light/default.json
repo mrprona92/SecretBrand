@@ -1,0 +1,43 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_keeper_of_the_light",
+	"Title":"Recommended items for Keeper of the Light",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"gauntlets",
+			"branches",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"tranquil_boots",
+			"magic_wand",
+			"mekansm",
+			"ward_observer",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"travel_boots",
+			"shivas_guard",
+			"rod_of_atos",
+			"sheepstick",
+			"pipe",
+			"cyclone",
+			"force_staff",
+			"necronomicon_3",
+			"veil_of_discord"
+		]
+	}
+}

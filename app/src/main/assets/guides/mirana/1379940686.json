@@ -1,0 +1,74 @@
+{
+	"Hero":"mirana",
+	"Title":"Mirana The Middle Hunter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"slippers",
+				"circlet",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"ring_of_aquila",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"yasha",
+				"lesser_crit",
+				"desolator"
+			],
+			" Late game":
+			[
+				"manta",
+				"greater_crit",
+				"monkey_king_bar",
+				"black_king_bar",
+				"skadi",
+				"butterfly"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_arrow",
+			"2":"mirana_starfall",
+			"3":"mirana_arrow",
+			"4":"mirana_leap",
+			"5":"mirana_arrow",
+			"6":"mirana_starfall",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_leap",
+			"10":"mirana_invis",
+			"11":"mirana_invis",
+			"12":"mirana_starfall",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

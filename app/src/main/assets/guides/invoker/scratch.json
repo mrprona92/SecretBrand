@@ -1,0 +1,98 @@
+{
+	"Hero":"invoker",
+	"Title":"Invokerism - The Threat",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"blades_of_attack"
+			],
+			"Early Game ":
+			[
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"cyclone",
+				"orchid",
+				"ward_observer"
+			],
+			"Situational":
+			[
+				"sphere",
+				"ultimate_scepter",
+				"medallion_of_courage"
+			],
+			"Luxury Items":
+			[
+				"sheepstick",
+				"force_staff",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"When even higher mobility is needed and positions is crucial, this should be your next choice.",
+				"ward_observer":"These are not your regular rune wards. These will help you sunstrike fleeing targets. Place them behind tower or in jungle.",
+				"phase_boots":"Alternative choice when mobility is needed.",
+				"power_treads":"Best boot choice to compliment your exort damage build. But if you get caught off-position very often, you can replace it with Boots of Travel or Phase boots.",
+				"hand_of_midas":"Purchase it only if you are able to have it at the first 6 minutes. Otherwise, procceed to Power Treads",
+				"sheepstick":"Exellent choice paired with the Euls or Force Staff, provides more reliable disabling against heavy carries.",
+				"orchid":"An item that will further increase the kill-combo Sunstrike-Meteor-Blast, by adding 30% more dmg to that target. ",
+				"cyclone":"Much needed m.speed bonus, and the abiliy to instakill weak heroes with the Sun-Meteor-Blast combo.",
+				"force_staff":"Positioning yourself or pushing enemies into sunstrikes and icewalls, this is a great choice and provides mobility which invoker lacks early game.",
+				"necronomicon":"When you need extra pushing power, this will chop down tower with your forged spirits pretty fast.",
+				"ultimate_scepter":"If you game tends to be needing more spells than the combo late game, purchase it.",
+				"refresher":"For heavy teamfight damage, this will increase your teamfight presense quite a lot.",
+				"sphere":"You'll know if you need this :P",
+				"mjollnir":"When your role tends more to semi-carry, this will provide the attack speed you are lacking and with alacrity buff on you will deal lots of dmg.",
+				"medallion_of_courage":"Your early mass exort and 1 or 2 forged spirits with this will make enemies melt down from your dmg."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_exort",
+			"5":"invoker_exort",
+			"6":"invoker_wex",
+			"7":"invoker_invoke",
+			"8":"invoker_exort",
+			"9":"invoker_exort",
+			"10":"invoker_quas",
+			"11":"invoker_exort",
+			"12":"invoker_invoke",
+			"13":"invoker_exort",
+			"14":"invoker_quas",
+			"15":"invoker_quas",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_wex",
+			"21":"invoker_wex",
+			"22":"invoker_wex",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_cold_snap":"Even with lvl 1 quas, at early levels it's quite good along with your insane auto attack damage.",
+				"invoker_alacrity":"While the atk speed bonus will be minimal at early levels, when attempting to get towers down, this will boost your damage a lot. Avoid it in combat if your other main spells are ready. Use it only if the other are already used.",
+				"invoker_chaos_meteor":"Insane damaging spell, use it when enemies are trying to get you, or when they are diasbled and together.",
+				"invoker_sun_strike":"Your primary killing tool. While last hitting at mid, pay attention to what your teammates or enemies do. Use any chance to kill them.",
+				"invoker_deafening_blast":"Combined with Chaos Meteor does excellent work. Damaging, disarming, and pushing them into the burning path of C.M."
+		}
+	}
+}

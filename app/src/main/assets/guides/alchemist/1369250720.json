@@ -1,0 +1,74 @@
+{
+	"Hero":"alchemist",
+	"Title":"GreyShark.Alchemist",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"invis_sword"
+			],
+			"Mid Game":
+			[
+				"mjollnir",
+				"black_king_bar",
+				"basher"
+			],
+			"Late Game":
+			[
+				"assault",
+				"greater_crit",
+				"abyssal_blade"
+			],
+			"Situation":
+			[
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_goblins_greed",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_unstable_concoction",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_goblins_greed",
+			"8":"alchemist_acid_spray",
+			"9":"alchemist_unstable_concoction",
+			"10":"alchemist_unstable_concoction",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_acid_spray",
+			"13":"alchemist_acid_spray",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

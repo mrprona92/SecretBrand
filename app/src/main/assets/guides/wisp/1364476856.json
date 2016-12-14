@@ -1,0 +1,99 @@
+{
+	"Hero":"wisp",
+	"Title":"Io, God tier support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"courier",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"magic_wand",
+				"boots"
+			],
+			"Early Core":
+			[
+				"headdress",
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"heart"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"dagon",
+				"shivas_guard",
+				"cyclone",
+				"ghost",
+				"black_king_bar",
+				"bottle"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Buy this if someone else buys courier.
+",
+				"magic_wand":"Use this on an ally who you tether as a last second save.",
+				"ghost":"Right click galore coming your way?",
+				"soul_ring":"Very useful Item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_spirits",
+			"4":"wisp_tether",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_overcharge",
+			"9":"wisp_tether",
+			"10":"wisp_tether",
+			"11":"wisp_relocate",
+			"12":"wisp_overcharge",
+			"13":"wisp_overcharge",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"wisp_tether":"Use this to escape (Tether to ally creep or heroes) or to catch up with the team. Position yourself well in a team fight so you can stun the enemy.
+
+Which ever regen you get (Salve) it will heal your ally aswell aslong as you are gaining health. Same for Mana (Soul Ring). ",
+				"wisp_spirits":"Make sure you pop your soul ring  then use this ability to harass/scout/kill your opponents.
+
+Takes a little time to get use to the adjusting.",
+				"wisp_overcharge":"Use this to reduce incoming damage to yourself and your ally also make sure you have this on your ally if he is taking damage or to increase his attack speed (huskar etc.)",
+				"wisp_relocate":"Save your allies, take allies back to base. Excellent for ganking lanes so you can turn a 2v2 at another lane to a 2v4 or 2v3."
+		}
+	}
+}

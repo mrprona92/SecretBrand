@@ -1,0 +1,91 @@
+{
+	"Hero":"juggernaut",
+	"Title":"Juggernaut Na'Vi RUS 6.82(NEW)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"magic_wand",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"bfury",
+				"butterfly",
+				"manta",
+				"desolator",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"travel_boots",
+				"heavens_halberd",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ultimate_scepter":"С этим предметом наш ульт может доставить много проблем противнику.",
+				"invis_sword":"Возможный, но не обязательный предмет для Джагера. Используется либо для внезапного ганга, либо при уходе из замеса, либо прожимается в связке BF+Барабаны+Shadow Blade.",
+				"ancient_janggo":"Барабаны используются сразу после активации Blade Fury. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"juggernaut_healing_ward",
+			"3":"juggernaut_blade_dance",
+			"4":"juggernaut_blade_fury",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_healing_ward",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_healing_ward",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Прокачиваем его на максимум в начале игры, при поздней игре используем только, когда надо избежать нападения.",
+				"juggernaut_healing_ward":"Хорошая хилка. На 2lvl прокачивается на 1 единицу и максится с 12lvl. Используется перед Blade Fury (Ставим вард, выделяем обоих, прожимаем BF и уходим с меньшим риском умереть.) Актуальна на всех стадиях игры.",
+				"juggernaut_blade_dance":"Криты. ",
+				"juggernaut_omni_slash":"Очень хороший ульт. При использовании персонаж может перепрыгивать с цели на цель (В том числе вражеские крипы).",
+				"attribute_bonus":"Атрибут бонус прокачивается на 15 и с 17 по 25."
+		}
+	}
+}

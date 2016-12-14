@@ -1,0 +1,1824 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sniper! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Snip_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sniper here! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Snip_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Take your best shot. I will. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Snip_spawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I come: Lock, stock and barrel. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Snip_spawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I call the shots around here. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Snip_spawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sniper here! Time for target practice. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/86/Snip_spawn_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beginning the Battle",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Time for target practice. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Snip_spawn_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeah, nyeh heh ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Snip_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Snip_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Snip_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Snip_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Snip_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Snip_move_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Snip_move_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Snip_move_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Snip_move_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah hah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Snip_move_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Snip_move_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/55/Snip_move_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm hm hm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5a/Snip_move_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sure as shootin\u0027! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Snip_move_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A new trajectory. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Snip_move_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Spotted! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ea/Snip_move_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Spot on! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Snip_move_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My spotter guides me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b7/Snip_move_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Line of sight. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ce/Snip_move_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As you say. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/53/Snip_move_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Snipe hunt! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Snip_move_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Full bore! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Snip_move_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Into the breach! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Snip_move_24.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Run and gun! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Snip_move_25.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Of course. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Snip_move_26.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Of course. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Snip_move_27.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My spotter directs. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Snip_move_28.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Spotted. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Snip_move_29.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Snip_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Trick shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Snip_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You die! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Snip_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Quick draw! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Snip_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This\u0027ll hurt. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Snip_attack_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Going ballistic. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Snip_attack_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Easy shot. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Snip_attack_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shoot em up! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/79/Snip_attack_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Take this! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Snip_attack_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gunpowder justice. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7f/Snip_attack_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Center of mass. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/37/Snip_attack_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Snipin\u0027! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Snip_attack_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Let\u0027s have a go at it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Snip_tf2_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My sights are set! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Snip_cast_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ready…aim… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Snip_cast_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Breathe your last! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Snip_cast_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Shrapnel",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shrapnel! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Snip_ability_shrapnel_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Snip_ability_shrapnel_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Assassinate",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Easy as shooting gnats. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Snip_ability_assass_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Spotted! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Snip_ability_assass_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Marked for death! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Snip_ability_assass_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Check it out! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/06/Snip_ability_assass_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing With Assassinate",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Boom headshot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Snip_ability_assass_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You got peeped! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c5/Snip_ability_assass_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You can run but you can\u0027t hide! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Snip_ability_assass_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Did ya see that? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Snip_ability_assass_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thanks for standing still, ganker! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Snip_tf2_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thanks for standing still, wanker! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Snip_tf2_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bullseye! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Snip_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Now that\u0027s what I call stoppin\u0027 power. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Snip_kill_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kill shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Snip_kill_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Parting shot--boom! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Snip_kill_13.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Missing/Failing to Kill with Assassinate",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Snip_ability_fail_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Doh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/86/Snip_ability_fail_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh what an idiot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Snip_ability_fail_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What the---? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Snip_ability_fail_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What a dud! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Snip_ability_fail_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " How did I miss that? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Snip_ability_fail_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh, I thought I had that for sure! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Snip_ability_fail_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I had that shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Snip_ability_fail_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My aim is truer than ever! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ae/Snip_level_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Steady up! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Snip_level_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ooh, more powder in my shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Snip_level_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Higher caliber! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Snip_level_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ooh, skills sharpened! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Snip_level_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Target practice, payin\u0027 off! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Snip_level_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Snip_level_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Snip_level_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hee hee ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Snip_level_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shot to hell! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Snip_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Takes one to shoot one. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Snip_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Aw, don\u0027t go off half-cocked. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Snip_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What a dum-dum! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Snip_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You make a great bullet catcher. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Snip_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your life\u0027s a flash in the pan. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Snip_kill_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That was your warning shot. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f1/Snip_kill_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Snip_kill_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hee hee hee hee hee hee hee hee hee hee! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Snip_kill_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gunfighting\u0027s tough without a gun, isn\u0027t it? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Snip_kill_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Picked em off. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Snip_ability_assass_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hoo hoo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Snip_ability_assass_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c3/Snip_ability_assass_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thanks for standing still. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Snip_tf2_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Say goodbye to your head! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Snip_tf2_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m polite and efficient. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Snip_tf2_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Rival",
+    "responses": [
+      {
+        "heroes": [
+          "windrunner"
+        ],
+        "items": [],
+        "title": " Oh, feather bullets! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Snip_kill_arrow_02.mp3"
+      },
+      {
+        "heroes": [
+          "clinkz"
+        ],
+        "items": [],
+        "title": " Heh, crummiest gun I\u0027ve ever seen. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Snip_kill_arrow_03.mp3"
+      },
+      {
+        "heroes": [
+          "drow_ranger"
+        ],
+        "items": [],
+        "title": " What\u0027s wrong, your string break? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Snip_kill_arrow_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Snip_kill_arrow_05.mp3"
+      },
+      {
+        "heroes": [
+          "lina"
+        ],
+        "items": [],
+        "title": " Get a gun, you\u0027ll live longer! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Snip_kill_arrow_06.mp3"
+      },
+      {
+        "heroes": [
+          "windrunner"
+        ],
+        "items": [],
+        "title": " Guns are the future, my friend! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Snip_kill_arrow_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Snip_kill_arrow_08.mp3"
+      },
+      {
+        "heroes": [
+          "riki"
+        ],
+        "items": [],
+        "title": " You pull a knife, I pull a gun. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Snip_kill_blade_02.mp3"
+      },
+      {
+        "heroes": [
+          "riki"
+        ],
+        "items": [],
+        "title": " Someone brought a knife to a gunfight! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Snip_kill_blade_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Snip_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A fistful of bullets! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Snip_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh a few bullets more! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f1/Snip_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " On target! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Snip_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gold for lead! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Snip_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eat lead! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Snip_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That\u0027s gonna sting! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5a/Snip_lasthit_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kill shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Snip_lasthit_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Body shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Snip_lasthit_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eat lead! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Snip_lasthit_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! Guh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Snip_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cheap shot…yuh… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/51/Snip_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You never hear the one that gets you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Snip_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Didn\u0027t think you had the brass! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Snip_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Powder burns…uh… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Snip_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A mortal wound… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7f/Snip_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My chamber is empty. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Snip_death_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A parting shot. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Snip_death_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I go out guns blazing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a4/Snip_death_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Through and through… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Snip_death_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Aw sheeeee-oooot. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Snip_death_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Exit wound… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Snip_death_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Inconceivable! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Snip_kill_blade_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That was a hell of a recoil. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Snip_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, reloaded. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Snip_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Another shot at victory. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Snip_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh, back at the shooting gallery. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Snip_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll stick to my guns. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Snip_respawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The shooting star returns! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Snip_respawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Don\u0027t shoot, it\u0027s me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Snip_respawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Return fire! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Snip_respawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm hm hm, my trigger finger\u0027s itching for vengeance! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Snip_respawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Never could resist a long shot. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Snip_respawn_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sniper reloaded! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Snip_respawn_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rare",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " There\u0027s not much wrong that killing you wouldn\u0027t fix. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Snip_rare_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Killing is the last resort, true. But the other resorts don\u0027t even have a pool. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Snip_rare_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dying is easy. Here, let me show you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Snip_rare_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Why am I smiling? This is what trigger-happy looks like. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7f/Snip_rare_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Professionals have standards. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b4/Snip_tf2_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As long as there are two heroes left on the battlefield, someone is gonna want someone dead. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Snip_tf2_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Didn\u0027t come cheap. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Snip_purch_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Worth its weight in bullets ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Snip_purch_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, this will come in handy. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Snip_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Snip_scepter_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Scepter for a sniper. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Snip_scepter_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink dagger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Snip_blink_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink and you\u0027ll miss it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Snip_blink_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "manta"
+        ],
+        "title": " Oh, Manta! Hee hee hee hee! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Snip_manta_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "manta"
+        ],
+        "title": " Oh, Manta! Ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Snip_manta_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "manta"
+        ],
+        "title": " Firing squad! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Snip_manta_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "desolator"
+        ],
+        "title": " Oh, Desolator! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Snip_deso_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "desolator"
+        ],
+        "title": " Ah, Desolator! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Snip_deso_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "desolator"
+        ],
+        "title": " Hm hm, armor piercing! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Snip_deso_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "assault"
+        ],
+        "title": " It\u0027s sort of a full metal jacket. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Snip_purch_armor_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Saved for later. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Snip_bottle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This will come in handy. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Snip_bottle_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Just in case. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Snip_bottle_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Jarate! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Snip_bottle_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1d/Snip_deny_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Snip_deny_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Snip_deny_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Snip_deny_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not by a long shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dc/Snip_deny_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not for you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4f/Snip_deny_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No no no! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Snip_deny_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh heh heh heh ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Snip_deny_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hee hee hee hee hee hee hee! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Snip_deny_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Snip_deny_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Snip_ability_assass_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ha\u0026nbsp;! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Snip_ability_assass_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Noooo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f1/Snip_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defeated! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Snip_lose_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dah! There goes the whole shootin\u0027 match! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Snip_lose_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Snip_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Victory! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Snip_win_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " He shoots, he scores! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Snip_win_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding Common Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Snip_happy_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding Medium Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh, how cute! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4d/Snip_kill_arrow_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding Rare Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heyeah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Snip_happy_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Snip_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha, bullet proof! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Snip_immort_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Using Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hee hee hee hee hee hee hee hee hee hee! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Snip_laugh_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/73/Snip_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Off like a shot! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Snip_haste_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Snip_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double action! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Snip_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Snip_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fixed my sights! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Snip_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b7/Snip_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Parallax! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Snip_illus_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Snip_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of visual range! He he he he! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Snip_invis_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, this will come in handy. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Snip_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c6/Snip_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Snip_notyet_01a.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Snip_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cb/Snip_notyet_02a.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Snip_notyet_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Snip_notyet_03a.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ce/Snip_notyet_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Snip_notyet_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8c/Snip_notyet_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Snip_notyet_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/55/Snip_notyet_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Snip_notyet_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Snip_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Snip_nomana_01a.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Snip_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Snip_nomana_02a.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Snip_nomana_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Snip_nomana_03a.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Snip_nomana_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d1/Snip_nomana_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Snip_nomana_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Snip_nomana_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Snip_nomana_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Snip_nomana_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027re jumping the gun. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Snip_nomana_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thanks! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Snip_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I owe ya one. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Snip_thanks_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming Under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m under attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Snip_underattack_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is in the bag! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Snip_inthebag_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is in the bag! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Snip_inthebag_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shitty Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shitty wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Snip_shitwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Crummy Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Crummy wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Snip_crumwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pain",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Erk! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Snip_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Doh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Snip_pain_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Snip_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eeh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Snip_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Snip_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Snip_pain_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tak! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Snip_pain_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Snip_pain_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eeh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Snip_pain_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Unh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Snip_anger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dope! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Snip_anger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gad! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b4/Snip_anger_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Doh jah fft! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Snip_anger_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Snip_anger_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grrrrr! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/26/Snip_anger_06.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Snip_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Snip_happy_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heyeah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Snip_happy_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ho ho haw! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Snip_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh heh heh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Snip_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Snip_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh heh hee hee hee. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Snip_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho ho! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Snip_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Snip_laugh_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Snip_laugh_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hee hee hee hee hee hee hee hee hee hee! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Snip_laugh_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hoo hoo hoo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/72/Snip_laugh_09.mp3"
+      }
+    ]
+  }
+]

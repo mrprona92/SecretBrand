@@ -1,0 +1,111 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Crystal Maiden - true sapport (UA)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"ward_observer",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_wand",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"phase_boots",
+				"mekansm",
+				"blink",
+				"invis_sword"
+			],
+			"Что-то одно":
+			[
+				"black_king_bar",
+				"ghost"
+			],
+			"luxury":
+			[
+				"dust",
+				"smoke_of_deceit",
+				"gem",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger даст вам возможность ворваться в центр схватки и дать ultimate.",
+				"branches":"Небольшая прибавка к атрибутам.",
+				"boots":"Сначала Crystal Maiden очень медленный герой, ей необходимо прибавление к скорости.",
+				"magic_wand":"Не надо недооценивать Magic Wand. Иногда этот предмет может спасти вам жизнь. Приоритетно его необходимо использовать тогда, когда у вас мало хп/манны и вы уходите от противника.",
+				"ghost":"Покупайте, если против вас играют персонажи, способные хорошо напинать от руки. Активируем перед тем, как использовать Ultimate, или если нужно свалить.",
+				"clarity":"На всякий случай.",
+				"flask":"На всякий случай.",
+				"ward_observer":"В начале вардим обе руны. Если вы играете со своей командой, или вы уверены в скиле людей, с которыми вас забросило - вардите только одну. На поздних стадиях игры необходимо использовать для видимости на определённых участках.",
+				"tango":"На всякий случай.",
+				"courier":"Обязанность каждого саппорта.",
+				"phase_boots":"Лишний урон и прибавка к скорости вам не помешает. Также Phase Boots помогут вам догнать и застанить противника.",
+				"bracer":"Отличная прибавка к атрибутам, потом он превратится Drum Of Endurance. ",
+				"mekansm":"Нет ничего лучше чтобы быстро отхилить себя и союзников.",
+				"flying_courier":"Обязанность каждого саппорта.",
+				"urn_of_shadows":"Urn of Shadows позволит вам отхилить себя и союзников.",
+				"force_staff":"Force Staff можно использовать для того, чтобы быстро оказаться за спиной врага и дать ульту, или для толчка союзника/себя во время отхода.",
+				"black_king_bar":"BKB нужно брать, если против вас играют сильные нюкеры. Активыруем перед использованием Ultimate.",
+				"invis_sword":"Shadow Blade даст вам прибавку к скорости и возможность уйти от врага + его можно использовать для то, чтобы незаметно зайти за спину врага, или в центр битвы и использовать ульт.",
+				"ancient_janggo":"Полезный предмет при разрушении вражеских строений, отходов, или наступления. При активации даёт плюс к скорости передвежения и к скорости атаки вам и вашим союзникам."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_frostbite",
+			"2":"crystal_maiden_crystal_nova",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_frostbite",
+			"5":"crystal_maiden_crystal_nova",
+			"6":"crystal_maiden_freezing_field",
+			"7":"crystal_maiden_brilliance_aura",
+			"8":"crystal_maiden_frostbite",
+			"9":"crystal_maiden_crystal_nova",
+			"10":"crystal_maiden_frostbite",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_crystal_nova",
+			"13":"crystal_maiden_brilliance_aura",
+			"14":"crystal_maiden_brilliance_aura",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"На начальных стадиях игры этой способностью можно будет отпугивать противников. Также она даёт замедление, это полезно когда противник пытается сбежать.",
+				"crystal_maiden_frostbite":"Поможет вам спасти союзника, или застанить противника в схватке.",
+				"crystal_maiden_brilliance_aura":"Всем маны! :)",
+				"crystal_maiden_freezing_field":"Я её использую только тогда, когда кери ничего не могут сделать, или в начале замеса. Учтите, что у неё есть свой радиус и желательно сначала использовать 1ю способность дабы замедлить врагов, а для \"особо буйных\" нужно использовать стан (2ю). С чем её использовать написано в описании к вещам.",
+				"attribute_bonus":"Ну а куда ещё? :)"
+		}
+	}
+}

@@ -1,0 +1,91 @@
+{
+	"Hero":"naga_siren",
+	"Title":"[DMX] Naga Siren (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"ring_of_aquila",
+				"vanguard",
+				"diffusal_blade",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"manta",
+				"heart",
+				"butterfly",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"assault",
+				"poor_mans_shield",
+				"power_treads",
+				"arcane_boots",
+				"greater_crit"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_ensnare",
+			"2":"naga_siren_mirror_image",
+			"3":"naga_siren_rip_tide",
+			"4":"naga_siren_rip_tide",
+			"5":"naga_siren_rip_tide",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_rip_tide",
+			"8":"naga_siren_ensnare",
+			"9":"naga_siren_ensnare",
+			"10":"naga_siren_ensnare",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_mirror_image",
+			"13":"naga_siren_mirror_image",
+			"14":"naga_siren_mirror_image",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Cette compétence augmente très largement votre dps et vous permet de tuer vos ennemis ou de push les tours très vite.",
+				"naga_siren_ensnare":"Ce sort est votre disable principal, il vous permet de fuir d’un ennemi un peu trop aggressif ou au contraire d’immobiliser une cible afin de la tuer.",
+				"naga_siren_rip_tide":"Cette compétence est parfaite pour slithice car elle ajoute un burst non négligeable et le malus armure lui permet d’augmenter significativement ses dégats.",
+				"naga_siren_song_of_the_siren":"Song of the siren est parfait pour vous échapper lorsque vous faîtes face à trop d’ennemis, il peut permettre de sauver votre team qui est en mauvaise position lors d’un teamfight ou au contraire il peut servir a engager le teamfight !"
+		}
+	}
+}

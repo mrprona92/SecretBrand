@@ -1,0 +1,91 @@
+{
+	"Hero":"shredder",
+	"Title":"Timbersaw - Durable Build Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"dagon"
+			],
+			"luxury":
+			[
+				"blade_mail"
+			],
+			"Advanced Items":
+			[
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Stacks charges of 15 HP and Mana when enemies use spells near you, which can be used later any time you want, up to 15 stacks. Very useful during fights.",
+				"dagon":"Shoots brust damage, upgradable.",
+				"shivas_guard":"Creates an ice wave that slows movement speed. Passively reduces attack speed on enemies. Should be used at the beginning of the fight.",
+				"bloodstone":"Gives HP and Mana points and regeneration. The more charges you have, the more Mana regeneration you get. If you die, you lose charges. If you stand near enemy that died, you get 1 charge. If you die, nearby allies are healed.",
+				"blade_mail":"While activated, any damage you recieve is mirrored to the enemy who damaged you.
+Should be used at the early stages of the fight.",
+				"arcane_boots":"Gives you and nearby allies 135 Mana."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_reactive_armor",
+			"2":"shredder_timber_chain",
+			"3":"shredder_reactive_armor",
+			"4":"shredder_timber_chain",
+			"5":"shredder_whirling_death",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_timber_chain",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_whirling_death",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Damages nearby enemies and reduces 15% of their primary attribute for 7 seconds. Pure damage is dealt if a tree is cut in the process.
+",
+				"shredder_timber_chain":"Shoots a chain that drags you to the first tree it hits. Damages all enemy units in its path.
+Can be used to escape and initiate.",
+				"shredder_reactive_armor":"Gives you 1 HP regeneration and 1 armor each time you are attacked, up to 16 stacks.
+If you don't have enough HP, find some weak creeps and let them attack you, it will help you regenerate your HP.",
+				"shredder_chakram":"Creates a spinning blade. Enemies caught in it recieve damage and being slowed, the less HP they have, the slower they run. Deals pass damage when fired and retracted. Cost Mana per second. When activated, you can't use physical attacks.
+",
+				"shredder_return_chakram":"Returns the CHAKRAM and deals pass damage."
+		}
+	}
+}

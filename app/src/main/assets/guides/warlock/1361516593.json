@@ -1,0 +1,102 @@
+{
+	"Hero":"warlock",
+	"Title":"[DMX] Warlock - Support (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"soul_ring",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"hood_of_defiance",
+				"pipe",
+				"veil_of_discord",
+				"necronomicon",
+				"ward_sentry",
+				"blade_of_alacrity"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"warlock_fatal_bonds",
+			"3":"warlock_shadow_word",
+			"4":"warlock_fatal_bonds",
+			"5":"warlock_shadow_word",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_shadow_word",
+			"8":"warlock_fatal_bonds",
+			"9":"warlock_fatal_bonds",
+			"10":"warlock_upheaval",
+			"11":"warlock_rain_of_chaos",
+			"12":"warlock_upheaval",
+			"13":"warlock_upheaval",
+			"14":"warlock_upheaval",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"Un sort très pratique pour harass votre adversaire, essayez de le link aux plus de creeps possible.",
+				"warlock_shadow_word":"Un heal ou un DoT en fonction de votre utilisation.
+Très pratique pour vous sustain en lane.",
+				"warlock_upheaval":"Un ralentissement de zone très fort, mais qui demande un bon positionnement pour ne pas se faire annuler.",
+				"warlock_rain_of_chaos":"L'un des meilleurs ultimate pour contre engager et temporiser lors des teamfights."
+		}
+	}
+}

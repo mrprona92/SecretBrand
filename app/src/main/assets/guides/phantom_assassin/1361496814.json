@@ -1,0 +1,123 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"How to win with Phantom Assassin. (6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"poor_mans_shield",
+				"boots",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bfury",
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"hyperstone"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"monkey_king_bar",
+				"assault",
+				"butterfly",
+				"basher",
+				"travel_boots",
+				"ancient_janggo",
+				"satanic",
+				"armlet"
+			],
+			"Ganker alternative core (Bleh)":
+			[
+				"phase_boots",
+				"black_king_bar",
+				"desolator",
+				"vladmir",
+				"urn_of_shadows",
+				"basher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Helps you survive early game, 20 damage blocked
+makes enemy harassment much less effective.",
+				"branches":"Best item ever.",
+				"boots":"Get whenever you have the free gold, builds into phase boots later.",
+				"magic_wand":"Frees up some inventory space by compacting the iron branches, let the charges build up until you need the health or mana to survive an enemy encounter.",
+				"flask":"Survivability. helps you get back into lane quickly when you are really low on health. ",
+				"tango":"Pretty standard, helps you not become first blood. Use whenever you are hurting.",
+				"travel_boots":"Late game, really helps with splitpushing.",
+				"phase_boots":"Adds in much needed damage and helps you catch enemies in team fights while avoiding ganks.",
+				"hyperstone":"Pick this up after you have gotten your other core items. More attack speed = more hits = more crits = gg. ",
+				"ring_of_health":"Regen will help you throughout the game, builds into perserverance and later into BattleFury. Get before boots if you desperately need the survivability.",
+				"poor_mans_shield":"The extra 6 agility will help you with last hitting in lane. If you are dominating your lane you could probably skip and go into your core items.",
+				"vladmir":"You can substitute Vlads with HOD if there is one or more melee heros on your team who would really benifit from this. Don't bother getting this if you have an Ursa or a Lycan on your team as they will need it over you.",
+				"assault":"Get this after your core items if the game still isn't over, which it probably will be. Get it earlier if someone else is carrying the team instead of you. (I.E. Douchemcgee last picked void.) ",
+				"black_king_bar":"Especially worth getting if the enemy team has a lot of crowd control. Pop before a team fight, this combined with lifesteal and battlefury and you should be able to wreck the enemy team without much fear.",
+				"monkey_king_bar":"Bash stacks with your crit. worth getting if the enemy carry has a butterfly. Definitely worth getting if you aren't getting a battlefury.",
+				"butterfly":"Worth picking up if you are snowballing pretty well and the enemy carry won't be picking up an mkb any time soon. (I.E. Morphlng) Agi gain is great, Evasion is ridiculous at this point and combined with bkb you are pretty much immortal.",
+				"basher":"This is good if you need the lockdown, can build into abyssal later on. I usually don't bother with basher unless there is an enemy hard carry I want to counter late game.",
+				"bfury":"Cleave + Crits = ownage. Get if you are planning on being a hard carry, improves your farming abilities greatly while increasing damage. If your team needs you early on in team fights it might be better to skip this item since you won't be doing as much farming.",
+				"armlet":"Cheap alternative if you aren't doing great on farm.",
+				"satanic":"Lategame possibility, upgrade HOD.",
+				"helm_of_the_dominator":"Helps you stack creep waves which you can quickly farm with battlefury. Lifesteal will help you survive team fights since a crit will heal a large amount of health for you. If your team is hurting in team fights early on it may be best to go right into bkb. ",
+				"ancient_janggo":"If you aren't doing too great on farm drums is for nice cheap stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Use it to last hit creeps from a distance, try to resist using it until you have put at least two levels into it since it will be difficult to last hit at level 1 and you will waste mana that you will need later on. Don't bother using it to harass heros, it doesn't do enough damage.",
+				"phantom_assassin_phantom_strike":"Get this first in case of an early gank attempt on you, you can easily blink out and escape. Helps with chasing, first use your dagger and then blink in while it is flying towards your target that way you will get all 4 hits in before they can escape.",
+				"phantom_assassin_blur":"If you are really hurting in lane you may want to get more levels in it earlier on. You can also delay getting it at level 4 if you need the blink leveled up over the evasion. 40% evasion at max level now.",
+				"phantom_assassin_coup_de_grace":"Plug in ult, it defines you."
+		}
+	}
+}

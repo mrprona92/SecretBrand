@@ -1,0 +1,109 @@
+{
+	"Hero":"shredder",
+	"Title":"Poodka's Solo-Mid Timber",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Mana Solvers":
+			[
+				"bottle",
+				"arcane_boots",
+				"magic_wand"
+			],
+			"Bloodstone OP":
+			[
+				"bloodstone"
+			],
+			"Luxuries":
+			[
+				"blink",
+				"shivas_guard",
+				"rod_of_atos",
+				"dagon",
+				"heart",
+				"pipe",
+				"travel_boots"
+			],
+			"Ultra Lategame":
+			[
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger is often overlooked on Timbersaw because his Chain Hook has such a short cooldown it can be used to both initiate, chase, and then eventually escape. However, no matter how you slice things (no pun intended), your opponents will get wise and make proper Chain initiations difficult.",
+				"bottle":"Bottle is pretty important when going solo mid, however it CAN be skipped in favor of faster Arcane Boots. For instance, against heroes like Queen of Pain - you're never going to get the Rune because she can blink.",
+				"pipe":"Timber's only real weakness is that he can be very susceptible to magic damage. Pipe can be essential against certain line ups.",
+				"dagon":"Dagon is another overlooked item on Timber. I feel that there are better choices, but if you're already snowballing really hard a Dagon can be brutal as weakened opponents move slower in your Sawblades.
+
+Timbersaw loses a lot of his effectiveness lategame, so you might as well go all or nothing.",
+				"heart":"Heart is amazing on Timber because it just adds to the invincibility factor when stacked heavily with armor.",
+				"shivas_guard":"Shivas is respectable due to the slow, which is much needed, and the armor which makes you nearly invincible to auto attacks and tower hits until late-game.
+
+On the flipside, I feel the intelligence gain is unnecessary considering Bloodstone gives you an almost endless source of Mana.",
+				"bloodstone":"Timbersaw is essentially a snowball hero that relies heavily on Mana. The faster you get your Bloodstone, the sooner you can build charges. If Timbersaw doesn't get much progress done early-game, he'll be weak mid-game and useless later on.",
+				"blade_mail":"If you've already built a heart, then Blade Mail can be a great late-game asset.",
+				"arcane_boots":"Get these as soon as you can.
+Timbersaw has huge mana problems, no other boot will suffice.
+
+You can also Break up the Arcane Boots to make your Bloodstone faster, too.",
+				"rod_of_atos":"Atos adds extra HP, which is great, and gives you an amazing single-target slow. It can be very useful against certain line-ups to keep them trapped in your ultimate. When an enemy is at about half HP, slowed by Saws and Atos -- they aren't going anywhere."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_reactive_armor",
+			"2":"shredder_whirling_death",
+			"3":"shredder_whirling_death",
+			"4":"shredder_timber_chain",
+			"5":"shredder_whirling_death",
+			"6":"shredder_chakram",
+			"7":"shredder_whirling_death",
+			"8":"shredder_timber_chain",
+			"9":"shredder_timber_chain",
+			"10":"shredder_timber_chain",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Whirling Blade is maxed instead of Chain Hook because it will be your primary source of Harassment while in Solo Mid.",
+				"shredder_timber_chain":"At level 4 you can take your first point of Chain Hook, or your second point of Reactive Armor.
+
+It depends on difficult the lane is. Against heavy harassment, you'll definitely want more Armor.",
+				"shredder_reactive_armor":"Reactive Armor should be taken as your first point to allow you to survive in the lane. Right-click on an enemy hero to aggro creeps to you. When those creeps hit you, immediately back away.
+
+As a result, you'll get a full stack of charges on your Reactive Armor and get free healing.",
+				"shredder_chakram":"Your ultimate is an incredible skill when used properly. Don't be afraid to spam it to harass the enemy early game, given you have enough Mana to do so."
+		}
+	}
+}

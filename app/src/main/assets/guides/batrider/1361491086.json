@@ -1,0 +1,107 @@
+{
+	"Hero":"batrider",
+	"Title":"Playing Batrider as an initiator [Mid Lane Build]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_stick",
+				"magic_wand"
+			],
+			"Situational midgame items":
+			[
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"blink",
+				"power_treads",
+				"force_staff"
+			],
+			"Situational Core Items":
+			[
+				"hood_of_defiance"
+			],
+			"Lategame choices":
+			[
+				"heart",
+				"pipe",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The number one item needed as batrider. Once you get your blink dagger you're a completely different hero.
+
+To initiate a fight, first activate firefly. Next, blink next to the target you want to lock down and ult them. Drag them away into your team to take them down.",
+				"branches":"Two or three branches at the start for some bonus stats. Last hitting isn't hard with sticky napalm, and you need 600 gold for your bottle by about 1:30 gametime so that you can take the two minute rune",
+				"boots":"I like to pick up boots and my magic stick in the same courier run, so after you get your bottle farm up the 650 gold and grab them both.",
+				"magic_stick":"Grab a stick with your boots.",
+				"magic_wand":"Depending on how the game is shaping up I grab an early wand. It gives you a small bump in stats, frees up some item slots, and gives you a bigger burst heal.",
+				"bottle":"Bottle is a great choice for bat and you want it as quickly as possible. Flamebreak and sticky napalm lets you beat almost anyone to the runes, and if you get an early haste it's almost guaranteed to be a double kill on one of your sidelanes.",
+				"tango":"One set of tangos for early regen, as we want a bottle for the 2 minute rune.",
+				"power_treads":"Treads give you the bonus hp that you need to survive jumping into fights with your initiation combo.
+
+If you're farming well early, grab your blink dagger first. However, if you've died or fallen behind in other ways, pick up treads to help you survive to farm a blink dagger.",
+				"pipe":"If nobody has a pipe on your team yet, you're a good person to pick one up. As you generally control the initiation, just activate it before blinking in and lassoing one of their heros away.",
+				"urn_of_shadows":"If nobody else on your team is buying an urn it can be a decent pickup on bat. You want to be involved in every teamfight, so you'll get a lot of charges very quickly.",
+				"force_staff":"Force staff is the key to maintaining your effectiveness as bat into the lategame. Once you have a force staff, you can blink in, lasso a hero, then immediately force staff away to pull them further out of position. Remember, use blink to get into fights and force staff to get away.",
+				"heart":"Heart gives bat the survivability he needs to continue recklessly initiating in the lategame. You're never going to be a right click carry late, so just focus on improving your survivability.",
+				"shivas_guard":"If they have a team with mostly physical damage, shivas can be a good choice. You'll get to slow their whole team during your initiation and the armor will let you last longer in fights.",
+				"hood_of_defiance":"If the enemy team has a lot of magic damage, a hood is a great pickup on bat. It gives him regen to lane and jungle between teamfights, and lets him survive nukes after jumping in to initiate. Finish your blink dagger and treads before picking one of these up, if you need it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_sticky_napalm",
+			"2":"batrider_firefly",
+			"3":"batrider_flamebreak",
+			"4":"batrider_firefly",
+			"5":"batrider_firefly",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_firefly",
+			"8":"batrider_flamebreak",
+			"9":"batrider_flamebreak",
+			"10":"batrider_flamebreak",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_sticky_napalm",
+			"13":"batrider_sticky_napalm",
+			"14":"batrider_sticky_napalm",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":"Sticky napalm is how you win your lane. Early game you want to be spamming sticky napalm on the enemy hero to build up stacks. Each stack of napalm makes your autoattack deal bonus damage, as well as making them turn slower. A couple of right clicks will deal massive damage early with enough stacks.",
+				"batrider_flamebreak":"Flamebreak is a situational ability. It counts as a stun, so I pick up an early point to cancel the TP's of fleeing heroes. Use it to push enemy gankers away from your team, and fleeing enemies away from their towers back into the fire. At higher levels it does decent aoe damage at long range.",
+				"batrider_firefly":"Firefly is the core of batrider's skillset. It's incredibly versatile, letting you initiate over cliffs, escape from ganks, farm the jungle, and kill your opponents. In 1v1 fights keep spamming sticky napalm while walking on top of your enemy to keep them in the fire. I max this ability first.",
+				"batrider_flaming_lasso":"Flaming lasso allows you to disable and drag people away from their team even if they have a bkb active. If your team is around when you attack, just pull the target as far as you can to them. If you're alone, I like to spam sticky napalm for extra firefly damage. Remember to turn on firefly first!",
+				"attribute_bonus":"Bonus stats are good, but batrider's abilities are all so core that I skip them until everything else is maxed out."
+		}
+	}
+}

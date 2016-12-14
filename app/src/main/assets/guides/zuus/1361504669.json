@@ -1,0 +1,121 @@
+{
+	"Hero":"zuus",
+	"Title":"Zeus - Mid or Feed | PT-BR",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"ward_observer",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"ultimate_scepter",
+				"veil_of_discord",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"cyclone",
+				"ghost",
+				"soul_ring",
+				"travel_boots"
+			],
+			"Itens de Luxo":
+			[
+				"sheepstick",
+				"refresher",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A chave de jogar com Zeus é posicionamento e o gerenciamento de mana. Dagger é seu meio de se posicionar com perfeição. Além de garantir um mecanismo de fuga ou perseguição.",
+				"branches":"São galhos, você precisa deles.",
+				"magic_wand":"Esse item é perfeito pra todo heroi. Domine o uso dele. Garante sempre uma skill a mais, uma escapada impossível e dá sustento extra durante uma Teambattle.",
+				"ghost":"Compre quando estiver sendo muito focado por inimigos com um dano físico intenso.",
+				"clarity":"Essa mágica bebida fornecedora da mana vai permitir o uso constante de Arc para farmar um Bottle rápido e um harass inicial no inimigo.",
+				"flask":"Uma regeneração básica de HP em caso de você estar contra alguém mais agressivo do que você.",
+				"bottle":"Como esse guia visa o Solo Mid um bottle é essencial para sustentar você na lane e te dar um maior leque de opções para quando você for gankar as lanes laterais. Lembre-se de usar rebottle com a galinha em caso de o adversário te surrar no controle de runas.",
+				"ward_observer":"Você precisa de duas visões iniciais. A de cima da rampa do adversário e de uma das runas. Mesmo que o support compre wards ele provavelmente usará uma delas para runa (o que te poupa uma ward) e outra para proteger safelane ou bloquear neutrals. Peça para que comprem pra você caso for possível.",
+				"tpscroll":"Colega, sempre tenha um TP. Sempre.",
+				"travel_boots":"Substituto para sua botinha de mana assim que for necessário. Ou dependendo pode ser feita no início ou meio do jogo caso seu time esteja fazendo uma estratégia organizada de ganks/push.",
+				"sheepstick":"Um dos melhores itens do jogo. Garante um disable potente e dá muitos benefícios no que se trata de mana. Pode virar a maré de muitas batalhas, mas é caro.",
+				"cyclone":"Regen de mana muito bom, um método de disable e de escape. Quando aliado com uma Dagger permite que você fuja das ganks mais mirabolantes.",
+				"force_staff":"Uma alternativa para a Dagger, tem quase o mesmo preço final mas é construída em partes, ou seja, em caso de problemas com Gold é uma boa opção.",
+				"ultimate_scepter":"Os benefícios de HP/Mana são muito bem vindos. Mas a forma como este item melhora seu ultimate é o motivo básico pelo qual ele é feito. ",
+				"refresher":"Combinado com Aghanins isso faz QUALQUER herói sem bloqueio/resistência mágica sofrer. Cuidado com o custo de mana para efetuar seu combo completo.",
+				"bloodstone":"Regen de Mana e HP absurda. Além de que vai garantir muitas cargas se for feito cedo, já que o Zeus é um heroi que costuma ter muitas kills, mas é mais uma opção em caso de você querer variar um pouco o jogo ou dar uma descontraída. Seu custo/benefício deixa ele pior do que seus itens essenciais.",
+				"soul_ring":"Muitos bons jogadores de Zeus como Merlini fazem uso constante deste item. Ele garante um sustento de Mana muito forte no começo do jogo.",
+				"arcane_boots":"Mana pool e sustento. Não tem como trocar por outra bota. Ela pode ser farmada rapidamente e garantir seu early-mid.",
+				"veil_of_discord":"Apesar de não parecer tão essencial, com este item você pode prolongar sua utilidade nas batalhas finais do jogo e deixar a vida dos inimigos com Hood/Pipe of Insight um pouco menos tranquila."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Na fase de lanes essa é sua ferramenta de farm e harass. O hit comum do Zeus é um pouco ruim e tem range curta. Somando isso com sua fragilidade você se torna um heroi fácil de matar. Use o hit normal SEMPRE que for possível com segurança e o Arc para garantir lasthits sem entrar em perigo.",
+				"zuus_lightning_bolt":"Nuke poderoso pro early-mid que dá visão e revela unidades invisíveis numa área boa. Fique atento ao seu cooldown, durante uma perseguição é melhor esperar um pouco para dar um Bolt do que usar um Arc e perder visão. Uma dica de ouro é usar Bolt na creep ranged durante um push.",
+				"zuus_static_field":"Parece besteira, mas esse dano é a única coisa que não te transforma num completo inútil nos estágios finais do jogo. Além disso, somado ao Arc ele garante um harass mais eficiente na fase de lanes.",
+				"zuus_thundergods_wrath":"Cooldown baixo, custo de mana alto, dano violento e global. Essa skill tem basicamente 4 usos:
+
+-Finalizar inimigos com pouco HP (decore sempre os valores dela com redução de 25% para ter certeza da kill)
+
+-Cortar starts com Dagger de inimigos
+
+-Dar visão em momentos cruciais
+
+-Iniciar uma batalha",
+				"attribute_bonus":"No caso de falta de Mana/HP no mid game, bote alguns pontos aqui no lugar de aumentar o nível do seu Arc."
+		}
+	}
+}

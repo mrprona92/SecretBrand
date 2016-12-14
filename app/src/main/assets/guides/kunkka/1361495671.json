@@ -1,0 +1,91 @@
+{
+	"Hero":"kunkka",
+	"Title":"[DMX] Kunkka (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"invis_sword",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"black_king_bar",
+				"greater_crit",
+				"assault",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bfury",
+				"power_treads",
+				"vanguard"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_torrent",
+			"2":"kunkka_tidebringer",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_torrent",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_torrent",
+			"9":"kunkka_torrent",
+			"10":"kunkka_x_marks_the_spot",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_x_marks_the_spot",
+			"13":"kunkka_x_marks_the_spot",
+			"14":"kunkka_x_marks_the_spot",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"Un très bon contrôle de zone, mais qui reste assez difficile à placer. N'oubliez pas que vos adversaires seront ralentis après avoir été envoyé en l'air.",
+				"kunkka_tidebringer":"Ce passif vous permettra d'harass facilement vos adversaires si vous vous positionnez bien. Ce sort est également très pratique pour push/dépush les lanes. Attention, car en début de partie, pusher n'est pas forcément la meilleure idée !",
+				"kunkka_x_marks_the_spot":"Un disable assez marrant qui vous permettra de placer votre torrent à coup sur avec un peu d'entrainement.
+N'hésitez pas à l'utiliser sur un ennemi qui se téléporte pour le ramener à sa position initiale ! Vous pouvez également utiliser ce sort sur vos alliés.",
+				"kunkka_ghostship":"Très difficile à placer, ce sort n'en n'est pas moins un très bon skill AOE qui étourdira vos ennemis tout en leur infligeant de bons dégâts. essayez de le combiner avec votre torrent pour le placer plus aisément."
+		}
+	}
+}

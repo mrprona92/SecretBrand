@@ -1,0 +1,89 @@
+{
+	"Hero":"mirana",
+	"Title":"Ravn POTM utility build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"slippers",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"Early game":
+			[
+				"phase_boots",
+				"ring_of_aquila",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"manta"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"butterfly",
+				"diffusal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Start off with some basic attributes and some regen.",
+				"phase_boots":"With early phase and aquila you will have enough damage to kill 1v1.
+Stick will give you the remaining mana from charges!",
+				"greater_crit":"Buy whatever fits in your game. Mkb if they have evasion, crit of you lack damage and butter if they have a lot of physical damage.
+Or get an diffusual against omni (or just for the manaburn and purge).",
+				"ancient_janggo":"Drums is good overall, good attributes, attackspeed and movementspeed.
+Together with manta, these will give you some survivabilty."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_starfall",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_invis",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_arrow",
+			"11":"mirana_leap",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_invis",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"Remember to get as close to the target as possible to secure that extra strike!",
+				"mirana_arrow":"No need to explain this awesome spell!",
+				"mirana_leap":"Use leap to get close to a target for starstorm or to get away.",
+				"mirana_invis":"Really good for saving teammates or setting up teamfights or ganks."
+		}
+	}
+}

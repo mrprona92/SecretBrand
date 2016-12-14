@@ -1,0 +1,105 @@
+{
+	"Hero":"juggernaut",
+	"Title":"Carry Juggernaut",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"quelling_blade",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"vladmir",
+				"yasha",
+				"desolator"
+			],
+			"Late Game":
+			[
+				"manta",
+				"butterfly"
+			],
+			"Alternative":
+			[
+				"bfury",
+				"black_king_bar",
+				"ultimate_scepter",
+				"abyssal_blade",
+				"mjollnir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Helps you last hit and farm jungle.",
+				"slippers":"Gives you some more early damage.",
+				"boots":"Every hero needs boots to run faster.",
+				"flask":"Good heal when you are low.",
+				"tango":"Heals up after getting harassed.",
+				"phase_boots":"Allows you to move through units while spinning as well as giving you some more damage.",
+				"poor_mans_shield":"Makes you take less damage from harass.",
+				"vladmir":"Gives you a good aura and lifesteal.",
+				"ultimate_scepter":"Get this if your team has another carry and you need more magic damage.",
+				"black_king_bar":"Get this if getting stunned is a problem.",
+				"butterfly":"Gives tons of DPS and evasion.",
+				"bfury":"Get this if you will be farming and pushing a lot.",
+				"manta":"Illusions give you more damage and add some confusion.",
+				"mjollnir":"This will make you attack very fast and push well.",
+				"desolator":"Allows you to hit a lot harder.",
+				"yasha":"A good DPS item and makes you run faster.",
+				"abyssal_blade":"Get this if you need a stun."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"attribute_bonus",
+			"3":"juggernaut_blade_fury",
+			"4":"attribute_bonus",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_healing_ward",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_blade_dance",
+			"13":"juggernaut_blade_dance",
+			"14":"juggernaut_healing_ward",
+			"15":"juggernaut_healing_ward",
+			"16":"juggernaut_omni_slash",
+			"17":"juggernaut_healing_ward",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Does tons of damage early use it to get kills. Later on it will allow you to run since you are magic immune while spinning.",
+				"juggernaut_healing_ward":"One level gives enough heal for a while, use this to heal up the team.",
+				"juggernaut_blade_dance":"Not needed in lane so get this later once team fights start happening.",
+				"juggernaut_omni_slash":"This can kill heroes solo very well. Use it to start team fights or to kill heroes that you meet 1v1.",
+				"attribute_bonus":"Early levels of stats will allow you do more damage have more health and, give you enough Mana to use both Blade Fury and Omnislash at level 6."
+		}
+	}
+}

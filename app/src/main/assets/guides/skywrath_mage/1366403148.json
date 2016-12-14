@@ -1,0 +1,107 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"[DMX] Skywrath Mage - MID (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"rod_of_atos",
+				"tpscroll"
+			],
+			"Late game":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situational":
+			[
+				"cyclone",
+				"veil_of_discord",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Les iron branch vous permettront d'avoir un peu plus de stats tout en préparant l'achat de votre magic wand.",
+				"boots":"Les bottes vous permettront de ganker plus facilement les lanes.
+
+",
+				"magic_wand":"La magic wand est un excellent item qui vous apporte des stats et de la regen instantanée.",
+				"flask":"Cette salve vous permettra de vous guérir en attendant de farmer votre bottle.",
+				"bottle":"La bottle est un excellent item lorsque vous jouez au mid, car elle permet de vous régénérez efficacement sur la lane ou entre les ganks. De plus le contrôle des runes est essentiel au mid.",
+				"tpscroll":"Ayez toujours un parchemin de téléportation sur vous pour pouvoir fuir ou aider vos alliés.",
+				"travel_boots":"Les boots of travel sont les bottes les plus viables en late game, remplacez donc vos bottes de début de partie par celles-ci.",
+				"sheepstick":"Le scythe of vyse reste le meilleur item de late game pour skyywrath mage, lui apportant des stats, beaucoup d’intelligence et un énorme disable... cependant il coûte très cher !",
+				"cyclone":"Le Eu’ls est un bon item si vous n’arrivez pas à amasser beaucoup d’argent. Il vous offre un bon disable qui peut vous permettre de placer très facilement votre ultimate.",
+				"force_staff":"Le forcestaff donne de la mobilité à skywrath mage, le héros ne possédant pas d’escape naturelle, cet item lui permet d’accroître significativement sa survavibilité tout en lui apportant un boost d’intelligence intéressant.",
+				"shivas_guard":"La shiva’s guard est bien adaptée à votre héros car ce dernier manque énormément d’armure. De plus l’intelligence apportée est toujours bonne à prendre et l’actif de l’item vous donnera un contrôle supplémentaire intéressant.",
+				"ethereal_blade":"Etheral blade est très difficile à farmer mais ell  augmentera vos dégâts de façon significative tout en vous fournissant une protection contre les dps physiques.",
+				"arcane_boots":"Les arcanes boots vous offriront un pool de mana supplémentaire vraiment intéressant, car votre ultimate coûte très cher en mana. De plus la regen de mana apportée par les bottes vous permettra de ne pas être à court de mana lorsque vous gankez.",
+				"veil_of_discord":"Le veil of discord vous permet d’augementer votre armure, ce qui est bon sur skywrath mage, de plus l’item se combine bien avec votre “ancient seal” pour encore plus de dommages.",
+				"rod_of_atos":"Le rod of atos est parfait pour skywrath mage car il lui offre de l’intelligence et des hp : les deux statistiques essentielles pour votre héros. De plus l’actif vous permettra de placer beaucoup plus facilement votre ultimate."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_concussive_shot",
+			"2":"skywrath_mage_arcane_bolt",
+			"3":"skywrath_mage_ancient_seal",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_ancient_seal",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_ancient_seal",
+			"8":"skywrath_mage_arcane_bolt",
+			"9":"skywrath_mage_arcane_bolt",
+			"10":"skywrath_mage_arcane_bolt",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_concussive_shot",
+			"13":"skywrath_mage_concussive_shot",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skywrath_mage_arcane_bolt":"Un sort spammable très facilement grâce à son petit cooldown et son coût en mana raisonnable. Cependant, ses dégâts dépendent grandement de votre intelligence, ce sort est donc plus efficace à partir du mid game.",
+				"skywrath_mage_concussive_shot":"Un sort non ciblé avec une excellente portée (1600) qui ralentira l’adversaire le plus proche de 40%. Essayez de l’utiliser pour placer plus facilement votre ultimate. C’est un sort qui nécessite seulement une activation, vous pouvez donc l’utilisez pour fuir sans avoir besoin de vous retourner.",
+				"skywrath_mage_ancient_seal":"Un très bon sort qui silencera votre cible pendant 6 secondes tout en augmentant les dommages magiques qui lui seront infligés. Il faut utiliser ce sort avant votre burst pour infliger d’énormes dégâts. N’hésitez pas à l’utiliser sur des héros ennemis très dépendants de leurs sorts.",
+				"skywrath_mage_mystic_flare":"Un des ultimates qui fait le plus mal dans le jeu. Cependant, sa zone d’action est très réduite, et vos adversaires pourront donc éviter facilement une partie des dommages. Essayez donc de contrôler votre ennemi avant de faire ce sort. De plus attention à son énorme coût en mana !",
+				"attribute_bonus":"Les statistiques sont vos amies !"
+		}
+	}
+}

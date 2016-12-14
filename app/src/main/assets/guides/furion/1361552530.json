@@ -1,0 +1,79 @@
+{
+	"Hero":"furion",
+	"Title":"Jungle Pushing Natures Prophet",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"gloves"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword"
+			],
+			"Mid-Late Game":
+			[
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Extra money":
+			[
+				"desolator",
+				"greater_crit",
+				"orchid",
+				"mekansm",
+				"necronomicon",
+				"black_king_bar",
+				"flying_courier",
+				"monkey_king_bar",
+				"mjollnir",
+				"pipe"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_teleportation",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"furion_sprout",
+			"24":"furion_sprout",
+			"25":"furion_sprout"
+		}
+	}
+}

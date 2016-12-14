@@ -1,0 +1,19 @@
+{
+  "dotaId": "ring_of_basilius",
+  "id": 88,
+  "img": "ring_of_basilius_lg.png",
+  "dname": "Ring of Basilius",
+  "qual": "rare",
+  "cost": 525,
+  "desc": "Пассивная: Basilius Aura — увеличивает скорость регенерации маны и броню в радиусе 900.<br/>Активируемая: переключает действие ауры на юнитов, не являющихся героями.<br/><br/>Эффекты от нескольких Basilius Aura не складываются.",
+  "notes": "Не сочетается с аурами Ring of Basilius, Ring of Aquila или Vladmir\u0027s Offering.",
+  "attrib": "+ 6 УРОНА<br/>+ 1 к броне<br/>РЕГЕН МАНЫ В АУРЕ: 0.65<br/>АУРА ДОП. БРОНИ: 2",
+  "mc": false,
+  "cd": false,
+  "lore": "Кольцо, служившее наградой величайшим магам.",
+  "components": [
+    "sobi_mask",
+    "ring_of_protection"
+  ],
+  "created": true
+}

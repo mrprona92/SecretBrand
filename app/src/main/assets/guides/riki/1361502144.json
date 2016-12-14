@@ -1,0 +1,118 @@
+{
+	"Hero":"riki",
+	"Title":"6.82 - Standard Riki (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"diffusal_blade"
+			],
+			"Utility Items":
+			[
+				"orb_of_venom",
+				"quelling_blade",
+				"gem"
+			],
+			"Upgrade to Level 2":
+			[
+				"diffusal_blade"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"vladmir",
+				"sange_and_yasha"
+			],
+			"Extension Items":
+			[
+				"basher",
+				"abyssal_blade",
+				"butterfly",
+				"greater_crit"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Quelling Blade is to get rid of those annoying wards that you just can't reach.",
+				"gem":"Spot and destroy your strongest counter: Sentry Wards, with this specific item.",
+				"power_treads":"Keep on Strength for more survivability.",
+				"poor_mans_shield":"Early Poor Man's Shield gives the agility Riki loves and more survivability in lanes when he wants to last-hit.",
+				"vladmir":"This is great if your team is looking to get early advantages and want to team-fight early. Get Vladmir's Offering to bring something to the table.",
+				"black_king_bar":"If you're getting disabled and destroyed a lot. BKB doesn't help your agility, but it gives you the survivability and ability to take down your foes fast!",
+				"butterfly":"Helps with backstab, more damage, more agility. This item is a bit overkill for Riki but not despised in any way or form.",
+				"basher":"Keeping foes in your Smoke Screen is tough. Basher relieves that difficulty with a chance to stun and continuously tear them down before they know what happens.",
+				"sange_and_yasha":"Sange &amp;amp;amp;amp;amp; Yasha is a good item if you want to win towards the mid-game. It offers a slow, movement speed boost and overall; makes Riki survive harder and attack harder.",
+				"diffusal_blade":"This is the most useful item if you are playing Riki. Consider level 2 Diffusal Blade if you run out of charges. The usefulness of this ability is its combination with smoke which will keep your opponent silence and missing you."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"riki_permanent_invisibility",
+			"2":"riki_backstab",
+			"3":"riki_backstab",
+			"4":"riki_smoke_screen",
+			"5":"riki_backstab",
+			"6":"riki_blink_strike",
+			"7":"riki_backstab",
+			"8":"riki_permanent_invisibility",
+			"9":"riki_permanent_invisibility",
+			"10":"riki_permanent_invisibility",
+			"11":"riki_blink_strike",
+			"12":"riki_smoke_screen",
+			"13":"riki_smoke_screen",
+			"14":"riki_smoke_screen",
+			"15":"attribute_bonus",
+			"16":"riki_blink_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"riki_smoke_screen":"Get a point in Smoke Screen during the laning phase if your team wants to take advantage of its slow and silence to tear down supports caught pushing too hard.
+
+This ability is key during fights and engagements to keep your allies safe. It does not break your invisibility.",
+				"riki_blink_strike":"The blink also does direct damage, so be sure to use it constantly when chasing, though it reveals you upon casting.
+
+Using Smoke Screen before Blink Striking foes is a safe move. Follow-up with Diffusal Blade and rip them to shreds before they can escape.",
+				"riki_backstab":"Early levels in Backstab will help you last hit and harass foes in lane. Getting more agility naturally helps you dish out damage faster and faster.",
+				"riki_permanent_invisibility":"Be wary of the delay time for Permanent Invisibility is very long. Cast Smoke Screen before you harass foes from behind to be able to safely escape in case they want to counter-attack."
+		}
+	}
+}

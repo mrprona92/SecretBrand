@@ -1,0 +1,112 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"Trilane support SD, by Peppo_o'Paccio",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"courier",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"Early Game, Urn or Medallion":
+			[
+				"flying_courier",
+				"ward_observer",
+				"boots",
+				"ward_observer",
+				"urn_of_shadows",
+				"medallion_of_courage"
+			],
+			"Mid Game Options (always buy wards)":
+			[
+				"tranquil_boots",
+				"arcane_boots",
+				"force_staff",
+				"ancient_janggo",
+				"ghost",
+				"cyclone",
+				"blink"
+			],
+			"Late Game Items (keep warding)":
+			[
+				"rod_of_atos",
+				"vladmir",
+				"pipe",
+				"necronomicon",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"cloak",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Best snowball item, get this if you have a lot of kills. It's also good if you're your team's main initiator.",
+				"gem":"Versus invisibile Heroes like Bounty Hunter, Nyx Assassin or Clinkz. Give it to your mid/solo.",
+				"cloak":"When the enemies have a lot of magical damage (e.g. Queen of Pain, Zeus).",
+				"ghost":"When carries just two-shoot you.",
+				"flask":"Sometimes you might want two Iron Branches instead of this.",
+				"dust":"Versus invisibile Heroes like Bounty Hunter, Nyx Assassin or Clinkz.",
+				"courier":"Get Sentries + Smoke if your team already has Observers and Courier.",
+				"travel_boots":"When all your tier 1 and tier 2 towers are down and your team is doing great.",
+				"vladmir":"When you need auras for your team, or simply want extra sustainability vs Roshan. Get this with 2-3 melees in your team.",
+				"pipe":"For when you're versus a Zeus or Queen of Pain (or any other nuker).",
+				"urn_of_shadows":"Pick this up if you're roaming or just need more HP.",
+				"sheepstick":"If you need to stop a hard carry like Faceless Void or Luna.",
+				"cyclone":"If your team has a spell that needs a setup, e.g. Split Earth or Sacred Arrow.",
+				"force_staff":"When you need mobility even for teammates, e.g. vs Furion or Clockwerk.",
+				"necronomicon":"When you need to push, and quickly! Build it up until Necro 3. Best used with Furion, Pugna and/or Shadow Shaman.",
+				"shivas_guard":"Extra defense and teamfight auras: get this if the enemies are too strong in teamfights.",
+				"ancient_janggo":"When you need stats and auras for your team, always a good choice.",
+				"medallion_of_courage":"Pick this up if your team needs to fight Roshan early on.",
+				"smoke_of_deceit":"When you want to gank. Always buy it if you have a good support partner like Leshrac or Lina and go gank mid!",
+				"rod_of_atos":"When you have a lot of gold and want a secondary pseudo-purge. The extra HP is also cheap and good.",
+				"tranquil_boots":"Get these if you can get kills roaming around the map."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_soul_catcher",
+			"3":"shadow_demon_shadow_poison",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_shadow_poison",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_shadow_poison",
+			"8":"shadow_demon_soul_catcher",
+			"9":"shadow_demon_soul_catcher",
+			"10":"shadow_demon_soul_catcher",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

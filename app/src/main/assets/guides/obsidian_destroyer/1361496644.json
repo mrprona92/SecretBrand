@@ -1,0 +1,105 @@
+{
+	"Hero":"obsidian_destroyer",
+	"Title":"6.81From the Outer Dark I Come: A Build to Outworld Devourer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"tpscroll",
+				"force_staff",
+				"rod_of_atos",
+				"sheepstick"
+			],
+			"Get These When You Have Money":
+			[
+				"black_king_bar",
+				"shivas_guard",
+				"orchid",
+				"refresher",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"A little extra intelligence for laning. Alao used for Null Talisman",
+				"branches":"Used for Magic Wand, provides stats",
+				"boots":"Self explanatory.",
+				"magic_wand":"A great heal for when you need it; it also provides stats",
+				"flask":"Heals for the lane",
+				"tango":"Heals in the lane",
+				"tpscroll":"ALWAYS carry one of these. If you need to defend and don't have this, then it'll be a long walk while they're taking down your barracks.",
+				"power_treads":"Grants extra Strength and Intelligence when needed. Definately the strongest boost for OD.",
+				"null_talisman":"Nice little buffs for early game.",
+				"sheepstick":"Another absolute must for Outworld Devourer. A great 5 second hex, more mana regeneration, +10 all stats + a whopping 25 intelligence. A great item for boosting Sanity's Eclipse's power.",
+				"orchid":"A great item for Devourer, as it makes you a DPS monster mid game with a lot of attack speed, some intelligence and a 5 second silence that causes someone to take more damage from your attacks or Sanity's Eclipse. This should be made if you're looking to deal more damage with auto attacks as opposed",
+				"force_staff":"The escape mechanism is incredible, and with the recent change it now provides health regeneration instead of attack speed/damage, and it's also great for chasing. It is simply a must for Outworld Devourer.",
+				"ultimate_scepter":"Not of particular use, but if you want a larger ult radius this is fairly decent.",
+				"refresher":"Somewhat situational, really only get this if your ult isn't hitting for much late game (1/8 to 1/3 of their hp)",
+				"black_king_bar":"An item that's great for any carry, and especially one ones that can't afford to be stunned such as OD. 5 seconds of magic immunity(assuming you've used it 5 times) is a great buff in a teamfight against those pesky nukers. It also gives you some much needed HP to help out with your squishiness.",
+				"shivas_guard":"This, while providing intelligence and damage resistance to you, can help out your team with an aura that slows enemy attack speeds and has an aoe spell that can slow it even more. An awesome item for OD, if you have the money after Rod, Scythe and Force Staff",
+				"rod_of_atos":"This one gives you an extremely useful slow, as well as some survivability(250 HP) and 25 intelligence, 5 of which you didn't even pay for. This is great for chasing down enemies, a very versatile item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"obsidian_destroyer_astral_imprisonment",
+			"2":"obsidian_destroyer_essence_aura",
+			"3":"obsidian_destroyer_essence_aura",
+			"4":"obsidian_destroyer_astral_imprisonment",
+			"5":"obsidian_destroyer_astral_imprisonment",
+			"6":"obsidian_destroyer_sanity_eclipse",
+			"7":"obsidian_destroyer_astral_imprisonment",
+			"8":"obsidian_destroyer_essence_aura",
+			"9":"obsidian_destroyer_essence_aura",
+			"10":"obsidian_destroyer_arcane_orb",
+			"11":"obsidian_destroyer_sanity_eclipse",
+			"12":"obsidian_destroyer_arcane_orb",
+			"13":"obsidian_destroyer_arcane_orb",
+			"14":"obsidian_destroyer_arcane_orb",
+			"15":"attribute_bonus",
+			"16":"obsidian_destroyer_sanity_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"obsidian_destroyer_arcane_orb":"This is your bread and butter skill, and the source of your DPS late game. We get this later because it will waste your mana unless you have Essence Aura. Great for fighting illusion heroes or summon heroes such as Chaos Knight, Dark Seer, Phantom Lancer",
+				"obsidian_destroyer_astral_imprisonment":"Spam this at level 4 mid to gain intelligence from other heroes, since it can improve your ultimate while ganking as well. It is also good in teamfights to shutdown a hero for 4 seconds. It can make mana hungry heroes useless early on as well. Also gives you more damage.",
+				"obsidian_destroyer_essence_aura":"This is what keeps you running in teamfights and ganks, what allows you and your team to cast all your spells multiple times and never run out of mana. This is also another reason Arcane Orb is extremely good. It'll also save you a lot on Clarities.",
+				"obsidian_destroyer_sanity_eclipse":"Devastating ultimate with the right items. Save it for big teamfights in the late game, as it can make or break your game if either team is pushing. This is why we build intelligence items. Use it to kill the hero at the middle lane early on if you can, since that's where you'll usually lane.",
+				"attribute_bonus":"Self explanatory. "
+		}
+	}
+}

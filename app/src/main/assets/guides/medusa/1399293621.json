@@ -1,0 +1,100 @@
+{
+	"Hero":"medusa",
+	"Title":"GreyShark.Medusa",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"circlet",
+				"slippers",
+				"branches"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"ring_of_aquila",
+				"power_treads",
+				"pers",
+				"yasha"
+			],
+			"Mid Game":
+			[
+				"sphere",
+				"manta",
+				"skadi"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"rapier"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"monkey_king_bar",
+				"greater_crit",
+				"satanic"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Онли ПТ, ставим на силу, много ХП, АС.",
+				"hand_of_midas":"Медузе нужно много фармить, я считаю что если быстро собрать мидас, то он оправдает свои деньги, ускорит фарм в разы, даст АС в лесу будет проще фармить ! Собираем если фарм идет нормально, актуален до 10 минуты.",
+				"pers":"Потом апнем в линку. По началу облегчит ластхит и даст регену МП и ХП.",
+				"black_king_bar":"Можно вместо линки",
+				"sphere":"Много атрибутов, много регена МП как раз для 3-ого скилла, самое главное повышает выживаемость засчет спеллблока.",
+				"rapier":"Наш 1-ый скилл позволяет бить лица сразу всей вражеской комманде, с рапирой мы будем убивать всех за считаные секунды, выбить из нас рапиру крайне тяжело, тем более мы имеем ульту которая идет сквозь БКБ и скади, убьем любого + манта !",
+				"monkey_king_bar":"Если у врагов много уклонений, типо мортра или бабочка, то прийдется брать. Также дает много урона и мнии баши",
+				"butterfly":"Нужный арт для керри ловкача. Самое главное много ДПС и уклонения",
+				"greater_crit":"Тоже подходит для медузы, криты вылетают также с иллюзий",
+				"manta":"Очень много атрибутов для ловкача, и самое главное 2 копии, очень сильно дамажут, если включить 1-ый скилл и нажать манту, то ОНИ ТОЖЕ СТРЕЛЯЮТ СТРЕЛАМИ ПО МНОГИМ ЦЕЛЯМ ! Маст хев !",
+				"satanic":"Если нужна жирность и вампиризм, то это наш выбор !",
+				"skadi":"Дохрена атрибутов, мы становимся очень жирными, замедляем МС и АС. С включеной ультой и мантой с включеным 1-ым скиллом от нас все убегают, но не получится !",
+				"yasha":"Потом апнем в манту, по начау даст атрибутов, увеличит МС. Потому что линку будем фармить долго, а бегать пол игры как крип нам нельзя !",
+				"ring_of_aquila":"По началу будет тяжело фармить, мало брони, и нужен реген МП. Аквила решает эту проблему, много брони, атрибуты, реген МП, и легко пушить."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"medusa_mystic_snake",
+			"2":"medusa_mana_shield",
+			"3":"medusa_mystic_snake",
+			"4":"medusa_mana_shield",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_mana_shield",
+			"9":"medusa_mana_shield",
+			"10":"medusa_split_shot",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_split_shot",
+			"13":"medusa_split_shot",
+			"14":"medusa_split_shot",
+			"15":"attribute_bonus",
+			"16":"medusa_stone_gaze",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

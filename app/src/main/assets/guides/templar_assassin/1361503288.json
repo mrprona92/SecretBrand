@@ -1,0 +1,91 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"[DMX] Templar Assassin - RefractionBuild (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"bottle",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"blink",
+				"desolator",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"butterfly",
+				"assault",
+				"monkey_king_bar",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ring_of_aquila",
+				"greater_crit",
+				"manta",
+				"satanic"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_psi_blades",
+			"2":"templar_assassin_refraction",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"Utilisez ce sort pour vous protéger des sorts de vos adversaires en nullifiant leurs dommages !
+De plus le bonus de dégâts qu'il vous apporte vous permettra d'agresser en toute sécurité.",
+				"templar_assassin_meld":"Ce sort fait de vous un réel assassin, il fait d’énormes dégats, et couplé à réfraction vous permettra de tuer un ennemi en quelques coups. Même si l’invisibilité ne vous autorise pas à bouger sous peine d’être révélé, elle peut permettre d’esquiver des sorts ciblés, tel que le stun de vengeful.",
+				"templar_assassin_psi_blades":"Ce sort vous aidera à bien tenir votre lane en harassant vos adversaires avec un bon positionnement. de plus, le bonus apportée à votre portée vous permettra d’utiliser le bonus de dégats de votre “Meld” bien plus facilement.",
+				"templar_assassin_psionic_trap":"Ses pièges sont parfaits pour la vision sur la map, vous donnant des wards gratuites, mais bien sur, ils sont aussi redoutables pour pourchasser vos adversaires."
+		}
+	}
+}

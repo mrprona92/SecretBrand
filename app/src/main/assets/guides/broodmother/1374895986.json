@@ -1,0 +1,117 @@
+{
+	"Hero":"broodmother",
+	"Title":"Bossmother: A Guide to Broodmother (Updated for 6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"ward_sentry"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"orchid",
+				"yasha",
+				"lesser_crit"
+			],
+			"Core Extensions":
+			[
+				"manta",
+				"talisman_of_evasion",
+				"heavens_halberd"
+			],
+			"Other Options":
+			[
+				"greater_crit",
+				"bfury",
+				"vladmir",
+				"assault",
+				"gem"
+			],
+			"Last Updated: 2/4/2014":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"There are just for some early stats, go ahead and sell them when you need room.",
+				"boots":"Buy your Soul Ring first. Your webs already grant you excellent mobility.",
+				"gem":"Broodmother's survivability and need to counter-ward makes her a viable gem carrier. However, you need to be extremely careful not to drop it. If the enemy manages to get a gem, stay with your team and focus the gem holder, then drop the gem in base.",
+				"talisman_of_evasion":"If right clickers are a problem, you should buy one of these. Combined with you passive, enemies will only hit you 33% of the time. You can build this into either Heaven's Halberd or Butterfly, depending on your situation.",
+				"ward_sentry":"Sentry wards are a Broodmother's mortal weakness. Unless you have a reliable support or are lucky enough to lane against people too stupid to buy them, you're going to need to buy sentries. Buy a set with your starting items to be safe.",
+				"tango":"Later levels of webs will give you more than enough regeneration. Feel free to blow through these early on.",
+				"phase_boots":"Treads are generally preferred over Phase Boots for the stats they provide, and because your webs already offer massive mobility. However, phase could be considered for chasing down targets out of your lane.",
+				"power_treads":"Remember to set them to different stats as needed. Strength for survivability when low on health, agility for raw damage when you're fighting, intelligence for mana regeneration when you're just hanging out in lane.",
+				"poor_mans_shield":"I don't use Poor Man's Shield a lot, but I see it in a lot of professional games. Buy it if you're being harassed in lane and need to block some damage.",
+				"vladmir":"I strongly, STRONGLY advise against building this on Brood, but it wouldn't be fair to ignore completely in this guide. It's a popular build on her, but it hardly gives your spiders more survivability and is a waste of gold. Technically viable, but not worth it.",
+				"orchid":"The silence makes Brood horrifying in 1 vs. 1 fights, and can also be used to silence key players in teamfights. Also gives you absurd amounts of mana along with some other nice stats.",
+				"assault":"Worthy of consideration if you have gold to burn. The aura benefits both your spiders and your other teammates.",
+				"black_king_bar":"BKB has always been the first core item I suggested building, but 6.80 make it even more essential. In addition to allowing you to survive more than 5 seconds in teamfights, it will remove dust, track, and similar debuffs, allowing you to flee from ganks with free web movement.",
+				"butterfly":"Geared more towards raw damage. You're only going to be getting this if you have a ton of gold, and nobody else is carrying you. Tons of damage, ridiculous attack speed, and even more evasion. Powerful, but situational.",
+				"greater_crit":"Gives you a truckload of damage, and a crit that works well with your ult.",
+				"bfury":"I prefer Yasha/Manta for the all-around benefits they provide, but a Battlefury could be used instead for the pushing ability it gives you. The extra damage and regeneration is also a nice bonus.
+
+(I've yet to try this, feedback would be appreciated)",
+				"manta":"Unlike most heroes who pick up Manta Style, you'll be using it more for pushing more than raw damage. Combined with your spiderlings and ult, towers will fall in seconds.",
+				"lesser_crit":"If enemy casters aren't a problem or you have a little extra gold to spend, consider picking up a Crystalys. The crit is very nice for pushing and 1 vs 1, especially with your ultimate. You don't need to upgrade it to Daedalus unless you're swimming in gold.",
+				"yasha":"Attack speed, damage, and movespeed, all for a relatively cheap price. You'll be building this into a Manta Style most of the time.",
+				"soul_ring":"The answer to all your mana problems. This allowins you to spam spiders. Soul Ring is absolutely core on Broodmother. Buy the recipe with your starting items, and rush it before you buy anything else. Your webs allow you to laugh off the health cost, and the passive health regeneration is nice too.",
+				"heavens_halberd":"If the enemy's carries get out of hand, you can buy this to deal with them. Use this and your orchid on the fed carry, and there's pretty much nothing they can do."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"broodmother_spin_web",
+			"2":"broodmother_spawn_spiderlings",
+			"3":"broodmother_spawn_spiderlings",
+			"4":"broodmother_spin_web",
+			"5":"broodmother_incapacitating_bite",
+			"6":"broodmother_spawn_spiderlings",
+			"7":"broodmother_spawn_spiderlings",
+			"8":"broodmother_spin_web",
+			"9":"broodmother_insatiable_hunger",
+			"10":"broodmother_spin_web",
+			"11":"broodmother_insatiable_hunger",
+			"12":"broodmother_incapacitating_bite",
+			"13":"broodmother_incapacitating_bite",
+			"14":"broodmother_incapacitating_bite",
+			"15":"attribute_bonus",
+			"16":"broodmother_insatiable_hunger",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"broodmother_spawn_spiderlings":"Your spiders can harass, farm jungle, and most of all, push like mad. Make sure you can select them all with a single key. You can use them to melt creep waves and towers, harass enemy heroes, or send them to jungle and farm two lanes at once. Know when to pull them back, don't feed the spiderlings.",
+				"broodmother_spin_web":"Your webs grant you insane mobility and survivability. Use them to harass by popping in and out, evade ganks by running into trees, stack ancients very efficiently, etc. Place them in your lane early on to stay in lane and hide in trees if in danger, and use them to cross lanes quickly late game.",
+				"broodmother_incapacitating_bite":"This makes you a monster in 1 vs 1 combat by effectively cutting your target's physical DPS by 60% and slowing them and making escape impossible without movement-based spells. One level early on is very nice for early kills and harassment, but spiderlings and webs take priority.",
+				"broodmother_insatiable_hunger":"As amazing as this skill is, you need to get webs and spiderlings first. The lifesteal in conjunction with your bkb and passive make you extremely difficult to kill. Auto attack once to apply your passive before using this. Use the bonus damage to eat towers while spiders tank the damage.",
+				"attribute_bonus":"Nothing special here, get stats when you can't get anything else."
+		}
+	}
+}

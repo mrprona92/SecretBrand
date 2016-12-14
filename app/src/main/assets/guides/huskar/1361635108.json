@@ -1,0 +1,103 @@
+{
+	"Hero":"huskar",
+	"Title":"\"OH SHIT WHERE'D ALL MY HP GO??\"-Enemy Team",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"gauntlets",
+				"tango",
+				"gauntlets",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"helm_of_the_dominator",
+				"armlet",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"satanic",
+				"heavens_halberd",
+				"greater_crit",
+				"black_king_bar",
+				"basher"
+			],
+			"BALL SO HARD":
+			[
+				"rapier",
+				"rapier",
+				"assault",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"GG BRANCHES",
+				"boots":"GOtta get your Jordans",
+				"power_treads":"This be LeBron's",
+				"urn_of_shadows":"OH GOD MORE HP I CAN USE FOR KILLING WEAKLINGS LIKE RIKI?",
+				"ultimate_scepter":"If they see this in your inventory they know they only got 4 seconds to tp.",
+				"black_king_bar":"OH SHIT THE ENEMY TEAM LEARNED HOW TO COUNTER ME! BEST PLAY MORE DEFENSIVE!",
+				"greater_crit":"You like killing faster?",
+				"basher":"OUTTA THE PARK!",
+				"armlet":"For those fast kills...",
+				"satanic":"EVEN MORE HP STEAL",
+				"helm_of_the_dominator":"Guess what? I just lost half my health and now I just got it all back!",
+				"heavens_halberd":"You like killing EZier?"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_berserkers_blood",
+			"4":"huskar_inner_vitality",
+			"5":"huskar_berserkers_blood",
+			"6":"huskar_life_break",
+			"7":"huskar_berserkers_blood",
+			"8":"huskar_inner_vitality",
+			"9":"huskar_inner_vitality",
+			"10":"huskar_inner_vitality",
+			"11":"huskar_life_break",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"huskar_burning_spear",
+			"24":"huskar_burning_spear",
+			"25":"huskar_burning_spear"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"HEALING LIKE A BOSS WITH NO DOWNSIDE!",
+				"huskar_burning_spear":"Only worthwhile early game.",
+				"huskar_berserkers_blood":"YOU BEST KNOW ONE THING! IF YOU SEND MORE HEROES TO ME YOU BETTER GET MORE BODYBAGS!",
+				"huskar_life_break":"TACTICAL NUKE READY ON YOUR GO......."
+		}
+	}
+}

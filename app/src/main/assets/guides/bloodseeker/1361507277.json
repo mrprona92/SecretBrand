@@ -1,0 +1,120 @@
+{
+	"Hero":"bloodseeker",
+	"Title":"6.82 - Standard Bloodseeker (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango"
+			],
+			"coreItems":
+			[
+				"bottle",
+				"power_treads",
+				"blade_mail",
+				"sange"
+			],
+			"One or Other (Sange)":
+			[
+				"heavens_halberd",
+				"sange_and_yasha"
+			],
+			"luxury":
+			[
+				"dagon",
+				"cyclone",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"heart",
+				"butterfly",
+				"abyssal_blade"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Quelling Blade is to help you last hit to ensure your Blood Bath keeps you in the lane and farming!",
+				"tango":"Just in case you couldn't snag those last hits needed for Blood Bath to activate.",
+				"power_treads":"Treads gives you the needed life and additional minuscule amount of attack speed. Be sure to keep changing the Power Treads to AGI, STR or INT to ensure you get every bit of life or mana out of it.",
+				"urn_of_shadows":"If you know the later phase may be difficult for you or your enemies tend to be major escape artists, Urn of Shadows can help you survive when ganking around while also finishing off foes are faster than you (somehow).",
+				"cyclone":"Eul's Scepter of Divinity keeps your movement speed up, your combination with Blood Rite perfect and interrupts foes who try to teleport away from your ultimate: Rupture. In many cases, Eul's Scepter is right up your alley.",
+				"force_staff":"Force Staff synergizes well with your ultimate; Rupture. However its cost may not be worth investment, especially if you can't finish off your opponent.",
+				"dagon":"Dagon with your amplified damage is an incredible nuking weapon. Make sure to use Blood Rage on yourself before popping Dagon and your other nuke: Blood Rite.",
+				"heart":"Heart of Tarrasque is your topper to finish off any more life you may need. It is without a doubt that this item will essentially keep you alive throughout the game.",
+				"black_king_bar":"The one thing all Bloodseeker players fear is missing that kill to regain their life. Black King Bar gives you some strength, damage and the ability to dish out damage without fear of missing the kill!",
+				"blade_mail":"As Bloodseeker, you're one of the first in on ganks and sometimes the most vulnerable. Blademail reverses that and causes worry among fleeing foes.
+
+Blade Mail works in combination with the amplified damage you take from Blood Rage, so be sure to have both on!",
+				"monkey_king_bar":"Straight damage, helps against evasion carries (such as Phantom Assassin or heroes that buy Heaven's Halberd or Butterfly)",
+				"butterfly":"Dish out faster damage and evade other rival enemy carries with Butterfly.
+
+Use your Flutter ability if needed. Typically you won't need it to chase down foes, but to escape is always an option.",
+				"greater_crit":"Daedalus hits hard and adds critical. Whether you get Daedalus or another damage-dealing item all depends on your progression (can you spend more for Daedalus or do you want cheaper?)",
+				"basher":"Thanks to Thirst, you can close in on enemies but Skull Basher let's you keep them down and let's you finish them off. A great tool to keep foes down without needing to waste your ultimate.",
+				"invis_sword":"A potentially good item to get closer to your opponent or gank them appropriately.",
+				"sange_and_yasha":"Sange and Yasha doubles-down on what Bloodseeker does best by allowing you to move fast, slow further and hit harder. An all-around great item if you feel like you're overwhelmed by your enemies' team.",
+				"desolator":"Desolator offers solid damage nad armor reduction, allowing you to hit harder. There are plenty of other items that can fill the gap, but the armor reduction might help your physical-damaging team as well. It is also a bit cheaper than Monkey King Bar.",
+				"yasha":"If you're going for S&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Y, Yasha should be a quickly established item as you need the damage and the movement speed isn't too bad.",
+				"ancient_janggo":"Survivabilty, movement speed. The two aspects Bloodseeker yearns for during the early-game.",
+				"abyssal_blade":"Finish up your Basher with Abyssal Blade. This is a late-game item to circumvent invincibility such as Black King Bar. Get this when you find yourself having no more slots for future items.",
+				"heavens_halberd":"Heaven's Halberd is amazing on Bloodseeker, especially during pesky carries who can take down your entire team. The Evasion, disable and in combination with Bloodrage let's you maximize the damage they take, but remove any they can do more."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bloodseeker_bloodrage",
+			"2":"bloodseeker_blood_bath",
+			"3":"bloodseeker_blood_bath",
+			"4":"bloodseeker_thirst",
+			"5":"bloodseeker_blood_bath",
+			"6":"bloodseeker_rupture",
+			"7":"bloodseeker_blood_bath",
+			"8":"bloodseeker_bloodrage",
+			"9":"bloodseeker_bloodrage",
+			"10":"bloodseeker_bloodrage",
+			"11":"bloodseeker_rupture",
+			"12":"bloodseeker_thirst",
+			"13":"bloodseeker_thirst",
+			"14":"bloodseeker_thirst",
+			"15":"attribute_bonus",
+			"16":"bloodseeker_rupture",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bloodseeker_bloodrage":"Bloodrage earlier on can be used on yourself to help with your last-hitting and regeneration of life. The cooldown is quite low and costs 0 mana.
+
+Use Bloodrage in fights to either help magic-users regain their life if they about to use their ultimate, or on enemies if you want to ensure they die",
+				"bloodseeker_blood_bath":"Blood Rite is an incredible nuke that works in combination with your ultimate: Rupture. Open with Rupture then Blood rite to ensure all damage is both taken. Bloodrage should be your follow-up or if you can cast it before Blood Rite pops.",
+				"bloodseeker_thirst":"Thirst offers true sight and sight after 30% life, so be sure to take advantage of it from fleeing foes you know you can catch up to and don't let their weak health obligate you from risking tower damage if you're chasing.",
+				"bloodseeker_rupture":"Use Rupture to keep opponents' still where you know your team will be able to reach him/her. It has a low cooldown, so at level 6, consider ganking with it to really give your allies an advantage in their lane.
+
+Now works on enemies using Black King Bar or are magic immune, so cast away!"
+		}
+	}
+}

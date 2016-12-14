@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_bounty_hunter",
+	"Title":"Recommended items for Bounty Hunter",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"stout_shield",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"poor_mans_shield",
+			"urn_of_shadows"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"ancient_janggo",
+			"desolator",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"monkey_king_bar",
+			"vladmir",
+			"butterfly",
+			"sphere",
+			"black_king_bar",
+			"ancient_janggo",
+			"orchid",
+			"medallion_of_courage"
+		]
+	}
+}

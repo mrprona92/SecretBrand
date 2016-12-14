@@ -1,0 +1,106 @@
+{
+	"Hero":"pugna",
+	"Title":"6.82 - Standard Pugna (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"necronomicon"
+			],
+			"luxury":
+			[
+				"bottle",
+				"dagon",
+				"black_king_bar",
+				"force_staff"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 4/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Mekansm makes Pugna's pushing capabilities an even stronger affair with a great heal and armour donation to the Pugna organization.",
+				"dagon":"Dagon works well with your Decrepify and helps the team finish off some heros. If you feel your team is not dealing the damage needed, consider Dagon.",
+				"necronomicon":"This item works great to add further mana drain and damage when channeling your ultimate. We want this to further team's early-game pushing capabilities.",
+				"ultimate_scepter":"At an incredible range, no cooldown and increased life/mana steal. Aghanim's makes an effort to kill Pugna a very tried affair. Stay far away, use Decrepify to protect yourself or cripple enemies, and start taking their soul!",
+				"shivas_guard":"Shiva's Guard is great for enemies that get too close; also for keep Pugna alive and his enemies' within range for his Nether Blast.",
+				"ancient_janggo":"For added chasing ability in case casting Nether Blast would not quite reach your foe."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pugna_nether_blast",
+			"2":"pugna_decrepify",
+			"3":"pugna_nether_blast",
+			"4":"pugna_nether_ward",
+			"5":"pugna_nether_blast",
+			"6":"pugna_life_drain",
+			"7":"pugna_nether_blast",
+			"8":"pugna_nether_ward",
+			"9":"pugna_nether_ward",
+			"10":"pugna_nether_ward",
+			"11":"pugna_life_drain",
+			"12":"pugna_decrepify",
+			"13":"pugna_decrepify",
+			"14":"pugna_decrepify",
+			"15":"attribute_bonus",
+			"16":"pugna_life_drain",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pugna_nether_blast":"This ability has a large area-of-effect and works great on towers. Use it accordingly with Decrepify to really deal extensive damage.",
+				"pugna_decrepify":"Leveling Decrepify only increases its duration. Keeping it at level 1 is sufficient for most of the game.
+
+Decrepify works on structures to prevent physical attacks such as Tombstone from Undying and your own Nether Ward!",
+				"pugna_nether_ward":"Nether Ward should be used before every team fight, it has a great range so don't hesitate to hide it away from the main fight.",
+				"pugna_life_drain":"Use this even if at full life to regain mana. With Aghanim's Scepter, you can be a real annoyance to key players in the game!
+
+Use this on carries and allies to keep them healed at the cost of your own life (and to use Meka at a more crucial time)!"
+		}
+	}
+}

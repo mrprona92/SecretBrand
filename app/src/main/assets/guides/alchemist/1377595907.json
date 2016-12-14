@@ -1,0 +1,95 @@
+{
+	"Hero":"alchemist",
+	"Title":"Na`Vi.XBOCT Alchemist Build [Hard-Carry]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"invis_sword",
+				"maelstrom",
+				"black_king_bar"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"assault",
+				"basher",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"phase_boots",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"XBOCT prefers Phase Boots, but I think you have enough damage without them.",
+				"power_treads":"Better than Phase IMO",
+				"hand_of_midas":"Attack speed + more farm :)",
+				"assault":"Must-get.",
+				"black_king_bar":"You can skip this if there are no stuns in the enemy team.",
+				"monkey_king_bar":"For some extra damage and mini bashes.",
+				"basher":"Good if there are any carrys that can kill you easily for example Lone Druid.",
+				"bfury":"You can skip this if you feel like you don't need AOE.",
+				"invis_sword":"For good stuns and early game escaping.",
+				"mjollnir":"Upgrade for Maelstrom",
+				"maelstrom":"Early game item, gives you nice attack speed and some AOE. Can be built later in a Mjiolnir.",
+				"abyssal_blade":"Upgrade the Basher later into an Abyssal Blade."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_goblins_greed",
+			"2":"alchemist_unstable_concoction",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_goblins_greed",
+			"8":"alchemist_acid_spray",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_acid_spray",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_unstable_concoction",
+			"13":"alchemist_unstable_concoction",
+			"14":"alchemist_unstable_concoction",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"You can farm the easy camps with this.",
+				"alchemist_unstable_concoction":"Remember when you want to gank someone start the stun in the fog so they don't hear that sound.",
+				"alchemist_goblins_greed":"Heh :D",
+				"alchemist_chemical_rage":"Always use it in the jungle."
+		}
+	}
+}

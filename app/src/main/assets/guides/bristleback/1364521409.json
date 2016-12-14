@@ -1,0 +1,104 @@
+{
+	"Hero":"bristleback",
+	"Title":"Tankiest Tank",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"stout_shield",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"ring_of_health",
+				"power_treads",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"hood_of_defiance",
+				"heart",
+				"assault",
+				"shivas_guard",
+				"heavens_halberd"
+			],
+			"luxury":
+			[
+				"armlet",
+				"abyssal_blade",
+				"orb_of_venom",
+				"pipe",
+				"black_king_bar",
+				"blade_mail",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_basilius":"This gives you +3armor which soul ring does not.",
+				"pipe":"Convert your hood to pipe so you are a team player because dota is a team game.",
+				"cyclone":"For a disable.",
+				"assault":"Extra armor + armor debuff for extra W damage.",
+				"heart":"Gives you much needed health so you arn't burst down.",
+				"black_king_bar":"If you are pitted against team stun/aoe.",
+				"shivas_guard":"Armor + slow down enemies for chase.",
+				"vanguard":"Avg time for vanguard is 10-12. Consider blademail if you're getting dominated. Lets you dive towers.",
+				"blade_mail":"Makes you bristlefront bristleside and bristleback.",
+				"hood_of_defiance":"Reason why you take this over BKB is because you want to take damage to your back and get those extra sprays.",
+				"armlet":"Viable if dominating early game.",
+				"orb_of_venom":"Gives chase.",
+				"abyssal_blade":"Bash enemies, gives chase.",
+				"heavens_halberd":"If they have a hard right click carry.",
+				"tranquil_boots":"Take this over treads if you're having a hard time."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_viscous_nasal_goo",
+			"2":"bristleback_quill_spray",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_bristleback",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_bristleback",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_viscous_nasal_goo",
+			"13":"bristleback_viscous_nasal_goo",
+			"14":"bristleback_viscous_nasal_goo",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"When this skill is level 1, try to get 1 stack on each hero so you don't give them stick charges. Getting this level 1 helps you out in sticky situations (kill me).",
+				"bristleback_quill_spray":"Like a FPS, you need to press W to walk.  Don't spam this at level 1/2 because of your mana pool. Instead, try harassing and getting kills at level 3+.",
+				"bristleback_bristleback":"Main passive making you super tank. Consider getting level 1 during hard lane.",
+				"bristleback_warpath":"Spam for W to run away faster or for more damage."
+		}
+	}
+}

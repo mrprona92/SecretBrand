@@ -1,0 +1,128 @@
+{
+	"Hero":"venomancer",
+	"Title":"6.82 - Standard Venomancer (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"force_staff"
+			],
+			"Core Items - Aghanim's":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"medallion_of_courage",
+				"pipe",
+				"necronomicon"
+			],
+			"Extension Items":
+			[
+				"veil_of_discord",
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink, Initiate with your Poison Nova, use your Slow to target specific heroes you want to kill as your ultimate does not kill anyone on their own. Follow-through on your damage and poison by spamming Plague Wards as they flee.",
+				"courier":"As a support, buy either a Courier or Wards.",
+				"mekansm":"Mekansm makes Venomancer's annoying push with Plague Wards into a full-on early-game pushing strategy with Mekansm and team-fighting coordination.",
+				"urn_of_shadows":"Urn of Shadows is to take full advantage of Veno's ganking capabilities and keep him alive. Urn of Shadows can also be used offensively to catch any far away enemies.",
+				"force_staff":"Force Staff, Ultimate. In a lot of ways, Force Staff can also be your escape. It's versatility and Veno's need to be quickly in different positions makes Force Staff a demand for him.",
+				"necronomicon":"Necromonicon makes Venomancer's push with Plague Ward even better with Necromonicon; it offers a lot of the stats that Venomancer likes and True Sight at level 3. ",
+				"ultimate_scepter":"Keep warding the map with Plague Wards and these observer wards. However, if a surplus of gold comes your way, try and aim for Aghanmin's Scepter. The increased damage on your ultimate is far too good to ignore.",
+				"shivas_guard":"Shiva's Guard to Poison Nova is a nice combination, follow that up with your poison sting and wards and you've got a strong arsenal of damage-over-time effects.",
+				"invis_sword":"Though no longer commonly bought, Shadow Blade helps you get in and out of battles while also letting you position yourself for your ultimate ability.",
+				"arcane_boots":"To be able to spam your abilities and be aggressive with Venomancer, Arcane Boots is essential.",
+				"medallion_of_courage":"With Urn of Shadows, Medallion of Courage can turn Venomancer's slow into even more crippling damage as enemies try to get away. Great for the early-game.",
+				"veil_of_discord":"Get this item to help deal even more damage with your ultimate. The extra survivability it offers also offers you more reasons to purchase it.",
+				"ring_of_aquila":"Pick this item up for the mana regen considering you are maxing Plague Wards."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_poison_sting",
+			"9":"venomancer_poison_sting",
+			"10":"venomancer_poison_sting",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_venomous_gale",
+			"13":"venomancer_venomous_gale",
+			"14":"venomancer_venomous_gale",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"Though the slow is a constant 50, there is no damage-over-time effect on its first-level, so we max poison sting to compensate and dish more damage as your harassment/auto-attack.
+
+This does affect invisible units as well.",
+				"venomancer_poison_sting":"Poison Sting is an incredible harassment tool to keep foes slowed and taking damage to prevent regeneration. Works with your Plague Wards as well letting you place the wards far and forcing allies to take damage-over-time effects.",
+				"venomancer_plague_ward":"Plague Wards has an incredible casting range, low cooldown and keeps the lanes pushed. You can also use it as pseudo-wards for fogged areas as its duration is extensive and can give great vision for areas you fear of ganks.",
+				"venomancer_poison_nova":"Although no opponent can die from Venomancer's ultimate, the damage is immense and has a large area of effect. It affects invisible units as well as has an incredibly large area of effect."
+		}
+	}
+}

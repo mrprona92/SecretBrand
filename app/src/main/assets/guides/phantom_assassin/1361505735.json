@@ -1,0 +1,90 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"[DMX] Phantom Assassin (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"bfury",
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"satanic",
+				"abyssal_blade",
+				"assault",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"monkey_king_bar",
+				"butterfly",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_phantom_strike",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_phantom_strike",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_coup_de_grace",
+			"10":"phantom_assassin_blur",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Sa portée énorme de 1200 et son faible cout en mana en fait un très bon sort pour farmer au début de partie si vous êtes sur une ligne difficile. en fin de game il vous servira à rattraper un ennemi ou à vous éloigner de lui plus rapidement.",
+				"phantom_assassin_phantom_strike":"Ce sort est très utile pour engager votre cible et lui infliger le maximum de dommages en un minimum de temps. Phantom Strike vous permettra également de vous sortir de situations périlleuses en vous téléportant sur un de vos alliés.",
+				"phantom_assassin_blur":"Très bon sort qui vous permet d’appréhender les teamfights et les 1v1 plus facilement.",
+				"phantom_assassin_coup_de_grace":"C’est le sort signature de Phantom assassin, il fait de vous un très gros dps en fin de partie : avec les bons items vous pourrez faire plus de 1000 dommages par coup critique !"
+		}
+	}
+}

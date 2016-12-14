@@ -1,0 +1,113 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Doom - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"stout_shield"
+			],
+			"Carry Build":
+			[
+				"ring_of_basilius",
+				"gloves",
+				"hand_of_midas",
+				"phase_boots",
+				"tpscroll"
+			],
+			"Utility Build":
+			[
+				"boots",
+				"headdress",
+				"buckler",
+				"arcane_boots",
+				"mekansm",
+				"blink",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"assault",
+				"vladmir",
+				"black_king_bar",
+				"shivas_guard",
+				"abyssal_blade",
+				"heart",
+				"ultimate_scepter",
+				"refresher",
+				"vanguard",
+				"armlet",
+				"radiance",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Te da muchisima movilidad y te permite iniciar con tu ultimate sobre los objetivos de máxima prioridad.",
+				"ring_of_protection":"Doom tiene problemas de armadura al principio. Con esto haz luego el anillo de basilus.",
+				"stout_shield":"Para tankear los neutrales.",
+				"sobi_mask":"To solve your mana issue, you have to get a quick Sage Mask by devouring neutrals and kill them (Devour gold and 4+ neutrals will do). Use courier to take the item.",
+				"tango":"Si es posible pide que te den 1 tango los support.",
+				"tpscroll":"Lleva siempre un tp encima!",
+				"phase_boots":"Combinalo con tu W para perseguir y matar enemigos.",
+				"mekansm":"DESPUÉS  de las botas de maná, compra la receta para terminar el mekans.",
+				"vladmir":"Aura de lifesteal util para ti y tu equipo.",
+				"buckler":"Te ayuda a junglear y luego para mekans despues de las botas de maná.",
+				"ring_of_basilius":"Compra la sages mask y traela lo antes posible con el courier.",
+				"headdress":"Te ayuda a junglear y luego para mekans despues de las botas de maná.",
+				"heart":"Te hace extremadamente tanque.",
+				"black_king_bar":"Si tienen varios disables es muy util.",
+				"shivas_guard":"Puede ser muy buen item para comprarlo en Doom porque le ayuda con el maná, entre otras cosas.",
+				"invis_sword":"Principalmente para ir invisible y tirar tu ultimate por sorpresa a un enemigo y darle hasta morir. Tambien puede ayudarte a escapar logicamente.",
+				"arcane_boots":"Te ayuda con los problemas de maná. También ayuda mucho al equipo.",
+				"abyssal_blade":"Si tienen un heroe que haya que matar si o si esto viene genial. Aparte puedes stunear con click derecho a enemigos que viene muy bien."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_lvl_death",
+			"9":"doom_bringer_scorched_earth",
+			"10":"doom_bringer_scorched_earth",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Comete al creep mas grande de un campamento y mata a los otros. Mas adelante puede que busques creeps especificos por sus habilides (lobo blanco OP). Te ayuda a farmear además.",
+				"doom_bringer_scorched_earth":"Resuelve tus problemas de vida. Si vas a empezar a gankear rapido sube Doom al 6 primero, pero si no es recomendable subir esto para farmear bien junto a tu anillo de basilus. Luego usalo para gankear o escapar (más vel. de movimiento).",
+				"doom_bringer_lvl_death":"Nuke para enemigos que quieras matar.",
+				"doom_bringer_doom":"Marcas a un enemigo que no puede utilizar objetos, habilidades, pierde vida etc, Deberia ser una muerte segura cada vez que lo utilizas!"
+		}
+	}
+}

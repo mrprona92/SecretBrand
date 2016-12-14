@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Storm Hammer",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Sven unleashes his magical gauntlet that deals damage and stuns enemy units.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">2</font></b><br/>RADIUS: <b><font color=\"#ffffff\">255</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13",
+        "lore": "The Rogue Knight\u0027s iron gauntlet, taken from the school of his father, strikes his foes to their core.",
+        "hurl": "Sven",
+        "name": "sven_storm_bolt",
+        "youtube":"-BNx6j67GMM",
+        "id": 0
+    },
+    {
+        "dname": "Great Cleave",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Sven strikes with great force, cleaving all nearby enemy units with his attack.",
+        "notes": "Cleave damage is reduced by armor type but not by armor value.<br/>Cleave damage goes through spell immunity.<br/>The cleave damages a circular area in front of Sven.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">300.000000</font></b><br/>CLEAVE DAMAGE: <b><font color=\"#ffffff\">20%/35%/50%/65%</font></b>",
+        "cmb": "",
+        "lore": "The Vigil Knights still seek to reclaim the stolen Outcast Blade from Sven, a weapon capable of cutting wide swaths through lesser warriors.",
+        "hurl": "Sven",
+        "name": "sven_great_cleave",
+        "youtube":"XRI-eUBr_S8",
+        "id": 1
+    },
+    {
+        "dname": "Warcry",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Sven\u0027s Warcry heartens his allies for battle, increasing their movement speed and armor.  Lasts 8 seconds.",
+        "notes": "Fully stacks with other armor and speed granting abilities.",
+        "dmg": "",
+        "attrib": "BONUS ARMOR: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>BONUS SPEED: <b><font color=\"#ffffff\">12%</font></b><br/>RADIUS: <b><font color=\"#ffffff\">900</font></b><br/>DURATION: <b><font color=\"#ffffff\">8</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 25/25/25/25<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 32/26/20/14",
+        "lore": "Calling a few lines from the Vigil Codex fortifies Sven\u0027s obedience to his rogue code. So poetic!",
+        "hurl": "Sven",
+        "name": "sven_warcry",
+        "youtube":"npLme9BdTy8",
+        "id": 2
+    },
+    {
+        "dname": "God\u0027s Strength",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Sven channels his rogue strength, granting bonus damage for 25 seconds.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The bonus damage is based on base damage and the primary attribute of Sven.",
+        "dmg": "",
+        "attrib": "BONUS DAMAGE: <b><font color=\"#ffffff\">100%/150%/200%</font></b><br/>SCEPTER ALLY AURA RADIUS: <b><font color=\"#ffffff\">900</font></b><br/><font color=\"#6fe871\">SCEPTER ALLY BONUS DAMAGE:</font></b> <b><font color=\"#ffffff\">50%/75%/100%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/150/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 80",
+        "lore": "With the strength that shattered the Sacred Helm, the Rogue Knight stands unopposed in melee combat.",
+        "hurl": "Sven",
+        "name": "sven_gods_strength",
+        "youtube":"EbnTUOTMvkg",
+        "id": 3
+    }
+]

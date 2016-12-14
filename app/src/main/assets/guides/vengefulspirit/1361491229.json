@@ -1,0 +1,96 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Vengeful Spirit, the wandering support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"tpscroll",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"soul_ring",
+				"ring_of_basilius",
+				"mekansm",
+				"force_staff",
+				"poor_mans_shield"
+			],
+			"luxury":
+			[
+				"smoke_of_deceit",
+				"dust",
+				"ward_sentry",
+				"gem",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gem":"You're not a great Gem carrier since swapping will frequently result in your death, but that doesn't stop you from buying it and giving it to someone a little tankier.",
+				"ward_observer":"Since you'll be roaming all the time, you may as well ward the runes while you're at it.",
+				"courier":"You should be picking up both the courier and the wards, you'll be getting plenty of assist gold later on.",
+				"tpscroll":"TP -> gank -> TP -> gank. Never be seen without one. About to use one? Buy another.",
+				"mekansm":"As the game goes on, you'll find yourself transitioning into a full support - this is a great item for its armor bonus alone though.",
+				"ultimate_scepter":"Amazing for the ability to swap creeps and escape from anywhere",
+				"soul_ring":"Combined with Tranquils, you'll never go back to the fountain again",
+				"tranquil_boots":"Great for keeping your HP up between ganks"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_wave_of_terror",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_wave_of_terror",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_command_aura",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Max early for its damage and stun duration - your ideal ganking tool",
+				"vengefulspirit_wave_of_terror":"Whilst the armor reduction is its main purpose, don't forget its (tiny) damage and also the incredible vision it gives - perfect for checking the Roshan pit.",
+				"vengefulspirit_command_aura":"An aura that is incredible in the late game but next to useless early on, save it for last.",
+				"vengefulspirit_nether_swap":"Swap and stun for the ideal initiation."
+		}
+	}
+}

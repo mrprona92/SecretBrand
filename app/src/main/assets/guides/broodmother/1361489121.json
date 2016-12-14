@@ -1,0 +1,102 @@
+{
+	"Hero":"broodmother",
+	"Title":"Pure Pushing Power",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"tango",
+				"clarity",
+				"clarity",
+				"soul_ring"
+			],
+			"Laning Phase":
+			[
+				"soul_ring",
+				"power_treads",
+				"yasha",
+				"ward_sentry"
+			],
+			"Starting to Push":
+			[
+				"ring_of_basilius",
+				"force_staff",
+				"vladmir",
+				"orchid",
+				"gem"
+			],
+			"Luxury Items":
+			[
+				"manta",
+				"travel_boots",
+				"assault",
+				"black_king_bar",
+				"radiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gem":"If your enemies are warding and you're relatively confident in your survivablity, don't be afraid to pick up a Gem. Life is so much easier when sentry wards aren't a worry.",
+				"ward_sentry":"If you're getting attacked while invisible, be sure to get some sentry wards fast. If you don't have one with you, ask a ranged hero to come into the lane with you to help you de-ward the lane. Don't hesitate to buy some.",
+				"travel_boots":"An optional pickup, the Boots of Travel allow Broodmother to cycle lanes, melt towers, and duck out before anyone can stop her. Make good use of the teleportation; by the time you pick this up, it should be late enough that you're pushing Tier 3 towers.",
+				"power_treads":"Power Treads are a key part for any Broodmother. It gives you what you need, when you need it. Need to survive a gank? Switch to Strength. Need to push? Switch to agility. Need mana? Switch to intelligence. Definitely the best pair of boots for BM.",
+				"vladmir":"Don't think this item's for the benefit of your spiderlings; while it gives them a little bit of armor, the biggest boon goes to your friendly lane creeps. Never push a tower without them.",
+				"ring_of_basilius":"By this point in the game, this should be a really quick & easy pickup. If you're still laning, be sure to turn this off so you don't push the creep line badly. DON'T turn this into an Aquilla; this is going into a Vlad's later.",
+				"orchid":"A fantastic item on Broodmother. It augments her already great ability to wreck lone targets and turns her into an absolute terror for anyone she catches alone. Also, all your mana issues are solved.",
+				"force_staff":"By the time you get the Force Staff, your enemies will begin trying to gank you. Don't waste this; it's invaluable for making a hasty getaway. Alternatively, if you haven't already picked it up, Yasha + treads + webs puts you at about 500 movespeed - consider getting that instead.",
+				"assault":"Essentially a Vlad's++, the AC should turn give your Broodlings and creeps the beef it takes to survive pushes deep into the enemy base.",
+				"black_king_bar":"While a BKB is great for survivability, it's not good for much else. Only pick this up if you're having a hard time surviving your pushes.",
+				"radiance":"Hyper-fed? Feeling like a badass? Pick up a Radiance and watch the world burn around you. BE SURE TO TURN IT OFF WHEN INVISIBLE. Otherwise, your enemies will be able to detect you easily.",
+				"manta":"The Manta Style does wonders for Broodmother in the late game; the illusions allow her to juke enemies with ease as well as melt towers with impunity.",
+				"yasha":"If you've already gotten your Treads and you're still not in a good position to melt towers (e.g. enemy heroes are still keeping the lane balanced), an early Yasha will give you an edge when it comes to forcing other heroes out of the lane, not to mention giving you an early start on a Manta Style.",
+				"soul_ring":"IMPORTANT! Just buy the recipe when you spawn; it'll make it so you can finish your Soul Ring in lane without having to grab the courier."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"broodmother_spin_web",
+			"2":"broodmother_spawn_spiderlings",
+			"3":"broodmother_spin_web",
+			"4":"broodmother_spawn_spiderlings",
+			"5":"broodmother_spawn_spiderlings",
+			"6":"broodmother_spin_web",
+			"7":"broodmother_spawn_spiderlings",
+			"8":"broodmother_spin_web",
+			"9":"broodmother_insatiable_hunger",
+			"10":"broodmother_incapacitating_bite",
+			"11":"broodmother_insatiable_hunger",
+			"12":"broodmother_incapacitating_bite",
+			"13":"broodmother_incapacitating_bite",
+			"14":"broodmother_incapacitating_bite",
+			"15":"attribute_bonus",
+			"16":"broodmother_insatiable_hunger",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"broodmother_spawn_spiderlings":"Before you can push, do not underestimate this as a nuke ability. Harass opponents out of lane with its low cooldown and irrelevant mana cost once you have a Soul Ring.",
+				"broodmother_spin_web":"Max your web first; it's critical to keeping Broodmother safe, fast, and feisty. Get two levels ASAP so you can smother your lane with the webs & take down trees with impunity.",
+				"broodmother_incapacitating_bite":"While a great orb effect, only put a point into this early on if you know you're going to be able to kill with it in the laning phase. Otherwise, save it for when you start to get nice and farmed.",
+				"broodmother_insatiable_hunger":"Broodmother's ultimate is more useful after the laning phase, when you have a chance to pick heros off individually. If you're going up against a solo lane, consider putting a point into this & your E to go for an early kill. Otherwise, save it for when you're getting farmed.",
+				"attribute_bonus":"Broodmother's abilities are all far too key to playing her; only put points into stats when you have no other option."
+		}
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"How to: Dragon Knight",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"quelling_blade"
+			],
+			"Early game =":
+			[
+				"soul_ring",
+				"magic_wand",
+				"boots",
+				"power_treads",
+				"helm_of_iron_will"
+			],
+			"Must need =":
+			[
+				"helm_of_the_dominator",
+				"armlet",
+				"black_king_bar",
+				"mjollnir",
+				"assault",
+				"power_treads",
+				"satanic"
+			],
+			"Mix it up = ":
+			[
+				"greater_crit",
+				"desolator",
+				"satanic",
+				"monkey_king_bar",
+				"heart",
+				"abyssal_blade",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"helm_of_iron_will":"Once you get this item, you can use Soul Ring as much as you like. At this stage of the game you should have your E maxed so you will have insane health regen and armor once you purchase this.",
+				"quelling_blade":"Helps for last hits.
+",
+				"branches":"Early game stats and turns into a Magic Wand.
+",
+				"boots":"Movement speed!
+",
+				"magic_wand":"Magic Wand is an necessity for any front line/in the fight hero such as Dragon Knight. It will provide you with sustain in lane and for early game fights.
+",
+				"tango":"Early game regen.
+Keeps you alive!",
+				"power_treads":"No other boots required except Power Treats (Strength). Gives you early game damage and helps with last hitting/beating up your enemies. ",
+				"assault":"Armor and Attack speed. Great help to damage output and tips you over the edge for survivability. Your enemies can have fun TRYING to kill you after you get this.
+",
+				"heart":"If you are aiming for a more tanky approach. This item will make you almost unkillable. Massive health regen and health boost.
+",
+				"black_king_bar":"Makes you big and shiny and immune to magic damage. Also a great boost to health. This item is a must need for Dragon Knight.",
+				"blade_mail":"When very tanky and in the middle of fights, activating blade mail can cause you to dish out some pretty hefty return damage.",
+				"monkey_king_bar":"Adds a mini stun to your attacks. Makes it almost impossible to escape the dragons wrath.
+",
+				"greater_crit":"Crits always make things interesting. Get this item if you are way ahead.
+",
+				"armlet":"Armlet really turns the tide for Dragon Knights damage output. After this item is aquired, turn it on before a fight to demolish your enemies. Works better in conjunction with Helm of the Dominator (Gives sustain). ",
+				"satanic":"Build helm into this. HUGE lifesteal bonus for a short time. Can really turn the tide of battle.
+",
+				"mjollnir":"Attack speed and lightning. Works extremely well with Dragon Knights ranged area attack. Must need.",
+				"helm_of_the_dominator":"Gives you the sustain and armor you need. Also a slight boost to damage.
+",
+				"desolator":"If the enemy team is heavily armored, this helps to solve the issue. ",
+				"soul_ring":"Very good when used in conjunction with a Flame Breath or Dragon Tail. Can turn the tide of a fight in your favour if used at the right time.
+",
+				"abyssal_blade":"Two stuns, Dragon Tail then Abbysal Blade. Ha!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_tail",
+			"2":"dragon_knight_dragon_blood",
+			"3":"dragon_knight_dragon_blood",
+			"4":"dragon_knight_breathe_fire",
+			"5":"dragon_knight_breathe_fire",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_breathe_fire",
+			"8":"dragon_knight_breathe_fire",
+			"9":"dragon_knight_dragon_blood",
+			"10":"dragon_knight_dragon_blood",
+			"11":"dragon_knight_elder_dragon_form",
+			"12":"dragon_knight_dragon_tail",
+			"13":"dragon_knight_dragon_tail",
+			"14":"dragon_knight_dragon_tail",
+			"15":"attribute_bonus",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_breathe_fire":"Need this early in conjunction with soul ring. Makes it possible for you to poke melee lanes very hard and or pick up easy kills.",
+				"dragon_knight_dragon_tail":"Dragon Tail is a 2.5 second stun at rank 1. Max this last. In melee form it stuns at close range, in dragon form it stuns at range.",
+				"dragon_knight_dragon_blood":"Huge HP regen and armor bonus. This is what makes Dragon Knight extremely powerful. Max this second if you are losing your lane. Max Flame Breath first if you are winning.",
+				"dragon_knight_elder_dragon_form":"Transforms you into a powerful dragon. At rank 1 your attacks trigger a poison damage over time effect. At rank 2, your attacks deal area of effect damage and also apply this poison effect. At rank 3 your attacks deal area damage and apply a heafty slow. Very effective for chasing."
+		}
+	}
+}

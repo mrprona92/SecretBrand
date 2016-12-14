@@ -1,0 +1,77 @@
+{
+	"Hero":"legion_commander",
+	"Title":"GreyShark.Legion Commander (Jungle)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"armlet"
+			],
+			"Mid Game":
+			[
+				"desolator",
+				"basher",
+				"heavens_halberd"
+			],
+			"Late Game":
+			[
+				"heart",
+				"abyssal_blade"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"blink"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"legion_commander_moment_of_courage",
+			"2":"legion_commander_press_the_attack",
+			"3":"legion_commander_moment_of_courage",
+			"4":"legion_commander_press_the_attack",
+			"5":"legion_commander_moment_of_courage",
+			"6":"legion_commander_duel",
+			"7":"legion_commander_moment_of_courage",
+			"8":"legion_commander_press_the_attack",
+			"9":"legion_commander_press_the_attack",
+			"10":"legion_commander_overwhelming_odds",
+			"11":"legion_commander_duel",
+			"12":"legion_commander_overwhelming_odds",
+			"13":"legion_commander_overwhelming_odds",
+			"14":"legion_commander_overwhelming_odds",
+			"15":"attribute_bonus",
+			"16":"legion_commander_duel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,2 @@
+{
+    "roles": ["Initiator", "Nuker", "Escape"],"ID":90,"Patch":"6.79c","Name":"Dark Seer","Alignment":1,"Movespeed":300,"MaxDmg":66,"MinDmg":60,"HP":568,"Mana":377,"HPRegen":0.25,"ManaRegen":0.01,"Armor":6.68,"Range":128,"ProjectileSpeed":0,"BaseStr":22,"BaseAgi":12,"BaseInt":29,"StrGain":2.3,"AgiGain":1.2,"IntGain":2.7,"PrimaryStat":2,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.59,"AttackSwing":0.58,"CastPoint":0.4,"CastSwing":0.67,"Turnrate":0.6,"Legs":2}

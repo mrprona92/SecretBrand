@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 24 Damage<br/>+ 25 Attack Speed<br/>CHANCE TO CHAIN: 25%<br/>CHAIN DAMAGE: 120",
+  "cd": false,
+  "components": [
+    "gloves",
+    "mithril_hammer"
+  ],
+  "qual": "artifact",
+  "notes": "",
+  "desc": "Passive: Chain Lightning - Grants a chance on attack to release a Chain Lightning that hits 4 targets, dealing damage.<br/><br/>Maelstrom is a Unique Attack Modifier that stacks with other Unique Attack Modifiers, but overrides them when Chain Lightning occurs.",
+  "dname": "Maelstrom",
+  "dotaId": "maelstrom",
+  "mc": false,
+  "img": "maelstrom_lg.png",
+  "lore": "A hammer forged for the gods themselves, Maelstrom allows its user to harness the power of lightning.",
+  "id": 166,
+  "created": true,
+  "cost": 2800
+}

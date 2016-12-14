@@ -1,0 +1,184 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"How to Out-Drow the Drows. A Guide to Traxex.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Before Damage":
+			[
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"tpscroll",
+				"boots",
+				"bottle",
+				"power_treads"
+			],
+			"Damage (Take Two)":
+			[
+				"yasha",
+				"lesser_crit",
+				"butterfly",
+				"manta",
+				"greater_crit"
+			],
+			"After Damage":
+			[
+				"monkey_king_bar",
+				"satanic",
+				"assault"
+			],
+			"Alternaitve/Situational":
+			[
+				"invis_sword",
+				"mask_of_madness",
+				"hand_of_midas",
+				"travel_boots",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Overkill for mobility on Drow. You don't have a lot of extremely positioning reliant spells or a need to quickly blink into a fight. You can't use it as an escape either!",
+				"stout_shield":"This isn't helpful at all for you as a ranged hero. Ignore this.",
+				"slippers":"Extra stats alongside some regen items is the best way to enter lane, as it gives you both the sustain to hang in lane as long as possible *and* stronger lasthitting/harassment.",
+				"branches":"GG Branches are the most efficent stats you can buy, and help a ton in the early game.",
+				"ultimate_orb":"Buy this to start your Manta if you need to be more tanky.",
+				"boots":"Going fast is important, you need to be able to position properly to stay alive and maximize your ultimate.
+
+Look at the boots upgrades for thoughts on them.",
+				"gem":"You're not the best gem carrier as it only puts more focus on you in fights. Put this on someone more durable, but don't feel too above yourself to buy it (And put it on someone who will survive most fights!) if your team won't and a stealth hero is really fed.",
+				"talisman_of_evasion":"Buy me first if you're working towards a Butterfly and need to be more durable.",
+				"magic_stick":"Not recommended. Drow doesn't have mana problems and there's in my opinion better options for regen. A possibility versus super spammy laners maybe but otherwise skip it.",
+				"magic_wand":"Not recommended. Drow doesn't have mana problems and there's in my opinion better options for regen. A possibility versus super spammy laners maybe but otherwise skip it.",
+				"ghost":"Extremely situational defensive item, not really worth it on Drow but people will buy it against you!",
+				"clarity":"Not necessary at any stage of the game.",
+				"flask":"Rapid healing, but is disrupted by damage. Be aware of this, and play safe! If you're being harassed a lot in lane after using your sustain, don't be afraid to send the courier with more salves your way (but be reasonable).",
+				"dust":"Reveals pesky stealth units. Don't be afraid to buy it if there's a stealth hero that you need to be aware of.",
+				"bottle":"Starting with a bottle is extremely wasteful on Drow. The mana regen isn't that great on her and there's a better balance for regen/damage on her if you're going mid lane. Its a good EARLY pickup for mid Drow for rune control, but not as a first purchase. Skip it if you're in a sidelane.",
+				"ward_observer":"If nobody else is warding, don't feel too holy than thou to sprig for a few of these. They help the whole team, and can save you a boatload of unreliable gold!",
+				"ward_sentry":"Use these to de-ward or make sure there are no wards nearby. Additionally don't be afraid to buy these and plop them in lane if you're versus a stealth character and want to keep an eye on their movements.",
+				"tango":"Regen is always hugely important in lane. You want to strike a balance in your opening items between regen and stats. Tangoes heal for less but aren't disrupted by damage.",
+				"courier":"You shouldn't HAVE to buy this but every team MUST start with a courier.",
+				"tpscroll":"A get out of jail free card. Always have TWO on you at all times as it gives you great presence, allowing you to split-farm while still being able to show up to defend towers/teamfight. A MUST BUY on any hero.",
+				"travel_boots":"Ultra-Lategame mobility item. Buy these if you're 60 minutes into a game and have no room for teleport scrolls and are worried about backdooring or want to just go fast. I don't recommend them for the most part on Drow, however.",
+				"phase_boots":"You shouldn't really need these as you have amazing lasthitting power already between your aura, free damage, and not too bad base. You also don't need the extra chasing power since you have such a potent slow.",
+				"eagle":"Buy this first if you're looking to buy a butterfly and need more damage.",
+				"power_treads":"Probably your go-to boots for most of the game. They give good stats for Drow and being able to toggle these to the stats you need a the moment is really good. Always start with the \"stat\" item of this boots though over the gloves though, as it offers more to you than the extra attack speed.",
+				"hand_of_midas":"This is a HUGE risk item. While the GPM/EXP in a longer game will prove ideal, you're in essence forcing your team to be down a man while you make it count. Very risky and I don't recommend it for the average pub game.",
+				"poor_mans_shield":"This isn't helpful at all for you as a ranged hero. Ignore this.",
+				"bracer":"EXTREMELY SITUATIONAL. Wraith bands, Bracers, and Nullfires aren't core should ONLY be built to kinda \"buff up\" if you're having a seriously rough game.",
+				"wraith_band":"EXTREMELY SITUATIONAL. Wraith bands, Bracers, and Nullfires aren't core should ONLY be built to kinda \"buff up\" if you're having a seriously rough game.",
+				"null_talisman":"EXTREMELY SITUATIONAL. Wraith bands, Bracers, and Nullfires aren't core should ONLY be built to kinda \"buff up\" if you're having a seriously rough game.",
+				"mekansm":"Generally a support counter to burst. You shouldn't be buying this on Drow unless you're in a team of five carries and you've been forced into the ward bitch position.",
+				"vladmir":"This is a good item for melees, not a rush item, or really a good item on Drow in general.",
+				"flying_courier":"Putting wings on this is good too, and if you can sprig the gold in a pub and nobody else is it's probably worth it to just do it yourself!",
+				"ring_of_basilius":"You don't need the mana regen, and Vlad's isnt that good on you as an early item or in general.",
+				"pipe":"Generally a support counter to magic damage. You shouldn't be buying this on Drow unless you're in a team of five carries and you've been forced into the ward bitch position.",
+				"urn_of_shadows":"You don't need this to confirm kills or for the regen really on Drow. Let someone else buy this.",
+				"sheepstick":"This is an amazing item. Just not for you.",
+				"orchid":"You don't have mana problems, and already have a silence. Ignore this.",
+				"cyclone":"Generally a support item. You shouldn't be buying this on Drow unless you're in a team of five carries and you've been forced into the ward bitch position.",
+				"force_staff":"You don't really need the extra mobility or positioning power this item provides. Catching/killing people with Frost Arrows should be all you need.",
+				"dagon":"Ignore this. You have better options for damage.",
+				"necronomicon":"Necrobook is a strong item, just not on Drow.",
+				"ultimate_scepter":"This doesn't help you. At all.",
+				"refresher":"I didn't even know Drow HAD cooldowns.",
+				"assault":"Buy this if nobody else does. The auras are amazing and the stats it gives will make you even more durable in fights alongside more attack speed. If someone else is buying it, don't.",
+				"heart":"I'm a little torn on this item. The fast regen and HP are nice, but considering you've already got a component for Satanic I'm extremely hard pressed to recommend it.",
+				"black_king_bar":"This is the best investment you can make on almost any carry. A stronger defensive item than Shadow Blade could EVER be. This allows you to ignore most hard crowd control/burst and be the damage machine your team needs you to be.",
+				"shivas_guard":"Extreme tank item. It doesn't help you to have one, so don't bother buying one.",
+				"bloodstone":"This won't help you much. You don't need the mana regen and it's prohibitively expensive for what little it offers Drow. Ignore this.",
+				"sphere":"Black King Bar is a more economical and reliable spellblock. Extremely situational but most of the time not really worth it on Drow.",
+				"vanguard":"This isn't helpful at all for you as a ranged hero. Ignore this.",
+				"blade_mail":"You shouldn't need this, as it isn't your job to be trying to suck up focus.",
+				"rapier":"Are you a baller?",
+				"monkey_king_bar":"This is a great situational response to people who have natural evasion or have built items that give evasion. Its also great versus blinds. It also gets rid of pesky uphill miss but it's still a situational counter item. Only buy it to counter evasion.",
+				"radiance":"Wasteful item on Drow. You don't need the extra aura burn and have no way to make illusions of yourself innately to make it worthwhile.",
+				"butterfly":"An extremely good item! It gives evasion which helps versus the enemy autoattackers, lots of agility, and attack speed. A great item on Drow, and a strong competitor for one of your damage slots.",
+				"greater_crit":"Critical strikes, considering how much free agility you get allows you to do immense amounts of damage really quickly. A really good pickup no matter what other damage items you buy.",
+				"basher":"You already have some of the best slowing power in the game from range. Why on earth would you buy this?",
+				"bfury":"You get NO BENEFIT from building this item.",
+				"manta":"One of the best options you have for damage. It purges debuffs when activated and gives you a 0.1 second of invincibility. Go for the Yasha first unless you feel you need to be tanky, in which case opt for the Ultimate Orb first. Bonus damage doesn't help illusions, but stats do!",
+				"lesser_crit":"Crit is amazing on Drow, and this is a fair pickup either before or after you complete your other big ticket damage items. Always get this part of the recipe first if you're building towards Daedalus.",
+				"armlet":"There's better damage items for you, ignore this.",
+				"invis_sword":"This item isn't as strong as you'd always think. While on the face it seems like a brain-dead option the price is very steep for what is an easily countered and otherwise mediocre escape. The extra burst on your first shot out of stealth also doesn't combine well with your role. Avoid this.",
+				"sange_and_yasha":"This isn't for you. A very budget carry item, there are just better options for Drow.",
+				"satanic":"Your Dominator builds into this naturally, and this can offer the burst regen you need to survive in fights.",
+				"mjollnir":"Doesn't stack with Frost Arrows or your lifesteal. There's better damage items. Skip it.",
+				"skadi":"Don't buy this.",
+				"sange":"You're not going to need any of what this item offers.",
+				"helm_of_the_dominator":"It is an orb effect, but hear me out. You shouldn't be using Frost Arrows on every hit (more on that later), you can build it without leaving lane or using the courier, and it offers every stat you could *ever* want. It also stacks with Vlad's. That's without even considering the active!",
+				"maelstrom":"You shouldn't really need the IAS, also it doesn't stack with your lifesteal *or* Frost Arrows",
+				"desolator":"This doesn't stack with Frost Arrows, or Dominator's lifesteal. Ignore it.",
+				"yasha":"A great pickup on it's own for damage and some more mobility. Builds into Manta Style, one of many damage options you have.",
+				"mask_of_madness":"This item is risky, and sort of noobish. Smart players will beeline on you and wreck you as soon as they hear the active, and you'll be getting enough free agility that the extra attack speed isn't worth the damage amplification.",
+				"diffusal_blade":"Doesn't stack with your Frost Arrows, or Dominator's lifesteal. Ignore this.",
+				"ethereal_blade":"Anytime you're not autoattacking as Drow is time you're not doing huge amounts of damage!",
+				"soul_ring":"You don't have mana problems, you shouldn't be buying this.",
+				"arcane_boots":"You don't have mana problems, you shouldn't be buying this.",
+				"orb_of_venom":"You don't need slow. Doesn't stack with Frost Arrows.",
+				"ancient_janggo":"This is a great item, but I don't think its the best for Drow. They're DECENT but there's better options if someone else can make room for it in their build. One person should have them on a team though.",
+				"medallion_of_courage":"You don't need this item, and it doesn't quite have synergy with your kit.",
+				"smoke_of_deceit":"Mostly for more coordinated/advanced teams. Smoke can be used to bypass wards to gank. Drow Ranger as a carry shouldn't really be ganking in most stages of the game, so avoid this.",
+				"veil_of_discord":"For what magic damage, exactly?",
+				"rod_of_atos":"You have enough slow, and don't benefit much from this item at all. Ignore it.",
+				"abyssal_blade":"Superfluous, you don't need or even want one of these. Ignore it.",
+				"heavens_halberd":"A counter to you, but not an item for you.",
+				"ring_of_aquila":"You shouldn't need this since you don't need mana regen.",
+				"tranquil_boots":"These are amazing boots for a lane in which you're having a lot of trouble with harassment. The sustain is ace and they let you run faster than you'd normally be able to. These also can be disassembled, meaning you can keep them for the lane phase then transition into different boots easily."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_trueshot",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_silence",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_trueshot",
+			"9":"drow_ranger_silence",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_trueshot",
+			"13":"drow_ranger_silence",
+			"14":"drow_ranger_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Always get these first. Orb-Walking (manually casting this spell) is better than putting it on autocast. The slow lasts longer than your autoattack timer, and in lane this also lets you harass without pulling creep aggro. Orb-Walk this spell so you can use Dominator's lifesteal in between slows.",
+				"drow_ranger_silence":"The duration scales up to six seconds. I always max this last amongst my abilities but it has amazing utility if you can land it on the right people. Don't risk your life trying to silence people, though!",
+				"drow_ranger_trueshot":"Drow's aura is a huge part of what makes her so strong. This spell makes your ultimate and item agility count both more for you and improves the rest of your team's ranged damage. Be careful with early points in it though, as it WILL push your lane slightly.",
+				"drow_ranger_marksmanship":"The radius is about the same as Omniknight's Degen Aura. This ultimate is why positioning is so crucial on Drow. It adds MASSIVE amounts of damage to you in the early/mid game, so take the advantage by building defensively first. Maximizing this by keeping distance is paramount.",
+				"attribute_bonus":"Stats come last on Drow. I can't think of a reason to take early points in stats until level 15 as all your skills are more helpful than a bit more of flat stats."
+		}
+	}
+}

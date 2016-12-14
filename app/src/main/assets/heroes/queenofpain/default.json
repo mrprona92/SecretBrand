@@ -1,0 +1,43 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_queenofpain",
+	"Title":"Recommended items for Queen of Pain",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"clarity",
+			"mantle",
+			"circlet"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"bottle",
+			"magic_stick",
+			"null_talisman"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"magic_wand",
+			"ultimate_scepter",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"sheepstick",
+			"skadi",
+			"mjollnir",
+			"shivas_guard",
+			"veil_of_discord",
+			"necronomicon",
+			"sphere",
+			"monkey_king_bar",
+			"desolator",
+			"orchid"
+		]
+	}
+}

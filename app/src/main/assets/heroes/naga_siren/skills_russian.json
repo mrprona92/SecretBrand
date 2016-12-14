@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Mirror Image",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Создает три иллюзии Naga Siren под ее контролем.",
+        "notes": "Первые 0,3 секунды после прочтения этой способности вы неуязвимы, что позволяет избежать оглушений и урона.<br/>При использовании этой способности с вас снимается большинство эффектов.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ КОПИЙ: <b><font color=\"#ffffff\">30/30/30/30</font></b><br/>УРОН КОПИЙ: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>УРОН ПО КОПИЯМ: <b><font color=\"#ffffff\">600%/500%/400%/300%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/80/90/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 40",
+        "lore": "Слисис чувствует себя как рыба в воде, что мешает врагам выследить ее.",
+        "hurl": "Naga_Siren",
+        "name": "naga_siren_mirror_image",
+        "youtube":"v70MJ69BXHc",
+        "id": 0
+    },
+    {
+        "dname": "Ensnare",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Прерывает действия цели, а также опутывает ее сетью, не давая двигаться и телепортироваться.",
+        "notes": "Действует на врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2/3/4/5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/100/110/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Единственный способ избежать ярости Слизеринца — не воевать с ним.",
+        "hurl": "Naga_Siren",
+        "name": "naga_siren_ensnare",
+        "youtube":"EmB60RoN_Do",
+        "id": 1
+    },
+    {
+        "dname": "Rip Tide",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Naga Siren и все ее иллюзии атакуют врагов поблизости мощной волной воды, нанося им урон и снижая их броню на 8 секунд.",
+        "notes": "Ваши иллюзии используют эту способность вместе с вами, но один враг получит урон только один раз.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">130/160/190/220</font></b>",
+        "attrib": "СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">2/3/4/5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Поток из самых глубин сносит защиту противников сирены.",
+        "hurl": "Naga_Siren",
+        "name": "naga_siren_rip_tide",
+        "youtube":"kOUYkdJzR0E",
+        "id": 2
+    },
+    {
+        "dname": "Song of the Siren",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Все враги в определенном радиусе вокруг Naga Siren впадают в состояние магического сна, в котором они не могут ничего делать или быть атакованными. Повторное использование способности преждевременно завершит заклинание.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Враги под действием этой способности неуязвимы и не могут получить урон из какого бы то ни было источника.<br/>Не действует на врагов, невосприимчивых к заклинаниям.<br/>Область действия заклинания передвигается за вами, так что юниты на достаточном расстоянии проснутся.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">1250/1250/1250</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">7/7/7</font></b><br/><font color=\"#6fe871\">ВОССТАНОВЛЕНИЕ ЗДОРОВЬЯ:</font></b> <b><font color=\"#ffffff\">6%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 180/120/60",
+        "lore": "Мощный голос Слисис очаровывает орды противников, пока ее сородичи спешат ей на помощь.",
+        "hurl": "Naga_Siren",
+        "name": "naga_siren_song_of_the_siren",
+        "youtube":"P5Lmhv9mBR4",
+        "id": 3
+    },
+    {
+        "dname": "Остановить Song of the Siren",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Пробудить врагов ото сна, что снова сделает их уязвимыми.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1",
+        "lore": "",
+        "hurl": "Naga_Siren",
+        "name": "naga_siren_song_of_the_siren_cancel",
+        "id": 4
+    }
+]

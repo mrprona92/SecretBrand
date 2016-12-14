@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 3 HP Regeneration<br/>+ 50% Mana Regeneration",
+  "cd": 30.0,
+  "components": [
+    "ring_of_regen",
+    "sobi_mask"
+  ],
+  "qual": "common",
+  "notes": "If the mana gain cannot fit in your mana pool, it creates a buffer of mana that is used before your mana pool.  If this mana is not used before the duration, the extra mana is lost.",
+  "desc": "Active: Sacrifice - Consume 150 HP to temporarily gain 150 Mana.  Lasts 10 seconds.",
+  "dname": "Soul Ring",
+  "dotaId": "soul_ring",
+  "mc": false,
+  "img": "soul_ring_lg.png",
+  "lore": "A ring that feeds on the souls of those around it.",
+  "id": 178,
+  "created": true,
+  "cost": 800
+}

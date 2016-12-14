@@ -1,0 +1,107 @@
+{
+	"Hero":"brewmaster",
+	"Title":"6.82 - Standard Brewmaster (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"arcane_boots",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"black_king_bar",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"refresher",
+				"assault",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger helps you initiate better and it is a generally great item for Brewmaster. It's rushed due to Brewmaster's incredible ultimate and the timing to snag it.",
+				"vladmir":"Vladmir's Offering for your pushing line-up and gives great armor and regeneration. It's not always necessary and may detract from Brewmaster's more imperative items.",
+				"ultimate_scepter":"Aghanim's Scepter offers the supreme power of his ultimate ability, but also the abilities of his regular self, offering a wide variety of ways to disrupt and annoy your foes! Don't forget that it also gives Brewmaster True Sight when using his ultimate.",
+				"refresher":"More Pandas, more crowd-control and intensity! Refresher is typically a good item to consider if your team already has a successful physical carry.",
+				"assault":"Support your primary carry with Assault Cuirass: more survivability for you; extra attack speed for your team!",
+				"black_king_bar":"If you're playing as a semi-carry or just getting initiated on before you can use your ultimate; Black King Bar can stop all that.",
+				"shivas_guard":"More armor, more mana and gives Brewmaster a ton more presence! When initiating, be sure to use this before you pop your ultimate!",
+				"ancient_janggo":"Drums of Endurance gives more oomph in Brewmasters chasing strength and survivability. An overall great item given his range of capabilities.",
+				"heavens_halberd":"More Evasion and more disable for Brewmaster; not a bad item under any circumstances."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_brawler",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_haze",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"We max the amount of damage and its slow. Particularly useful with Blink Dagger. This is your initiation and nuke damage.",
+				"brewmaster_drunken_haze":"Prevent carries from excelling with this slow-and-miss effect. Brewmaster is one of the few heroes that can blind heroes and prevent them from dealing damage.
+
+Level this up in accordance to the enemy's physical carries current situation. If he is active in team-fights, start maxing this out.",
+				"brewmaster_drunken_brawler":"We get 1 level in Drunken Brawler for the guaranteed critical to allow you to more easily last hit and survive in lane.
+
+Get early Drunken Haze if the enemy physically carry is becoming a nuisance early on.",
+				"brewmaster_primal_split":"This is your ultimate and your savior in case of sticky situations. You will control three pandas, be sure to take advantage of your Earth's stun, your Wind's Purge and Cyclone and your Fire's Chase to tear down fleeing opponents. When it ends, you will return to your Earth's location. "
+		}
+	}
+}

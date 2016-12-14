@@ -1,0 +1,106 @@
+{
+	"Hero":"treant",
+	"Title":"[DMX] Treant Protector (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"vanguard",
+				"hood_of_defiance",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"pipe",
+				"assault",
+				"shivas_guard",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"arcane_boots",
+				"phase_boots",
+				"ancient_janggo",
+				"mekansm",
+				"vladmir",
+				"blade_mail",
+				"refresher",
+				"radiance",
+				"mask_of_madness",
+				"greater_crit",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"radiance":"Si vous partez sur un tréant carry.",
+				"greater_crit":"Si vous partez sur un tréant carry.",
+				"satanic":"Si vous partez sur un tréant carry.",
+				"mask_of_madness":"Si vous partez sur un tréant carry.",
+				"soul_ring":"Utilisez le soul Ring avant de cast votre leech seed afin d'harass votre ennemi tout en récupérant de la vie."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_leech_seed",
+			"2":"treant_natures_guise",
+			"3":"treant_leech_seed",
+			"4":"treant_living_armor",
+			"5":"treant_leech_seed",
+			"6":"treant_overgrowth",
+			"7":"treant_leech_seed",
+			"8":"treant_living_armor",
+			"9":"treant_living_armor",
+			"10":"treant_living_armor",
+			"11":"treant_overgrowth",
+			"12":"treant_natures_guise",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"Un bon sort d'invisibilité qui ne fonctionne que près des arbres. Vous pouvez faire des sorts sans être révélé lorsque vous êtes sous l'effet de nature's guise.",
+				"treant_leech_seed":"Votre principal nuke et disable. Il ralentira l'adversaire tout en lui infligeant de bons dégâts et en vous soignant, que demander de plus !",
+				"treant_living_armor":"Un sort global qui vous permettra d'aider vos alliés partout sur la carte. Vous pouvez l'utiliser sur les bâtiments.",
+				"treant_overgrowth":"Un bon snare de zone qui permettra à votre team d'engager facilement. Attention cependant les ennemis pris dans votre ultimate pourront toujours utiliser leurs sorts."
+		}
+	}
+}

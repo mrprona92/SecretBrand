@@ -1,0 +1,89 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"On Armegeddon's Flank",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"quelling_blade",
+				"bracer",
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"helm_of_the_dominator",
+				"armlet",
+				"black_king_bar",
+				"hyperstone",
+				"power_treads"
+			],
+			"luxury":
+			[
+				"heavens_halberd",
+				"satanic",
+				"heart",
+				"ancient_janggo",
+				"monkey_king_bar",
+				"travel_boots",
+				"mjollnir",
+				"assault",
+				"rapier",
+				"manta"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"attribute_bonus",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"chaos_knight_chaos_strike",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Hard stun. This is your main initiation tool for other heroes on your team who need a hard stun to land theirs. MUST MAX FIRST",
+				"chaos_knight_reality_rift":"Damage Amp. and gap closer. Use on an escaping enemy or to enter a battle. Also use after you spawn illusions. It gives you and your illusions the damage bonus and also gives you the chance to trap people in your mob of death.",
+				"chaos_knight_chaos_strike":"Crit. Nuff' said.",
+				"chaos_knight_phantasm":"Ok don't use this at lvl1 unless you really need. This becomes better when it gets to lvl2. Best used before you reality rift."
+		}
+	}
+}

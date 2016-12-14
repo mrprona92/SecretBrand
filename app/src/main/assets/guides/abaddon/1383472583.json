@@ -1,0 +1,81 @@
+{
+	"Hero":"abaddon",
+	"Title":"GreyShark.Abaddon (Carry)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"helm_of_the_dominator"
+			],
+			"Mid Game":
+			[
+				"mjollnir",
+				"black_king_bar",
+				"basher"
+			],
+			"Late Game	":
+			[
+				"heart",
+				"abyssal_blade",
+				"satanic"
+			],
+			"Situation":
+			[
+				"assault",
+				"greater_crit"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_frostmourne",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_death_coil",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_aphotic_shield",
+			"8":"abaddon_frostmourne",
+			"9":"abaddon_frostmourne",
+			"10":"abaddon_frostmourne",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_death_coil",
+			"13":"abaddon_death_coil",
+			"14":"abaddon_death_coil",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

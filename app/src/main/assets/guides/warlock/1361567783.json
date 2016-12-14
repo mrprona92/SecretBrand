@@ -1,0 +1,109 @@
+{
+	"Hero":"warlock",
+	"Title":"6.82 - Standard Warlock (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"pipe",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"refresher",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"If feeling rich, using upheaval with ghost scepter is surprising great!",
+				"ward_observer":"Get Courier or Wards as the responsibility of a support hero.",
+				"courier":"Get Courier or Wards as the responsibility of a support hero.",
+				"mekansm":"Obtain if no other support is getting it. Mekansm can be good, but overall, it is not Warlock's core usefulness.",
+				"ultimate_scepter":"Warlock's ultimate becomes twice the hurt and twice the pushing power as you rush for Aghanim's Scepter. Waste no time trying to get this item, it is near definitive to your victory.",
+				"refresher":"Do it all again! There's no sweeter way to play Warlock than to cast your ultimate and then cast it again thanks to Refresher Orb."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"warlock_fatal_bonds",
+			"3":"warlock_fatal_bonds",
+			"4":"warlock_shadow_word",
+			"5":"warlock_fatal_bonds",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_fatal_bonds",
+			"8":"warlock_shadow_word",
+			"9":"warlock_shadow_word",
+			"10":"warlock_upheaval",
+			"11":"warlock_rain_of_chaos",
+			"12":"warlock_upheaval",
+			"13":"warlock_upheaval",
+			"14":"warlock_upheaval",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"Make sure to catch Fatal Bonds to harass foes out of lane. Additionally, Fatal Bonds works great before you initiate with your ultimate or just using Shadow Word as  a follow-up!",
+				"warlock_shadow_word":"Shadow Word can be similar to Urn of Shadows in that you can apply it offensively or defensively.",
+				"warlock_upheaval":"Upheaval is leveled last because of its usefulness towards the late-game and the importance of Shadow Word and Fatal Bonds during the lane phase and more.",
+				"warlock_rain_of_chaos":"Make sure to micromanage your Golems to push down towers, heroes and push lanes. This is your initiation, so use the stun to trap foes and micromanage your summoned creatures to take down frail enemies."
+		}
+	}
+}

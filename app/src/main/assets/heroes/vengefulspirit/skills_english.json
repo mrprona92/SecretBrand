@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Magic Missile",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Fires a magic missile at an enemy unit, stunning and dealing damage.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "STUN DURATION: <b><font color=\"#ffffff\">1.45/1.55/1.65/1.75</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/120/130/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13/12/11/10",
+        "lore": "A simple Skywrath technique, the magic missile is Shendel\u0027s primary tool for vengeance.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_magic_missile",
+        "youtube":"v0QcCg9lEzU",
+        "id": 0
+    },
+    {
+        "dname": "Wave of Terror",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Vengeful Spirit lets loose a wicked cry, weakening the armor of enemies and giving vision of the path ahead.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">30/50/70/90</font></b>",
+        "attrib": "ARMOR REDUCTION: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>DEBUFF DURATION: <b><font color=\"#ffffff\">15</font></b><br/>VISION DURATION: <b><font color=\"#ffffff\">3/3/3/3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 40/40/40/40<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20",
+        "lore": "Shendel\u0027s haunting voice hints at her approaching vindication.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_wave_of_terror",
+        "youtube":"M-40xlCUWac",
+        "id": 1
+    },
+    {
+        "dname": "Vengeance Aura",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allies</font></b>",
+        "desc": "Vengeful Spirit\u0027s presence increases the physical damage of nearby friendly units. If Vengeful Spirit is slain, her killer will be possessed with a negative Vengeance Aura, reducing the damage of her killer and its nearby allies until Vengeful Spirit revives.",
+        "notes": "The bonus damage provided by the aura is based on base damage and primary attribute.",
+        "dmg": "",
+        "attrib": "DAMAGE BONUS: <b><font color=\"#ffffff\">12%/20%/28%/36%</font></b><br/>RADIUS: <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "",
+        "lore": "Although they may not share her undying passion for revenge, allies do draw on her fanaticism in combat.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_command_aura",
+        "youtube":"313ljmCbIiQ",
+        "id": 2
+    },
+    {
+        "dname": "Nether Swap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Instantaneously swaps positions with a target Hero, friend or enemy.  Nether Swap interrupts channeling abilities on the target.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Works on Spell Immune units.<br/>Trees near Vengeful Spirit and the target will be destroyed when the spell is cast.<br/>Channeling spells are interrupted by Nether Swap.",
+        "dmg": "",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">700/950/1200</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/150/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 45",
+        "lore": "Martyrdom is a small price to pay for vengeance.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_nether_swap",
+        "youtube":"MSS_SNkHVEo",
+        "id": 3
+    }
+]

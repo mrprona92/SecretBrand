@@ -1,0 +1,123 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"Ember Spirit (Xin) - Finland2891- Hard Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"stout_shield",
+				"clarity",
+				"clarity"
+			],
+			"Carry Core Items":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"ring_of_aquila",
+				"pers"
+			],
+			"Carry End Game":
+			[
+				"bfury",
+				"greater_crit",
+				"assault",
+				"mjollnir",
+				"monkey_king_bar",
+				"abyssal_blade",
+				"radiance",
+				"phase_boots"
+			],
+			"Tank End Game":
+			[
+				"hood_of_defiance",
+				"radiance",
+				"heart",
+				"sphere",
+				"assault",
+				"arcane_boots"
+			],
+			"Situtional Option":
+			[
+				"vladmir",
+				"urn_of_shadows",
+				"black_king_bar",
+				"shivas_guard",
+				"sange_and_yasha",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"With Phase Boots, Xin can follow up with his target with Flame Guard on in order to finish them off due to the increased MS of the \"Phase\" active ability, and also gains some significant damage that goes well with Sleight of Fist. However, you should be very carefull with your mana management, becau",
+				"vladmir":"Although very situational. The great thing is that Vladimir's Offering lifesteal WORKS with Sleight of Fist, something that can return the tide of the battle in your favour. Get it if nobody on your team has it.",
+				"urn_of_shadows":"Urn of Shadows seems to be great on Ember. It provides him with HP and mana, what this hero truly lacks. Get it only if you had had a good farm, otherwise it will delay your core
+",
+				"assault":"Assault Cuirass synergizes exellently with Sleght of Fist. The -armor buff that is applied to your opponents makes it easier for you to kill them. Also makes up for your squishyness to some point.
+",
+				"heart":"The ultimate survival item. Heart of Tarrasque provides you with the HP that you so badly miss, plus some ridiculous regen. However, it is very expensive and you should get it after your first orsecond luxury item.
+",
+				"black_king_bar":"Although Xin seemingly doesn't need any more protection from magical damage (You already got Flame Guard and maybe Linkens Sphere), BKB might prove a game-winning item if the enemy team has more than 2 disables. Otherwise it's a waste of money for Xin.",
+				"shivas_guard":"A big-time mana item, Shiva's Guard can be in Xin's inventory only if he is going to play as a tank, in order to reduce your enemies Attack Speed. Also provides you with a nice nuke-slow. But I believe that Ember needs Assault Cuirass more than Shiva's",
+				"sphere":"LS is harder to farm but at this stage of the game, it is the ultimate survival item. It's spell block, combined with Flame Guard, make you almost magic immune, unless they target all their nukes on you. Moreover, with LS spell block, you preserve your Flame for longer, thus dealing more AoE.",
+				"hood_of_defiance":"Hood of Defiance allows you to be more tanky by reducing the magic damage you receive. It will also provide you with great HP regen and make your Flame Guard last longer. Get this item if you want to play as a tanky initiator, otherwise leave it for the true tanks.",
+				"monkey_king_bar":"Great item on Xin. He gains extra damage to be used with Slieght of Fist, and also give him a way to fight those evasion-using carries. Possibly your first choice after Mjollnir.",
+				"radiance":"Radiance is the item that will give you even more AoE damage. Try to combine it with Mjollnir, Flame Guard and Searing Chains for max AoE DPS. 40DPS from Radiance + 45DPS from Flame Guard + 100DPS from Searing Chains + 200 damage from Mjollnir's Static Charge = 385 DPS * 3 seconds at least = 1155 da",
+				"butterfly":"This item provides Xin with three things: Attack Speed, Damage, and Evasion. Xin needs only one of these three things which is damage. He doesn't need any bonus IAS, he has got Sleight of Fist for that purpose. Also he doesn't need any evasion because he is not the kind of hero to go 1v1 with.",
+				"greater_crit":"Not truly made for heroes like Xin, he could get Buriza. The critical strike and bonus damage seem to work well, paired with Sleight of Fist and Battle Fury, but Xin primarily needs survivability and some mana, and Buriza doesn't offer that. However, you could get it if it fits your playstyle.",
+				"bfury":"BF is farmed easier and makes it easier for you to get kills, because it synergizes exellently with Sleight of Fist. Getting BF, however, won't give you the necessary stats,Get it if there are no hard nukers in the enemy team or if you are confident that you can survive without Linken.",
+				"sange_and_yasha":"This item is mostly usefull during mid game, so you are supposed to have it farmed unitll then. However, Battle Fury, who takes just as much time to farm, not only is effective even in late game, but also goes better with Xin's skills than The Twin Swords.",
+				"mjollnir":"Mjollnir, I believe, is the best Orb Effect Ember Spirit could get. The reason for this is the Chain Lightning Effect. During Sleight of Fist, Chain Lightnig triggers and it triggers a lot because you strike many enemy units. Moreover, Static Charge makes you return damage to units in an AoE.",
+				"arcane_boots":"You will need to use all your skills. You don't have that much mana of course, but with Arcane Boots you can make up for that, by increasing your mana pool. Also offers some slightly better MS than Power Treads. Get Arcane Boots if you want to use your skills more freely.",
+				"abyssal_blade":"This item not only increase Xin's DPS, but also provide you with a bash/stun which always comes in handy. However, I wouldn't get them on Xin because I believe that other items like Mjollnir and Battle Fury fit him better",
+				"ring_of_aquila":"You get Ring of Aquilla as soon as possible so that it provides you with mana and armor in the laning phase. Poor Man's Shield is gotten so that you can survive harassment to an extent in the lane Magic Wand in order to make up for your short mana pool and for some stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_searing_chains",
+			"2":"ember_spirit_flame_guard",
+			"3":"ember_spirit_sleight_of_fist",
+			"4":"ember_spirit_flame_guard",
+			"5":"ember_spirit_searing_chains",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_searing_chains",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_searing_chains",
+			"10":"ember_spirit_flame_guard",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_sleight_of_fist",
+			"13":"ember_spirit_sleight_of_fist",
+			"14":"ember_spirit_sleight_of_fist",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"This skill looks similar to Treant's ultimate. It stops your enemies from moving, thus making them easier to reach them or to escape them. Due to it being able to stop chanelling spells, you could use it to stop spells like Dissmemer, Fiend's Grip, Black Hole etc. Also it can be used to set up ganks",
+				"ember_spirit_sleight_of_fist":"Much like Jugg's ultimate, Sleight of Fist makes you INVULNERABLE for as long as it lasts, and like Omnislash, it is your killing skill. You will hit ALL targets in the AoE you target (which makes it even better from Omnislash) and the +120 bonus damage against heroes is simply amazing.",
+				"ember_spirit_flame_guard":"A Pipe of Insight and a Radiance, all in one. You can cast all of your supreme spells. However, dont be overconfident and try to take out Pudge, Batrider or other heroes that have too much AoE or not magical damage because they will \"burn off\" Flame Guard very quickly.",
+				"ember_spirit_activate_fire_remnant":"I believe that this skill has already become his trademark skill. Xin can initiate, chase, escape, deal damage, scout, even have a quick fountain trip with this skill. Its use is very flexible. It is what makes Xin so hard to kill and so hard to escape from.",
+				"ember_spirit_fire_remnant":"I believe that this skill has already become his trademark skill. Xin can initiate, chase, escape, deal damage, scout, even have a quick fountain trip with this skill. Its use is very flexible. It is what makes Xin so hard to kill and so hard to escape from."
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "dotaId": "poor_mans_shield",
+  "id": 71,
+  "img": "poor_mans_shield_lg.png",
+  "dname": "Poor Man's Shield",
+  "qual": "common",
+  "cost": 500,
+  "desc": "Passive: Damage Block - Blocks physical attack damage based on whether the equipped hero is ranged or melee.  Poor Man's Shield will always block attacks from enemy Heroes, but has a 53% chance to block damage from creeps.",
+  "notes": "Multiple sources of damage block don't stack.",
+  "attrib": "+ 6 Agility<br/>MELEE DAMAGE BLOCK: 20<br/>RANGED DAMAGE BLOCK: 10<br/>CREEP BLOCK CHANCE: 53%",
+  "mc": false,
+  "cd": false,
+  "lore": "A busted old shield that seems to block more than it should.",
+  "components": [
+    "slippers",
+    "slippers",
+    "stout_shield"
+  ],
+  "created": true
+}

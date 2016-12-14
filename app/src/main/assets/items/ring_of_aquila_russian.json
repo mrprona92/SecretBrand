@@ -1,0 +1,19 @@
+{
+  "dotaId": "ring_of_aquila",
+  "id": 212,
+  "img": "ring_of_aquila_lg.png",
+  "dname": "Ring of Aquila",
+  "qual": "rare",
+  "cost": 1010,
+  "desc": "Пассивная: Aquila Aura — увеличивает броню и скорость регенерации маны в радиусе 900.<br/>Активируемая: переключает действие ауры на юнитов, не являющихся героями.<br/><br/>Эффекты от нескольких Aquila Aura не складываются.",
+  "notes": "Не сочетается с аурами Ring of Basilius, Ring of Aquila или Vladmir\u0027s Offering.",
+  "attrib": "+ 9 УРОНА<br/>+ 3 к силе<br/>+ 9 к ловкости<br/>+ 3 к интеллекту<br/>+ 1 к броне<br/>РЕГЕН МАНЫ В АУРЕ: 0.65<br/>АУРА ДОП. БРОНИ: 2",
+  "mc": false,
+  "cd": false,
+  "lore": "Кольцо падшего воеводы Акилы продолжает поддерживать армии в бою.",
+  "components": [
+    "wraith_band",
+    "ring_of_basilius"
+  ],
+  "created": true
+}

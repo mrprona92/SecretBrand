@@ -1,0 +1,113 @@
+{
+	"Hero":"centaur",
+	"Title":"6.82 - Standard Centaur Warrunner (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"blink"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"hood_of_defiance",
+				"heavens_halberd"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"crimson_guard",
+				"pipe",
+				"blade_mail"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"heart",
+				"assault"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger allows Centaur Warrunner to improve his initiation ability. With Blink Dagger, you can use your ultimate more to slow your opponent and hoof stomp them to keep them in place.",
+				"ring_of_protection":"Buy ring of protection at the fountain shop and finish your Tranquil Boots (Early Game) at the side-shop with the Ring of Regeneration.",
+				"stout_shield":"Mitigates damage from harassing heros",
+				"cloak":"Cloak and Hood of Defiance work great to reduce the returned damage from Centaur's Double Edge.",
+				"power_treads":"Disassemble your Tranquil boots to pick up Power Treads.",
+				"mekansm":"Mekansm offers armour and survivability for Centaur Warrunner, but isn't directly linked to what makes Centaur Warrunner so amazing. This item is situational if no one on your team is getting Mekansm.",
+				"heart":"Further increases health and regen for Centaur Warrunner. This item helps keep Centaur in the fight and using his low-cooldown abilities to further tear up fights. ",
+				"black_king_bar":"Black King Bar gives you further strength for Return and prevents Double-Edge from all dealing damage back to you.
+
+Getting either Hood of Defiance (into Pipe of Sight) or Black King Bar depends on your enemy team's line-up. It may also be good to consider later in the game.",
+				"shivas_guard":"Synergizes with Return due to its armor stat and your ultimate: Stampede to inflict a longer slow and AOE damage. Great for teamfights and chases!",
+				"vanguard":"Crimson Guard is your team-fighting saviour. It doesn't necessarily add to Centaur's need for Strength but it helps an otherwise frail ally team from considering whether they should try for that tower or not. ",
+				"crimson_guard":"Crimson Guard is your team-fighting saviour. It doesn't necessarily add to Centaur's need for Strength but it helps an otherwise frail ally team from considering whether they should try for that tower or not. ",
+				"blade_mail":"Blade Mail helps reduce the amount of hits you will take and synergizes well with your passive ability: Return. Obtain if opponent's have physical-type carry heros.",
+				"hood_of_defiance":"Black King Bar or Hood of Defiance work out quite nicely. Hood of Defiance keeps you rolling with the Double Edge (with regeneration and reducing the amount of damage you take). It is cheaper than Black King Bar but offers no Strength or Damage for Centaur.",
+				"heavens_halberd":"Strength, Evasion, Disable. Heaven's Halberd was made for a hero with presence like Centaur Warrunner. It makes Return even more valid, it prevents physical enemy carries away and helps you avoid damage.",
+				"tranquil_boots":"Tranquil Boots are still somewhat pretty good on Centaur given Double-Edge does not deactivate the regeneration. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_double_edge",
+			"4":"centaur_hoof_stomp",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_hoof_stomp",
+			"10":"centaur_return",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"centaur_hoof_stomp":"Maxing hoof stomp increases the stun and the damage, it is Centaur Warrunner's best ability and the most useful for damage and stun.",
+				"centaur_double_edge":"You will alternate between Hoof Stomp and Double-Edge due to their high-damage and low cooldowns. Use Double-edge often in the lane to harass last-hitting opponents for large damage and then follow-up with tranquil boots to gain the life back.",
+				"centaur_return":"With more strength comes a better return and this ability helps keep Centaur Warrunner alive while also dealing return damage to heros that you force to fight with you.
+
+If getting harassed by ranged heroes, don't hesitate to get an early point in return.",
+				"centaur_stampede":"This ability is global, use it to help allies run away or if they're chasing an enemy hero. It also has a great slow to really keep your opponent in place, so make sure to use it to initiate team fights."
+		}
+	}
+}

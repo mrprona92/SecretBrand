@@ -1,0 +1,116 @@
+{
+	"Hero":"visage",
+	"Title":"6.82 - Standard Visage (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"medallion_of_courage",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"bottle",
+				"mekansm",
+				"ghost",
+				"rod_of_atos"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"assault",
+				"sheepstick"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Avoid any physical carries targeting you with this item. Ghost Scepter still let's you dish out your main attack: Soul Assumption, without fear of being attacked from physicals.",
+				"bottle":"If you need the mana cost and you are in the middle lane.",
+				"mekansm":"As the meta is gearing towards early Mekansms, you are welcome to rush this item immediately or leave it to other heroes like Viper and Razor to rush it.",
+				"force_staff":"Use Force Staff to get out of enemy-initiated team-fights and to safely use your nuke ability: Soul Assumption.",
+				"ultimate_scepter":"Although the cost is hefty, consider this item for the extra stun and if your team is offering global auras. The pushing power of three familiars is incredible and should be not be overlooked.",
+				"assault":"Assist your physical carry with more armour reduction to its enemies and further armour for yourself as well as attack speed. Assault Cuirass is right up your alley.",
+				"shivas_guard":"Shiva's Guard gives even more armour for Visage, making him comfortable with physical attacks coming his way. With Shiva's Guard, your slow arsenal improves to an unstoppable and unpreventable force.",
+				"medallion_of_courage":"Make your ganks and armor all the more improved with this item. It has an incredible range, letting you safely slow foes, dish damage and finish them off with your Soul Assumption.",
+				"rod_of_atos":"Initiate with this slow due to its range and added stats that Visage needs (health and intelligence). Add Grave Chill to really cripple them.
+
+You can also stack Rod of Atos with Grave Chill and by the time Rod of Atos' effect wears off, Grave Chill is reusable again.",
+				"tranquil_boots":"Tranquil Boots gives Visage the needed armor he loves and the maneuverability he adores to close in on foes and destroy them before they can start to flee."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_soul_assumption",
+			"2":"visage_grave_chill",
+			"3":"visage_soul_assumption",
+			"4":"visage_gravekeepers_cloak",
+			"5":"visage_soul_assumption",
+			"6":"visage_summon_familiars",
+			"7":"visage_soul_assumption",
+			"8":"visage_gravekeepers_cloak",
+			"9":"visage_gravekeepers_cloak",
+			"10":"visage_gravekeepers_cloak",
+			"11":"visage_summon_familiars",
+			"12":"visage_grave_chill",
+			"13":"visage_grave_chill",
+			"14":"visage_grave_chill",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"visage_grave_chill":"Grave Chill slows movement speed and attack speed so be sure to target the right heros who rely on their speed to obliterate your team.",
+				"visage_soul_assumption":"Spam this like crazy during team-fights. The damage occurring throughout the fight will be much faster than your cooldown. This is an incredible nuke with a low cooldown and very good range, take advantage of it.",
+				"visage_summon_familiars":"Familiars have a high-bounty death, so avoid getting them killed. However you can stack their stun duration by activating them on after the other. Be sure to use them on heroes who are channeling their ability or to knock heroes in a team-fight.
+
+They are also great scouts for Roshan pit."
+		}
+	}
+}

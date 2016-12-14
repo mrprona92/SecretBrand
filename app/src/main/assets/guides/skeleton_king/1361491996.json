@@ -1,0 +1,120 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Detailed Guide to Skeleton King (SK)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"flask",
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"helm_of_iron_will",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"black_king_bar",
+				"desolator",
+				"phase_boots"
+			],
+			"luxury":
+			[
+				"quelling_blade",
+				"hand_of_midas",
+				"soul_ring",
+				"power_treads",
+				"maelstrom",
+				"mjollnir",
+				"basher",
+				"abyssal_blade",
+				"assault",
+				"ancient_janggo",
+				"monkey_king_bar",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"helm_of_iron_will":"Provides great sustainability with bonus armor and regeneration while also being a component (part of the recipe) of Armlet of Mordiggian.",
+				"quelling_blade":"Sacrificing this for a Stout Shield can be risky as it makes you more vulnerable to harass, but  this can pay off in a big way. It makes it easier to last hit, especially under the shadow of your own tower.",
+				"stout_shield":"Provides great sustainability in lane. Not only will enemy heroes be less effective harassing you, but creeps will deal significantly less damage to you. For more last hitting power, this can be replaced with a Quelling Blade which is pictured below in the Situational Items section of the guide.",
+				"branches":"The most cost efficient item in the game, this will give you more health to sustain harassment and damage to last hit more efficiently. Can be used to build a Magic Stick later.",
+				"boots":"This boot and many others can be purchased at the side shops located on top and bottom lanes as well as the main shop. If you want to farm more gold, save up for Armlet of Mordiggian after purchasing these boots. If you want to   be fighting heroes at this point of the game, purchase Phase Boots.",
+				"magic_wand":"Using this with a decent amount of charges can give you just enough mana you need to cast another Hellfire Blast or to use your Reincarnation when you die. Another good option is Soul Ring, which sacrifices health for mana. Soul Ring is pictured below in the Situational Items section of the guide.",
+				"clarity":"Basic mana regeneration consumable. As a strength hero, Skeleton King is able to cast only one spell in the early game before running out of mana.",
+				"flask":"Necessary healing item for the early stages of the game. Be sure to use your Tangos first and save your Salve for a situation where you need quick healing or are running from an opponent who can't hit you to turn the fight in your favor.",
+				"tango":"Basic healing item. Use these in between last hitting from time to time when you have lost hit points. The healing combined with the block of a Stout Shield will negate harassment from enemy heroes.",
+				"phase_boots":"The boot of choice for chasing. The damage scales exceptionally well with Critical Strike. Use your Hellfire Blast on a target and attack him until the stun and slow have ended, then use the active ability Phase to chase him. This will allow you to keep up with fleeing opponents most effectively.",
+				"relic":"A component of both Divine Rapier and Abyssal Blade.  Can only be purchased from the secret shop.",
+				"power_treads":"Phase Boots scale better with Critical Strike, but Power Treads are a viable option. These still give you 8 damage as well as some health and attack speed. Remember, these can be purchased at the side shops at both the top and bottom lanes.",
+				"hand_of_midas":"If you plan on farming, get this as soon as possible. If you acquire Hand of Midas by 7 to 8 minute mark, it will put you at a great advantage in the later stages of the game. It will make you weaker in the mid game, but Transmuting creeps in the jungle can net you good experience and gold.",
+				"bracer":"If you are struggling anywhere from 8 to 12 minutes into the game, buy a Bracer to tank up a bit and give you some damage. It is also a component of Drum of Endurance.",
+				"assault":"A strong mid to late game item that synergizes well with Critical Strike. If your team has a lot of physical damage (carry type heroes), this is a great item to purchase. Assault Aura will boost the armor and physical damage of Skeleton King and any nearby team mates.",
+				"black_king_bar":"I would recommend buying this item in every game you play unless it is a total blowout. The stats on Black King Bar (BKB) give you 34 damage and a decent amount of health. The active ability Avatar makes you immune to many spells. Some spells are able to penetrate Avatar's immunity.",
+				"rapier":"Skeleton King is a great hero to hold Divine Rapier because of Reincarnation. This synergizes absurdly well with Critical Strike. Second most expensive item in the game behind Abyssal Blade.",
+				"monkey_king_bar":"If your opponents have any abilities or items that provide them with dodge, Monkey King Bar (MKB) is a great late game option. True Strike negates dodge effects and the Mini-Bash is useful for its damage as well as its interrupt against channeled spells.",
+				"basher":"An alternative Core Item that can be purchased after armlet. Solid option in low tier brackets. The Bash ability can interrupt channeling spells and Town Portal Scrolls. Skull Basher is also a component of Abyssal Blade, a powerful late game item.",
+				"armlet":"The passive stats are good, but the active ability is what makes this item perfect for Skeleton King. With Vampiric Aura, it is easy to keep the active ability (known as a toggle or use item) on for longer periods of time. Synergizes well with Critical Strike and scales well into the late game.",
+				"mjollnir":"Provides exceptional damage to synergize with Critical Strike and a Chain Lightning that is stronger than Maelstrom's. Static Charge is an ability that damages enemy attackers. It is important to note that Chain Lightning will work with other Unique Attack Modifiers and pairs well with Desolator.",
+				"maelstrom":"A nice mid game item if you are farming consistently and want to purchase a Mjollnir for the late game. The Chain Lightning is useful for farming and pushing as well as providing some additional burst damage to pair with Critical Strike.",
+				"desolator":"Armor penetration scales well with Critical Strike. This also boosts the physical damage of any members of your team on opponents you strike. Corruption is arguably the best Unique Attack Modifier (UAM). Other options are Maelstrom and Mjollnir which are pictured below.",
+				"soul_ring":"Sacrifice is a great active ability. Skeleton King has high health because he has naturally high strength and good strength gain per level (+2.9). Use this before casting Hellfire Blast or before dying to always have enough mana to Reincarnate.",
+				"ancient_janggo":"Not a bad mid game option if you are not the main carry on your team. Swiftness Aura as well as the active ability Endurance boost the combat abilities of your entire team. It also gives you a respectable amount of damage, health, and mana for its price.",
+				"abyssal_blade":"Arguably the most powerful item in the game. The damage from this is absurd, but the active ability makes this incredible. This stun goes through any type of immunity, such as Black King Bar. Also gives you a passive Bash ability to interrupt channeling and lock down targets."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"attribute_bonus",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"attribute_bonus",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_critical_strike",
+			"9":"skeleton_king_critical_strike",
+			"10":"skeleton_king_vampiric_aura",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_critical_strike",
+			"13":"skeleton_king_critical_strike",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_vampiric_aura",
+			"16":"skeleton_king_reincarnation",
+			"17":"skeleton_king_vampiric_aura",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"The damage increases per level and the mana cost is expensive regardless of level, so we should rank this skill. Make sure you don't use this skill without saving enough mana for Reincarnation.",
+				"skeleton_king_vampiric_aura":"Vampiric Aura can help us sustain hitpoints while farming in the jungle. We should also have Armlet of Mordiggian soon, which synergizes well with Vampiric Aura.",
+				"skeleton_king_critical_strike":"Now that we have higher damage from strength gain and items, we can start putting ranks into Critical Strike. This ability scales well into the late game because it synergizes with damage gained from items.",
+				"skeleton_king_reincarnation":"Three seconds after dying, you will be brought back to life with max health and mana. Make sure you have enough mana to use this and you don't waste it on a Hellfire Blast. If this is on cooldown at levels 11 and 16, you can wait to get the next rank when you level up again.",
+				"attribute_bonus":"Early levels in Attribute Bonus are good for multiple reasons: more health, more damage, and most importantly more mana to cast either one more Hellfire Blast or be able to use Reincarnation by the time you hit level 6."
+		}
+	}
+}

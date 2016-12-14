@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Searing Chains",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ember Spirit выпускает горящие бола, которые удерживают врагов на месте и наносят ежесекундный урон.",
+        "notes": "Заклинание применяется на случайных юнитов рядом с Зином.<br/>Не действует на невосприимчивых к заклинаниям или невидимых юнитов.<br/>Прерывает прочтение заклинаний.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1/2/2/3</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">400</font></b><br/>УРОНА В СЕКУНДУ: <b><font color=\"#ffffff\">80/60/120/100</font></b><br/>ОБЩИЙ УРОН: <b><font color=\"#ffffff\">80/120/240/300</font></b><br/>ЦЕЛЕЙ: <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14/12/10/8",
+        "lore": "Самые горячие уроки Зина проходят с использованием раскаленных докрасна цепей.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_searing_chains",
+        "youtube":"ca7UulcBAjs",
+        "id": 0
+    },
+    {
+        "dname": "Sleight of Fist",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Ember Spirit стремительно атакует всех врагов в указанной области, затем возвращается к его исходному местонахождению. Крипам наносится только часть дополнительного урона.",
+        "notes": "Цели выбираются в момент прочтения заклинания.<br/>Герой наносит обычный удар каждой цели каждые 0,2 секунды.<br/>Во время действия этой способности любые модификаторы атаки, которые имеет герой (например, критический удар, оглушающий удар, прорубающая атака или уникальные модификаторы атаки), будут срабатывать как обычно.<br/>Во время действия Sleight of Fist можно использовать способности и предметы.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">250/350/450/550</font></b><br/>ДОП. УРОН ГЕРОЯМ: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>ИНТЕРВАЛ МЕЖДУ АТАКАМИ: <b><font color=\"#ffffff\">0.2</font></b><br/>УМЕНЬШЕНИЕ УРОНА КРИПАМ: <b><font color=\"#ffffff\">50%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/22/14/6",
+        "lore": "Опытный воин должен маневрировать и пробиваться сквозь врагов, сжигая всех на своем пути.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_sleight_of_fist",
+        "youtube":"IwgpZwTKjco",
+        "id": 1
+    },
+    {
+        "dname": "Flame Guard",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ember Spirit окружает себя огненным щитом, который поглощает магический урон и полностью защищает героя. Когда способность активна, она наносит периодический урон по площади вокруг Ember Spirit. Если щит окажется сломан, урон наноситься не будет.",
+        "notes": "Щит блокирует урон до прочих факторов.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">8/12/16/20</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">400</font></b><br/>ВПИТЫВАЕТ УРОНА: <b><font color=\"#ffffff\">50/200/350/500</font></b><br/>УРОНА В СЕКУНДУ: <b><font color=\"#ffffff\">30/40/50/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 35",
+        "lore": "Врагу нельзя давать легко приблизиться.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_flame_guard",
+        "youtube":"zw9G68rgHt0",
+        "id": 2
+    },
+    {
+        "dname": "Activate Fire Remnant",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выбрать, к какому Fire Remnant переместиться.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Дух летит со скоростью молнии!",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_activate_fire_remnant",
+        "youtube":"BmnxTs3P5Tg",
+        "id": 3
+    },
+    {
+        "dname": "Fire Remnant",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ember Spirit получает один заряд Fire Remnant каждые 35 секунд; максимум зарядов может быть 3. При использовании заряда создается огненная копия героя, которая бежит к указанному месту со скоростью, в 2,5 раза большей скорости героя. Используя способность Activate Fire Remnant, Ember Spirit может быстро переместиться по всем копиям копиям, взрывая их и нанося урон по площади. Выбранная копия будет конечной целью полета.",
+        "notes": "Вначале дается 3 заряда (максимум).<br/>Ваши копии бегут туда, куда вы указали, со скоростью в 2,5 раза больше вашей.",
+        "dmg": "",
+        "attrib": "МАКС. ЗАРЯДОВ: <b><font color=\"#ffffff\">3</font></b><br/>ВРЕМЯ ВОССТАНОВЛЕНИЯ ЗАРЯДА: <b><font color=\"#ffffff\">35</font></b><br/>УРОН: <b><font color=\"#ffffff\">100/150/200</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">450</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">45</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Сила духа вновь несет учение Зина.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_fire_remnant",
+        "youtube":"PbXcv1MG-go",
+        "id": 4
+    }
+]

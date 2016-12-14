@@ -1,0 +1,96 @@
+{
+	"Hero":"tusk",
+	"Title":"[DMX] Tusk (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"clarity",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"tpscroll",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"tpscroll"
+			],
+			"Fin de Partie":
+			[
+				"desolator",
+				"heart",
+				"monkey_king_bar",
+				"travel_boots",
+				"sheepstick"
+			],
+			"Situationnels":
+			[
+				"bfury",
+				"armlet"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bloodstone":"Bloodstone vous permettra d'avoir une excellente régénération et de pouvoir ganker très facilement.",
+				"bfury":"Si vous arrivez a bien farmer/faire de kills, Battlefury est un très bon item, car il fonctionne lors de votre ultimate.",
+				"armlet":"Un bon item pour tusk si vous maitrisez bien son actif. Vous permettra d'avoir un bonus de dommages encore plus grand avec votre ultimate."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_ice_shards",
+			"2":"tusk_snowball",
+			"3":"tusk_ice_shards",
+			"4":"tusk_frozen_sigil",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_snowball",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tusk_ice_shards":"Votre principal Nuke, il faut le maxer au début pour infliger les plus de dommages possibles. N'oubliez pas qu'il bloquera le premier héros qu'il touche.",
+				"tusk_snowball":"Un bon sort pour engage avec vos allié. Vous pouvez l'utiliser avant ou après ice shard, selon votre position.",
+				"tusk_frozen_sigil":"Une petite ward volante très utile en teamfight car elle ralentira tout le monde en vitesse d'attaque et en vitesse de déplacement. Cependant, faîtes attention car elle peut se faire tuer et donne des golds à vos adversaires.",
+				"tusk_walrus_punch":"Un très bon ultimate avec un court cd, il infligera de plus en plus de dommages au cours de la game et vous permettra de disable un ennemi pour une courte durée."
+		}
+	}
+}

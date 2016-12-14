@@ -1,0 +1,82 @@
+{
+	"Hero":"furion",
+	"Title":"75thRR` Фурион ( Лес )",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"clarity",
+				"clarity"
+			],
+			"7:00 - 8:30":
+			[
+				"hand_of_midas"
+			],
+			"До 18 минуты":
+			[
+				"desolator",
+				"phase_boots"
+			],
+			"Окончательная сборка":
+			[
+				"desolator",
+				"greater_crit",
+				"monkey_king_bar",
+				"phase_boots",
+				"sheepstick",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"Обязательно покупайте 2 кларити , так как после 3 вызовов трентов у вас уже не останется маны .",
+				"phase_boots":"+ к урону и к скорости передвижения. Очень поможет при сражениях на лайнах .",
+				"hand_of_midas":"Очень помогает в лесу. Каждые 100 секунд можно использовать на крипа (Кроме древних) и получить за это 190 золота и в два с половиной раза больше опыта за этого крипа.Также увеличивает скорость атаки , что позволяет быстрее убивать крипов",
+				"ring_of_basilius":"Всегда держите ауру включенной , если вы качаетесь в лесу, это дает доп.броню крипам .",
+				"sheepstick":"Либо орчид",
+				"orchid":"Либо хекс",
+				"greater_crit":"Дает большую прибавку к урону и криты в 240% с вероятностью 0.25 , что очень полезно как в лесу , так и на лайнах.",
+				"invis_sword":"Если у врагов есть варды,гем или просветка , то не покупайте ШБ",
+				"desolator":"Дает значительную прибавку к урону за сравнительно небольшую цену ( На него легко накопить с даедалусом в лесах ). Очень хорошо подходит к Daedalus."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_teleportation",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_sprout",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

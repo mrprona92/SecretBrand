@@ -1,0 +1,48 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "viper_poison_attack",
+        "2": "viper_corrosive_skin",
+        "3": "viper_poison_attack",
+        "4": "viper_nethertoxin",
+        "5": "viper_poison_attack",
+        "6": "viper_viper_strike",
+        "7": "viper_poison_attack",
+        "8": "viper_nethertoxin",
+        "9": "viper_nethertoxin",
+        "10": "viper_corrosive_skin",
+        "11": "viper_viper_strike",
+        "12": "viper_nethertoxin",
+        "13": "viper_corrosive_skin",
+        "14": "viper_corrosive_skin",
+        "15": "attribute_bonus",
+        "16": "viper_viper_strike",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {}
+}, "Hero": "viper", "ItemBuild": {
+    "ItemTooltips": {
+        "courier": "A team is nothing w/o a courier",
+        "ring_of_basilius": "Early game mana to harass with 0 cd poison attack",
+        "ward_observer": "Take them bitches with map control",
+        "force_staff": "To chase/escape with\n\n",
+        "rod_of_atos": "MORE SLOWWWWW",
+        "shivas_guard": "WTF AOE SLOWWW",
+        "arcane_boots": "You\u0027ll need mana to autocast that lovely first skill and earn yourself some much  needed assists",
+        "skadi": "This just won\u0027t work...",
+        "refresher": "I DARE YOU to buy this item. Buy it and enjoy the hospitality and kind words from the dota 2 community"
+    },
+    "Items": {
+        "Pick One": ["ward_observer", "courier"],
+        "Early Game": ["tango", "flask", "ring_of_basilius", "boots"],
+        "Middle Game": ["arcane_boots", "force_staff", "rod_of_atos"],
+        "Luxury": ["pipe", "ultimate_scepter", "flying_courier", "shivas_guard"]
+    }
+}, "Title": "Be the BestSUPPORT viper"}

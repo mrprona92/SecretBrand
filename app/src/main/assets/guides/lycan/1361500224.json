@@ -1,0 +1,98 @@
+{
+	"Hero":"lycan",
+	"Title":"[DMX] Lycanthrope (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"vladmir",
+				"medallion_of_courage",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"abyssal_blade",
+				"heart",
+				"travel_boots",
+				"desolator"
+			],
+			"Situationnels":
+			[
+				"necronomicon",
+				"heavens_halberd",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"necronomicon":"Si vous êtes bon en micro-gestion, faire un necronomicon est un bon choix pour augmenter encore plus votre puissance de push.",
+				"black_king_bar":"Lycanthrope est très sensible aux contrôles, faire une BKB est donc indispensable.",
+				"desolator":"La desolator est l'orb effect le plus rentable sur lycanthrope, elle vous permet de littéralement détruire les batiments et les ennemis en une poignée de secondes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"Ces loups vous permettront de wood assez facilement, de scouter sur la map et d'infliger de très gros dégâts. n'oubliez pas qu'au level maximum, les loups sont invisibles tant qu'ils n'attaquent pas.",
+				"lycan_howl":"Un très bon sort en teamfight ou pour push les bâtiments.",
+				"lycan_feral_impulse":"Un sort qui va considérablement augmenter votre dps et celui de vos loups.",
+				"lycan_shapeshift":"Vous permet de fuir, ou de poursuivre un ennemi sans aucun difficulté. De plus son cd est très court ce qui en fait un ultimate vraiment très puissant."
+		}
+	}
+}

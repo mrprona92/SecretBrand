@@ -1,0 +1,140 @@
+{
+	"Hero":"phoenix",
+	"Title":"6.80 Support Phoenix",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"clarity",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"magic_wand",
+				"mekansm",
+				"ward_observer",
+				"dust",
+				"ward_sentry",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"rod_of_atos",
+				"pipe",
+				"blade_mail",
+				"vladmir",
+				"ghost",
+				"gem",
+				"black_king_bar",
+				"veil_of_discord"
+			],
+			"Luxury items":
+			[
+				"sheepstick",
+				"heart",
+				"shivas_guard",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Phoenix has 0 starting armor so we grab a RoP. It also builds into our Tranq boots.",
+				"sobi_mask":"Can/should be picked up early to help with mana regen. Later builds into an urn. SKIP IF YOU DON'T PLAN TO UPGRADE IT INTO SOMETHING",
+				"boots":"Phoenix movement speed is really lacking so get these early",
+				"gem":"Get this if there are invis heroes and no one else in your team is better at carrying it.",
+				"magic_stick":"Standard laning item. Should be gotten 90% of the time.",
+				"magic_wand":"Standard laning item. the extra burst of hp/mana can really save you or help you land that kill. Should be gotten 90% of the time .",
+				"ghost":"If the enemy has a lot of physical dmg dealers that are focusing you this can help you survive. Be carefull though as it boosts magic damage taken.",
+				"clarity":"Some extra mana regen can be good for either you or your lane mate (can be replaced with an iron branch or skipped entirely)",
+				"flask":"More regen if we get low or if our carry does.",
+				"dust":"Get dust if the enemy team has invis heroes",
+				"ward_observer":"As a support it is your job to grab courier or wards.
+Make sure to keep rune and jungle wards up and to deward enemy pull camps.",
+				"ward_sentry":"Use during teamfights to spot invis heroes or to deward enemy wards.",
+				"tango":"3/4 abilities use health to cast so we need lots of regen",
+				"courier":"As a support it is your job to grab courier or wards.",
+				"tpscroll":"ALWAYS carry a tp scroll (sometimes multiple)",
+				"mekansm":"Mek! No team should ever be without a mek and Phoenix is a good carrier of a mek since it helps him with both armor and hp regen while also supporting his team. Usually you build the shield component first.",
+				"vladmir":"Getting vlads mid/lategame can be good if your team has atleast 2 right clickers.",
+				"flying_courier":"Remember to upgrade courier at 3 min (unless someone else is)",
+				"pipe":"If the enemy team has lots of magic nukers like skywrath mage and zues this item is an excellent item for your team.",
+				"urn_of_shadows":"Getting an urn can really help keep your hp up during/between fights. Can also heal allies and harm enemies. Don't get it if someone else is better of getting it.",
+				"sheepstick":"Scythe is an excellent item to get late game. It offers a nice set of stats and the disable is amongst the best in the game.",
+				"cyclone":"Eul's is a decent item as it gives a lot of what Phoenix needs but there are better items out there. Get this if you need mana regen and movespeed or the disable.",
+				"heart":"If you are a very rich Phoenix and don't need any support items this item is good if you need a survivability boost.",
+				"black_king_bar":"If the team has a ton of disables BkB can help out.",
+				"shivas_guard":"Shiva works perfectly with Phoenix's abilities. It fixes most if not all of your mana problems, offers a big boost to armor and the aoe lets you slow enemies.
+TIP: use before popping your ulti to trap enemies.",
+				"sphere":"If the enemy team only has a few disables this item can be a good late pick up to save yourself or a teammate, but should almost never be gotten over other support items.",
+				"blade_mail":"If you feel tanky enough to handle the damage and want to make the enemy suffer for attacking you then blade mail is a decent pick up as you attract a lot with your flashy moves. Often its not worth it though.",
+				"soul_ring":"An alternative to urn. This item is semi-good as it offers regen and mana for health. Be careful not to use this then spam abilities as you can get dangerously low on HP.",
+				"arcane_boots":"An alternative to Tranq boots. These have the added benefit of restoring mana in an aoe around you. You will generally need to pick up some regen if you get these instead of tranqs.",
+				"ancient_janggo":"Drums are an okay item on Phoenix as it gives good stats and the buff is good for your team. Generally this is best gotten if you have crap farm and/or you are falling behind.",
+				"smoke_of_deceit":"Get this if you gotta sneak up on a gank.",
+				"veil_of_discord":"Offers a ton of good stats and the active is very good if you got a team with lots of magic damage.",
+				"rod_of_atos":"Rod of atos can be gotten as it gives a huge boost to hp and mana both which Phoenix needs. The Slow is also a great addition to your arsenal.",
+				"heavens_halberd":"Halberd is a good item if the enemy has a right clicker that you want to disable. The evasion and stats helps you survive aswell and offers a mini slow.",
+				"tranquil_boots":"Phoenix has crappy movement speed, his abilities use hp and he has no armor. These boots give all of that.
+Remember that broken boots still give armor and movespeed"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_fire_spirits",
+			"4":"phoenix_sun_ray",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_sun_ray",
+			"9":"phoenix_sun_ray",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_icarus_dive",
+			"13":"phoenix_icarus_dive",
+			"14":"phoenix_icarus_dive",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Get one point in dive early to run away or to initiate a fight. Remember that you can click it again while diving to stop it. Costs 15% of hp and has no mana cost. Only the dmg gets better so we max this last.",
+				"phoenix_fire_spirits":"Use this during fights to slow the enemies attack speed and to deal heavy magic damage. Remember that the attacks are in an aoe and that the dmg doesn't stack, it only resets the dmg so try to throw another as the first is running out.",
+				"phoenix_sun_ray":"This is your big bad support and nuking ability. It deals some serious damage and heals your allies for half of the dmg. It hurts us way to much to skill early so we pick it up after spirits.",
+				"phoenix_supernova":"Phoenix turns into a magic immune, burning sun that can only be destroyed by being right clicked. Deals damage and a stun in a massive aoe. It also heals you to 100% hp and mana if it doesn't get destroyed and resets all cooldowns. Try to slow the enemies attack and movespeed before using it.",
+				"phoenix_sun_ray_toggle_move":"This lets you move slowly while channeling Sun ray."
+		}
+	}
+}

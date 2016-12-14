@@ -1,0 +1,121 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"6.82 - Standard Shadow Shaman (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"bottle",
+				"blink",
+				"ghost",
+				"cyclone",
+				"black_king_bar",
+				"mekansm"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"refresher"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"To help you gank foes easier, this Blink Dagger should be very much considered to be ahead. For even more maneuverability, Force Staff can also be bought.",
+				"ghost":"Avoid being targeted by physical carries with this item.",
+				"bottle":"Bottle for roaming is not a bad choice whatsoever.",
+				"courier":"Considering picking up a Courier or Wards if no one else will.",
+				"mekansm":"Though it is not your priority or obligation, Mekansm should be a if-no-one-else-is-getting-it item for you. Be sure to double-check who else is getting it though.",
+				"urn_of_shadows":"With Shadow Shaman's great ganking abilities, Urn wouldn't be such a bad choice at it keeps him roaming, on the field and healing teammates after fights.",
+				"cyclone":"Further your disables with this movement-speed buff and enhances your disabling capabilities with Cyclone!",
+				"force_staff":"Escape or chase with this versatile item. You can engage with Shackles or escape after popping your ultimate: Serpent Wards, to trap foes.",
+				"ultimate_scepter":"More pushing power, more wards. This is great item overall for Shadow Shaman's ability to fortify areas you want to fight and take down towers easily.",
+				"refresher":"More crowd-control, more Shiva's Guard, more Serpent Wards for incredible pushing power. Refresher's Orb is when you have nothing else to afford.",
+				"black_king_bar":"When Ghost Scepter is not enough, go Black King Bar. In most cases however, Ghost Scepter should be sufficient to avoid physical damage-dealers who target frail casters such as yourself.",
+				"shivas_guard":"The extra armor is always desirable and given how short your range is for your abilities, Shiva's Guard works out in team-fights.",
+				"bloodstone":"If you can manage, snag this."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_shackles",
+			"2":"shadow_shaman_ether_shock",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_voodoo",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_shackles",
+			"9":"shadow_shaman_shackles",
+			"10":"shadow_shaman_shackles",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_voodoo",
+			"13":"shadow_shaman_voodoo",
+			"14":"shadow_shaman_voodoo",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_voodoo":"Due to Hex's mana cost, there is no way Shadow Shaman can support both Shackles and Hex. In addition, Ether Shock's damage is pretty good in the early phase of the game.",
+				"shadow_shaman_shackles":"This ability is a channel, the damage is constant, so focus more on who you can work this with rather than trying to take down opponents on your own.",
+				"shadow_shaman_mass_serpent_ward":"Using Mass Serpent Wards is massive in team fights or to push down towers fast. No hero alone would fight these Serpent Wards on their own due to their attack speed and massive damage.
+
+You can trap heroes using these serpent wards with a bit of practice and timing."
+		}
+	}
+}

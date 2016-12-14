@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gold">#ffe9de23</color>
+    <color name="xp">#ff00cde9</color>
+    <color name="buyback">#ffe9de23</color>
+    <color name="barracks">#ff952be9</color>
+    <color name="item">#ff00dae9</color>
+    <color name="lowlight">#ffaaaaaa</color>
+    <color name="rapier">#ffe9009a</color>
+    <color name="roshan">#ffe97000</color>
+    <color name="tower">#ff005de9</color>
+
+    <color name="radiant_transparent">#9b00a527</color>
+    <color name="radiant_transparent_dead">#c400310c</color>
+    <color name="radiant_dark">#ff003a11</color>
+    <color name="dire_transparent">#9baf1715</color>
+    <color name="dire_transparent_dead">#d12b0605</color>
+    <color name="dire_dark">#ff620d0c</color>
+</resources>

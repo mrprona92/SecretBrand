@@ -1,0 +1,97 @@
+{
+	"Hero":"batrider",
+	"Title":"Batrider Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"blink",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"sphere",
+				"heart",
+				"travel_boots",
+				"rod_of_atos",
+				"sheepstick",
+				"shivas_guard",
+				"pipe",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Your core item - all you need to do is Blink in and grab an important enemy with your Lasso (preferably a carry or a squishy mid).",
+				"ring_of_protection":"You can also skip the Ring of Protection and either the Tango or the Salve in order to get a fast Bottle (if that is what you are going for and you are going mid).",
+				"pipe":"Adds to your tankiness and provides your team with a defense against pesky casters.",
+				"sheepstick":"Solves your mana problems and allows you to disable an additional enemy in a fight.",
+				"force_staff":"You can Force Staff yourself after you Blink in and Lasso a target without breaking it. However, getting Blink and Force Staff first leaves you with little to no HP so you might want to consider getting a Vitality Booster which you can turn into a Heart later.",
+				"necronomicon":"More of a pub stomp item, these little guys can tear anyone apart while you have them Lasso`ed.",
+				"heart":"A Heart is the ultimate tanky item for Batrider. You will always be in the middle of the fight so you need to stay alive. Heart, Pipe and Shiva`s make you almost unkillable (why not add the Linken`s too).",
+				"shivas_guard":"Adds to your tankiness and makes right clicks a lot less scary.",
+				"sphere":"As BKB is not really what Batrider is looking for, Linken`s is a decent alternative - provides mana and health regen and boosts your stats. The spell block is amazing against single target spells as well.",
+				"rod_of_atos":"If you still have a random Vitality Booster sitting in your inventory and you don`t think you can get a Heart any time soon, get a Rod of Atos. Cheap way of making yourself a bit more tanky.",
+				"tranquil_boots":"Makes you impossible to harass out of lane and enables you to regenerate lost health after fights."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_sticky_napalm",
+			"2":"batrider_firefly",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_firefly",
+			"5":"batrider_flamebreak",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_flamebreak",
+			"8":"batrider_flamebreak",
+			"9":"batrider_flamebreak",
+			"10":"batrider_firefly",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_firefly",
+			"13":"batrider_sticky_napalm",
+			"14":"batrider_sticky_napalm",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":"One of the most annoying skills to play against. USE IT CONSTANTLY. Costs barely any mana and allows you to last hit and harass like a boss. If you manage to get more than 4-5 stacks on the enemy, consider going in for the kill if they are not under their tower. SPAM IT!",
+				"batrider_flamebreak":"An amazing long range mini stun. You can use Flamebreak to stop any channels or to push enemies away/closer. Takes a bit of practice to master it. Get a point in it relatively early to escape ganks or to push enemies closer so you can roast them.",
+				"batrider_firefly":"Allows you to fly over terrain, gives you flying vision as well. Works wonders with 4+ stacks of Sticky Napalm as the extra damage is dealt per second. Just cover them in Napalm, fly on top of them with fire and watch them burn.",
+				"batrider_flaming_lasso":"You cannot attack while using your Flaming Lasso. However, you can still use your abilities. Either run towards your team with your victim or use the stun as an opportunity to burn the enemy down with Firefly and to add more Napalm stacks on them. Blinking cancels the Lasso but Force Staff does not."
+		}
+	}
+}

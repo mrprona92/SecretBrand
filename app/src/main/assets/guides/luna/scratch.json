@@ -1,0 +1,104 @@
+{
+	"Hero":"luna",
+	"Title":"Luna - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"power_treads",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"yasha"
+			],
+			"Late Game":
+			[
+				"manta",
+				"butterfly",
+				"satanic"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"invis_sword",
+				"monkey_king_bar",
+				"assault",
+				"ultimate_scepter",
+				"desolator",
+				"ancient_janggo",
+				"phase_boots",
+				"travel_boots",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Usalo para formar luego el Anillo de Basilus",
+				"tpscroll":"Lleva siempre un tp!",
+				"travel_boots":"Si te sobra el dinero al final de la partida compralas y asi tienes un hueco extra (yo compraria un dedalo en ese hueco, a menos que su carry tenga mariposa. Si la tuviese compra MKB).",
+				"power_treads":"Ponlas en Rojo normalmente. Si tienes la iniciativa al atacar ponlas en verde y si puedes ponerlaas en azul antes de usar hechizos ya perfecto.",
+				"ring_of_basilius":"Desactivalo para no pushear la linea",
+				"black_king_bar":"The permite arrasar en las teamfights por la inmunidad magica.",
+				"helm_of_the_dominator":"Te da lifesteal. Recuerda coger un creep grande de la jungla y stackear Ancients.",
+				"ancient_janggo":"Puede ser una opcion para comprar despues de las botas completas si quieres el aura, atributos, etc."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lunar_blessing",
+			"2":"luna_lucent_beam",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_moon_glaive",
+			"9":"luna_lunar_blessing",
+			"10":"luna_lunar_blessing",
+			"11":"luna_eclipse",
+			"12":"luna_moon_glaive",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"luna_lucent_beam":"Stun que ademas hace bastante daño. No tienes muchisimos problemas de mana al principio pero tampoco te pases usandolo si no es para conseguir una kill.",
+				"luna_moon_glaive":"Al principio no lo subes para no pushear linea. Luego te permite farmear como una bestia y repartir en las teamfights.",
+				"luna_eclipse":"Intenta usarla en las teamfights activando el BKB para que no puedan focusearte y reducirte con hechizos. Usala cuando no haya creeps enemigos cerca para que no se pierdan rayos."
+		}
+	}
+}

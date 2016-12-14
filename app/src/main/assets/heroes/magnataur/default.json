@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_magnataur",
+	"Title":"Recommended items for Magnus",
+	
+	"Items":
+	{
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"branches",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_wand",
+            "bracer",
+            "bottle"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"blink",
+			"ancient_janggo",
+			"tpscroll"
+		],
+		
+		"luxury":[
+            "bfury",
+			"greater_crit",
+			"heart",
+			"assault",
+			"mask_of_madness",
+			"refresher"
+		]
+	}
+}

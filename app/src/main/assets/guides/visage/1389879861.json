@@ -1,0 +1,82 @@
+{
+	"Hero":"visage",
+	"Title":"GreyShark.Visage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"courier",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early	 Game":
+			[
+				"magic_wand",
+				"power_treads",
+				"mekansm",
+				"rod_of_atos"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Late Game":
+			[
+				"heart",
+				"assault"
+			],
+			"Situation":
+			[
+				"necronomicon",
+				"orchid",
+				"pipe",
+				"travel_boots"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_grave_chill",
+			"2":"visage_gravekeepers_cloak",
+			"3":"visage_grave_chill",
+			"4":"visage_soul_assumption",
+			"5":"visage_grave_chill",
+			"6":"visage_summon_familiars",
+			"7":"visage_grave_chill",
+			"8":"visage_gravekeepers_cloak",
+			"9":"visage_gravekeepers_cloak",
+			"10":"visage_gravekeepers_cloak",
+			"11":"visage_summon_familiars",
+			"12":"visage_soul_assumption",
+			"13":"visage_soul_assumption",
+			"14":"visage_soul_assumption",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

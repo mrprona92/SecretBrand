@@ -1,0 +1,107 @@
+{
+	"Hero":"shredder",
+	"Title":"Timbersaw - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"stout_shield"
+			],
+			"Principio de Partida":
+			[
+				"boots",
+				"magic_stick",
+				"arcane_boots",
+				"tpscroll"
+			],
+			"Objetos Principales":
+			[
+				"point_booster",
+				"ring_of_health",
+				"void_stone",
+				"vitality_booster",
+				"bloodstone",
+				"tpscroll"
+			],
+			"SItuacionales / Final ":
+			[
+				"shivas_guard",
+				"blink",
+				"travel_boots",
+				"sheepstick",
+				"black_king_bar",
+				"heart",
+				"assault",
+				"blade_mail",
+				"ghost",
+				"force_staff",
+				"hood_of_defiance",
+				"bottle"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Te da muchisima movilidad (más todavia).",
+				"ghost":"Más supervivencia.",
+				"bottle":"Si vas mid comprate botella lo antes posible.",
+				"tpscroll":"Lleva siempre un tp encima!",
+				"travel_boots":"Presencia global. Puede ser muy bueno sacarlo relativamente pronto.",
+				"ring_of_health":"Si te harassean mucho en la linea compra esto como primer item de la bloodstone. Si no, ahorra para el point booster (rosa).",
+				"sheepstick":"Si tienen un enemigo especialmente peligroso o que hay que disablear considera este item.",
+				"force_staff":"Más movilidad.",
+				"heart":"Todavia más tanque.",
+				"black_king_bar":"Si tienen muchos disables quizas te interese.",
+				"bloodstone":"Rompe las botas de Maná y completa la Piedra de Sangre. Es el objeto más importante de Timbersaw.",
+				"arcane_boots":"Luego las desmontas para formar la Piedra de Sangre."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_reactive_armor",
+			"3":"shredder_timber_chain",
+			"4":"shredder_whirling_death",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_reactive_armor",
+			"11":"shredder_chakram",
+			"12":"shredder_whirling_death",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Una nuke muy muy potente. Intenta si es posible usarla junto a arboles.",
+				"shredder_timber_chain":"Es la habilidad más importante de timber. Se sube primero para aumentar el rango lo máximo posible. Recuerda que puedes usar otras habilidades cuando estas usando esta.",
+				"shredder_reactive_armor":"Si en la linea te van a molestar mucho o tienen heroes de rango peligrosos subela más.",
+				"shredder_chakram":"Muy bueno para teamfights y gankear a heroes cuando no tienen mucha vida. Consume bastante maná. Tambien usalo para abrirte camino entre los arboles."
+		}
+	}
+}

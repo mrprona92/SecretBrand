@@ -1,0 +1,15 @@
+{
+  "attrib": "HEALTH RESTORED: 2500<br/>MANA RESTORED: 1000",
+  "cd": 40.0,
+  "qual": "epic",
+  "notes": "Cheese is shareable.",
+  "desc": "Use: Instantly restores health and mana.",
+  "dname": "Cheese",
+  "dotaId": "cheese",
+  "mc": false,
+  "img": "cheese_lg.png",
+  "lore": "Made from the milk of a long lost Furbolg vendor, it restores the vitality of those who taste it.",
+  "id": 33,
+  "created": false,
+  "cost": 1000
+}

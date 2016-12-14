@@ -1,0 +1,109 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"v6.80 Kaolin Pub Mid/Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Starting Support":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"ward_observer",
+				"courier"
+			],
+			"Early Mid":
+			[
+				"power_treads",
+				"bottle",
+				"magic_wand"
+			],
+			"Early Support":
+			[
+				"boots",
+				"headdress",
+				"urn_of_shadows"
+			],
+			"Core Mid":
+			[
+				"ancient_janggo",
+				"black_king_bar",
+				"heavens_halberd"
+			],
+			"Core Support":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"mekansm",
+				"force_staff",
+				"ghost"
+			],
+			"Situational (Both)":
+			[
+				"mekansm",
+				"black_king_bar",
+				"veil_of_discord",
+				"shivas_guard",
+				"sheepstick",
+				"assault",
+				"force_staff",
+				"heart",
+				"gem",
+				"heavens_halberd",
+				"pipe"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_boulder_smash",
+			"2":"earth_spirit_rolling_boulder",
+			"3":"earth_spirit_geomagnetic_grip",
+			"4":"earth_spirit_geomagnetic_grip",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_geomagnetic_grip",
+			"8":"earth_spirit_boulder_smash",
+			"9":"earth_spirit_boulder_smash",
+			"10":"earth_spirit_boulder_smash",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_rolling_boulder",
+			"13":"earth_spirit_rolling_boulder",
+			"14":"earth_spirit_rolling_boulder",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"Boulder Smash does 25 more damage at level 1 + a stun that scales. You can use it defensively to save allies.",
+				"earth_spirit_rolling_boulder":"This is your escape. If you need to get out at a longer range, place a rock in your path.",
+				"earth_spirit_geomagnetic_grip":"Geomagnetic Grip has a scaling silence and big damage on top of it. This is your main source of damage.",
+				"earth_spirit_magnetize":"Huge damage with your rocks nearby. Huge in a teamfight.",
+				"attribute_bonus":"Stats :)"
+		}
+	}
+}

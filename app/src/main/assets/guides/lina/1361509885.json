@@ -1,0 +1,106 @@
+{
+	"Hero":"lina",
+	"Title":"[DMX] Lina (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"force_staff",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Sans titre":
+			[
+				"blink",
+				"ancient_janggo",
+				"cyclone",
+				"bloodstone",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier à déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_light_strike_array",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_light_strike_array",
+			"10":"lina_fiery_soul",
+			"11":"lina_laguna_blade",
+			"12":"lina_fiery_soul",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lina_dragon_slave":"Votre principal nuke.
+Essayez d'harass votre adversaire avec ce sort.
+Ce sort n'a pas de temps d'animation contrairement au stun, profitez de cet avantage !",
+				"lina_light_strike_array":"Un bon stun de zone qui inflige de bons dégâts.
+Cependant Il est assez difficile à placer car il y a un petit délai quand vous lancez votre sort. L'ennemi peut alors changer de direction pour esquiver.
+Essayez de placer votre stun après un autre disable allié si possible.",
+				"lina_fiery_soul":"Un passif qui vous permettra de faire de bons dégâts en late game, avec vos auto-attaques.
+",
+				"lina_laguna_blade":"Un énorme burst très pratique pour finir un ennemi ou pour rapidement le tuer à l'aide d'alliés."
+		}
+	}
+}

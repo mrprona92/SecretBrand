@@ -1,0 +1,15 @@
+{
+  "dotaId": "void_stone",
+  "attrib": "+ 100% к регенерации маны",
+  "cd": false,
+  "qual": "component",
+  "notes": "Можно передавать союзникам.",
+  "desc": " ",
+  "dname": "Void Stone",
+  "mc": false,
+  "img": "void_stone_lg.png",
+  "lore": "Это драгоценное кольцо, источающее энергию, раньше использовали для связи с нижними магическими мирами.",
+  "id": 57,
+  "created": false,
+  "cost": 875
+}

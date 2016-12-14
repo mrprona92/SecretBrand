@@ -1,0 +1,91 @@
+{
+	"Hero":"tidehunter",
+	"Title":"Hard Support Tide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"ward_observer",
+				"boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"pipe",
+				"mekansm",
+				"blink",
+				"refresher",
+				"platemail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Tide typically won't need blink to land ravage, this is for special cases",
+				"platemail":"Useful vs lots of physical damage",
+				"clarity":"Be very careful to not let your clarities be cancelled as tide's early mana pool is awful",
+				"ward_observer":"Continue warding",
+				"courier":"Purchase wards if team already has a courier",
+				"tpscroll":"A TP with ravage can turn many fights",
+				"mekansm":"If no one else is going mek try to pick one up",
+				"pipe":"Very effective with ravage",
+				"refresher":"Double Ravage",
+				"arcane_boots":"Solves mana issues"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_anchor_smash",
+			"3":"tidehunter_gush",
+			"4":"tidehunter_kraken_shell",
+			"5":"tidehunter_gush",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_gush",
+			"8":"tidehunter_anchor_smash",
+			"9":"tidehunter_anchor_smash",
+			"10":"tidehunter_anchor_smash",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

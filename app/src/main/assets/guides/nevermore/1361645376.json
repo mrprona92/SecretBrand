@@ -1,0 +1,122 @@
+{
+	"Hero":"nevermore",
+	"Title":"Shadow Fiend Aggressive Mid Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"tango",
+				"branches",
+				"branches",
+				"slippers",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"blink",
+				"tpscroll",
+				"black_king_bar"
+			],
+			"Situational":
+			[
+				"invis_sword",
+				"greater_crit",
+				"travel_boots",
+				"butterfly",
+				"assault"
+			],
+			"Illusion":
+			[
+				"manta",
+				"ancient_janggo",
+				"ring_of_aquila",
+				"phase_boots",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Good initiator and escape item",
+				"slippers":"More damage and later for wraithband",
+				"branches":"Good early stats increase",
+				"circlet":"Good early stats and later for bracers",
+				"flask":"Good to start with",
+				"bottle":"MANA
+This is a must, Nevermore needs to spam and harass midlane with the shadowraze and you'll need mana and rune control for it.",
+				"ward_observer":"VISION
+Basically on any pubs what you need to think is that your not gonna wait for your team to support so you'll need wards to get early rune control.",
+				"tango":"Tangos always needed",
+				"tpscroll":"Always carry a TP scroll.",
+				"travel_boots":"Only you'll need this for pushing if you want to, Nevermore can kill a creep wave faster with one of his shadowraze.",
+				"phase_boots":"SPEED
+Phase boots its a good early game build for Nevermore because it gives you damage and the ability to pass through creeps while harassing the lane.",
+				"bracer":"SURVIVABILITY
+This gives Nevermore the stats to survive.
+
+Note: You can sell this later if your team has drums and proceed to Manta Style.
+",
+				"black_king_bar":"SURVIVABILITY
+Damage and inmunity",
+				"greater_crit":"CRITICAL DPS, works awesome with Nevermore",
+				"manta":"DPS and SURVIVABILITY
+This is a must, Manta Style gives your copies that will do 28% more damage to your single target.",
+				"invis_sword":"SURVIVAVILITY & GANKING
+Use this if your getting killed too much to escape and take any enemy alone.
+",
+				"desolator":"DAMAGE
+Damage and armor reduction",
+				"ancient_janggo":"SURVIVABILITY
+This gives Nevermore attack speed and survivability.",
+				"ring_of_aquila":"SURVIVABILITY
+Nevermore is so squishy at this point you'll need to get this for armor and mana regeneration.
+
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_shadowraze1",
+			"4":"nevermore_necromastery",
+			"5":"nevermore_shadowraze1",
+			"6":"nevermore_necromastery",
+			"7":"nevermore_shadowraze1",
+			"8":"nevermore_necromastery",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

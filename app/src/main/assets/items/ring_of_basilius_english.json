@@ -1,0 +1,19 @@
+{
+  "dotaId": "ring_of_basilius",
+  "id": 88,
+  "img": "ring_of_basilius_lg.png",
+  "dname": "Ring of Basilius",
+  "qual": "rare",
+  "cost": 525,
+  "desc": "Passive: Basilius Aura - Grants mana regeneration and armor in a 900 area of effect.<br/>Active: Toggle whether the aura affects other non-hero units.<br/><br/>Multiple instances of Basilius Aura do not stack.",
+  "notes": "Does not stack with armor auras from Ring of Basilius, Ring of Aquila, or Vladmir's Offering.",
+  "attrib": "+ 6 Damage<br/>+ 1 Armor<br/>AURA MANA REGEN: 0.65<br/>AURA BONUS ARMOR: 2",
+  "mc": false,
+  "cd": false,
+  "lore": "Ring given as a reward to the greatest mages.",
+  "components": [
+    "sobi_mask",
+    "ring_of_protection"
+  ],
+  "created": true
+}

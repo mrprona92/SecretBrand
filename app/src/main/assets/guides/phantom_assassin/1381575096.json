@@ -1,0 +1,94 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Solo Cary Phantom Assassin",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bfury",
+				"basher",
+				"vladmir",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"satanic",
+				"assault",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"This subject to you will help to catch up opponents or to escape from it.",
+				"poor_mans_shield":"Will provide to you protection in the fight beginning. On 15 minute it is better to sell it.",
+				"vladmir":"This subject will help you quickly from to be recycled.",
+				"assault":"This subject to be necessary when for you It seems that at Phantom Assassin small speed of attack or when it has not enough reservation (or when there are heroes who will reduce to you the reservation)",
+				"black_king_bar":"This subject to be necessary for you, that you were impregnable against spells.",
+				"monkey_king_bar":"This subject can be collected instead of Skull Busher.",
+				"basher":"This subject to be necessary for you to deafen your enemy and quickly it to kill.",
+				"bfury":"This subject will make so that your critical loss and a loss from blows has got on enemies.",
+				"satanic":"This subject to be necessary for you that quickly from to be recycled and kill in fight from 3 to 5 enemies.",
+				"abyssal_blade":"This addition to Skull Busher."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_phantom_strike",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_blur",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"This ability is better for using always in the big fight when it is necessary to catch up with the opponent when it has not enough health. Well it is necessary to use always this ability on heroes or when someone prevents to earn to you money more shortly. ",
+				"phantom_assassin_phantom_strike":"This ability should be used quickly to move to the opponent and to kill him.",
+				"phantom_assassin_blur":"This ability will help you not to receive a loss when in an extreme situation at you not enough health and you can die.",
+				"phantom_assassin_coup_de_grace":"This ability will give you very strong critical loss to the opponent thanks to whom you can quickly kill the hero.",
+				"attribute_bonus":"This characteristic will raise to you speed of attack and a loss."
+		}
+	}
+}

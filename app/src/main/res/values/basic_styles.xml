@@ -1,0 +1,733 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Layout"></style>
+
+    <style name="Layout.FillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Layout.WrapWidthHeight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Layout.FillHeight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Layout.FillHeight.Center" parent="Layout.FillHeight">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Layout.FillWidth.Center" parent="Layout.FillWidth">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Layout.FillWidth.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Layout.WrapWidthHeight.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.Weight">
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.Weight.VerticalCenter" parent="Layout.FillWidthHeight.Weight">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.Weight.HorizontalCenter" parent="Layout.FillWidthHeight.Weight">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.BiggerWeight.VerticalCenter" parent="Layout.FillWidthHeight">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1.3</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.Weight.Center">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="Layout.Weight">
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="Layout.Weight.Width">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Layout.Weight.WidthFillHeight">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Layout.Weight.Height">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+
+    <style name="Layout.Weight.HeightFillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+
+    <style name="LayoutFillWidthHW">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="Layout.FillWidth.Weight" parent="Layout.FillWidth">
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="Layout.FillWidth.BiggerWeight" parent="Layout.FillWidth">
+        <item name="android:layout_weight">1.4</item>
+    </style>
+
+    <style name="Layout.FillWidth.Weight.Vertical" parent="Layout.FillWidth.Weight">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Layout.FillWidth.Weight.Vertical.Center" parent="Layout.FillWidth.Weight.Vertical">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Layout.FillWidth.Weight.Center" parent="Layout.FillWidth">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="LayoutFillWidthHWNoMargin">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">0dp</item>
+    </style>
+
+    <style name="Button"></style>
+
+    <style name="ToggleButton" parent="Layout.WrapWidthHeight">
+        <item name="android:textOn"></item>
+        <item name="android:textOff"></item>
+    </style>
+
+    <style name="Text">
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Text.FillWidth">
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="Text.WrapWidth">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="Text.FillWidth.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.WrapWidth.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.FillWidth.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text.WrapWidth.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Text.Header.Upper" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginTop">@dimen/padding_medium</item>
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Header.Upper.white">
+        <item name="android:textColor">@color/cmn_white</item>
+        <item name="android:alpha">65</item>
+    </style>
+
+    <style name="EditText.Common" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:layout_marginBottom">@dimen/padding_small</item>
+        <item name="android:padding">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:background">@drawable/bg_common_round_white_border</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:textColorHint">@color/cmn_text_dark</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="Text.Normal.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+
+    <style name="Text.Normal.Dark.TradeSetting" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Title.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Title.Dark.TradeSetting" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Normal.Dark.Single" parent="Text.Normal.Dark">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Title.Dark.Single" parent="Text.Title.Dark">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Normal.Gray.Single" parent="Text.Normal.Grey">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Normal.Dark.Center" parent="Text.Normal.Dark">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="TextAccount.Normal" parent="Text.Normal.Dark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">10</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:paddingLeft">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_title</item>
+    </style>
+
+    <style name="TextAccount.Bold" parent="Text.Normal.Dark">
+        <item name="textColor">@color/cmn_text</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">8</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:paddingRight">@dimen/padding_min</item>
+        <item name="android:textSize">@dimen/text_large</item>
+    </style>
+
+    <style name="TextAccount.Bold.Right">
+        <item name="ratio">0.5</item>
+        <item name="suffix_length">1</item>
+    </style>
+
+    <style name="TextAccount.Bold.Red" parent="TextAccount.Bold">
+        <item name="android:textColor">@color/cmn_red_text_view</item>
+    </style>
+
+    <style name="TextAccount.Bold.Blue" parent="TextAccount.Bold">
+        <item name="android:textColor">@color/cmn_blue_text_view</item>
+    </style>
+
+    <style name="TextAccount.Small" parent="Text.Normal.Dark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:paddingRight">@dimen/padding_small</item>
+        <item name="android:paddingBottom">@dimen/padding_smaller</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+
+    <style name="TextAccount.Small.Red" parent="TextAccount.Small">
+        <item name="android:textColor">@color/cmn_red_text_view</item>
+    </style>
+
+    <style name="TextAccount.Small.Blue" parent="TextAccount.Small">
+        <item name="android:textColor">@color/cmn_blue</item>
+    </style>
+
+    <style name="RowAccount" parent="Layout.FillWidth">
+        <item name="android:paddingLeft">@dimen/padding_normal</item>
+        <item name="android:paddingRight">@dimen/padding_normal</item>
+        <item name="android:paddingTop">@dimen/padding_medium</item>
+
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="RowAccount.Grey" parent="RowAccount">
+        <item name="android:background">@color/cmn_gray_bg</item>
+    </style>
+
+    <style name="RowAccount.Transparent" parent="RowAccount">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="RowIndividual2.Text.Left" parent="Text.Normal.Dark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+
+    <style name="RowIndividual2.Layout.Right" parent="Layout.FillHeight">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">4</item>
+    </style>
+
+    <style name="Text.Normal.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Normal.Grey.Center" parent="Text.Normal.Grey">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Normal.Grey.Left" parent="Text.Normal.Grey">
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="Text.Box.Normal.Left" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="Text.Box.Normal.Grey" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/cmn_gray</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="Text.Box.Small.Grey.Left" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:textColor">@color/cmn_gray</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="Text.Box.Small.Dark.Left" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="Text.Box.Bold.Right" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="Text.Small.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Smaller.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smaller</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+
+    <style name="Text.Smallest.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Small.Grey.Center" parent="Text.Small.Grey">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Small.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Small.Dark.Center" parent="Text.Small.Dark">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Text.Smallest.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Smaller.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smaller</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Smaller.Gray" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smaller</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+
+
+    <style name="Text.Smaller.Gray.TradeCopier" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Smallest.Blue" parent="Text.Smallest.Dark">
+        <item name="android:textColor">@color/cmn_blue</item>
+    </style>
+
+    <style name="Text.Smaller.Blue" parent="Text.Smaller.Dark">
+        <item name="android:textColor">@color/cmn_blue</item>
+    </style>
+
+    <style name="Text.Normal.Black.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Normal.Red.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text_red</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Small.Red.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text_red</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Normal.Blue.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text_red</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Text.Title" parent="Layout.FillWidth">
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Text.Badge.Active" parent="Text.Normal.Dark">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">@drawable/bg_badge_circle_active</item>
+    </style>
+
+    <style name="Text.Badge.Normal" parent="Text.Badge.Active">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">@drawable/bg_badge_circle_normal</item>
+    </style>
+
+    <style name="Text.Title.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.Title.Black">
+        <item name="android:textColor">@color/cmn_text_black</item>
+    </style>
+    <style name="Text.Title.Black.Weight">
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="Text.Title.Black.Weight.Center">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Text.Title.Center" parent="Text.Title.Black">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Text.Title.DarkerGray">
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <style name="Text.Title.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text.Content" parent="Layout.FillWidth">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="Text.Content.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Text.Content.DarkerGray">
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <style name="Text.Content.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Text.Shadow" parent="Layout.FillWidth">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDx">-1</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <!-- List View -->
+    <style name="ListView" parent="Layout.FillWidth">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <!--<item name="android:mViewDivider">@android:color/cmn_transparent</item>-->
+    </style>
+
+    <style name="captionOnly">
+        <item name="android:background">@null</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+    </style>
+
+    <style name="divider_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:background">@color/cmn_background_divider</item>
+    </style>
+
+    <style name="divider_menu" parent="divider_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">@color/cmn_gray</item>
+    </style>
+
+    <style name="divider_margin_left_right" parent="divider_common">
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+    </style>
+
+    <style name="divider_no_margin" parent="divider_common">
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+
+    <style name="divider_vertical">
+        <item name="android:layout_width">0.5px</item>
+        <item name="android:layout_marginTop">@dimen/padding_normal</item>
+        <item name="android:layout_marginBottom">@dimen/padding_normal</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@color/cmn_background_divider</item>
+    </style>
+
+    <style name="divider_vertical_nomargin">
+        <item name="android:layout_width">0.5px</item>
+        <item name="android:layout_height">15dp</item>
+        <item name="android:background">@color/cmn_background_divider</item>
+    </style>
+
+    <style name="progress_common">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:visibility">gone</item>
+        <!--<item name="style">?android:attr/progressBarStyle</item>-->
+    </style>
+
+    <style name="myToolBar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/tabbar_active</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="RadioWrapper">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="DialogThemeFullScreen" parent="android:Theme.Dialog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <!-- No backgrounds, titles or window float -->
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+
+
+    <style name="MenuHeaderText" parent="Layout.FillHeight">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/cmn_white</item>
+    </style>
+
+
+    <style name="RipperCommon" parent="Layout.WrapWidthHeight">
+        <item name="mrl_rippleColor">@color/cmn_gray</item>
+        <item name="mrl_rippleAlpha">0.3</item>small
+        <item name="mrl_rippleHover">true</item>
+    </style>
+
+    <style name="SpinnerCommon">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_medium</item>
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:background">@drawable/spinner_background</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+
+
+    <style name="SpinnerRanking">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_small</item>
+        <item name="android:layout_marginTop">@dimen/padding_smaller</item>
+        <item name="android:background">@drawable/spinner_background</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+
+
+    <style name="SpinnerProfile">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_medium</item>
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:background">@drawable/spinner_profile_background</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+
+
+    //Update design
+
+    Q8-Common
+
+    <style name="Text.Normal.Grey.Smallest.Bottom" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/zoom_out</item>
+        <item name="android:windowExitAnimation">@anim/fadeout</item>
+    </style>
+
+
+</resources>

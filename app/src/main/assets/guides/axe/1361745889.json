@@ -1,0 +1,101 @@
+{
+	"Hero":"axe",
+	"Title":"[6.81] AXE JUNGLE/GANK DESTROY BUILD  ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"Run, gank, jungle, gank":
+			[
+				"tranquil_boots",
+				"blink",
+				"vanguard",
+				"arcane_boots"
+			],
+			"late game ":
+			[
+				"heavens_halberd",
+				"heart",
+				"blade_mail",
+				"shivas_guard",
+				"ultimate_scepter",
+				"sheepstick",
+				"pipe",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"No mana cost? YOLO",
+				"ring_of_protection":"A small amount of armor to help you in the jungle. It also builds into tranquil boots which are great for your early and mid game.",
+				"stout_shield":"Shield yourself against basic attacks. ",
+				"travel_boots":"When your inventory is full and you cant carry any tp anymore, swap boots.",
+				"hand_of_midas":"When the enemy is waiting to respawn you quickly collect large amounts of XP and Gold in the jungle.
+
+",
+				"pipe":"This can really be useful, sometimes.",
+				"sheepstick":"This can do wonders as a 5th or 6th item.",
+				"cyclone":"Amazing piece of equipment for a ganking axe. It solves your mana problems, gives a lot of movementspeed and with the cyclone you can set up a perfect gank if you follow it up with your Berserkers Call. I prefer an early eul's over blinkdagger in most pub games, you are just mighty fast.",
+				"assault":"Lots of armor, attack speed and an aura which reduce enemy armor by 5 and increase ally armor by 5.",
+				"heart":"TONS OF HITPOINTS = PROFIT",
+				"shivas_guard":"Great late game item to stack up that armor. ",
+				"vanguard":"Axe is one of the few heroes who don't look stupid with a fast vanguard. ",
+				"blade_mail":"Cheap item but when used correctly simply amazing and face wrecking. Blink into 5 man and activate it to return any favor people give you.",
+				"arcane_boots":"These boots are also viable on axe, usually when my jungle is warded/ganked constantly I get these because I will be only ganking",
+				"ancient_janggo":"Some quick stats to grab, I usually get this or a vanguard depending on the game.",
+				"heavens_halberd":"One of the better items on axe as it gives you some HP and 25% dodge chanche. Remember that you still use Counter Helix when you dodge an attack.",
+				"tranquil_boots":"With these boots you can effectively run around the map in order to clear camps and gank lanes as fast as you possibly can. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_battle_hunger",
+			"4":"axe_berserkers_call",
+			"5":"axe_battle_hunger",
+			"6":"axe_culling_blade",
+			"7":"axe_battle_hunger",
+			"8":"axe_counter_helix",
+			"9":"axe_counter_helix",
+			"10":"axe_counter_helix",
+			"11":"axe_culling_blade",
+			"12":"axe_berserkers_call",
+			"13":"axe_berserkers_call",
+			"14":"axe_berserkers_call",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"axe_berserkers_call":"Force the enemy to attack you. Has great synergy with counter helix. Pick this up at lvl 4 and max it as third or second. Don't forget the + 40 armor  untill berserkers call end. ",
+				"axe_battle_hunger":"This is your main ganking tool. Run towards any lane, look if the enemy can last hit anything, if he cant, cast this on his shiny ass. Even if all lanes are terrible and you think you cant gank, just keep spamming this, it deals nice damage and is very anoying to deal with.",
+				"axe_counter_helix":"You need this at lvl 1 or you can't jungle. I usually recommend maxing this spell out as second, after battle hunger. You dont want to hide in the jungle for to long in the early game BECAUSE AXE IS A EARLY-MID GAME MONSTER SO USE THIS TIME TABLE TO GANK THE ENEMY WITH BATTLE HUNGER ",
+				"axe_culling_blade":"LAST HIT-LAST HIT-BECAUSE IM OWNING THIS SHIT!"
+		}
+	}
+}

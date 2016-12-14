@@ -1,0 +1,40 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_necrolyte",
+  "Title": "Recommended items for Necrolyte",
+  "Items": {
+    "startingItems": [
+      "branches",
+      "branches",
+      "clarity",
+      "mantle",
+      "flask",
+      "tango"
+    ],
+    "earlyGame": [
+      "magic_stick",
+      "boots",
+      "headdress"
+    ],
+    "coreItems": [
+      "magic_wand",
+      "power_treads",
+      "mekansm",
+      "point_booster",
+      "tpscroll"
+    ],
+    "luxury": [
+      "ultimate_scepter",
+      "guardian_greaves",
+      "bloodstone",
+      "sheepstick",
+      "shivas_guard",
+      "pipe",
+      "heart",
+      "radiance",
+      "travel_boots",
+      "octarine_core",
+      "lotus_orb"
+    ]
+  }
+}

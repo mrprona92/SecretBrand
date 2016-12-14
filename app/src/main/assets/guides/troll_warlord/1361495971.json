@@ -1,0 +1,144 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"A Trolling Guide For All Trolls",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"tango",
+				"flask"
+			],
+			"Starting Items 2":
+			[
+				"stout_shield",
+				"ring_of_protection",
+				"tango",
+				"branches"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"black_king_bar",
+				"helm_of_the_dominator",
+				"magic_wand",
+				"ring_of_basilius"
+			],
+			"Extensions":
+			[
+				"invis_sword",
+				"monkey_king_bar",
+				"satanic",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"assault",
+				"butterfly",
+				"heart",
+				"heavens_halberd",
+				"skadi",
+				"orchid"
+			],
+			"Rejected/unrecommended":
+			[
+				"rapier",
+				"abyssal_blade",
+				"vladmir",
+				"sange_and_yasha",
+				"bfury",
+				"diffusal_blade",
+				"radiance",
+				"manta",
+				"mask_of_madness",
+				"mjollnir",
+				"desolator",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Take this instead of stout when you don't think laning will be too hard, and you need to focus on last hitting as much as possible. Remember to use this for heroes like furion also.",
+				"ring_of_protection":"A good early game bonus EHP.",
+				"stout_shield":"Take this instead of quelling blade when you think you will have a hard time laning.",
+				"boots":"Gotta go fast.",
+				"magic_wand":"Nice stats and burst heal is nice.",
+				"flask":"If you are outrunning the enemy and are sure they can't damage you for a while and they are chasing you. Pop a salve, either they stop chasing, or you might be able to turn the fight around.",
+				"tango":"KEEP YOUR HEALTH FULL. DO NOT WAIT UNTIL YOU ARE 50% HEALTH TO USE THIS.",
+				"phase_boots":"Take this over Treads. You need damage, not more Attack speed. Remember to use the active when chasing or fleeing.",
+				"hand_of_midas":"Don't try to prolong the game. You are a midgame carry, a lot of other carries outclass you later on. Don't bother with this. Seek to control the pace of the game and end it asap. Rejected",
+				"vladmir":"Let your support get this. If you want to upgrade ring of basilius, get Aquila. Rejected",
+				"ring_of_basilius":"Nice mana regen to spam your spells a bit more, turn it off in the laning phase, turn it on whenever you push and rosh.",
+				"orchid":"For those pesky invisible heroes and spellcasters. Don't take it if another hero in your teammates is better suited with it though.",
+				"assault":"Shit's on enemy towers and unlike desolator is an aura so it will stack with your lifesteal.",
+				"heart":"It's got a nice regeneration, and gives you more hp, really not bad If you feel you are getting bursted too fast to activate bkb. (should not be the case though, try to not be out of position.)",
+				"black_king_bar":"Ignores most magic. You need it to do damage since you will be melee most of the time. You aren't that tanky either.",
+				"rapier":"You attack one target only, your not the tankiest of heroes. Do not get this in a really close game. Take it if you have nothing to lose though. Unrecommended",
+				"monkey_king_bar":"Take this if you know you are going up against a carry who will likely get butterfly. Also Windrunner.",
+				"radiance":"Just why would you even think of buying this. The same as battlefury. Rejected.",
+				"butterfly":"An overall good item against enemy carries. Just remember, you already have fast attackspeed. If you aren't having trouble with the enemy carry focusing you (and if they have mkb already), take damage and/or Items that will sustain you in battle.",
+				"greater_crit":"Synergies pretty well with your fast attack speed.",
+				"bfury":"You should be helping your teams by the time you have the money to buy this, not farming more. Rejected",
+				"manta":"Illusions don't bash. You don't really need the extra stats or attack speed. Unrecommended.",
+				"invis_sword":"Shadow blade is nice to initiate a fight, and also to get away, forces the other team to buy dusts and wards. Remember to hit enemies first before using your skill so you deal the bonus damage. Don't bother if there is a Bounty Hunter or Slitheren Guard in the other team.",
+				"sange_and_yasha":"You need damage. Not more attack speed. The stats is arguable, and you have bash. Rejected",
+				"satanic":"A great extension to your Helm of The Dominator. Don't activate this at full health.",
+				"mjollnir":"Arguable. People seem to take it to farm more though. Unrecommended.",
+				"skadi":"It stacks with your lifesteal (for whatever reason, may not work this way in the future.) A better alternative than SNY, good all round.",
+				"helm_of_the_dominator":"Once you get this and max your fervor, Roshan is a possibility. The best creeps to dominate for rosh are frost ogre and the Alpha wolf. Smoke up and kill roshan.",
+				"desolator":"Arguable.I have tried this once with vlads, it works pretty well. Remember this is a glass cannon item, it provides no survivability. Unrecommended.",
+				"mask_of_madness":"You don't need more attack speed. It also makes you more vulnerable. Rejected.",
+				"diffusal_blade":"Arguable, but rely on your bash to stop people from fleeing.
+Unreccomended",
+				"abyssal_blade":"Not even sure you can buy this item since I heard you can't buy basher. Anyway your bash and this bash doesn't stack, the active is decent since it goes through magic immunity, but if your taking it for the damage just get Daedalus. Unrecommended",
+				"heavens_halberd":"A nice alternative to butterfly. The active can be really useful also, although it doesn't go through magic immunity."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_whirling_axes_ranged",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_fervor",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_fervor",
+			"9":"troll_warlord_fervor",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_berserkers_rage",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_berserkers_rage",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"You only get this early because it let's you switch between ranged and melee whirling axes. You don't need to level it up until after fervor/whirling axes. Be sure to utilize the ability to go ranged and or melee. Remember you are faster when melee.",
+				"troll_warlord_whirling_axes_ranged":"Use this on fleeing enemies and scouting, as it gives vision.",
+				"troll_warlord_whirling_axes_melee":"7 second 60% miss for 50 mana is good. Don't be too scared to use this once in a while while laning. It hurts. In teamfights use it as much as possible and try to hit as many heroes as possible.",
+				"troll_warlord_fervor":"If you switch targets, you lose all bonus, remember that. This works for any units, even towers. Once you max this spell, you can easily rosh with a dominated creep.",
+				"troll_warlord_battle_trance":"This spells is GLOBAL. That means you can help your teammates across the map from you with it, it also has a low cooldown, so don't be afraid to use it for 1 hero ganks, towers, ancients, and Roshan.",
+				"attribute_bonus":"Not much to say. +10 to all stats."
+		}
+	}
+}

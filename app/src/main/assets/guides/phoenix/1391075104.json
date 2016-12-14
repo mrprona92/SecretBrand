@@ -1,0 +1,99 @@
+{
+	"Hero":"phoenix",
+	"Title":"Феникс [RUS]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"heart",
+				"heavens_halberd",
+				"refresher"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"radiance",
+				"black_king_bar",
+				"vanguard"
+			],
+			"Support (Поддержка)":
+			[
+				"arcane_boots",
+				"mekansm",
+				"courier",
+				"ward_observer",
+				"flying_courier",
+				"ward_sentry",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Не обязательно!",
+				"magic_wand":"Не обязательно!
+Если купили, то в конце игры (~40 мин.) или когда нужно будет место нужно будет продать!",
+				"tango":"Не обязательно",
+				"arcane_boots":"НЕ покупайте сразу 2 ботинка!
+Если вы Саппорт, то покупать нужно арканы.",
+				"tranquil_boots":"Покупать первым предметом! Или ARCANE BOOTS.
+НЕ покупайте сразу 2 ботинка!
+Если вы Саппорт, то покупать нужно арканы."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_icarus_dive",
+			"4":"phoenix_fire_spirits",
+			"5":"phoenix_icarus_dive",
+			"6":"phoenix_supernova",
+			"7":"phoenix_icarus_dive",
+			"8":"phoenix_sun_ray",
+			"9":"phoenix_fire_spirits",
+			"10":"phoenix_fire_spirits",
+			"11":"phoenix_supernova",
+			"12":"phoenix_sun_ray",
+			"13":"phoenix_sun_ray",
+			"14":"phoenix_sun_ray",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_sun_ray":"Позволяет пройти через препятствия, если включить Toogle Movement во время этой способности!",
+				"phoenix_sun_ray_toggle_move":"Позволяет пройти через препятствия! Должна быть включена способность Sun Ray!"
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"meepo",
+	"Title":"6.82 - Standard Meepo (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ultimate_scepter",
+				"blink"
+			],
+			"luxury":
+			[
+				"orb_of_venom",
+				"mekansm",
+				"skadi"
+			],
+			"Extension Items":
+			[
+				"heart",
+				"ethereal_blade",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you can pull this off, get it. Blink Dagger works if you have great management control with your Meepos. Have your clones start using Poof on your main Meepo. Blink with your initial main Meepo then Earthbind and get near so your clones will poof next to your enemy.",
+				"mekansm":"If survivability is a huge problem, Mekansm is a nice lifesaver and offers the much need armor for your Meepos.",
+				"sheepstick":"Scythe of Vyse let's you gank much faster and add an incredible amount of intelligence for you to keep ganking.",
+				"ultimate_scepter":"Aghanim's is obtained as your first item since your other Meepos do not gain any stats from your main. Aghanim's become an essential first due to this.",
+				"assault":"Assault Cuirass can help buff your Meepos attack speed and survivability thanks to its armor and buff/debuff.",
+				"heart":"Get this for survivability as most initiators will deal incredible magic and physical damage to you and all your clones.",
+				"skadi":"Eye of Skadi is your follow-up to Orb of Venom and can help cripple rivaling physical carries while also giving your clones and yourself incredible stats to survive.",
+				"ethereal_blade":"Ethreal Blade is a decent way to keep your Meepos alive while also keeping down foes with a follow-up with Earthbind and the extra damage taken with Poof through Ethreal Blade.",
+				"orb_of_venom":"This stacks with Geostrike, adding to the slow and damage for a relatively cheap cost.",
+				"tranquil_boots":"This item works on all your Meepos, you need to activate them individually, so try to keep them on the same hotkey so you can Tab-Hotkey them rapidly."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_divided_we_stand",
+			"4":"meepo_poof",
+			"5":"meepo_poof",
+			"6":"meepo_geostrike",
+			"7":"meepo_poof",
+			"8":"meepo_earthbind",
+			"9":"meepo_earthbind",
+			"10":"meepo_divided_we_stand",
+			"11":"meepo_earthbind",
+			"12":"meepo_geostrike",
+			"13":"meepo_geostrike",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"meepo_divided_we_stand",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_earthbind":"Earthbind can prevent invisibility, blink and channeling. Stack up Earthbinds with your other meepos. Its range is incredible and its area of effect, so spam plenty.",
+				"meepo_poof":"You can use Poof on your own Meepo to farm alone or send your Meepos back to base if a clone of him is sitting there for an easy way to get home and heal.
+
+Poof has a small casting delay and so you need to account for that when ganking.",
+				"meepo_geostrike":"Extra damage, a great slow. Geostrike stacks with your other Meepos nearly keeping foes still.",
+				"meepo_divided_we_stand":"If any of your Meepos die, you die. So try to micromanage them all. Keep them all separated and use your main Meepo to gank around while your other Meepos farm lanes and the jungle."
+		}
+	}
+}

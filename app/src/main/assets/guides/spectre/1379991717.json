@@ -1,0 +1,111 @@
+{
+	"Hero":"spectre",
+	"Title":"How to make spectre effective at all stages of a game",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"Early game items":
+			[
+				"poor_mans_shield",
+				"bracer",
+				"magic_wand",
+				"ring_of_basilius"
+			],
+			"Mid game items":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"diffusal_blade",
+				"yasha",
+				"vanguard"
+			],
+			"core late game items":
+			[
+				"manta",
+				"heart",
+				"butterfly"
+			],
+			"situational items":
+			[
+				"abyssal_blade",
+				"greater_crit",
+				"skadi",
+				"radiance",
+				"assault",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Good for laning against heroes that like to spam spells, such as bristleback, zeus, skywrath, etc.",
+				"power_treads":"Some guides have phase boots as the boots of choice on Spectre, but illusions don't benefit from the extra damage and spectre needs to tank up asap since most of her damage comes from dagger and desolate anyway, so build treads.",
+				"poor_mans_shield":"You can upgrade your stout shield to a Poor mans shield if you don't plan on getting a vanguard, the PMS gives 6 agi which can help a tiny bit with last hitting and gives a permanent 20 damage block to hero damage, which is great, plus the upgrade is only 300 gold.",
+				"bracer":"Helps with early game survivability, Spectre is a very squishy hero and needs all the survivability she can get early.",
+				"vladmir":"Good for early aggression, since the lifesteal, damage, and armor give you some tankiness and effectiveness in a fight, generally not good to get on a hard carry but in some situations, the hard carry can benefit from doing so.",
+				"ring_of_basilius":"Good for early game mana regen, armor, and a tiny bit of damage. You can use it to make a vlads, but honestly a ring a basilius is just a good pick up in general to help your farm and survivability.",
+				"assault":"Gives Spectre and her illusions armor and attack speed, but other than that doesn't give her much.",
+				"heart":"Dispersion is an ability that scales with HP, reducing the damage taken by Spectre by a max of 22% and deals them to enemies, for this reason Heart is core on Spectre, to make the most of her inate tankiness and make her and her illusions almost impossible to kill.",
+				"vanguard":"Recently buffed so it is actually a decent item, gives good hp regen, a bit of a boost to HP and now 40 damage block with an 80% chance, so its great for early aggression. Get this instead of drums if you want it, don't get both, also good to get a vanguard if you are doing a radiance rush.",
+				"radiance":"Good for increasing the overall damage output of spectre in a teamfight, and also good for farming, but other than that not the best item on spectre since the damage it gives doesn't benefit illusions, you normally get this in place of drums and diffusal, but that makes her squshy as heck.",
+				"butterfly":"Increases Spectre's damage output, and along with heart, contributes to her tankiness with the evasion. This item is a core item on most agi carries to be honest, and great on spectre.",
+				"greater_crit":"Similar to Abyssal blade, Spectre illusions don't benefit from the damage, but it gives spectre and her illusions a passive crit that increases her damage output by a lot.",
+				"manta":"Manta is core on Spectre not only because it helps her survive with the stats and the ability to disjoint spells, but it also increases her damage output by a ton when facing a solo enemy hero since the illusions will be dealing desolate damage plus diffusal damage.",
+				"skadi":"Spectre is a hero that generally wants stats items to increase the damage of her illusions while making her and her illusions tanky, for this reason Eye of Skadi is good on her, since it makes her tanky and also gives her agi and some int (although she doesn't really need int).",
+				"yasha":"Spectre is generally a slow hero and doesn't deal enough damage to burst heroes down, so a yasha can help with her ability to chase and also gives her decent stats to boot.",
+				"diffusal_blade":"Increases Spectre's damage output by a ton in team fights where your illusions do a lot of damage, diffusal blade stacks with desolate so your illusions are dealing 87/101 damage on top of the 40% damage they get from Spectre.",
+				"ancient_janggo":"Great item to make spectre tanky enough and mobile enough for early engagements, Spectre is a very squishy hero and if you decide to haunt into a fight. Get this or get a vanguard, don't get both, this offers raw stats over the vanguard, so if you need the extra int and agi, get drums.",
+				"abyssal_blade":"While Illusions of Spectre don't benefit from the damage you get from an abyssal, Spectre definitely does and it gives Spectre the ability to lock down an enemy hero, so she can definitely use this."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_spectral_dagger",
+			"2":"spectre_desolate",
+			"3":"spectre_spectral_dagger",
+			"4":"spectre_desolate",
+			"5":"spectre_spectral_dagger",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_desolate",
+			"9":"spectre_desolate",
+			"10":"spectre_dispersion",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_dispersion",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"Not the best damaging nuke, but gives spectre the ability to chase multiple heroes if it hits multiple heroes, usually best to max this first unless you or the enemy team is playing super aggressive, where you might benefit from maxing desolate or dispersion first.",
+				"spectre_desolate":"Where most of your damage comes from, max this second in a somewhat passive farming game, first if you are playing super agressive or are in a team that is teamfight heavy and reliant on your haunt.",
+				"spectre_dispersion":"Spectre's best scaling ability, and what makes her nearly impossible to kill late game, Spectre doesn't really benefit from this early since it scales with HP, but an early level can help with harass; you don't really need to level this until you have the HP to support it.",
+				"spectre_reality":"Some situations, you might benefit by not using reality, if you are already in the fight don't reality unless you want to chase someone who has gotten away, remember using reality is getting rid or one illusion which means one less illusion to deal desolate damage.",
+				"spectre_haunt":"Your initiation, teamfight, escape, and fight diffusing skill all rolled up into one, level this every chance you get and pick your items keeping it in mind that haunt is her most damaging and frightening ability."
+		}
+	}
+}

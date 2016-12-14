@@ -1,0 +1,109 @@
+{
+	"Hero":"mirana",
+	"Title":"Rampage mirana.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"circlet",
+				"flask"
+			],
+			"Start items 2":
+			[
+				"clarity",
+				"clarity",
+				"tango",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"10-20 mins(start items 1)":
+			[
+				"power_treads",
+				"yasha",
+				"ring_of_aquila"
+			],
+			"10-20 mins(start items 2)":
+			[
+				"phase_boots",
+				"bottle",
+				"diffusal_blade",
+				"yasha"
+			],
+			"Late game(start items 1)":
+			[
+				"manta",
+				"greater_crit",
+				"sphere",
+				"skadi",
+				"monkey_king_bar"
+			],
+			"Late game(start items 2)":
+			[
+				"manta",
+				"greater_crit",
+				"assault",
+				"butterfly"
+			],
+			"Situation":
+			[
+				"hand_of_midas",
+				"mjollnir",
+				"invis_sword",
+				"mask_of_madness"
+			]
+		},
+		"ItemTooltips":
+		{
+				"assault":"Why am I not added mjollnir? Because you will diffusal blade(but you can buy mjollnir"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_arrow",
+			"4":"mirana_starfall",
+			"5":"mirana_arrow",
+			"6":"mirana_starfall",
+			"7":"mirana_arrow",
+			"8":"mirana_starfall",
+			"9":"mirana_starfall",
+			"10":"mirana_invis",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_arrow":"Try to get an arrow from a distance, to get as much time to stun",
+				"mirana_leap":"Why swing at this ability? Because what could be saved (if you're at the center (against pudge, etc.))",
+				"mirana_invis":"This ability can be learned at level 6 (situation)"
+		}
+	}
+}

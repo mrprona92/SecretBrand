@@ -1,0 +1,108 @@
+{
+	"Hero":"undying",
+	"Title":"Undying",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"arcane_boots",
+				"cloak"
+			],
+			"coreItems":
+			[
+				"pipe"
+			],
+			"Late Game":
+			[
+				"blade_mail",
+				"heavens_halberd",
+				"vladmir",
+				"heart"
+			],
+			"Alternatives":
+			[
+				"rod_of_atos",
+				"vanguard",
+				"sheepstick",
+				"mekansm",
+				"magic_wand"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Gives good early survivabilty, will be upgraded.",
+				"cloak":"Gives you protection form magic and will be upgraded later.",
+				"magic_wand":"Get this early on agsint teams that cast a lot of spell.",
+				"clarity":"Gets lots of these so you can use spells very often.",
+				"flask":"Good heal when you are low.",
+				"tango":"Helps heal up after you get harassed.",
+				"mekansm":"Get this if your team does not already have one.",
+				"vladmir":"A good aura for the team.",
+				"ring_of_basilius":"Gives you good early Mana regen, turn it off while you are in lane.",
+				"pipe":"Protects the team from magic damage.",
+				"sheepstick":"A very powerful item but expensive.",
+				"heart":"Gives you tons of HP.",
+				"vanguard":"Get this if you want more HP, if you do get it get it early.",
+				"blade_mail":"Get this with high HP to deal damage to those who attack you.",
+				"arcane_boots":"Provides good Mana for you and the team.",
+				"rod_of_atos":"A very good slow and give HP as well and more Mana.",
+				"heavens_halberd":"Helps you stay alive and counters enemy carries."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_decay",
+			"2":"undying_tombstone",
+			"3":"undying_decay",
+			"4":"undying_tombstone",
+			"5":"undying_decay",
+			"6":"undying_flesh_golem",
+			"7":"undying_decay",
+			"8":"undying_tombstone",
+			"9":"undying_tombstone",
+			"10":"undying_soul_rip",
+			"11":"undying_flesh_golem",
+			"12":"undying_soul_rip",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Cast this very often in lane to harass a lot and give yourself HP. In team fights hit as many enemies as often as you can with this.",
+				"undying_soul_rip":"Not good until you are in team fights so get it later on. Use it to heal allies and hurt enemies.",
+				"undying_tombstone":"A very strong spell, use it in lane when you are ganked or are trying to kill the other team. Use it in every team fight you can.",
+				"undying_flesh_golem":"Use this in team fights and try to stay close to the enemy.",
+				"attribute_bonus":"No need to take this until you have to."
+		}
+	}
+}

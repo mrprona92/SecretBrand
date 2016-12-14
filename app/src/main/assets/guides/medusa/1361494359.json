@@ -1,0 +1,101 @@
+{
+	"Hero":"medusa",
+	"Title":"The hardest carry.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"magic_stick"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_health",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"pers"
+			],
+			"Final Build":
+			[
+				"sphere",
+				"manta",
+				"butterfly",
+				"skadi",
+				"rapier"
+			],
+			"luxury":
+			[
+				"maelstrom",
+				"satanic",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Boots are a must.",
+				"travel_boots":"In the lategame you should ditch your regular boots for those, you won't have to carry a TP and it will give you lots of map presence. You can also get it outright instead of threads but you must abuse it to the maximum to farm/push lanes.",
+				"ring_of_health":"Allows you to Regen in lane and somewhat jungle.",
+				"power_treads":"Threads are probably the best option,they give the perfect mix of survivability and damage per second.",
+				"pers":"Perseverance is key on Medusa, since you need to keep your mana and HP up.",
+				"ring_of_basilius":"The extra armor and mana are great in lane, and the extra pushing power is useful on a hero that will farm for most of the game.",
+				"sphere":"Medusa is a hero that greatly benefits from all stats (STR, AGI,INT) and since you have a perseverance linkens is a logical pickup. You may skip it if you feel the spell block won't be all that helpful.",
+				"rapier":"Divine rapier! Medusa is, perhaps, the best rapier user after she gets a lot of items: She is insanely tanky, so it won't be easy to make her drop it and she can use the fancy +300 damage to hit the entire enemy team at once! Only get this after you have a lot of levels and are very tanky!",
+				"butterfly":"You should get this after you're tanky enough, the dodge will help you even further while the agility will give you further damage. If you have linkens, manta and butterfly that means you already have insane power in your hands.",
+				"manta":"Manta gives you more of all stats along with a solid DPS increase and an amazing active, after manta's you'll be way more durable and dangerous.",
+				"satanic":"You can get a satanic instead of a Skadi/rapier, its not my favorite choice  but the lifesteal makes you great at 1v1s.",
+				"skadi":"Medusa is a natural tank so heart might seem adequate. Its not, skadi will give you way more Effective HP since it also gives you mana to fuel your mana shield, the slow and the bonus agility are just icing on the cake. I usually get this after butterfly but you can rush it if you don't like Linkens",
+				"maelstrom":"You can rush this after perseverance if you feel you need more DPS in the midgame, be warned that you won't be able to tank as much as with a regular linkens manta build which also has a stronger super late game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"medusa_mystic_snake",
+			"3":"medusa_mystic_snake",
+			"4":"attribute_bonus",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_mana_shield",
+			"9":"medusa_mana_shield",
+			"10":"medusa_mana_shield",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_mana_shield",
+			"13":"medusa_split_shot",
+			"14":"medusa_split_shot",
+			"15":"medusa_split_shot",
+			"16":"medusa_stone_gaze",
+			"17":"medusa_split_shot",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"medusa_split_shot":"The skill which makes you a DPS machine! Don't bother getting it until later in the game since you need a lot of items for it to be noticeable on your enemies.",
+				"medusa_mystic_snake":"The only thing poor Medusa has in the early game. You should try to make it bounce a few times before it hits enemy heroes for maximum damage, and always try to hit creeps with mana. Max this first.",
+				"medusa_mana_shield":"The shield which after a full build can make you the tankiest hero in the game, don't get this in lane since you want all the mana you have to spam mystic snake.",
+				"medusa_stone_gaze":"This ultimate gives you amazing control over team fights, slowing all your enemies and countering illusion based heroes(CK,Naga, PL). Also make sure to use it when getting ganked, its almost a get out of jail free card.",
+				"attribute_bonus":"Stats at 1 and 4 so you have survivability in lane and can spam mystic snake."
+		}
+	}
+}

@@ -1,0 +1,55 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "night_stalker_hunter_in_the_night",
+        "2": "night_stalker_void",
+        "3": "night_stalker_hunter_in_the_night",
+        "4": "night_stalker_crippling_fear",
+        "5": "night_stalker_hunter_in_the_night",
+        "6": "night_stalker_darkness",
+        "7": "night_stalker_void",
+        "8": "night_stalker_hunter_in_the_night",
+        "9": "night_stalker_void",
+        "10": "night_stalker_darkness",
+        "11": "night_stalker_void",
+        "12": "night_stalker_crippling_fear",
+        "13": "night_stalker_crippling_fear",
+        "14": "night_stalker_crippling_fear",
+        "15": "attribute_bonus",
+        "16": "night_stalker_darkness",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "night_stalker_void": "В начале игры будем добивать слабых героев врага,или просто отпугивать персонажей с малым кол-вом хп.",
+        "night_stalker_crippling_fear": "Поможет в дуэлях один на один.",
+        "night_stalker_hunter_in_the_night": "Важнейший навык. До первой ночи прокачать как можно больше.",
+        "night_stalker_darkness": "Полезная штука,желательно улучшите ее аганимом.",
+        "attribute_bonus": "Качайте ловкость!!!"
+    }
+}, "Hero": "night_stalker", "ItemBuild": {
+    "ItemTooltips": {
+        "greater_crit": "Лишний урон нам жизненно необходим.\n",
+        "blade_mail": "Облегчит битвы с превосходящими силами врага.(необязательно)",
+        "armlet": "Если у вас много хп,можно купить для увелечения мощи нашего героя в нужный момент.Желательно использовать в паре с Masc of Madness.",
+        "blades_of_attack": "Даст достаточную стату для ранней игры.",
+        "blink": "Догоняем убегающих противников с малым кол-вом хп.",
+        "power_treads": "Лишняя скорость атаки нам не помешает.",
+        "ultimate_scepter": "С ним наша культа будет особенно полезной.",
+        "assault": "Помогает выживать в  конце игры, или противодействовать танкам врага.(необязательно)",
+        "lesser_crit": "Позже сварим из него Daedalus.",
+        "mask_of_madness": "Вампиризм жизненно нужен нам , если мы возьмем Armlett of Mordigian,что-бы компенсировать потерю здоровья.",
+        "bfury": "Поможет фармить на крипах в лесу и на линии."
+    },
+    "Items": {
+        "Начальный закуп": ["flask", "branches", "gauntlets", "gauntlets", "clarity"],
+        "Середина игры": ["power_treads", "armlet", "blink", "lesser_crit", "bfury", "blade_mail"],
+        "Конец игры": ["greater_crit", "assault", "ultimate_scepter", "mask_of_madness"]
+    }
+}, "Title": "Night Stalker rus guide by DED"}

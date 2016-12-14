@@ -1,0 +1,75 @@
+{
+	"Hero":"viper",
+	"Title":"Viper Hard Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"circlet",
+				"slippers",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"wraith_band",
+				"invis_sword",
+				"bottle"
+			],
+			"Mid Game":
+			[
+				"heart",
+				"travel_boots",
+				"butterfly"
+			],
+			"Late Game":
+			[
+				"ultimate_scepter",
+				"assault"
+			],
+			"Optional":
+			[
+				"vanguard",
+				"manta"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_nethertoxin",
+			"2":"viper_poison_attack",
+			"3":"viper_nethertoxin",
+			"4":"viper_poison_attack",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_corrosive_skin",
+			"8":"viper_nethertoxin",
+			"9":"viper_poison_attack",
+			"10":"viper_nethertoxin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

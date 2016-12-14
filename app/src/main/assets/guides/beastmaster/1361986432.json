@@ -1,0 +1,86 @@
+{
+	"Hero":"beastmaster",
+	"Title":"Rexxar Old school multi-tab build...",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"sobi_mask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"assault",
+				"necronomicon",
+				"pipe",
+				"shivas_guard",
+				"vladmir"
+			],
+			"Late Situational Items":
+			[
+				"heart",
+				"travel_boots",
+				"blink",
+				"heavens_halberd"
+			],
+			"old School Items":
+			[
+				"mask_of_madness",
+				"sange_and_yasha",
+				"abyssal_blade"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_wild_axes",
+			"4":"beastmaster_call_of_the_wild",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

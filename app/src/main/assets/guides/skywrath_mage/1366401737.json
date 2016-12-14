@@ -1,0 +1,109 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"6.82 - Standard Skywrath Mage (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"tango",
+				"mantle",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"rod_of_atos"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"This is to build later into Veil of Discord",
+				"branches":"Due to Skywrath Mage's weak attacks, ",
+				"ghost":"For physical carries who are always on your ass. Use Ghost Scepter to cast your destruction safely.",
+				"mekansm":"Since you are behind the lines, you should be safe enough to grab and use Mekansm. It should also toughen you up with the health regeneration and extra armor, so snag this!",
+				"orchid":"Amplify the magic damage with your Ancient Zeal (diminishes magic resistance). ",
+				"cyclone":"More intelligence, movement speed and a great crowd-control ability. Keep this in mind when choosing your items.",
+				"force_staff":"Mobility, mobility, mobility. This is your escape and it's desperately needed since Skywrath Mage is so fragile.",
+				"ultimate_scepter":"Aghanim's Scepter allows Skywrath Mage to really deplete his mana in exchange for huge damage with his ultimate now gaining a 0 cooldown buff at its third level.
+
+Definitely a late, late-game item as you want the 0 cooldown.",
+				"bloodstone":"If you have the lead and can get this early enough, snag it. But otherwise skip it if you're really trailing behind, there's plenty to buy for Skywrath Mage.",
+				"veil_of_discord":"A more suited magic damage amplifier. Definitely worth considering if your team is heavy on casters/nuking.",
+				"rod_of_atos":"Atos is to work in combination with your Ancient Zeal and Concussive Shot. Open with either ability, use Ancient Zeal and then slow again with Conc. Shot or Atos and destroy them with Arcane Bolt."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_ancient_seal",
+			"9":"skywrath_mage_ancient_seal",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_concussive_shot",
+			"13":"skywrath_mage_concussive_shot",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skywrath_mage_arcane_bolt":"Though slow, Arcane Bolt becomes your main damage-dealer given its low cooldown, constant mana cost and how well Skywrath Mage scales in intelligence later in the game.
+
+Use this ability to harass foes out of your lane.",
+				"skywrath_mage_concussive_shot":"Concussive Shot can be obtained during the first 6 levels if feeling unsafe. However, overall it isn't as good as Arcane Bolt (your damage-dealer) and Ancient Seal which diminishes magic resistance of your enemies.
+
+Use Concussive Shot to slow foes and to initiate with its large range when ganking",
+				"skywrath_mage_ancient_seal":"Ancient Seal reduces Magic Resistance. A great opener for all your other abilities to dish out even more damage.",
+				"skywrath_mage_mystic_flare":"Your ultimate has a small AOE, but incredible damage. Be mindful that the damage is spread to whoever is in the AOE."
+		}
+	}
+}

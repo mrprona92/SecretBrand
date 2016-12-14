@@ -1,0 +1,103 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"CM Support RUS",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"courier",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"boots",
+				"bracer",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"invis_sword",
+				"ward_observer",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"ward_sentry",
+				"mekansm",
+				"pipe",
+				"black_king_bar",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Телепортирует Вас в указанную точку, что позволяет эффективно начинать бой и так же быстро его покидать",
+				"gauntlets":"Поможет Вам выживать на начальных уровнях",
+				"branches":"Даст Вам немного маны и здоровья, что на начальных уровнях может Вам немного помочь",
+				"boots":"Помогут Вам эффетивнее врываться в бой и так же быстро с него уходить",
+				"flask":"Поможет Вам или Вашим союзникам, восстанавливая 400 НР",
+				"ward_observer":"Варды помогут контролировать ситуацию на карте",
+				"ward_sentry":"Эти варды помогут обнаружить невидимых противников, что даст Вашей команде дополнительное преимущество в бою",
+				"tango":"Поможет Вам или Вашим союзникам",
+				"courier":"Принесёт итемы Вам и Вашим союзникам",
+				"bracer":"Добавляет Вам \"живучести\"",
+				"mekansm":"Восстановит НР союзников и добавит им броню. Эффективно против \"физиков\"",
+				"flying_courier":"Позволит Вам и Вашим союзникам получить итемы более быстрее",
+				"pipe":"Эффективно против магов",
+				"ultimate_scepter":"Сделает Ваш ульт более сильным",
+				"black_king_bar":"Даст Вам иммунитет к магии",
+				"invis_sword":"В бою используете ульт, а потом прожимаете Shadow Blade и Вы остаётесь невидимым, кастуя дальше ульт. Так же поможет покинуть поле боя",
+				"tranquil_boots":"Будут регенерировать Вам НР, что почти освобождает от использования банок"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_frostbite",
+			"2":"crystal_maiden_brilliance_aura",
+			"3":"crystal_maiden_crystal_nova",
+			"4":"crystal_maiden_frostbite",
+			"5":"crystal_maiden_frostbite",
+			"6":"crystal_maiden_freezing_field",
+			"7":"crystal_maiden_brilliance_aura",
+			"8":"crystal_maiden_frostbite",
+			"9":"crystal_maiden_crystal_nova",
+			"10":"crystal_maiden_brilliance_aura",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_crystal_nova",
+			"13":"crystal_maiden_brilliance_aura",
+			"14":"crystal_maiden_crystal_nova",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Замедлит противников и нанесёт им урон",
+				"crystal_maiden_frostbite":"Позволит Вам эффективно начать бой против 1 или 2 противников",
+				"crystal_maiden_brilliance_aura":"Добавит скорость регенерации Вам и Вашим союзникам",
+				"crystal_maiden_freezing_field":"Эффективно против нескольких соперников"
+		}
+	}
+}

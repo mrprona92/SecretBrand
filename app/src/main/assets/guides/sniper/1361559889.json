@@ -1,0 +1,132 @@
+{
+	"Hero":"sniper",
+	"Title":"Sniper: More Powder in your Shot!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"slippers",
+				"branches",
+				"tango"
+			],
+			"coreItems":
+			[
+				"wraith_band",
+				"ring_of_aquila",
+				"power_treads",
+				"maelstrom"
+			],
+			"Situational Damage":
+			[
+				"mjollnir",
+				"yasha",
+				"greater_crit",
+				"mask_of_madness"
+			],
+			"Situational Survivability":
+			[
+				"black_king_bar",
+				"helm_of_the_dominator",
+				"satanic",
+				"invis_sword"
+			],
+			"Countering Enemies":
+			[
+				"monkey_king_bar",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"You need all the damage you can get early game.
+Paying 150g for an item you will sell mid-game will pay off when you get only 2-3 more last hits (you get 75g for selling). Not to mention it makes your harass more formidable.",
+				"branches":"Branches also make the early game easier.
+The most cost efficient item in the game. Cannot win without the gg branch!",
+				"lifesteal":"A single Morbid Mask is excellent instead of Helm of the Dominator, if you're short on cash.",
+				"flask":"For use after a gank, when your health has dropped by 400.",
+				"tango":"To stay in lane you need regeneration items.",
+				"demon_edge":"Build either into Monkey King Bar or Daedalus.",
+				"reaver":"Build into Satanic for great survivability.",
+				"hyperstone":"A Hyperstone is a great item for Sniper. Build it in Mjollnir later on.",
+				"power_treads":"The stats on power threads are cheap and effective. Additionally, the attack speed really helps activiting Headshot.
+Switch to agility for last hitting and use Strength mode in (team)fights, so that you can survive long enough to do damage.",
+				"wraith_band":"A wraith band is a cheap item to get through the early game. You may skip it if the lane was very good, but do not shy away from simply building 3 wraithbands to come back from a bad start.",
+				"assault":"With Assault Cuirass (AC) you can get even more attack speed. If you've built a Mjollnir, however, then it's better to add a little bit more damage to Sniper's attacks.
+The armor you already have from being an Agility hero.",
+				"black_king_bar":"When the enemy team has a lot of stuns and other damaging spells, Black King Bar is the item to get. Additionally, the enemy has to come closer to Sniper to hit him, so you will have plenty time to activate BKB and keep shooting.",
+				"rapier":"Because sniper is still squishy, even with a full build, you shouldn't get Divine Rapier.",
+				"monkey_king_bar":"If the enemy carry gets a Butterfly or there is an other form of Evasion on the enemy team (but not Void!) then MKB is a great item.
+Note that it is a (false) myth that you cannot miss uphill with MKB for sieges.",
+				"butterfly":"If you get hit a lot by physical attacks, 35% Evasion can raise your Effective HP a lot more than a little Strength or Armor can do. And don't forget it deals a ton of damage too!
+The new active can help you escape by giving you a larger movespeed bonus.",
+				"greater_crit":"When you've got enough Attack Speed on Sniper it is time to add a little more Damage to the mix. Daedalus will certainly do the trick by adding a huge crit chance and an additional 81 Damage.
+Alternatively, you can also get Crystalis early and upgrade to Daedlus later.",
+				"basher":"Skull Basher has a lowered chance of 10% to activate on ranged heroes. Thus it is only occasionally that it is useful. Upgrade to Abyssal for a lot of damage.",
+				"bfury":"Don't get this. You don't get Cleave on ranged heroes.",
+				"manta":"A great item to upgrade your Yasha into. The 2 illusions will deal 28% damage each, but will not use  Headshot, Maelstrom or Critical hits. It also gives you more survivability.",
+				"lesser_crit":"You can get a crystalis after your core, but getting a little more attack speed first helps sniper a lot more.",
+				"invis_sword":"If you're getting ganked a lot or quickly focussed in teamfights Shadow Blade will help get the heat off you. Use it to lose focus from the enemy team and move to a safe position to continue sniping.",
+				"satanic":"Get Satanic when the game runs really long.",
+				"mjollnir":"Mjollnir supercharges Sniper's Attack Speed for maximizing Headshot uses and DPS. It also upgrades the passive Chain Lightning to deal 33% more damage.",
+				"skadi":"In some cases a Skadi can help you shut down enemy melee carries by keeping them permanently slowed. It stacks with Lifesteal too!",
+				"helm_of_the_dominator":"When you notice that you do a lot of damage in fights but could still use a little more defense, then get Lifesteal. Upgrade Late Game to Satanic.
+Pro tip: Helm of the Dominator also allows you to stack the Ancients for farm.",
+				"maelstrom":"Maelstrom has everything Sniper needs: Damage, Attack Speed and an AoE farming spell. With Maelstrom Sniper is able to quickly farm up the expensive items he needs to shine in teamfights.",
+				"yasha":"Yasha is a great item for many agility carries and no less so on Sniper. The movement speed bonus helps you stay at range, so that you may attack enemies without worry. Later upgrade it to Manta Style for some added (illusion) damage and survivabilty.",
+				"mask_of_madness":"Mask of Madness can be an effective item to increase Sniper's DPS. However, you had better be sure that you can keep the enemy at bay or Sniper will die even faster than before.",
+				"abyssal_blade":"100 Damage is nothing to scoff at and another chance to bash enemies isn't bad either. However, it still has only 10% chance to activate on ranged heroes, and the bash will get blocked by magic immunity.",
+				"ring_of_aquila":"Aquila will add quite a bit of damage to your early game, making last hitting a lot easier.
+Additionally it will buff up you and your allies (and optionally creeps) with armor and mana regeneration."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_headshot",
+			"2":"sniper_take_aim",
+			"3":"sniper_headshot",
+			"4":"sniper_take_aim",
+			"5":"sniper_headshot",
+			"6":"sniper_assassinate",
+			"7":"sniper_headshot",
+			"8":"sniper_take_aim",
+			"9":"sniper_shrapnel",
+			"10":"sniper_take_aim",
+			"11":"sniper_assassinate",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"sniper_shrapnel",
+			"24":"sniper_shrapnel",
+			"25":"sniper_shrapnel"
+		},
+		"AbilityTooltips":
+		{
+				"sniper_shrapnel":"Shrapnel has some use as a Pushing ability, but I use it mainly to slow enemies that dive my tower or try to escape.
+After the AoE was buffed in the recent patches, the ability finally has the possibility to do some damage and allow you to safely farm from afar.",
+				"sniper_headshot":"If you feel that your lane is safe (not many stuns or a lot of damage early game) level Headshot first. It allows for easy last hitting and denying(!) creeps. However, Take Aim is better when you want to play it safe.",
+				"sniper_take_aim":"Take Aim is what makes Sniper, Sniper. It allows you to farm safely from afar. But more importantly it gives you the ability to stay out of harm's way when teamfights occur, so that you can maximize your damage output.",
+				"sniper_assassinate":"Assassinate is a great ability to finish off running enemies. Be careful using it in fights though, as at some point in the game your DPS will be higher if you don't use Assassinate.
+Another use is harass in lane. Sniper has plenty mana, so feel free to use it now and then.",
+				"attribute_bonus":"Stats add that little extra to everything. The difference in your DPS and Survivability is pretty noticeable though."
+		}
+	}
+}

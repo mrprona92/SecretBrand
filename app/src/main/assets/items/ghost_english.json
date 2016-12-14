@@ -1,0 +1,15 @@
+{
+  "dotaId": "ghost",
+  "img": "ghost_lg.png",
+  "dname": "Ghost Scepter",
+  "qual": "component",
+  "cost": 1500,
+  "desc": "Active: Ghost Form - Enter ghost form, becoming immune to physical damage, yet unable to attack and taking 40% extra magic damage.<br/>Using a Town Portal Scroll or Boots of Travel  will not dispel Ghost Form.",
+  "notes": "Ends if you become Spell Immune, and will have no effect if you are already Spell Immune.<br/>Shares cooldown with Ethereal Blade.",
+  "attrib": "+ 5 All Attributes<br/>GHOST DURATION: 4<br/>GHOST ADDED MAGIC DAMAGE: 40%",
+  "mc": false,
+  "cd": 30,
+  "lore": "Imbues the wielder with a ghostly presence, allowing them to evade physical damage.",
+  "components": null,
+  "created": false
+}

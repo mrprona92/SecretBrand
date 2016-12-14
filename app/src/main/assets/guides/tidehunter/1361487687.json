@@ -1,0 +1,99 @@
+{
+	"Hero":"tidehunter",
+	"Title":"Team Fight Tidehunter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"flask",
+				"tango",
+				"gauntlets",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"ancient_janggo"
+			],
+			"Late Game":
+			[
+				"pipe",
+				"shivas_guard"
+			],
+			"Alternative":
+			[
+				"mekansm",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allows you to jump in on the whole enemy team and use Ravage.",
+				"gauntlets":"More stating HP and damage, builds to a bracer later.",
+				"branches":"Gives nice early stat points. Can be upgraded later.",
+				"clarity":"Provides some extra Mana.",
+				"flask":"Good burst HP regen if you get low.",
+				"tango":"Helps to heal you if you get harassed.",
+				"courier":"Every team needs a courier, if someones else buys one, get wards instead.",
+				"bracer":"Give good stats and helps you stay alive, can be made into a Drum of Endurance.",
+				"mekansm":"Every team needs a Mekansm, if no else buys one you should.",
+				"pipe":"Protects the team form magic damage and makes you tankier.",
+				"refresher":"A very good item since you can Ravage twice with it. However it is expensive and takes lots of Mana to use.",
+				"shivas_guard":"A good aura and active ability as well as giving you armor and Mana pool, don't worry if you never get the gold to buy it.",
+				"arcane_boots":"Gives you and your team Mana.",
+				"ancient_janggo":"A nice aura and good stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_kraken_shell",
+			"3":"tidehunter_gush",
+			"4":"tidehunter_kraken_shell",
+			"5":"tidehunter_gush",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_gush",
+			"8":"tidehunter_anchor_smash",
+			"9":"tidehunter_anchor_smash",
+			"10":"tidehunter_anchor_smash",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_anchor_smash",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tidehunter_gush":"A very good ability through out the game, use it to set up kills.",
+				"tidehunter_kraken_shell":"Helps keep you alive and not get harassed in lane.",
+				"tidehunter_anchor_smash":"Allows you to do okay damage and reduce the damage enemies deal. You'll want to get this early if your in a lane to get kills.",
+				"tidehunter_ravage":"Your main contribution to the team, use this on the enemies to stun them all.",
+				"attribute_bonus":"No need to take this until you have to."
+		}
+	}
+}

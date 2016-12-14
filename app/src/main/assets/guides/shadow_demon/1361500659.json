@@ -1,0 +1,88 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"SUPPORT FTW by qwerty",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"boots",
+				"smoke_of_deceit",
+				"magic_wand",
+				"headdress",
+				"ward_sentry"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ghost"
+			],
+			"luxury":
+			[
+				"blink",
+				"vladmir",
+				"dagon",
+				"ethereal_blade",
+				"sheepstick",
+				"rod_of_atos",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"IF YOU ARE THE FOCUS THIS IS THE SECRET (ANTI-CARRYFOCUS)",
+				"ward_sentry":"FOR COUNTER WARD (IF YOU WANT)",
+				"vladmir":"VLAD FOR SUPPORT THE CARRY MELEE",
+				"sheepstick":"IF YOU FARM A LOT :P",
+				"ethereal_blade":"TO INCREASE BONUS DAMAGE",
+				"smoke_of_deceit":"GANKING TIME"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_soul_catcher",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_soul_catcher",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_soul_catcher",
+			"8":"shadow_demon_shadow_poison",
+			"9":"shadow_demon_shadow_poison",
+			"10":"shadow_demon_shadow_poison",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

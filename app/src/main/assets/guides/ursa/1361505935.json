@@ -1,0 +1,114 @@
+{
+	"Hero":"ursa",
+	"Title":"6.82 - Standard Ursa (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"lifesteal",
+				"boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"phase_boots",
+				"black_king_bar"
+			],
+			"Fight Roshan at Level 6":
+			[
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"diffusal_blade",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"abyssal_blade",
+				"satanic",
+				"skadi"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Use Blink Dagger in combination with Earthshock to quickly take down unsuspecting foes.",
+				"quelling_blade":"To help kill Jungle creeps at a much faster rate.",
+				"stout_shield":"To mitigate damage and allow you jungle safely.",
+				"lifesteal":"This is all you need to farm the jungle as your passive: Fury Swipes are no longer an orb effect. At Level 4, you can do Roshan along with this item. ",
+				"phase_boots":"Phase boots is to help you chase after opponents.",
+				"vladmir":"Vladmir's Offering still works as a great team-fighting item. Works great with other orb-modifiers such as Desolator and Eye of Skadi.",
+				"sheepstick":"You don't need any more strength than what is in the core set, Sheep Stick disables your opponent and let's you freely destroy them.",
+				"invis_sword":"To consider instead of Blink Dagger, also works very well with the extra damage. Be careful of the mana cost because it will drain you if heavily used.",
+				"satanic":"WORKS IN COMBINATION WITH EYE OF SKADI! Follow through your early Morbid Mask with Satanic",
+				"skadi":"EYE OF SKADI WORKS WITH SATANIC! Keep your opponent permanently slowed with Earthshock and Eye of Skadi!",
+				"desolator":"If you're getting Desolator (SELL MORBID MASK), this works great if you are needing to tear down towers relatively faster or simply want to output more damage over crowd-control (Skadi) and self-sufficiency (Satanic)",
+				"diffusal_blade":"Diffusal Blade is great for pesky enemies who make themselves invulnerable to physical damage such as through items like Ghost Scepter. It's also relatively good to keep heroes in place if they can flee from Earthshock.
+
+Do not build Satanic or Skadi if going for Diffusal Blade.",
+				"smoke_of_deceit":"Use Smoke of Deceit to freely get into Roshan's Pit without being sighted by enemy heros or wards.",
+				"abyssal_blade":"Abyssal Blade is your late-game item to keep foes down and rivaling Physical Carries crippled as you destroy them as quickly as possible.",
+				"tranquil_boots":"Tranquil boots is to help your survivability in the jungle. At the start of your first few levels, you will be incredible weak and in need of heals. Use tranquil boots until you need the items necessary to make Vladmir's Offering.
+
+Disassemble it when building Vlad's."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ursa_fury_swipes",
+			"2":"ursa_overpower",
+			"3":"ursa_fury_swipes",
+			"4":"ursa_overpower",
+			"5":"ursa_earthshock",
+			"6":"ursa_enrage",
+			"7":"ursa_fury_swipes",
+			"8":"ursa_fury_swipes",
+			"9":"ursa_overpower",
+			"10":"ursa_overpower",
+			"11":"ursa_enrage",
+			"12":"ursa_earthshock",
+			"13":"ursa_earthshock",
+			"14":"ursa_earthshock",
+			"15":"attribute_bonus",
+			"16":"ursa_enrage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ursa_earthshock":"Getting Earthshock is situational. Although Fury Swipes and Overpower work well, Earthshock is greatly needed to keep foes slowed and within your reach. Get it when you are ready to start ganking and attacking heros.",
+				"ursa_overpower":"Overpower lasts longer than its cooldown, so if preparing for an attack, make sure to activate Overpower, wait for the cooldown to finish, then use it for two consecutive Fury Swipes!",
+				"ursa_fury_swipes":"Fury Swipes is Ursa's strongest ability. Combined with his Overpower, it allows him to take down foes in mere seconds.",
+				"ursa_enrage":"Highly based on your current health, best used at the start and continuously used as it costs no mana for Ursa."
+		}
+	}
+}

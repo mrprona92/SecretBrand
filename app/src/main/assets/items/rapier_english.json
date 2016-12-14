@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 330 Damage",
+  "cd": false,
+  "components": [
+    "relic",
+    "demon_edge"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Drops on death.  Divine Rapier is muted to anyone but the owner, as long as he or his teammates pick it up. As soon as an enemy picks it up, Divine Rapier is unmuted, but cannot be dropped except on death.",
+  "dname": "Divine Rapier",
+  "dotaId": "rapier",
+  "mc": false,
+  "img": "rapier_lg.png",
+  "lore": "So powerful, it cannot have a single owner.",
+  "id": 133,
+  "created": true,
+  "cost": 6200
+}

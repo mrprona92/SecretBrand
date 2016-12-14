@@ -1,0 +1,19 @@
+{
+  "dotaId": "refresher",
+  "id": 110,
+  "img": "refresher_lg.png",
+  "dname": "Refresher Orb",
+  "qual": "rare",
+  "cost": 5300,
+  "desc": "Active: Reset Cooldowns - Resets the cooldowns of all your items and abilities.",
+  "notes": "",
+  "attrib": "+ 10 HP Regeneration<br/>+ 250% Mana Regeneration<br/>+ 20 Damage",
+  "mc": 375,
+  "cd": 195,
+  "lore": "A powerful artifact created for wizards.",
+  "components": [
+    "pers",
+    "pers"
+  ],
+  "created": true
+}

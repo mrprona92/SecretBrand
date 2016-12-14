@@ -1,0 +1,112 @@
+{
+	"Hero":"razor",
+	"Title":"Ganker Carry - WTRON 8000 - Updated",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"flask",
+				"magic_stick",
+				"slippers",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"wraith_band",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"sange_and_yasha",
+				"ultimate_scepter",
+				"desolator"
+			],
+			"Optional/Situational":
+			[
+				"ring_of_aquila",
+				"vanguard",
+				"poor_mans_shield",
+				"rapier",
+				"butterfly",
+				"heart",
+				"black_king_bar",
+				"manta",
+				"mekansm",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"If you random razor and don't get boots - you're going to have a bad time.",
+				"magic_wand":"Keep mana and hp up. use at 3+ if needed. SPAM THE STICK - if there is a Bristleback, PA, Batrider or any spam skill heros.... this stick be your bitch. ",
+				"power_treads":"Use on strength or Agi. Depending on what your HP is and what you feel comfortable with.
+AGI=More DPS+armor+attackSpeed
+STR= More HP/Regen",
+				"poor_mans_shield":"Completely optional. Cheap early alternative to vanguard. ",
+				"wraith_band":"Optional but always nice damage boost. ",
+				"mekansm":"Because who needs the whole team to be there when taking on half their team? ",
+				"refresher":"Push towers, have seizures. ",
+				"sphere":"Feel you need more HP and toughness?",
+				"vanguard":"always a good choice if you seem to be needing HP and Regen earlier in the game. Great for chasing with ult",
+				"rapier":"End it. ",
+				"butterfly":"Razor is an agility hero. That is all that needs to be said",
+				"sange_and_yasha":"great to get Yasha first for speed boost. ",
+				"desolator":"make the decision to get before or after scepter. always a hard decision. ",
+				"yasha":"The extra movement speed allows for amazing dives - it's your choice to go MEK or Scepter before this. ",
+				"ring_of_aquila":"Upgrad your wraitband and get some mana regen if you want. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_plasma_field",
+			"2":"razor_unstable_current",
+			"3":"razor_plasma_field",
+			"4":"razor_unstable_current",
+			"5":"razor_static_link",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_unstable_current",
+			"9":"razor_plasma_field",
+			"10":"razor_unstable_current",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_static_link",
+			"13":"razor_static_link",
+			"14":"razor_static_link",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"razor_plasma_field":"At lvl 4. start farming creep waves with this. One attack on the range creep then focus on last hitting other units.",
+				"razor_static_link":"scare the carry or the dps of their team. suck their dmg and make them run. It's up to you to put one into this skill early on. ",
+				"razor_unstable_current":"Defense from casts & movement speed? Really it's up to the game play and scenario if you want to max this first. Having higher movement speed can make or break many situations. ",
+				"razor_eye_of_the_storm":"Don't be afraid to tower dive if you have two teammates coming the other way. just follow the enemy hero and smack 'em.
+Use your ult when chasing 1v1, 2v1, 2v2, 2v3 or in team battles. Always worth to pop up when getting chased as well if you have the health to survive."
+		}
+	}
+}

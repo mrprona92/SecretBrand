@@ -1,0 +1,19 @@
+{
+  "dotaId": "greater_crit",
+  "attrib": "+ 81 к урону<br/>ШАНС КРИТА: 25%<br/>КРИТИЧЕСКИЙ УРОН: 240%",
+  "cd": false,
+  "components": [
+    "lesser_crit",
+    "demon_edge"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Пассивная: Critical Strike — дает шанс нанести критический урон при атаке.",
+  "dname": "Daedalus",
+  "mc": false,
+  "img": "greater_crit_lg.png",
+  "lore": "Оружие невероятной силы, с которым нелегко управиться даже самому сильному воину.",
+  "id": 141,
+  "created": true,
+  "cost": 5520
+}

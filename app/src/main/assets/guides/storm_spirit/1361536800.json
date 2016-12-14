@@ -1,0 +1,106 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Casual Storm Spirit shotgun build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"mantle",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"null_talisman",
+				"bottle",
+				"power_treads",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"dagon",
+				"ghost",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"black_king_bar",
+				"sphere",
+				"gem"
+			],
+			"After Dagon 5 Core Item":
+			[
+				"ethereal_blade",
+				"veil_of_discord",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"GG",
+				"gem":"GO AWAY NYX NOBODY LIKES YOU",
+				"ghost":"Might save you after you waste your entire mana pool to zap a CM.
+Also, Ethereal Blade!",
+				"bottle":"Even if you're not mid.",
+				"tango":"WHAT IF THEY GET ME",
+				"travel_boots":"When you're full slotted/against a tinker/furion.",
+				"power_treads":"Put them on Int cause you're storm and you can never die.",
+				"null_talisman":"Gives you good damage and you need it for your dagon.",
+				"orchid":"Full range ulti > Veil (Highest range) > Orchid > Ethereal > Dagon 5",
+				"dagon":"Get it to level 5 asap and start zapping!",
+				"black_king_bar":"If you're in a tryhard mood.",
+				"sphere":"Incase of annoying doom-like heroes.",
+				"ethereal_blade":"Full range ulti > Ethereal > Dagon 5",
+				"veil_of_discord":"Full range ulti > Veil (Highest range) > Ethereal > Dagon 5"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_overload",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_overload",
+			"10":"storm_spirit_static_remnant",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_static_remnant",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_electric_vortex",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"1 Level is enough to get lasthits in the lane and push it for rune control.",
+				"storm_spirit_electric_vortex":"Disable, mostly better to (almost) max it first. 3 levels are enough for the pulled hero to get to your remnant",
+				"storm_spirit_overload":"Really helpful in the laning phase, if harassing with it you will most likely get more 1-2 hits while he is trying to get back, and if not - will give you a free lasthit. Best dps after you get your ulti (hit > ulti > hit > ulti, they wont know what got em).",
+				"storm_spirit_ball_lightning":"Pretty obvious, isn't it?",
+				"attribute_bonus":"All of your skills are SO good, no reason to get stats before maxing them."
+		}
+	}
+}

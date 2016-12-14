@@ -1,0 +1,66 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "slark_essence_shift",
+        "2": "slark_pounce",
+        "3": "slark_pounce",
+        "4": "slark_dark_pact",
+        "5": "slark_pounce",
+        "6": "slark_shadow_dance",
+        "7": "slark_pounce",
+        "8": "slark_dark_pact",
+        "9": "slark_dark_pact",
+        "10": "slark_dark_pact",
+        "11": "slark_shadow_dance",
+        "12": "slark_essence_shift",
+        "13": "slark_essence_shift",
+        "14": "slark_essence_shift",
+        "15": "attribute_bonus",
+        "16": "slark_shadow_dance",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "slark_pounce": "Main skill for Slark. Make sure you position yourself so that you can catch your enemies. Great way to escape too. But be careful as you are also vulnerable during your leap. Pudge still can hook you. ",
+        "slark_dark_pact": "Use this skill before leaping. Use this as a nuke when ganking.Very good skill for farming and jungling. Level up this skill after you have fully leveled up your second skill. This skill is so great as it removes debuffs. If used in right timing you can easily get out of stuns, silences and disables. If youbare slowed its even easier to get out of it.",
+        "slark_essence_shift": "Get this skill at least 1 level during early game. Its your main harassing tool during the laning phase. Although this doesn\u0027t affect creeps but you use this skill to harass your enemies buy taking 1 or 2 hits just to get some agility. Remember: every hit on an enemy hero gives you 3 agility and reduces all stats on the enemy hero. This makes your damage output to an enemy hero very high especially on squishy heroes like Drow Ranger and Mirana. Heroes like Pudge requires mana and some stength, so it would be great if you can try go near them enemy hero and get a hit or two just to keep them away and to reduce his mana and to get some attack speed and damage for easy farming. Once you have gotten a decent amount of attack speed it would be great taking multiple hits towards the enemy heroes causing them to lose their stats at a fast rate and causing you to gain more damage and attack speed every hit you take on them. As hits goes on you get a very high agility advantage causing you to win a team fights easily.",
+        "slark_shadow_dance": "Aha! When it comes to ulti, its always the best part. Yes indeed! Slark\u0027s ulti is very OP. As you activate your ulti actively, you are almost invulnerable as your invisibility cannot be revealed by dust, by true sight skills (example: track) or by gem! Best part of your ulti is you gain a huge amount of regen. So much so that you can refill your health in seconds without going to the fountain! There is one thing about this skill that very few players don\u0027t take advantage at. This skill activates passively when you are out of the enemies vision or when you are attacking, so therefore you wont gain any passive buff (ulti) if there is an enemy ward nearby. This allows you to know that there is a nearby ward somewhere. Upon knowing this, you can easily ask supports to deward. For example, if you are at the place where rune spawns, you practically know that you should gain your passive buff (ulti) as the enemy cant see you. But you may be wondering why your passive ulti does not trigger at that position. This immediately gives you the idea that, either someone invisible is nearby or there are wards around. It could be Lycan\u0027s wolfs around, or maybe sentry wards, or maybe an invisible hero. You could also bring a dust of appearance with you during early game or mid game. ",
+        "attribute_bonus": "Usual stats. Get 1 or 2 levels of stats if you need a bigger mana pool or hp. Slark is very stat dependent. But its mpre advisable to fully levelling all his skills before getting stats. This is because his skills play a very important role in carrying the game. Its not wrong to get some early stats if you really need it. "
+    }
+}, "Hero": "slark", "ItemBuild": {
+    "ItemTooltips": {
+        "basher": "Get this as your first item, its very useful. (get this before the 10th minute mark)",
+        "power_treads": "Mainstream boots. Arcane boots are also acceptable since you have some mana problems.",
+        "ring_of_aquila": "A bit of mana regen, armour, stats and damage. (not necessary if you are farming well)",
+        "tango": "Some early recovery.",
+        "sange_and_yasha": "Good item as it maximises your movement speed to 522 when your passive ulti is activated. Therefore giving you full potential to jungle, gank or go back to base witout taking too much time. Increases dps and hp too. Ideal item for Slark. (get Yasha before you get Sange)",
+        "poor_mans_shield": "Extra primary stats and more damage block (not necessary if you are farming well)",
+        "quelling_blade": "Easy farming.",
+        "boots": "Some movement speed.",
+        "stout_shield": "Some damage block from range opponent or creeps.",
+        "black_king_bar": "Slark is very dependent on his skills. Without them Slark is as good as a creep during mid game. Therefore, if Slark is silenced or disbled before his first skill is activated, Slark is close to death. Having bkb solves your problem as your first skill is kind of unreliable to remove stuns, disables and silences. Helps you get a lityle tankier and stronger.",
+        "butterfly": "Mainstream dps item, gives you evasion and lots of sttack speed. ",
+        "heart": "Slark needs more survivability. Therefore, having a heart solves your hp problem. (get this after your butterfly)",
+        "skadi": "Although having bashes and traps, its still easier to secure a kill with a slow. Try getting Skadi as Slark is very stat dependent.",
+        "sphere": "This item is great to block skills. Very great item.",
+        "greater_crit": "After getting so many dps items, why not think of getting some critical damage? ",
+        "abyssal_blade": "Powerful item, easily gives a maximum stun of 6 seconds (if counting the passive stun). Lots of damage.",
+        "bfury": "Cleave, cleave, cleave. Getting this helps you farm faster and easier.",
+        "shivas_guard": "Armour item and slows your enemies. It solves your mana problems totally.",
+        "rapier": "Even more powerful to dominate the game. Make sure you dont lose it.",
+        "satanic": "Slark steals stats, why not consider stealing hp too?"
+    },
+    "Items": {
+        "Starting items": ["quelling_blade", "tango", "stout_shield"],
+        "Laning items": ["boots", "poor_mans_shield", "ring_of_aquila"],
+        "Core items": ["power_treads", "basher", "sange_and_yasha"],
+        "Luxury items": ["black_king_bar", "butterfly", "heart"],
+        "Situational items": ["skadi", "sphere", "greater_crit", "abyssal_blade", "bfury", "shivas_guard", "rapier", "satanic"]
+    }
+}, "Title": "雯琳，我很想念妳xoxo\u0027s guide to Slark mid"}

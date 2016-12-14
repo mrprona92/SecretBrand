@@ -1,0 +1,110 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"And in other news, DOOOOOOOM",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"Get one of these":
+			[
+				"tranquil_boots",
+				"phase_boots",
+				"arcane_boots"
+			],
+			"Minion Doom":
+			[
+				"medallion_of_courage",
+				"vladmir",
+				"necronomicon"
+			],
+			"Racing in your face Doom":
+			[
+				"ancient_janggo",
+				"shivas_guard"
+			],
+			"Holy shit I need to carry":
+			[
+				"ultimate_scepter",
+				"assault",
+				"heavens_halberd",
+				"heart",
+				"manta"
+			],
+			"Early game mana items":
+			[
+				"soul_ring",
+				"magic_wand"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Magic Stick. Yeah should be in there somewhere. You don't always need it but it can help a lot.",
+				"phase_boots":"Running very fast and doing a lot of damage is very enjoyable. Also a great option if you made Tranquil Boots and disassembled them into a Vladmir's Offering later on.",
+				"vladmir":"Armor and mana is what doom loves. On top of this you provide your team with an excellent pushing aura.",
+				"necronomicon":"It is important to remember that the minions also gain the Scorched Earth buff. This makes them really tanky and especially annoying for supports.",
+				"ultimate_scepter":"More DOOM!",
+				"assault":"An awesome team oriented damage/survivability item. Also helps with the lack of armor.",
+				"heart":"I would almost never get this but as a last item it can do the job. Doom gets enough HP through his natural tankyness though, and it won't help you tank up if you don't get a ton of armor first.",
+				"shivas_guard":"ARMOR AND MANA, and lots of it! When you get this you are hard as a rock, you can charge in, use the active and no one can run.",
+				"manta":"Suprisingly good, movespeed on top of a lot of stats. The clones also benefit from Scorched Earth.",
+				"soul_ring":"You normally won't need this but if you're feeling extra spammy...",
+				"arcane_boots":"Not enough mana!",
+				"ancient_janggo":"You get stats and you go faster and hit faster. One of the more cost efficient items in the game.",
+				"medallion_of_courage":"Armor and mana, and the option to hit like a truck in the midgame!",
+				"heavens_halberd":"A solid option to tank up further for a cheap price. Provides you with more utility through the disarm. Only get this after armor items though!",
+				"tranquil_boots":"Tranquil boots OP! You can get them on any hero really. Cost efficient regen on top of armor and movement speed, what's not to like. Especially good when jungling. Also keep in mind that you can disassemble them and make a Vladmir's Offering with the components later on."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_lvl_death",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_lvl_death",
+			"9":"doom_bringer_lvl_death",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_scorched_earth",
+			"13":"doom_bringer_scorched_earth",
+			"14":"doom_bringer_scorched_earth",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Use on cooldown, get rich. Nothing else to say.",
+				"doom_bringer_scorched_earth":"Useful for both escaping and initiation. Also a good skill to heal up if you happen to be jungling.",
+				"doom_bringer_lvl_death":"Either \"pew\" or \"KA-BOOOM\". Watch the levels. ",
+				"doom_bringer_doom":"DOOOOOOOOOOM!!",
+				"attribute_bonus":"Just boring stats..."
+		}
+	}
+}

@@ -1,0 +1,164 @@
+{
+	"Hero":"treant",
+	"Title":"Gather under my shade... (Aura)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"clarity",
+				"stout_shield",
+				"branches"
+			],
+			"Branching out":
+			[
+				"headdress",
+				"bracer",
+				"ring_of_basilius",
+				"boots"
+			],
+			"Fully grown":
+			[
+				"arcane_boots",
+				"vladmir",
+				"mekansm",
+				"ancient_janggo"
+			],
+			"What fancy twigs!":
+			[
+				"vanguard",
+				"assault",
+				"refresher",
+				"blink",
+				"heart"
+			],
+			"If nature calls":
+			[
+				"soul_ring",
+				"pipe",
+				"quelling_blade",
+				"veil_of_discord",
+				"shivas_guard",
+				"gem",
+				"necronomicon",
+				"cyclone",
+				"ward_observer",
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A Blink Dagger improves Treant Protector's mobility as well as vastly improving his initiation power with Overgrowth.
+
+Try using Nature's Guise to get into position and blink into the enemy team, locking them in place with Overgrowth!",
+				"quelling_blade":"A Quelling Blade can be a fantastic utility for Treant Protector in the right hands.
+
+Use this item to clear paths in the forest for allied gank heroes like Pudge or Mirana. It can also be used to create escape routes and manuever through the trees while under Nature's Guise.",
+				"stout_shield":"A Stout Shield starts things off for Treant Protector on the right foot, allowing him to take more punishment in the laning phase.
+
+This especially comes in handy if you are laning against ranged or otherwise aggressive foes.",
+				"gem":"Because Treant Protector is so tanky and survivable, he is one of the best heroes to have a Gem of True Sight on.
+
+If an enemy Riki or Bounty Hunter is giving your team trouble, this item is worth picking up!",
+				"clarity":"During the laning phase, Rooftrellen struggles with a less than stellar mana pool. One Clarity early on helps Treant stay relevant in the lane for longer.",
+				"tango":"This first set of Tangos will provide either you or your lane partner with valuable early game health regeneration.",
+				"courier":"As a support class, it is your responsiblity to make sure your squad has an Animal Courier up and running.
+
+If your team already has an Animal Courier, buy some Observer Wards instead!",
+				"bracer":"Bracer is an effective and cheap item that adds stats early on. As an added bonus, Bracer is a piece in the recipe for Drum of Endurance, which is a great option later in the game.",
+				"mekansm":"Aside from providing an instant heal for surrounding teammates, Mekansm provides an awesome health regeneration aura.
+
+As a bonus, Treant Protector gets an armor buff and +5 to every attribute!",
+				"vladmir":"Vladmir's Offering provides a multitude of benefits to nearby allies as well as a very welcome health regeneration buff.",
+				"ring_of_basilius":"Ring of Basilius provides Rooftrellen with a  helpful mana regeneration aura for nearby allies.
+
+This item also builds into Vladmir's Offering, which you'll want to pick up later in the game.",
+				"pipe":"If the opposing side is dishing out a ton of magical damage, Pipe of Insight is a better pick-up than Mekansm.
+
+With this build, your Headdress allows you flexibility to see which item (Mekansm or Pipe of Insight) would best suit your team's needs.",
+				"headdress":"Headdress provides Rooftrellen with an early aura that aids allied health regeneration, which is fantastic for baby-sitting in the lane.
+
+Headdress builds into both Mekansm and Pipe of Insight, which gives you options down the road.",
+				"cyclone":"If your team lacks a solid disable or is getting wrecked by a single hard carry in teamfights, Eul's Scepter of Divinity can provide a welcome 2.5 second disable.
+
+The added effects it provides are just as sweet--movement speed, Intelligence, and mana regeneration.",
+				"necronomicon":"Necronomicon increases Treant Protector's Strength and Intelligence, which is always welcomed.
+
+The summons also benefit from auras that Rooftrellen gives off!",
+				"refresher":"A Refresher Orb in combination with Rooftrellen's ultimate ability Overgrowth is a devastating combination.
+
+Refresher Orb also comes packaged with great buffs to Treant Protector's Intelligence, damage, and health as well as mana regeneration.",
+				"assault":"Assault Cuirass provides another useful aura to your allies while buffing Treant Protector's armor and attack speed.
+
+Note: The Assault Cuirass aura does NOT stack with Vladmir's Offering.",
+				"heart":"Although much more expensive than Vanguard, Heart of Tarrasque is an awesome tool for improving survivability. If you've got the gold to spend, you can't go wrong with a Heart of Tarrasque.",
+				"vanguard":"Vanguard is a relatively cheap item for straight survivablity. If you find yourself dying in teamfights too often, considering picking this up.",
+				"soul_ring":"Soul Ring is an extremely useful item for Treant Protector to have during the laning phase, especially due to Treant Protector's already large health pool.
+
+For example, you can use Soul Ring to harass enemy heroes in the lane much more often with your Leech Seed spell.",
+				"arcane_boots":"Arcane Boots help not only Treant Protector's own weak mana supply, but are an invaluable utility for his squad all throughout the game.",
+				"ancient_janggo":"Drum of Endurance provides a relatively cheap (but extremely useful) aura that grants both movement speed and attack speed buffs to allies.
+
+Not to mention a whopping +9 to all attributes and an active effect that could save your life!",
+				"veil_of_discord":"If your allies put out loads of magical damage, Veil of Discord is the perfect item to pick up.
+
+The Intelligence, health regeneration, and armor buffs are also great."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_living_armor",
+			"2":"treant_natures_guise",
+			"3":"treant_living_armor",
+			"4":"treant_leech_seed",
+			"5":"treant_living_armor",
+			"6":"treant_overgrowth",
+			"7":"treant_living_armor",
+			"8":"treant_leech_seed",
+			"9":"treant_leech_seed",
+			"10":"treant_leech_seed",
+			"11":"treant_overgrowth",
+			"12":"treant_natures_guise",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"With relatively low mana cost, Nature's Guise is the perfect ability for setting up ganks for teammates or escpaing certain death.
+
+Using this skill effectively requires good communication with your team.
+
+Note: This spell has a fade time of 2--make sure to cast it before the point of no return!",
+				"treant_leech_seed":"Leech Seed is great for harrassing enemy heroes during the laning phase. (Especially when paired with a Soul Ring.)
+
+This is also a great ability to initiate a gank with, as the 24% slow usually is enough for your allies to jump on the target.",
+				"treant_living_armor":"Living Armor is Treant Protector's bread-and-butter ability. With low mana cost and cooldown, you should be using this skill every time it is available.
+
+Prioritize which towers or allies need healing and check around constantly for anybody in trouble--this skill saves lives!",
+				"treant_overgrowth":"Overgrowth is an incredible skill for initiating teamfights. Use Nature's Guise to get in close to the enemy team unseen for best results.
+
+Note: Overgrowth will still trap magic immune targets. However, if magic immunity is activated after Overgrowth is cast, the unit will break free.",
+				"attribute_bonus":"I think I added a few rings just now..."
+		}
+	}
+}

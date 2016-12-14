@@ -1,0 +1,92 @@
+{
+	"Hero":"tinker",
+	"Title":"[DMX] Tinker - Gank Build (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"soul_ring",
+				"force_staff",
+				"blink"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Situationnels":
+			[
+				"null_talisman",
+				"cyclone",
+				"manta",
+				"sphere",
+				"black_king_bar",
+				"dagon",
+				"dagon",
+				"dagon",
+				"dagon",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_heat_seeking_missile",
+			"3":"tinker_heat_seeking_missile",
+			"4":"tinker_laser",
+			"5":"tinker_heat_seeking_missile",
+			"6":"tinker_laser",
+			"7":"tinker_heat_seeking_missile",
+			"8":"tinker_laser",
+			"9":"tinker_rearm",
+			"10":"tinker_march_of_the_machines",
+			"11":"tinker_march_of_the_machines",
+			"12":"tinker_march_of_the_machines",
+			"13":"tinker_march_of_the_machines",
+			"14":"tinker_rearm",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"Un très bon sort pour burst votre opposant car ses dégâts sont purs et il donne un malus de précision de 100%.",
+				"tinker_heat_seeking_missile":"Un excellent sort pour poke votre adversaire de très loin. Lors de ganks il vous permettra d'achever les ennemis hors de portée.",
+				"tinker_march_of_the_machines":"Le sort qui vous permettra de push/dépush très facilement en mid-late game.
+Vous pourrez également faire les creeps neutres \"anciens\"  car ce sort inflige des dégâts \"universels\".",
+				"tinker_rearm":"Un ultimate qui remet tous vos cooldown à 0. Utilisé avec des boots of travel, vous pourrez vous téléporter partout sur la carte à tout bout de champ. En fin de game vous pourrez utiliser plusieurs fois les actifs de vos items, tels que scythe of vyse."
+		}
+	}
+}

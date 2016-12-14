@@ -1,0 +1,115 @@
+{
+	"Hero":"enchantress",
+	"Title":"Jungle into Carry Enchantress (6.82 Update)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"clarity",
+				"smoke_of_deceit"
+			],
+			"Buy One At Start":
+			[
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"bloodstone",
+				"force_staff",
+				"sheepstick",
+				"assault",
+				"rod_of_atos"
+			],
+			"Early Game Alternatives":
+			[
+				"urn_of_shadows",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"You'll be building a fast basilius, assuming you're jungling (which you should be).
+
+6.82: The cost increase doesn't really mean much, it's still a critical item with how low our base armor is.",
+				"clarity":"Keep mana up before basilius or after a gank.",
+				"ward_observer":"Either this or courier.",
+				"tango":"You'll take small hits it won't be worth hitting attendants for.",
+				"courier":"Either this or wards.",
+				"power_treads":"Right click speed and much needed health. Best stat to leave these on while jungling is actually agility, just make sure to switch for enchant and again while putting yourself at risk.",
+				"hand_of_midas":"Get this IF AND ONLY IF you can get it before 5min mark (good early ganks), otherwise it slows down your agh timing way too much to be useful.",
+				"ring_of_basilius":"Armor for you and your neutrals and mana regen to keep you jungling. Make this as soon as you have the gold (courier if not busy, or pressure/gank your side lane and grab from side shop).",
+				"urn_of_shadows":"Build this if you desperately need early health due to counter-picked opponents that will otherwise stomp you early.",
+				"sheepstick":"If you're low on CC, this never hurts.",
+				"orchid":"Don't forget you can get oblivion staffs made at the side shop. If you're grouping for fights a lot, consider getting both sage's masks first.",
+				"force_staff":"If heal and untouchable aren't keeping you alive. Recommended vs Riki in particular.",
+				"ultimate_scepter":"Build this after orchid, if you're sure you'll have farm.
+
+Unless you have a huge level lead from good ganks, this should finish around when you get 16, at which point imp is stupidly scary and you should try to use it to win the game ASAP before it starts to lose its power.",
+				"assault":"By the time I've been able to afford the hyperstone the game is usually over, but this is a viable slot for 6slotting.",
+				"bloodstone":"Choose this in place of orchid if you need lots of health badly, but know it slows your farm speed down a LOT. Possible build orders are Point Booster to Soul Booster or Soul Ring to Point Booster to Soul Booster, as Soul Ring to heal or to push out more Impetus are both surprisingly strong.",
+				"smoke_of_deceit":"If you think lanes will be gankable buy one at start and bring two creeps once you get good ones.",
+				"rod_of_atos":"Overkill given you have enchant, but not bad if you're feeling squishy."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_untouchable",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_untouchable",
+			"6":"enchantress_impetus",
+			"7":"enchantress_untouchable",
+			"8":"enchantress_untouchable",
+			"9":"enchantress_natures_attendants",
+			"10":"enchantress_natures_attendants",
+			"11":"enchantress_impetus",
+			"12":"enchantress_enchant",
+			"13":"enchantress_enchant",
+			"14":"enchantress_enchant",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"A powerful tool but only against right click. Consider skipping if it's purely magic damage killing you.
+
+6.79 Update: Stronger now, given jungling timings I now recommend leveling this after lvl 2 enchant, however you can still skip it if opposing team is super spell damage heavy.
+",
+				"enchantress_enchant":"By the time this is level 2, you should have ganked or be ganking. While jungling, however, try to learn how few creeps you need to take over to clear the camps, as enchant means no XP or gold from that creep. And for God's sake, learn and use all creep abilities.",
+				"enchantress_natures_attendants":"Make sure this is up for all teamfights and pop it as soon as there's a chance you're taking damage to stay alive. It's truly a rediculous amount of healing.",
+				"enchantress_impetus":"Your carry button. Consider always orb walking this if you have the APM, it will make it far easier to animation cancel and your attack speed never gets so fast you can't R-click faster than it."
+		}
+	}
+}

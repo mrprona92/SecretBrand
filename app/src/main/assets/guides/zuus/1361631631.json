@@ -1,0 +1,98 @@
+{
+	"Hero":"zuus",
+	"Title":"6.82 - Standard Zeus (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"veil_of_discord",
+				"cyclone",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"refresher",
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"cyclone":"The extra speed, mana regeneration and the ability to keep yourself out of danger for those few seconds while you wait for your abilities to get off cooldown could save your life every once in awhile.",
+				"force_staff":"You need the mobility. You're a waddling nuker and Force Staff intends to change that! Keep yourself in the forefront of ganks or in the back, away from the danger to launch your magic damage.",
+				"ultimate_scepter":"More Damage.",
+				"refresher":"Double More Damage.",
+				"black_king_bar":"This is a just-in-case idea where you are constantly getting disabled and really just want to stop it all.",
+				"veil_of_discord":"More Damage. Cheaper cost, more survivability."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_lightning_bolt",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_static_field",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Use Arc Lightning to last hit. Any more and you do more damage than needed with Zeus during the early-phase of the game. Lightning Bolt is what you really want so you can gank other lanes!",
+				"zuus_lightning_bolt":"Low cooldown, incredible damage and it gives true sight around you! Use this spell often and use it well against weak opponents who wouldn't be able to withstand your godliness!
+
+If you can't quite reach your opponent, click on the ground and it will target the closest foe!",
+				"zuus_static_field":"The range is huge, so don't worry too much about you being too far from your opponent for this to affect them. Any spell you do will be buffed by this, so when in a tight situation, slam all your hotkeys to make sure you deal as much damage as possible.",
+				"zuus_thundergods_wrath":"Try to avoid using this to steal kills and more to ensure someone's dead (either they have fled too far from an ally, etc.). It's a global ultimate, so it will hit anyone on the map. Also affects Static Field, so keep an eye on that too."
+		}
+	}
+}

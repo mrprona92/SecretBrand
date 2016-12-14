@@ -1,0 +1,96 @@
+{
+	"Hero":"undying",
+	"Title":"UNDYING support-tank-initiator",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"stout_shield",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"vanguard",
+				"hood_of_defiance",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"heart",
+				"assault",
+				"veil_of_discord",
+				"heavens_halberd",
+				"bloodstone"
+			],
+			"supportive items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"mekansm",
+				"pipe",
+				"vladmir",
+				"necronomicon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_soul_rip",
+			"2":"undying_decay",
+			"3":"undying_soul_rip",
+			"4":"undying_tombstone",
+			"5":"undying_tombstone",
+			"6":"undying_tombstone",
+			"7":"undying_tombstone",
+			"8":"undying_flesh_golem",
+			"9":"undying_decay",
+			"10":"undying_soul_rip",
+			"11":"undying_flesh_golem",
+			"12":"undying_decay",
+			"13":"undying_decay",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"use this spell better on 2 or more heroes",
+				"undying_soul_rip":"heal, effective with crowd creeps",
+				"undying_tombstone":"ZOMBIES!! MOAR ZOMBIES!!! very effective push or initiating spell with high cooldown",
+				"undying_flesh_golem":"good survive and damage increating spell, need in mass fight",
+				"attribute_bonus":"just stats"
+		}
+	}
+}

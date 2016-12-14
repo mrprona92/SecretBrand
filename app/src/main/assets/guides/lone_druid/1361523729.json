@@ -1,0 +1,85 @@
+{
+	"Hero":"lone_druid",
+	"Title":"The Kamakiri Lone Druid Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"stout_shield"
+			],
+			"Druid Core Items":
+			[
+				"tranquil_boots",
+				"magic_wand"
+			],
+			"Bear Core Items":
+			[
+				"phase_boots",
+				"stout_shield",
+				"orb_of_venom"
+			],
+			"Situational Druid Items":
+			[
+				"hood_of_defiance",
+				"vladmir",
+				"ring_of_basilius",
+				"black_king_bar",
+				"pipe",
+				"assault",
+				"cloak"
+			],
+			"Situational Bear Items":
+			[
+				"radiance",
+				"assault",
+				"maelstrom",
+				"hyperstone",
+				"basher",
+				"hand_of_midas",
+				"monkey_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_rabid",
+			"10":"lone_druid_synergy",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

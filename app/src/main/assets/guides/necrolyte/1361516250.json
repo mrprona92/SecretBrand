@@ -1,0 +1,94 @@
+{
+	"Hero":"necrolyte",
+	"Title":"[DMX] Necrolyte (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"boots",
+				"magic_stick",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"mekansm",
+				"hood_of_defiance",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"pipe",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"vanguard",
+				"bloodstone",
+				"assault",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_heartstopper_aura",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_sadist",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"Ce sort est assez facilement spammable puisqu’il a un cooldown de seulement 5 secondes. par contre il coute beaucoup de mana alors attention.",
+				"necrolyte_heartstopper_aura":"Une bonne aura qui permettra d'harass sans rien faire vos opposants. En teamfight ses dégâts seront non négligeables si ces derniers durent longtemps.",
+				"necrolyte_sadist":"Un passif qui vous permettra de spammer un peu plus votre heal si vous last hittez bien les creeps.",
+				"necrolyte_reapers_scythe":"Un très bon ultime finisher, qui ajoute un petit disable.
+Utilisez le uniquement lorsque l'ennemi a moins de la moitié de ses hp."
+		}
+	}
+}

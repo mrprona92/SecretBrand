@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 20 Damage<br/>+ 5 Armor<br/>+ 3 hp regen<br/>LIFESTEAL: 15%",
+  "cd": 60.0,
+  "components": [
+    "lifesteal",
+    "helm_of_iron_will"
+  ],
+  "qual": "artifact",
+  "notes": "Cannot dominate more than one unit at a time.  If a new unit is dominated, the old one will die.",
+  "desc": "Active: Dominate - Take control of a non-hero, non-ancient target unit. Dominated units have 500 bonus HP.<br/>Passive: Lifesteal - Gives lifesteal on attacks.<br/><br/>Helm of the Dominator is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+  "dname": "Helm of the Dominator",
+  "dotaId": "helm_of_the_dominator",
+  "mc": 75.0,
+  "img": "helm_of_the_dominator_lg.png",
+  "lore": "The powerful headpiece of a dead necromancer.",
+  "id": 164,
+  "created": true,
+  "cost": 1850
+}

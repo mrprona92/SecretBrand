@@ -1,0 +1,94 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"[DMX] Ogre Magi (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"force_staff",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"bloodstone",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"courier",
+				"flying_courier",
+				"bottle",
+				"soul_ring",
+				"cyclone",
+				"orchid",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_bloodlust",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"Ce sort vous permettra d’engager l’ennemi que vous voulez tuer ou simplement de vous défendre contre vos assaillants.",
+				"ogre_magi_ignite":"Ce sort est très coûteux en mana mais placé avant ou après votre stun, il vous permettra de garder votre ennemi à portée !",
+				"ogre_magi_bloodlust":"Vous pouvez utiliser ce buff sur n’importe quelle unité alliée, y compris vous ou les creeps.
+Un sort à utiliser principalement sur le carry de votre équipe afin de maximiser ses dégâts.",
+				"ogre_magi_unrefined_fireblast":"Ce dernier sort est exactement le même sort que Fireblast au level 4, la seule différence est qu’il coûte 400 de mana !
+Personne ne crachera sur un deuxième stun qui peut aussi être multicast, mais attention car c’est un vrai gouffre à mana !"
+		}
+	}
+}

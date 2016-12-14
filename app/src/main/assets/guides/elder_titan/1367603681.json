@@ -1,0 +1,101 @@
+{
+	"Hero":"elder_titan",
+	"Title":"6.82 - Standard Elder Titan (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"crimson_guard",
+				"assault",
+				"shivas_guard",
+				"heart"
+			],
+			"Last updated: 29/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Your stat gain is awful and you will need bottle to constantly gank foes with your Anc. Spirit + Echo Stomp combo. Get this to be able to afford your abilities' mana cost.",
+				"mekansm":"Mekansm seems a bit odd for someone who can deal a truckload of damage.",
+				"urn_of_shadows":"If you find yourself needing more survivability after drums or seem to be successfully ganking, Urn is not a bad choice here.",
+				"cyclone":"The 2.5 seconds of Eul's + the movement speed from it runs in line with what Elder Titan is all about. It's a bit unorthodox, but the cyclone is 2.5 seconds while your ultimate has a 3 second delay; why not get it?",
+				"assault":"The debuff armor and the added attack speed helps Elder Titan hit like a truck and maintain an impactful presence on the field.",
+				"black_king_bar":"Deal Damage at foes without fear of being interrupted or losing your passive from dying. Black King Bar is a key item to keep Elder Titan a menace in midst of fights.",
+				"shivas_guard":"Shiva's Guard continues to give Elder Titan the needed armor against physical carries and the impactful effect with its active ability.",
+				"crimson_guard":"Crimson Guard is great if you can get it at a relatively fast time as eventually, its impact starts to diminish and no longer become a valid acquirement.",
+				"desolator":"Desolator works with your debuff aura. Elder Titan's attack speed is subpar, but his damage is decent and this will add more presence debuff with the Desolator.",
+				"arcane_boots":"You need speed and you need the extra mana to use items such as Mekansm to keep you alive and make you as tanky as possible. This is a good item.",
+				"ancient_janggo":"We're getting drums for the much needed movement speed. Since you will be initiating and chasing foes with your Ancestral Spirit. Drums gives you the movement speed you need to slip in behind foes and Echo Stomp.",
+				"rod_of_atos":"Your ultimate and your Echo Stomp would work well with Rod of Atos. It gives you extra health and desperate intelligence, definitely a good item when you just can't reach those extension items."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_ancestral_spirit",
+			"2":"elder_titan_natural_order",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_natural_order",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_natural_order",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_natural_order",
+			"9":"elder_titan_earth_splitter",
+			"10":"elder_titan_echo_stomp",
+			"11":"elder_titan_echo_stomp",
+			"12":"elder_titan_echo_stomp",
+			"13":"elder_titan_echo_stomp",
+			"14":"attribute_bonus",
+			"15":"elder_titan_earth_splitter",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"Echo Stomp is an incredible ability that allows you to halt foes safely given its synchronization with Astral Spirit. Use it start initiations safely and to follow-up with Earth Splitter: forcing teams to fight or flee.",
+				"elder_titan_ancestral_spirit":"Ancestral Spirit is your lane-phase last-hit buff. Use it to earn the movement speed and extra damage to safely and easily last-hit creeps when in the mid-lane. You can also use it to harass your foe and push lanes with its initial damage.",
+				"elder_titan_natural_order":"This aura is incredible in crippling your foes and maintaining the advantage in your favour. With Natural Order, your items become more valuable in its stats and your presence will have more influence during battles.",
+				"elder_titan_earth_splitter":"Great range, consistent damage. The damage on your ultimate is 35% of the maximum health as well as a small vacuum towards the damage-dealing area. Be sure to use this in team-fights and after initiating with Echo Stomp!"
+		}
+	}
+}

@@ -1,0 +1,139 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Purge's Guide to Skeleton King",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"stout_shield",
+				"power_treads",
+				"magic_stick",
+				"helm_of_iron_will",
+				"tpscroll",
+				"blades_of_attack"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"magic_stick",
+				"tpscroll",
+				"stout_shield"
+			],
+			"luxury":
+			[
+				"soul_ring",
+				"monkey_king_bar",
+				"radiance",
+				"invis_sword",
+				"abyssal_blade",
+				"assault",
+				"mjollnir",
+				"heavens_halberd",
+				"desolator",
+				"black_king_bar",
+				"force_staff",
+				"heart"
+			],
+			"Extra Situational":
+			[
+				"rapier",
+				"refresher",
+				"hand_of_midas",
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"branches"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blades_of_attack":"Blades of attack are usually gotten in the side shop and will increase your last hitting as well as build into armlet.",
+				"helm_of_iron_will":"Helm of Iron will is gotten fairly early from the side shop to give you some much needed hp regen. The armor is great as well. This builds into an Armlet later!",
+				"stout_shield":"I generally like getting stout shields on melee heroes because my supports often pull, and if you're tanking creeps under tower, you will take a LOT of damage very fast. The stout basically ensures you'll last longer vs a tough lane, or if your supports pull. If you want to be greedy get a quelling!",
+				"branches":"Ironwood branches are very important for early Skeleton king because his mana pool is quite low, and the extra 26 mana you get from 2 branches could mean 1 more fireblast!",
+				"magic_stick":"You need SOME kind of mana regen item for lane, and as a tanky hero, you WILL have spells casted on you. Having a magic stick in lane guarantees that you'll be able to have some burst heal to get your ulti off, or to cast more fire blasts.",
+				"clarity":"I like going to lane with 1 clarity potion because you will eventually use your stun, and then you'll need 100 mana to cast another one.",
+				"flask":"Standard 1 Salve + 1 Tango regen build for lane.",
+				"tango":"Standard 1 Salve + 1 Tango lane regen build.",
+				"tpscroll":"Always carry a tp scroll! Be careful of your mana total though, since 75 can be costly on a low mana hero like Skeleton King",
+				"power_treads":"Treads is my go to boot choice because of the HP increase, the treads switching to int before casting(VERY IMPORTANT!), and the overall dps increase from attack speed. Phase can be gotten depending on preference, but largely treads is a better choice.",
+				"hand_of_midas":"Hand of Midas can be gotten early game(less than 6 minutes) if you have a free farm lane and you aren't missing many last hits. Make sure to use it on big jungle creeps in the early game to get accelerated Exp gain, so that you can get more levels of crit, lifesteal, and Ulti earlier!",
+				"force_staff":"Force staff is an older build, but it gives you more int and a good way to initiate. Generally I'd favor a Shadow Blade over Force staff now since Shadow Blade also gives you good DPS.",
+				"refresher":"You can use refresher after you die to refresh the cooldown on your ultimate, and die again! However, due to recent buffs to his ultimate, it's less worth it as the 60 second cooldown in the late game is quite low.",
+				"assault":"Assault Currass is generally gotten after 1-2 major damage items to ensure your attack speed shoots up, and your survivability stays at a reasonable level. This is great for pushing and teamfighting!",
+				"heart":"Heart can be picked up to give you +40 damage and around +1000 extra hp. If you go radiance, I like heart afterwards, but generally you should just stack damage items.",
+				"black_king_bar":"Black King Bar(BkB) is often needed to prevent disables on your hero so you can ensure you're doing damage during big teamfights. This item is also very needed against Anti Mage's to preven mana drain on you during crucial teamfights. I like to skip this item for a damage item if you can.",
+				"rapier":"Since Skeleton King can die every 60 seconds late game, Divine Rapier isn't a bad pickup, or that dangerous to grab. The +300 damage produces some pretty nice crits.",
+				"monkey_king_bar":"Skeleton king is almost entierely situational items. Mkb should be gotten as a main damage item versus a enemy Phantom Asassin carry, or perhaps against a Brewmaster.",
+				"radiance":"Radiance can be gotten as a carry item as SK, but this is one of the less desirable ones. It is great against TA, Treant, and heroes with Blink daggers! If you get rad, focus on subsequent tank items than damage ones.",
+				"armlet":"Armlet is generally the best item you can pick up for a strength carry with lifesteal, as you get +65 damage for about 2700 gold!
+
+It does reduce your hp as you use it, but lifesteal offsets this.
+
+Be sure to armlet toggle when you get low hp.",
+				"invis_sword":"Shadow Blade is a great Offensive SK item because you can initiate in melee range with your stun and hp steal! You might need some more mana items to cover the increased cost of having a Shadow Blade.",
+				"mjollnir":"Mjollner is great on any tanky strength carry, but generally you want to get a +damage item as SK has a natural crit, and you can't crit on the lightning procs. Regardless, this is still an option.",
+				"desolator":"Desolator is great after an Armlet and later with an AC to give you a ton of -Armor, which is great for taking towers and killing supports and tanks. If they have no evasion heroes, go for Desolator!",
+				"soul_ring":"If you are against a mana burn hero like Anti Mage, Phantom Lancer, or Rikimaru, you sometimes NEED to get a Soul ring to semi-guarantee that your ulti goes through. If you have no mana, your ult will NOT trigger.",
+				"abyssal_blade":"Abyssal Blade is a great mid-late game item pickup to counter enemy BkB carries, and to ensure that people stay put as you are hitting them.",
+				"heavens_halberd":"Halberd is gotten mid-late game as a Tanky utility item. This should be gotten to secure yourself some evasion, and some utility against physical damage carries without BkB. It overal gives +45 damage, but if you need damage get a different item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"attribute_bonus",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_vampiric_aura",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_mortal_strike",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_vampiric_aura",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"A max hellfire blast is the best build if your lane is contested because it gives you a good chance of killing opponents. If your lane is free farm, I'd keep the levels of blast a bit lower so that you can max crit and lifesteal earlier in the mid game! Though at most levels of play, max this skill!",
+				"skeleton_king_vampiric_aura":"Pick up vampiric aura later on, as you don't want the lane creeps regening and pushing as a result. This aura stacks with all orbs, so don't be afraid to grab orb items. Do NOT max this early, as your damage is low early game, and a % of low damage is very low payout.",
+				"skeleton_king_mortal_strike":"Mortal Strike is very good because it can give you a lot of hp when you're scared of dying, and it helps you burst down enemies. Generally don't max this early, unless you want to have a big impact in the early mid game from crits. You should get this at lv. 2 because the hp steal is great!",
+				"skeleton_king_reincarnation":"This skill allows Skeleton King to go an entire game without (technically) dying! Make sure you check your mana totals in the early mid so that you don't fireblast all of your mana away and are left with nothing to respawn with!",
+				"attribute_bonus":"Stats are good on casting melee carries! I like to get a level of stats before 6 because of the extra mana for stuns and ulti! Sometimes 26 mana makes the difference!"
+		}
+	}
+}

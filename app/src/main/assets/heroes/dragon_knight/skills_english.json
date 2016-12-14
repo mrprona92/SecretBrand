@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Breathe Fire",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Unleashes a breath of fire in front of Dragon Knight that burns enemies and reduces the damage their attacks deal.",
+        "notes": "Affects mechanical units.<br/>Hits units up to 900 away.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">90/170/240/300</font></b>",
+        "attrib": "DAMAGE REDUCTION: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>REDUCTION DURATION: <b><font color=\"#ffffff\">8</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/110/120/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "Knight Davion\u0027s breath has become that of the mighty Eldwurm Slyrak, remembered for burning numerous other knights to a crisp.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_breathe_fire",
+        "youtube":"wrZnzBN1CmA",
+        "id": 0
+    },
+    {
+        "dname": "Dragon Tail",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Dragon Knight smites an enemy unit in melee range with his shield, stunning it while dealing minor damage.  When in Elder Dragon Form, the cast range increases to 400.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">25/50/75/100</font></b>",
+        "attrib": "STUN DURATION: <b><font color=\"#ffffff\">2.5/2.75/3/3.25</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/11/10/9",
+        "lore": "Davion\u0027s combination of dragon talents and knightly skills makes him a vicious opponent in melee combat.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_dragon_tail",
+        "youtube":"gJSc04KMmbE",
+        "id": 1
+    },
+    {
+        "dname": "Dragon Blood",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "The life blood of the Dragon improves health regeneration and strengthens armor.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "HEALTH REGEN: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>ARMOR: <b><font color=\"#ffffff\">3/6/9/12</font></b>",
+        "cmb": "",
+        "lore": "Slyrak\u0027s blood still courses through Davion\u0027s veins, giving him twice the vitality of an ordinary knight.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_dragon_blood",
+        "youtube":"mbzF8oyAUfc",
+        "id": 2
+    },
+    {
+        "dname": "Elder Dragon Form",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Dragon Knight takes the form of one of three powerful elder dragons, increasing his damage, speed, and Dragon Tail\u0027s range, while granting him new powers.<br/><font color=\"#9acd32\">LEVEL 1 Green Dragon</font> - Corrosive Breath: attacks deal 20 poison damage over 5 seconds. Works on structures.<br/><font color=\"#ff0000\">LEVEL 2 Red Dragon</font> - Splash Attack: attacks damage all enemy units in a 300 radius, with Corrosive Breath added to the primary target.<br/><font color=\"#87ceeb\">LEVEL 3 Blue Dragon</font> - Frost Breath: slows movement speed by 30% and attack speed by 20 of enemy units in Splash Attack range for 3 seconds, with Corrosive Breath added to the primary target.",
+        "notes": "Corrosive Breath poison damage is lethal.<br/>Splash Attack deals 100/75/50% damage in a 150/225/300 radius. Splash damage does not affect buildings.<br/>Frost Breath stacks with Unique Attack Modifiers.<br/>Manta Style\u0027s cooldown time will be based on whether Dragon Knight was in his ranged or melee form when the item was used.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">60/60/60</font></b><br/>BONUS MOVE SPEED: <b><font color=\"#ffffff\">25/25/25</font></b><br/>BONUS ATTACK RANGE: <b><font color=\"#ffffff\">372/372/372</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 115",
+        "lore": "The dormant dragon power springs forth from within Davion, combining the powers of a legendary knight with a legendary Eldwurm.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_elder_dragon_form",
+        "youtube":"3HpgABQ8kpA",
+        "id": 3
+    }
+]

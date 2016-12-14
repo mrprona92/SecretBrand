@@ -1,0 +1,92 @@
+{
+	"Hero":"furion",
+	"Title":"Best Jungle Furion",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"invis_sword",
+				"maelstrom",
+				"sheepstick"
+			],
+			"Late Game":
+			[
+				"desolator",
+				"greater_crit",
+				"mjollnir",
+				"travel_boots",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"You need to get mana for summoning trents, multiple time",
+				"travel_boots":"For Extra map control :D",
+				"power_treads":"Treds are good choice cause the attack speed and the extra stats",
+				"hand_of_midas":"Farm Farm Farm what else can be said :D",
+				"ring_of_basilius":"The mana regen will be needed and the armor aura for the treants will make them durable",
+				"sheepstick":"If you get the items fast you will be able to solo kill a lot of people, and you will have hex for the team fights :)",
+				"black_king_bar":"If you get stunlocked",
+				"greater_crit":"This should be your final item, at this point you are force to be reckoned with :D you can kill people easy and destroy building really fast",
+				"invis_sword":"This is very common and important item for fury, it helps you get out when ganked while splitpusshing. Be aware of dusts and sentries and remember you can teleport while in Shadow Blade without breaking the stealth",
+				"mjollnir":"Better DPS",
+				"maelstrom":"This provides better pushing power against creep waves",
+				"desolator":"So now you are starting to really hurts, if the game goes long enough to get this you can make real pain, also kill building faster"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_teleportation",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"You will need to take 1 point in this skill early to sprout people in but only one point because this skill scales really bad :)",
+				"furion_teleportation":"You need to max this skill second, cause you will need to teleport alot to help, people gank and save teammates and splitpush like hell :)",
+				"furion_force_of_nature":"Take this skill early, for jungling purposes. If you are mega pro micro master you can use trents to block enemies :)",
+				"furion_wrath_of_nature":"Cast this whenever you see a lot of creeps on the map and enemy heroes, you will farm, push and harras, some people use this skill only to kill enemy heroes, but you will get the most of it if you cast it whenever it's off cooldown to farm and you will get a kill or two with it :D"
+		}
+	}
+}

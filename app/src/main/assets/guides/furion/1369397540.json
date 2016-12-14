@@ -1,0 +1,105 @@
+{
+	"Hero":"furion",
+	"Title":"Very detailed Nature's prophet jungle and splitpush guide.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gloves",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"tpscroll",
+				"invis_sword",
+				"orchid"
+			],
+			"Almost full build.":
+			[
+				"desolator",
+				"mjollnir",
+				"greater_crit",
+				"power_treads"
+			],
+			"6th item. READ PLEASE.":
+			[
+				"rapier",
+				"ultimate_scepter",
+				"ghost",
+				"sheepstick",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gloves":"You get this item because you will need to rush hand of midas, and it is really great when jungling early game.",
+				"ghost":"You can use this instead of, or with shadow blade to get away from physical damage dealers. I personally believe Shadow Blade should be enough, but it is up to you to decide!",
+				"clarity":"You get this because when jungling you will need some mana sustain, so you can spam e and farm fast.
+Also, since your treants will tank for you you will be fine without any hp sustain.",
+				"tpscroll":"Since you have a low cooldown teleport you don't really need these, but it is always good to have one, in case you teleport somewhere and you find yourself in trouble. Great pickup overall. Remember! Only 135 can  save your life!",
+				"power_treads":"When splitpushining or casting spells use INT
+BUT when it comes to teamfights or ganks use STR so you get that little bonus you might need to survive",
+				"hand_of_midas":"Get this baby as soon as possible, and always have it on cooldown for maximum profit. This is why people call nature's prophet nature's profit, because he gets gold so easily. protip: use this on jungle monsters for more free xp!If you do this guide well you should have this before the 8 minute mark",
+				"sheepstick":"Great item to get, even mid game, because if you get caught or ganked you can just hex them and teleport or run away! Also gives nice stats which are great on Furion.",
+				"orchid":"Against blinking and stealth heroes",
+				"cyclone":"It's also an okay item for nature's, but sheepstick (Scythe of Vyse) is better in my opinion.",
+				"ultimate_scepter":"This isn't a bad item, but it is really situational. Buy this if you can get it before the 30 minute mark, and if your team already has 3 or 4 carries.",
+				"rapier":"This little baby is kinda risky to get, and if you are new to the game I highly discourage you to get it, but if you feel like investing in this baby, nature is a great carrier of the rapier. He has cc and a teleport to get away, and it is the best item if you want to splitpush like a BAUS!",
+				"greater_crit":"Raw damage item, great when it comes to teamfighting but since you will mostly be splitpushing, (because you are squishy as heck) I suggest you buy this item as your 5th item.",
+				"invis_sword":"This guy is all about splitpushing and ganking early. With shadow blade you can get away from many things. If you use your w RIGHT AFTER shadow blade you can easily invis teleport to safety. Also useful if ganking. Overall a great item on Furion.
+",
+				"mjollnir":"This is an upgraded version  of maelstrom. Great item on nature, it might cost a lot of money but hey, come on! You are playing nature's profit, so it really shouldn't be a problem for you.",
+				"maelstrom":"This is one of the best mid game pushing items, it not only has a great splitpushing power, but it also is really cost efficient! Buy this as early as possible, but of course only after t1 boots and midas.",
+				"desolator":"This item is great for splitpushing and for teamfights too because the 6 armor shred is HUGE. People tend to underestimate this value but it really is great! Also reduces the armor of towers for faster splitpushing!
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_teleportation",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"This spell puts trees around your target blocking vision . You can cast this on yourself and start teleporting instantly so by the time the trees disappear you are already on the other side of the map in safety.Spawning treants on this spell works too! Use it wisely!",
+				"furion_teleportation":"This is the spell that makes nature's prophet the best splitpusher in the game. At final rank it is a global teleport with 20 seconds cooldown. Read Q's tooltip for a nice trick with this spell.",
+				"furion_force_of_nature":"This is the spell that enables nature to farm the jungle early on and splitpush later LIKE A BOSS. These treants are not only good for tanking but if they let them attack for a bit they deal tons of damage to your target, not speaking about the possibilities of blocking things. Block enemies w them.",
+				"furion_wrath_of_nature":"When leveling up always get this spell asap! Whenever it is off of cooldown use it. You can secure kills by targeting your enemies with it. The only time you should have it up is when there are no visible minions on the map, because it only damages visible targets.",
+				"attribute_bonus":"Attributes are always nice, but nature's skillset is just simply great,so you don't necesseraly need these early on."
+		}
+	}
+}

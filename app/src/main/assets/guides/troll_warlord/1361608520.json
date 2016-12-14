@@ -1,0 +1,84 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"Troll Warlord Mid (Arc's Build)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"flask",
+				"circlet",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"boots",
+				"bottle",
+				"ring_of_aquila",
+				"lifesteal"
+			],
+			"coreItems":
+			[
+				"helm_of_the_dominator",
+				"lesser_crit",
+				"phase_boots"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"greater_crit",
+				"satanic",
+				"butterfly",
+				"black_king_bar",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_whirling_axes_ranged",
+			"2":"troll_warlord_berserkers_rage",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_fervor",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_fervor",
+			"9":"troll_warlord_fervor",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_berserkers_rage",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_berserkers_rage",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"Swapping between range and melee makes Troll Warlord one of my favourite heroes especially with that extra run speed and passive bash in melee. As ranged, the slow ability is useful, and you prevent yourself from getting harrassed too much early on in your lane.",
+				"troll_warlord_whirling_axes_ranged":"Early points for slow in range form for escape/early kills. Also effects melee form of this ability - See Whirling Axes (Melee)",
+				"troll_warlord_whirling_axes_melee":"Spectacular damage. Especially early game and in AoE encounters/ganks. Best to slow using Whirling Axes (Ranged) first, then swap to melee form to chase and damage heavilly with this ability (even in single hero chases).",
+				"troll_warlord_fervor":"Enables Solo Roshan at around Level 15 with appropriate lifesteal items (Helm of the Dominator). Also particularly good for taking down towers and lone enemy heroes.",
+				"troll_warlord_battle_trance":"Team and Solo utility from this ability is amazing. Popping this ability before pushing a tower down makes it drop insanely fast especially with a group of heroes. Also, pop before ganks for maximum damage. Extremely useful, so taken as early as possible.",
+				"attribute_bonus":"What else needs to be said? General stat build."
+		}
+	}
+}

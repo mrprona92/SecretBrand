@@ -1,0 +1,105 @@
+{
+	"Hero":"clinkz",
+	"Title":"Clinkz",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"lesser_crit"
+			],
+			"Late Game":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"butterfly"
+			],
+			"Alternative":
+			[
+				"black_king_bar",
+				"skadi",
+				"manta",
+				"mjollnir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Good early protection against harass.",
+				"circlet":"Good early stats.",
+				"sobi_mask":"Gives more Mana regen, builds into Orchid of Malevolence.",
+				"clarity":"Provides some extra Mana.",
+				"flask":"Good HP regen when you are low.",
+				"tango":"Heals you up when you get harassed.",
+				"power_treads":"Gives you DPS for killing enemies. Leave these of agility (green) maily.",
+				"orchid":"Allows you to silence enemies and kill them solo.",
+				"black_king_bar":"Get this if you get stunned a lot.",
+				"monkey_king_bar":"Makes you never miss and gives good DPS. Bashes are also helpful.",
+				"butterfly":"Tons of DPS and evasion is good.",
+				"greater_crit":"Tons of damage and strong crits.",
+				"manta":"Good stats and makes you run faster, illusions are also good.",
+				"lesser_crit":"Gives you lots more damage.",
+				"mjollnir":"Allows for massive damage with searing arrows. Good if you need to push or fight illusions.",
+				"skadi":"Gives great stats and a good slow.",
+				"ring_of_aquila":"Gives good stats and Mana regen."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_wind_walk",
+			"2":"clinkz_searing_arrows",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_strafe",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_strafe",
+			"9":"clinkz_strafe",
+			"10":"clinkz_strafe",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_wind_walk",
+			"13":"clinkz_wind_walk",
+			"14":"clinkz_wind_walk",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"Allows you to do tons of damage very fast.",
+				"clinkz_searing_arrows":"Give you great damage through out that game.",
+				"clinkz_wind_walk":"Lets you move around unseen and escape quickly. Watch out for the other team buying invisibility detection. Take one level early just in case.",
+				"clinkz_death_pact":"Gives you lots of HP and damage, use it often. Also heals you quite well.",
+				"attribute_bonus":"No need to take these until you have to."
+		}
+	}
+}

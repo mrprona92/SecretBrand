@@ -1,0 +1,92 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Master of the Brews: It's a kegger!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"blink"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"assault",
+				"heart"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"ancient_janggo",
+				"shivas_guard",
+				"radiance"
+			],
+			"Luxury":
+			[
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Get this to initiate from a distance and to chase / get away from enemies. By initiating with BD you can use Primal Split before the enemy team can react to you.",
+				"travel_boots":"Makes it so you can be anywhere on the map to either push or assist in kills.",
+				"phase_boots":"Makes chasing enemies easier and gives a nice damage boost. It allows you to move through units once activated for 4 sec.",
+				"vladmir":"Just like AC this item's aura will be kept in play during Primal Split. ",
+				"ultimate_scepter":"Increases the duration of your Primal Split and reduces the cooldown.",
+				"assault":"AC is best used against heavy physical damage teams, due to the armor gain.
+Also, the armor reduction will even effect enemy towers, thus making pushing easier.
+AC's aura will be kept in play even when Brewmaster uses Primal Split.",
+				"heart":"Makes it so you're able to sustain a lot more damage.",
+				"shivas_guard":"Nice passive that slows enemy's AS. Besides that it also has a  Active  effect which deals a nice amount of damage and slows the enemy's movement speed by 40%.",
+				"radiance":"Radiance on all the pandas while in Primal Split... Do I need to say more?",
+				"ancient_janggo":"Gives a passive aura and a Active buff for a low price."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"attribute_bonus",
+			"3":"brewmaster_thunder_clap",
+			"4":"attribute_bonus",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"brewmaster_drunken_haze",
+			"10":"brewmaster_drunken_brawler",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_brawler",
+			"13":"brewmaster_drunken_brawler",
+			"14":"brewmaster_drunken_haze",
+			"15":"brewmaster_drunken_haze",
+			"16":"brewmaster_primal_split",
+			"17":"brewmaster_drunken_haze",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

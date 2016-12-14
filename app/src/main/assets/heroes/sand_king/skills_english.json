@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Burrowstrike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Sand King burrows into the ground and tunnels forward, damaging and stunning enemy units above him as he resurfaces.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/160/220/280</font></b>",
+        "attrib": "STUN DURATION: <b><font color=\"#ffffff\">2.17</font></b><br/>RANGE: <b><font color=\"#ffffff\">350/450/550/650</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/120/130/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 11",
+        "lore": "Crixalis often lies in wait, burrowing under the surface to ambush his adversaries.",
+        "hurl": "Sand_King",
+        "name": "sandking_burrowstrike",
+        "youtube":"BQNqhjqVtfg",
+        "id": 0
+    },
+    {
+        "dname": "Sand Storm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Channeled</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "CHANNELED - Sand King creates a fearsome sandstorm that damages enemy units while hiding him from vision.  The invisibility remains for a short duration after the sandstorm ends.",
+        "notes": "Sand Storm can be used to dodge projectiles.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">25/50/75/100</font></b>",
+        "attrib": "INVISIBILITY DELAY: <b><font color=\"#ffffff\">1.5</font></b><br/>RADIUS: <b><font color=\"#ffffff\">525</font></b><br/>DURATION: <b><font color=\"#ffffff\">20/40/60/80</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/50/40/30<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40/30/20/10",
+        "lore": "Some say Crixalis is a mirage; his carapace appearing then vanishing between the whirling sands of the Scintillant Waste.",
+        "hurl": "Sand_King",
+        "name": "sandking_sand_storm",
+        "youtube":"sUusCExNMHk",
+        "id": 1
+    },
+    {
+        "dname": "Caustic Finale",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Sand King\u0027s attacks inject a venom that causes enemy units to violently explode when its timer expires, or when the unit dies, damaging and slowing nearby enemies.<br/>Caustic Finale is a Unique Attack Modifier, and does not stack with other Unique Attack Modifier.",
+        "notes": "Units afflicted with the debuff will explode even if Sand King did not deliver the killing blow.<br/>The buff is not placed on allied units.",
+        "dmg": "",
+        "attrib": "EXPLODE RADIUS: <b><font color=\"#ffffff\">400</font></b><br/>EXPLODE DEATH DAMAGE: <b><font color=\"#ffffff\">90/130/170/220</font></b><br/>EXPLODE TIMER DAMAGE: <b><font color=\"#ffffff\">27/39/51/66</font></b><br/>EXPLODE TIMER: <b><font color=\"#ffffff\">6</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">20%</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">3</font></b>",
+        "cmb": "",
+        "lore": "An injection from Crixalis makes one brittle and as dry as the arid wastes, subject to implosive demise.",
+        "hurl": "Sand_King",
+        "name": "sandking_caustic_finale",
+        "youtube":"HdesfveEum4",
+        "id": 2
+    },
+    {
+        "dname": "Epicenter",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Channeled</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "CHANNELED - After channeling for 2 seconds, Sand King sends a disturbance into the earth, causing it to shudder violently. All enemies caught within range will take damage and become slowed. Each subsequent pulse increases the radius of damage dealt.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The pulses are centered on Sand King, not where he first casted the spell.<br/>The pulses have gradually inreasing radius: 275/325/375/425/475/525/575/650/675/700 ( 775/825 *).",
+        "dmg": "",
+        "attrib": "PULSES: <b><font color=\"#ffffff\">6/8/10</font></b><br/>DAMAGE PER PULSE: <b><font color=\"#ffffff\">110/110/110</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">30%/30%/30%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">30</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">3</font></b><br/><font color=\"#6fe871\">SCEPTER PULSES:</font></b> <b><font color=\"#ffffff\">8/10/12</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">120/100/80</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/250/325<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/120/100",
+        "lore": "Many an explorer was lost to the quicksands of the Scintillant Waste.",
+        "hurl": "Sand_King",
+        "name": "sandking_epicenter",
+        "youtube":"2_1y1pTdyIo",
+        "id": 3
+    }
+]

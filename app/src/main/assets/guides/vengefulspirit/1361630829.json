@@ -1,0 +1,116 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"6.82 - Standard Vengeful Spirit (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"medallion_of_courage",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"desolator"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support hero, be sure to buy the courier or wards.",
+				"courier":"As a support hero, be sure to buy the courier or wards.",
+				"power_treads":"This is enough stats to widen your mana pool. Other boots have situational value, but Treads is universally accepted as something that helps Vengeful Spirit under most circumstances (mana/health).",
+				"mekansm":"Purchase if no other support is buying it.",
+				"pipe":"Purchase if no other support is buying it.",
+				"urn_of_shadows":"Urn of Shadows is great if you intend to roam and want to stay on the field and constantly ganking. Urn of Shadows takes advantage of that early-game lead, gives life to Vengeful Spirit and a bit of mana regeneration so she can keep on stunning.",
+				"force_staff":"Surprise swaps would work especially well with this item. In addition, swapping then Force Staff your way back is a good way to have your cake and eat it too!",
+				"ultimate_scepter":"Aghanim's Scepter gives even more positioning power to Vengeful Spirit and makes key ganks an easy quest for Vengeful Spirit and teams.",
+				"desolator":"With Debuff of Armor, combined with all your other debuffs makes you a scary foe for to be hanging around.",
+				"medallion_of_courage":"Great item for her given her Wave of Terror. Be careful as you also lose armor as well. Use it during ganks to really nail down foes with a -12 armour debuff.",
+				"heavens_halberd":"Heaven's Halberd is a comfortable item that adds to Vengeful Spirit's survivability and puts her ultimate in a less crisis of a situation."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_wave_of_terror",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_command_aura",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_wave_of_terror",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Straight-forward stun, strong damage and decent duration. Max this first without a doubt! Great ability to roam with Vengeful Spirit and help lanes who need a kill or two for an advantage.",
+				"vengefulspirit_wave_of_terror":"Wave of Terror should not be used in the lane phase otherwise you may push the lane too hard. Consider using it to illuminate areas you can't see, to weaken enemy heroes, etc.
+
+Use your ability to easily stack camps, disrupt Clarity and Healing Salves.",
+				"vengefulspirit_command_aura":"Upon death, you affect enemies' damage who are nearby. Especially good during team-fights but maybe not so during the laning/roaming phase of the game as enemies will more flee than attack.",
+				"vengefulspirit_nether_swap":"Nether Swap works exactly as read. Swap your location with a nearby enemy. Follow-up with a stun to ensure he stays over on your side and let your team roll on him making it a 4 vs. 5 situation. Try and be wary of where you're going as well before swapping the enemy hero."
+		}
+	}
+}

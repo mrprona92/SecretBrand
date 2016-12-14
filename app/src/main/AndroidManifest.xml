@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.badr.infodota"
+    android:installLocation="auto">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Infodota">
+        <activity
+            android:name=".base.activity.SteamLoginActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/Infodota.Dark" />
+        <activity
+            android:name=".base.activity.LoaderActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleInstance"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@style/Infodota.Dark" />
+        <activity
+            android:name=".base.activity.ListHolderActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/splashScreenTheme"
+            android:windowSoftInputMode="adjustNothing"></activity>
+        <activity
+            android:name=".hero.activity.HeroInfoActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".hero.activity.GuideActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".item.activity.ItemInfoActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".match.activity.MatchDetailsActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".player.activity.PlayerInfoActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".match.activity.MatchPlayerDetailsActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".base.activity.AboutActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".quiz.activity.QuizActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".hero.activity.GuideCreatorActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".item.activity.ItemSelectActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".player.activity.PlayerByHeroStatsActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".player.activity.PlayerCommonStatsActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".cosmetic.activity.CosmeticItemDetailsActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".stream.activity.TwitchPlayActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@style/Infodota.OverlayActionBar" />
+        <activity
+            android:name=".counter.activity.CounterPickerHeroesSelectActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:uiOptions="splitActionBarWhenNarrow"
+            android:windowSoftInputMode="adjustNothing">
+            <meta-data
+                android:name="android.support.UI_OPTIONS"
+                android:value="splitActionBarWhenNarrow" />
+        </activity>
+        <activity
+            android:name=".news.activity.NewsItemActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".joindota.activity.LeagueGameActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".trackdota.activity.TrackdotaGameInfoActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".trackdota.activity.TrackdotaLeagueInfoActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name=".base.activity.TI4Activity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <activity
+            android:name="com.util.infoparser.InfoParserActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <!--
+            <activity
+                android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+                android:name="com.google.ads.AdActivity" />
+        -->
+
+        <activity android:name=".base.activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.octo.android.robospice.UncachedSpiceService"
+            android:exported="false" />
+        <service
+            android:name=".base.service.LocalSpiceService"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

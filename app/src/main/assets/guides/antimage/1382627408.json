@@ -1,0 +1,70 @@
+{
+	"Hero":"antimage",
+	"Title":"Anti-Mage, Лучший Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"yasha"
+			],
+			"Для поздней игры":
+			[
+				"manta",
+				"heart",
+				"abyssal_blade",
+				"butterfly",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_blink",
+			"2":"antimage_mana_break",
+			"3":"antimage_spell_shield",
+			"4":"antimage_mana_break",
+			"5":"antimage_mana_break",
+			"6":"antimage_mana_void",
+			"7":"antimage_mana_break",
+			"8":"antimage_spell_shield",
+			"9":"antimage_spell_shield",
+			"10":"antimage_spell_shield",
+			"11":"antimage_mana_void",
+			"12":"antimage_blink",
+			"13":"antimage_blink",
+			"14":"antimage_blink",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"Keeper in the role of pusher-support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"magic_stick",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"magic_wand",
+				"headdress",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"invis_sword",
+				"travel_boots",
+				"mekansm",
+				"force_staff",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"rod_of_atos",
+				"pipe",
+				"veil_of_discord",
+				"cyclone",
+				"ethereal_blade"
+			],
+			"The final purchase":
+			[
+				"invis_sword",
+				"travel_boots",
+				"mekansm",
+				"force_staff",
+				"shivas_guard",
+				"pipe"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_illuminate",
+			"6":"keeper_of_the_light_chakra_magic",
+			"7":"keeper_of_the_light_spirit_form",
+			"8":"keeper_of_the_light_illuminate",
+			"9":"keeper_of_the_light_chakra_magic",
+			"10":"keeper_of_the_light_mana_leak",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"keeper_of_the_light_spirit_form",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"This ability helps you to damage your enemies. + This ability will help you kill the enemy if he flees with a small amount of hp. with this ability you can fluff up the line very quickly, has included the ability of four seconds and Creeps.",
+				"keeper_of_the_light_mana_leak":"If the opposing team has the Mages have a very powerful ability to download this ability when you pursue the enemy hero, hang onto it this ability, and he's dead.",
+				"keeper_of_the_light_chakra_magic":"If your team has heroes who need mana, this ability will be useful",
+				"keeper_of_the_light_recall":"Save the hero at any time",
+				"keeper_of_the_light_blinding_light":"Toss enemies or throw them in the epicenter of the battle",
+				"keeper_of_the_light_spirit_form":"It is this ability will be useful if your allies will need help to teleport or simply run away from the battlefield",
+				"keeper_of_the_light_illuminate_end":"The smartest trap",
+				"keeper_of_the_light_spirit_form_illuminate":"Let go, and flew"
+		}
+	}
+}

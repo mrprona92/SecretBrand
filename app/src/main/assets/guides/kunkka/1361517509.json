@@ -1,0 +1,105 @@
+{
+	"Hero":"kunkka",
+	"Title":"How to kill an entire team with just one hit. - 6.79 Updated",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"phase_boots",
+				"claymore"
+			],
+			"coreItems":
+			[
+				"invis_sword",
+				"lesser_crit"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"ancient_janggo",
+				"black_king_bar",
+				"heart",
+				"bfury",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"claymore":"Get this as the first component of the shadow blade since it gives you some nice damage",
+				"gauntlets":"More auto-attack damage, which makes it easier do get last hits and makes tidebringer even more painful to deal with. You can sell one later.",
+				"branches":"GG branches",
+				"clarity":"To be able to use more torrents to harass and set up kills in lane.",
+				"flask":"Standard regen to help you stay in lane",
+				"tango":"Standard regen to help you stay in lane",
+				"phase_boots":"Phase boots is by far the best boots, since it gives you a lot of right-click damage, which increases the tidebringer damage and your burst potential overall, besides, the active can be really useful",
+				"bracer":"Turn one of the gauntlets into this if you want to have some good HP and damage during early stages of the game. Go for the drums if you need more survivability and a good aura.",
+				"heart":"Get this if you feel like you need to survive more in fights.",
+				"black_king_bar":"Get it if you are the main damage dealer and need to survive in teamfights against stuns and crowd control abilities.",
+				"rapier":"Always an option on kunkka, makes all those rampages possible, make sure you are willing to all-in and go for a push to win the game.",
+				"greater_crit":"Finish your Daedalus for more crits and more damage, increasing your overall potency with the shadow blade.",
+				"bfury":"Get this if you are dominating the game and feel like you already have enough damage to one-shot most of the enemy team, it's not the best item to get on Kunkka, but it's an option when dominating.",
+				"lesser_crit":"Crystalys stacks with Shadow Blade, and it's where the right click power of Kunkka comes from. If you get lucky and crit with the shadow blade hit, you are going to deal a lot of damage to anyone tidebringer hits.",
+				"invis_sword":"Finish the shadow blade and use it to initiate on people. It's very important to activate it, and then hit your target while you are invisible to get the bonus damage. Make sure tidebringer is active when you hit the enemy. Shadow Blade should be seen as an Offensive item used to deal damage.",
+				"ancient_janggo":"Turn the bracer into a drum if no one in your team is already doing it and you feel the need to get extra survivability in the mid game. The aura is very good early in the game and the active can help with pushes and early aggression."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_torrent",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_torrent",
+			"9":"kunkka_torrent",
+			"10":"kunkka_x_marks_the_spot",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_x_marks_the_spot",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"kunkka_x_marks_the_spot",
+			"25":"kunkka_x_marks_the_spot"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"A nice stun and slow that can be used for ganking and harassing on lane, but be careful since it has a build up time and is hard to land properly.",
+				"kunkka_tidebringer":"Max tidebringer first, since its very annoying to deal with in lane and its a very good form of harass. But be careful, this skill pushes the lane very easily.",
+				"kunkka_x_marks_the_spot":"You don't need X marks the spot at level 4 because at level 2 it already lasts the entire build up time of torrent, resulting in making your combo way easier.
+
+This spell's cooldown got lowered in 6.79, but it's pretty much the same.",
+				"kunkka_ghostship":"Don't be afraid to spam your ulti, it's cooldown is not so big, so can easily use it when you feel like it.
+
+With 6.79, this ability deals 600 damage, that's an insane amount of AoE damage with low cooldown, so abuse it when you can."
+		}
+	}
+}

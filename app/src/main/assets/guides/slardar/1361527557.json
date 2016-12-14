@@ -1,0 +1,152 @@
+{
+	"Hero":"slardar",
+	"Title":"Nori's Slitherin' Slardar Guide - Updated for 6.81!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Laning Phase":
+			[
+				"magic_wand",
+				"boots",
+				"helm_of_iron_will"
+			],
+			"Mid Phase ":
+			[
+				"power_treads",
+				"armlet",
+				"helm_of_the_dominator",
+				"hyperstone",
+				"blink"
+			],
+			"Late Game Items":
+			[
+				"satanic",
+				"assault",
+				"black_king_bar"
+			],
+			"Goin support?":
+			[
+				"pipe",
+				"mekansm",
+				"ancient_janggo",
+				"ward_observer",
+				"urn_of_shadows"
+			],
+			"Late Game Alternatives":
+			[
+				"vladmir",
+				"desolator",
+				"cyclone",
+				"greater_crit",
+				"blade_mail",
+				"vanguard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"You can also grab this after armlet for some pack of initiations. If you position yourself with these, your 2nd skill can stun up to 3 enemies!
+It's pretty nifty to control enemies in a certain area, think it like how centaur does it.",
+				"helm_of_iron_will":"Armor is a lethal pick than another chunk of healths in terms of survivability, New Players underestimate armors, 5 armors maybe doesnt sound too much, but it reduces incoming damage by 23%
+",
+				"quelling_blade":"These thingy helps you farming, eventhough you sucked at last hitting.
+Going Carry? Grab one tango and both this and shield.",
+				"stout_shield":"Grab this if someone is going to take the safe lane (usually a carry better than you.)
+
+Going Carry? Grab one tango and both this and blade.",
+				"branches":"By 6.79, there are couple of changes on Starting items, that causes you to take only 2 branches since salve and tango are quite more expensive now.",
+				"boots":"Gives you speed. Either upgrade these first or go for an armlet.",
+				"magic_wand":"Gives a nice minor stats, Insta mana and HP to help you out from sticky situation. You can sell this if youre going for a 5 slot",
+				"flask":"Your Basic Regen to stay in lanes longer.",
+				"ward_observer":"And dont forget, You always dont want tunnel vision for your map, i mean cmon, 3 last hit for this is worth of your friends lifes!",
+				"tango":"Your Basic Regen to stay in lanes longer.
+PS : YOU WANNA GO CARRY? GRAB 1 TANGO AND BOTH STOUT AND AXE! This is now pretty legit since tango gives you 4 charges now and you get to both secure last hit and stay in lanes longer!",
+				"courier":"Neigh, Madafaka.",
+				"hyperstone":"You always want some extra speed for more bash proc chance.",
+				"power_treads":"Gives you attack speed, and bonus stats. Tread Switch for castin some spell too.",
+				"mekansm":"Your support thinks that he/she is a carry? Get a Mek. Don't hesitate to do so since it'll increase the chance of winning at teamfights and Saving Lives.",
+				"vladmir":"Throw your Helm and get a vlad instead if most of your friends are melee heroes if youre friends is dumb enough to pick 5 melee.This also gives you a nice aura, usually paired with a deso.",
+				"pipe":"You always want to build hood first (IKR OMG)
+Mainly both Support and Tanking Item. Gives you resistance and spell damage resistance for your pals too",
+				"urn_of_shadows":"This item is so good all around, self explanatory",
+				"cyclone":"After 6.81 Patch, Eul gives 50 damage when casted to enemy after the Cyclone, which can prevent those blink users from escaping! This thingy can also help your mana pool!",
+				"assault":"Gives you Armor for general tankiness and more right click speed, The aura is benefitable for your pals, and makes your enemies shatter while they see you using one.",
+				"heart":"Gives you more damage, Beefs on your scales, and Activate that armlet errytime bud, That regen.",
+				"black_king_bar":"Ok, Your presence in a teamfight is noticeable and people will probably notice you, Essential to Grab a BKB (or either rush this if enemy got so much stuns) if youre always focused (AOE Stun, Duh.)",
+				"vanguard":"Actually, I'm not a big fan of this thing. But this is good when you can get it early on where it's effective.",
+				"blade_mail":"Armor, More punches, Some intel for your mana pool, and laugh at that people trying to attack you with these on.",
+				"hood_of_defiance":"This thing gives you regen, and protects you from those pesky wizards.",
+				"greater_crit":"This is one situational pick if you're balling, It gives nothing but raw damage, i'd suggest to invest money in much better items, but this' worth a call.",
+				"bfury":"This one, Although rarely picked, It can help real handy for crowd control, and a bit of regen is good enough to spam spells.",
+				"lesser_crit":"Your punches aint enough for you? Grab this sword.",
+				"armlet":"This thing gives so many punches on your attack. Be careful at the hp drain as usual.",
+				"invis_sword":"Although not mentioned on the main build grabbing these can get you outta dangerous situation, one click at a time.",
+				"sange_and_yasha":"Same condition as Battle Fury, It gives you HP, a slow, More slithering speed, and mashing speed.",
+				"satanic":"Gives damage since youre a strength hero, Buffs up your muscles, and ridiculous lifesteal.
+Grab this if you're being focused / life problems. These can make you live 2 times with enough attacks.",
+				"skadi":"This thing gives you a slow that stacks with your lifesteal. And ultimate stats.",
+				"helm_of_the_dominator":"Gives you good damage and armor. Lifesteal helps you cover that drain of armlet.",
+				"desolator":"Now this heres will shatter down their defenses even harder that their skin will show up. Basically picked with a Vlad if you want some lifesteal.",
+				"ancient_janggo":"Great losing item. Remember to use those charges!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_sprint",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_bash",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_sprint",
+			"10":"slardar_sprint",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_bash",
+			"13":"slardar_bash",
+			"14":"slardar_bash",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Great for catching enemies as well as your escape mechanism, be careful at that 15% bonus damage dealt to you, EitherGet 2 levels of these and max out bash, or max this.
+And By 6.79, Sprint is buffed and with no mana cost! I'd prefer you to grab this early on if youre not going for fast hyperstone.",
+				"slardar_slithereen_crush":"Your reliable stun, Low CD, too. Gives good damage for ya, Duration is (not) enough to deal decent amount of punches to your foes.
+Please do note that the damage is physical, but the stun is magical, which means if you use your ult first and then this, Your stun hurts even more!",
+				"slardar_bash":"Bonus damage and stun that procs in any chance while youre bashing their face. 2 levels of Sprint and max this out, or get one level of this at level 4 and max out sprint.
+
+Remember, Having ONE POINT OF BASH, can save your life and secure kills.",
+				"slardar_amplify_damage":"By 6.79 now, You can shatter down 10 armor AT A WHOPPING LEVEL 1  which means more physical damage and your stun damage!
+
+",
+				"attribute_bonus":"PLUS"
+		}
+	}
+}

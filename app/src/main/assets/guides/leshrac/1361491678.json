@@ -1,0 +1,100 @@
+{
+	"Hero":"leshrac",
+	"Title":"Leshrac not antipush",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity",
+				"courier",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"ward_observer",
+				"ward_sentry",
+				"bracer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ancient_janggo",
+				"tpscroll",
+				"cloak"
+			],
+			"luxury":
+			[
+				"pipe",
+				"mekansm",
+				"ghost",
+				"rod_of_atos",
+				"sheepstick",
+				"cyclone",
+				"shivas_guard",
+				"blink",
+				"necronomicon",
+				"urn_of_shadows"
+			],
+			"Snowballing out of control":
+			[
+				"travel_boots",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"cant win without them.",
+				"ward_observer":"not safelane.",
+				"ward_sentry":"safelane with courier.",
+				"courier":"Safelane.",
+				"urn_of_shadows":"if no one got it. early game only"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_diabolic_edict",
+			"4":"leshrac_split_earth",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"attribute_bonus",
+			"12":"leshrac_pulse_nova",
+			"13":"leshrac_pulse_nova",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"leshrac_lightning_storm",
+			"23":"leshrac_lightning_storm",
+			"24":"leshrac_lightning_storm",
+			"25":"leshrac_lightning_storm"
+		}
+	}
+}

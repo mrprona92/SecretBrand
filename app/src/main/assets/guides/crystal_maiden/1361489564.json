@@ -1,0 +1,98 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Purple Kami's Crystal Maiden Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"flying_courier",
+				"ward_sentry",
+				"boots",
+				"gauntlets",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"phase_boots",
+				"ward_observer",
+				"ward_sentry",
+				"ancient_janggo",
+				"bracer",
+				"mekansm"
+			],
+			"Situational (without Ult)":
+			[
+				"cyclone",
+				"force_staff",
+				"ghost",
+				"shivas_guard",
+				"rod_of_atos",
+				"veil_of_discord",
+				"gem"
+			],
+			"Situational (With Ult)":
+			[
+				"blink",
+				"invis_sword",
+				"ghost",
+				"black_king_bar",
+				"cyclone",
+				"force_staff",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ethereal_blade":"You can replace points in ult with points in stats, as certain team compositions, whether yours or the enemies, will prefer you stay back and save mana for stuns and repositioning.
+My standard build focuses on max two spells, and if the two spells are Q and W make sure to grab two points in E."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_frostbite",
+			"2":"crystal_maiden_crystal_nova",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_crystal_nova",
+			"5":"crystal_maiden_brilliance_aura",
+			"6":"crystal_maiden_crystal_nova",
+			"7":"crystal_maiden_brilliance_aura",
+			"8":"crystal_maiden_crystal_nova",
+			"9":"crystal_maiden_brilliance_aura",
+			"10":"crystal_maiden_freezing_field",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_frostbite",
+			"13":"crystal_maiden_frostbite",
+			"14":"crystal_maiden_frostbite",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

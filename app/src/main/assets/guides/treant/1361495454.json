@@ -1,0 +1,120 @@
+{
+	"Hero":"treant",
+	"Title":"Treant Protector - Wooden Shotguns",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"boots",
+				"buckler",
+				"headdress",
+				"tpscroll",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"power_treads",
+				"arcane_boots",
+				"mekansm",
+				"blink"
+			],
+			"luxury":
+			[
+				"necronomicon",
+				"pipe",
+				"veil_of_discord",
+				"mask_of_madness",
+				"cyclone",
+				"mjollnir",
+				"refresher",
+				"radiance",
+				"travel_boots",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Being in the proper position is the most crucial aspect to playing the hero. Blink Dagger allows for the most immediate positioning an item can offer in precision situations. ",
+				"gauntlets":"Two Gauntlets of Strength provide a few things that are relevant to Tree's early game: They increase his already rather high life, improve his smashing power (almost around 95 base damage at level 1), as well as build into Urn.",
+				"branches":"GG Branches help slightly with your mana needs, but most importantly, they build into Mekansm,",
+				"boots":"Picking up boots rather early is important for melee heroes, but it's vital to Treant Protector. He needs to be able to get up in their face earlier on in the game and punch shit if necessary, as his only slow is rather hard to rely on having at all times.",
+				"magic_stick":"Due to his beyond awful mana pool, stick is useful to pop when you need just enough mana for that last Leech Seed, or to pop your ultimate in clutch situations.  ",
+				"clarity":"You're sort of mana dependent. Picking up a couple salves helps you be relevant in the laning phase.",
+				"tango":"EVERYONE NEEDS TANGOS. EVEN PEOPLE WITH BUILT IN HEALS.",
+				"tpscroll":"TP scrolls are important for every hero, however Tree needs to be able to supply his ultimate whenever it's necessary. Being in the right places at the right time is what makes or breaks a good Treant Protector player, and thus it requires good map awareness.",
+				"travel_boots":"As stated previously, positioning is crucial. Later on in the game, you can't always rely on TP scrolls to get to where you need to go. Boots of Travel are more of an extension to TP scrolls if your towers go down.",
+				"power_treads":"As a boot upgrade, I prefer Power Treads over other boot upgrades due everything it giving being essential to the hero being functional. Attack speed works very well with his ridiculously high base damage, as well as the stat swapping being useful when attempting to cast his spells.",
+				"mekansm":"Mekansm is bought to prioritize Treant Protector's healbot assets. On top of Leech Seed, you're healing your team for a rather large amount in a short period of time. It also fixed your armor problems.",
+				"buckler":"Getting Buckler, or at least the chainmail component is picked up to curb the amount of damage he takes earlier on in the game. It's great due to the fact that he already has a great deal of life to work with early, so bulking up in cheap armor allows him to take punches as well as throw them. Hard.",
+				"pipe":"Pipe is an investment you'll put into if you're going to be an all out savior to your team. It's a very nice overall pickup due to Tree's already high strength, as well as further supports his healbot nature.",
+				"urn_of_shadows":"Urn is an incredibly important item for Treant Protector earlier in the game, as not only does it provide additional healing, but it provides him with vital mana regeneration throughout the laning phase and beyond.",
+				"headdress":"Headdress builds into Mekansm, as well as provides another heal for you and your laning partner.",
+				"sheepstick":"Sometimes you'll just need another disable. Tree is a very good candidate to be the hero who supplies that disable.",
+				"cyclone":"Euls is bought to specifically deal with being silenced. It's preferable over BKB due to the mana regeneration is gives, ontop of it being a cheaper response. It's also a very handy TP cancel, and pseudo disable.",
+				"necronomicon":"Necronomicon (Necrobook, Book3) is one of the more popular choices on the new age tree due to the rather notable lack of damage output he does. Necrobook fills the gap rather well as his spells allow for necessary lockdown for them to do their damage properly.",
+				"refresher":"You'll buy Refresher if you absolutely need further lockdown. It's also a very nice item to double up on Leech Seed as a secondary effect in teamfights. It would require Mana boots to function properly.",
+				"radiance":"If you can rush Radiance, it's a very fine choice if you find yourself in the carry/semi-carry position. It allows you to hit harder, and have a large impact on the game if you get it fast enough than just about any hero in the game who would pick it up. ",
+				"mjollnir":"Mjollnir (Lightning2) is one of the primary items you'll buy if you find yourself in the carry/semi-carry role. Even though Tree's Base Attack Time is rather high to fit that, he can still pack quite a punch later on in the game with the right items",
+				"mask_of_madness":"If you're playing more of a semi-carry role, MoM is a really nice earlygame pickup to smash heads in. There isn't much in the game that can deal with a building crashing into them if you buy it early enough.",
+				"arcane_boots":"Mana boots solve his mana issues pretty much completely, and can be bought in situations where the rest of your team needs mana as well.",
+				"veil_of_discord":"Although Tree himself does not output much damage, he's a very good candidate for Veil of Discord, as he generally buys items that support the well being of his team, as well as benefits from all of it's stats quite handily. It's an item you buy if you have a great deal of magical followup."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_living_armor",
+			"2":"treant_leech_seed",
+			"3":"treant_leech_seed",
+			"4":"treant_living_armor",
+			"5":"treant_leech_seed",
+			"6":"treant_overgrowth",
+			"7":"treant_leech_seed",
+			"8":"treant_natures_guise",
+			"9":"treant_natures_guise",
+			"10":"treant_living_armor",
+			"11":"treant_overgrowth",
+			"12":"treant_living_armor",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"Nature's Guide is important not to delay too much, as it's an important way to engage teamfights from your towers to defend against pushes. It's commonly used as an escape mechanism, though it's most efficiently used to position you and your team around turtling your tier 1 and tier 2 towers.",
+				"treant_leech_seed":"Leech Seed is the only spell that Tree has that provides damage. This, alongside of the immense heal it provides if why we max it first. Even though the mana cost is rather high, it's one of the best heals you can ask for in engagements.",
+				"treant_living_armor":"Living Armor allows you to deal with harassment throughout the game. The spell is global(!), meaning you can apply it other lanes at any given point in time. It also works on towers. Two points suffice earlier on, however more points can be put in if your towers are being pressures early in the game",
+				"treant_overgrowth":"Overgrowth as a spell, like most spells is ill received. It does not do damage, however it's cooldown is much lower than that of other large AOE disables. This means that it's much more effective in smaller scale fights throughout the game, as you'll always have it. Don't be afraid to use it!",
+				"attribute_bonus":"Stats aren't very relevant enough for Tree to skip his abilities for them."
+		}
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"[DMX] Drow Ranger (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"slippers",
+				"branches",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"wraith_band",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ring_of_aquila",
+				"helm_of_the_dominator",
+				"manta",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"satanic",
+				"greater_crit",
+				"butterfly",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"invis_sword",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"invis_sword":"Très bon item qui vous donnera un escape. Attention cependant aux ennemis qui pourraient vous révéler.",
+				"helm_of_the_dominator":"Cet item vous permettra de wood très facilement et de vous régénérer en teamfight grâce à vos dégâts monstrueux. Attention vous devrez cast manuellement vos flèches de glace car les deux effets ne se cumulent pas."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_trueshot",
+			"3":"drow_ranger_trueshot",
+			"4":"drow_ranger_silence",
+			"5":"drow_ranger_trueshot",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_trueshot",
+			"8":"drow_ranger_frost_arrows",
+			"9":"drow_ranger_frost_arrows",
+			"10":"drow_ranger_frost_arrows",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_silence",
+			"13":"drow_ranger_silence",
+			"14":"drow_ranger_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Un très bon sort pour kite votre adversaire. Vous pourrez le pourchasser avec une facilité déconcertante.",
+				"drow_ranger_silence":"Un très bon silence de zone, diablement efficace contre les mages qui pourraient vous one-shot. Également très utile en teamfight.",
+				"drow_ranger_trueshot":"Cette aura fait de vous un des plus gros hardcarry du jeu, vous apportant un bonus de dégâts effrayant !",
+				"drow_ranger_marksmanship":"Cet ultimate boostera votre agilité de façon permanente, ce qui augmentera vos dégâts, votre armure et votre vitesse d'attaque !"
+		}
+	}
+}

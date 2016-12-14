@@ -1,0 +1,35 @@
+{
+    "arcane": [
+        "blink", "boots", "cloak", "gem", "ghost", "gloves", "magic_stick", "lifesteal", "ring_of_regen", "sobi_mask", "shadow_amulet", "talisman_of_evasion"
+    ],
+    "armaments": [
+        "blades_of_attack", "broadsword", "chainmail", "claymore", "helm_of_iron_will", "javelin", "mithril_hammer", "platemail", "quarterstaff", "quelling_blade", "ring_of_protection", "stout_shield"
+    ],
+    "armor": [
+        "assault", "black_king_bar", "blade_mail", "bloodstone", "heart", "hood_of_defiance", "sphere", "manta", "shivas_guard", "soul_booster", "vanguard","crimson_guard"
+    ],
+    "artifacts": [
+        "desolator", "diffusal_blade", "skadi", "heavens_halberd", "helm_of_the_dominator", "maelstrom", "mask_of_madness", "mjollnir", "sange", "sange_and_yasha", "satanic", "yasha"
+    ],
+    "attributes": [
+        "belt_of_strength", "blade_of_alacrity", "boots_of_elves", "circlet", "gauntlets", "branches", "mantle", "ogre_axe", "robe", "slippers", "staff_of_wizardry", "ultimate_orb"
+    ],
+    "caster": [
+        "ultimate_scepter", "dagon", "dagon_2", "dagon_3", "dagon_4", "dagon_5", "cyclone", "force_staff", "necronomicon", "necronomicon_2", "necronomicon_3", "orchid", "refresher", "rod_of_atos", "sheepstick", "veil_of_discord"
+    ],
+    "common": [
+        "travel_boots", "bracer", "hand_of_midas", "magic_wand", "null_talisman", "oblivion_staff", "pers", "phase_boots", "poor_mans_shield", "power_treads", "soul_ring", "wraith_band"
+    ],
+    "consumable": [
+        "courier", "bottle", "clarity", "dust", "flying_courier", "flask", "ward_observer", "ward_sentry", "smoke_of_deceit", "tango", "tpscroll"
+    ],
+    "support": [
+        "arcane_boots", "buckler", "ancient_janggo", "headdress", "medallion_of_courage", "mekansm", "pipe", "ring_of_aquila", "ring_of_basilius", "tranquil_boots", "urn_of_shadows", "vladmir"
+    ],
+    "secret_shop": [
+        "demon_edge", "eagle", "energy_booster", "hyperstone", "mystic_staff", "orb_of_venom", "point_booster", "reaver", "ring_of_health", "relic", "vitality_booster", "void_stone"
+    ],
+    "weapons": [
+        "abyssal_blade", "armlet", "bfury", "butterfly", "lesser_crit", "greater_crit", "rapier", "ethereal_blade", "monkey_king_bar", "radiance", "invis_sword", "basher"
+    ]
+}

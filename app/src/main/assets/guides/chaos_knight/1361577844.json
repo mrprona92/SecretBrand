@@ -1,0 +1,101 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"6.82 - Standard Chaos Knight (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"armlet",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"stout_shield",
+				"monkey_king_bar",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"assault",
+				"heart"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"If you find yourself being harassed during the early-game, a stout shield should put an end to it.",
+				"assault":"Reduce everyone's armor so your illusions deal even more damage. Overall, this makes your army of illusions faster and stronger.",
+				"monkey_king_bar":"Only buy for evasive heroes.",
+				"manta":"With Manta style, you're doubling your ultimate's ability and thus, more critical strikes!",
+				"armlet":"Be sure to activate Armlet before using Phantasm. The illusions get the bonus strength damage.",
+				"soul_ring":"This is situational item depending how difficult your early-game is. Your mana pool is quite low during the early-phase and the game and if you're find yourself in a good position to snag some early kills or to be more defensive with the stuns and regen - pick this up.",
+				"ancient_janggo":"We get drums for added chasing power and the extra free intelligence.",
+				"heavens_halberd":"Keep foes down and you evading attacks with Heaven's Halberd. In most cases, this is an ideal item, but not always necessary."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Reality Rift before Stunning because of the range difference and due to the min-stun animation of reality rift. The stun duration for this ability is completely random, but the damage is the inverse of the stun.",
+				"chaos_knight_reality_rift":"Reality Rift has a better range than Chaos Bolt. Consider it first before using Chaos Bolt to keep your opponent near you for attacks.",
+				"chaos_knight_phantasm":"Combined with your Critical Strike, Phantasm will dish out even more damage than at level 6 alone. Due to its mana cost, you do not get this ability until around level 11."
+		}
+	}
+}

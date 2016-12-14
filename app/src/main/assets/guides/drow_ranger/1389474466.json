@@ -1,0 +1,95 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"GreyShark.Drow Ranger",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"invis_sword",
+				"yasha"
+			],
+			"Mid Game":
+			[
+				"greater_crit",
+				"manta"
+			],
+			"Late Game":
+			[
+				"heart",
+				"butterfly"
+			],
+			"Situation":
+			[
+				"monkey_king_bar",
+				"satanic",
+				"black_king_bar"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"По началу ставим на силу, так как дровка очень тонкая, ПТ дает нам по началу немного ХП и много АС",
+				"heart":"Мы очень тонкие, это и есть главная слабая сторона дровки, можно собрать вместо тараски сатаник, но мне кажется что тараска будет получше.",
+				"black_king_bar":"Если есть сильные прокастеры, типо инвокера и вас постоянно убивают",
+				"monkey_king_bar":"Если у противников есть чуваки с уворотами можно купить + дает микробаши",
+				"butterfly":"Становимся имбой, очень много АС, урона, уклонения",
+				"greater_crit":"У нас очень большой урон, с даедалусом криты будут подрывать всем пуканы",
+				"manta":"Одна дровка хорошо а три лучше ! Тем более добавляет много атрибутов, можно сбрасывать некоторые дебафы. У иллюзий огромный урон.",
+				"invis_sword":"Хороший арт с которым мы будем гангать и убегать. К тому же добавляет много урона и АС",
+				"satanic":"Вместо тараски можно",
+				"yasha":"Собираем для атрибутов и МС, по началу можно и с яшей по бегать, ближе к концу мид гейма надо апнуть в манту",
+				"ring_of_aquila":"С аквилой мы будем гораздно плотнее, полезная аура для союзников и пуша, если мидер ушел на ганг, мы можем за один заход снести ему тавер"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_wave_of_silence",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_trueshot",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_trueshot",
+			"9":"drow_ranger_trueshot",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_wave_of_silence",
+			"13":"drow_ranger_wave_of_silence",
+			"14":"drow_ranger_wave_of_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

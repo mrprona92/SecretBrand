@@ -1,0 +1,119 @@
+{
+	"Hero":"weaver",
+	"Title":"OH GOD SO MANY WEAVING PUNS",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"slippers"
+			],
+			"Early game":
+			[
+				"boots",
+				"ring_of_aquila",
+				"magic_wand",
+				"ring_of_health"
+			],
+			"Usually recommended":
+			[
+				"sphere",
+				"lesser_crit",
+				"radiance",
+				"ancient_janggo"
+			],
+			"Other cool stuff (<3 des)":
+			[
+				"desolator",
+				"hyperstone",
+				"monkey_king_bar",
+				"butterfly"
+			],
+			"Situational":
+			[
+				"power_treads",
+				"manta",
+				"black_king_bar",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Agility hero = agility item. Capiche?",
+				"branches":"As mentioned, Weaver has stat problems. Lot's of them. Branches is a good starting item to cover your bases a bit better.",
+				"boots":"Weavers base stats, apart from being terrible as mentioned, make him really really slow. When you aren't using Shukuchi, you will be crawling, and I mean crawling everywhere. Boots brings Weaver up to a reasonable speed, for me adequate for the entire game.",
+				"cloak":"This item pairs up with the Vanguard. Although it doesn't seem like much and feels like a waste of space, the 15% does help.",
+				"magic_wand":"Take those GG branches and put them to use. Free's up space, and it's great against those hero's that spam spells. You know who you are.",
+				"flask":"If something has gone horribly wrong in the lane, or you've just finished a big assault and you're very low, popping one of these put's you right back in action.",
+				"tango":"Om nom nom. Considering Weaver's health is really low anyway, tango's are usually enough to keep you going if you take the occasional hit. I personally buy two, to ensure I'm always an active force in the lane early game.",
+				"hyperstone":"Astounding for last hitting and generally works well with your other damage items. Build to a Cuirass to increase your ninja level even more.",
+				"ring_of_health":"Once your tango's are gone, this will be enough to keep you going. If you're going Linkens this will be purchased anyway, but do be warned buying this will slow your radiance rush down.",
+				"vitality_booster":"This item pairs up with the hood of defiance. Even if you're taking a lot of fire from spells, the damage they do is always lessened in terms of annoyance by a bit of extra health.",
+				"power_treads":"Not a huge fan, but the best boots by far for Weaver. Apart from the attack speed and damage boost, you can allocate the stats to wherever you think they're needed. If you need more health, strenght, if you need more mana, intel, or if you're fine in both departments, you're a liar.",
+				"black_king_bar":"If you wanna go into a big teamfight all guns blazing, this is the item for you. A cheaper alternative to Linkens and can be popped when required. I'm usually too busy build the items above to get it, but always keep this in mind.",
+				"sphere":"Lot's of people like Linkens. Weaver is super vulnerable to disables, and two in a row will wreck you. Linkens gives you stats, hp, passive regen, and that almighty spellblock cockblock.",
+				"vanguard":"\"Vanguard, you are mine!\" - Weaver being the squishy little bugger he is, a Vanguard to help tank him up a little bit, especially when spells aren't too present, is a solid choice.",
+				"hood_of_defiance":"An awesomesauce choice for Weaver, especially in a spell rich environment. Decreased damage from spells and the HP regen both are a good aid.",
+				"rapier":"Because lol. If you took the enemy team to the ricefields and farmed like crazy and everything is well in the world, buy it. Considering Weaver is an escaping machine, you can spend your time laughing at the pain and suffering of the other team as your damage at this point is insane. Hell, buy two.",
+				"monkey_king_bar":"Playing Weaver, you want to maximize your damage output in the first three attacks. With a redonkulous damage proc, high base damage and that delicious ministun, what's not to like?",
+				"radiance":"Radiance is probably the most famous Weaver item, working a treat with Shukuchi and providing good damage in an AoE. However, Sacred Relic is difficult to save for, and becomes a lot less effective late game, so you've got to rush this hard. Once you've got it though, you're in a good place.",
+				"butterfly":"If you want to be a bit more semi-carry, the Butterfly is a good item to build to, the parts working well as you progress through the game and the end result useful even in the final moments.",
+				"manta":"A fine choice. Not only are the stats a treat, but your illusions, with your qualities produces like over 9000 damage or something along those lines. On a serious note, using this correctly is great for almost any situation. I just suck at illusion managing.",
+				"lesser_crit":"Crits. Just, crits. Even though geminate attacks can't crit, it's a great damage item, and it's even better if your attack speed is high enough. Also, creeps practically asplode - farming is a breeze.",
+				"mjollnir":"If you want to put a lil more oomph it that hyperstone you got earlier, this is a good choice. However, I prefer something a lil more reliable, with a bit more constant damage.",
+				"desolator":"Personal favourite. Being the cheapest option, and providing not only great damage but that decrease in armour, for me it's great value for money. Useful in teamfights, or even just farming. Go buy one. Now.",
+				"ancient_janggo":"Pro players build drums early. You know what to do.",
+				"ring_of_aquila":"A great item for Weaver, it's two parts, Wraith Band and the Ring of Basilius both working fantastically for him, especially early game. Just remember to turn it off when you need to."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"weaver_geminate_attack",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_the_swarm",
+			"8":"weaver_shukuchi",
+			"9":"weaver_geminate_attack",
+			"10":"weaver_geminate_attack",
+			"11":"weaver_time_lapse",
+			"12":"weaver_the_swarm",
+			"13":"weaver_the_swarm",
+			"14":"weaver_the_swarm",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"I'm not saying it's an awful skill, as it does have it's obvious benefit of lowering armour for teamfights, and it's less obvious benefit of stalling the lane creeps and scouting ahead, but you should definitely max it last.",
+				"weaver_shukuchi":"Weaver's bread and butter, hence why I max it ASAP. Shukuchi does it all, gets you out of trouble,  inititates, harasses, last hits creeps, last hits heros, chases people down; with good use, the possibilities are endless. Just watch that mana, especially early game.",
+				"weaver_geminate_attack":"A great skill, geminate is perfect for harassing early game (seriously, every time it cools down harass) and is still awesome late game. Works great with many items, and allows you to farm like a baws, a key part of weavering. Grab at first level to get in early on harassing and farming.",
+				"weaver_time_lapse":"If stuff starts going really bad like taking high amounts of damage or just need a little boost, you can jump back in time to a happier place, reverting your health and mana to whatever it was before. However, don't be that guy who jumps back somewhere stupid, and avoid silences and stuns.",
+				"attribute_bonus":"Weaver has stat problems all over the show. Being as squishy as you are, bonus stats are always a good choice, so one may even opt to disregard the other three levels of swarm and get stats."
+		}
+	}
+}

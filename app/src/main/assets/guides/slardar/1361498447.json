@@ -1,0 +1,94 @@
+{
+	"Hero":"slardar",
+	"Title":"[DMX] Slardar (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"armlet",
+				"power_treads",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"desolator",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"stout_shield",
+				"urn_of_shadows",
+				"vladmir",
+				"vanguard",
+				"blink",
+				"sange_and_yasha",
+				"satanic",
+				"greater_crit"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_sprint",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_sprint",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_sprint",
+			"10":"slardar_bash",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_bash",
+			"13":"slardar_bash",
+			"14":"slardar_bash",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Sprint vous donnera une mobilité hors du commun qui vous permettra de fuir ou de rattraper vos ennemis.
+Attention cependant, vous êtes plus fragile lorsque Sprint est activé.",
+				"slardar_slithereen_crush":"Un très bon stun AOE infligeant de bon dommages. Utilisez le pour engager vos ennemis ou pour les retenir afin de fuir.",
+				"slardar_bash":"Un bash qui vous donnera un bon bonus de dps lorsque vous aurez assez d'attaque speed.",
+				"slardar_amplify_damage":"Un ultimate dévastateur qui réduit à néant l'armure de vos ennemis tout en vous octroyant la vision sur ces derniers. Utilisez le le plus souvent possible car il ne coûte presque pas de mana. "
+		}
+	}
+}

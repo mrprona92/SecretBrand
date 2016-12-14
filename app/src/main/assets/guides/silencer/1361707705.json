@@ -1,0 +1,109 @@
+{
+	"Hero":"silencer",
+	"Title":"Anti-fun Silencer (6.82)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity",
+				"flask",
+				"mantle",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"null_talisman",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"force_staff",
+				"black_king_bar",
+				"tpscroll",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"sphere",
+				"travel_boots",
+				"heart",
+				"orchid",
+				"courier",
+				"flying_courier",
+				"ward_observer"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Some extra stats. Should also help towards a quick Magic Wand.",
+				"boots":"It is important to get some decent movement speed early on. Could save your life from early ganks.",
+				"magic_wand":"Magic Wand is a great item for Silencer early game. Your Curse of the Silent ability will guarantee enemies casting spells to get rid of the effect. This ensures a lot of charges on your wand that can be used to regain HP/mana when necessary.",
+				"clarity":"Clarity potions should guarantee absolute lane-dominance early game. Always have a Curse of the Silent and/or Last Word ready to be cast when necessary.",
+				"ward_observer":"You always need wards. If you're supports are too dumb to do it, do it yourself. Nothing ensures a more miserable time for the enemy than when you have vision over the map.",
+				"tpscroll":"Always have at least one TP scroll on you. As Silencer, you are very vulnerable, especially before you get your Force Staff; this item greatly reduces the chances of you getting killed by ganks.",
+				"travel_boots":"Boots of Travel guarantees you being there when team fights happen. Also enables you to push and defend easily.",
+				"power_treads":"Put it on STR to give Silencer a boost in survivability relatively early on. Can be switched to INT to boost the bonus damage gained from Glaives of Wisdom when appropriate.",
+				"null_talisman":"Gives you a nice stat-boost early game.",
+				"sheepstick":"Great item to make an enemy useless for 3.5 seconds and hit him down peacefully with Glaives of Wisdom. Provides you with a huge INT boost and more mana regen!",
+				"orchid":"Get an Orchid Malevolence for tactical silence action. It enable Silencer to silence everything and everyone, greatly boosts his damage output from Glaives due to the damage amplification and +25 INT, and adds mana regen so your abilities are always available.",
+				"force_staff":"You should rush Force Staff as soon as possible after getting Power Treads. It greatly improves Silencer's survivability. The +10 INT and HP regen are a great bonus too.",
+				"ultimate_scepter":"Not only do you silence for an extra second, you apply CoTS to the entire enemy team. You can then apply another CoTS manually (they stack) to drain your enemy's health and mana like crazy!",
+				"heart":"Your enemies raging at you for being an invulnerable killing machine boss? You're enjoying it aren't you? You don't have a heart. Lucky for you, you're so filthy rich you can just buy a new one.",
+				"black_king_bar":"Your three silences ready; Glaives of Wisdom activated; Force Staff in under magic immunity, like a boss. Grats, you're an invulnerable killing machine.",
+				"sphere":"Getting hit by a lot of targeted nukes/stuns? Might be a good idea to pick up a Linken's Sphere."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_curse_of_the_silent",
+			"2":"silencer_last_word",
+			"3":"silencer_curse_of_the_silent",
+			"4":"silencer_last_word",
+			"5":"silencer_last_word",
+			"6":"silencer_global_silence",
+			"7":"silencer_last_word",
+			"8":"silencer_curse_of_the_silent",
+			"9":"silencer_curse_of_the_silent",
+			"10":"silencer_glaives_of_wisdom",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_glaives_of_wisdom",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"silencer_curse_of_the_silent":"Curse of the Silent is an extremely strong early game ability. This will be the go to skill for complete lane dominance. Get your enemy's mana low so he can't cancel CotS or be a threat to you. Then pick him off with Last Word when his HP is low.",
+				"silencer_glaives_of_wisdom":"Early game you should prefer CotS and LW over Glaives of Wisdom. It's more important to actually kill enemies and steal a lot of INT before you can start using the stolen INT effectively using GoW. Once you've secured enough INT, EXP, and gold; take a point in Glaives to start hitting like a truck.",
+				"silencer_last_word":"Last Word is a very spammable high-damage nuke, and in addition silences/possibly disarms your enemy for a few seconds. Use it in lane, after draining enough mana/HP with CotS, to very easily pick off your enemies and steal INT.",
+				"silencer_global_silence":"Silencer's ultimate is a great team fight ability. The best case is to let a team member initiate and then cast it as a follow up so the enemy team can't react. It can also be used just before rampaging into a team fight, to counter-initiate, and to help team members escape ganks.",
+				"attribute_bonus":"As Silencer, you're very dependent on the utility provided to you by your spells, so max stats last. In addition, you get INT boosts for being close to team kills anyway."
+		}
+	}
+}

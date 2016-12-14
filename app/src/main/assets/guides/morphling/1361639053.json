@@ -1,0 +1,105 @@
+{
+	"Hero":"morphling",
+	"Title":"6.82 - Standard Morphling (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"ring_of_protection",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"sphere"
+			],
+			"luxury":
+			[
+				"manta",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"ethereal_blade",
+				"butterfly",
+				"skadi",
+				"satanic"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sphere":"Prevents abilities that target you and gives you the varied stats that you need both in agility and strength.",
+				"butterfly":"Use the active ability, Flutter, to be able to flee from fights where you don't think you can easily escape.
+
+Overall, Butterfly is doubling-down on the already excessive amount of damage you can deal while also relying on the evasion to be able to survive more in battle.",
+				"manta":"Manta Style is a great pushing ability that also offers a way to get out disables. You can use this to push down lanes with your own ultimate ability and such. ",
+				"satanic":"You have incredible speed, nuking damage and a slow with Eye of Skadi. Fortunately, Satanic and Lifesteal also works with Eye of Skadi and can give you further Agi to morph into.",
+				"skadi":"Slows down their movment and attack speed beating down any rivals that could actually defeat Morphling in the late-game.
+
+This item works with lifesteal such as Satanic.",
+				"ethereal_blade":"When putting a lot of points into Agility, using EB and following it up with adaptive strike on the ghosted target will amplify the damage which is mostly based on Agility. This will allow you to do massive damage.",
+				"ring_of_aquila":"Ring of Aquila gives you some early resistance from harassment and some last-hitting assistance especially against heroes that try to deny your creeps."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_waveform",
+			"2":"morphling_morph_str",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_morph_str",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_adaptive_strike",
+			"10":"morphling_replicate",
+			"11":"morphling_replicate",
+			"12":"morphling_adaptive_strike",
+			"13":"morphling_adaptive_strike",
+			"14":"morphling_adaptive_strike",
+			"15":"attribute_bonus",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"morphling_waveform":"Use it as an escape or to get in the right position against your enemy. Follow it up with Adaptive Strike to push enemies in directions you need.",
+				"morphling_adaptive_strike":"You are leveling this last because you don't have the stats early in the game to take advantage of this ability.",
+				"morphling_morph_str":"Use Strength/Agility Gain (Morph) to farm areas faster (agility) or to escape with just enough life (strength). Typically you should have more agility than strength in team-fights because you are the damage-dealer. So keep that in mind when unsure how much to put in which stat.",
+				"morphling_replicate":"The duration of your ultimate is quite long, so you can use it to bait people into using their spells on your illusion, to scout fogged areas or as a convenient way to get back to fountain to pick up some items!"
+		}
+	}
+}

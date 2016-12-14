@@ -1,0 +1,146 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"Vito's Kawaii Earth Spirit [ROCK N' ROLL]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"clarity",
+				"stout_shield",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"phase_boots",
+				"ancient_janggo",
+				"urn_of_shadows",
+				"medallion_of_courage",
+				"vanguard"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"blink",
+				"force_staff",
+				"blade_mail",
+				"heavens_halberd"
+			],
+			"luxury":
+			[
+				"soul_ring",
+				"dagon",
+				"heart",
+				"shivas_guard",
+				"rod_of_atos",
+				"ghost"
+			],
+			"Mid Build Early > Core":
+			[
+				"bottle",
+				"boots",
+				"mekansm"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you can't get your push and pull correct.
+Just pull blink pull, roll, magnetize. :3
+Easy game easy life.",
+				"stout_shield":"I usually grab this just because melee~
+Not necessary though...",
+				"ghost":"Avoid being the center of attention you cute little thing~
+
+You don't want to be the single target after your flawless combos so pop this after your roll ins or other situations so you don't get killed.",
+				"clarity":"Grab one if you expect to be pushing / pulling or rolling a lot in your lane early on.",
+				"bottle":"MID LANE Earth Spirit",
+				"phase_boots":"These can be good but why do you need these when you can roll baby!
+
+These are good if you have a good support or regen in your lane. Otherwise go for arcanes.",
+				"power_treads":"Get these instead of arcanes if you have a CM giving mana or maybe your lane partner has them already.",
+				"mekansm":"MID LANE Earth Spirit
+
+Good to keep you alive as ES is not that item dependent for anything but hp",
+				"force_staff":"You know what this does.
+
+Use Force staff to get yourself into a good position to initiate or escape.",
+				"dagon":"Why not!?
+
+Be a bad mammajamma. See if I care.",
+				"heart":"MONEY MONEY MONEY",
+				"black_king_bar":"Get if there is a magic heavy team.
+Don't want to get zapped when you are rolling around.",
+				"shivas_guard":"Good to slow when a team is stunned after you have combo'd the crap out of them.",
+				"vanguard":"Good for early regen and block.
+Will keep you from going down too early in the game!~",
+				"blade_mail":"Good since you roll right up in the other team's grill.",
+				"soul_ring":"Quick boost of mana if you need to grab a stone or something. ",
+				"arcane_boots":"These are your best bet so you can have a a good mana supply for all of your rockin' and rollin'.",
+				"rod_of_atos":"Good if you need major help surviving team fights or just fights in general.
+
+Also very good to single out a hero."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_rolling_boulder",
+			"3":"earth_spirit_boulder_smash",
+			"4":"earth_spirit_geomagnetic_grip",
+			"5":"earth_spirit_boulder_smash",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_rolling_boulder",
+			"8":"earth_spirit_geomagnetic_grip",
+			"9":"earth_spirit_boulder_smash",
+			"10":"earth_spirit_geomagnetic_grip",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_rolling_boulder",
+			"13":"earth_spirit_rolling_boulder",
+			"14":"earth_spirit_boulder_smash",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"earth_spirit_magnetize",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"This is good for smashing enemy heroes into bad places for them.  This ability is very stronk and can be mostly used to hit your stones.",
+				"earth_spirit_rolling_boulder":"This is for rolling in and slowing the enemy heroes.
+REMEMBER this will be cancelled if you are stunned...
+
+Also you can travel further if you roll over one of your stones.
+
+For mid Earth Spirits this can help you escape dirty situations :3",
+				"earth_spirit_geomagnetic_grip":"This is your bread and butter for stuns.
+Stun ladies with your cool rock / hero / creep pulling skills.
+
+This is also good for pulling allies away from a bad situation if you can.",
+				"earth_spirit_stone_caller":"REMEMBER!
+These do NOT provide sight when they are placed.
+
+Make sure you are tossing these bad boys out whenever you are near enemy heroes just to be safe.
+
+Push / pull these to initiate and to pursue and stun.",
+				"earth_spirit_magnetize":"Short timing but very good.  Make sure you throw this out when you have some stones around you and the enemy."
+		}
+	}
+}

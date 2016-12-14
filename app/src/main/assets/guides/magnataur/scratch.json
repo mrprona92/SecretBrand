@@ -1,0 +1,96 @@
+{
+	"Hero":"magnataur",
+	"Title":"Magnus - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"Core":
+			[
+				"arcane_boots",
+				"blink",
+				"tpscroll"
+			],
+			"Caster/Support Build":
+			[
+				"refresher"
+			],
+			"Carry Build":
+			[
+				"mask_of_madness",
+				"greater_crit",
+				"black_king_bar",
+				"assault",
+				"bfury",
+				"ancient_janggo",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Permite a Magnus iniciar teamfights. Combinalo con tu ulti para destrozar equipos enteros.",
+				"stout_shield":"This allows you to reduce the amount of damage you take in the offlane, meaning you can leech xp for much longer.",
+				"bottle":"Te ayuda con los problemas de mana. intenta controlar la runa con un ward de algun support.  Luego te vendra bien para regenerar durante la partida",
+				"tpscroll":"Lleva siempre un tp encima!",
+				"travel_boots":"Get these later in the game once you have managed to fill your inventory and no longer have space for TP Scrolls.",
+				"power_treads":"Get these if you have to transition into more of a carry role, as the attack speed is good for ensuring you keep outputting physical damage. Remember to switch to Intelligence before casting a spell.",
+				"refresher":"Te permite lanzar un combo bestial con dos ultimate. Es demoledor para una teamfight.",
+				"shivas_guard":"This item really alleviates the mana issues associated with Refresher and also gives you some nice tankability, allowing you to take more hits during a fight. The active is fantastic as well."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"magnataur_skewer",
+			"2":"magnataur_shockwave",
+			"3":"magnataur_shockwave",
+			"4":"magnataur_skewer",
+			"5":"magnataur_shockwave",
+			"6":"magnataur_reverse_polarity",
+			"7":"magnataur_shockwave",
+			"8":"magnataur_skewer",
+			"9":"magnataur_skewer",
+			"10":"magnataur_empower",
+			"11":"magnataur_reverse_polarity",
+			"12":"magnataur_empower",
+			"13":"magnataur_empower",
+			"14":"magnataur_empower",
+			"15":"attribute_bonus",
+			"16":"magnataur_reverse_polarity",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"magnataur_shockwave":"Perfecto para ayudarte con los last hits al principio y luego para hacer dmg de area, para rematar a enemigos que escapan, etc. Es un hechizo para usar mucho.",
+				"magnataur_empower":"Puedes usarlo para farmear contigo mismo y luego daselo al carry de tu equipo para mayor potencia.",
+				"magnataur_skewer":"Te permite escapar de ganks y tambien gankear con blink dagger y luego empujando a tus enemigos hacia tu equipo. Muy muy bueno si se usa correctamente.",
+				"magnataur_reverse_polarity":"Una de las mejores habilidades de todo el juego. Inicia teamfights, destroza equipos enteros y permite dar la vuelta a una partida. Salta en medio del equipo rival e intenta coger con tu ulti a cuantos mas mejor."
+		}
+	}
+}

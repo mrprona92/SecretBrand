@@ -1,0 +1,101 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Na`Vi Dendi (Rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_wand",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar",
+				"desolator"
+			],
+			"luxury":
+			[
+				"heart",
+				"manta",
+				"greater_crit",
+				"monkey_king_bar",
+				"sphere",
+				"ancient_janggo",
+				"butterfly",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Используется как для быстрого перемещения, так и взрыва в схватку!",
+				"branches":"Помогает добивать крипов, например если бы вы купили просто бутылку, то у вас бы был урон 42 вам бы было тяжело убивать крипов!",
+				"magic_wand":"Пополняет здоровья во время боя!",
+				"bottle":"Хорошая вещь, если вас ранили то можно включить щит и по лечиться!",
+				"tango":"Покупаем, чтобы легче было фармиться!",
+				"phase_boots":"Если вы хорошо фармитесь, то ботинки помогут уроном, и скоростью бега для блинка.",
+				"heart":"В играх когда ваша живучасть очень нужна полезна!",
+				"black_king_bar":"Eсли в команде врагов слишком много прокастеров или ребят с сильными масс ультами.",
+				"sphere":"очень дорогой арт, но и очень полезный. Решит наши проблемы с регеном хп/мп, даст +15 ко всем атрибутам, а в совокупности с Refraction  увеличит возможность избежать противных скиллов ",
+				"monkey_king_bar":"B полне прилично смотрится на Ланае. Но лично я бы собирал мкб, если в противоположной команде есть   Riki,   Phantom Assassin,   Brewmaster.",
+				"butterfly":"даст хороший прирост к АС, + увороты. С нашим   позволит дольше выжить, ну и быстрее убивать.",
+				"greater_crit":"Криты, если вы собрали их с дезолятором ТО ВРАГАМ НЕ ЖИТЬ!",
+				"manta":"снимаем всякого рода дизейблы, +2 иллюзии, которые изнасилуют цель без брони и под ловушкой.",
+				"satanic":"Можно собрать в место дезоли, но оно нужно там где вы очень много фармите!",
+				"desolator":"Очень крутая вещь, вот садитесь вы в инвиз и критуйте на человеке, ваши -6 брони со скила и -6 с дезоли. чистый урон и не кого мошенечества!",
+				"ancient_janggo":"Барабан хорошо, когда вы находитесь или требуются, чтобы помочь команде действительно рано. Некоторые игры, когда вы просто не можете получить один миг, выбирают для этого, так как накопление легко, и скорость передвижения и танковых поможет вам через командного боя."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_psi_blades",
+			"2":"templar_assassin_refraction",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"Защищает вас от ударов, и нескольих ультов например ульт зевса, дает дополнительный урон.",
+				"templar_assassin_meld":"Падайте в инвиз на неограниченое количество времени, когда бьете из инвиза у врага снижается броня и у вас дополнительный крит.",
+				"templar_assassin_psi_blades":"Делает радиус вашей атаки больше, и пробивает нескольких юнитов.",
+				"templar_assassin_psionic_trap":"Замедляет врага. Можно использовать для просмотра рун, или важных областей."
+		}
+	}
+}

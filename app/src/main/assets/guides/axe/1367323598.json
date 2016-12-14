@@ -1,0 +1,96 @@
+{
+	"Hero":"axe",
+	"Title":"Axe (Jungla) - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"blink",
+				"blade_mail"
+			],
+			"Final de Partida":
+			[
+				"assault",
+				"heart"
+			],
+			"Situacionales":
+			[
+				"urn_of_shadows",
+				"vanguard",
+				"radiance",
+				"pipe",
+				"soul_ring",
+				"shivas_guard",
+				"ultimate_scepter",
+				"arcane_boots",
+				"power_treads"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Salta junto a los enemigos y lanza la Q para que te ataquen y hagas dmg con tu E automaticamente. Si tienes la Blade mail haras sufrir al equipo contrario.",
+				"ring_of_protection":"IMPORTANTE: Como vas a jungla los creeps no aparecen hasta el segundo 30. Espera 5 segundos en base y compra el anillo y ve hacia la jungla.",
+				"tango":"Pide que te den un tango los supports (a ser posible un tango cada uno)",
+				"ultimate_scepter":"Cuando veas que tu ulti esta siendo muy eficaz quizas te interese comprarlo!",
+				"heart":"Si quieres hacer una build muy tanque esto te viene genial. No habra quien te mate.",
+				"blade_mail":"Equipatelo al saltar con blink y despues usa la Q para devolver dmg!",
+				"soul_ring":"Si al principio de la partida gankeas mucho o ves que necesitas mas mana para tu W esto podria ser una opcion valida (pero no es lo normal comprarlo)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_counter_helix",
+			"4":"axe_berserkers_call",
+			"5":"axe_counter_helix",
+			"6":"axe_culling_blade",
+			"7":"axe_counter_helix",
+			"8":"axe_battle_hunger",
+			"9":"axe_berserkers_call",
+			"10":"axe_battle_hunger",
+			"11":"axe_culling_blade",
+			"12":"axe_battle_hunger",
+			"13":"axe_berserkers_call",
+			"14":"axe_berserkers_call",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"axe_berserkers_call":"Hace que todos tus enemigos se mantengan atacandote. Les vas a devolver dmg con la E y si hay mas aliados cerca ellos les atacan mientras. Combinalo con blink dagger para iniciar las batallas.",
+				"axe_battle_hunger":"Lanzalo cuando vayas a gankear desde la jungla para matar a tus enemigos. Avisa de que vas a gankear para que tus aliados esten listos y que no se escapen. Luego mas tarde en la partida usalo para harasear o para los enemigos que intentan escapar.",
+				"axe_counter_helix":"Empezaras a dar vueltas y haras mucho dmg. Es lo que te ayuda a junglear asi que colocate entre los neutrales para usarlo mas!. Cuantos mas golpes recibas mas probabilidad de que se active.",
+				"axe_culling_blade":"Rematas a los enemigos con poca vida! Normalmente despues de blink y Q dejaras a algun enemigo ya listo para rematar directamente con esta habiliad. Pro-tip: puedes matar a los enemigos a los que Dazzle ha protegido con su ulti!!"
+		}
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"Hero":"clinkz",
+	"Title":"6.79 - [AriStar] Clinkz Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"oblivion_staff"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"monkey_king_bar",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"sheepstick",
+				"mjollnir"
+			],
+			"Luxury Items":
+			[
+				"heart",
+				"butterfly",
+				"greater_crit",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tpscroll":"Core on every hero. Do not get caught without a TP Scroll.",
+				"sheepstick":"If the enemy team has more carries than casters consider getting a Sheepstick instead of Orchid. Do not get both Orchid AND Sheepstick.",
+				"orchid":"The mana regen is a great help, and with this you can solo gank enemies that are caught alone. I",
+				"black_king_bar":"If you are being disabled get this before picking up your MKB.",
+				"rapier":"Clinkz is a great Divine Rapier holder, but do not get this if they can perma-stun you to death.",
+				"monkey_king_bar":"The increased damage is amazing, this also helps you take down towers without being on high ground.",
+				"greater_crit":"Your increased attack speed synergises well with Daedlus.",
+				"mjollnir":"If the enemy team is pushing hard using heroes like Natures Prophet, Engima, Broodmother, etc. then pick up a Mjollnir to clear the creep waves.",
+				"ring_of_aquila":"If you are farming exceptionally well then skip this and proceed straight to Orchid."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_wind_walk",
+			"2":"clinkz_searing_arrows",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_strafe",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_wind_walk",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_wind_walk",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_strafe",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"Use this when focusing down an enemy hero or Tower.
+
+Use it after a teamfight has started to get its full use.",
+				"clinkz_searing_arrows":"After Orchid turn this on Auto Cast. ",
+				"clinkz_wind_walk":"Get 1 level early to avoid ganks and escape. Later levels allow you to move at maximum movement speed.",
+				"clinkz_death_pact":"Look for the largest creep (Creep with most HP) in the jungle and eat it. This provides you with a lot of damage and HP. Use it before every gank and before teamfights."
+		}
+	}
+}

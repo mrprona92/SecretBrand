@@ -1,0 +1,80 @@
+{
+	"Hero":"dark_seer",
+	"Title":"The Dark Leecher - best long lane build ©",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"arcane_boots",
+				"ward_observer",
+				"tpscroll",
+				"hood_of_defiance"
+			],
+			"Defensive Luxury":
+			[
+				"pipe",
+				"ghost",
+				"shivas_guard"
+			],
+			"Offensive Luxury":
+			[
+				"ultimate_scepter",
+				"rod_of_atos",
+				"travel_boots",
+				"blink"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_surge",
+			"2":"dark_seer_ion_shell",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_surge",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_vacuum",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_vacuum",
+			"9":"dark_seer_vacuum",
+			"10":"dark_seer_wall_of_replica",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_vacuum",
+			"13":"dark_seer_surge",
+			"14":"dark_seer_surge",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

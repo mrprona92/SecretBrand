@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Grave Chill",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Visage drains the movement and attack speed of the targeted unit, gaining it for itself.",
+        "notes": "The two buffs can be removed separately by purge.<br/>The speed gained is independent of the speed lost on the target.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>MOVE SPEED DRAIN: <b><font color=\"#ffffff\">32%/32%/32%/32%</font></b><br/>ATTACK SPEED DRAIN: <b><font color=\"#ffffff\">64/64/64/64</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16/14/12/10",
+        "lore": "The warmth of the sun is never felt in the dark cold of the Narrow Maze.",
+        "hurl": "Visage",
+        "name": "visage_grave_chill",
+        "youtube":"Wn_IpUEFnOk",
+        "id": 0
+    },
+    {
+        "dname": "Soul Assumption",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Visage damages the targeted unit based on the number of soul charges.  Visage gains a soul charge when damage taken by all heroes around him reaches the damage threshold.",
+        "notes": "Charges are only gained for damage greater than 2 and less than 3000 that is dealt by a player or Roshan.  Self-damage or Soul Assumption damage isn\u0027t counted.<br/>Soul Assumption cannot be disjointed.",
+        "dmg": "",
+        "attrib": "BASE DAMAGE: <b><font color=\"#ffffff\">20</font></b><br/>SOUL DAMAGE: <b><font color=\"#ffffff\">65</font></b><br/>DAMAGE THRESHOLD: <b><font color=\"#ffffff\">110</font></b><br/>MAX SOULS: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>SOUL DURATION: <b><font color=\"#ffffff\">6</font></b><br/>ASSUMPTION RADIUS: <b><font color=\"#ffffff\">1375</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 170/160/150/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 4",
+        "lore": "The collected souls of the dead reach out to bring another into their fold.",
+        "hurl": "Visage",
+        "name": "visage_soul_assumption",
+        "youtube":"NCV_P7rUw-8",
+        "id": 1
+    },
+    {
+        "dname": "Gravekeeper\u0027s Cloak",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Visage generates a layered barrier that protects him from physical and magical attacks.  If he receives damage from a player, one layer is removed, and takes time to recover.",
+        "notes": "Each time Visage receives damage greater than 2 that was not self-inflicted and was from a player owned source, a layer is removed.",
+        "dmg": "",
+        "attrib": "ARMOR PER LAYER: <b><font color=\"#ffffff\">1/2/4/5</font></b><br/>RESIST PER LAYER: <b><font color=\"#ffffff\">3%/6%/12%/16%</font></b><br/>MAX LAYERS: <b><font color=\"#ffffff\">4</font></b><br/>LAYER RECOVERY TIME: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "",
+        "lore": "Visage\u0027s tough scales share equal properties of ghost and stone, making it nearly impervious to blade and magical assault.",
+        "hurl": "Visage",
+        "name": "visage_gravekeepers_cloak",
+        "youtube":"jAG74Ac-Z4o",
+        "id": 2
+    },
+    {
+        "dname": "Summon Familiars",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Conjures up two blind Familiars to fight for Visage.  Familiars have high attack power, but each attack drains a charge of damage that recharges slowly over time.  Familiars possess the Stone Form ability, that allows them to turn into stone, stunning enemies upon landing.  While in Stone Form, Familiars are invulnerable, and rapidly regenerate their health and damage.  Familiars grant high bounty when killed.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Casting Summon Familiars will replace any existing Familiars.<br/>Each Familiar starts with 7 damage charges. Familiars are Spell Immune.",
+        "dmg": "",
+        "attrib": "FAMILIAR ATTACKS TO DESTROY: <b><font color=\"#ffffff\">3</font></b><br/>FAMILIAR ARMOR: <b><font color=\"#ffffff\">0/1/2</font></b><br/>FAMILIAR SPEED: <b><font color=\"#ffffff\">380/390/400</font></b><br/>FAMILIAR MAX DAMAGE: <b><font color=\"#ffffff\">56/98/154</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/150/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 180/160/140",
+        "lore": "Guardians of the Narrow Maze, Necro\u0027lic\u0027s Familiars stand watch over his domain.",
+        "hurl": "Visage",
+        "name": "visage_summon_familiars",
+        "youtube":"_wBf8zfMfFc",
+        "id": 3
+    }
+]

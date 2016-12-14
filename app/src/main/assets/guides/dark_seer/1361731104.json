@@ -1,0 +1,101 @@
+{
+	"Hero":"dark_seer",
+	"Title":"6.82 - Standard Dark Seer (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"soul_ring",
+				"boots",
+				"mekansm"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"ghost",
+				"pipe"
+			],
+			"Extension Items":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 10/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sobi_mask":"Get the recipe for Soul Ring as the rest of the items can be bought at the side shop.",
+				"mekansm":"Since you can farm fairly fast and Dark Seer doesn't need any items, you are ideal to pick up Mekansm, especially when you will be in the fight initiating.",
+				"ultimate_scepter":"Improves your ultimate ability and initiation with Aghanim's Scepter as foes are coupled into the Wall of Replica receiving an immense amount of damage.",
+				"shivas_guard":"Shiva's Guard offers you additional physical protection from attacks while also giving you a major slow that works well with your vacuum.",
+				"soul_ring":"Soul Ring let's you spam your Ion Shell without being directly put in danger and amass the gold you need to snag Mekansm.",
+				"ancient_janggo":"Drums of Endurance if you need more survivability and find yourself getting picked off a lot of times. Offers great buffs for your allies as well."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_ion_shell",
+			"2":"dark_seer_surge",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_surge",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_vacuum",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_vacuum",
+			"9":"dark_seer_vacuum",
+			"10":"dark_seer_wall_of_replica",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_vacuum",
+			"13":"dark_seer_surge",
+			"14":"dark_seer_surge",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dark_seer_vacuum":"This is your greatest ability in team-fights. Be sure to use this after using your Wall of Replica to deal as many damage and replicas as possible.",
+				"dark_seer_ion_shell":"Ion Shell is how you control the lane, farm, and deal huge damage in team-fights as well. Be sure to cast this on physical carries either on the enemy team or your own (it always affects enemies, never your team).",
+				"dark_seer_surge":"You only want two levels in Surge for the escape. We are setting up Vacuum with your ultimate at level 10-11.",
+				"dark_seer_wall_of_replica":"This is your ultimate and it is pretty powerful too. Open this up in the middle of the team-fight and then follow-up with Vacuum. This one of the best current initiations in the game."
+		}
+	}
+}

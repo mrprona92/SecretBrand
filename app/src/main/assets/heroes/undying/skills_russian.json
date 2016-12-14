@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Decay",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Undying истощает силы вражеских героев в указанной области, нанося им урон и временно отнимая у них силу.",
+        "notes": "Украденная сила складывается, но сила цели не может опуститься ниже 1.<br/>Кража силы происходит до нанесения урона.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">20/60/100/140</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">325</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">40</font></b><br/>ПОХИЩЕНИЕ СИЛЫ: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/90/110/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10/8/6/4",
+        "lore": "Силы живых просто заимствованы у сил мертвых.",
+        "hurl": "Undying",
+        "name": "undying_decay",
+        "youtube":"oiPPDIIyLF4",
+        "id": 0
+    },
+    {
+        "dname": "Soul Rip",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Перенаправляет потоки энергии через вражеских и союзных героев, нанося им урон или излечивая соответственно. Урон и лечение зависят от количества существ рядом с Undying. Каждое засчитанное существо также теряет часть здоровья.",
+        "notes": "Может лечить Tombstone, но не действует на другие постройки.",
+        "dmg": "",
+        "attrib": "УРОН/ЛЕЧЕНИЕ ЗА СУЩЕСТВО: <b><font color=\"#ffffff\">18/22/26/30</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">1300</font></b><br/>МАКСИМУМ ЦЕЛЕЙ: <b><font color=\"#ffffff\">10/12/14/16</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/110/120/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 24/18/12/6",
+        "lore": "Даже союзные Undying герои чувствуют отчаяние при его присутствии.",
+        "hurl": "Undying",
+        "name": "undying_soul_rip",
+        "youtube":"8NDBna9Mi1E",
+        "id": 1
+    },
+    {
+        "dname": "Tombstone",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Призывает надгробный камень в указанной точке. Периодически он призывает зомби рядом с каждым врагом в определенной области вокруг себя. Зомби обладают способностью Deathlust, которая замедляет их цели при атаках, а также, если здоровье цели падает ниже определенного уровня, способность увеличивает скорость атаки и передвижения зомби.",
+        "notes": "Надгробный камень невосприимчив к заклинаниям, но на него действует способность Soul Rip.<br/>Зомби и надгробный камень невосприимчивы к заклинаниям.<br/>Если цель зомби погибла или вышла из зоны видимости, зомби умирает.",
+        "dmg": "",
+        "attrib": "ЗДОРОВЬЕ TOMBSTONE: <b><font color=\"#ffffff\">175/350/525/700</font></b><br/>ВРЕМЯ ДЕЙСТВИЯ НАДГРОБИЯ: <b><font color=\"#ffffff\">15/20/25/30</font></b><br/>РАДИУС ПОЯВЛЕНИЯ ЗОМБИ: <b><font color=\"#ffffff\">600/800/1000/1200</font></b><br/>ГРАНИЦА ЗДОРОВЬЯ ДЛЯ УСИЛЕНИЯ ЗОМБИ: <b><font color=\"#ffffff\">100/200/300/400</font></b><br/>ГРАНИЦА ЗДОРОВЬЯ ДЛЯ УСИЛЕНИЯ ЗОМБИ: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>ИНТЕРВАЛ ПОЯВЛЕНИЯ ЗОМБИ: <b><font color=\"#ffffff\">3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/130/140/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60",
+        "lore": "Дердж взывает к падшим братьям и направляет их в бой во имя Мертвого Короля.",
+        "hurl": "Undying",
+        "name": "undying_tombstone",
+        "youtube":"hb931I8cwiM",
+        "id": 2
+    },
+    {
+        "dname": "Flesh Golem",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Undying превращается в ужасающего голема из плоти, излучающего чумную ауру. Эта аура замедляет всех врагов в радиусе 750 и увеличивает урон, который они получают: чем ближе враг к Undying, тем сильнее урон и замедление. Когда зараженное чумой существо умирает, Undying исцеляется на процент от максимального здоровья жертвы.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Вы получаете лечение независимо от того, кто убил противника в зоне действия заклинания.<br/>Смерть иллюзии вас не исцелит.<br/>Чумная аура игнорирует невосприимчивость к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">30</font></b><br/>МАКСИМАЛЬНОЕ УВЕЛИЧЕНИЕ УРОНА: <b><font color=\"#ffffff\">20%/25%/30%</font></b><br/>МИНИМАЛЬНОЕ УВЕЛИЧЕНИЕ УРОНА: <b><font color=\"#ffffff\">1%</font></b><br/>МАКС. ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%</font></b><br/>МИН. ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">1%</font></b><br/>ЛЕЧЕНИЕ ЗА УМЕРШЕГО ГЕРОЯ: <b><font color=\"#ffffff\">6%</font></b><br/>ЛЕЧЕНИЕ ЗА УМЕРШЕГО КРИПА: <b><font color=\"#ffffff\">2%</font></b><br/><font color=\"#6fe871\">МАКСИМАЛЬНОЕ УВЕЛИЧЕНИЕ УРОНА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">30%/35%/40%</font></b><br/><font color=\"#6fe871\">МИНИМАЛЬНОЕ УВЕЛИЧЕНИЕ УРОНА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">1%</font></b><br/><font color=\"#6fe871\">ЛЕЧЕНИЕ ЗА УМЕРШЕГО ГЕРОЯ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">10%</font></b><br/><font color=\"#6fe871\">ЛЕЧЕНИЕ ЗА УМЕРШЕГО КРИПА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">3%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 75",
+        "lore": "Плоть свежих мертвецов усиливает чуму Дерджа.",
+        "hurl": "Undying",
+        "name": "undying_flesh_golem",
+        "youtube":"pfTqhK3DWsc",
+        "id": 3
+    }
+]

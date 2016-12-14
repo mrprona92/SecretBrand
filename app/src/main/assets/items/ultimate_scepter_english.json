@@ -1,0 +1,21 @@
+{
+  "dotaId": "ultimate_scepter",
+  "attrib": "+ 10 All Attributes<br/>+ 200 Health<br/>+ 150 Mana",
+  "cd": false,
+  "components": [
+    "point_booster",
+    "staff_of_wizardry",
+    "ogre_axe",
+    "blade_of_alacrity"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Passive: Ultimate Upgrade - Upgrades the ultimates of certain heroes.",
+  "dname": "Aghanim\u0027s Scepter",
+  "mc": false,
+  "img": "ultimate_scepter_lg.png",
+  "lore": "The scepter of a wizard with demigod-like powers.",
+  "id": 108,
+  "created": true,
+  "cost": 4200
+}

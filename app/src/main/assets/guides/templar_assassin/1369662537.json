@@ -1,0 +1,73 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Dendi mode(rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Всё в этом порядке, блинк для про":
+			[
+				"bottle",
+				"magic_wand",
+				"phase_boots",
+				"blink"
+			],
+			"бкб или дезоль по ситуации":
+			[
+				"desolator",
+				"greater_crit",
+				"heart",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"butterfly",
+				"medallion_of_courage",
+				"yasha"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_psi_blades",
+			"2":"templar_assassin_refraction",
+			"3":"templar_assassin_meld",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_meld",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_meld",
+			"8":"templar_assassin_refraction",
+			"9":"templar_assassin_refraction",
+			"10":"templar_assassin_refraction",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

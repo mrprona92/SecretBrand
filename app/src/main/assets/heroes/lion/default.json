@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_lion",
+	"Title":"Recommended items for Lion",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"gauntlets",
+			"branches",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"tranquil_boots",
+			"mekansm",
+			"ward_observer",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"blink",
+			"travel_boots",
+			"sheepstick",
+			"dagon",
+			"ultimate_scepter",
+			"flying_courier"
+		]
+	}
+}

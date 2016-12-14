@@ -1,0 +1,104 @@
+{
+	"Hero":"antimage",
+	"Title":"Anit-mage hard carry (русский гайд)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"stout_shield"
+			],
+			"5-20 минута":
+			[
+				"poor_mans_shield",
+				"power_treads",
+				"bfury"
+			],
+			"20-35 минута":
+			[
+				"power_treads",
+				"bfury",
+				"manta",
+				"basher"
+			],
+			"конечная сборка":
+			[
+				"power_treads",
+				"bfury",
+				"manta",
+				"abyssal_blade",
+				"heart",
+				"butterfly"
+			],
+			"альтернативный конец":
+			[
+				"travel_boots",
+				"greater_crit",
+				"manta",
+				"abyssal_blade",
+				"butterfly",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"отличный вариант в лейте",
+				"power_treads":"самый оптимальный сапог для анти-мага",
+				"poor_mans_shield":"немного ловкости для изи фарма и защита",
+				"heart":"я толстый толстый",
+				"black_king_bar":"нас не контролят, мы вырезаем",
+				"butterfly":"увороты, атак спид, дамаг, пожалуй самый лучший итем для любого ловкача керри",
+				"greater_crit":"1к крит? легко!",
+				"basher":"баш? дааа",
+				"bfury":"БФ нужен нам для фарма",
+				"manta":"выжигаем ману за здрасте, прыгаем-абисл-манта и собствено ульт, мало кто выдержит столько дамага",
+				"abyssal_blade":"стан на 2 секунды очень полезен в лейте"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_blink",
+			"2":"antimage_mana_break",
+			"3":"antimage_blink",
+			"4":"antimage_mana_break",
+			"5":"antimage_blink",
+			"6":"antimage_mana_void",
+			"7":"antimage_mana_break",
+			"8":"antimage_blink",
+			"9":"antimage_mana_break",
+			"10":"antimage_spell_shield",
+			"11":"antimage_mana_void",
+			"12":"antimage_spell_shield",
+			"13":"antimage_spell_shield",
+			"14":"antimage_spell_shield",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"antimage_mana_break":"встроеные дифузы, не плохо правда?",
+				"antimage_blink":"всегда качаем блинк в начале, дабы избежать возможного ганга в начале игры.",
+				"antimage_spell_shield":"50% маг резиста, маги чамают вашу балыську",
+				"antimage_mana_void":"желательо испльзовать ульт в тот момент когда у врага нету маны, и он стоит кучно со своими союзниками"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Wraithfire Blast",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Wraith King sears an enemy unit with spectral fire, dealing damage and stunning, then dealing damage over time and slowing the target.",
+        "notes": "Deals 80/160/230/300 total damage.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">50/100/150/200</font></b>",
+        "attrib": "STUN DURATION: <b><font color=\"#ffffff\">2</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">2</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">20%</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">15/30/40/50</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "Ostarion calls on his damned lineage, laying waste to his opponents.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_hellfire_blast",
+        "youtube":"cjBrHQKjxm4",
+        "id": 0
+    },
+    {
+        "dname": "Vampiric Aura",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allies</font></b>",
+        "desc": "Nearby friendly units gain hit points based on their damage dealt when attacking enemy units.",
+        "notes": "Stacks additively with other sources of Lifesteal.",
+        "dmg": "",
+        "attrib": "LIFESTEAL: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b>",
+        "cmb": "",
+        "lore": "Wraith King\u0027s blade drains his enemy\u0027s essence to feed his aura.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_vampiric_aura",
+        "youtube":"0ZD6iTDTjcQ",
+        "id": 1
+    },
+    {
+        "dname": "Mortal Strike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b>",
+        "desc": "Wraith King passively gains a chance to deal bonus damage on an attack.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "CRITICAL DAMAGE: <b><font color=\"#ffffff\">150%/200%/250%/300%</font></b><br/>CRITICAL CHANCE: <b><font color=\"#ffffff\">15%</font></b>",
+        "cmb": "",
+        "lore": "One blow to crush a foe.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_mortal_strike",
+        "youtube":"UMPnfE_N0YI",
+        "id": 2
+    },
+    {
+        "dname": "Reincarnation",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Wraith King\u0027s form regroups after death, allowing him to resurrect when killed in battle.  Upon death, enemy units in a 900 radius will be slowed.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Wraith King won\u0027t revive if he doesn\u0027t have enough mana.<br/>If Wraith King has an Aegis and Reincarnation off cooldown, Reincarnation will trigger first.<br/>Revives with full HP and Mana.<br/>Credit for allies whose death was delayed will go to whoever struck the original killing blow.<br/>Wraith Delay not affect Techies\u0027 Suicide Squad, Attack ability.<br/>Wraith Delay affects Wraith King\u0027s actual deaths, not Reincarnate deaths.",
+        "dmg": "",
+        "attrib": "REINCARNATION TIME: <b><font color=\"#ffffff\">3/3/3</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">75%</font></b><br/>ATTACK SPEED SLOW: <b><font color=\"#ffffff\">75</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">5</font></b><br/>SCEPTER ALLY DEATH DELAY: <b><font color=\"#ffffff\">5</font></b><br/><font color=\"#6fe871\">SCEPTER DEATH DELAY RADIUS:</font></b> <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 260/160/60",
+        "lore": "Conspirators against the Wraith King wonder why he never stays dead.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_reincarnation",
+        "youtube":"3yGidbPrewk",
+        "id": 3
+    }
+]

@@ -1,0 +1,86 @@
+{
+	"Hero":"lina",
+	"Title":"Lina super killer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"clarity",
+				"clarity",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"magic_wand",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"dagon"
+			],
+			"Final sbor!":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"ethereal_blade",
+				"shivas_guard",
+				"dagon",
+				"sphere"
+			],
+			"Big damage!":
+			[
+				"greater_crit",
+				"mask_of_madness",
+				"mjollnir",
+				"skadi",
+				"desolator",
+				"ethereal_blade"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_fiery_soul",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_light_strike_array",
+			"10":"lina_fiery_soul",
+			"11":"lina_laguna_blade",
+			"12":"lina_light_strike_array",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

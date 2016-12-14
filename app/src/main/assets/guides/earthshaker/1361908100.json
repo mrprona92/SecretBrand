@@ -1,0 +1,96 @@
+{
+	"Hero":"earthshaker",
+	"Title":"SHAKE IT, BITCH",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"Starting Items 2":
+			[
+				"courier",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand"
+			],
+			"Core Mid + Late Game Items":
+			[
+				"blink",
+				"ultimate_scepter",
+				"veil_of_discord",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Key item to initiate with.",
+				"ward_observer":"Earthshaker is a semi support / ganking hero. So you should start off with wards or a courier.",
+				"courier":"Earthshaker is a semi support / ganking hero. So you should start off with wards or a courier.",
+				"ultimate_scepter":"Increase Echo Slam damage. Bonus stats and Health pool and Mana pool.",
+				"shivas_guard":"Extra armor, extra Intelligence, bonus nuke and an amazing aura.",
+				"arcane_boots":"Key item on Earthshaker. It will solve your mana pool + mana regen problems.",
+				"veil_of_discord":"Great extra armor, HP regen and Int points. But the effect is what makes this item great. 25% extra magic damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_enchant_totem",
+			"4":"earthshaker_aftershock",
+			"5":"earthshaker_aftershock",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_aftershock",
+			"8":"earthshaker_fissure",
+			"9":"earthshaker_fissure",
+			"10":"earthshaker_fissure",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Maxing Fissure in the early game stage is abit pointless. You dont have the mana pool to perform more than one stun. One level is enough. The stun duration doesnt increase with alot. Great for blocking paths and blocking an enemy.",
+				"earthshaker_enchant_totem":"Great in early game stage combined with Aftershock. Dont underestimate this spell. ",
+				"earthshaker_aftershock":"Good spell to increase the damage of your 3 spells.",
+				"earthshaker_echo_slam":"Team fight winner."
+		}
+	}
+}

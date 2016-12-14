@@ -1,0 +1,85 @@
+{
+	"Hero":"invoker",
+	"Title":"Grimorum: v6.82b- Day Stalker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"tango",
+				"blades_of_attack"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"tpscroll",
+				"urn_of_shadows"
+			],
+			"Mid Game: Ghost walk Gank":
+			[
+				"orchid"
+			],
+			"Late Game: ":
+			[
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Situational":
+			[
+				"ancient_janggo",
+				"sphere",
+				"force_staff",
+				"shivas_guard",
+				"cyclone",
+				"desolator",
+				"maelstrom",
+				"black_king_bar",
+				"refresher",
+				"blink",
+				"magic_wand"
+			]
+		},
+		"ItemTooltips":
+		{
+				"urn_of_shadows":"Urn Charge Triggers Cold Snap multiple times!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_quas",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_wex",
+			"5":"invoker_quas",
+			"6":"invoker_wex",
+			"7":"invoker_wex",
+			"8":"invoker_wex",
+			"9":"invoker_wex",
+			"10":"invoker_quas",
+			"11":"invoker_wex",
+			"12":"invoker_exort",
+			"13":"invoker_wex",
+			"14":"invoker_invoke",
+			"15":"invoker_quas",
+			"16":"invoker_invoke",
+			"17":"invoker_invoke",
+			"18":"invoker_quas",
+			"19":"invoker_quas",
+			"20":"invoker_exort",
+			"21":"invoker_exort",
+			"22":"invoker_exort",
+			"23":"invoker_exort",
+			"24":"invoker_exort",
+			"25":"invoker_exort"
+		}
+	}
+}

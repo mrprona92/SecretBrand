@@ -1,0 +1,142 @@
+<resources>
+    <declare-styleable name="FlowLayout">
+        <attr name="horizontalSpacing" format="dimension" />
+        <attr name="verticalSpacing" format="dimension" />
+        <attr name="orientation" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="debugDraw" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams">
+        <attr name="layout_newLine" format="boolean" />
+        <attr name="layout_horizontalSpacing" format="dimension" />
+        <attr name="layout_verticalSpacing" format="dimension" />
+    </declare-styleable>
+    <attr name="clickableItemBackground" format="reference" />
+
+
+    <declare-styleable name="SCSuffixTextView">
+        <attr name="ratio" format="float"/>
+        <attr name="suffix_length" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="RoundedImageView">
+        <attr name="border" format="boolean"/>
+        <attr name="border_width" format="dimension"/>
+        <attr name="border_color" format="color"/>
+        <attr name="border_alpha" format="integer"/>
+        <attr name="image_margin_left" format="dimension"/>
+        <attr name="shadow" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="SCTabLayout">
+        <attr name="tabMarginLeft" format="dimension" />
+        <attr name="tabMarginRight" format="dimension" />
+        <attr name="tabSpacing" format="dimension" />
+        <attr name="tabHeight" format="dimension" />
+        <attr name="tabIndicatorHeight" format="dimension" />
+        <attr name="tabTextColor" format="color" />
+        <attr name="tabTextActiveColor" format="color" />
+        <attr name="tabActiveColor" format="color" />
+        <attr name="tabNormalColor" format="color" />
+        <attr name="tabTextSize" format="dimension" />
+        <attr name="tabSelectIndex" format="integer" />
+        <attr name="tabItems" format="reference" />
+        <attr name="hasBadge" format="boolean" />
+
+    </declare-styleable>
+
+    <declare-styleable name="SCSegment">
+        <attr name="textOn" format="string" />
+        <attr name="textOff" format="string" />
+        <attr name="segmentHeight" format="dimension" />
+        <attr name="segmentTextSize" format="dimension" />
+        <attr name="isSelected" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="SCSettingRow">
+        <attr name="textColor" format="color" />
+        <attr name="text" format="string" />
+        <attr name="isChecked" format="boolean" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="SCRangeSeekBarRow">
+        <attr name="minValue" format="integer" />
+        <attr name="maxValue" format="integer" />
+        <attr name="titleText" format="string" />
+        <attr name="possibleMinValues" format="reference" />
+        <attr name="possibleMaxValues" format="reference" />
+    </declare-styleable>
+
+    <color name="rippleColor">#ffff</color>
+
+    <declare-styleable name="RippleView">
+        <attr name="rv_alpha" format="integer" />
+        <attr name="rv_framerate" format="integer" />
+        <attr name="rv_rippleDuration" format="integer" />
+        <attr name="rv_zoomDuration" format="integer" />
+        <attr name="rv_color" format="color" />
+        <attr name="rv_centered" format="boolean" />
+        <attr name="rv_type" format="enum">
+            <enum name="simpleRipple" value="0" />
+            <enum name="doubleRipple" value="1" />
+            <enum name="rectangle" value="2" />
+        </attr>
+        <attr name="rv_ripplePadding" format="dimension" />
+        <attr name="rv_zoom" format="boolean" />
+        <attr name="rv_zoomScale" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="SCRangeSeekBar">
+        <!-- the minimum of the range -->
+        <attr name="absoluteMinValue" format="integer|float"/>
+
+        <!-- the maximum of the range -->
+        <attr name="absoluteMaxValue" format="integer|float"/>
+
+        <!-- show a single slider -->
+        <attr name="singleThumb" format="boolean"/>
+
+        <!-- show the labels on the right and left-->
+        <attr name="showLabels" format="boolean"/>
+
+        <!-- alwaysActive will make the buttons and bar always draw as the activeColor (the default is false) -->
+        <attr name="alwaysActive" format="boolean"/>
+
+        <!-- show the currently selected value above each thumb (defaults to true) -->
+        <attr name="valuesAboveThumbs" format="boolean"/>
+
+        <!-- padding on either side on the slider -->
+        <attr name="internalPadding" format="dimension"/>
+
+        <!-- the height of the bar -->
+        <attr name="barHeight" format="dimension"/>
+
+        <!-- the color of the bar that is not selected -->
+        <attr name="defaultColor" format="color"/>
+
+        <!-- the color of the bar that is selected -->
+        <attr name="activeColor" format="color"/>
+
+        <!-- the color of the text above thumbs -->
+        <attr name="textAboveThumbsColor" format="color"/>
+
+        <!-- set drawables for thumb handles -->
+        <attr name="thumbNormal" format="reference"/>
+        <attr name="thumbPressed" format="reference"/>
+        <attr name="thumbDisabled" format="reference"/>
+
+        <!-- thumb shadow specifications -->
+        <attr name="thumbShadow" format="boolean"/>
+        <attr name="thumbShadowColor" format="color"/>
+        <attr name="thumbShadowXOffset" format="dimension"/>
+        <attr name="thumbShadowYOffset" format="dimension"/>
+        <attr name="thumbShadowBlur" format="dimension"/>
+
+        <!-- to activate the thumbs and texts when the min and max values are the default ones (defaults to false) -->
+        <attr name="activateOnDefaultValues" format="boolean"/>
+    </declare-styleable>
+
+</resources>

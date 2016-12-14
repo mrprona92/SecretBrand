@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_about">О приложении</string>
+
+
+    <string name="base_rate_app">Оценить приложение</string>
+    <string name="base_rate_app_name">Оцените {0}</string>
+    <string name="base_rate_message">Если Вам нравится приложение {0}, пожалуйста, оцените его.\n
+        Спасибо за Вашу поддержку!</string>
+    <string name="base_rate">Оценить</string>
+    <string name="base_no_thanks">Нет, спасибо</string>
+</resources>

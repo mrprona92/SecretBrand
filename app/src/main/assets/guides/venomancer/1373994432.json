@@ -1,0 +1,136 @@
+{
+	"Hero":"venomancer",
+	"Title":"Purge's Guide to Support Veno",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"clarity",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_stick",
+				"branches",
+				"tpscroll",
+				"ward_observer",
+				"ring_of_regen",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"mekansm",
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"force_staff",
+				"ghost",
+				"gem",
+				"urn_of_shadows",
+				"veil_of_discord",
+				"pipe",
+				"ancient_janggo",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger can be used for positioning your ultimate, but I'd generally rather grab a force staff or a tank item instead, but keep in mind it's here if you're doing really well and want a late game blink for positioning!",
+				"branches":"1 iron wood branch provides 1 damage, 19 hp, 13 mana, and a little armor and attack speed, which could make the difference in having enough mana, or surviving some burst damage.",
+				"ring_of_regen":"Ring of Regen can be purchased from the side shop to give you a little hp regen. It can later be built into a Headdress of Rejuvination, which is one of the parts of Mekanism.",
+				"gem":"If your team needs a gem of truesight and you aren't about to finish an important core item like mek or aghanihms, then it's your job as a support to purchase the item.",
+				"magic_stick":"Magic stick is a very nice item on supports because it can afford you precious mana and hp that might give you enough to gale or survive a gank. This later builds into a magic wand. Make sure you purchase this from the side shop instead of having the courier fly it to you!",
+				"magic_wand":"Magic Wand should always be purchased on support heroes because it's extremely cost effecient +hp and mana burst. For example, if you have 3 wand charges, it provides more hp than a bracer, and at a cheaper cost!",
+				"ghost":"Ghost scepter is sometimes a necessary item to try to stay alive longer in teamfights. If the enemy has a hero that can dive on you, buying yourself a couple seconds can often make the difference between him killing 1 or 2 supports in a teamfight, so trying to stay alive is greatly recommended.",
+				"clarity":"Clarity potions are absolutely essential for Venomancer now that Gale was nerfed to cost 125 mana at all levels instead of 90 at level 1. If you run out of mana, you are not a useful hero in the lane.",
+				"flask":"Salve will help you trade hits with the offlane or lane opponent so that you can stay in lane longer and continue to get exp.",
+				"ward_observer":"Your mid hero will have a much better chance of winning the mid lane if you have ward vision on rune spots, and you will be better able to see ganks coming from the mid lane.",
+				"ward_sentry":"As a support, it's your job to purchase Sentry Wards and Dust of Appearance if your opponents have invis heroes.
+
+If the enemy team has a Rikimaru, Bounty Hunter, or Nyx Assassin, you need to purchase and place sentry wards!",
+				"tango":"Tango's are nice because they can help you keep your hp total at maximum and prevent your opponents from bursting you down while you are missing some hp.",
+				"courier":"Every team should have an Animal Courier, and as a support hero, you are responsible for purchasing it!",
+				"tpscroll":"Tp scrolls should be held the entire game as a support hero because it allows you to help cover and defend your allies when they are dived under towers.
+
+They can also be used to tp away from an enemy hero that would kill you, if that enemy doesn't have a stun.",
+				"mekansm":"Mekanism is a great Veno item because it allows you(with Arcane boots) to have a lot of survivability! You can also farm this okay using your plague wards in the jungle if you're having a hard time in lane, and it all around makes you a very strong teamfight hero.",
+				"pipe":"Pipe can be gotten on Venomancer if another hero on your team already built Mek, but I wouldn't recommend picking this up unless your team REALLY needs a pipe and no one else has the money to do so.",
+				"urn_of_shadows":"Urn is a great item on any support hero because of the mana regen, bonus hp, and offensive/defensive potential that the urn charges provide.
+
+You can sometimes get by with just treads and urn instead of Arcane boots if you are good with treads switching!",
+				"force_staff":"Force staff is always a useful support item because it allows you to save allies and get yourself into position for a good ultimate. The extra int and hp regen isn't that bad either.",
+				"ultimate_scepter":"If you're a really rich Venomancer, I greatly recommend purchasing an Aghanihms Scepter because it drastically increases the damage that your ultimate does, and also gives you a lot of survivability.
+
+I will always get mek before Aghanihms though.",
+				"arcane_boots":"Arcane boots are always my go to boot choice on venomancer because they supply him enough mana to continue to spam wards, gale, and eventually ulti. I purchase arcane boots pretty fast if I'm doing well.
+
+If you're really behind you can get stat items and level stats for mana.",
+				"ancient_janggo":"Drum of Endurance can be built up from a bracer if you're having a kinda crappy game, but as a veno I'd rather build for utility items rather than grab some + stats like this.",
+				"veil_of_discord":"Veil is a really nice item with Venomancer because all of your damage is magic. You also don't have to worry too much about when you apply it, since your damage is damage over time, so applying it a second after your nukes is good enough.
+
+The +armor, +regen, and +int are all great!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_venomous_gale",
+			"4":"venomancer_poison_sting",
+			"5":"venomancer_venomous_gale",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_venomous_gale",
+			"8":"venomancer_plague_ward",
+			"9":"venomancer_plague_ward",
+			"10":"venomancer_plague_ward",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_plague_ward",
+			"13":"venomancer_poison_sting",
+			"14":"venomancer_poison_sting",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"Veno's skill build can go many ways, but recently Gale was buffed to do a whopping 550 damage at level 4, so this build might be the best now if you want to gank and teamfight. Keep in mind the damage is stopped by BkB, even if you land gale before the BkB.",
+				"venomancer_poison_sting":"Poison sting is best picked up at level 2. If you have easy harass against an enemy solo hero, I recommend getting a 2nd level at level 3 because it almost triples the skill's effectiveness.
+
+It does an amazing amount of poison damage at level 4, but finish leveling this skill last.",
+				"venomancer_plague_ward":"Plague Wards is a very useful skill that can be used for pushing towers, defending pushes, scouting high ground, and blocking juke paths! You should max this skill by 7 if you want to push, or defend pushes early.
+
+Make sure you don't feed the wards, because they give significant exp.",
+				"venomancer_poison_nova":"Veno's ulti should be skilled when you feel that you have enough mana to support it. Some games I won't pick up the skill until level 8, as you need a full mana pool to do the full gale+Ulti combo, so if I'm rich enough to buy Arcane boots I will take the ability immediately.",
+				"attribute_bonus":"Stats are useful for Venomancer because he only has soft disables and has to be worried about getting killed. Maxing out Poison Sting later is kind of okay, but I'll generally prefer to go for stats instead."
+		}
+	}
+}

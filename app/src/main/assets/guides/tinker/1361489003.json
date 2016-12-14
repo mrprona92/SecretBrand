@@ -1,0 +1,97 @@
+{
+	"Hero":"tinker",
+	"Title":"Tinker Solo Mid Into Global Roaming",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"bottle",
+				"soul_ring",
+				"travel_boots",
+				"sheepstick",
+				"blink"
+			],
+			"Ganking Items":
+			[
+				"dagon",
+				"ethereal_blade"
+			],
+			"Pushing Items":
+			[
+				"manta",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The dagger is a worthy alternative to a force staff so this is left up to personal preference.",
+				"gem":"If there are heroes using invisibility to push lanes and escape simply TP in with a gem and kill them while you have surprise on your side.",
+				"bottle":"You really want a bottle ASAP so you can zone out your lane opponent with laser+missile. You will need a lot of runes to have the mana to get kills early.",
+				"travel_boots":"There is no other boot upgrade on Tinker, Rearm will refresh the cooldown so that you can push/gank, TP back to base, regen and rearm and then jump back to lane in ~10 seconds.",
+				"sheepstick":"Scythe is great for ganks and during teamfights you can spam it in conjunction with Rearm.",
+				"force_staff":"This great for that extra mobility to get or escape from kills.",
+				"dagon":"Dagon is useful early to add power to the Laser/Missile combo.",
+				"shivas_guard":"Shiva's is a awesome item for pushing and team fights.",
+				"manta":"Manta can be used continuously to push and purge yourself.",
+				"ethereal_blade":"Tinker is a squishy hero who doesn't rely on right clicks to do damage so Eth-Blade is an awesome item. Use it on the enemy carry and combo him to death.",
+				"soul_ring":"Personal preference as weather to get this or BoTs first. Personally I just get the Travels straight away."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_heat_seeking_missile",
+			"3":"tinker_laser",
+			"4":"tinker_heat_seeking_missile",
+			"5":"tinker_laser",
+			"6":"tinker_heat_seeking_missile",
+			"7":"tinker_laser",
+			"8":"tinker_heat_seeking_missile",
+			"9":"tinker_march_of_the_machines",
+			"10":"tinker_rearm",
+			"11":"tinker_march_of_the_machines",
+			"12":"tinker_march_of_the_machines",
+			"13":"tinker_march_of_the_machines",
+			"14":"tinker_rearm",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"tinker_rearm",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"Use this with Missile to get early kills in the lanes. Does Pure damage so is very powerful.",
+				"tinker_heat_seeking_missile":"Use this with Laser to get early kills in the lanes. Cast this after Laser because the range is huge.",
+				"tinker_march_of_the_machines":"One of the best pushing skills in the game. TP to creeps, March, Rearm and cast march until you run out of mana and then TP back.",
+				"tinker_rearm":"The time you take Rearm is very item dependant. Get lvl 1 just before or as soon as possible after getting BoTs and gank and push globally with them. I usually get lvl 2 when I have ~1000 mana and take lvl 3 when I have ~1500 mana. Remember that Rearm will refresh most item cooldowns too."
+		}
+	}
+}

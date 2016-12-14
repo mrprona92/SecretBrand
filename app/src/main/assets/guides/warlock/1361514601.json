@@ -1,0 +1,123 @@
+{
+	"Hero":"warlock",
+	"Title":"Update 6.82 Best Fiends Forever- Warlock Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"ring_of_basilius",
+				"boots",
+				"bracer",
+				"magic_stick",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"mekansm",
+				"magic_stick",
+				"ring_of_basilius",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"urn_of_shadows",
+				"ghost",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"Buy These For Pro Team":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Get hurt less. Squishy evil man doesn't like being punched.",
+				"branches":"GG Branch.",
+				"boots":"Old men move slow. This alleviates that. It says so right in the description. SPEED.",
+				"gem":"Tired of buying Wards and Dusts? Are you too cool for school and know how to stay alive? Buy this and watch your enemies gawk like slack-jawed yokels as you become a walking Sentry Ward, dewarding everything and revealing their invisibility. Their tears will be delicious, guaranteed.",
+				"magic_stick":"A magic stick to keep you alive to shoot things out of your magic stick.",
+				"magic_wand":"You have a staff, may as well have a wand too so you can keep swinging it.",
+				"ghost":"Old men can't take their punches, become a ghost and alleviate that. Be careful against high Magic Damage though, ghosts don't like magicians. It's a thing look it up.",
+				"flask":"Drink up and stay alive.",
+				"dust":"For those pesky run around invisible types. Cowards.",
+				"ward_observer":"Everyone likes free vision. It makes dying less of a thing. If someone bought a courier at game start, pick up a stack of these and get invited to a pro team. If there are ever 2 stacks of these available, you should feel bad.",
+				"ward_sentry":"Find pesky invisibles that don't wanna get hit by you and your friends, find the other team's wards and laugh as you kill them with impunity, block jungle spawns and giggle in the trees as they wonder where their farm and levels went. What don't these do?",
+				"tango":"Eat trees and stay alive.",
+				"courier":"Get this. Every time. Unless someone already bought it, then buy wards. It's like a UPS delivery guy that doesn't only show up when you're away from home.",
+				"tpscroll":"Why walk when you can run? Why run when you can LITERALLY JUST BE THERE? Always have 1 handy to get to fights and make people cry.",
+				"bracer":"Survive. It's cheap and effective and is your best friend (except for the Golem). If you're dying a ton feel free to get more.",
+				"mekansm":"AoE Heal, Regen, Armor. If there's one thing any infernal caretaker needs to carry, it's this thing.",
+				"vladmir":"If the enemy team way too physically punchy and/or you're entire team is melee because DotA is too easy, pick this up.",
+				"flying_courier":"Flying Couriers make it so you win more than anything else you buy. True story.",
+				"ring_of_basilius":"More spam, less hurty, Aura for friends. Sell late game or make into Vladmir's Offering if necessary.",
+				"urn_of_shadows":"If someone already bought Mekansm and you need more healing because other idiots like taking punches, pick it up and get a nice heal or harm over time.",
+				"ultimate_scepter":"Know what's better than 1 Golem? 2! If you're fed get this thing for a free win.",
+				"refresher":"Know what's better than 2 Golems? 4! Get after Aghanim's since that has better build up. If you somehow have this and Aghanim's and you haven't won, blame the carry.",
+				"arcane_boots":"Everyone loves more mana. It lets you bond and heal/hurt people and summon nasty things from the abyss more often.",
+				"ancient_janggo":"Move faster and live longer. Every old man's dream!",
+				"smoke_of_deceit":"Make your whole team invisible for a surprise demon spawn, fatal bond, and won team fight."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"warlock_upheaval",
+			"3":"warlock_shadow_word",
+			"4":"warlock_upheaval",
+			"5":"warlock_fatal_bonds",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_shadow_word",
+			"8":"warlock_fatal_bonds",
+			"9":"warlock_upheaval",
+			"10":"warlock_fatal_bonds",
+			"11":"warlock_rain_of_chaos",
+			"12":"warlock_upheaval",
+			"13":"warlock_fatal_bonds",
+			"14":"warlock_shadow_word",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"Bond everyone together! It's no fun if everyone isn't feeling pain, and if you get 6 it's a 150% damage increase. Can be prioritized over Shadow Word if you're in a massive AoE damage kill/harass lane.",
+				"warlock_shadow_word":"Heal or Harm? It's better than a Salve at max level and makes you an incredible baby sitter for your worthless carry that can't last hit! Or drop it on your enemies and watch them squirm. Very efficient after level 2.",
+				"warlock_upheaval":"Remember, the slow isn't how long THEY'VE been in the AoE, but how long YOU'VE been casting it! Don't underestimate the power of a massive slow, fatal bonds, and golem punches.",
+				"warlock_rain_of_chaos":"Stun goes through Magic Immunity at a huge AoE, and Golem tears through heroes and creeps early game. If no one is around to be killed anymore, send it into the jungle for some free farm or push a tower down.",
+				"attribute_bonus":"For all those times when everything is on cooldown and living longer seems like a swell plan because, hey, someone has to win this game for your 4 carries."
+		}
+	}
+}

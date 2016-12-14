@@ -1,0 +1,94 @@
+{
+	"Hero":"luna",
+	"Title":"[DMX] Luna (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"manta",
+				"ultimate_scepter",
+				"satanic",
+				"butterfly",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ring_of_basilius",
+				"poor_mans_shield",
+				"ring_of_aquila",
+				"force_staff",
+				"invis_sword",
+				"ethereal_blade",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lucent_beam",
+			"2":"luna_lunar_blessing",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_lunar_blessing",
+			"9":"luna_lunar_blessing",
+			"10":"luna_moon_glaive",
+			"11":"luna_eclipse",
+			"12":"luna_moon_glaive",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"luna_lucent_beam":"Ce sort est un bon nuke qui vous garantira d’excellents dommages entre deux auto-attaques De plus, le niveau de ce sort influera directement avec la puissance de votre ultimate ! A utiliser pour annuler les canalisations.",
+				"luna_moon_glaive":"Ce passif est très pratique pour repousser les vagues de creeps ainsi que pour farmer rapidement sur votre lane ou dans les bois. de plus les glaives rebondissent également sur les bâtiments, ce qui vous permet de pusher plus efficacement la base ennemie !",
+				"luna_lunar_blessing":"Très bonne aura en début de partie elle booste parfaitement tous vos alliés, le bonus de vision lui permet d’avoir toujours un très grand champ de vision, de jour comme de nuit !",
+				"luna_eclipse":" En un contre un cet ultimate infligera 1200 (1800 avec l’Aghanim’s Scepter) dégâts magiques, ce qui est souvent suffisant pour en finir rapidement avec votre opposant !
+Très utile en teamfight, Eclipse sera également une bonne arme pour faire fuir des adversaires qui essayeraient de vous tuer."
+		}
+	}
+}

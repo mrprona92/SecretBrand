@@ -1,0 +1,112 @@
+{
+	"Hero":"beastmaster",
+	"Title":"King of Gankers",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"boots",
+				"magic_wand",
+				"smoke_of_deceit",
+				"smoke_of_deceit",
+				"smoke_of_deceit",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"necronomicon",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"pipe",
+				"mekansm",
+				"vanguard",
+				"force_staff",
+				"blink",
+				"blade_mail"
+			],
+			"Luxury itens":
+			[
+				"abyssal_blade",
+				"heart",
+				"sheepstick",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Positioning and escape tool. Dont be afraid to do it.",
+				"gauntlets":"To better last hit and extra HP. And to make Urn of Shadows a little later.",
+				"branches":"To extra HP and better last hits. Also, you will use it to finish a Magic Wand. And a little secret... Beast Master only can use two Wild Axes early on with extra stats from some branches.",
+				"boots":"You simply need one. All  boots upgrades (Tranquil Boots, Arcane Boots, Phase Boots, Treads and Travel Boots) are good for Beast Master. Choice the best for your playstyle. I prefer Boots of Travel and Phase Boots, but the other options are great too.",
+				"magic_wand":"Great upgrade for your branches to have a instant heal mechanism in dangerous situations.",
+				"flask":"You can skip that to fast bottle if you think it is not necessary. But is recomended against heavy nuckers like Tinker, Magnus, Shadow Fiend and etc...",
+				"bottle":"Main form of regeneration to you. Also, grab the runes to increase your gank power with Haste, Double Damage and Invisibility. Ilusion and Regeneration are better for push and lane control.",
+				"tango":"Common regeneration to sustain harass before your bottle.",
+				"tpscroll":"ALLWAYS have one (or two) with you. Fast movimentation through the map to gank-counter gank and an escape mechanism.",
+				"mekansm":"Good utility item. Every team need one, and you can do it fast. Great for team clashes and push.",
+				"pipe":"Good to provide some resilience against powerfull magic skills like Meteor, Black Hole, Eclipse and others. It will help your team to take the high terrain in front of the T3  enemie towers.",
+				"urn_of_shadows":"Another method to heal yourself, plus your allies. You can use it to kill fleeing enemies with low HP too.",
+				"sheepstick":"It is really great item. More disable and team fight power.",
+				"force_staff":"Positioning and escape tool. Dont be afraid to do it.",
+				"necronomicon":"You are one of the best Necrobook carries in all game. And Necronoomicon is one of the best itens in the game. Great stats, good for push, to increase your team`s DPS and provides True Sight when upgraded to level 3. Wonderful item.",
+				"ultimate_scepter":"Improve like a boos your start power providing some great stats. The bonus range to cast your ultimate make the diference to a successfull team fight.",
+				"assault":"Helps to tank, team DPS, and push. It is really great with you passive aura Inner Beast.",
+				"heart":"It helps you to tank in late game fights and be usefull with your ultimate and skills.",
+				"vanguard":"Good choice if you need to carry a gem against invisible heroes like Rikimaru, Nyx, Bounty Hunter and Shadow Blade players.",
+				"blade_mail":"To counter high DPS like Drow Ranger or combo heroes like Lion.",
+				"smoke_of_deceit":"The great and the best gankers allways try to have one to counter the ward vision. Come from nowhere and KILL! So, go way like a mist in the fog.",
+				"abyssal_blade":"Extra disable through BKB and good DPS tool."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_call_of_the_wild",
+			"4":"beastmaster_wild_axes",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_call_of_the_wild",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_wild_axes",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

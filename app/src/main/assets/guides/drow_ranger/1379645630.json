@@ -1,0 +1,124 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"Romp`s Drow 6.81b ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"slippers",
+				"branches",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"invis_sword",
+				"ring_of_aquila",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Mid Game ":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"sange_and_yasha",
+				"black_king_bar"
+			],
+			"End Game (Crit/Bash)":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This item is EXTREMELY op now. With no manacost even low int heros can use it freely now. With the nerfs to Shadow Blade, and the changes to Silence. This should be your go-to item now, it synergizes better and is overall a stronger mobility item then shadow blade. Blink+Gust ppl up cliffs for fun.",
+				"slippers":"For Wraith Band",
+				"branches":"This item is op as all hell, for wand",
+				"circlet":"For Wraith Band",
+				"boots":"Boots are a basic necessity.",
+				"magic_wand":"Wand always a great item ",
+				"ghost":"You can't orb out of ghost form anymore so this item is a no-go",
+				"flask":"Great regen to stay in lane after a fight and burst heal for clutch get-aways",
+				"dust":"Mainly for ganking other nvis heros, a quick dust pickup will pay for itself when you kill that clinkz/riki.",
+				"bottle":"If no other hero has a bottle and you are mid, then a bottle on drow isn't bad. You can get off more silences and have some good runes to gank with. Smoke up, of course.",
+				"ward_observer":"Pick these up if your support is bad and you are pushing early. Prevents you dying while pushing since you can see rotations quicker.",
+				"ward_sentry":"If you want to farm and are scared of the nyx/bh that might try to gank you. ",
+				"tango":"For minor heals, forest juking and escaping Np`s tree trap quickly",
+				"tpscroll":"Invaluable Item, A quick silence+tp will save your life. Remember to Double tap for fountain tp, always have one ready.",
+				"phase_boots":"New preferred boots. Helps you chase better and when combined with Yasha, gives  you incredible ms with its active. Get this or Treads",
+				"eagle":"Get this part first.",
+				"power_treads":"Drow doesn't need any more dmg so phase is silly, atk speed is good on her and more agi is also good.",
+				"hand_of_midas":"Only if you can get it 8-10 mins",
+				"poor_mans_shield":"Shes ranged, don't even try.",
+				"wraith_band":"Only get one",
+				"ring_of_basilius":"Quick basi at sideshop for 6 dmg and +1 armor.",
+				"black_king_bar":"Determine if you need it or not. Delay your dmg item for this if the situation calls for it.",
+				"rapier":"ONLY IF YOU ARE COMPLETELY STOMPING, Im talking 30-0 tier stuff, if you die with this Its really not worth it.",
+				"monkey_king_bar":"Swap Daedulus for this if facing PA, Brew, WR, Keeper of the Light, and Butterfly. Stick to Daedulus if there isn't Evasion or Blind however. ",
+				"butterfly":"Using the gold you get from stacking ancients, Get a Eaglesong. Sheer Agility is really really good on Drow, especially when you consider her precision aura's scaling. Finishing this is a game-changer and allows you to somewhat (wo)manfight upclose.",
+				"greater_crit":"Drow hits hard but lacks a crit, this gives it to her.Generally the preferred dmg option unless there's evasion then get mkb.",
+				"manta":"Mandatory agi carry item, Finish this up after helm. The Active allows for a large amount of ability dodging (0.1 window invulnerability) and it can purge certain debuffs (mainly slows). Practice dodging abilties in a lobby",
+				"invis_sword":"SB is a ganking item more effective the earlier you get it. Similar to orchid, thus it's recommended to just go brown boots&amp;gt;SB. Then you can finish up smaller items, also simply skip it if your team has invis or the other team has BH/Slardar",
+				"sange_and_yasha":"Passive isn't a orb, you can get up to 90 percent slow with this.",
+				"satanic":"Builds from helm, You become unkillable with this, Learn to use it`s active well and you will be harder to kill then if you had heart imo. Get Damage first tho, Either Dae.. or MKB",
+				"mjollnir":"This semi stacks if you autocast it leading a great dps increase, especially with how fast you will be attacking.",
+				"helm_of_the_dominator":"Toggle your frost arrows to make use of the life-steal. Stack ancients at :53 when you have the map control for it. You can also dom a creep while pushing and position it as a ward so you have earlier warning to get back. ",
+				"yasha":"Great even by itself",
+				"mask_of_madness":"Lets you rack up a ton more dps and positioning.",
+				"smoke_of_deceit":"If there is a really good gank opportunity, smoke can help. Especially if you get a good rune as well.",
+				"ring_of_aquila":"It becomes even more necessary if you are mid. The armor aura helps you push even more, keep it off until 6 then turn it on. Push until tower and activate aura as well for omega push power. DONT GET 2 WRAITH BANDS GET THIS!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_trueshot",
+			"2":"drow_ranger_frost_arrows",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_wave_of_silence",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_trueshot",
+			"9":"drow_ranger_trueshot",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_wave_of_silence",
+			"13":"drow_ranger_wave_of_silence",
+			"14":"drow_ranger_wave_of_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"MANUAL CAST THESE! You get no creep aggro when you do so, free harass. Toggle off when target isn`t moving to proc lifesteal for more survivability. Lasts longer on creeps (Including Roshan) so kite them to take as little dmg as possible. ",
+				"drow_ranger_wave_of_silence":"900 Range, 350 total push up-close, 0 at max distance. Doesn't stop TP. Stops channeling spells (cm and bane ults, etc). Reveals Riki and SK. You can trap heros in places like cliffs and you can dodge Tiny's toss if you gust the unit hes tossing, mid-flight. Forces TA out of meld. Stops SB charge.",
+				"drow_ranger_trueshot":"Activate this at the start  of EVERY teamfight win or lose. If you lose, the lanes will be really pushed forcing the enemy to take more time to push. If you win, the lanes are pushed making for easier towers. Works with Visage Familiars, Stack agi for best effect.",
+				"drow_ranger_marksmanship":"This skill is the hero, Learn to position yourself to make use of the damage. The true radius of this ability is actually 365, its not 400 despite the blurb. It`s a bug, finally pay attention to your aura, you can use it to detect nearby invis heros, if you stop glowing then someone is near.",
+				"attribute_bonus":"Don't ever go stats until you max out your skills, they are just too good to pass up."
+		}
+	}
+}

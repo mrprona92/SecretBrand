@@ -1,0 +1,78 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Storm Spirit mid lane guide by seGGa",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Items":
+			[
+				"bottle",
+				"magic_wand",
+				"boots"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"power_treads",
+				"orchid",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"skadi",
+				"sphere",
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"arcane_boots":" Disassemble it later for make bloodstone"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_overload",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_electric_vortex",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_static_remnant",
+			"10":"storm_spirit_static_remnant",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_electric_vortex",
+			"13":"storm_spirit_overload",
+			"14":"storm_spirit_static_remnant",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"storm_spirit_ball_lightning",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

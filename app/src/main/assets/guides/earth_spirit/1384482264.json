@@ -1,0 +1,93 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"First Attempt",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"arcane_boots",
+				"heart",
+				"basher",
+				"heavens_halberd",
+				"assault"
+			],
+			"luxury":
+			[
+				"skadi",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"This just makes it easier for early heals/mana and frees up your inventory for more things. Trade this out for cuirass or eye.",
+				"clarity":"After playing some more I've found his mana scales well but early game you really need the extra mana.",
+				"travel_boots":"Once you get around level 15+ you might want to think about changing out the boots. It's really going to depend on how much you're using your mana boots. I've found by that time I'm using more for the party and it's wasted on me.",
+				"assault":"Pick this or the Eye, it's personal choice really...",
+				"heart":"Goes great for all tanks.",
+				"basher":"So they can't run from you all that well.",
+				"skadi":"Pick this or Cuirass, this just keeps them from running but your Skull Basher should manage that just fine. I'd pick the Cuirass honestly.",
+				"heavens_halberd":"That added Support for those pesky carries. Works great to use just after you roll into them."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_boulder_smash",
+			"3":"earth_spirit_rolling_boulder",
+			"4":"earth_spirit_geomagnetic_grip",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_geomagnetic_grip",
+			"8":"earth_spirit_rolling_boulder",
+			"9":"earth_spirit_rolling_boulder",
+			"10":"earth_spirit_rolling_boulder",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_boulder_smash",
+			"13":"earth_spirit_boulder_smash",
+			"14":"earth_spirit_boulder_smash",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"Use this just after using the Grip and they are stunned so you can have easy aim, this gives them a 5sec. Silence.",
+				"earth_spirit_rolling_boulder":"Use this right after Boulder Smash, now they all finishing there stun, silenced and movement/attack speed is slowed by 80%. With Cuirass and Skull Basher, you are now prime to waylay them and allow the team to come finish them off.",
+				"earth_spirit_geomagnetic_grip":"First ability, use this after putting a stone just past the enemies. Excellent for early harrassment.",
+				"earth_spirit_stone_caller":"Best thing they could have brought into the game :)",
+				"earth_spirit_magnetize":"After you have rolled in place a few more Statues around and pop this, it spreads all the abilities and refreshes them while doing damage. Once this combo is over your job is done roll out and let the rest of the team finish them off :)"
+		}
+	}
+}

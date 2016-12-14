@@ -1,0 +1,93 @@
+{
+	"Hero":"lich",
+	"Title":"Kel'thuzad Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_regen",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"force_staff",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"rod_of_atos",
+				"veil_of_discord",
+				"cyclone",
+				"bloodstone",
+				"dagon"
+			],
+			"Support Items (Optional)":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"courier",
+				"flying_courier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"force_staff":"Great for escape due to your low walk speed. This is also great for saving others as well as forcing the enemy forward unexpectedly for a gank!",
+				"ultimate_scepter":"This makes your Chain Frost OP",
+				"tranquil_boots":"As Kel'thuzad has sacrafice for mana, health boots are best."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_frost_nova",
+			"2":"lich_dark_ritual",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_frost_nova",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_dark_ritual",
+			"9":"lich_frost_armor",
+			"10":"lich_dark_ritual",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"The reason we put a point into frost blast before sacrafice is because there are always scenarios where you could need a quick nuke to turn around an early gank.",
+				"lich_dark_ritual":"This will keep your mana up. Keep up the harassment in the lane to control it,",
+				"lich_chain_frost":"This Ulty is devestating and turns around battles when enamies are grouped up."
+		}
+	}
+}

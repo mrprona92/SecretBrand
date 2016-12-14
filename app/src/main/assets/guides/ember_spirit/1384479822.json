@@ -1,0 +1,121 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"6.81 Xin, The Ember Spirit Mid/ganker build, by MrDerwisj",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"phase_boots",
+				"arcane_boots",
+				"ancient_janggo"
+			],
+			"Core Choices":
+			[
+				"bfury",
+				"maelstrom",
+				"sange_and_yasha",
+				"greater_crit",
+				"phase_boots",
+				"yasha"
+			],
+			"Consider The Following":
+			[
+				"vladmir",
+				"black_king_bar",
+				"sphere",
+				"desolator",
+				"satanic",
+				"assault",
+				"mjollnir",
+				"skadi"
+			],
+			"YOU'RE ON FIRE!":
+			[
+				"radiance",
+				"rapier",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"For extra sustain in the mid lane, considering you're melee + builds into vanguard/poor mans shield",
+				"bottle":"Definitely a bottle-rush hero. His abilities are on a low cooldown, and his int gain isn't great. Refilling your bottle in the fountain using a tp+your ult is great as well!",
+				"tango":"If you feel you need more regen, get an extra salve as well. But since this is a fast bottle build, one tango should do.",
+				"phase_boots":"Exploiting the already great movement speed this hero already has. If you feel you are lacking in mana however, and you can't rune control, get arcane boots.",
+				"vladmir":"Can be great if your team doesn't have a natural vlads carrier. You get lifesteal from your autoattacks + Sleight Of Fists. The extra damage doesn't hurt.",
+				"assault":"Extra - armor, always great for physical dps. Not the best item pickup but doable.",
+				"black_king_bar":"Our friend Xin is useless when silenced/stunned, and will die rapidly. Get this item to not have those things happen to you. (if you're worried)",
+				"sphere":"Same as black king bar. The early perseverance gets rid of some of your mana problems and gives you some health regen.",
+				"rapier":"This speaks for itself. Go for it if you feel you have the power!!",
+				"radiance":"If you get ridiculously fed, this stacks with your Flame Guard. Pretty funny!",
+				"greater_crit":"Your sleight of fists can crit!",
+				"basher":"Chance to bash on every hit is great. Works on sleight of fists.",
+				"bfury":"If you're really overfarmed, and you're versus illusion/summon based heroes (like PL, meepo,...) get 2 of these. Decent mana and health regen will keep you in the fights longer and make your sleight of fist hurt pretty hard.",
+				"sange_and_yasha":"I like getting the Sange for the maim chance and extra hp.",
+				"satanic":"Using the active on this with Sleight of Fists brings you up to full health in no time! Expensive, but a decent pickup nonetheless.",
+				"mjollnir":"Not great, but the active is pretty powerful. The attack speed is mostly redundant on this hero though.",
+				"skadi":"Slow, a lot of HP, ...",
+				"maelstrom":"Honestly, don't bother upgrading to mjollnir. This hero doesn't need the attack speed. Every Sleight Of Fists hit counts as an attack, so if this procs your damage goes way up.",
+				"desolator":"-Armor when using sleight of fists... It's great if your team has other physical dps, and gives you a bit extra damage.",
+				"yasha":"Extra damage, and again, the +% movespeed is great.",
+				"arcane_boots":"A great alternative to phase boots, getting arcane boots on this hero gets rid of some of the mana issues this hero has.",
+				"ancient_janggo":"Same as phase boots, going fast is good. The +% movespeed scales great on a hero with this fast base movespeed. Extra mana to use, a bit more hp... ",
+				"abyssal_blade":"If the game is tied but you're still far ahead this is a very solid choice. You can use the activate while using sleight of fists, and gives a very solid damage boost. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_searing_chains",
+			"2":"ember_spirit_sleight_of_fist",
+			"3":"ember_spirit_searing_chains",
+			"4":"ember_spirit_flame_guard",
+			"5":"ember_spirit_searing_chains",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_searing_chains",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_flame_guard",
+			"10":"ember_spirit_flame_guard",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_sleight_of_fist",
+			"13":"ember_spirit_sleight_of_fist",
+			"14":"ember_spirit_sleight_of_fist",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"Max this first for the disable. With this and flame guard + some right click you should be able to run people down.",
+				"ember_spirit_sleight_of_fist":"With the slight \"nerf\" this has received, it only becomes useful once you get items. Hence why maxing this last is ideal.",
+				"ember_spirit_flame_guard":"Max this to run people down. It's basically a buffed radiance. Since 6.81 this also stops doom damage, so try to predict when doom is getting used!",
+				"ember_spirit_activate_fire_remnant":"Costs a lot of mana, but does decent damage, is good for juking and other neat tricks. ",
+				"ember_spirit_fire_remnant":"You can gank really effectively by placing one of these in mid, tp'ing to another tower, ganking, and then jumping back to your remnant. Also this is a decent nuke. Be sure to save one for escaping though."
+		}
+	}
+}

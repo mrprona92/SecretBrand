@@ -1,0 +1,125 @@
+{
+	"Hero":"pudge",
+	"Title":"Mid Pudge 6.82 [RUS] by just4fail",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"До 20-30 минуты:":
+			[
+				"bottle",
+				"force_staff",
+				"urn_of_shadows",
+				"hood_of_defiance",
+				"point_booster",
+				"boots"
+			],
+			"Финальная сборка":
+			[
+				"travel_boots",
+				"force_staff",
+				"pipe",
+				"heart",
+				"ultimate_scepter",
+				"sphere"
+			],
+			"Очень полезные вещи":
+			[
+				"smoke_of_deceit",
+				"ward_observer",
+				"assault",
+				"blade_mail",
+				"shivas_guard",
+				"crimson_guard",
+				"black_king_bar",
+				"ghost",
+				"gem"
+			],
+			"Вместо Форстафа":
+			[
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Я почему-то предпочитаю форстаф, он статы дает",
+				"gauntlets":"Перчатки - это обязательные начальные предметы, так как дают прирост к жизням, а позже превращаются в урну",
+				"branches":"Обязятельно покупаем три или две веточки, они также дают прирост к жизням и урону",
+				"boots":"Этот сапог позже превратится в Travel Boots, а пока его хватит",
+				"gem":"Вы - жир, вам и гем в руки",
+				"ghost":"Против  райткликеров",
+				"bottle":"Бутылка позволит регенить жизни и ману, а также подбирать руны",
+				"ward_observer":"Не ленитесь сами себе покупать варды",
+				"tango":"Танго - это наше лечение до того момента, как появится бутылка",
+				"travel_boots":"Возможность телепортироваться в экстренных ситуациях, бешеная скорость предвижения. Travel Boots - самый оптимальный сапог на Пуджа",
+				"point_booster":"Дает прирост к жизням и мане, позже превратится в Аганим",
+				"pipe":"Дает магическую защиту союзника поблизости при активации, а также большой реген здоровья и сопротивление магии пассивно",
+				"urn_of_shadows":"Урна позволит добивать противников после использования ульты, если они не умерли, а также регенить жизни себе и союзникам",
+				"force_staff":"Дает возможность спасать союзников, кидать им себя, чтобы догонять врагов, закидыватьcя на xайграунд и хукать все, что движется. Мастхэв",
+				"ultimate_scepter":"Аганим нам нужен для быстрого кулдауна ульты и повышенному количеству жизней и маны",
+				"assault":"У Пуджа мало брони, даже на 25 уровне",
+				"heart":"Бешеный реген, а также количество здоровья",
+				"black_king_bar":"Если у противника очень много станов и вы не сможете выдержать весь урон - БКБ мастхэв",
+				"shivas_guard":"У Пуджа мало брони, даже на 25 уровне",
+				"sphere":"Мне кажется, очень полезная вещь, можно кидать на союзников",
+				"crimson_guard":"Его можно собрать вместо Линьки, если противники сильно бьют с руки. Очень хороший бафф на команду!",
+				"blade_mail":"Возвращает урон. Полезно.",
+				"hood_of_defiance":"Полезный артефакт на средних стадиях игры, позже превратится в Трубу",
+				"soul_ring":"Можно купить на ранних стадиях игры, т.к. для хука нужна мана",
+				"smoke_of_deceit":"Чтоб хуки были эффективнее"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_rot",
+			"10":"pudge_flesh_heap",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Притягиваете - убиваете)",
+				"pudge_rot":"Воняете - убиваете)",
+				"pudge_flesh_heap":"Отличный буст",
+				"pudge_dismember":"Пробивает БКБ",
+				"attribute_bonus":"Плюсики"
+		}
+	}
+}

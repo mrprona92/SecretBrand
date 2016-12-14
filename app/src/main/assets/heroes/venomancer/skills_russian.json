@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Venomous Gale",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выплевывает ядовитый шар, который отравляет врагов, находящихся по прямой, в результате чего они получают как мгновенный, так и периодический урон, а их скорость передвижения и атаки снижается. Периодический урон наносится каждые 3 секунды с начала действия заклинания.",
+        "notes": "Враг под воздействием этой способности может быть добит союзниками, если уровень его здоровья опустится ниже 25%.<br/>Периодический урон наносится каждые 3 секунды.<br/>Замедление начинается с 50% и постепенно уменьшается.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15/15/15/15</font></b><br/>УРОН ОТ ПОПАДАНИЯ: <b><font color=\"#ffffff\">25/50/75/100</font></b><br/>ПЕРИОДИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">10/40/70/100</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 22",
+        "lore": "Смесь различных жал, ядов и токсинов, найденных в лесах острова Джиди, не позволяет выжить никому.",
+        "hurl": "Venomancer",
+        "name": "venomancer_venomous_gale",
+        "youtube":"NMl5uOEHfCM",
+        "id": 0
+    },
+    {
+        "dname": "Poison Sting",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Добавляет в обычные атаки Venomancer яд, который снижает скорость передвижения.",
+        "notes": "Урон от этой способности может быть смертельным.<br/>Урон от Poison Sting не прерывает лечение предметами и не запрещает использовать Blink Dagger.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6/9/12/15</font></b><br/>УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">11%/12%/13%/14%</font></b>",
+        "cmb": "",
+        "lore": "Теперь Venomancer владеет парализующим жалом существа, вызвавшего его трансформацию.",
+        "hurl": "Venomancer",
+        "name": "venomancer_poison_sting",
+        "youtube":"wHPx7hm2j8w",
+        "id": 1
+    },
+    {
+        "dname": "Plague Ward",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Призывает Plague Ward, атакующий вражеских юнитов и сооружения. Вард невосприимчив к магии. Он получает текущий уровень вашей способности Poison Sting, нанося 50% от полного урона.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">40</font></b><br/>ЗДОРОВЬЕ ВАРДА: <b><font color=\"#ffffff\">75/200/325/450</font></b><br/>УРОН ВАРДА: <b><font color=\"#ffffff\">10/19/29/38</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/20/20/20<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 5",
+        "lore": "Смесь давних талантов травника и новообретенных умений в создании ядов создает живое воплощение чумы.",
+        "hurl": "Venomancer",
+        "name": "venomancer_plague_ward",
+        "youtube":"vQ0AFxdBUwk",
+        "id": 2
+    },
+    {
+        "dname": "Poison Nova",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Venomancer рассеивает вокруг себя кольцо яда, постепенно наносящего урон. Эффект этой способности не может опустить здоровье существа ниже единицы.n<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">830/830/830</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">12/14/15</font></b><br/>УРОН: <b><font color=\"#ffffff\">36/58/81</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">140/120/60</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">14/15/16</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">58/81/108</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/300/400<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 140/120/100",
+        "lore": "В кислотных джунглях существа, выпускающие особо опасный яд в своих жертв — обычное дело. Но благодаря Venomancer это бедствие вышло за пределы острова Джиди.",
+        "hurl": "Venomancer",
+        "name": "venomancer_poison_nova",
+        "youtube":"gL3GCUp1Ins",
+        "id": 3
+    }
+]

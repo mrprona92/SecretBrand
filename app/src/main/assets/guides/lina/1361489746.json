@@ -1,0 +1,107 @@
+{
+	"Hero":"lina",
+	"Title":"Versatile Slayer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"circlet"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"null_talisman"
+			],
+			"Mobility":
+			[
+				"blink",
+				"force_staff",
+				"cyclone"
+			],
+			"Luxury":
+			[
+				"sheepstick",
+				"travel_boots",
+				"ethereal_blade",
+				"dagon",
+				"refresher"
+			],
+			"Situational":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"pipe",
+				"mjollnir",
+				"ultimate_scepter",
+				"greater_crit",
+				"basher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This lets you initiate, chase, and flee (Eul's then Blink).",
+				"magic_wand":"Only get this if you're laning against folks that spam a lot.",
+				"travel_boots":"Late-game, Lina pushes and counter-pushes incredibly well. Boots of Travel let her move around the map with impunity.",
+				"null_talisman":"Useful, helps with harass and survival early.",
+				"mekansm":"Get it if no one else is.",
+				"pipe":"Get if your team needs it (lots of enemy magic damage) and no one else has gotten it.",
+				"sheepstick":"The best late game item. The enemy team will likely have some nasty carry that wants to right-click you down. With this item they'll be a sheep.",
+				"cyclone":"Mana regen, move speed, what's not to love? Oh, and you can use Eul's both offensively (to set up your stun) and defensively (to set up a blink out for yourself, or to save an ally, or to stall for time).",
+				"force_staff":"An alternative to Blink. Stats in exchange for a little less mobility. You can also get both, but it isn't  necessary on her.",
+				"dagon":"In case people are somehow still not dead, this is an option. But if you've got this to level 5, you've likely already won the game.",
+				"ultimate_scepter":"There are better options, but when you really want to boost her Laguna damage this is one way to go.",
+				"refresher":"When one Laguna Blade isn't enough...",
+				"greater_crit":"Very late game option, when her right-click damage starts outshining her spells.",
+				"basher":"Rare circumstances may call for this item. It's only a 10% chance on Lina, but with her attack speed as fast as it is... well, you could say it's a stunning possibility.",
+				"mjollnir":"For anti-push and pushing, generally you'll only see this very late game.",
+				"ethereal_blade":"Think of it as a double-barreled shotgun, as Tobi put it. First the Ethereal Blade damage, then Laguna Blade (enhanced by the Ethereal Blade effect), then the rest of your spells.",
+				"arcane_boots":"Lina likes her mana. And it helps your entire team too.
+
+Generally get boots first, then get the rest of the core, then come back and get Arcane Boots.",
+				"ancient_janggo":"Solid all around item, gives you some much needed health. Get it if no one else is."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_fiery_soul",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_light_strike_array",
+			"10":"lina_light_strike_array",
+			"11":"lina_laguna_blade",
+			"12":"lina_fiery_soul",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,263 @@
+{
+	"Hero":"enigma",
+	"Title":"Enigma, the jungling lord of wombo combos.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"ring_of_basilius"
+			],
+			"Early Game (Kill rosh!)":
+			[
+				"medallion_of_courage",
+				"clarity",
+				"boots",
+				"flask",
+				"flask",
+				"smoke_of_deceit",
+				"tpscroll"
+			],
+			"Core Items (Get 5-mans!)":
+			[
+				"blink",
+				"arcane_boots",
+				"refresher",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Misc. (Help the team.)":
+			[
+				"ward_sentry",
+				"dust",
+				"ward_observer",
+				"gem",
+				"ancient_janggo",
+				"mekansm",
+				"magic_wand",
+				"ghost"
+			],
+			"Luxury (Destroy them.)":
+			[
+				"shivas_guard",
+				"radiance",
+				"blade_mail",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink in, black hole.  Practice in a bot match if you need to!  Black hole has an insane cooldown, so only use it if your team can follow up!  Remember that after you refresh and finish the second black hole, you can use blink dagger again to get away safely or help take down survivors.",
+				"blades_of_attack":"They're made of adamantium. ",
+				"broadsword":"A really broad sword.",
+				"chainmail":"When you buy this, you should have a sage's mask and a ring of basilius already.",
+				"claymore":"What-ho! A claymore!",
+				"helm_of_iron_will":"Veil of discord?",
+				"javelin":"Pointy.",
+				"mithril_hammer":"BKB on the way.",
+				"platemail":"Made of plates.",
+				"quarterstaff":"Part of your refresher.  It's good to get this part first if you like roaming, medallion, and whuppin' ass.",
+				"quelling_blade":"Chop chop chop.",
+				"ring_of_protection":"If you buy wards or courier, you can start with this instead of a full basi.",
+				"stout_shield":"Eidolons can tank for you anyway.",
+				"gauntlets":"These supple gloves make you feel much stronger. (Just play along.)",
+				"slippers":"Dangerously pointy.",
+				"mantle":"This foppish garb makes you feel like the foppiest fop in all the land.",
+				"branches":"The most cost effective way to get stats!",
+				"belt_of_strength":"A part for building power treads or necronomicon.",
+				"boots_of_elves":"Elven... Band things.",
+				"robe":"More mana!",
+				"circlet":"You're a pretty princess!",
+				"ogre_axe":"Looks heavy.",
+				"blade_of_alacrity":"This. This, is a knife.",
+				"staff_of_wizardry":"Aghs? Dagon? Whatcha making?",
+				"ultimate_orb":"Hex?",
+				"gloves":"Treads? Midas?",
+				"lifesteal":"Scary.",
+				"ring_of_regen":"Basic health regen.",
+				"sobi_mask":"If you buy wards or courier, you can start with this instead of a full basi.",
+				"boots":"Once you hit level 7, high-tail it to your base and pick up your boots, smoke of deceit, two salves, and if you want, add a tp scroll.  Boots will help you land early game black holes.
+
+I recommend ganking a side lane with black hole after roshing. Try to kill both heroes, but just one is fine too.",
+				"gem":"De-ward and De-invisiblehero the map!
+You might buy this, but most of the time it's better for a more survivable teammate to then actually carry it.",
+				"cloak":"Enigma in the hood...?  Okay, I'll stop trying.",
+				"talisman_of_evasion":"It slips out of your hand when you try to hold it occasionally.",
+				"magic_stick":"A stick! Get it against spammers like batrider.",
+				"magic_wand":"Always a good item, this life-saving wand can be the difference between having no mana, or landing a 5-man black hole. Between being picked off by that last autoattack and being dead lategame for 90 seconds with hole up or... well, not being dead and having ult.
+
+(PS not being dead is good)",
+				"ghost":"If you're getting right clicked and the enemies don't have any good disables.  NOTE: This AMPLIFIES magic damage you take!  Buy with caution!",
+				"clarity":"Careful clarity use is vital to your early game jungling success. Cast demonic conversion and immediately use your clarity as soon as nothing is damaging you.  If you mess up the jungle, it's okay to buy at least one more clarity and have the courier ferry it to you along with your sage's mask.",
+				"flask":"You need to tank Roshan while your eidolons split.  Take the punishment until you're at half life, then let your eidolons distract Roshan while you stand back a bit and heal.Then use demonic conversion on the split eidolons ASAP and start tanking again, USE MEDALLION ON ROSH CONSTANTLY!!",
+				"dust":"For invis heroes.",
+				"bottle":"Overpriced bottled water.  Supposedly from a french glacier.",
+				"ward_observer":"Information saves lives.  Wards are extremely important all game long.",
+				"ward_sentry":"To deward, or not to deward?",
+				"tango":"Useful if you're laning, but eidolons should be doing most of the tanking in the jungle.",
+				"courier":"If you must buy the courier, start out with a sage's mask and continue the build as normal, just finish your basilius ring before starting on the medallion.",
+				"tpscroll":"After you kill Roshan, a good team will try to come kill you, as your teammates will be in lane and the other team will know that you're alone.  You can use a TP scroll to make a fast getaway, or coordinate a counter-gank with your team.  You do have black hole, after all...",
+				"travel_boots":"For better turtling, pushing, and general mobility.",
+				"phase_boots":"Zoom!",
+				"demon_edge":"What? Why?!",
+				"eagle":"I don't even know why I try with you, anymore...",
+				"reaver":"Heart?",
+				"relic":"Radiance...?",
+				"hyperstone":"Makes you feel all jittery.",
+				"ring_of_health":"Keeps you nice and healthy.",
+				"void_stone":"Useful mana regeneration.",
+				"mystic_staff":"Loads a mana!",
+				"energy_booster":"Arcanes, here we come!",
+				"point_booster":"Aghs?",
+				"vitality_booster":"Heart, right?",
+				"power_treads":"Tread switching is very useful when playing Enigma.",
+				"hand_of_midas":"I guess you could...!",
+				"oblivion_staff":"Almost there...",
+				"pers":"Stayin' alive.",
+				"poor_mans_shield":"It's a shield.",
+				"bracer":"Ahhh... Bracers... The best friends of any support player.",
+				"wraith_band":"A band that supposedly belonged to a wraith.",
+				"null_talisman":"Dagon...?",
+				"mekansm":"Mek can be used to make clutch saves or bolster your team's survivability in a pinch.  The armor and hp regeneration auras are nice for teammates, creeps, and eidolons as well.",
+				"vladmir":"The true sacrifice.  Buying vlads for your teammates.",
+				"flying_courier":"Give red bull to the courier.
+
+(Oh man, I'm so funny, right?!)",
+				"buckler":"Don't forget to activate it!",
+				"ring_of_basilius":"The ring of basilius will give you good mana regeneration (Remember, it's not as effective when enigma is a higher level!) and extra armor for yourself as well as your eidolons (and for the creeps, too! Useful for taking early towers).",
+				"pipe":"Toke it up.",
+				"urn_of_shadows":"Someone else should really have one of these.",
+				"headdress":"The GG Headdress.",
+				"sheepstick":"Guinsoos <3",
+				"orchid":"What do you plan on doing with this...?",
+				"cyclone":"Eul's can get rid of many debuffs, including silences.",
+				"force_staff":"When push comes to shove... For dealing with enemies with radiance, the Force Staff provides poor man's initiation and great utility.",
+				"dagon":"Sure, why not?",
+				"necronomicon":"Great synergy with eidolons for maximum pushing!",
+				"ultimate_scepter":"Wait a minute, it doesn't upgrade anything.",
+				"refresher":"The ideal combo is:
+
+Tell team you're going in to double black hole (hold my beer),
+BKB,
+Blink,
+Black hole,
+Manaboots,
+Refresh,
+Manaboots,
+Black hole,
+(Blink to escape/catch stragglers after 2nd hole?)
+
+Adapt this combo to the situation. Have a plan.",
+				"assault":"Now this is ridiculous.",
+				"heart":"Lots of health.",
+				"black_king_bar":"Magic immunity will pretty much ensure uninterrupted channeling of the devastating LEGENDARY DOUBLE BLACK HOLE!",
+				"shivas_guard":"The best of the luxury items.  You can use this item's active ability whilst channeling your black hole and it WILL NOT BREAK THE CHANNELING.
+
+Oh, and if you have a refresher orb...?
+
+That's right.
+Double black hole plus double shiva's guard.
+It is said that few have seen the combo and lived.",
+				"bloodstone":"Enigma can get by with Arcane boots.",
+				"sphere":"Whatever you think.",
+				"vanguard":"It's a goat on a shield.",
+				"blade_mail":"If you get crit by PA or someone.  Uh, I guess you can buy this out of spite.",
+				"soul_booster":"I didn't know what to put for this.",
+				"hood_of_defiance":"Making the pipe, are you?",
+				"rapier":"Just go kill their throne or their tree or whatever already, will ya?",
+				"monkey_king_bar":"The bar of the monkey king, apparently. ?_?",
+				"radiance":"MORE AOE!  A radiance takes a long time to farm and isn't normally ideal on enigma.  Usually, get a shiva's guard instead.",
+				"butterfly":"You're joking.",
+				"greater_crit":"Now this is just getting stupid.",
+				"basher":"You're kidding me, right? You're playing Enigma.",
+				"bfury":"Good one.",
+				"manta":"Why not just get a BKB if you're getting silenced?",
+				"lesser_crit":"You're kidding.",
+				"armlet":"The ONLY item Enigma should ever buy.
+Pfffff, you should have seen the look on your face.",
+				"invis_sword":"Feels cool, but to what end?",
+				"sange_and_yasha":"No. Never. Buy. This.",
+				"satanic":"I'm running out of things to write.",
+				"mjollnir":"Look, why don't you just go play the game already?",
+				"skadi":"Go play the game.",
+				"sange":"You are ENIGMA. ",
+				"helm_of_the_dominator":"You're joking or something.",
+				"maelstrom":"...",
+				"desolator":"What do you think you'd even do with this?",
+				"yasha":"Ya-sha!!",
+				"mask_of_madness":"You're insane.",
+				"diffusal_blade":"... '-_-",
+				"ethereal_blade":"Yeah, right.",
+				"soul_ring":"Nice item... You know, for REGULAR old BORING Enigmas.  We live life on the edge.",
+				"arcane_boots":"Provides mana that you NEED in order to pull off a double black hole during earlier levels.",
+				"orb_of_venom":"The loneliest item in the game.",
+				"ancient_janggo":"Enigma isn't the IDEAL drum carrier, but if nobody else can pick one up, it's better than nothing.",
+				"medallion_of_courage":"The medallion. Your ace in the hole.  This beautiful trinket will let you do four things, Kill Roshan as much as possible (first time solo, then with your team), Gank heroes easier, Jungle at light speed, and Push creepwaves faster.
+USE IT CONSTANTLY!
+Extra: Also important tankiness and mana regen.",
+				"smoke_of_deceit":"Be sneaky! When you are about to go kill roshan once you get level 7, aggro a nearby neutral camp, start walking towards Rosh, then turn them into eidolons.  Now, use the smoke of deceit, walk in with your eniglets, and take that scaly bastard down.",
+				"veil_of_discord":"It's more like a burqa...",
+				"rod_of_atos":"Atos is pretty much the best item in the game
+-Aui_2000",
+				"abyssal_blade":"Yup. You're funny, aren't you?",
+				"heavens_halberd":"Go home, you're drunk.",
+				"ring_of_aquila":"Just walk away from the shop.",
+				"tranquil_boots":"Good regen and armor.",
+				"shadow_amulet":"Get the other part first. Please. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_demonic_conversion",
+			"8":"enigma_malefice",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"enigma_midnight_pulse",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"attribute_bonus",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_malefice":"A stun with nice range that can be used to catch people out, or lock down the pathetic flesh-creatures that try to escape from the aftermath of the black hole.",
+				"enigma_demonic_conversion":"Eidolons must attack 6 times to split.  Keep a general idea of when they will split. Split BEFORE you try to take a tower.  Medallion & eidolons can melt heroes.
+
+If an unsplit eidolon is going to die, move it out of danger and let the others tank a bit.  Doing this is what makes enigma jungle fast.",
+				"enigma_midnight_pulse":"Do not underestimate this. It goes through magic immunity.  Throw it down whenever you have excess mana to burn.
+
+Destroys trees in its area.  Use this to clear paths between neutral camps in order to speed up jungling even further.
+
+If someone tries to hide in trees, use this to expose them.",
+				"enigma_black_hole":"What more is there to say? One of the best ultimate abilities in the game.  This four second vortex of destruction will hold the enemy team in place, while yours approaches and unleashes their best abilities to devastate your catch.
+
+Black. Hole. Wins. Games.",
+				"attribute_bonus":"Enigma's skills are very good.  Get stats when there is no other alternative at the standard level 15 and through levels 17-25."
+		}
+	}
+}

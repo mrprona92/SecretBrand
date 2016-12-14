@@ -1,0 +1,100 @@
+{
+	"Hero":"rubick",
+	"Title":"Coldlikehell's Guide to Rubick Sidelane Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"pipe",
+				"sheepstick",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Additional mobility if you can handle it. Make sure you'll make good use of it before spending the money to get this",
+				"ward_observer":"Buying wards will be your primary job in the game, make sure that your team has enough vision.",
+				"ward_sentry":"Sentries should be bought periodically to counter-ward rune spots but can often be good to counter invisible heroes.",
+				"courier":"Make sure to either grab couriers or wards.",
+				"mekansm":"Normally, other heroes will have this item already built as part of their core build, but if no one does, make sure to pick one up for your team",
+				"flying_courier":"As a support make sure to upgrade courier as soon as possible",
+				"pipe":"Can be extremely useful in most games. Make sure no one on your team has it already and that the opponent team has enough magical damage to justify it.",
+				"sheepstick":"If you somehow get crazy amounts of gold, Scythe of Vyse will always help your team.",
+				"force_staff":"Force staff gives you extra mobility to initiate with Telekinesis, steal spells or escape situations",
+				"arcane_boots":"Arcane Boots gives you and your team much needed mana. Always use it on cooldown if someone nearby needs mana",
+				"ancient_janggo":"Normally, other heroes will have this item already built as part of their core build, but if no one does, make sure to pick one up for your team"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Awesome disable that can sometimes be used level 1 to put enemies on top of cliffs near rune spots. It is also a really strong initiation skill.",
+				"rubick_telekinesis_land":"When choosing where to land, remember to bring your opponent close to your team. If some other friendly AOE user is nearby, dont move the target so that they can land the skill.",
+				"rubick_fade_bolt":"Excelent nuke that also has the versatility of debuffing enemies. Once you have a good mana pool, you can start using this skill to farm and push.",
+				"rubick_null_field":"Sometimes Null Field can be leveled earlier rather than additional levels of Telekinesis if the opposing match up has a lot of magic damage.",
+				"rubick_spell_steal":"Excelent spell. Be on the watch on what spells your enemies have been casting and what spells they have available.",
+				"attribute_bonus":"Stats dont do much for rubick and thus are leveled last."
+		}
+	}
+}

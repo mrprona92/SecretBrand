@@ -1,0 +1,85 @@
+{
+	"Hero":"pudge",
+	"Title":"Roamer Pudge",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"boots",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"arcane_boots",
+				"bottle",
+				"ward_observer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"hood_of_defiance",
+				"ultimate_scepter",
+				"mekansm",
+				"heart",
+				"assault",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"pipe",
+				"blade_mail",
+				"travel_boots",
+				"black_king_bar"
+			],
+			"when problems landind a hook..":
+			[
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"150 gold for killing opponents is pretty nice spent",
+				"mekansm":"I think mekans is really good choice for pudge.Especially for armor that pudge miss",
+				"force_staff":"Good for initiations and escaping"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_flesh_heap",
+			"9":"pudge_rot",
+			"10":"pudge_rot",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

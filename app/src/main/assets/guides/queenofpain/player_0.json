@@ -1,0 +1,49 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "queenofpain_shadow_strike",
+        "2": "queenofpain_blink",
+        "3": "queenofpain_scream_of_pain",
+        "4": "queenofpain_blink",
+        "5": "queenofpain_blink",
+        "6": "queenofpain_sonic_wave",
+        "7": "queenofpain_scream_of_pain",
+        "8": "queenofpain_shadow_strike",
+        "9": "queenofpain_scream_of_pain",
+        "10": "queenofpain_blink",
+        "11": "queenofpain_sonic_wave",
+        "12": "queenofpain_shadow_strike",
+        "13": "queenofpain_scream_of_pain",
+        "14": "queenofpain_shadow_strike",
+        "15": "attribute_bonus",
+        "16": "queenofpain_sonic_wave",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "queenofpain_blink": "блинк для ухода и инициации",
+        "queenofpain_scream_of_pain": "хороший дамаг. поможет как и при файтах так и при пуше",
+        "queenofpain_sonic_wave": "неслабо дамажащий скил по нескольким врагам но с огромным кулдаунам(без аганима)",
+        "queenofpain_shadow_strike": "тактика проста:блинкаемся вупор к врагу кричим криком боли даём удар тени и(если есть аганим) кричим волной соника и уходим ждать когда враг подохнет"
+    }
+}, "Hero": "queenofpain", "ItemBuild": {
+    "ItemTooltips": {
+        "ultimate_scepter": "добавляет немного дамага ульте и снижает кд в 2 раза",
+        "flask": "большой реген",
+        "orchid": "сало+много дамага и атак спида",
+        "power_treads": "всегда на силу",
+        "circlet": "для талисмана",
+        "tango": "малый реген"
+    },
+    "Items": {
+        "начало": ["flask", "tango", "circlet"],
+        "середина": ["bottle", "null_talisman", "power_treads"],
+        "конец": ["ultimate_scepter", "orchid"]
+    }
+}, "Title": "Гайд от Сталина"}

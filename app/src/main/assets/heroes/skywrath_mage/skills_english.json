@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arcane Bolt",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Skywrath Mage launches a slow-moving bolt of arcane magic, dealing damage to an enemy unit based on Skywrath Mage\u0027s intelligence.",
+        "notes": "The projectile moves very slowly (500 ms), providing 325 vision around it.  Upon impact, it will reveal the target area for 3.34 seconds.<br/>Arcane Bolt cannot be disjointed.",
+        "dmg": "",
+        "attrib": "BASE DAMAGE: <b><font color=\"#ffffff\">60/80/100/120</font></b><br/>INT DAMAGE MULTIPLIER: <b><font color=\"#ffffff\">1.6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/70/70/70<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5/4/3/2",
+        "lore": "Within the Ghastly Eyrie\u0027s endless intrigue, only the clever and calm can hope to survive.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_arcane_bolt",
+        "youtube":"TFjMorJ3PHU",
+        "id": 0
+    },
+    {
+        "dname": "Concussive Shot",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Skywrath Mage sets off a long range shot that hits the closest hero within a long range.  Upon impact, it deals damage and slows in an area of effect.",
+        "notes": "Does not work when no heroes are in range or heroes are in fog.<br/>Damages creeps around the impact area.<br/>Provides 400 vision around the projectile, and reveals the target area for 3.34 seconds upon impact.",
+        "dmg": "",
+        "attrib": "SHOT RANGE: <b><font color=\"#ffffff\">1600</font></b><br/>DAMAGE RADIUS: <b><font color=\"#ffffff\">200</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">60/120/180/240</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">4</font></b><br/>SLOW: <b><font color=\"#ffffff\">30%/35%/40%/45%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/110/110/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/18/16/14",
+        "lore": "Those who serve the court of the Ghastly Eyrie are ever locked in covert war. One must always know where danger lurks nearest.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_concussive_shot",
+        "youtube":"tkF8HA5D5Sk",
+        "id": 1
+    },
+    {
+        "dname": "Ancient Seal",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Skywrath Mage seals the targeted unit with an ancient rune, silencing it and causing it to take additional damage from spells.",
+        "notes": "The magic damage resistance reduction doesn\u0027t affect creeps.",
+        "dmg": "",
+        "attrib": "INCREASED MAGIC DAMAGE: <b><font color=\"#ffffff\">30%/35%/40%/45%</font></b><br/>DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/90/100/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14",
+        "lore": "A holy incantation, whosoever finds themselves touched by Avilliva\u0027s sigil must suffer in penitent silence.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_ancient_seal",
+        "youtube":"busbJBCRPho",
+        "id": 2
+    },
+    {
+        "dname": "Mystic Flare",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Skywrath Mage uses his ultimate magical ability to conjure a precise and violent mystical field that lays waste to his adversaries. Deals massive damage distributed evenly among any Heroes in the area over 2.4 seconds.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Mystic Flare only affects Heroes; it does not damage illusions or creep heroes.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">170</font></b><br/>DURATION: <b><font color=\"#ffffff\">2.4</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">600/1000/1400</font></b><br/>SCEPTER COOLDOWN: <b><font color=\"#ffffff\">20/10/0</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 350/575/800<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/40/20",
+        "lore": "Only the most practiced of Skywrath sorcerers could hope to shape the skies into such a storm.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_mystic_flare",
+        "youtube":"bCWXFPy8NYo",
+        "id": 3
+    }
+]

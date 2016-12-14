@@ -1,0 +1,120 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Crystal Maiden - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ward_observer",
+				"courier",
+				"clarity",
+				"branches"
+			],
+			"Laning Items":
+			[
+				"boots",
+				"magic_stick",
+				"tpscroll"
+			],
+			"Mid-game Options":
+			[
+				"magic_wand",
+				"urn_of_shadows",
+				"bracer",
+				"tranquil_boots"
+			],
+			"Luxury Options":
+			[
+				"mekansm",
+				"force_staff",
+				"ancient_janggo",
+				"black_king_bar",
+				"cyclone",
+				"vitality_booster",
+				"ghost",
+				"blink",
+				"ultimate_scepter",
+				"pipe",
+				"veil_of_discord",
+				"sheepstick"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"tpscroll",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"Al principio no tienes regen de mana (o muy poca, por lo que necesitas esta pocion.",
+				"ward_observer":"Siempre tiene que haber wards en el mapa",
+				"courier":"Si ya han comprado wards y courier puedes comprarte unos guantes para ganar algo de vida o regen extra para tu carry",
+				"tpscroll":"Lleva un tp siempre encima",
+				"power_treads":"The extra 152 HP is usually not worth the extra price tag and slower move speed than Tranquils.",
+				"bracer":"Te da algo de hp extra. Mas tarde puedes mejorarlo a tambores si nadie mas los ha comprado.",
+				"flying_courier":"Upgrade the courier with your passive gold income as soon as you can (aim for the 2 minute mark).",
+				"orchid":"If you absolutely need a disable, save up for Scythe of Vyse or Eul's if you can't farm that much.
+Most of the Orchid's stats are wasted on a low damage support hero like CM.",
+				"black_king_bar":"Para la ultimate puede ser una opcion si tienes farm suficiente y tienen disables que te pueden detener.",
+				"shivas_guard":"Farming for the 2700g Mystic Staff will take too long for CM, and if you do manage to earn that much, Scythe of Vyse is better for shutting down the enemy.",
+				"arcane_boots":"Consider picking Arcane Boots only if you opted to completely skip Arcane Aura. Otherwise, Phase and Tranquils will make you faster and have better abilities.",
+				"medallion_of_courage":"You'll often find yourself starved for item slots while carrying Wards, TP's, and survivability items. Medallion is usually not worth giving up a valuable slot (your damage comes from spells, not autoattacks).",
+				"rod_of_atos":"Rod of Atos has an even longer range than your Nova slow. However, it is quite expensive and does not fully disable your target.
+The best time to build Rod is if your team is a well oiled gank machine and want to continue pressure. Even then, make sure your team has Drums/Mek up and running firs",
+				"heavens_halberd":"Although the active will shut down any autoattacking carry for a few seconds, it is very expensive.
+By the time you can afford this, the carry may have BKB/Manta, which will dispell Halberd.",
+				"tranquil_boots":"Velocidad, regen de vida que te permiten estar vivo en la linea y gankear mejor."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_brilliance_aura",
+			"2":"crystal_maiden_frostbite",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_frostbite",
+			"5":"crystal_maiden_crystal_nova",
+			"6":"crystal_maiden_frostbite",
+			"7":"crystal_maiden_frostbite",
+			"8":"crystal_maiden_brilliance_aura",
+			"9":"crystal_maiden_brilliance_aura",
+			"10":"crystal_maiden_freezing_field",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_crystal_nova",
+			"13":"crystal_maiden_crystal_nova",
+			"14":"crystal_maiden_crystal_nova",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Usalo para harasear al enemigo y hacerles slow al atacarles pero no lo uses para farmear.",
+				"crystal_maiden_frostbite":"Lanzalo sobre el objetivo para inmovilizarlo. Siempre ten prioridad sobre su carry o heroes con mucha movilidad. Recuerda que puede seguir usando habilidades!",
+				"crystal_maiden_brilliance_aura":"Aumento de regeneracion de mana global. Es super util para tu equipo.",
+				"crystal_maiden_freezing_field":"Grandisima ulti de area. Lanzala si tienes oportunidad en las teamfights pero recuerda que es canalizada!!!!"
+		}
+	}
+}

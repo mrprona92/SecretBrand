@@ -1,0 +1,106 @@
+{
+	"Hero":"tiny",
+	"Title":"6.82 - Standard Tiny (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"stout_shield"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ultimate_scepter",
+				"ancient_janggo",
+				"yasha",
+				"manta"
+			],
+			"Core - Ganker":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter",
+				"assault",
+				"shivas_guard"
+			],
+			"Extension Items":
+			[
+				"butterfly",
+				"greater_crit",
+				"satanic"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink, Avalanche, Toss. Clean kill.",
+				"phase_boots":"The extra damage and the movement speed is desperately needed on Tiny when you are trying to carry. Treads does not offer the stats you need (Movement/Attack Speed)
+",
+				"ultimate_scepter":"Aghanim's Scepter is your main ingredient. The sweep deals immense damage and works on your illusions when you get Manta Style.",
+				"assault":"Assault Cuirass serves as a great booster item for your team and increases your impactful presence in team fights. The carry will typically need attack speed and this alleviates the problem.",
+				"black_king_bar":"In most cases, you can withstand some stuns and impairment. If their team have stacked up the amount of disables, Black King Bar is a great option.",
+				"shivas_guard":"Shiva's Guard helps your mana issues while also adding to your impactful presence with an incredible slow.",
+				"monkey_king_bar":"To take down rivaling foes who have some evasion.",
+				"butterfly":"With your extra armor, Craggy Rock passive and now the evasion of Butterfly, you'll be nearly untouchable. If touched, then one of these effects may trigger.",
+				"greater_crit":"Daedalus' effect does not work with your illusions, but it is still a pretty an incredibly desired item for Tiny who has everything goes for him.",
+				"manta":"Great item that let's you split-push as Tiny and double-down on the cleave damage to really roll down foes!",
+				"satanic":"With so much damage and speed on Tiny, on top of the armor, Craggy Exterior and Health; lifesteal is pretty much the last item you need to be unkillable.",
+				"yasha":"More movement speed and attack speed.",
+				"ancient_janggo":"Drums is after your Aghanim's to offer more maneuverability and health as you move to Yasha and Manta Style."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tiny_avalanche",
+			"2":"tiny_toss",
+			"3":"tiny_avalanche",
+			"4":"tiny_toss",
+			"5":"tiny_avalanche",
+			"6":"tiny_grow",
+			"7":"tiny_toss",
+			"8":"tiny_toss",
+			"9":"tiny_avalanche",
+			"10":"tiny_craggy_exterior",
+			"11":"tiny_grow",
+			"12":"tiny_craggy_exterior",
+			"13":"tiny_craggy_exterior",
+			"14":"tiny_craggy_exterior",
+			"15":"attribute_bonus",
+			"16":"tiny_grow",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tiny_avalanche":"If you can use Avalanche and Toss immediately after, you can deal even more damage as the Avalanche animation will reissue the damage to the foe falling from Toss.",
+				"tiny_toss":"Toss does damage to towers, so be sure to abuse it when readily available. Follow-up Avalanche with Toss to deal huge amounts of extra damage.",
+				"tiny_craggy_exterior":"Works great late-game as the armor is much desired. Craggy Exterior is not spoken much but it is great alongside evasion and the extra health you get as Tiny.",
+				"tiny_grow":"Each level of Grow gives more damage for  Tiny both in abilities and physical. The drawbacks are compensated through the two builds for Tiny, so don't worry about it too much."
+		}
+	}
+}

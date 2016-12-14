@@ -1,0 +1,124 @@
+{
+	"Hero":"queenofpain",
+	"Title":"Solo mid Queen Of Pain",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"power_treads",
+				"null_talisman",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"sheepstick",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"sphere",
+				"orchid",
+				"dagon",
+				"necronomicon",
+				"skadi",
+				"monkey_king_bar",
+				"rapier",
+				"greater_crit",
+				"desolator",
+				"black_king_bar",
+				"ethereal_blade",
+				"shivas_guard"
+			],
+			"Really Situational Items":
+			[
+				"force_staff",
+				"cyclone",
+				"mjollnir",
+				"bloodstone",
+				"manta",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Buy this with the first 600 gold you farmed, it will give you the regen you need at the early game, while improving your gank potential with runes.",
+				"power_treads":"The best boots of choise for Queen, it gives you atk speed and stats. You can use it either INT or STR. But STR is best, since u need more HP than MP",
+				"null_talisman":"Just something to make your last hitting better, while giving you a bit of MP.",
+				"sheepstick":"One of the best item in the game, will give you mana to spam your spells and the ability to shut down the enemy carry.",
+				"orchid":"Really good cheap item, amazing for countering blinking - invisible - disabler heros, easy to build and good stats.",
+				"cyclone":"Good speed bonus, the disable helps your team alot, and may save you many times, since you can use it on yourself and wait the blink CD.",
+				"force_staff":"It`s good when the enemy team has a Riki, allows you to get out of his smoke fast, so you can blink.",
+				"dagon":"One item for-fun only, gives you nice INT and 400 magical damage, giving you the pontential to kill the enemys in one combo.",
+				"necronomicon":"Really good item, gives you STR and INT, and the abillity to summon 2 demons. Amazing when fighting versus invisible heroes, or mana-dependent heroes.",
+				"ultimate_scepter":"Gives you nice mana and hp, also status and improves your ult, do it if the enemy team have alot of gold bags, but its also good to push",
+				"refresher":"Some people like it. You can get this if you are playing a heavy-caster role, with Scepter and Veil.",
+				"black_king_bar":"Amazing item, allow you to do the massive AoE damage you should do in a team fight. Also good HP and damage.",
+				"shivas_guard":"More AoE damage, slow, armor and INT. Great item if the enemy team has alot of physical damage.",
+				"bloodstone":"I don`t like this item on Queen, but gives you alot of HP-MP and regen.",
+				"sphere":"A really situational item, you can build it before Scyte, gives you good stats, good MP HP regen, and blocks one single-target spells. ",
+				"rapier":"Good if you are not dying much, do it as last item, when you need to destroy the enemy base fast.",
+				"monkey_king_bar":"When you need some damage. Also counter evasion, perfect late-game item when your enemy may have Butterfly.",
+				"greater_crit":"If you wanted to go for Queen of Carry build, this is a amazing item, when you already have 2-3 dps items.",
+				"manta":"It`s good vs silencers, but BKB is better.",
+				"mjollnir":"You can get this item for carry games since it stack with desolator now. Gives you more AoE damage and good ATK SPD.",
+				"skadi":"Late-game item, amazing stats, and the passive slow is also really good, but not needed since you already got Shadow Strike.",
+				"desolator":"For me, the start of Queen of Carry build, enjoy whipping the enemy supports ass.",
+				"ethereal_blade":"Another for-fun item, allow you to burst down 1 enemy really fast, also you can use it to save an ally.",
+				"veil_of_discord":"Just do it if your team have alot of AoE spells, like Epicenter. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_blink",
+			"2":"queenofpain_shadow_strike",
+			"3":"queenofpain_scream_of_pain",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_blink",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_shadow_strike",
+			"14":"queenofpain_shadow_strike",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Your main tool to harass, constant damage and avarage slow, good to prevent the enemy from using bottle-salve for some time. Some people puts 2 points in this skill at lv 3, its good to harass meele heros, but not needed.",
+				"queenofpain_blink":"Get this at lv 1, so you can escape a possible gank. ",
+				"queenofpain_scream_of_pain":"Your main skill. Dont use it if its not lv 3 or 4, its not worty it. Use it to harass when you get lv 5, but make sure you will get at least 2 lh too. Use to push the lane, so you can go grab the rune.",
+				"queenofpain_sonic_wave":"Your final skill, alot of AoE damage, with a big CD and mana cost. Use this to finish an enemy, or to initiate, but try to hit at least 2 enemys. If you build a Aghanim`s, you can use this to push, since it will kill all the creeps, and will have a 40 seconds CD.",
+				"attribute_bonus":"Everybody love stats, so get yours here, it`s FREE!"
+		}
+	}
+}

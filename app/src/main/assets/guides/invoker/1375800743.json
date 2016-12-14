@@ -1,0 +1,113 @@
+{
+	"Hero":"invoker",
+	"Title":"[WTF]Invoker hardcarry QE build(Rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"circlet",
+				"gauntlets",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"boots",
+				"bracer",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"force_staff",
+				"ancient_janggo",
+				"ultimate_scepter",
+				"mjollnir"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"skadi",
+				"desolator",
+				"greater_crit",
+				"orchid",
+				"black_king_bar",
+				"blink",
+				"assault",
+				"refresher",
+				"sheepstick",
+				"heart",
+				"manta"
+			],
+			"По ситуации #2":
+			[
+				"monkey_king_bar",
+				"sphere",
+				"ethereal_blade",
+				"necronomicon",
+				"satanic",
+				"rapier",
+				"shivas_guard",
+				"phase_boots",
+				"tranquil_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Позволяет выжить когда шансов почти нету.",
+				"travel_boots":"Рекомендую собирать в глубоком лейте, для большей мобильности",
+				"phase_boots":"Делают инвокера модильным персонажем и дают прибавку к урону.",
+				"power_treads":"Хороший буст к хп и скорости атаки",
+				"hand_of_midas":"Собирать до 6 минуты, не накопили 1900 голды до 6 минуты ? Тогда забейте на мидас, и сразу покупайте сапог, стик, брейсер.",
+				"orchid":"Отличный артефакт против квопы, ама, войда, гули. А так же против всех персонажей т.к. дает + 30% доп урона.",
+				"force_staff":"Позволяет выжить когда шансов почти нету.",
+				"ultimate_scepter":"Я думаю, что тут комментарии не нужны.",
+				"greater_crit":"Враги слишком толстые ? И вы не можете их пробить ? Не беда. Дедалус есть всегда.(В сочитании с 3 сфера экзорта будет огромный крит.)",
+				"manta":"Отлично идет в сочитании с колдснепом (каждаю иллюзия будет наносить 60 доп урона. Что очень скажется на здоровье толстых, и тем более тонких врагов)",
+				"skadi":"Враги быстро бегают ? Не беда. Скади есть всегда.",
+				"desolator":"Отлично идет в сочитании с форджами(снизит броню врага до нуля.)",
+				"ancient_janggo":"Собирайте, если с фармом тяжко, а скорость и статы нужны."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_quas",
+			"3":"invoker_invoke",
+			"4":"invoker_exort",
+			"5":"invoker_exort",
+			"6":"invoker_quas",
+			"7":"invoker_exort",
+			"8":"invoker_quas",
+			"9":"invoker_quas",
+			"10":"invoker_wex",
+			"11":"invoker_exort",
+			"12":"invoker_exort",
+			"13":"invoker_exort",
+			"14":"invoker_invoke",
+			"15":"invoker_invoke",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_quas",
+			"21":"invoker_quas",
+			"22":"invoker_quas",
+			"23":"invoker_wex",
+			"24":"invoker_wex",
+			"25":"invoker_wex"
+		}
+	}
+}

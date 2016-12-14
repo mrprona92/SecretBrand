@@ -1,0 +1,19 @@
+{
+  "dotaId": "ring_of_aquila",
+  "id": 212,
+  "img": "ring_of_aquila_lg.png",
+  "dname": "Ring of Aquila",
+  "qual": "rare",
+  "cost": 1010,
+  "desc": "Passive: Aquila Aura - Grants mana regeneration and armor in a 900 area of effect.<br/>Active: Toggle whether the aura affects other non-hero units.<br/><br/>Multiple instances of Aquila Aura do not stack.",
+  "notes": "Does not stack with armor auras from Ring of Basilius, Ring of Aquila, or Vladmir's Offering.",
+  "attrib": "+ 9 Damage<br/>+ 3 Strength<br/>+ 9 Agility<br/>+ 3 Intelligence<br/>+ 1 Armor<br/>AURA MANA REGEN: 0.65<br/>AURA BONUS ARMOR: 2",
+  "mc": false,
+  "cd": false,
+  "lore": "The ring of the fallen Warlord Aquila continues to support armies in battle.",
+  "components": [
+    "wraith_band",
+    "ring_of_basilius"
+  ],
+  "created": true
+}

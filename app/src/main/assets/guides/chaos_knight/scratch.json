@@ -1,0 +1,91 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"Chaos Knight - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"circlet"
+			],
+			"Principio de Partida":
+			[
+				"power_treads",
+				"armlet",
+				"ancient_janggo"
+			],
+			"Objetos principales":
+			[
+				"helm_of_the_dominator"
+			],
+			"Final de Partida":
+			[
+				"manta",
+				"black_king_bar",
+				"heart",
+				"satanic"
+			],
+			"Alternativas":
+			[
+				"urn_of_shadows",
+				"assault",
+				"vanguard",
+				"vladmir",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"black_king_bar":"Si tienen muchos disables sacalo antes",
+				"sange_and_yasha":"Gives damage and attack speed and HP. Disassemble it later to make Heavens Halberd and Manta Style.",
+				"helm_of_the_dominator":"Recuerda Stackear ancients!!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Muy buen stun para hacer dmg, evitar que escapen enemigos etc",
+				"chaos_knight_reality_rift":"Usalo para iniciar o para evitar que los enemigos escapen. Combinalo con tu Q (Primero Q y luego W)",
+				"chaos_knight_chaos_strike":"Criticos para hacer mas dmg",
+				"chaos_knight_phantasm":"Usalo para las teamfights y destrozar a tus enemigos. No lo subimos al principio porque necesitas dmg para que sean efectivas las ilusiones."
+		}
+	}
+}

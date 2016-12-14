@@ -1,0 +1,79 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"DUD's Spirit Breaker Charge Gank Build Updated [6.80]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"gauntlets",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"lesser_crit",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"monkey_king_bar",
+				"greater_crit",
+				"ultimate_scepter"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_greater_bash",
+			"2":"spirit_breaker_empowering_haste",
+			"3":"spirit_breaker_greater_bash",
+			"4":"spirit_breaker_charge_of_darkness",
+			"5":"spirit_breaker_charge_of_darkness",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_greater_bash",
+			"8":"spirit_breaker_empowering_haste",
+			"9":"spirit_breaker_charge_of_darkness",
+			"10":"spirit_breaker_greater_bash",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_charge_of_darkness",
+			"13":"spirit_breaker_empowering_haste",
+			"14":"spirit_breaker_empowering_haste",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spirit_breaker_charge_of_darkness":"The speed and stun is based on what the level of what level of Charge Of Darkness is. Keep in mind you can charge anywhere on the map. So helpful with daring escapes.",
+				"spirit_breaker_empowering_haste":"This aura of Empowering Haste allows allies in the area and you recieve a speed boost. This can save your life in early game.",
+				"spirit_breaker_greater_bash":"This becomes becomes more useful with MoM ( Mask Of Madness ) has a short cooldown of 1.5 seconds.",
+				"spirit_breaker_nether_strike":"This is very helpful around level 11 after charging somebody. the Aghaniam's Scepter increases the range of the ultimate."
+		}
+	}
+}

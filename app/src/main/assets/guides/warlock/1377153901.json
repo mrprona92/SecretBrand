@@ -1,0 +1,90 @@
+{
+	"Hero":"warlock",
+	"Title":"최고의 한타를 도모하는 영웅, 흑마법사!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"magic_stick",
+				"ring_of_protection",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"arcane_boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"refresher"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"sheepstick",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"바실리우스 반지를 제조하기 위한 첫 단계입니다.",
+				"magic_stick":"W스킬로 물약은 필요없지만 목숨이 위험할 때에 응급 처치약이 될 마법 막대입니다.",
+				"magic_wand":"위기의 순간에 생명력을 조금이라도 더 회복해줄 마법 지팡이입니다.",
+				"courier":"팀원들을 위해 짐꾼을 사주며 즐겁게 게임을 시작할 수 있습니다.",
+				"mekansm":"골렘과 팀원의 체력을 회복해주는 서포터로서 훌륭한 아이템입니다",
+				"ring_of_basilius":"마나 소모가 많은 영웅이므로 마나 회복 속도를 증가시켜주는 반지를 착용합니다.",
+				"sheepstick":"마나 회복속도가 1.5배나 증가하며 지능도 증가하고 적 중에 꼭 막아야할 한 명의 영웅을 무력화 시킬 수 있습니다.",
+				"ultimate_scepter":"흑마법사보다 강력한 골렘을 2마리 소환할 수 있도록 만드는 소중한 아이템입니다.",
+				"refresher":"R스킬을 2번쓸 수 있어 골렘을 총 4마리나 소환할 수 있게 하는 강력한 아이템입니다.",
+				"invis_sword":"보통 골렘을 소환하고 흑마법사 본인은 죽는 경우가 많습니다. 이를 방지할 살아남기 전용 아이템입니다.",
+				"arcane_boots":"마나 수급을 위하여 꼭 필요한 신발입니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"warlock_fatal_bonds",
+			"3":"warlock_shadow_word",
+			"4":"warlock_fatal_bonds",
+			"5":"warlock_shadow_word",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_shadow_word",
+			"8":"warlock_fatal_bonds",
+			"9":"warlock_fatal_bonds",
+			"10":"warlock_upheaval",
+			"11":"warlock_rain_of_chaos",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"warlock_upheaval",
+			"24":"warlock_upheaval",
+			"25":"warlock_upheaval"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"적 크립과 영웅이 많이 뭉쳐있을 때 써주면 고리가 훌륭하게 형성됩니다. 적에게 치명적인 데미지는 아니지만 적이 신경쓰일 정도의 데미지를 입히기 때문에 라인전을 이끌어가기 좋습니다. W다음으로 마스터해주면 좋습니다.",
+				"warlock_shadow_word":"적에게 지속적인 피해를 주거나 아군의 생명력을 채워주는 훌륭한 스킬로 초반에 물약이 없이도 라인전을 버틸 수 있는 비법입니다. 주위의 생명력이 없는 영웅이 있다면 센스있게 W스킬을 써주세요.",
+				"warlock_upheaval":"R스킬로 골렘을 소환한 자리에 E스킬을 써서 적의 발을 묶습니다. 채널링 스킬이라 서서 쓰는 동안 죽을 확률이 높습니다. 실제로 많이 쓰지 않는 스킬이기 때문에 하나만 찍어주고 맨 마지막에 찍을 것이 없을 때 레벨을 올려줍니다.",
+				"warlock_rain_of_chaos":"흑마법사 자신보다 훨씬 강력한 힘을 가지고 있는 골렘입니다. 적들이 모인 곳에서 골렘을 써주면 적은 아무것도 못하고 죽을 것입니다."
+		}
+	}
+}

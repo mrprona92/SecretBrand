@@ -1,0 +1,74 @@
+{
+	"Hero":"viper",
+	"Title":"Вайпер тащит!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield"
+			],
+			"Основные предметы:":
+			[
+				"wraith_band",
+				"vanguard",
+				"power_treads",
+				"invis_sword",
+				"yasha",
+				"black_king_bar",
+				"ultimate_scepter"
+			],
+			"По ситуации:":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"manta"
+			],
+			"Танк:":
+			[
+				"heart",
+				"blade_mail",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_corrosive_skin",
+			"3":"viper_nethertoxin",
+			"4":"viper_poison_attack",
+			"5":"viper_nethertoxin",
+			"6":"viper_viper_strike",
+			"7":"viper_corrosive_skin",
+			"8":"viper_poison_attack",
+			"9":"viper_corrosive_skin",
+			"10":"viper_poison_attack",
+			"11":"viper_viper_strike",
+			"12":"viper_nethertoxin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_nethertoxin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

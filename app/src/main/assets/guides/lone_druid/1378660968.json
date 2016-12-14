@@ -1,0 +1,132 @@
+{
+	"Hero":"lone_druid",
+	"Title":"6.82 - Standard Lone Druid (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+			],
+			"Starting Items (Bear)":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"flask"
+			],
+			"Core - Bear":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"mask_of_madness"
+			],
+			"Core - Lone Druid":
+			[
+				"tranquil_boots"
+			],
+			"Situational Items (Bear)":
+			[
+				"tpscroll",
+				"radiance",
+				"heavens_halberd"
+			],
+			"Extension Bear Items":
+			[
+				"maelstrom",
+				"basher",
+				"mjollnir",
+				"abyssal_blade"
+			],
+			"Extension Druid Items":
+			[
+				"crimson_guard",
+				"necronomicon",
+				"ghost",
+				"vladmir",
+				"butterfly"
+			],
+			"Last updated: 5/10/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"This is for the bear as well!",
+				"stout_shield":"This is for your bear. Since he'll be tanking all the damage.",
+				"cloak":"We're getting a casual cloak for the minor magic resistance. Going full Hood of Defiance is not worth the investment.",
+				"ghost":"If you have the farm for your bear, but constantly find yourself targeted, Ghost Scepter is pretty nice to stay in the fight, but out of danger. Purely useful against physical carries.",
+				"tpscroll":"Now that the Bear has mana, you can buy teleport scrolls and either send him back to base and heal (then blink back to Lone Druid). This can save you wasting your ability to Resummon the Bear.",
+				"phase_boots":"You want the speed and the bear gets not stats besides damage and direct attack speed. So you pick up Phase Boots because it offers damage and the bear cannot use Treads.",
+				"hand_of_midas":"Keep Midas on the bear, but use it on Lone Druid as you will do not gain any exp. if used when it is equipped on the bear. Be careful!",
+				"vladmir":"Just an overall good item for you and the bear. Definitely worth picking up whenever you feel comfortable.",
+				"necronomicon":"Necromonicon 3 on Lone Druid adds to your incredible ability to push, gives more attack speed and an entire army to fight teams with. Definitely worth picking up!",
+				"assault":"Lone Druid's Bear has a lot of life, but little armor. This lines up with his needs as well as the much appreciated attack speed.",
+				"vanguard":"Get Crimson Guard towards the later part of the game where you are needed for team-fights and Lone Druid's bear suffers from the lack of Armor. Crimson Guard will change that in an instance.",
+				"crimson_guard":"Get Crimson Guard towards the later part of the game where you are needed for team-fights and Lone Druid's bear suffers from the lack of Armor. Crimson Guard will change that in an instance.",
+				"radiance":"Pick this up if you can farm for it fast, otherwise skip it as eventually you'll need to start being useful in team fights. 18 minutes should be your goal",
+				"butterfly":"The evasion with the extra armor gives you great ways to avoid damage, while also dishing it out.
+
+Make sure to use the Flutter ability to escape and/or chase down fleeing foes!",
+				"basher":"Entangle and Bash are good tools to make your bear the most annoying mini-hero in the game. You can either stop here or go for the full damage and stun with Abyssal Blade.
+
+You may need to build up your Lone Druid to survive however.",
+				"mjollnir":"Mjollnir offers safety with its active and more attack speed to finally make Lone Druid completely unstoppable!",
+				"maelstrom":"Depending how your game goes, you can get Maelstrom and delay Mjollnir to better build up your Lone Druid or you can go full Mjollnir for the incredible attack speed.",
+				"mask_of_madness":"Mask of Madness gives Lone Druid the ability to push down towers incredibly fast, chase foes with ease and proc. your disable much faster and much easier.",
+				"orb_of_venom":"Cheap easy item that let's you slow foes with the bear and deal damage-per-second through the poison. Useful if you switch it up to lane Lone Druid or just overall.
+
+Purchase only if you intend to be actively ganking the safe lane.",
+				"abyssal_blade":"Abyssal Blade is to add a final notch in your damage and to keep foes down. A must before Lone Druid without a doubt.",
+				"heavens_halberd":"Further add to your arsenal of disables with Heaven's Halberd.",
+				"tranquil_boots":"The extra regeneration and armour from Tranquil boots is exactly what Lone Druid's ultimate form needs."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_synergy",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_true_form",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lone_druid_spirit_bear":"At the start of your game, you will be building your bear primarily. This is because of the stats your bear has as well as his ability to immobilize foes later on.
+
+Remember that your bear does not get any stats you put on it. Just damage, attack speed, armor and movement speed.",
+				"lone_druid_rabid":"Use this to chase down or surprise foes with the bear. Also a key ability for running or taking down towers.",
+				"lone_druid_true_form_battle_cry":"Low cooldown, great buff. Don't forget to use this before engaging as you want the armor to avoid dying and the damage to really unleash against your foes.",
+				"lone_druid_true_form":"Live longer, stay safe. Keep this activated after level 8 or more. You don't need to change back into Druid form under any circumstances."
+		}
+	}
+}

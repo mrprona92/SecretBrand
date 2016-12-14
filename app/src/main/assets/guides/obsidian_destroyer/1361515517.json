@@ -1,0 +1,118 @@
+{
+	"Hero":"obsidian_destroyer",
+	"Title":"Out of this world solo mid Outworld Devourer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"mantle",
+				"branches",
+				"branches",
+				"clarity",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"magic_wand",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"force_staff",
+				"mekansm",
+				"sheepstick",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"rod_of_atos",
+				"orchid",
+				"shivas_guard",
+				"refresher"
+			],
+			"End game item build":
+			[
+				"power_treads",
+				"sheepstick",
+				"orchid",
+				"black_king_bar",
+				"force_staff",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"Extra intelligence for last hitting and casting astral imprisonment. Build into Null Talisman",
+				"branches":"Branches are always great as a starting item for their price and their build up into magic wand.",
+				"circlet":"Some extra base stats help with OD's survivability. Build into a Null talisman later",
+				"boots":"Get boots, the movespeed helps in getting kills and escaping deaths.",
+				"magic_wand":"Wand is a great item for its price and ability to save lives, build from the branches purchased at the start",
+				"clarity":"This just helps you to keep those Astral Imprisonments up and ensure lane domination.",
+				"flask":"Having both a tango and a salve offers great healing options.",
+				"bottle":"Bottle is entirely optional, Outworld Destroyer cannot contest runes as well as certain other mid heroes and its mana regen becomes obsolete, if you do purchase, hand it off to an underfarmed support later as you run out of inventory slots",
+				"tango":"Tangos in 6.79 alone are fine to hold middle lane with, you should be dominating with Astral Imprisonment.",
+				"tpscroll":"ALWAYS carry a TP scroll. A nice trick when getting hunted by someone with a stun is to Astral imprisonment them then TP away before they come back out. Very useful to defend, to attack and to get in and out of key areas of the map.",
+				"power_treads":"Keep it on Strength until casting a spell then toggle, otherwise keep it on strength for survivability until late game when leaving it on Intelligence is fine.",
+				"null_talisman":"Build 1 or more depending on how well you did in lane. If you are struggling, build more as they are a cheap source of damage and stats, otherwise proceed to build up your core items. Build from the Mantle of Intelligence and Circlet purchased at the start.",
+				"mekansm":"OD is a fantastic Mekansm carrier. It significantly improves his survivability and due to the farm in mid, you can get the item quite early improve your team's team fight capabilities. OD also doesnt suffer from mana issues.",
+				"sheepstick":"Great item. It gives more lock down with its disable which wins team fights.",
+				"orchid":"Great DPS intelligence item. Can help deal with pesky escapers like Rikimaru or Queen of Pain.",
+				"force_staff":"Position and escape with force staff. Great pick up.",
+				"refresher":"Very situational. If you think you can win team fights with 2 ultimates, its a great pick up otherwise its cost doesnt justify its ability. Getting survivability and intelligence items is usually better.",
+				"black_king_bar":"Excellent survivability item. Get it if the enemy team has too many disables or nuke heavy. Consider getting before scythe of vyse if you are getting stunned into the ground or they are just heavy on disables.",
+				"shivas_guard":"Boosts survivability into the late game, get other items first but this item is by no means a substandard pick up. Its intelligence helps boost damage, both orb attacks and ulti.",
+				"rod_of_atos":"Great item on Outworld Destroyer, its health gives survivability while its intelligence gives damage. Its cast range is surprisingly far and its slow last a decent duration. Use it to help kite melee heroes or catch up and gank. Very useful"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"obsidian_destroyer_astral_imprisonment",
+			"2":"obsidian_destroyer_essence_aura",
+			"3":"obsidian_destroyer_astral_imprisonment",
+			"4":"obsidian_destroyer_essence_aura",
+			"5":"obsidian_destroyer_astral_imprisonment",
+			"6":"obsidian_destroyer_sanity_eclipse",
+			"7":"obsidian_destroyer_astral_imprisonment",
+			"8":"obsidian_destroyer_essence_aura",
+			"9":"obsidian_destroyer_essence_aura",
+			"10":"obsidian_destroyer_arcane_orb",
+			"11":"obsidian_destroyer_sanity_eclipse",
+			"12":"obsidian_destroyer_arcane_orb",
+			"13":"obsidian_destroyer_arcane_orb",
+			"14":"obsidian_destroyer_arcane_orb",
+			"15":"attribute_bonus",
+			"16":"obsidian_destroyer_sanity_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"obsidian_destroyer_arcane_orb":"Get this when your mana pool is 1100 or above, you can leave it on auto cast and statistically not run out of mana. In practive however you can get unlucky. Especially with some Astral Imprisonment casts. Max last since it requires scaling to be truly effective.",
+				"obsidian_destroyer_astral_imprisonment":"Use this whenever you can when you want to win the lane. Use it later to dodge spells (ie. Gyros rocket incoming) or just sap mana from those who are mana hungry (Not storm spirit, but instead a hero like Sven who has no mana to give which makes taking it so much sweeter)",
+				"obsidian_destroyer_essence_aura":"This allows you to spam your orb attacks without worry and not manage mana ever again. It helps allies as well, especially those with low CD skills (ie. Zeus)",
+				"obsidian_destroyer_sanity_eclipse":"Use this after using Astral Imprisonment. It scales based on intelligence difference so it can absolutely wreck certain heroes but barely scratch others. Use your best judgement when dropping the pain. You can skip this and get more essence aura and pick it up later since it is kind of weak at lvl 6",
+				"attribute_bonus":"Stats are great but your skills are better. Max them first."
+		}
+	}
+}

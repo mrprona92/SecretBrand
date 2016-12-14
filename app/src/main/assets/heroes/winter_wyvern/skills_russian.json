@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arctic Burn",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Виверна взмывает в небо на арктическом ветре, получая беспрепятственное передвижение и мороз при каждой атаке. В полете можно атаковать дальше и быстрее, а стужа замедляет цель и каждую секунду наносит урон в размере 8% от ее текущего запаса здоровья. Также эта способность покрывает глаза защитным слоем льда, увеличивая во время действия способности радиус обзора ночью на 400%.",
+        "notes": "Замораживающие эффекты от нескольких атак с Arctic Burn от одного применения не складываются.<br/>Данная способность не действует на Рошана.<br/>Уменьшает задержку перед атакой до 0,1 сек.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ПОЛЕТА: <b><font color=\"#ffffff\">6</font></b><br/>ДОП. ДАЛЬНОСТЬ АТАКИ: <b><font color=\"#ffffff\">275/375/475/575</font></b><br/>СЖИГАНИЕ ЗДОРОВЬЯ В СЕКУНДУ: <b><font color=\"#ffffff\">8%</font></b><br/>BURN DURATION: <b><font color=\"#ffffff\">5</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">25%/30%/35%/40%</font></b><br/>ДОП. РАДИУС ОБЗОРА НОЧЬЮ: <b><font color=\"#ffffff\">400</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/110/100/90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/40/30/20",
+        "lore": "Из органа, которым драконы извергают пламя, Аурот выдыхает невообразимый холод, который ввергает врагов в жгучую агонию.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_arctic_burn",
+        "youtube": "QJjASKaV5pM",
+        "id": 0
+    },
+    {
+        "dname": "Splinter Blast",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Запускает во врага ледяной шар, который после удара раскалывается на осколки, летящие в противников в радиусе 500 вокруг цели, не причиняя ей ущерб. Задетые осколками противники будут замедлены на 25%.",
+        "notes": "Основной снаряд движется со скоростью в 500 единиц, но достигает цели через 1 секунду, развивая скорость до 4000, если жертва передвигается быстрее.<br/>Ни снаряд, ни его осколки нельзя сбить с цели.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/180/260/340</font></b>",
+        "attrib": "РАДИУС ПОЛЕТА ОСКОЛКОВ: <b><font color=\"#ffffff\">500</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">25%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/130/140/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 7",
+        "lore": "Виверна запускает во врагов ледяной шар, медленно собирающийся железами ее холодной глотки.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_splinter_blast",
+        "youtube": "SCGete8RbbU",
+        "id": 1
+    },
+    {
+        "dname": "Cold Embrace",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Заковывает союзника в ледяной кокон, замораживая его и ежесекундно восстанавливая определенное число здоровья плюс процент от максимального уровня здоровья. Кокон полностью блокирует весь физический урон.",
+        "notes": "Эффект невозможно рассеять.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4</font></b><br/>БАЗОВОЕ ЛЕЧЕНИЕ: <b><font color=\"#ffffff\">20</font></b><br/>ЛЕЧЕНИЕ ОТ МАКС. ЗДОРОВЬЯ: <b><font color=\"#ffffff\">3%/4%/5%/6%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/75/75/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 17/16/15/14",
+        "lore": "Сердце зимы заключает героя в холодные целительные объятья. Лед замедляет течение крови и упрощает работу лечебной магии.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_cold_embrace",
+        "youtube": "8UDmKdYAQP4",
+        "id": 2
+    },
+    {
+        "dname": "Winter's Curse",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Герой примораживает противника к земле, повергая окружающих его союзников в безумие и заставляя их атаковать цель заклинания в течение действия способности. Вынужденные атаковать союзника получают на 70% меньше урона.",
+        "notes": "Если цель умрет от рук союзников, убийство засчитается Winter Wyvern.",
+        "dmg": "",
+        "attrib": "РАДИУС ПРОКЛЯТИЯ: <b><font color=\"#ffffff\">400</font></b><br/>УМЕНЬШЕНИЕ УРОНА: <b><font color=\"#ffffff\">70%</font></b><br/>ДЛИТЕЛЬНОСТЬ ПРОКЛЯТИЯ: <b><font color=\"#ffffff\">2.5/3/3.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 250<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/100/90",
+        "lore": "Старейшее из заклинаний, почитаемых драконами-писателями, открывает глаза на истину: иногда враг моего врага — мой враг.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_winters_curse",
+        "youtube": "AW7PdQw92ak",
+        "id": 3
+    }
+]

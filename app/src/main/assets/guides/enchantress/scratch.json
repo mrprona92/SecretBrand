@@ -1,0 +1,93 @@
+{
+	"Hero":"enchantress",
+	"Title":"Enchantress (Jungler) - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gloves"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"sphere",
+				"assault",
+				"travel_boots",
+				"veil_of_discord",
+				"black_king_bar",
+				"shivas_guard",
+				"cyclone",
+				"dagon",
+				"mask_of_madness"
+			],
+			"Support":
+			[
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Ponlas en inteligencia (azul)",
+				"bloodstone":"Una vez que consigas la bloodstone ya puedes dejar tu ultimate practicamente siempre con autocast (click derecho sobre el icono)",
+				"sphere":"Cuando tengas los objetos anteriores te intentaran focusear seguramente asi que puede ser muy util)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_untouchable",
+			"3":"enchantress_enchant",
+			"4":"enchantress_untouchable",
+			"5":"enchantress_enchant",
+			"6":"enchantress_impetus",
+			"7":"enchantress_enchant",
+			"8":"enchantress_untouchable",
+			"9":"enchantress_untouchable",
+			"10":"enchantress_natures_attendants",
+			"11":"enchantress_impetus",
+			"12":"enchantress_natures_attendants",
+			"13":"enchantress_natures_attendants",
+			"14":"enchantress_natures_attendants",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_enchant":"Controla siempre al creep mas grande del campamento y luego usalos para gankear. Usa esta habilidad para hacer slow a enemigos y gankear en early y luego para las teamfights.",
+				"enchantress_natures_attendants":"Curacion en area muy potente y util.",
+				"enchantress_impetus":"Hace dmg segun la distancia del enemigo. Con la build vas a hacer un dmg brutal que puede destrozar a tus enemigos. Dejalo en autocast si quieres despues de la bloodstone (excepto cuando estes en la jungla de nuevo!)"
+		}
+	}
+}

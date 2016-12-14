@@ -1,0 +1,95 @@
+{
+	"Hero":"axe",
+	"Title":"[DMX] Axe-Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"vanguard",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"heart",
+				"shivas_guard",
+				"assault",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"blade_mail",
+				"hood_of_defiance",
+				"pipe",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"La Dagger vous aidera à utiliser votre Berserker call plus facilement.",
+				"pipe":"Très bon item si vos adversaires possèdent beaucoup de sorts AOE.",
+				"arcane_boots":"Axe ne disposant que de très peu de mana, les arcanes boots l'aideront à surmonter le problème.",
+				"tranquil_boots":"Tranquil boots vous permettra de vous soigner pendant que vous êtes dans les woods. Sa bonne augmentation de mobilité vous aidera également dans vos ganks."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_counter_helix",
+			"4":"axe_berserkers_call",
+			"5":"axe_counter_helix",
+			"6":"axe_culling_blade",
+			"7":"axe_counter_helix",
+			"8":"axe_berserkers_call",
+			"9":"axe_berserkers_call",
+			"10":"axe_berserkers_call",
+			"11":"axe_culling_blade",
+			"12":"axe_battle_hunger",
+			"13":"axe_battle_hunger",
+			"14":"axe_battle_hunger",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"axe_berserkers_call":"Ce sort est parfait pour engager vos ennemis lors d'un teamfight. Attention cependant sa portée est très faible.",
+				"axe_battle_hunger":"Un très bon DoT, mais qui sera moins utile pendant les ganks si vous jouez dans les woods. Utilisez le pour ralentir les adversaires et sur les cibles en fuite.",
+				"axe_counter_helix":"Le passif qui vous permettra de wood très facilement. Vous pourrez également très facilement tuer une vague de creeps grâce à ce sort.",
+				"axe_culling_blade":"Un finisher extrêmement  efficace. Essayez d'utiliser ce sort lorsque votre cible n'a plus beaucoup de vie pour le tuer instantanément."
+		}
+	}
+}

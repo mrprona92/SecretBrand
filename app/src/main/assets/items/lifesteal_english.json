@@ -1,0 +1,16 @@
+{
+  "dotaId": "lifesteal",
+  "id": 26,
+  "img": "lifesteal_lg.png",
+  "dname": "Morbid Mask",
+  "qual": "component",
+  "cost": 900,
+  "desc": "Passive: Lifesteal - Heals the attacker for a percentage of attack damage dealt.<br/><br/>Morbid Mask is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+  "notes": "",
+  "attrib": "LIFESTEAL: 15%",
+  "mc": false,
+  "cd": false,
+  "lore": "A mask that drains the energy of those caught in its gaze.",
+  "components": null,
+  "created": false
+}

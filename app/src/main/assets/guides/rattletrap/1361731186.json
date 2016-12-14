@@ -1,0 +1,113 @@
+{
+	"Hero":"rattletrap",
+	"Title":"Gankwerk - Mid Clockwerk guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"gauntlets",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"phase_boots"
+			],
+			"Luxury Items":
+			[
+				"radiance",
+				"assault",
+				"blade_mail"
+			],
+			"Options":
+			[
+				"arcane_boots",
+				"bloodstone",
+				"pipe",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"3 of these for a wand
+
+
+Duh.",
+				"boots":"Once you've got your boots 'n' bottle, you should begin ganking. Even better if you've already hit 6!",
+				"magic_wand":"I shouldn't honestly have to explain why you should get a magic wand.
+But you will be in the center of the action as clockwerk the majority of the game, bringing in shit tons of charges. Easy health + mana.",
+				"bottle":"You wanna rush this A.S.A.P
+Use flares to force your opponent out of the lane when going for runes.
+Honestly there is no preference rune for Clockwerk, they all synergize with him when ganking.",
+				"tango":"You won't need much regen early since you'll be rushing a bottle. ",
+				"phase_boots":"Phase boots add even more to clockwerks already incredible mobility.
+With the active you can outrun most other heroes, making for easy traps with your cogs. ",
+				"bracer":"Mainly for that extra bit of health it nets you, but can be built into a drum of endurance at a later point",
+				"pipe":"Pipe is an okay item to grab on Clockwerk if they have alot of magic damage.
+Giving him the resistance he needs to get nuked in a heartbeat and an active to help his team out. ",
+				"ultimate_scepter":"The aghanims on clockwerk is core. Without it, he's not at his peak. It reduces his ult to a 12 second cooldown. With this he becomes incredibly mobile. ",
+				"assault":"Another good item on Clockwerk, since you'll be in the middle of the opposing team an awful lot, why not make them squishier than they already were just from the sight of you?",
+				"bloodstone":"You should only be planning on getting a bloodstone if you opted for mana boots.
+honestly though, bloodstone is a really great item on clockwerk, makes him tankier, more mana for more hooks and regen to ensure he doesn't stop. 
+If the game's dragging on a bit longer than you expected, Bloodstone.",
+				"blade_mail":"Blademail is another great item on Clockwerk.
+Puts the enemy, quite literally in a prickly situation. 
+They either fight you in the cogs, and kill themselves.
+Or ignore you and die to your Battery Assault.
+Grab this if they have a fat Carry and focus that nuisance down.",
+				"radiance":"Radiance is really strong on clockwerk early, but the farm required for it is practically impossible for him to get early in the game.
+But if you get a huge lead and don't know where to spend your buttloads of dosh. Radiance is where to go.",
+				"arcane_boots":"I feel mana boots are sometimes needed on clockwerk, they can eventually be disassembled into a bloodstone too.
+Buy these if you're ahead early and want to keep the advantage. But only if you plan on ganking practically non-stop.",
+				"ancient_janggo":"Overall great item on practically anyone. Just try and get it before 15:00"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_rocket_flare",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_battery_assault",
+			"4":"rattletrap_power_cogs",
+			"5":"rattletrap_rocket_flare",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_battery_assault",
+			"8":"rattletrap_battery_assault",
+			"9":"rattletrap_rocket_flare",
+			"10":"rattletrap_rocket_flare",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_power_cogs",
+			"14":"rattletrap_power_cogs",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

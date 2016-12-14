@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/carousel_role_holder_width"
+    android:layout_height="@dimen/carousel_role_holder_height"
+    android:paddingLeft="@dimen/skill_role_holder_padding"
+    android:paddingRight="@dimen/skill_role_holder_padding">
+
+    <ImageView
+        android:id="@+id/skill_img"
+        android:layout_width="@dimen/skill_role_size"
+        android:layout_height="@dimen/skill_role_size"
+        android:layout_centerInParent="true" />
+
+    <ImageView
+        android:layout_width="@dimen/skill_role_bkg_size"
+        android:layout_height="@dimen/skill_role_bkg_size"
+        android:layout_centerInParent="true"
+        android:src="@drawable/skill_border_default" />
+</RelativeLayout>

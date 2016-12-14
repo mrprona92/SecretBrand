@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 16 Agility<br/>+ 15 Attack Speed<br/>+ 10% Movement Speed",
+  "cd": false,
+  "components": [
+    "blade_of_alacrity",
+    "boots_of_elves"
+  ],
+  "qual": "artifact",
+  "notes": "",
+  "desc": "Percentage based movement speed bonuses from multiple items do not stack.",
+  "dname": "Yasha",
+  "dotaId": "yasha",
+  "mc": false,
+  "img": "yasha_lg.png",
+  "lore": "Yasha is regarded as the swiftest weapon ever created.",
+  "id": 170,
+  "created": true,
+  "cost": 2050
+}

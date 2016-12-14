@@ -1,0 +1,16 @@
+{
+  "dotaId": "quarterstaff",
+  "id": 10,
+  "img": "quarterstaff_lg.png",
+  "dname": "Quarterstaff",
+  "qual": "component",
+  "cost": 875,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 10 УРОНА<br/>+ 10 к скорости атаки",
+  "mc": false,
+  "cd": false,
+  "lore": "Обычный посох, позволяющий быстро атаковать врагов.",
+  "components": null,
+  "created": false
+}

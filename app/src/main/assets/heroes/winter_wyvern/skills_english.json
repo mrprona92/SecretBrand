@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arctic Burn",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Winter Wyvern soars upon an arctic wind, granting her unobstructed movement and allowing her to exhale a blistering chill into each attack. While soaring, her attacks travel further and faster, and slow enemies with a magical freeze that strips them of 8% of their current health each second. Her sight is also hardened against night\u0027s chill, granting her 400% additional vision range at night while soaring.",
+        "notes": "Enemy units can only receive the Arctic Burn debuff once per cast.<br/>This ability does not affect Roshan.<br/>Reduces Winter Wyvern\u0027s attack point to 0.1.",
+        "dmg": "",
+        "attrib": "FLIGHT DURATION: <b><font color=\"#ffffff\">6</font></b><br/>BONUS ATTACK RANGE: <b><font color=\"#ffffff\">275/375/475/575</font></b><br/>HEALTH BURN: <b><font color=\"#ffffff\">8%</font></b><br/>BURN DURATION: <b><font color=\"#ffffff\">5</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">25%/30%/35%/40%</font></b><br/>ADDED NIGHT VISION RANGE: <b><font color=\"#ffffff\">400</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/110/100/90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/40/30/20",
+        "lore": "The same organ where some dragons stoke their inner flame is, in Auroth, a crucible of unimaginable cold. From deep within her frosty gullet, an exhalation sends enemies into burning agony.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_arctic_burn",
+        "youtube": "QJjASKaV5pM",
+        "id": 0
+    },
+    {
+        "dname": "Splinter Blast",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Launches a ball of brittle ice toward an enemy. The ice shatters on impact, leaving the primary target completely unaffected, while hurling damaging splinters into nearby enemies in a 500 radius. Enemies struck by these splinters are slowed by 25%.",
+        "notes": "The primary projectile moves at 500 movespeed, or reaches the target in 1 second, whichever is faster up to 4000 speed.<br/>Neither the primary or secondary projectiles can be disjointed.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/180/260/340</font></b>",
+        "attrib": "SHATTER RADIUS: <b><font color=\"#ffffff\">500</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">25%</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/130/140/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 7",
+        "lore": "Produced slowly by specialized vesicles in her frozen gullet, Winter Wyvern blast shards of ice at her enemies.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_splinter_blast",
+        "youtube": "SCGete8RbbU",
+        "id": 1
+    },
+    {
+        "dname": "Cold Embrace",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Encases an ally in an icy cocoon, freezing them solid while healing a base amount as well as a percentage of their maximum health each second. The cocoon blocks all physical damage.",
+        "notes": "Cannot be dispelled.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">4</font></b><br/>BASE HEALTH REGEN: <b><font color=\"#ffffff\">20</font></b><br/>MAX HEALTH REGEN: <b><font color=\"#ffffff\">3%/4%/5%/6%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/75/75/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 17/16/15/14",
+        "lore": "From winter\u0027s heart comes a cold, healing embrace. The ice slows the blood and allows the spell to better work its curative magic.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_cold_embrace",
+        "youtube": "8UDmKdYAQP4",
+        "id": 2
+    },
+    {
+        "dname": "Winter\u0027s Curse",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Winter Wyvern freezes an enemy in place while striking those nearby with a maddening curse which causes them to attack their frozen ally. Those cursed to attack their ally take 70% less damage.",
+        "notes": "If the target dies to its allies, Winter Wyvern will receive credit for the kill.",
+        "dmg": "",
+        "attrib": "CURSE RADIUS: <b><font color=\"#ffffff\">400</font></b><br/>CURSE DAMAGE REDUCTION: <b><font color=\"#ffffff\">70%</font></b><br/>CURSE DURATION: <b><font color=\"#ffffff\">2.5/3/3.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 250<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/100/90",
+        "lore": "The oldest of the bookwurm\u2019s spells, this curse lends truth to the old saw: sometimes the enemy of my enemy is my enemy still.",
+        "hurl": "Winter_Wyvern",
+        "name": "winter_wyvern_winters_curse",
+        "youtube": "AW7PdQw92ak",
+        "id": 3
+    }
+]

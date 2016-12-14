@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_phoenix",
+	"Title":"Recommended items for Phoenix",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"clarity",
+			"tango",
+			"flask",
+			"ring_of_protection",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"urn_of_shadows"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"tranquil_boots",
+			"mekansm",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"shivas_guard",
+			"rod_of_atos",
+			"veil_of_discard",
+			"pipe",
+			"heavens_halberd",
+			"heart",
+			"radiance"
+		]
+	}
+}

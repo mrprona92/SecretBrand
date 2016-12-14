@@ -1,0 +1,45 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_ogre_magi",
+	"Title":"Recommended items for Ogre Magi",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+            "clarity",
+			"clarity",
+			"branches",
+			"branches",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"arcane_boots",
+			"ultimate_scepter",
+			"ward_observer",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"mekansm",
+			"sheepstick",
+			"shivas_guard",
+			"ghost",
+			"ancient_janggo",
+			"bloodstone",
+			"veil_of_discord",
+			"cyclone",
+			"force_staff",
+			"pipe",
+			"flying_courier"
+		]
+	}
+}

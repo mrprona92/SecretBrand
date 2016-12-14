@@ -1,0 +1,95 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"BurningSera's How to Play Skywrath in Pub",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"mantle",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"Early Game Choices":
+			[
+				"bottle",
+				"arcane_boots",
+				"null_talisman",
+				"magic_wand",
+				"urn_of_shadows",
+				"ancient_janggo"
+			],
+			"First Core Choices":
+			[
+				"force_staff",
+				"mekansm",
+				"cyclone"
+			],
+			"Real Cores":
+			[
+				"sheepstick",
+				"black_king_bar",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"ethereal_blade",
+				"dagon",
+				"bloodstone",
+				"necronomicon",
+				"rod_of_atos",
+				"veil_of_discord",
+				"orchid",
+				"pipe",
+				"heart",
+				"blink",
+				"travel_boots",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ultimate_scepter":"Agha Skyboss + OD's Aura.........",
+				"bloodstone":"If you can get this around 10mins, why not? And it is situationally powerful in mid/late game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_ancient_seal",
+			"9":"skywrath_mage_ancient_seal",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_concussive_shot",
+			"13":"skywrath_mage_concussive_shot",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"skywrath_mage_mystic_flare",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

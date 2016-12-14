@@ -1,0 +1,99 @@
+{
+	"Hero":"chen",
+	"Title":"Дефолтный Чечен в союзном лесу",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"smoke_of_deceit",
+				"branches",
+				"flask",
+				"ward_sentry",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"ward_observer",
+				"flying_courier",
+				"ring_of_basilius",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"arcane_boots",
+				"tpscroll",
+				"gem",
+				"ward_observer",
+				"magic_wand",
+				"ring_of_basilius"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"ultimate_scepter",
+				"urn_of_shadows",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"На базил=> пушим товера,
+если на лайне есть базил, не берем.",
+				"magic_stick":"стик берем обязательно.",
+				"flask":"запулим в нашего керри/мидера.",
+				"ward_sentry":"Обязательно девардим наш лес, иначе не сможем вынести нужные итемы.",
+				"tango":"Альтернатива банке на пулл в союзного героя.",
+				"courier":"Обязательно, вы же тру саппорт.",
+				"mekansm":"Наше все. Приоритетный артефакт, стараемся как можно раньше вынести из леса.",
+				"vladmir":"АУРЫ, АУРЫ, АУРЫ",
+				"flying_courier":"Апаем при первой возможности.",
+				"ring_of_basilius":"Обязательно иметь в легкой линии , если  ваш керри планирует купить /уже приобрел себе - отложите покупку на некоторое время.",
+				"urn_of_shadows":"Берем обязательно,если никто не взял.",
+				"necronomicon":"Альтернатива агониму.",
+				"ultimate_scepter":"Полезно, если часто деретесь/рано соберете.",
+				"arcane_boots":"Исключаем другие тапки, т.к. юзлэс.",
+				"smoke_of_deceit":"Смок для раннего выхода в мид/лейн по ситуации."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_test_of_faith",
+			"4":"chen_holy_persuasion",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

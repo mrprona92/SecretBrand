@@ -1,0 +1,115 @@
+{
+	"Hero":"disruptor",
+	"Title":"Dejavu !",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"tango",
+				"clarity",
+				"clarity",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_regen",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"veil_of_discord",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"bloodstone",
+				"sheepstick",
+				"ghost",
+				"force_staff",
+				"cyclone",
+				"rod_of_atos",
+				"dagon",
+				"refresher"
+			],
+			"Supportive Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier",
+				"dust",
+				"smoke_of_deceit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"This item needed just in case you need to escape from enemies that keep locking you first.",
+				"cyclone":"This item needed just in case you need to escape from enemies that keep locking you first.",
+				"force_staff":"This item needed just in case you need to escape from enemies that keep locking you first.",
+				"ultimate_scepter":"Since 6.79 Updates The Static Storm will gain some advantages with Scepter, such as silences items, and lasts an extra 2 seconds, this will so much help you and your team when war! ABSOLUTE SCEPTER!",
+				"refresher":"Imagine what Double Static Storm can do? >:)",
+				"veil_of_discord":"Use this item when your enemies don't have a BKB. Use it with the Static Storm.",
+				"rod_of_atos":"if you have this Rod, i suggest you to use it after Static Storm, really help your team if your team to wipe."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_thunder_strike",
+			"2":"disruptor_kinetic_field",
+			"3":"disruptor_glimpse",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_glimpse",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_kinetic_field",
+			"8":"disruptor_glimpse",
+			"9":"disruptor_kinetic_field",
+			"10":"disruptor_kinetic_field",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_thunder_strike",
+			"13":"disruptor_thunder_strike",
+			"14":"disruptor_thunder_strike",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Spam this skill to your enemies with thinner HP, this will makes them hard to farm and disturbed. This skill also really great to initiate, use this skill 1st, as the enemies run away, count to 4, and use your glimpse, then kinetic field, this way works so good for me. Probably the best!",
+				"disruptor_glimpse":"for me, this is the greatest skill of this hero, besides of his ultimate skill. why this skill so great?
+- works best with my \"DEJAVU!\" moves. (see attributes for info)
+- this skill will makes your enemies even mad when you glimpse them after they just arrived from Teleporting. (so much fun tho!)",
+				"disruptor_kinetic_field":"This is a great skill, you need a practice to use this skill, or you need to know when do your enemies go. Use this skill 1st before you use Static Storm. because Static Storm won't works best w/o this skill.",
+				"disruptor_static_storm":"BEST.SKILL.EVER.
+
+what skills that gives a huge damage, silencing enemies? this is the best! especially when you have Veil of Discord, Triple Kill is a must. I've tried it like.. A LOT. trust me.",
+				"attribute_bonus":"The DEJAVU! :
+
+- cast Thunder Strike or just hit your enemies, so they feel a bit scare
+- count to 3-4, this is important!
+- glimpse them back, and quickly use kinetic field! (Dejavu!)
+- Static Storm just in case of emergency"
+		}
+	}
+}

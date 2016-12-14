@@ -1,0 +1,72 @@
+{
+	"Hero":"kunkka",
+	"Title":"5 Bracer Kunkka",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"bracer"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"bracer",
+				"phase_boots",
+				"ancient_janggo"
+			],
+			"Sell & Build":
+			[
+				"lifesteal",
+				"bfury",
+				"lesser_crit"
+			],
+			"Finishing Items":
+			[
+				"satanic",
+				"heart",
+				"greater_crit"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"attribute_bonus",
+			"3":"kunkka_tidebringer",
+			"4":"attribute_bonus",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"kunkka_ghostship",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"kunkka_x_marks_the_spot",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"kunkka_x_marks_the_spot",
+			"19":"attribute_bonus",
+			"20":"kunkka_x_marks_the_spot",
+			"21":"kunkka_x_marks_the_spot",
+			"22":"kunkka_torrent",
+			"23":"kunkka_torrent",
+			"24":"kunkka_torrent",
+			"25":"kunkka_torrent"
+		}
+	}
+}

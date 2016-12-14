@@ -1,0 +1,107 @@
+{
+	"Hero":"huskar",
+	"Title":"Graddus' Huskar Build [Midlane]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"helm_of_the_dominator"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"heavens_halberd",
+				"black_king_bar"
+			],
+			"Luxury":
+			[
+				"heart",
+				"satanic"
+			],
+			"Situational Items":
+			[
+				"blade_mail",
+				"invis_sword",
+				"desolator",
+				"assault",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Gives nice Early Stats.",
+				"tpscroll":"A TP Scroll allows you to gank every lane, bypassing enemy wards.",
+				"power_treads":"Power Treads improve your attack speed and tankiness, which are essential for Huskar.",
+				"urn_of_shadows":"An Urn of Shadows helps your team stay alive by burning people down.",
+				"ultimate_scepter":"An Aghanim's Scepter is an excellent choice against tanky heroes, since your ult will remove 65% of their health. And you can use Life Break more often.",
+				"assault":"An Assault Cuirass is an excellent choice for Huskar, since you wil become tankier and the enemy will become squishier.",
+				"heart":"I Always get a Heart, since it allows you to keep your armlet on without draining health.",
+				"black_king_bar":"A BKB is a must-have. It protects you from magical harm in teamfights and it DENIES THE SELFDAMAGE FROM LIFE BREAK.",
+				"blade_mail":"Blade Mail is a very good choice against heavy DPS machines who will fight back.",
+				"armlet":"The Armlet of Mordiggain is great for Huskar, because if you turn it on it will decrease your Health and provide bonus Attack Speed and Health, which is great because of Berserker's Blood.
+Always turn it on if you are gonna gank someone with Life Break.",
+				"invis_sword":"Shadow Blade is a legit purchase for a ganking Huskar, or if you need an escape mechanism.",
+				"satanic":"Satanic + Berserker's Blood = LifestealFest.
+",
+				"helm_of_the_dominator":"A Helm of the Dominator sustains the drain effect of Life Break. It also allows you to take over an Alpha Wolf, increasing your Damage even further.",
+				"desolator":"A Desolator is a good option against tanky heroes, or if you want to play a pushing Huskar.
+Keep in mind that you have to sell the HotD if you want to buy this.",
+				"smoke_of_deceit":"Smoke of Deceit helps you to gank enemies, especially if the enemy has a proper warding up.",
+				"heavens_halberd":"The Heaven's Halberd provides a slow to your AA, which synergizes with Huskar's Berserker's Blood. The Disarm helps you to kill enemies quickly in conjunction with Life Break."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_burning_spear",
+			"4":"huskar_berserkers_blood",
+			"5":"huskar_burning_spear",
+			"6":"huskar_life_break",
+			"7":"huskar_burning_spear",
+			"8":"huskar_berserkers_blood",
+			"9":"huskar_berserkers_blood",
+			"10":"huskar_inner_vitality",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"Inner Vitality helps you to stay alive in fights and ganks. Alway use this before Life Breaking to improve your survivability.",
+				"huskar_burning_spear":"Burning Spear synergizes directly with your passive, turning you into a DPS monster. It isn't an Attack Modifier, meaning it stacks with one Attack Modifier like a Desolator.",
+				"huskar_berserkers_blood":"Berserker's Blood makes you very hard to kill, since you'll attack faster and take less damage from spells when you get low.",
+				"huskar_life_break":"Life Break allows you to quickly kill lone enemies. It cuts their HP in half, and it also removes some of your own HP. THis synergizes directly with your passive, granting you a nice Attack Speed bonus. "
+		}
+	}
+}

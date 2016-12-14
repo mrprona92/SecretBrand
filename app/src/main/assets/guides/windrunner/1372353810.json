@@ -1,0 +1,112 @@
+{
+	"Hero":"windrunner",
+	"Title":"DPS Carry [Solo Lane] Windrunner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"mantle",
+				"mantle",
+				"clarity",
+				"flask",
+				"tango",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"null_talisman",
+				"null_talisman",
+				"magic_stick",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"magic_wand",
+				"maelstrom",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"force_staff",
+				"helm_of_the_dominator",
+				"mekansm",
+				"monkey_king_bar",
+				"orchid"
+			],
+			"Luxuries":
+			[
+				"mjollnir",
+				"sheepstick",
+				"sphere",
+				"desolator",
+				"greater_crit",
+				"ultimate_scepter",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Great support item; nice stats and a great active too.",
+				"urn_of_shadows":"Buy this early and if you know that you're going to build this item start with str gloves instead of int mantle.",
+				"sheepstick":"Hex is too good... but expensive.",
+				"orchid":"The silence and the bonus attack speed makes this  a usually must have on WR.",
+				"force_staff":"''I sense a great disturbance in the force.''",
+				"ultimate_scepter":"Acceptable stats, good item that gives HP so you won't be a total glass cannon.",
+				"shivas_guard":"For the armor of some sort.",
+				"sphere":"Is Lina or Lion in the enemy team? Get this.",
+				"monkey_king_bar":"If the enemy carry is unhitable cuz of Butterfly.",
+				"greater_crit":"Crits!!! ;O",
+				"mjollnir":"Thor Hammer ftw!",
+				"helm_of_the_dominator":"Lifesteal is GOOD. [Except on Huskar ;P]",
+				"maelstrom":"The passive is great for farming. Get this asap after phase. If you are doing well you can upgrade this into a Mjollnir.",
+				"desolator":"If you can farm this at around 15-18 mins you will own your enemies so hard. Combine it with a Medallion of Courage for total OPness."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_shackleshot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_focusfire",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Really good stun but needs to be targeted well to be maximum effective.",
+				"windrunner_powershot":"Your main damage source max this asap and spam it whenever you can.",
+				"windrunner_windrun":"Get this first to avoid an early gank and FB otherwise this is a really good escape and offensive tool.",
+				"windrunner_focusfire":"Rapid fire. Nothing really special about it. Don't get it at 6 cuz you probably wont have enough damage for this spell to be effective."
+		}
+	}
+}

@@ -1,0 +1,91 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Drink and be bleary, for tomorrow we die.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"phase_boots",
+				"blink"
+			],
+			"coreItems":
+			[
+				"assault",
+				"sange_and_yasha",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"armlet",
+				"ultimate_scepter",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger is a very effective item for both kind of players,those who like playing more aggresive,and those who play him for utility. It provides you a good movement over the map.Still,this item shall not miss from your Mangix build.",
+				"bottle":"It is a very viable option;still,I suggest it to build it only if you are playing in a hard-lane or in middle lane.",
+				"phase_boots":"In my opinion,in early game,I think phase boots are the best. It helps you land your Thunder Claps easily as well as catching enemies from behind.",
+				"ultimate_scepter":"If you decide to play as an initaitor,you have to build this item.",
+				"assault":"This is one of the most effective items for Mangix.It offers you a great defense mechanism as well as you help yourself and your team with the benifts of the item.",
+				"bfury":"Battle Fury is a very aggresive item for Mangix,The brewmaster. Still,it works quite well,but don`t build it only if necessary;only if you decide to play as a semi-carry OR if you are the only damage dealer in your team.",
+				"armlet":"Armlet is a very viable choice for every kind of gameplay.It offers you a good amount of survivability,and it will help you resist more in a fight,as well as dealing some damage.",
+				"sange_and_yasha":"Offers you some great stats,as well as you can catch  your enemies from behind;as well as giving you the option of being sure that you should resist in a fight.",
+				"ancient_janggo":"This is a good mobility item.As well for yourself,but for your team too.Should be considered as a main item if you decide to focus on utility."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_haze",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_drunken_brawler",
+			"8":"brewmaster_thunder_clap",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_brawler",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_haze",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"In early game you may use this skill to farm,as well as picking up final blows.In late game you become the perfect counter for all carries(pointing Drunken Haze too).",
+				"brewmaster_drunken_haze":"This skill is way too perfect for countering carries.As well as you don`t need it that much in early game,it becomes crucial in late game.",
+				"brewmaster_drunken_brawler":"Drunken Brawler is why Brewmaster can be a carry for his team giving him 25% chance to do 200% damage. This is huge and makes up for most of your damage while not using your spirits.",
+				"brewmaster_primal_split":"As you know when you use this ability it summons the 3 different primal spirits. However this spell isn't used to just summon them there are still other uses for them. You use them to initiate fights.Skills: 1)Hurl Bolder,Spell Immunity; 2)Dispel Magic,Windwalk and Cyclone; 3)Permanent Immolation."
+		}
+	}
+}

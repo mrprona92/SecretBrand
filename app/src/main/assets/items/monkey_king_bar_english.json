@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 88 Damage<br/>+ 15 Attack Speed<br/>CHANCE TO MINI-BASH: 35%<br/>MINI-BASH DAMAGE: 100",
+  "cd": false,
+  "components": [
+    "demon_edge",
+    "javelin",
+    "javelin"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Passive: Mini-Bash - Gives a chance to minibash and deal bonus damage.<br/>Passive: True Strike - Prevents your attacks from missing.",
+  "dname": "Monkey King Bar",
+  "dotaId": "monkey_king_bar",
+  "mc": false,
+  "img": "monkey_king_bar_lg.png",
+  "lore": "A powerful staff used by a master warrior.",
+  "id": 135,
+  "created": true,
+  "cost": 5400
+}

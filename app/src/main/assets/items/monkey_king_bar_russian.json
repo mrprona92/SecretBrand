@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 88 к урону<br/>+ 15 к скорости атаки<br/>ШАНС МИНИ-ОГЛУШЕНИЯ: 35%<br/>УРОН МИНИ-ОГЛУШЕНИЯ: 100",
+  "cd": false,
+  "components": [
+    "demon_edge",
+    "javelin",
+    "javelin"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Пассивная: Mini-Bash — дает шанс кратковременно оглушить цель и нанести ей дополнительный урон.\r<br/>Пассивная: True Strike — ваше оружие больше никогда не промахнется.",
+  "dname": "Monkey King Bar",
+  "dotaId": "monkey_king_bar",
+  "mc": false,
+  "img": "monkey_king_bar_lg.png",
+  "lore": "Могущественный посох, используемый мастерами.",
+  "id": 135,
+  "created": true,
+  "cost": 5400
+}

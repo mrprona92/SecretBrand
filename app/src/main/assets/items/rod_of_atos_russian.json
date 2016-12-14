@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 30 к интеллекту<br/>+ 350 к здоровью<br/>ЗАМЕДЛЕНИЕ: 60%<br/>ДЛИТЕЛЬНОСТЬ: 4",
+  "cd": 10,
+  "components": [
+    "staff_of_wizardry",
+    "staff_of_wizardry",
+    "vitality_booster"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Активируемая: Cripple — снижает скорость передвижения цели.",
+  "dname": "Rod of Atos",
+  "dotaId": "rod_of_atos",
+  "mc": 50.0,
+  "img": "rod_of_atos_lg.png",
+  "lore": "В этом простом на первый взгляд жезле заключено естество владыки чумы Атоса.",
+  "id": 206,
+  "created": true,
+  "cost": 3100
+}

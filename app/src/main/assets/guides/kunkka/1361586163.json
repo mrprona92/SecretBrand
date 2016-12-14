@@ -1,0 +1,114 @@
+{
+	"Hero":"kunkka",
+	"Title":"Eder's guide to slamming with Kunkka",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"invis_sword",
+				"lesser_crit",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"heart",
+				"monkey_king_bar",
+				"gem",
+				"blade_mail",
+				"bfury",
+				"travel_boots",
+				"blink"
+			],
+			"Rapiers":
+			[
+				"rapier",
+				"rapier",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"X Mark and Blink in for fuckin HUGE play credits, gaurenteed to psycologically crush the enemy team if it can be pulled off. (For real men only)",
+				"gauntlets":"Because fuck those guys in your lane, they are gonna die and like it.",
+				"branches":"Pros build branches, what, you're saying im not a pro? Fuck you.",
+				"boots":"You think you can just play this game without boots? Thats right, you go back to that side shop and you buy them.",
+				"gem":"Riki got you down? FUCKING RIP HIS ASS APART!",
+				"magic_stick":"YEAH I BUILD A WAND, WHAT? YOU GOTTA A PROBLEM OR SOMETHING?!",
+				"tango":"What are you a pussy? Three tangos is all you need boy.",
+				"travel_boots":"AWWWW YOU JUST FOUNTAIN DIVED AMIRITE? Buy thesse to make sure you end up in that game winning shot.",
+				"phase_boots":"GODDAMN THESE BOOTS ARE PURPLE.",
+				"urn_of_shadows":"See you dont even need to go back to base, just kill, wash, rinse, urn, repeat.",
+				"heart":"If you get here you win, hands down. What? You didnt win yet? Shit man, i dont know what to tell you.",
+				"blade_mail":"I dont know man, fuck this item looks good.",
+				"rapier":"BECAUSE FUCK YOUR TEAM, YOU'LL DO WHAT YOU WANT WHEN YOU WANT, AND WHAT BETTER WAY TO SHOW IT THEN A RAPIER.",
+				"monkey_king_bar":"For times when the damage simply just cannot be left to chance.",
+				"greater_crit":"Congratulations you now have a 25% chance to win any teamfight!",
+				"bfury":"Dont buy this item, its terrible,it just makes the build look a bit better.",
+				"lesser_crit":"Look you gotta 1 v 5 somehow right? Great things have small beginings.",
+				"invis_sword":"If you do this right you should be #1 on the enemy's list of shit that needs killing, this will help you evade every single gank. (unless you get that one pub who buys dust, like wtf)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_torrent",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_torrent",
+			"9":"kunkka_torrent",
+			"10":"kunkka_x_marks_the_spot",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_x_marks_the_spot",
+			"13":"kunkka_x_marks_the_spot",
+			"14":"kunkka_x_marks_the_spot",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"You thought water was essential for all life on this planet? NOPE, WITH THIS HERO IT IS THE FUCKING DEADLIEST THING. Just throw this whenever you see and enemy about to last hit and scream over the mic &quot;BOOSH&quot;.",
+				"kunkka_tidebringer":"So what if, every 4 seconds, you just hit the whole enemy team with your attack? Sounds op? IT FUCKING IS, ITS LIKE YOUR ENEMIES JUST DIE FROM BEING TOO CLOSE TO YOUR BADASS LEVEL, ITS LIKE YOU'RE A SUN BURNING EVERYTHING THAT GETS CLOSE. As always yell &quot;SPLASH&quot; or &quot;SPALOOSH&quot; over the mic everytime.",
+				"kunkka_x_marks_the_spot":"KUNKKA JUST SLAPS THAT BASS SO HARD THE ENEMY CANT HELP BUT COME BACK FOR SECONDS! Passivly X marks tp'ing allies as well.",
+				"kunkka_ghostship":"This is like, kunkka's whole crew come to back his ass up, this thing is op as fuck if you can land the torrent boat combo. As is the norm, scream random gibberish ending with a &quot;CRASH&quot; when using this ability.",
+				"kunkka_return":"SLAP THAT BASS!",
+				"attribute_bonus":"Fuck naw man, you dont need stats, you man enough as is."
+		}
+	}
+}

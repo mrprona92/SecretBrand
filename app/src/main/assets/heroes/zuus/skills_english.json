@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arc Lightning",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Hurls a bolt of lightning that leaps through nearby enemy units.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">85/100/115/145</font></b>",
+        "attrib": "JUMPS: <b><font color=\"#ffffff\">5/7/9/15</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 65/70/75/80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 1.75",
+        "lore": "Arc Lightning is Zeus\u0027 favorite spell to use against puny mortals.",
+        "hurl": "Zeus",
+        "name": "zuus_arc_lightning",
+        "youtube":"uHcb8gCUP3s",
+        "id": 0
+    },
+    {
+        "dname": "Lightning Bolt",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Calls down a bolt of lightning to strike an enemy unit, causing damage and a mini-stun. When cast, Lightning Bolt briefly provides unobstructed vision and True Sight around the target in a 750 radius. Can be cast on the ground, affecting the closest enemy hero in 325 range.",
+        "notes": "You can interrupt channeling spells and items with this ability.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/175/275/350</font></b>",
+        "attrib": "SIGHT RADIUS: <b><font color=\"#ffffff\">750</font></b><br/>SIGHT DURATION: <b><font color=\"#ffffff\">4.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/95/115/135<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 6",
+        "lore": "A shocking punishment for rebellious heathen.",
+        "hurl": "Zeus",
+        "name": "zuus_lightning_bolt",
+        "youtube":"S5xDQfHBSw4",
+        "id": 1
+    },
+    {
+        "dname": "Static Field",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Zeus shocks all nearby enemy units whenever he casts a spell, causing damage proportional to their current health.",
+        "notes": "The damage from Static Field is dealt before the damage from the used spell.<br/>Using items doesn\u0027t trigger Static Field.<br/>Does not require unit visibility to take effect.",
+        "dmg": "",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">1200</font></b><br/>HEALTH REDUCTION: <b><font color=\"#ffffff\">5%/7%/9%/11%</font></b>",
+        "cmb": "",
+        "lore": "The air crackles with static when the Thundergod walks the world.",
+        "hurl": "Zeus",
+        "name": "zuus_static_field",
+        "youtube":"mZm0z2mlPvY",
+        "id": 2
+    },
+    {
+        "dname": "Thundergod\u0027s Wrath",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Strikes all enemy heroes with a bolt of lightning, no matter where they may be.  Thundergod\u0027s Wrath also provides True Sight around each hero struck.  If an enemy hero is invisible, it takes no damage, but the True Sight is still created at that hero\u0027s location.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "TRUE SIGHT RADIUS: <b><font color=\"#ffffff\">500</font></b><br/>DURATION: <b><font color=\"#ffffff\">3/3/3/3</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">225/350/475</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">440/540/640</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 225/325/450<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 90",
+        "lore": "The Lord of Heaven smites all who oppose him, near or far.",
+        "hurl": "Zeus",
+        "name": "zuus_thundergods_wrath",
+        "youtube":"IGhJdGh8CH8",
+        "id": 3
+    }
+]

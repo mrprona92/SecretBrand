@@ -1,0 +1,137 @@
+{
+	"Hero":"winter_wyvern",
+	"Title":"6.83- Winter Wyvern (Support) Standard Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"soul_ring"
+			],
+			"Mid Game":
+			[
+				"tranquil_boots",
+				"urn_of_shadows",
+				"force_staff"
+			],
+			"Situational Offensive":
+			[
+				"blink",
+				"cyclone",
+				"veil_of_discord",
+				"rod_of_atos",
+				"sheepstick",
+				"orchid"
+			],
+			"Situational Defensive":
+			[
+				"mekansm",
+				"pipe",
+				"ghost",
+				"shivas_guard",
+				"sphere",
+				"black_king_bar"
+			],
+			"Utility Items":
+			[
+				"courier",
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier",
+				"smoke_of_deceit",
+				"dust",
+				"tpscroll",
+				"arcane_boots",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is great for mobility, one of your biggest weaknesses. Pick a up a Blink Dagger early on, or a Force Staff if their team has a lot of initiation, this will solve your positioning issues for the rest of the game. This is also great for counter-initiation!",
+				"branches":"Iron Branches will give you more stats, helping you with survivability and mana management during the laning phase, build these into a wand later if needed.",
+				"boots":"Boots of Speed will make you faster! Remember you can pick both Boots and Magic Stick up from the side shop.",
+				"gem":"Gem of True Sight is the most reliable yet risky of the True Sight options. It provides an aura of True Sight around the holder which will reveal invisible enemies and wards. However, when the holder is killed, the item is dropped on the ground, purchasing this item must be carefully considered.",
+				"magic_stick":"A Magic Stick is helpful as an extra boost to your longevity; the extra hp and mana can prove vital, especially when laning. Upgrade this situationally.",
+				"ghost":"Ghost Scepter allows the Hero to avoid receiving physical damage in efforts to help you survive against right click heavy carries. Later on you have the option to upgrade this to an Ethereal Blade.",
+				"clarity":"Clarity provides some mana regeneration during the laning phase. Take in consideration that this will take you out the fight for 40 seconds.",
+				"flask":"A Healing Salve can be used on allies as well, letting you patch up a friend in need. Just be careful not to use it too close to the action, since the effect ends if the target takes enough damage.",
+				"dust":"Dust of Appearance is a direct counter to invisible units. It comes with two charges and lays down an area of revealing dust that will reveal any invisible heroes inside of it. Though it doesn't last long, the effect will prevent heroes from turning invisible again for 12 seconds.",
+				"ward_observer":"Absolutely essential to victory, Observer Wards allow you to keep watch over areas and spy on your enemies while keeping you and other heroes safe. It is important to keep wards up in key locations. Make sure you have at least 2 Observer wards on the battlefield at one time.",
+				"ward_sentry":"Sentry Wards offer temporary natural vision, and offer True Sight which can detect invisible enemies. Their detection radius is large, making them useful as long as you have vision in that area. Their primary use is for countering enemy wards, but can also be used for spotting invisible heroes.",
+				"tango":"Tangos are useful in sustaining team-mates and yourself. Don't be afraid to share one with a low hp teammate.",
+				"courier":"Both Courier and Wards should be bought at the start of the game. Be sure to pick up Observer Wards if someone else buys the Courier.",
+				"tpscroll":"Always carry a Town Portal Scroll. Using the scroll allows you teleport to a friendly building. It can also be used as a means of escape against heroes who have no way to cancel the channeling.",
+				"mekansm":"Mekansm grants more stats, more armour and more HP regeneration, making you harder to kill. Its active ability is useful both for supporting and to save yourself from danger. Consider picking up Soul Ring or Arcane Boots if you plan on going Mekansm, since your mana pool may be crippled.",
+				"pipe":"Pipe of Insight gives much more HP regeneration and increases your magic resistance. Its ability is useful if the enemy team has a great initiator: with this item you'll be able to partially counter them.",
+				"urn_of_shadows":"Urn of Shadows provides quick healing without a mana cost, and boosts your mana regeneration by a fair amount. With this you can remain relevant in the game until you get your major items up. You should pick this up early, but only if your team doesn't have one already.",
+				"sheepstick":"Scythe of Vyse is a very farm-intensive item to purchase, however it gives good stats and plenty of mana and mana regeneration. It comes with a reliable disable with a moderate cooldown and removes evasion.",
+				"orchid":"Orchid Malevolence provides a strong disable, and is one of the best DPS items for an intelligence hero. Pick this up over a Scythe when you want to gank early and shut down a hero with escapes, or need to silence strong magic casters in team fights.",
+				"cyclone":"This is a great pick up versus a team with a lot of silence or initiation. Eul's also has great bonuses like increased mana regen and movement speed. Its active also provides you with a disable to set up kills, and can be used to dodge a number of projectiles.",
+				"force_staff":"Force Staff is great to chase enemies and to save yourself or teammates from sure death. This item makes positioning a lot easier. It's sometimes very nice to have both a blink dagger and a Force Staff so that you can both initiate and escape from an engagement.",
+				"black_king_bar":"Black King Bar is a good item to have if you're facing many disablers or nukers. With the added survivability, damage and magic immunity, you will be more durable and able to jump into the fight with less risk of dying.",
+				"shivas_guard":"Shiva's Guard will increase your mana pool and your resistance to physical damage, which makes it an ideal item against right-click heroes. It will also provide you with a fairly powerful AoE nuke and slow.",
+				"sphere":"Though situational, Linken's Sphere is a good counter to teams with skills that could leave you (or an ally) stunned or disabled for a long time, a good example being Doom or Batrider. Overall, it grants nice stats, some health and mana.",
+				"soul_ring":"Soul Ring is another way to restore much needed mana, if you are willing to pay the health cost. You can choose to pick this up after your brown boots if you want to play aggressive, as a safer option you can pick this up after your Tranquils.",
+				"arcane_boots":"Arcane Boots give you an instant source of mana, which can help with your mana-expensive abilities. As well as this, the active mana regeneration is helpful for your allies.",
+				"smoke_of_deceit":"Smoke of Deceit plays a cunning role against a well-warded team. The added mobility makes it easy to set up surprise attacks or to slip behind enemies without being spotted.",
+				"veil_of_discord":"Veil of Discord grants you health regeneration and armour, gives you more Intelligence, and also provides a useful amplification of you and your teams magical damage dealt to any enemy caught in its blast.",
+				"rod_of_atos":"Rod of Atos will provide you with additional health and Intelligence, as well as an active slowing ability against a single target.",
+				"tranquil_boots":"Tranquil Boots give you a great movement speed bonus, armour and good HP regeneration when out of a fight for 13 seconds, paired up with a Soul Ring, this will allow you to stay on the field without going back to the fountain."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"winter_wyvern_arctic_burn",
+			"2":"winter_wyvern_splinter_blast",
+			"3":"winter_wyvern_arctic_burn",
+			"4":"winter_wyvern_cold_embrace",
+			"5":"winter_wyvern_arctic_burn",
+			"6":"winter_wyvern_winters_curse",
+			"7":"winter_wyvern_arctic_burn",
+			"8":"winter_wyvern_splinter_blast",
+			"9":"winter_wyvern_splinter_blast",
+			"10":"winter_wyvern_splinter_blast",
+			"11":"winter_wyvern_winters_curse",
+			"12":"winter_wyvern_cold_embrace",
+			"13":"winter_wyvern_cold_embrace",
+			"14":"winter_wyvern_cold_embrace",
+			"15":"attribute_bonus",
+			"16":"winter_wyvern_winters_curse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"winter_wyvern_arctic_burn":"You will gain flying movement for 6 seconds, during this you will move through cliffs and other impassable terrain for the duration. This also Increases your attack range to 700/800/900/1000 and projectile speed to 1200.",
+				"winter_wyvern_splinter_blast":"This spell is great to be used both offensively and defensively, but due to its high mana cost as it's leveled up, it's usually better to max Arctic Burn. It's also good to note that the projectiles cannot be disjointed or dispelled, and fully affects invisible units. ",
+				"winter_wyvern_cold_embrace":"The allied hero is disabled for the duration of the buff and the target will still be targetable by enemies, and can stilll be affected by Magic/Pure damage and other buff/debuffs.",
+				"winter_wyvern_winters_curse":"Enemies that move into Winter's Curse's radius during its duration will also be affected. You are also granted the credit kills with this, unless the target is affected by Reaper's Scythe.",
+				"attribute_bonus":"Stats!"
+		}
+	}
+}

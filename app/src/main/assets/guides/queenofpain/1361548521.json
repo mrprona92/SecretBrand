@@ -1,0 +1,89 @@
+{
+	"Hero":"queenofpain",
+	"Title":"Queen of Pain (6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"sphere",
+				"sheepstick"
+			],
+			"Lategame Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"skadi"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Cheap stats on a stick. This and a tango is all you can afford if you want a timely bottle.",
+				"bottle":"At last, rune control and overall replenishment!",
+				"tango":"Your only regen item. You want that fast bottle.",
+				"power_treads":"Queen of Pain is frail, leave this on STR.",
+				"sheepstick":"Strong disable, infinite mana, damage.",
+				"ultimate_scepter":"Improves your ulti. You may want to consider this before the Scythe if you feel the extra disable is not truly necessary.",
+				"shivas_guard":"Armor and AoE slow nuke. Perfect for our frail but slippery Queen.",
+				"sphere":"Your defensive item. Spell Block + Blink = Slippery QoP ( pun intended ).",
+				"skadi":"Stats, stats everywhere. An extra snare to help your team. The game will probably not get this far."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_shadow_strike",
+			"2":"queenofpain_blink",
+			"3":"queenofpain_scream_of_pain",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_blink",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_shadow_strike",
+			"14":"queenofpain_shadow_strike",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Harassment tool. Snares foes, costs little mana. 150 damage after reduction.",
+				"queenofpain_blink":"Escape/Chase mechanism.",
+				"queenofpain_scream_of_pain":"AoE Nuke. Max it after you grab 1 pt in dagger and blink.",
+				"queenofpain_sonic_wave":"Large AoE nuke cone. Max it ASAP."
+		}
+	}
+}

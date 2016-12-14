@@ -1,0 +1,94 @@
+{
+	"Hero":"silencer",
+	"Title":"SILENCE! I kill You!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"sobi_mask",
+				"tango",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"orchid",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"rod_of_atos",
+				"cyclone",
+				"force_staff",
+				"shivas_guard",
+				"sphere",
+				"mekansm",
+				"assault",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"Very Situational Items":
+			[
+				"black_king_bar",
+				"hand_of_midas",
+				"pipe",
+				"ward_observer",
+				"courier",
+				"ward_sentry",
+				"flying_courier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_last_word",
+			"2":"silencer_curse_of_the_silent",
+			"3":"silencer_last_word",
+			"4":"silencer_glaives_of_wisdom",
+			"5":"silencer_last_word",
+			"6":"silencer_global_silence",
+			"7":"silencer_last_word",
+			"8":"silencer_curse_of_the_silent",
+			"9":"silencer_curse_of_the_silent",
+			"10":"silencer_curse_of_the_silent",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_glaives_of_wisdom",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"silencer_curse_of_the_silent":"This is a build to harass a lot in the lane phase using last word.
+You can invert the skill points of the last word with the Curse of silet so you can remove the mana from your opponents."
+		}
+	}
+}

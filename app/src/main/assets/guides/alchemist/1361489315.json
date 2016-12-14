@@ -1,0 +1,135 @@
+{
+	"Hero":"alchemist",
+	"Title":"The Basics of Alchemy (Carry Alchemist)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"stout_shield",
+				"ring_of_protection",
+				"quelling_blade",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"phase_boots",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"assault",
+				"tpscroll",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"abyssal_blade",
+				"invis_sword",
+				"travel_boots",
+				"desolator",
+				"heavens_halberd",
+				"butterfly",
+				"greater_crit",
+				"satanic",
+				"monkey_king_bar",
+				"blink",
+				"heart",
+				"hand_of_midas"
+			],
+			"Divine Rapier":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you're a cheeky asshole.",
+				"quelling_blade":"If your last hitting is not going so well in lane and you can get to the Side Shop, consider a Quelling Blade.  IT pays for itself quickly and can help make last hitting much easier.",
+				"ring_of_protection":"Worth considering a Ring of Protection if you want to build a Basilius for Mana Regen.",
+				"stout_shield":"Take Stout Shield every time.",
+				"branches":"Space Filler that improves your stats.  Buy as many of these as possible with leftover gold.",
+				"boots":"Gotta Go Fast.",
+				"clarity":"While not required, a Clarity can solve early mana issues before you can skill your ultimate, Chemical Rage.",
+				"flask":"Guts falling out?  Rub some salve on it.",
+				"tango":"Num nums.",
+				"tpscroll":"Trust me.",
+				"travel_boots":"Get these late game to replace your first boots (Post 45 minutes is when it becomes reasonable).  Lets you TP on top of creeps, allowing you to teleport closer to team fights and to lanes without towers.",
+				"phase_boots":"Gotta Go Fast.  The speed boost given by Phase boots is great for catching up to enemies to throw a stun or to run away.",
+				"power_treads":"These or Phase are the Alchemist boots of choice.  Phase gives you extra damage and speed to land your Stun.  Treads give better stats, can make your mana go farther, and add attack speed to you Ulti's great Base Attack Time.",
+				"hand_of_midas":"A very valid option for early game if you want to set your farm through the roof.    It's your decision whether you want to try and get it, but if you can get it by 8~ minutes with boots it's probably fine.",
+				"ring_of_basilius":"Good mana regen, armor and an aura.  Turn the aura off by pressing the item's key once during laning, and turn it back on when you begin pushing towers.  You can dissemble the ring and only hold the Sage's Mask while in Chemical Rage form for more mana.  Don't upgrade to an Aquilla.",
+				"assault":"Your Attack Speed will be stupidly fast with even just the Hyperstone used to make this, and it solves Alchemist's armor problems completely.  The armor debuff also makes Unstable Concoction more potent, especially if you cast Acid Spray for a total of an 11 armor debuff.",
+				"heart":"Similar reasoning as Armlet.  You're rich enough to afford all this sort of stuff so go for it.",
+				"black_king_bar":"This is more situational than the other items, but it is something to consider.  If you died in a team fight because you were chain stunned, get this ASAP above anything else.  But be aware of whether anything they have goes through it, like Bane's Fiend's Grip or Beastmaster's Roar.",
+				"vanguard":"*Not Required, but consider it.*
+
+While I normally consider this a terrible item, it has a place since Alch lost extra health from his ulti.  IF the enemy team is heavy on physical damage, this is worth considering as an early pickup for tank.",
+				"rapier":"ONLY buy it to make your inventory look more ballin' in the end screen and their Ancient is already certainly dead.  Even if you're ballin' so hard you're untouchable, you do not want to be the guy who threw the game by dieing with this thing.",
+				"monkey_king_bar":"Counters Evasion and gives you a lot of damage.  Takes precedence over one of your Core Items if you're fighting a Phantom Assassin.",
+				"butterfly":"All the attack speed, and a whole lot of dodging.  Try not to hold the components before it's finished, as that can tip off opponents to build an MKB, which will neutralize this item's main benefit.  Not particularly great since Alchemist is Strength not Agility, but it has its place.",
+				"greater_crit":"As a fourth or fifth item, you will crit like an absolute beast with the attack speed and damage you will have by then.",
+				"basher":"Gives you more damage and a reliable stun when coupled with your now stupidly fast attack speed.",
+				"armlet":"With the new Alchemist you need some form of HP increasing item so that you don't from burst damage.  Armlet is a decent choice, but not 100% always the right choice.",
+				"invis_sword":"I'd put SB on Abyssal Blade's level of importance, but as a first or second item.  The Cooldown nerfs makes it harder to be aggressive with it, but it has its palce as an initiation tool regardless.  Don't bother with it if your team has an invis hero, because they'll have detection to counter you.",
+				"satanic":"Generally there's no reason to get this over Heart because Alch's Regen is completely ridiculous with his ult.  But it's still something to consider.",
+				"mjollnir":"Your first major item, and its benefit is three fold.  Expedient farming, fantastic attack speed when you use your ultimate, and the active ability can significantly increase your DPS in team fights.  Cast the shield on either you, someone you know needs protection or can take a lot of damage.",
+				"maelstrom":"Begin building this after your boots are finished, as it will become your main farming tool eventually.  Use it to farm Jungle Creeps and Lane Creeps after you finish it and either your or your enemy's tower falls.",
+				"desolator":"Best to only get this if your team already has minus armor and you want to synergize with it.  Something like a Slardar or Dazzle is a good sign that you should consider Desolator.",
+				"medallion_of_courage":"Shadow Blade and Medallion of Courage are a cheaper alternative core set for Alchemist, which turns him into a sneaky initator/Ganker.  Go for this if laning makes it clear you're not going to get the gold for the regular core set by 35-40 minutes.  Alchemist is more flexible than you'd expect.",
+				"abyssal_blade":"The is almost core for the lock down it gives you.  But it's expensive even for an Alchemist to get, so it's not always possible to have it as a second or third item at a good time.",
+				"heavens_halberd":"A cheaper alternative to Butterfly if you're having trouble going toe to toe with the enemy carry and need some way to make them sit out, while still providing evasion."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_goblins_greed",
+			"3":"alchemist_acid_spray",
+			"4":"alchemist_goblins_greed",
+			"5":"alchemist_unstable_concoction",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_unstable_concoction",
+			"8":"alchemist_goblins_greed",
+			"9":"alchemist_unstable_concoction",
+			"10":"alchemist_goblins_greed",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_acid_spray",
+			"13":"alchemist_acid_spray",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"While the armor reduction does synergize well with your core items and UC, it's also a skill that will push the lane during the start of the game and should be used prudently early on.",
+				"alchemist_unstable_concoction":"A chargeable stun.  Early on it's your main addition to a gank or kill of opportunity (Avoid stacking stuns on topo f each other), and later on you use it to designate an enemy as the \"I'm going to wail on you\" victim.  Maxed with Greed because 4 second stuns feel good.",
+				"alchemist_goblins_greed":"Free Gold?  FREE GOLD!",
+				"alchemist_chemical_rage":"Your health regen makes you absolutely insane if you survive their initial burst.  Your Base Attack Time reduction is what makes you do carry-level damage.  Your mana regen is self sustaining.  Take at every level possible.",
+				"alchemist_unstable_concoction_throw":"HOLY CRAP WHY ARE YOU READING THIS PAY ATTENTION TO THE GAME BEFORE THAT SHIT EXPLODES!",
+				"attribute_bonus":"Boring."
+		}
+	}
+}

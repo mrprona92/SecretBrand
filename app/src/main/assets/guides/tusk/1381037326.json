@@ -1,0 +1,112 @@
+{
+	"Hero":"tusk",
+	"Title":"Purge's Guide to Mid Tusk",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"stout_shield",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"tpscroll",
+				"bottle",
+				"stout_shield"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bottle",
+				"magic_wand",
+				"tpscroll",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"bfury",
+				"desolator",
+				"black_king_bar",
+				"heavens_halberd",
+				"abyssal_blade",
+				"monkey_king_bar",
+				"heart",
+				"armlet"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"If you are versus a ranged hero, the stoud shield is recommended. If you go this build though, you need to play a bit aggressive. If you are versus melee, you might want to just do 3 iron and a tango.",
+				"branches":"3 Ironwood branches provides you with some important base hp, damage, and mana.",
+				"boots":"Early boots is important because it increases the speed of your snowball, and gives you better kill potential. I will most likely purchase bottle before boots.",
+				"magic_wand":"Wand is made because it's a nice transition from 3 ironwoods, and your opponents will cast a spell on you because you'll be diving into melee range. You MIGHT want to finish phase boots before completing your wand, especially if you're ahead of your opponent.",
+				"flask":"1 Salve will be used for burst regen when you get really low after a gank or harass.",
+				"bottle":"Bottle provides you the burst regen you need to spam out the wave, gank and heal afterwards, and store important runes for ganks.",
+				"tango":"1 Tango will keep your hp high enough that you can survive long enough to purchase your bottle.",
+				"tpscroll":"TP scrolls should always be carried, and it's especially important as a mid hero because it allows you to cover your allies and gank side lanes in case your allies are dived.",
+				"phase_boots":"Phase boots might be made before or after wand, but should be picked up fairly early because it increases your kill potential with your ultimate by a lot. The positioning and chase it gives is also important, and the phase ability can be used when creeps are bunched up from your ice shards.",
+				"heart":"Heart can situationally be purchased because it provdes massive tankiness, decent damage, and regen over time.",
+				"black_king_bar":"Black King Bar is often needed as a Tuskar because you will be in melee range of your opponents. I will usually purchase Black King bar as a 2nd or 3rd item, but if their entire team is countered by BkB you can buy it earlier.",
+				"monkey_king_bar":"If you have a lot of carry potential because of a good early game, Monkey King Bar is sometimes needed if the enemy carry gets evasion.",
+				"bfury":"Battlefury is a great mid-late game farming and damage item. I generally sell my bottle to replace with a perserverence, and then finish the battlefury. Keep in mind you can crit cleave with your ultimate, so don't be afraid to use it for farming!",
+				"armlet":"Armlet is a really inexpensive way to get +60 damage, which can make your crits very strong early on. Try not to use it for extended durations though, as it'll force you to return back to base after every gank, rather than stay out and look for more kills.",
+				"invis_sword":"Shadow Blade is picked up because it gives you more burst damage, mobility, and helps you solo kill supports and other heroes. You should initiate by attacking with shadow blade, snowball them, ice shard, and then ulti when they are below 50% health for maxium crit.",
+				"desolator":"Desolator increases the single target damage that you can do. It can be used in conjuction with shadow blade, or purchased as an alternative to shadow blade.",
+				"ancient_janggo":"If I'm having a rough game I'll pick up a drum before my Shadow blade because it gives me survivability and mana pool. The movement speed is also useful for making your snowball a little faster.",
+				"abyssal_blade":"Abyssal Blade is an ok pickup on Tuskar because you will be able to chain stun 1 target after your snowball. The +100 damage also does wonders for your ultimate!",
+				"heavens_halberd":"Halberd can situationally be a nice pickup for Tuskar since it give 45 damage, 380 hp 25% evasion, and some utility that can help your team deal with carries."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_ice_shards",
+			"2":"tusk_snowball",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_frozen_sigil",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tusk_ice_shards":"Ice shards in the mid lane should be used to last hit creeps while damaging opponents, and especially blocking enemy heroes with your creeps. This gives you good solo harass against a melee or ranged hero. Be aggressive with this spell if you have a stout and they don't have an escape.",
+				"tusk_snowball":"Snowball is your gap closing stun spell. It can be used to dodge projectiles already in the air(if your enemy has a projectile, picking up snowball at level. 1 can sometimes be amazing!). You want to max this second because the increased stun duration gives you more kill potential.",
+				"tusk_frozen_sigil":"Frozen sigil is skilled late, but if you get some early kills(which you should with your skillset) you'll be leveling it in no time. After you snowball into a fight and ice shard, make sure to immediately drop the sigil as it MASSIVELY reduces attack speed of your opponents and keeps you alive.",
+				"tusk_walrus_punch":"Walrus punch gives tuskar an ability to combo your opponents down after harassing them. Make sure you only use it when your opponents are below 50% health for the maximum crit. The stun goes through BkB, and don't be afraid to use it for farming neutrals as the cooldown is very low.",
+				"attribute_bonus":"All of the stats on tuskar are very useful, but his skills are too good to pass up, so level stats when you can't get anything else."
+		}
+	}
+}

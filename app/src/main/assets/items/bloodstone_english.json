@@ -1,0 +1,19 @@
+{
+  "dotaId": "bloodstone",
+  "id": 121,
+  "img": "bloodstone_lg.png",
+  "dname": "Bloodstone",
+  "qual": "epic",
+  "cost": 4900,
+  "desc": "Active: Pocket Deny - Instantly causes you to die.<br/><br/>Passive: Bloodpact - Begins with 8 charges, and gains a charge each time an enemy hero dies within 1675 range. Each charge grants 1 mana regeneration per second, reduces the gold lost from death by 25, and reduces respawn time by 4 seconds. If the bearer dies, 500 + 30 health per charge is restored to all allies within a 1675 radius, while the Bloodstone loses a third of its charges. A bloodmark is then placed where the bearer died, granting vision over a 1800 radius and allowing the bearer to gain nearby experience while dead.",
+  "notes": "Only the first Bloodstone will gain charges.",
+  "attrib": "+ 500 Health<br/>+ 400 Mana<br/>+ 9 HP Regeneration<br/>+ 200% Mana Regeneration",
+  "mc": false,
+  "cd": 300,
+  "lore": "The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",
+  "components": [
+    "soul_ring",
+    "soul_booster"
+  ],
+  "created": true
+}

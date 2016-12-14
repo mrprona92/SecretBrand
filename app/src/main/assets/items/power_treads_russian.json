@@ -1,0 +1,20 @@
+{
+  "dotaId": "power_treads",
+  "id": 63,
+  "img": "power_treads_lg.png",
+  "dname": "Power Treads",
+  "qual": "common",
+  "cost": 1400,
+  "desc": "Активируемая: Switch Attribute — меняет значение выбранного параметра между силой, ловкостью и интеллектом.<br \/>\r\n<br \/>\r\nPower Treads могут быть собраны с помощью Belt of Strength, Band of Elvenskin или Robe of the Magi. Основные бонусы к скорости передвижения от нескольких пар ботинок не складываются. Бонусы к скорости атаки от нескольких Power Treads не складываются.",
+  "notes": "",
+  "attrib": "+ 50 к скорости передвижения<br/>+ 9 к выбранному атрибуту<br/>+ 30 к скорости атаки",
+  "mc": false,
+  "cd": false,
+  "lore": "Пара сапог, выделанных из жесткой кожи, которая способна изменять свои свойства по желанию владельца.",
+  "components": [
+    "boots",
+    "gloves",
+    "belt_of_strength"
+  ],
+  "created": true
+}

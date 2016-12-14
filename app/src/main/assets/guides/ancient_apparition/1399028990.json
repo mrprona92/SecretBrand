@@ -1,0 +1,95 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"GreyShark.Ancient Apparition",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"mantle",
+				"circlet"
+			],
+			"Early Game":
+			[
+				"null_talisman",
+				"null_talisman",
+				"power_treads",
+				"rod_of_atos"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Late Game":
+			[
+				"shivas_guard",
+				"refresher"
+			],
+			"Situation":
+			[
+				"skadi",
+				"dagon",
+				"ward_observer",
+				"courier"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Если вы единственный саппорт в тиме, то прийдется покупать",
+				"courier":"Если вы единственный саппорт в тиме, то прийдется покупать",
+				"power_treads":"Много АС, по выбору либо даст ХП либо немного урона и МП.",
+				"null_talisman":"По началу у нас мало атрибутов, с талисманами будет норм",
+				"sheepstick":"Тут думаю всё понятно, как написано в описании, Scythe of Vyse самое желанное приобретение для любого мага, так оно и есть, очень много атрибутов + хекс",
+				"dagon":"Если решили делать фраги, то почему бы и нет, много атрибутов и под вторым скиллом у врага меньше резиста к магии, дагон будет бить сильнее !",
+				"ultimate_scepter":"Для ульты + даст много атрибутов",
+				"refresher":"Много атрибутов + позволяет кинуть 2 ульты",
+				"shivas_guard":"Много брони, интиллекта и госу активка в замесе очень полезно + аура для противников",
+				"skadi":"Неплохой арт для АА, в сумме с вторым скиллом, нашим станом, хексом, да и еще с скади, никто не уйдет от нас.",
+				"rod_of_atos":"Мега госу дешевый арт, даст много хп, урона и МП, и мега акулевшую активку, с которой мы будем гангать и убегать от врагов."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"attribute_bonus",
+			"3":"ancient_apparition_cold_feet",
+			"4":"attribute_bonus",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_ice_vortex",
+			"9":"ancient_apparition_ice_vortex",
+			"10":"ancient_apparition_ice_vortex",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_ice_vortex",
+			"13":"ancient_apparition_chilling_touch",
+			"14":"ancient_apparition_chilling_touch",
+			"15":"ancient_apparition_chilling_touch",
+			"16":"ancient_apparition_ice_blast",
+			"17":"ancient_apparition_chilling_touch",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

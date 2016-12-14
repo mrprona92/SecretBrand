@@ -1,0 +1,89 @@
+{
+	"Hero":"nevermore",
+	"Title":"[DMX] Shadow Fiend (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"circlet",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_aquila",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"blink",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"desolator",
+				"monkey_king_bar",
+				"butterfly",
+				"greater_crit",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"invis_sword",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_necromastery",
+			"4":"nevermore_shadowraze1",
+			"5":"nevermore_shadowraze1",
+			"6":"nevermore_necromastery",
+			"7":"nevermore_shadowraze1",
+			"8":"nevermore_necromastery",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nevermore_shadowraze1":"Vos trois razes sont dures à placer, mais font très mal et coutent peu de mana ! Utilisez les pour harass votre adversaire et farmer très rapidement !",
+				"nevermore_necromastery":"Le passif qui vous permet d'avoir un énorme dps au mid game.",
+				"nevermore_dark_lord":"Parfait pour augmenter encore un peu plus votre dps.",
+				"nevermore_requiem":"Un très bon ultimate de zone si vous le placez bien. Essayez de vous rapprocher le plus possible de vos cibles. A noter que l'ultimate s'activera passivement lorsque vous mourrez, infligeant la moitié des dégâts."
+		}
+	}
+}

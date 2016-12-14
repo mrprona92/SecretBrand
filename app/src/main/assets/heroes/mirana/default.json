@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_mirana",
+	"Title":"Recommended items for Mirana",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"slippers",
+			"slippers",
+			"tango",
+			"flask",
+			"clarity"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"manta",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ancient_janggo",
+			"butterfly",
+			"diffusal_blade",
+			"desolator",
+			"monkey_king_bar",
+			"greater_crit",
+			"sphere"
+		]
+	}
+}

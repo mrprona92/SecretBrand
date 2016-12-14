@@ -1,0 +1,107 @@
+{
+	"Hero":"broodmother",
+	"Title":"Mother of Brood! By Redel",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"quelling_blade",
+				"ring_of_basilius",
+				"soul_ring",
+				"power_treads",
+				"oblivion_staff"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"black_king_bar",
+				"butterfly",
+				"vladmir",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"radiance",
+				"basher",
+				"abyssal_blade",
+				"manta",
+				"greater_crit",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"buy it if you are bad with last hitting creeps",
+				"power_treads":"extra attack speed and stats ",
+				"oblivion_staff":"You can complete this item in side shop ",
+				"poor_mans_shield":"Go for it ONLY if you are under heavy enemy harras",
+				"vladmir":"Beside your ultimate this is the only way to have lifesteal on broodmother plus its helping your whole team ",
+				"ring_of_basilius":"Make this item from your ring of protection to improve your mana regen",
+				"orchid":"Absolutely core item with that silence stick you can solo almost every hero in mid game time ",
+				"assault":"Sometimes that +/- armor and aura with attack speed can help your team nicely",
+				"black_king_bar":"You are carry and because you have NO escape like Anti mage or void you need fast bkb in order to stay and right click in fight with your ultimate ",
+				"monkey_king_bar":"Extra attack speed, dmg, mini bash and True strike - this is what your hero needs ",
+				"radiance":"If you want to troll enemy team just buy radiance and stay in your web forever ! ",
+				"butterfly":"Evansions plus dmg plus attack speed = all what broodmother needs",
+				"greater_crit":"Very good item on every right click hero ",
+				"basher":"This item is always good to have in your inventory if you wants to bash thos mofos with magic immunity",
+				"manta":"Manta is very situational item but if you need extra stats from it and ilusions to push and do dmg - go for it",
+				"soul_ring":"This is Core item for this hero, you can spam your nuke to farm and to harras by using this because you will regain your health very fast in your web",
+				"abyssal_blade":"This gives you reliable stun "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"broodmother_spin_web",
+			"2":"broodmother_spawn_spiderlings",
+			"3":"broodmother_spin_web",
+			"4":"broodmother_spawn_spiderlings",
+			"5":"broodmother_spawn_spiderlings",
+			"6":"broodmother_spin_web",
+			"7":"broodmother_spawn_spiderlings",
+			"8":"broodmother_insatiable_hunger",
+			"9":"broodmother_spin_web",
+			"10":"broodmother_incapacitating_bite",
+			"11":"broodmother_insatiable_hunger",
+			"12":"broodmother_incapacitating_bite",
+			"13":"broodmother_incapacitating_bite",
+			"14":"broodmother_incapacitating_bite",
+			"15":"attribute_bonus",
+			"16":"broodmother_insatiable_hunger",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"broodmother_spawn_spiderlings":"This is very good nuke to spam on your enemies, you can do this easily with soul ring or you can just last hit creeps using this and create your brood :)",
+				"broodmother_spin_web":"hide in that web ! This gives a lot of regen as well as movement speed so you can escape from gank and regain your hp fast",
+				"broodmother_incapacitating_bite":"It's just a funny pasive",
+				"broodmother_insatiable_hunger":"Very good ultimate with short cooldown (especialy on higher lvls) so do not fear to use it in order to heal your ass "
+		}
+	}
+}

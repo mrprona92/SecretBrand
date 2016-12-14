@@ -1,0 +1,16 @@
+{
+  "dotaId": "slippers",
+  "id": 14,
+  "img": "slippers_lg.png",
+  "dname": "Slippers of Agility",
+  "qual": "component",
+  "cost": 150,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 3 к ловкости",
+  "mc": false,
+  "cd": false,
+  "lore": "Легкие ботинки, сделанные из кожи паука, обостряют ваши ощущения.",
+  "components": null,
+  "created": false
+}

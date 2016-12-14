@@ -1,0 +1,97 @@
+{
+	"Hero":"disruptor",
+	"Title":"Разрушить и Унизить",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"flying_courier",
+				"veil_of_discord",
+				"ultimate_scepter"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"heart",
+				"travel_boots"
+			],
+			"Important":
+			[
+				"ward_observer",
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Setup super long range Glimpses.",
+				"ghost":"For when you're REALLY poor  + they have a fed Clinkz",
+				"clarity":"Ману можно покупать на оставшиеся деньги, если вы уверены, что не будете лезть на рожон.",
+				"flask":"По мере надобности, если с вами на лайне есть керри или танк.",
+				"ward_observer":"Вы саппорт, и как бы круты вы ни были в массовой битве, вы все равно остаетесь саппортом. Ввиду того, что этому герою нужно не так много предметов, что бы нагибать, варды можно и нужно покупать часто. Примерно после каждого удачного убийства.",
+				"ward_sentry":"Если вам нравиться искать жучик варды и Рикимару.",
+				"tango":"Покупается одна штука, она вам понадобится, когда мобы будут агриться на вас.",
+				"courier":"Это первое, что нужно купить, если это не купил кто-то другой",
+				"travel_boots":"Для поздней игры необходимо. Арканы уже будут бесполезны для героя, так как у него большой запас маны и низкая стоимость кастов.",
+				"flying_courier":"После удачного убийства сразу подымайте курьера в воздух, союзники это оценят.",
+				"force_staff":"Get you, your enemies, your teammates into position.",
+				"ultimate_scepter":"Очень нужная вещь против тех врагов, которые прошарили, что вы весьма сильны в массовке и можете не только запереть врагов, но и обезмолвить и нанести огромный урон, и купили БКБ. ",
+				"heart":"Обычно, до этой вещи редко доходит игровое время, но если все такие дошло, то время сделать из саппорта танк.",
+				"bloodstone":"Очень полезная вещь на лейт гейме, дает прирост регена и много жизней, для саппорта это нужно, что бы вам не убивали с двух тычек.",
+				"arcane_boots":"Первый полезный артефакт для героя. В дальнейшем, его можно будет разобрать, что бы приобрести другие ботинки.",
+				"smoke_of_deceit":"Setup ganks, take Roshan safely, try really hard...",
+				"veil_of_discord":"Кто-то говорил, что это нужно для поздней игры, вот нифига подобного. Быстро ее собираете на ранней стадии, и враги будут бегать от вас с визгом."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_thunder_strike",
+			"2":"disruptor_kinetic_field",
+			"3":"disruptor_thunder_strike",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_thunder_strike",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_thunder_strike",
+			"8":"disruptor_glimpse",
+			"9":"disruptor_kinetic_field",
+			"10":"disruptor_glimpse",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_kinetic_field",
+			"13":"disruptor_kinetic_field",
+			"14":"disruptor_glimpse",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"400 урона с каста, это вам не просто так. Как можно быстрее раскачать ее просто необходимо. Чем раньше расскачаете, тем проще будет вам будет даваться саппорт на лайне. К тому же обладает большим радиусом применения.",
+				"disruptor_glimpse":"Тут уже смотрите сами что качать. Обычно я качаю пропорционально  с третей способностью. Качайте первым делом, если враг постоянно убегает. Незаменимая вещь в применении вашей ульты. "
+		}
+	}
+}

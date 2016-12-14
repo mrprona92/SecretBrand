@@ -1,0 +1,16 @@
+{
+  "dotaId": "broadsword",
+  "id": 3,
+  "img": "broadsword_lg.png",
+  "dname": "Broadsword",
+  "qual": "component",
+  "cost": 1200,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 18 УРОНА",
+  "mc": false,
+  "cd": false,
+  "lore": "Будучи классическим оружием рыцарей, этот клинок является прочным и надежным выбором для убийства врагов.",
+  "components": null,
+  "created": false
+}

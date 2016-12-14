@@ -1,0 +1,93 @@
+{
+	"Hero":"enchantress",
+	"Title":"GreyShark.Enchantress (Jungle)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"clarity",
+				"clarity"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"ring_of_aquila",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"bloodstone"
+			],
+			"Late Game":
+			[
+				"assault",
+				"heart",
+				"sheepstick"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"necronomicon",
+				"sphere",
+				"orchid",
+				"skadi"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sheepstick":"Лишний дизейбл, много статов, многое может решить",
+				"orchid":"Сало, статы, и доп дамаг",
+				"necronomicon":"Если решили активно пушить тавера, то лишним не будет, на 3-ем лвле дамажут очень не слабо.",
+				"assault":"АС, броня, аура, всё что нам нужно
+",
+				"heart":"Я считаю что герою у которого прирост сыли за лвл 1 очко, нужно больше хп, тем более в лейт гейме.",
+				"black_king_bar":"Если решили драться в замесах, то пригодится",
+				"sphere":"Альтернатива БКБ, но обычно его берут для регена, но у нас есть блудстон, по этому БКБ будет полезнее",
+				"skadi":"Тоже неплохой арт, даст нам плотности и я бы даже сказал имбовую пассивку, вместе с нашей пасивкой на замедление АС и скади реально дизейбл будет очень сильный. Можно собрать вместо хекса или тараски.",
+				"ring_of_aquila":"Для зверей и регена"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_enchant",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_enchant",
+			"6":"enchantress_impetus",
+			"7":"enchantress_enchant",
+			"8":"enchantress_untouchable",
+			"9":"enchantress_natures_attendants",
+			"10":"enchantress_natures_attendants",
+			"11":"enchantress_impetus",
+			"12":"enchantress_untouchable",
+			"13":"enchantress_untouchable",
+			"14":"enchantress_untouchable",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

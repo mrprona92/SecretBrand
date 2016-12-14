@@ -1,0 +1,67 @@
+{
+	"Hero":"centaur",
+	"Title":"Pay2Lose - Centaur Warrunner for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"quelling_blade",
+				"branches",
+				"branches"
+			],
+			"Mid Game":
+			[
+				"tranquil_boots",
+				"hood_of_defiance",
+				"blink"
+			],
+			"Late Game Options":
+			[
+				"vanguard",
+				"heart",
+				"assault",
+				"radiance",
+				"shivas_guard"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_double_edge",
+			"4":"centaur_hoof_stomp",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_hoof_stomp",
+			"10":"centaur_return",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

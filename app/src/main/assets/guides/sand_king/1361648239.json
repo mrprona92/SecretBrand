@@ -1,0 +1,105 @@
+{
+	"Hero":"sand_king",
+	"Title":"6.82 - Standard Sand King (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"urn_of_shadows"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"veil_of_discord"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"ethereal_blade"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Use Blink Dagger to initiate onto your team after having already channeled Epicenter. Follow up with your Burrowstrike to keep them in place as you keep them down and taking all your damage.",
+				"ward_observer":"Pick up a Courier or Wards to help support your team.",
+				"courier":"Pick up a Courier or Wards to help support your team.",
+				"urn_of_shadows":"Urn of Shadows is to take advantage of your roaming ability with and without Blink Dagger to keep you alive and well.",
+				"black_king_bar":"Prevent your channel from being disrupted with Black King Bar. It may seem excessive, but sometimes you need it prevent annoyances.",
+				"shivas_guard":"With your Epicenter's slow and Shiva's Guard; no foe will be able to escape.",
+				"ethereal_blade":"Keep down physical carries with Ethreal Blade while your Epicenter deals even more damage specifically.",
+				"veil_of_discord":"After blinking in with your channeled epicenter, follow it up with Veil of Discord's active ability and your stun. This should help further the damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_sand_storm",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_sand_storm",
+			"9":"sandking_sand_storm",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_caustic_finale",
+			"13":"sandking_caustic_finale",
+			"14":"sandking_caustic_finale",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sandking_burrowstrike":"Your initiation move until you have Blink Dagger. After that, use Blink Dagger to get in the team fight with your ultimate than keep them there with your Burrowstrike.",
+				"sandking_sand_storm":"Use Sand Storm to disjoint abilities from targeting/hitting you or to hide in stealth while your ult is performing its duty. Sand Storm is a great way to also escape if you follow it up with Burrowstrike to escape or to wait for the cooldown to finish on your Blink Dagger.
+
+Great to Jungle at lvl 2.",
+				"sandking_caustic_finale":"Do not touch this until late in the game. The effect will cause the lane to be pushed and ultimately net your lane less farm or creep kills (gold).",
+				"sandking_epicenter":"Epicenter is your incredible initiation move and what makes Sand King so formidable. Even when dead, Epicenter continues at your location dealing huge damage. Be sure to queue up the casting time and follow it with Blink Dagger then Burrowstrike to deal as much damage as possible."
+		}
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"Hero":"sniper",
+	"Title":"[DMX] Sniper - Build Safe Farm (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"invis_sword",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"manta",
+				"desolator",
+				"butterfly",
+				"greater_crit",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"mask_of_madness",
+				"mjollnir",
+				"skadi",
+				"satanic",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_take_aim",
+			"4":"sniper_headshot",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"sniper_shrapnel",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sniper_shrapnel":"Schrapnel est votre seul disable, il peut vous permettre de fuir en laissant derrière vous une zone ralentissante, ou au contraire de ralentir votre adversaire pour plus facilement le poursuivre et l’éliminer ! ",
+				"sniper_headshot":"Ce sort est parfait pour augmenter significativement votre dps et vous aidera à last hit sans aucun doute. De plus ce passif fonctionne à 100% sur vos illusions !",
+				"sniper_take_aim":"Passif qui est très pratique pour Sniper car il lui permet d’attaquer ses cibles de très loin et donc sans s’exposer aux dangers. De plus dès le niveau 3 de Take Aim, Sniper aura une portée supérieure aux tours ce qui l’aidera à ne jamais prendre l’aggro de ces dernières.",
+				"sniper_assassinate":"Votre finish move, Assassinate vous permettra de tuer un ennemi qui s’enfuit ou qui est trop loin pour que vous puissiez l’atteindre. Son petit cooldown  vous permettra de l’utiliser plusieurs fois lors d’un teamfight."
+		}
+	}
+}

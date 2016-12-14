@@ -1,0 +1,38 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_rattletrap",
+	"Title":"Recommended items for Clockwerk",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"stout_shield",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"bracer",
+			"bottle"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"magic_wand",
+			"vanguard",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"ancient_janggo",
+			"pipe",
+			"heart",
+			"radiance",
+			"shivas_guard"
+		]
+	}
+}

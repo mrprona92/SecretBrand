@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arcane Orb",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Auto-Cast, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Adds extra pure damage to Outworld Devourer\u0027s attacks, based on his remaining mana pool.  Arcane Orb also does bonus damage to summoned units and illusions.<br/>Arcane Orb is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+        "notes": "The damage is calculated after the mana cost is spent.",
+        "dmg": "",
+        "attrib": "MANA POOL TO DAMAGE: <b><font color=\"#ffffff\">6%/7%/8%/9%</font></b><br/>ILLUSION DAMAGE: <b><font color=\"#ffffff\">100/200/300/400</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100",
+        "lore": "Harbinger\u0027s outworldly knowledge allows it to tap into the ebb and flow of all spiritual energy, infusing it into his being.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_arcane_orb",
+        "youtube":"zhA1HK7cy5g",
+        "id": 0
+    },
+    {
+        "dname": "Astral Imprisonment",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Places a target allied or enemy hero into an astral prison.  The hidden hero is invulnerable and disabled.  When cast on an enemy Hero, Harbinger temporarily steals intelligence from that hero.",
+        "notes": "If used on an ally, no intelligence is stolen.<br/>Imprisoned units are hidden and invulnerable.<br/>Imprisoned units can still be hit by Sanity\u0027s Eclipse.",
+        "dmg": "",
+        "attrib": "INTELLIGENCE STEAL: <b><font color=\"#ffffff\">4/7/10/13</font></b><br/>STEAL DURATION: <b><font color=\"#ffffff\">50</font></b><br/>PRISON DURATION: <b><font color=\"#ffffff\">1/2/3/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/140/160/180<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 18/16/14/12",
+        "lore": "Locked away in the pocket between this world and the Outworld, victims realize their infantile knowledge and mortality.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_astral_imprisonment",
+        "youtube":"fJhBCZ6TrP0",
+        "id": 1
+    },
+    {
+        "dname": "Essence Aura",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Heroes</font></b>",
+        "desc": "Whenever nearby allied Heroes or Outworld Devourer itself casts a spell, it gains a chance to restore a percentage of its mana pool.  Outworld Devourer also passively gains a bonus to its base mana pool.  Several skills with no cooldown and toggled spells cannot trigger Essence Aura.",
+        "notes": "Other than Arcane Orb, most skills without cooldowns cannot trigger Essence Aura.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">1000/1000/1000/1000</font></b><br/>BASE MANA: <b><font color=\"#ffffff\">75/150/225/300</font></b><br/>RESTORED MANA: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>RESTORE CHANCE: <b><font color=\"#ffffff\">40%</font></b>",
+        "cmb": "",
+        "lore": "The crystals of the Outworld produce arcane power, and the Harbinger channels it into the world of mortals.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_essence_aura",
+        "youtube":"jXW4mXUgZTw",
+        "id": 2
+    },
+    {
+        "dname": "Sanity\u0027s Eclipse",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Unleashes a psychic blast that damages enemy heroes based on the difference between the affected the hero\u0027s Intelligence and Outworld Devourer\u0027s.  If the difference in intelligence is less than the threshold, the affected hero will lose 75% of their current mana.  Should an enemy hero have the same or higher Intelligence than Outworld Devourer, Sanity\u0027s Eclipse will have no effect.  Sanity\u0027s Eclipse can hit units trapped by Astral Imprisonment.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "INT DIFF DAMAGE MULTIPLIER: <b><font color=\"#ffffff\">8/9/10</font></b><br/>INT DIFF MANA LOSS THRESHOLD: <b><font color=\"#ffffff\">10/30/50</font></b><br/>RADIUS: <b><font color=\"#ffffff\">375/475/575</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">600/650/700</font></b><br/><font color=\"#6fe871\">SCEPTER CAST RANGE:</font></b> <b><font color=\"#ffffff\">700/750/800</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/250/325<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 160",
+        "lore": "When an Outworld crystal ruptures, cataclysmic energies are released, and the reverberations of this power are felt interdimensionally.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_sanity_eclipse",
+        "youtube":"Z4dnT-tAOac",
+        "id": 3
+    }
+]

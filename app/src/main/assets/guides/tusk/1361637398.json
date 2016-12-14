@@ -1,0 +1,110 @@
+{
+	"Hero":"tusk",
+	"Title":"6.82 - Standard Tusk (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"orb_of_venom",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"desolator"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"invis_sword",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"heart",
+				"assault",
+				"greater_crit",
+				"monkey_king_bar"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Even when laning, Tusk needs bottle to keep his mana up and running",
+				"assault":"Tusk has some pretty decent damage thanks to Desolator. Assault Cuirass is to bolster his presence with your main carry as well as play down enemies' armor even more!",
+				"heart":"Tusk can get into fights, but can't stay in. Heart of Tarrasque gives him the bold strength Tusk looks like he has.",
+				"greater_crit":"Make that One-Hit Punch even more defining of its intention.",
+				"bfury":"Go for this if you can snag it before the 18-minute mark.",
+				"invis_sword":"Try and activate Walrus PUNCH before activating Shadow Blade, the damage stacks with one another to dish out an even strong punch.",
+				"desolator":"Strong damage, incredible armor reduction makes this a great item for Tusk and his ultimate. The alternatives being Battlefury are also good as well!",
+				"orb_of_venom":"The Orb of Venom continues the slow and damage after the initial hit. It's relatively cheap and works quite well for Tusk.",
+				"ancient_janggo":"Snowball works in combination with your movement speed. The faster the movment speed, the faster the snowball. Activate Drum of Endurance before using Snowball.",
+				"medallion_of_courage":"Medallion + Your Ultimate allows for extra damage at a minimal cost!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_ice_shards",
+			"2":"tusk_snowball",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_frozen_sigil",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tusk_ice_shards":"Open with Ice Shards to entrap foes so you can later Snowball onto them. The range is incredible, so use it often to really scare off your opponents.
+
+It does not stop where your foe is, but keeps going to where you selected. So plan well and in view of your opponent will be, not where they are.",
+				"tusk_snowball":"Snowball can be used both as a guardian angel, in which you can save allies from taking immediate nuke damage or stuns as well as to initiate onto foes.
+
+Anyone inside the snowball is invulnerable to targeting and damage. So get your allies to click inside your snowball as you start building up.",
+				"tusk_frozen_sigil":"You won't need the Frozen Sigil until later in the game. Don't let it get destroyed otherwise the enemy team receives a large amount of gold for it. If undirected, the Sigil will follow Tusk. It takes 3 to 4 hits to destroy it.",
+				"tusk_walrus_punch":"Use Walrus Punch in combination with Shadow Blade. Walrus Punch is an ability you activate: Turn it on and normally attack your opponent for it to work."
+		}
+	}
+}

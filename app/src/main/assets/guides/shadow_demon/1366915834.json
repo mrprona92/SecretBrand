@@ -1,0 +1,106 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"Shadow Demon RUS HeroKiller (Mid) by SapER",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"tango"
+			],
+			"12-15 мин":
+			[
+				"boots",
+				"force_staff",
+				"headdress"
+			],
+			"Вкачать дагон до 5":
+			[
+				"mekansm",
+				"power_treads",
+				"dagon"
+			],
+			"На поздней игре":
+			[
+				"ultimate_scepter",
+				"rod_of_atos",
+				"shivas_guard",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Сапог =)",
+				"tango":"Что бы не уходить с лайна по больше =)",
+				"power_treads":"Я собирю пт на силу для выживаймости",
+				"null_talisman":"В дальшейнем варим дагон",
+				"mekansm":"Не когда не помешает, регенирация, защита,
+Мгновенное пополнение хп.",
+				"headdress":"Реген хп, нужен для меки.",
+				"force_staff":"Для меня САМЫЙ полезный придмет.
+Помогает убежать, догнать, спатси союзника.
+",
+				"dagon":"Добиваем врагов (под действием нащего 2 скила творит чудеса ) ",
+				"shivas_guard":"Защита, замедление.
+Можно использовать со свяской с Force Staff
+",
+				"bloodstone":"Хп, мана, реген, уменьшения время смерти,
+Выживаймость.",
+				"rod_of_atos":"Я считаю, что это очень полезный придмет для магов.
+Дает хп, замедление (при активации)
+Помогает догнать или убежать от противника"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_soul_catcher",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_disruption",
+			"5":"shadow_demon_soul_catcher",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_soul_catcher",
+			"8":"shadow_demon_disruption",
+			"9":"shadow_demon_disruption",
+			"10":"shadow_demon_shadow_poison",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_shadow_poison",
+			"13":"shadow_demon_shadow_poison",
+			"14":"shadow_demon_shadow_poison",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"Скилл помогает догнать противника, спастить от от многих скилов, например от стана венги,свена,и тд.
+Можно засейвисть своего союзника,(закрыть войда под куполом)",
+				"shadow_demon_soul_catcher":"Усиление урона
+Этот скил идет со свяской с дагоном,копиями от 1-го скила.
+Полезный скил для того что бы быстро убивать.",
+				"shadow_demon_shadow_poison":"Для меня маловажный скилл в начале (использую его для разведки местности),
+С помощью него можно дефить, добивать фрагов с лоу хп",
+				"shadow_demon_demonic_purge":"Замечательный скилл который збрасывает некотоыре полезные эффекты врагов (Hast DD..)
+Очень сильно замедляет помогает догать и убить врага.
+(раньше он убивал голема варлока, но пофиксили хнык,хнык)
+"
+		}
+	}
+}

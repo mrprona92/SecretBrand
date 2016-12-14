@@ -1,0 +1,85 @@
+{
+	"Hero":"mirana",
+	"Title":"Mirana the Allrounder",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"ring_of_aquila",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"manta",
+				"mjollnir",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"bottle",
+				"skadi",
+				"sphere",
+				"butterfly",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"In my opinion one of the best items ingame which saved my ass thousand of times or made a kill possible !BUY it!",
+				"bottle":"Middle lane is bottle time get one and dont forget if u dont manage it to get any runes u can still crow ur bottle to the well to fill it up",
+				"travel_boots":"Perfect Item if ur farm is awesome",
+				"monkey_king_bar":"if u have to semi carry",
+				"butterfly":"perfext allround item which gives u a strong as 60 dmg and a good survival vs physical dmg through the 30% evasion
+",
+				"manta":"A perfect allround item which gives good stats and a nice dmg boost",
+				"ring_of_aquila":"If i go middle with a bootle its not necessary to build a ring of aguila or if someone else already bought one"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_starfall",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_arrow",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_invis",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

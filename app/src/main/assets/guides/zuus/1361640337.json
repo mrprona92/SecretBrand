@@ -1,0 +1,80 @@
+{
+	"Hero":"zuus",
+	"Title":"Pay2Lose - Zeus for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"mantle",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity"
+			],
+			"coreItems":
+			[
+				"bottle",
+				"arcane_boots",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"End Game Options":
+			[
+				"force_staff",
+				"bloodstone",
+				"sphere",
+				"sheepstick",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Get this as soon as possible to establish rune control"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Use this ability to last-hit creeps in lane",
+				"zuus_thundergods_wrath":"Your ultimate not only damages all enemy heroes on the map, but reveals them, so use it if you think there is a stealth hero nearby"
+		}
+	}
+}

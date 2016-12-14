@@ -1,0 +1,134 @@
+{
+	"Hero":"lone_druid",
+	"Title":"Neviskio's Side Laning Lone Druid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"Bear Starting Items":
+			[
+				"stout_shield"
+			],
+			"Bear Early Items":
+			[
+				"stout_shield",
+				"orb_of_venom",
+				"phase_boots"
+			],
+			"Lone Druid Core items":
+			[
+				"tranquil_boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Bear Core Items":
+			[
+				"radiance",
+				"assault"
+			],
+			"Situational And Extras":
+			[
+				"hand_of_midas",
+				"mjollnir",
+				"basher",
+				"monkey_king_bar",
+				"gem",
+				"medallion_of_courage",
+				"black_king_bar"
+			],
+			"Late Game Luxury":
+			[
+				"abyssal_blade",
+				"butterfly",
+				"heart",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Stout shield helps with enemy harass and if pulling creep aggro.You definitely should get one on the bear at all costs",
+				"branches":"The iron branch, the best investment you can make.The easiest mistake you can do is to not realize the power of stats in dota2, this item gives you:
+
+19 health, 0.03 health regen, 1/7th of armor, 1% attack speed, 13 mana, 0.04 mana per second, and 1 damage since it gives 1 of your primary attribute.",
+				"gem":"Gem on the bear is a scary sight for most of the invisible heroes since they will not be able to kill it quickly like they would unless you feed it to them.They might kill you but still, you should be a good one to carry this.Best if a support can buy it for you.",
+				"magic_wand":"Lone druid is one of the few heroes that could skip a wand and go around 1 tranquil boots and 5 iron branches(I tend to do that when in super rush mode) but still wand gives you some burst mana and hp that can be the saving factor.Try and see if you want to carry one or just branches.",
+				"flask":"This is your second part of regeneration, is stronger than tangoes but it will be dispelled if you get hit by anything that does more than 20 damage after reduction.Hp removal doesn't stop it, also,
+
+it stacks with tangoes heal but not with urn of shadows.",
+				"tango":"Regeneration and stats is the base of early game dota, you need on any hero some regen, this is the best way to spend your money early without risking to get hit and lose your regen.You could buy 2
+
+instead of a salve, but do remember that a salve gives much more HP.",
+				"tpscroll":"You need to be carrying one, better if 2 at ALL TIMES.It's the best dota2 item and yet people fail to use it, you WILL lose towers/raxes/heroes during ganks because you are not carrying one.There's
+
+no excuse it costs 2-3 last hits and maybe some passive gold, you HAVE to have one.No excuses.",
+				"travel_boots":"Lone druid is a pushing hero and with radiance more so, this is your global presence, and since your bear can radiance-burn-push other lanes you're looking to push 2 lanes atleast.",
+				"phase_boots":"Phase boots can be and should be activated on your bear for chasing and moving around, they do give damage too which is really nice since the bear is the \"real hero\" in the early/mid game.",
+				"hand_of_midas":"If you can get this by minute 5-6 do it.Rarely is worth after minute 8, if you're not sure if you are getting it before minute 10 DON'T MAKE ONE.It has to pay itself off in time.Also don't activate it on the bear you WILL NOT get the bonus exp if you do.",
+				"assault":"The natural follow up is usually assault cuirass.I usually build the hyperstone first on the bear for more entangle and easier pushes, and also because I can change my mind and make a mjollnir if needed.You should definitely consider the AC core though.",
+				"heart":"Super survival but less good stats for the agi heroes, still a good pickup.",
+				"black_king_bar":"Not exactly the most needed item since you usually are tanky enough to be safe, but if you are getting heavily controlled this is the item to go for.",
+				"monkey_king_bar":"Mostly used against rikimaru or other evasion heroes, it makes you actually hit them which is invaluable.",
+				"radiance":"This is THE item of your bear.The radiance burn can be used in another lane to split push with your bear and then instantly recalling him at your side.NEVER BUILD THIS IF YOU CAN\"T HAVE IT BEFORE MINUTE 30.This is the most important thing ever, radiance has to be before minute 30 or is useless.",
+				"butterfly":"Not much to say here, all the good carry stats, definitely a late game pickup for your lone druid.",
+				"basher":"Basher is a good situational or late game item for the druid itself, not much to say here besides the fact that it can become an abyssal blade if you get a relic and you're going too late for a radiance, making this a better pickup in fights.Try to make some damage items first though.",
+				"mjollnir":"Mjllollnir is the item to do in case your radiance is going too slow, it's one of the best dps items you can get and it surely is a better choice than a 35-40min radiance.Also if you build the hyperstone first you will get easier chances at entangles on the bear.",
+				"orb_of_venom":"Orb of venom will make your bear slow people giving more chances to entangle, also it makes for easier chases and goes well with the other suggested items.Since it's price has been reduced is also a really  nice pickup early.",
+				"medallion_of_courage":"Rarely seen but still a good item, I do like it when I'm having a rough time and not making any good progress on huge dps items.Also destroys roshan easily for a quick aegis.",
+				"abyssal_blade":"If you went for a radiance but managed only a relic somehow, or went for a basher, this is the natural followup.It's quite rare that you have a relic and not making a radiance but if your radiance is going past 30 minutes keep the relic and much later build this.Goes on the druid, and counters BKB.",
+				"tranquil_boots":"Pretty much your core most of the games is tranquils alone.Remember that if you shift out of your ultimate in ranged form you heal for more.Rush this as soon as possible, just after an orb of venom and maybe boots on the bear."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_synergy",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lone_druid_spirit_bear":"This is the first skill you get and max, your bear is better than you for most of the early/mid game, it needs to keep up.At higher levels the bear has a blink return to you, better stats, and can destroy towers easily making LD a strong pushing hero. He gets most of the equip too.",
+				"lone_druid_rabid":"Rabid is a good mid-late game ability, giving movement speed and atkspeed to you and your bear.Rarely you can get a point earlier but it's not really worth it most of the times. Since you have few spells to be cast this is easily spammable without any item needed on the LD.",
+				"lone_druid_synergy":"This is your second ability to be maxed, this passive gives you and your bear everything you want and need.Not much to say.",
+				"lone_druid_true_form_battle_cry":"Bonus damage AND bonus armor?!?! This is one of the best things you can get, you should spam it (and rightclick somehwere to animation cancel the long animation) to get the full potential while fighting.Use it for towers especially since your bear pushes so easily..",
+				"lone_druid_true_form":"At lvl 6 you get to become a melee hero with strong defensive stats thanks to your ultimate.Rarely you can be a non ulti LD, but it's just easier and stronger to be in true form.Deactivate before tranquil boots heal to get more hp when you transform back, and rarely for ranged last hits on enemies.",
+				"lone_druid_true_form_druid":"This will revert you to your normal form, you should only use it in few cases.The first case is when healing, since you will get more hp in true form, and, if you need to kill something that is escaping, since druid form is slightly quicker, and is ranged.Care that you are squishy!",
+				"attribute_bonus":"Just don't get stats early, you need your other abilities maxed before."
+		}
+	}
+}

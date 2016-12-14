@@ -1,0 +1,96 @@
+{
+	"Hero":"night_stalker",
+	"Title":"Fear of the Dark - A guide to Balanar",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"Before first night":
+			[
+				"boots",
+				"bottle",
+				"quelling_blade"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"urn_of_shadows",
+				"helm_of_the_dominator",
+				"ultimate_scepter",
+				"satanic",
+				"basher"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"heart",
+				"abyssal_blade",
+				"vanguard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Will be needed to snatch creeps on the lane while waiting for night time. Also helpful if u need to jungle a short while between ganks.",
+				"gauntlets":"The HP + Small damage increase is a must have early.",
+				"bottle":"A must have item to keep mana and health flowing since you will be roaming a lot during night.",
+				"power_treads":"Don't forget to really make use of the tread switching technique.",
+				"urn_of_shadows":"Invaluable item when roaming and ganking, keeps you going. Also, a useful damage over time effect to finishing off heroes quicker.",
+				"ultimate_scepter":"One of the most powerful items for Balanar, since it gives him uninterrupted vision during night time. You just cannot get ganked when the embrace of the night begins. And also, you find your prey very quickly.",
+				"black_king_bar":"If they have a massive crowd control team, rush this item before or just after Afghanim's Scepter.",
+				"basher":"The stun + night time attack speed makes short work of most enemies.",
+				"satanic":"If you are insanely overfarmed, get this before Urn of Shadows.",
+				"helm_of_the_dominator":"Damage, armor, lifesteal = sustain. Also, now you can begin jungling when between ganks."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_crippling_fear",
+			"3":"night_stalker_void",
+			"4":"night_stalker_hunter_in_the_night",
+			"5":"night_stalker_hunter_in_the_night",
+			"6":"night_stalker_darkness",
+			"7":"night_stalker_void",
+			"8":"night_stalker_hunter_in_the_night",
+			"9":"night_stalker_void",
+			"10":"night_stalker_hunter_in_the_night",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"Excellent burst damage, good range. Use it to initiate anytime you want to grab a night time hero-snack. Combo it with your silence (W) to make sure you land the kill if they have crowd control. Also, the low CD on it makes for excellent last shots if they get under a tower for shelter.",
+				"night_stalker_crippling_fear":"This skill is often needed before the first night to keep crowd control heroes silenced while you bash them to an early grave. Make sure to have at least 1 point before first night.",
+				"night_stalker_hunter_in_the_night":"The skill which really defines Balanar and makes him the fear inspiring monster of the night that he is. Attackspeed and movement speed. Nothing escapes in combination with Q and W.",
+				"night_stalker_darkness":"As soon as the first night arrives, use this instantly to prolong the night. When night time arrives, use this as soon as cooldown allows you to. Don't use it in daytime unless you really need to, it's better used to prolong the night into eternity and let you roam."
+		}
+	}
+}

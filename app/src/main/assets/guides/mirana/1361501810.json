@@ -1,0 +1,94 @@
+{
+	"Hero":"mirana",
+	"Title":"[DMX] Mirana (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"manta",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"desolator",
+				"monkey_king_bar",
+				"butterfly",
+				"black_king_bar",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"diffusal_blade",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Très bon item si vous êtes au mid, car il vous permet de vous régénérer avec les runes entre les ganks."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_arrow",
+			"2":"mirana_leap",
+			"3":"mirana_starfall",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_arrow",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_invis",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"Un sort AOE faisant d'excellent dommages. Essayez de le placer au corps à corps pour que votre adversaire prenne le deuxième coup du sort.",
+				"mirana_arrow":"Un stun très difficile à placer mais qui pourra totalement annihiler votre ennemi si vous viser bien. Essayez de combiner ce stun avec le contrôle d'un allié pour le placer plus facilement. ",
+				"mirana_leap":"Votre sort d'escape qui donnera en plus un buff de vitesse de déplacement pour votre équipe. Lorsqu'il est au level 4 il ne coutera presque plus de mana, ce qui vous permettra d'en abuser.",
+				"mirana_invis":"Un excellent ultimate de zone qui rend toute votre équipe invisible, ce qui peut vous permettre de fuir, mais aussi d'engager un teamfight dans les meilleures conditions."
+		}
+	}
+}

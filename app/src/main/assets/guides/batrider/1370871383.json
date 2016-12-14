@@ -1,0 +1,71 @@
+{
+	"Hero":"batrider",
+	"Title":"GreyShark.Batrider",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"magic_stick",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"magic_wand",
+				"phase_boots",
+				"blink"
+			],
+			"Mid Game":
+			[
+				"force_staff",
+				"cyclone",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_firefly",
+			"2":"batrider_sticky_napalm",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_flamebreak",
+			"5":"batrider_sticky_napalm",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_sticky_napalm",
+			"8":"batrider_firefly",
+			"9":"batrider_firefly",
+			"10":"batrider_firefly",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_flamebreak",
+			"13":"batrider_flamebreak",
+			"14":"batrider_flamebreak",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

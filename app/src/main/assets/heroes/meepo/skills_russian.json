@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Earthbind",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бросает сеть в указанную область, приковывая врагов к земле. Earthbind предотвращает уход в невидимость, телепортацию и прерывает используемые заклинания.",
+        "notes": "Не дает уйти в невидимость, но не действует на уже невидимых врагов.<br/>Не действует на невосприимчивых к заклинаниям юнитов и Рошана.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">220</font></b><br/>ДАЛЬНОСТЬ: <b><font color=\"#ffffff\">500/750/1000/1250</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/16/12/8",
+        "lore": "Бывает, что даже поймать ужин в руинах Ущелья теней — задача не из легких.",
+        "hurl": "Meepo",
+        "name": "meepo_earthbind",
+        "youtube":"i1tAJ-RJ27Q",
+        "id": 0
+    },
+    {
+        "dname": "Poof",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Используя таинственную энергию земли, Meepo может телепортироваться к другому Meepo после произнесения заклинания в течение 1,5 секунд, нанося урон как в точке отправки, так и в месте прибытия.",
+        "notes": "Способность может быть применена через мини-карту.<br/>Может телепортировать к вашим иллюзиям.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/100/120/140</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">375</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/10/8/6",
+        "lore": "Иногда приходится разбивать один из кристаллов Ущелья теней, чтобы выпутать себя из передряги. Или другого себя.",
+        "hurl": "Meepo",
+        "name": "meepo_poof",
+        "youtube":"-alsToHm2BM",
+        "id": 1
+    },
+    {
+        "dname": "Geostrike",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Meepo наделяет свое оружие силой земли, нанося врагам урон с течением времени и замедляя их. Этот эффект складывается, если одну и ту же цель атакуют несколько Meepo.",
+        "notes": "Замедляет юнитов, невосприимчивых к заклинаниям.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">8/16/24/32</font></b>",
+        "attrib": "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "",
+        "lore": "Хранить сумку налегке, нося с собой лишь самые необходимые инструменты — лучший вариант для выживания.",
+        "hurl": "Meepo",
+        "name": "meepo_geostrike",
+        "youtube":"FNzYi2ViXMQ",
+        "id": 2
+    },
+    {
+        "dname": "Divided We Stand",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Meepo создает неидеальных, полуавтономных клонов. Клоны способны получать и разделять золото и опыт, а также перенимают все способности Meepo. Клоны неспособны использовать какие-либо предметы, кроме сапогов, что носит оригинал. Если хоть один из клонов умрет, то умирают и все остальные Meepo.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Клоны не могут использовать артефакт Arcane Boots или поднимать руны.",
+        "dmg": "",
+        "attrib": "КОЛИЧЕСТВО КЛОНОВ: <b><font color=\"#ffffff\">1/2/3</font></b>",
+        "cmb": "",
+        "lore": "Мы знакомы?",
+        "hurl": "Meepo",
+        "name": "meepo_divided_we_stand",
+        "youtube":"aa1ksGfZ6fY",
+        "id": 3
+    }
+]

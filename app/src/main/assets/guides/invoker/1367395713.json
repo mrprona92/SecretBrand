@@ -1,0 +1,68 @@
+{
+	"Hero":"invoker",
+	"Title":"GreyShark.Invoker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"sobi_mask",
+				"branches"
+			],
+			"Early Game":
+			[
+				"phase_boots",
+				"cyclone"
+			],
+			"Mid Game":
+			[
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"rod_of_atos",
+				"blink"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_invoke",
+			"3":"invoker_exort",
+			"4":"invoker_wex",
+			"5":"invoker_exort",
+			"6":"invoker_quas",
+			"7":"invoker_invoke",
+			"8":"invoker_exort",
+			"9":"invoker_exort",
+			"10":"invoker_wex",
+			"11":"invoker_exort",
+			"12":"invoker_invoke",
+			"13":"invoker_exort",
+			"14":"invoker_wex",
+			"15":"invoker_wex",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_quas",
+			"19":"invoker_wex",
+			"20":"invoker_wex",
+			"21":"invoker_quas",
+			"22":"invoker_quas",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		}
+	}
+}

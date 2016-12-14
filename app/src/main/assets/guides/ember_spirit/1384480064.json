@@ -1,0 +1,105 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"Mid Xin: A Baboon's Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game (Gank after getting these)":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"orb_of_venom",
+				"tpscroll"
+			],
+			"Mid Game":
+			[
+				"bottle",
+				"boots",
+				"orb_of_venom",
+				"bfury",
+				"pers",
+				"tpscroll"
+			],
+			"Late Game 6 Slot":
+			[
+				"travel_boots",
+				"bfury",
+				"bfury",
+				"bfury",
+				"greater_crit",
+				"rapier"
+			],
+			"Situational":
+			[
+				"black_king_bar",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"monkey_king_bar",
+				"maelstrom",
+				"mjollnir",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Optional. Helps with last hitting.",
+				"gem":"For countering stealth heroes.",
+				"monkey_king_bar":"For countering evasion.",
+				"bfury":"The cleave stacks, so your Sleight of Fist attacks will do massive damage in the AOE. The regen helps with your rather low stat growth."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_sleight_of_fist",
+			"2":"ember_spirit_searing_chains",
+			"3":"ember_spirit_sleight_of_fist",
+			"4":"ember_spirit_searing_chains",
+			"5":"ember_spirit_sleight_of_fist",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_sleight_of_fist",
+			"8":"ember_spirit_searing_chains",
+			"9":"ember_spirit_flame_guard",
+			"10":"ember_spirit_flame_guard",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_flame_guard",
+			"13":"ember_spirit_flame_guard",
+			"14":"ember_spirit_searing_chains",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"Searing Chains left at level 3 and not maxed to 4 until later because of duration scaling of 2/2/3/3.",
+				"ember_spirit_sleight_of_fist":"Max first for cooldown improvement. Provides harass and lane control.",
+				"ember_spirit_flame_guard":"Constant cooldown of 35. Impractical/situational DPS potential. Gotten mostly for defensive purposes.",
+				"ember_spirit_fire_remnant":"Good mobility ability. Can be left at level 1 if you need more Stats or Flame Guard instead."
+		}
+	}
+}

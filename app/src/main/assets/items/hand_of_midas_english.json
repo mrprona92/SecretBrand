@@ -1,0 +1,16 @@
+{
+  "dotaId": "hand_of_midas",
+  "id": 65,
+  "img": "hand_of_midas_lg.png",
+  "dname": "Hand of Midas",
+  "qual": "common",
+  "cost": 2050,
+  "desc": "Active: Transmute - Kills a non-hero target for 190 gold and 2.5x experience.  Cannot be used on Ancient Creeps.",
+  "notes": "The gold given is reliable gold (you do not get the normal creep bounty).<br/>Experience gained by using Transmute is not shared.",
+  "attrib": "+ 30 Attack Speed<br/>TRANSMUTE CAST RANGE: 600",
+  "mc": false,
+  "cd": 100,
+  "lore": "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets.",
+  "components": ["gloves"],
+  "created": true
+}

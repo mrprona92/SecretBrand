@@ -1,0 +1,112 @@
+{
+	"Hero":"nevermore",
+	"Title":"The Main SF Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"branches",
+				"slippers",
+				"flask"
+			],
+			"Early (Boots 1st vs Pudge)":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"Standard":
+			[
+				"power_treads",
+				"black_king_bar",
+				"manta"
+			],
+			"Pub Stomp":
+			[
+				"phase_boots",
+				"invis_sword",
+				"mask_of_madness",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"blink",
+				"diffusal_blade",
+				"desolator",
+				"monkey_king_bar",
+				"mjollnir",
+				"helm_of_the_dominator",
+				"ring_of_aquila",
+				"ancient_janggo",
+				"hand_of_midas"
+			],
+			"Luxury":
+			[
+				"butterfly",
+				"ethereal_blade",
+				"satanic",
+				"travel_boots",
+				"assault",
+				"skadi"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If your team consists of AOEish heroes such as Enigma, Tide or Sand King, Blink Dagger will help you pull off that wombo combo team wipe. ",
+				"boots":"Get this after bottle for the ms advantage. IF you're vsing a Pudge solo mid, your first 450 should be spent on this (important).",
+				"magic_wand":"For early game stats and survivablity from charges.",
+				"bottle":"Your first 600 should be Bottle for early rune control and lane dominance",
+				"power_treads":"Other than the attack speed bonus, it provides mana for raze farming, HP for teamfights and damage from its AGI. Essential for SF in the mid game.",
+				"black_king_bar":"You cannot be stopped once you have BKB. Use it to cast your ulti and fight in battles unharmed. Also provides HP and damage.",
+				"monkey_king_bar":"To deal with heroes with evasion eg. Windrunner, Phantom Assassin, Brewmaster.",
+				"greater_crit":"Coupled with Shadow Blade, you will be able to two shot heroes if you get this early enough. Also a great luxury item once you have your core items.",
+				"manta":"Allows you to push towers much faster. Also provides bonus movement speed, attack speed, HP and damage.",
+				"invis_sword":"Pick off lone heroes with the invis/ulti combo. Also allows you to escape ganks. Provides attack speed and damage and the ability to crit heroes.",
+				"mjollnir":"Works great vs Phatom Lancer.",
+				"desolator":"To deal with heroes with high armor eg. Dragon Knight.",
+				"mask_of_madness":"If going the Pub Stomp build, get MoM to kill everyone in 2 seconds.",
+				"diffusal_blade":"Get this if you're vsing a Warlock to get rid of his Rock Golem or if you're vsing Ursa to get rid of its ulti Enrage. Also provides some nice stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_shadowraze1",
+			"4":"nevermore_necromastery",
+			"5":"nevermore_shadowraze1",
+			"6":"nevermore_necromastery",
+			"7":"nevermore_shadowraze1",
+			"8":"nevermore_necromastery",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

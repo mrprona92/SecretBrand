@@ -1,0 +1,104 @@
+{
+	"Hero":"mirana",
+	"Title":"Mirana is a Pretty Lady on a Tiger",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"wraith_band",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"desolator",
+				"yasha"
+			],
+			"luxury":
+			[
+				"manta",
+				"monkey_king_bar",
+				"mekansm",
+				"cyclone",
+				"diffusal_blade",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Starting with two slippers lets you have a bit more damage early game during the laning phase.",
+				"bottle":"If you are going middle, grab a bottle.  You can use it to control the runes and gank to assist your team.
+
+If you are offlane, it still can be useful unless your mid hero is desperate for runes.
+
+If you are in a tri-lane, it isnt needed.",
+				"phase_boots":"Picking up Phase Boots allows you to really chase people down.  Between Leap and Phase Boots, you will be able to gank / escape situations easily.  ",
+				"wraith_band":"Build this towards the Ring of Aquila.",
+				"mekansm":"If your team needs a Mekanism, Mirana can do it.  Her ability to move in / out of fights quickly can allow her to activate it before dying.",
+				"cyclone":"If you are playing a more support style Mirana, Eul's can be a very effective item.  It will give you increased move speed as well as a more sustainable mana pool.",
+				"sphere":"Linken's is a decent item for Mirana, but mostly if the enemy team has a ton of lockdown that you want to try and block.  It is quite the investment, so if you don't think you will be able to maximize its effectiveness, spend your money elsewhere. ",
+				"monkey_king_bar":"Monkey King Bar will give you more damage as well as the accuracy to make sure all of your attacks are landing.",
+				"manta":"Manta Style will give you additional move speed and attack speed.  Plus being able to activate it you will be able to get out of sticky situations.",
+				"desolator":"Desolator provides you with much needed damage as well as the negative armor to your opponents that will help your team out.  ",
+				"yasha":"Picking up a Yasha will give you much needed attack speed and it will built into a Manta Style.",
+				"diffusal_blade":"Pick this up if you feel that you need the purge to slow an enemy or remove debuffs.",
+				"ring_of_aquila":"This will give you a bit of damage but also help your mana regeneration."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_arrow",
+			"2":"mirana_starfall",
+			"3":"mirana_starfall",
+			"4":"mirana_leap",
+			"5":"mirana_starfall",
+			"6":"mirana_invis",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_arrow",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"Starfall is your main damage ability early on.  You are able to have a significant amount of AOE burst damage to help you pick up kills.",
+				"mirana_arrow":"Picking up the arrow at level 1 is up to personal taste.  If you are going to try and pick up a kill early, take it at level 1.  The stun is based on how far the arrow travels, so the potential of a 4 second stun at level 1 is amazing.  Max this after Starfall so you can utilize the increased damage",
+				"mirana_leap":"You can pick up the Leap earlier if you are solo in the long lane or if you are feeling a lot of pressure.  It will allow you to escape ganks easier.  However if you feel safe, you are better off getting your other abilities first.",
+				"mirana_invis":"Try to use this as much as possible either use it to help a teammate escape or use it aggressivly and look for a gank.  It is pretty much a free Smoke of Decit, take advantage of it.  With the recent buff, it warrents a skill point at level 6...its very useful!"
+		}
+	}
+}

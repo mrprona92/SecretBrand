@@ -1,0 +1,97 @@
+{
+	"Hero":"pudge",
+	"Title":"Pudge - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"phase_boots",
+				"tpscroll",
+				"magic_wand",
+				"smoke_of_deceit"
+			],
+			"coreItems":
+			[
+				"force_staff"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"blink",
+				"hood_of_defiance",
+				"black_king_bar",
+				"pipe",
+				"ghost",
+				"invis_sword",
+				"refresher",
+				"heart",
+				"travel_boots",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dust":"Si el enemigo al que vas a gankear tiene invisibilidad te interesa llevar dust.",
+				"bottle":"Necesitas wards en una runa para controlarlas.",
+				"tpscroll":"Siempre lleva un tp encima!",
+				"urn_of_shadows":"Para regenerarte, lanzarlo contra enemigos y que no escapen, etc.",
+				"force_staff":"Item clave en pudge para saltar y tirar gancho, escapar, movilidad, llegar a sitios donde no podrias andando, etc.",
+				"smoke_of_deceit":"Muy util para gankear."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_rot",
+			"10":"pudge_flesh_heap",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Engancha a un enemigo hacia ti. Hace bastante daño y ademas coloca al enemigo en situacion de hacerle daño con la W y la ultimate (a partir de lvl6). También puedes llegar a usarlo para salvar a aliados, etc.",
+				"pudge_rot":"Pierdes vida a cambio de hacer daño alrededor tuyo. Es muy bueno combinandolo con el hook y la ultimate. En linea tambien te puede ayudar a hacer algun last hit. Por último, recuerda que te puedes suicidar con esto si crees que te van a matar si o si!!",
+				"pudge_dismember":"Inutiliza a un enemigo por unos segundos mientras que le haces daño con tu W y el resto de aliados también le golpean. Atraviesa inmunidad magica!!. Es el mejor arma de pudge para gankear junto al gancho."
+		}
+	}
+}

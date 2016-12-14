@@ -1,0 +1,16 @@
+{
+  "dotaId": "chainmail",
+  "id": 4,
+  "img": "chainmail_lg.png",
+  "dname": "Chainmail",
+  "qual": "component",
+  "cost": 550,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 5 Armor",
+  "mc": false,
+  "cd": false,
+  "lore": "A medium weave of metal chains.",
+  "components": null,
+  "created": false
+}

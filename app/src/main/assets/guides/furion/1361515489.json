@@ -1,0 +1,67 @@
+{
+	"Hero":"furion",
+	"Title":"Fast Farm Furion",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"sheepstick",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"necronomicon",
+				"ultimate_scepter"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_teleportation",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

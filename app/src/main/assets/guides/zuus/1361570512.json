@@ -1,0 +1,103 @@
+{
+	"Hero":"zuus",
+	"Title":"Solo Mid Zeus",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"gauntlets",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"bracer",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"force_staff"
+			],
+			"Late game":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"veil_of_discord"
+			],
+			"Alternative":
+			[
+				"magic_wand",
+				"refresher",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Gives more HP.",
+				"circlet":"Gives good early stats.",
+				"boots":"Every hero needs boots to run faster.",
+				"magic_wand":"Good when the enemy team casts lots of spells.",
+				"flask":"Good HP regen when you are low.",
+				"bottle":"Allows you to control runes and restore HP and Mana.",
+				"tango":"Good heal for when you are harassed.",
+				"bracer":"Gives good stats early.",
+				"sheepstick":"Very powerful disable and good stats.",
+				"orchid":"Powerful silence if your team needs it.",
+				"force_staff":"Allows for better positioning as well as escaping.",
+				"ultimate_scepter":"Allows you to do more damage with your Thundergod's Wrath.",
+				"refresher":"Allows you to use your Ultimate twice.",
+				"arcane_boots":"Gives you and your team lots of Mana.",
+				"ancient_janggo":"Good stats for you and a good aura.",
+				"veil_of_discord":"Makes all of your spells do more damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Does good damage when you have the Mana to cast it often. Use it in lane to get last hits.",
+				"zuus_lightning_bolt":"Very powerful nuke, use it to kill enemies.",
+				"zuus_static_field":"Allows you to do lots of damage by casting often.",
+				"zuus_thundergods_wrath":"Powerful ultimate that damages everyone. Use it in team fights.",
+				"attribute_bonus":"Take these when you have to."
+		}
+	}
+}

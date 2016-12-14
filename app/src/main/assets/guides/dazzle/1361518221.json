@@ -1,0 +1,104 @@
+{
+	"Hero":"dazzle",
+	"Title":"[DMX] Dazzle - Agressive (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"ultimate_scepter",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"soul_ring",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"power_treads",
+				"cyclone",
+				"pipe",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"medallion_of_courage"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shallow_grave",
+			"2":"dazzle_shadow_wave",
+			"3":"dazzle_poison_touch",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_poison_touch",
+			"6":"dazzle_shadow_wave",
+			"7":"dazzle_poison_touch",
+			"8":"dazzle_shadow_wave",
+			"9":"dazzle_shadow_wave",
+			"10":"dazzle_weave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_shallow_grave",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"Un très bon sort pour harass et disable à partir du niveau 3.
+",
+				"dazzle_shallow_grave":"Un sort extrêmement fort qui empechera vous ou vos alliés de mourir !",
+				"dazzle_shadow_wave":"Un heal puissant qui vous aidera à pusher les lanes. Vous pouvez également l'utiliser pour harass un ennemi mêlée lorsqu'il va last hit.",
+				"dazzle_weave":"Un très bon ultimate en teamfight pour vous buffer vous et votre team."
+		}
+	}
+}

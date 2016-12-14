@@ -1,0 +1,134 @@
+{
+	"Hero":"bristleback",
+	"Title":"Purge's Guide to Bristleback",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"stout_shield",
+				"boots",
+				"magic_stick",
+				"branches",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"vanguard",
+				"ring_of_basilius",
+				"magic_wand",
+				"cloak",
+				"tpscroll"
+			],
+			"Situational Tanky Items":
+			[
+				"pipe",
+				"assault",
+				"heart",
+				"vladmir",
+				"medallion_of_courage",
+				"shivas_guard"
+			],
+			"Very Situational DPS Items":
+			[
+				"mjollnir",
+				"radiance",
+				"armlet",
+				"necronomicon",
+				"heavens_halberd"
+			],
+			"Items to Avoid":
+			[
+				"blade_mail",
+				"phase_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Purchase a Ring of Protection in base so that you can complete a Basilius by buying a Sage's Mask in the side shop while laning!",
+				"stout_shield":"You shoudl purchase a Stout Shield immediately after you finish your Basilius so that you can dive creeps and take reduced harass from heroes!",
+				"magic_stick":"Magic Stick is a great item for Bristleback in lane. When playing aggressive, you will get spells casted on you, and the extra charges help give you enough mana to quills, or stay alive just barely. Magic Stick should be purchased quite early from the side shop.",
+				"phase_boots":"You cast spells constantly, which makes the phase active wasted! I would never get phase boots on BristleBack.",
+				"ring_of_health":"Ring of Health is needed to stay in the lane. If for some weird reason you choose not to build a vanguard(which I think is generally the best tank item for BB), you can build it into a hood.",
+				"power_treads":"Treads should be gotten over Phase because you cast constantly with BB and that would defeat the point of phase active. You get treads over Arcanes because a basi+wand is enough mana, and the attack speed+hp on BB allows him to semi carry by utilizing the damage from his ulti.",
+				"vladmir":"Most games that I go Vlads I become disappointed because it doesn't make you much stronger and takes an item slot, but if you want lifesteal this is generally the best item to pick up.",
+				"ring_of_basilius":"Basilius give you everything that you need as Bristleback. Most importantly, the extra .65 mana per second at the start of the game. This should be the FIRST item you complete in the side lane!
+
+You need to be replenishing your mana, or you are useless in lane, generally.",
+				"pipe":"If you make a hood, it's usually a good idea to upgrade it to a pipe. Not recommended if the enemy team has little aoe magic damage, in which case sitting on cloak, or finished the hood for yourself is generally enough.",
+				"necronomicon":"Necro 3 has been buffed and buffed recently and can really work out nicely with goo because you can slow a target and bash on them with yourself and the creeps.",
+				"assault":"Assault Currass is a fantastic BB item because it gives lots of offense and defense. The +15 armor makes him harder to kill, the -5 armor aura means quills do more damage(as do your right clicks), and the Attack Speed is exactly what you need to get your DPS up when your ulti gives you + damage!",
+				"heart":"Heart allows for more damage from back quills as it increases your total hp, but generally is best gotten after at least 1 DPS item, and surely after an armor item at least.",
+				"shivas_guard":"If the enemy team has lots of physical damage and an AC alone isn't cutting it(or you'd rather get mana and armor instead) then try picking up a Shivas for the slow, and -AS aura!",
+				"vanguard":"The hp is extremely important because Bristleback's Strength gain is low for a tank hero, and you have to make that up with items. The regen also is important, as that's hp gained while you teamfight!
+
+If you want to skip vanguard, I recommend Vitality Booster + Hood + Stout Shield.",
+				"blade_mail":"The damage reflected is the damage taken! That means that the nuke to your back is reduced by bristleback and the final damage total is what is reflected, which means not much! I will only get blademail if they have a huskar, or I'm very behind because tanking isn't a possibility, and I need damage.",
+				"radiance":"I would not build a radiance unless I was extremely far ahead and happy with my tank levels, or if I was really concerned with countering a hero with the radiance burn(such as blink dagger heroes, TA, etc.). But of the damage items, Radiance synergizes well with tanky heroes in melee range.",
+				"armlet":"Armlet arguably switches out for an item like Vanguard because it provides similar things. They both provide regen out of combat and hp during combat, but Armlet should be picked up for the damage increase if you want to play more of a carry role than a tanking semi carry one.",
+				"mjollnir":"Mjollner is a great damage item for Bristleback because it gives him a magic damage source, provides attack speed(which stacks well with warpath) and if you upgrade it, you reflect magic damage upon attack(and you will be attacked). If I needed aoe carry especially(like vs a PL), I would build this.",
+				"medallion_of_courage":"Medallion can be used to reduce the armor that your target has, which means he takes more damage from your right clicks and your Quills.",
+				"heavens_halberd":"Evasion makes you MUCH tankier, and the hp and +damage from this item is really fantastic. Can also be used to counter a specific carry who does physical damage, like a PA, Syllabear, etc."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_quill_spray",
+			"2":"bristleback_bristleback",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_viscous_nasal_goo",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_bristleback",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_viscous_nasal_goo",
+			"13":"bristleback_viscous_nasal_goo",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"bristleback_viscous_nasal_goo"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"Nasal Goo should be casted often in teamfights to slow your opponents and reduce their armor. Cast it in between attacks or when closing distance. Remember, ever cast reduces their armor and increases your damage with Warpath! Don't get a 4th level because the slow bonus is minuscule.",
+				"bristleback_quill_spray":"Quill Spray is your main aoe damage dealing ability. This should be maxed first. As you cast more and more quills, it does more bonus damage, so spam this spell whenever it's up in teamfights.
+
+Use it early in laning for last hits you won't get, and in mid to late, spam for damage!",
+				"bristleback_bristleback":"This is the ability that makes Bristleback so tanky, because it reduces damage that he takes from the back, and partially from the sides. When you're expecting heavy nukes, always turn your body away from your opponents. If you're feeling tanky enough, feel free to go face first and right click.",
+				"bristleback_warpath":"Warpath is an extremely powerful ultimate because it gives you huge +damage. This means you generally just need to purchase survivability and attack speed items to do carry damage.
+
+While in fights, spam your spells to increase your damage and movement speed, then right click!",
+				"attribute_bonus":"You get 1 extra level of stats before 16 because the 4th level of viscous nasal goo does very little for the skill point. It's generally better to have the extra 38 hp, 2 damage, 26 mana, and 2/7th's armor."
+		}
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"Hero":"razor",
+	"Title":"Move Speed Razor",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"circlet"
+			],
+			"Early game":
+			[
+				"phase_boots",
+				"magic_wand",
+				"bracer"
+			],
+			"Core":
+			[
+				"ancient_janggo",
+				"yasha",
+				"tpscroll"
+			],
+			"Extended Core":
+			[
+				"manta",
+				"black_king_bar",
+				"butterfly",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"Late game/Optional":
+			[
+				"travel_boots",
+				"greater_crit",
+				"desolator",
+				"invis_sword",
+				"ethereal_blade",
+				"skadi",
+				"heart",
+				"monkey_king_bar",
+				"pipe",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Get these always. +3 to all stats is a lot at start of the game and it makes for easy build up for Magic Wand.",
+				"circlet":"Even more stats at start and build up for bracer.",
+				"magic_wand":"Essential for survival in team fights.",
+				"flask":"Some more early game regen.",
+				"tango":"Early game life regen.",
+				"tpscroll":"Always carry a tp scroll.",
+				"travel_boots":"Another great late game item. A lot of move speed and a free teleport which is so important in late game.",
+				"phase_boots":"Great item to keep Static Link up.",
+				"bracer":"Build up for Drum of Endurance.",
+				"pipe":"Good choice if your team needs it.",
+				"ultimate_scepter":"Situational item. If your team really needs to push fast this is a good choice. Eye of the storm does a good amount of damage to the buildings with Aghanims Scepter. ",
+				"refresher":"Ult refresh ult again. They stack.",
+				"heart":"If your feel you don't survive well get this.",
+				"black_king_bar":"One of the best items in game. Always get it if you are playing against many stunners/nukers.",
+				"monkey_king_bar":"True strike is good optional late game item vs heroes with evasion.",
+				"butterfly":"One of the best agility damage and anti carry items. Give you both a lot of survivability and damage.",
+				"greater_crit":"Best pure damage item if you have 170+ damage.",
+				"manta":"Finishing up the core with Manta. Great item on agility heroes a lot of damage and survivability.",
+				"invis_sword":"Great item. Gives you attack speed and move speed and invisibility. What else do you need?",
+				"satanic":"Decent orb effect if you don't have one already. Gives you a lot of extra hp and a great active: Unholy Rage.",
+				"skadi":"Decent item on Razor. If you feel that you need more survivability but heart is just too much this is the way to go. Gives more damage than heart almost same amount of HP and has slow, great item.",
+				"desolator":"Great item for the whole team and you do a lot of damage.",
+				"yasha":"Even more move speed and damage.",
+				"ethereal_blade":"This is optional if you have a lot of casters/nukers on your team thats a great item to get.",
+				"ancient_janggo":"Great item overall. Gives move speed helps your whole team fixes your mana problems."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_static_link",
+			"2":"razor_plasma_field",
+			"3":"razor_plasma_field",
+			"4":"razor_unstable_current",
+			"5":"razor_plasma_field",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_unstable_current",
+			"9":"razor_unstable_current",
+			"10":"razor_unstable_current",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_static_link",
+			"13":"razor_static_link",
+			"14":"razor_static_link",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"razor_plasma_field":"Nuke should be maxed early.",
+				"razor_static_link":"Great skill to take at lvl 1. You really don't need your nuke on lvl 1. If you have hero with a stun in your lane you can easily get a kill with Static Link at level 1. This is a very important skill and move speed build relies heavily on it.",
+				"razor_unstable_current":"Since this is move speed build you want to get this early.",
+				"razor_eye_of_the_storm":"It's your ult get it at lvl 6 what else is there to say."
+		}
+	}
+}

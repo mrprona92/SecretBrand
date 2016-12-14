@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Starstorm",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Призывает метеоритный дождь, наносящий урон противникам, стоящим неподалеку. Ближайший враг в радиусе 325 единиц получит второй удар, наносящий 75% от обычного урона.",
+        "notes": "Не блокируется артефактом Linken's Sphere.<br/>Не наносит урона невидимым врагам.<br/>Starstorm выберет новую цель для второй атаки, если первая цель умерла до этого.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">625</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/120/140/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "В нужное время Богиня прорывается сквозь небо, чтобы дать силу своей принцессе.",
+        "hurl": "Mirana",
+        "name": "mirana_starfall",
+        "youtube":"d1FZp9axctE",
+        "id": 0
+    },
+    {
+        "dname": "Sacred Arrow",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выпускает стрелу с высокой точностью, которая оглушает первого юнита на своем пути и наносит ему урон. Длительность оглушения увеличивается прямо пропорционально дистанции до цели, начиная с 0.01 и заканчивая 5 секундами, а дополнительный урон достигает 140 единиц и также зависит от дистанции до цели.",
+        "notes": "Каждые 150 единиц, преодоленные стрелой, прибавляют к длительности оглушения 0,5 секунды и 14 единиц к дополнительному урону.<br/>Может попасть в невидимых врагов.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">50/140/230/320</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">3000</font></b><br/>МИН. ОГЛУШЕНИЕ: <b><font color=\"#ffffff\">0.01</font></b><br/>МАКС. ОГЛУШЕНИЕ: <b><font color=\"#ffffff\">5</font></b><br/>МАКС. ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">140</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 17",
+        "lore": "Лунная энергия делает стрелы принцессы Луны смертоноснее остальных.",
+        "hurl": "Mirana",
+        "name": "mirana_arrow",
+        "youtube":"BG-WZoCv3PA",
+        "id": 1
+    },
+    {
+        "dname": "Leap",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Mirana врывается в битву, воодушевляя союзников свирепым криком, что дает им дополнительную скорость атаки и передвижения. Бонус длится 10 секунд.",
+        "notes": "Многие снаряды могут быть сбиты с цели применением этой способности.",
+        "dmg": "",
+        "attrib": "РАССТОЯНИЕ: <b><font color=\"#ffffff\">600/700/800/900</font></b><br/>ДОП. СКОРОСТЬ: <b><font color=\"#ffffff\">4%/8%/12%/16%</font></b><br/>БОНУС К СКОРОСТИ АТАКИ: <b><font color=\"#ffffff\">8/16/24/32</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 40/35/30/20<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/26/22/18",
+        "lore": "Как друзья, так и недруги сразу узнают знаменитого белого зверя Mirana в гуще битвы.",
+        "hurl": "Mirana",
+        "name": "mirana_leap",
+        "youtube":"gB6cL5h6DgI",
+        "id": 2
+    },
+    {
+        "dname": "Moonlight Shadow",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Turns Mirana and all allied heroes invisible. If a hero is revealed, invisibility will restore after the fade delay as long as Moonlight Shadow's duration has not expired.",
+        "notes": "Юниты под воздействием этой способности не будут атаковать врагов автоматически.<br/>Действует на союзников, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ЗАДЕРЖКА ДО НЕВИДИМОСТИ: <b><font color=\"#ffffff\">2.5/2/1.5</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 140/120/100",
+        "lore": "Положение Mirana на службе Селемине позволяет ей призвать затмение, закутывающее ее союзников в плащи теней.",
+        "hurl": "Mirana",
+        "name": "mirana_invis",
+        "youtube":"FjieOflgUg0",
+        "id": 3
+    }
+]

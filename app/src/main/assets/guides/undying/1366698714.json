@@ -1,0 +1,109 @@
+{
+	"Hero":"undying",
+	"Title":"Purge's Guide to Undying",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"stout_shield",
+				"magic_stick",
+				"branches",
+				"ring_of_regen"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"tpscroll",
+				"mekansm",
+				"pipe"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"blade_mail",
+				"ghost",
+				"heart",
+				"vanguard",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Building a ring of Basilius in the side lane is really beneficial to his mana regen. If you are aggressive trilaning or in a tough lane, I recommend starting with a stout shield instead, and just going straight Arcane for Mana.",
+				"stout_shield":"Undying is generally up in the enemies face, and as such will require a stout shield to block creep and enemy hero damage. Barely surviving is exactly what Undying wants to do, as it usually results in zombie stacks and kills.",
+				"ring_of_regen":"Ring of Regen should be bought in side shop if you plan to make a Mek, or a Ring of Health should be purchased if you want to make a Vanguard.",
+				"boots":"Normal boots are acceptable in lane. I recommend getting Arcanes whenever you have the money for them, even before some tank items as mana is really all you need to heal and tank a bit.",
+				"magic_stick":"You should get a magic stick ASAP after picking up boots, as the hp/mp heal it can provide during ganks often times will be enough for another decay, or enough to stay alive. You WILL be tanking, so they will be casting on you.",
+				"magic_wand":"Wand is really important to your success because Undying wants to swing fights with near death occurances that will force your opponents to commit. It might give you enough mana to cast one less decay, or enough mana to survive to mek and soul rip. Wand is ESSENTIAL.",
+				"ghost":"Ghost Scepter should be gotten when they have a hard carry that does a massive amount of burst physical dps that you don't want to deal with, such as a Lifestealer or Anti Mage.",
+				"tpscroll":"Always carry a tp so that you can support your allies if they get dived, or to go somewhere suddenly and push!",
+				"mekansm":"I used to get Vanguard on Undying, but Mek is all around a better item. If someone on my team is already getting Mek, I'd get a Vanguard for survivability. This can hurt your mana pool a bit, but you'll be tankier, and it only costs a bit more.",
+				"ring_of_basilius":"Basilius is really important in lane because Undying burns through mana pretty quickly with tombstone usage. The armor bonus is also great for staying survivable.",
+				"pipe":"Stacking tank upon tank is a great thing, especially with as many heals as Undying has. Pipe is another great team support item that will help you push and swing team fights.",
+				"heart":"In extremely late game scenarios, you could perhaps get a heart if you have extra money, though I'd generally say you shouldn't spend money on this, as Undying's weak farming abilities shouldn't get you too far past the Core items.",
+				"shivas_guard":"Shivas guard is quite situational since you won't be able to pick this up most games, but the +15 armor is nice for staying alive longer, and the intellegence it gives allow you to spam decay more often, which should keep you alive longer as well.",
+				"vanguard":"I recommend getting a Vanguard if another ally of yours is already building a Mekanism. The +250 hp helps a lot, as does the regen over time and high damage block. It often times will keep you alive long enough to turn the battle and win a fight, but generally mek is better.",
+				"blade_mail":"I almost put Blade Mail into Core items because it synergyzes with Undying pretty well, but I think for a pub it's semi situational. Undying heals a lot during a fight between his ulti and other skills, so there is a lot of hp that you're willing to trade for reflect damage.",
+				"arcane_boots":"Undying requires a whole bunch of mana to afford the reduced cooldown of decay later on in the game. You can pick these up pretty early in lane if you're having a good game, or delay them until a bit later."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_decay",
+			"2":"undying_tombstone",
+			"3":"undying_tombstone",
+			"4":"undying_soul_rip",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_tombstone",
+			"8":"undying_decay",
+			"9":"undying_decay",
+			"10":"undying_decay",
+			"11":"undying_flesh_golem",
+			"12":"undying_soul_rip",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Decay should always be gotten at level 1 because it has huge aoe impact. 4 strength is 76 hp, so that's -76 hp from enemies, and +76 hp to yourself with EACH HERO HIT. This makes undying extremely hard to kill in the early game, and lowers a huge % of enemy hp with each cast.",
+				"undying_soul_rip":"Soul Rip can either be gotten at level 2 or level 4. If gotten at 2, you have stronger solo nuking potential at level 2, but weaker teamfight at level 3. I recommend leaving it at level 1 until your other skills are maxed, or at most getting 2 levels before maxing out decay.",
+				"undying_tombstone":"Tombstone is an ability that is close as you'll ever get to an ultimate without being an ultimate. Fighting in a tombstone is very difficult early game for enemies because of low attack speed and armor, and this should be thrown down during most ganks and every teamfight.",
+				"undying_flesh_golem":"Flesh Golem should be the first skill you use in battle since it's instant. It will result in more damage done, more slow on the enemies, and most importantly heals whenever something dies in a teamfight.
+
+You will be more survivable and you'll disrupt enemy teamfights with it."
+		}
+	}
+}

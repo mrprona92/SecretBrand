@@ -1,0 +1,110 @@
+{
+	"Hero":"abaddon",
+	"Title":"[DMX] Abaddon (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Début / Essentiels":
+			[
+				"ring_of_basilius",
+				"arcane_boots",
+				"magic_wand",
+				"vladmir",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"travel_boots",
+				"heart",
+				"sheepstick"
+			],
+			"Objets Contextuels":
+			[
+				"power_treads",
+				"phase_boots",
+				"ancient_janggo",
+				"urn_of_shadows",
+				"mekansm",
+				"pipe",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Vous permettra de tanker un peu plus tout en préparant l’achat de votre ring of basilius sur la la lane.",
+				"branches":"Les iron branchs vous permettront d'avoir un peu plus de stats tout en préparant l'achat de votre magic wand.",
+				"magic_wand":"Les arcanes boots vous seront très utile sur votre lane afin d’abuser de votre bouclier et rendre du mana à votre allié. Vous pouvez également partir sur des power treads ou des phases boots selon vos besoins.",
+				"flask":"Vous avez besoin de régénération !",
+				"tango":"Vous avez besoin de régénération !",
+				"tpscroll":"Ayez toujours un tp sur vous !",
+				"travel_boots":"En fin de game, remplacez vos boots par celles ci.",
+				"phase_boots":"Si vous voulez infliger plus de dommages à votre adversaire tout en le rattrapant plus facilement, les phase boots sont un bon choix.",
+				"power_treads":"De bonnes bottes qui vous permettront d’accentuer un peu votre DPS et de tanker plus.",
+				"mekansm":"Faites cet item si vous possédez des arcanes boots et que personne dans votre team ne l’a déjà.",
+				"vladmir":"Un excellent item pour abaddon qui buffera tous vos alliés et vous donnera une aura de lifesteal très intéressante.",
+				"ring_of_basilius":"Complétez votre ring of basilius le plus rapidement possible afin d’apporter une aura très pratique pour vous et votre allié ! N’oubliez pas de le désactiver pour ne pas push la lane.",
+				"pipe":"Cet item est parfait contre les équipes composées principalement de dégâts magiques.",
+				"urn_of_shadows":"Bon item de regen mana et de force qui vous permettra d’aider vos alliés grâce au heal ou de finir un ennemi qui tenterai de s’échapper !",
+				"sheepstick":"si votre partie n’en fini plus, faites un Scythe of Vyse afin d’avoir un contrôle supplémentaire dans votre team !",
+				"ultimate_scepter":"Vous pouvez faire l’aghanim pour augmenter la durée de votre ultimate de 2 sec. De plus l’item vous apporte de nombreuses stats.",
+				"assault":"Excellent item qui vous rendra encore plus tanky tout en apportant une aura d’attaque speed (qui se cumule avec votre passif) et de réduction d’armure sur tous vos ennemis ",
+				"heart":"L’item du tank par excellence il vous donne de la regen hp et beaucoup de points de vie.",
+				"arcane_boots":"La magic wand est un excellent item qui vous apporte des stats et de la regen instantanée.",
+				"ancient_janggo":"Faites cet item si personne dans votre team ne l’a, il vous donne des stats et une aura très appréciable."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_death_coil",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_frostmourne",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_aphotic_shield",
+			"8":"abaddon_death_coil",
+			"9":"abaddon_death_coil",
+			"10":"abaddon_death_coil",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_frostmourne",
+			"13":"abaddon_frostmourne",
+			"14":"abaddon_frostmourne",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"Ce sort vous permet de heal un allié ou d’infliger de bons dégâts à un adversaire contre un peu de votre vie. De plus, ce sort peut vous permettre de vous deny, ce qui est très pratique pour ne pas donner d’expérience à vos ennemis ! Enfin, si votre ultimate est actif, ce sort vous soignera.",
+				"abaddon_aphotic_shield":"Le sort de supporting extrême ! Il purgera la plupart des effets négatifs sur vous ou votre allié et protégera la cible des dégâts. Ce sort est très pratique pour aller attaquer sous une tour par exemple ou donner du sursis à un de vos alliés !",
+				"abaddon_frostmourne":"Ce sort est un ralentissement vraiment très puissant car il vous permet de ralentir les cibles que vous attaquez, mais aussi d’augmenter l’attaque speed de tous les alliés qui l’attaquent ! Un très bon passif qui permet à votre équipe de rapidement tomber une cible lors d’un gank ou d’un teamfight.",
+				"abaddon_borrowed_time":"Un ultimate qui fera de vous le tank ultime pendant quelques secondes. Essayez de l’utiliser quand vous vous faites focus pour ainsi récupérer beaucoup de points de vie !"
+		}
+	}
+}

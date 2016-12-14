@@ -1,0 +1,131 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"Nyx - melee and agility (Middle line) by MrakoBeS ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"slippers",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"magic_wand",
+				"robe",
+				"tpscroll",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"magic_wand",
+				"bfury",
+				"desolator",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"invis_sword",
+				"abyssal_blade",
+				"butterfly",
+				"orchid",
+				"necronomicon",
+				"dagon",
+				"sheepstick",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"(EN) Into a ring Aquila.
+(RUS)Превращаем в кольцо Аквила.",
+				"slippers":"(EN) Into a ring Aquila.
+(RUS) Превращаем в кольцо Аквила.",
+				"branches":"(EN) Turns into a magic wand.
+(RUS) Превращаем в волшебную палочку.",
+				"robe":"(EN) Turns into a Power treads.
+(RUS) Превращаем в Power treads.",
+				"magic_wand":"(EN) A very useful thing in the early game.
+(RUS) Очень полезная вещь в ранней стадии игры.",
+				"bottle":"(EN) Selecting the of the majority mid heroes.
+(RUS) Выбор большинства мид героев.",
+				"tpscroll":"(EN) TP on a line from the base and the gang with a vendetta with full MP!
+(RUS) Телепорт на линию и ганг при помощи вендетты с полной маной.",
+				"power_treads":"(EN) Since we have decided to be semi-carry/ganger, not a magician with arcane and Dagon is our choice (on intelligence) .(RUS) Вначале носим на интеллект, с появлением Battle Fury, носим на ловкость.
+Так как мы решили быть semi-carry/ganger, не магом/прокастером с Аркан и Дагоном - это наш выбор.",
+				"sheepstick":"(EN) Choice for suport-nyx.
+(RUS) Выбор Жука-Сапорта.",
+				"orchid":"(EN) Choice for suport-nyx.
+(RUS) Выбор Жука-Сапорта.",
+				"dagon":"(EN) Trash for us (in my opinion) - a choice of the weak.Because after casting, we can only escape.
+(RUS) Мусор для нас (на мой взгляд) - выбор слабого. Потому что после прокаста мы беспомощны и можем только убежать....",
+				"necronomicon":"(EN) Choice for suport-nyx.
+(RUS) Выбор Жука-Сапорта.",
+				"monkey_king_bar":"(EN)Increase the damage, and the damage of Vendetta, gives an advantage against evasion.
+(RUS) Увеличение урона, усиление Вендетты, дает преимущество против уклонения.",
+				"butterfly":"(EN) If we have a lot of gold, why not? Give us survival, damage, attack speed.
+(RUS) ) Если у нас есть много золота, почему бы и нет? Даст нам скорость атаки, выживаемость, урон.",
+				"greater_crit":"(EN) Vendetta is working with the critical effect of the Daedalus. That way you can kill Support using Vendetta.
+(RUS) Vendetta работает с критическим эффектом от Даедалус. Таким образом вы можете убить сапорта при помощи Вендетты.",
+				"bfury":"(EN) mast have in core items!
+Battle Fury gives a constant regeneration of MP and HP, good damage.That way you get the best farming. (RUS) Ядро жука! Battle Fury дает постоянную регенерацию MP и HP, хороший урон, улучшает фарм. ",
+				"invis_sword":"(EN) Give us mobility, attack speed, damage.
+(RUS) Даст нам: мобильность, скорость атаки, урон-усиливающий Вендетту.",
+				"desolator":"(EN) Good thing, reducing enemy resistance, enhance Ultimate.
+(RUS) Хороший выбор, увеличивает урон, уменьшает сопротивление противника, усиливает Вендетту.",
+				"ethereal_blade":"(EN) Colossally increase the the damage of burning MP.
+(RUS) Колоссально увеличивает ваш урон от выжигания маны(МП). Так же от любых других магических заклинаний.
+
+",
+				"abyssal_blade":"(EN) If we have a lot of gold, why not? Give us a damage control over the enemy.
+(RUS) Если у нас есть много золота, почему бы и нет? Дает нам урон, усиливает Вендетту, преемущество ввиде контроля над врагом.",
+				"ring_of_aquila":"(EN) Will give us an initial growth statistics MP regeneration.
+(RUS) Даст нам начальный прирост статистики, регенерацию МП."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_impale",
+			"2":"nyx_assassin_spiked_carapace",
+			"3":"nyx_assassin_impale",
+			"4":"nyx_assassin_mana_burn",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_spiked_carapace",
+			"9":"nyx_assassin_spiked_carapace",
+			"10":"nyx_assassin_spiked_carapace",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_mana_burn",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"nyx_assassin_mana_burn",
+			"18":"nyx_assassin_mana_burn",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

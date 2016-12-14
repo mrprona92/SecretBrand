@@ -1,0 +1,96 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"[DMX] Witch Doctor - Support (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"urn_of_shadows",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"ultimate_scepter",
+				"black_king_bar",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"phase_boots",
+				"dagon",
+				"bloodstone",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_voodoo_restoration",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_maledict",
+			"9":"witch_doctor_maledict",
+			"10":"witch_doctor_maledict",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_voodoo_restoration",
+			"13":"witch_doctor_voodoo_restoration",
+			"14":"witch_doctor_voodoo_restoration",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"Très bon stun qui pourra immobiliser deux adversaires proches pendant une éternité !
+Utiliser ce sort sur les creeps pour push et dépush vos lanes.",
+				"witch_doctor_voodoo_restoration":"Un très bon heal de zone qui vous aidera pendant les teamfights et lors des push de tours.",
+				"witch_doctor_maledict":"Un sort extrèmement puissant, mais qui se lance au corps à corps, faites donc bien attention à ne pas trop vous exposer !",
+				"witch_doctor_death_ward":"Un ultimate de zone ultra puissant qui infligera de gros dégâts. Cependant c'est une canalisation et il faut bien vous placer pour ne pas vous faire stopper."
+		}
+	}
+}

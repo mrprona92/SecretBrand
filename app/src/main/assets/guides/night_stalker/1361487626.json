@@ -1,0 +1,110 @@
+{
+	"Hero":"night_stalker",
+	"Title":"High-Level Night Stalker Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"stout_shield",
+				"boots",
+				"bottle",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"urn_of_shadows",
+				"magic_wand",
+				"black_king_bar",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"abyssal_blade",
+				"ultimate_scepter",
+				"heavens_halberd",
+				"heart",
+				"assault",
+				"armlet",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"You may or may not need to get this in lane, depending on your opponent. If you find that you're getting harassed a lot by ranged heroes, this is vital for surviving your lane.",
+				"branches":"You want your Bottle as soon as possible.",
+				"boots":"These items are the minimum amount you should aim for by the first night.
+
+Part of Night Stalker's strength is that he's so much faster than other heroes during the first night, thanks to quick boots and a rank or two of Hunter in the Night.",
+				"bottle":"As a devastating ganker, you should always be controlling the runes. Night Stalker with a Double Damage during the first night is terrifying.
+
+Also, helps with lane sustain and mana regen. ",
+				"tango":"Standard Bottle rush build.",
+				"power_treads":"While Phase Boots will give you max movespeed during nighttime, in my opinion Power Treads offers much more versatility. You're already goddamn fast. You become tankier thanks to the extra strength, and it really helps your mana issues if you're smart about tread-switching. ",
+				"vladmir":"Consider buying this for your primary carry.",
+				"urn_of_shadows":"Perfect item for finishing off low hp enemies, or getting your health back up after diving a tower.",
+				"ultimate_scepter":"The \"legal maphack\". Offers good stats and unobstructed nighttime vision.",
+				"black_king_bar":"Once you get this, you can just wreak havoc in fights without regards to stuns/slows/whatever. Midgame, possibly nothing is scarier than a magic-immune Night Stalker face-rushing you at almost max movement speed.",
+				"vanguard":"Decent if you can get it early, but doesn't help with ganking. BKB is a much better choice after Boots/Bottle/Urn.",
+				"butterfly":"Leave this stuff for your late-game hard carry.",
+				"armlet":"Good snowball item on NS.",
+				"mask_of_madness":"The last thing you want is to get stunned under a tower while having this on. A very high-risk item.",
+				"smoke_of_deceit":"If the enemy has wards up, use Smoke of Deceit to surprise them.",
+				"abyssal_blade":"Excellent damage, but the key purpose of this item is its 2 second stun that goes through magic immunity.",
+				"heavens_halberd":"Beefs up Night Stalker due to the evasion chance and extra strength. An excellent utility item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_crippling_fear",
+			"3":"night_stalker_void",
+			"4":"night_stalker_hunter_in_the_night",
+			"5":"night_stalker_void",
+			"6":"night_stalker_hunter_in_the_night",
+			"7":"night_stalker_void",
+			"8":"night_stalker_darkness",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_hunter_in_the_night",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"Your primary nuke - max this first.
+
+Since the mana cost increases every level, you could also leave it at Rank 1 (leaving skill points untouched) and use it to last-hit creeps if you're having difficulty in lane. Then when night rolls around, pump all your skill points into it.",
+				"night_stalker_crippling_fear":"During nighttime, offers a ridiculously long silence at Rank 1. One rank of this is all you need early game.",
+				"night_stalker_hunter_in_the_night":"Makes you a terrifying ganker at night, but useless during the day. ",
+				"night_stalker_darkness":"Rank 1 of your ultimate is not that great early on - more points in your passive (Hunter in the Night) is better than getting ult at level 6."
+		}
+	}
+}

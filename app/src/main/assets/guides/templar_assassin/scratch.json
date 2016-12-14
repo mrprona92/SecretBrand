@@ -1,0 +1,92 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Templar Assassin - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"poor_mans_shield",
+				"phase_boots",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"desolator",
+				"manta",
+				"greater_crit",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"blink",
+				"butterfly",
+				"monkey_king_bar",
+				"assault",
+				"heart",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Yo suelo comprarla porque me parece muy buen objeto en Templar Assassin. La puedes comprar despues de la Yasha por ejemplo",
+				"bottle":"Si vas a mid es un objeto muy importante que debes conseguir cuanto antes. Asegurate de que alguien compre wards para tener vision y control de las runas!",
+				"black_king_bar":"Si tienen muchos disables compralo lo antes posible porque te sera muy util"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_psi_blades",
+			"2":"templar_assassin_refraction",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_psi_blades",
+			"6":"templar_assassin_meld",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_psionic_trap",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_psi_blades",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_meld",
+			"14":"templar_assassin_refraction",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"Te permite molestar al enemigo en early con mayor facilidad al principio y luego ser mucho mas agresivo en las teamfights o ganks. Ademas el dmg extra es muy util. Te da mucha supervivencia.",
+				"templar_assassin_meld":"Muy util para salvar la vida si no tienen ataques de area (piensa si los tienen antes de pararte porque si no sabes que te van a poder matar). Tambien bueno para esperarles y sorprenderles y MUY IMPORTANTE para hacer dmg extra despues de invis. Pegate a un enemigo, hazte invis y golpea rapidamente.",
+				"templar_assassin_psi_blades":"Al principio de la partida intenta colocarte detras para molestar a los enemigos de linea, luego con esta habilidad haras muchisimo dmg a todos y podras farmear muy rapido tambien.",
+				"templar_assassin_trap":"Explota la trampa mas cercana. Si quieres explotar una especifica seleccionala con click izquierdo y activala con la Q",
+				"templar_assassin_psionic_trap":"LLena el mapa de trampas en puntos claves (Roshan, las runas, etc) y usa las demas trampas para gankear a enemigos evitando que huyan principalmente."
+		}
+	}
+}

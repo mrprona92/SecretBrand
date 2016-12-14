@@ -1,0 +1,125 @@
+{
+	"Hero":"elder_titan",
+	"Title":"[DMX] Elder Titan - Semi Support (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"urn_of_shadows",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"tpscroll"
+			],
+			"Late Game":
+			[
+				"assault",
+				"heart",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnal":
+			[
+				"courier",
+				"ward_observer",
+				"hood_of_defiance",
+				"pipe",
+				"veil_of_discord",
+				"blade_mail",
+				"black_king_bar",
+				"shivas_guard",
+				"power_treads"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"
+Les iron branch vous permettront d'avoir un peu plus de stats tout en préparant l'achat de votre magic wand.",
+				"magic_wand":"La magic wand est un excellent item qui vous apporte des stats et de la regen instantanée.",
+				"clarity":"Vous avez besoin de regen pour pouvoir être agressif sur la lane.",
+				"flask":"Vous avez besoin de regen pour pouvoir être agressif sur la lane.",
+				"ward_observer":"Si personne n'a acheté de wards, faites le.",
+				"tango":"Vous avez besoin de regen pour pouvoir être agressif sur la lane.",
+				"courier":"Si personne n'a acheté de courier, faites le.",
+				"tpscroll":"Ayez toujours un parchemin de téléportation pour aider vos alliés ou vous enfuir.",
+				"travel_boots":"Les meilleurs bottes de late game, remplacez vos anciennes bottes par celles ci en fin de partie.",
+				"power_treads":"Les power treads sont également un bon choix de bottes car elles vous donnent des stats ainsi, de la rapidité d'attaque et des dommages lorsqu'elles sont en force.",
+				"pipe":"Finissez la pipe si vous avez déjà un hood of defiance.",
+				"urn_of_shadows":"L'urn of shadow permet à votre héros de mieux tanker, d'avoir de la regen mana et un heal/ Dot très intéressant.",
+				"sheepstick":"Un des meilleurs items du jeu, pratique pour encore plus de contrôles pour votre team.",
+				"assault":"L'assault Cuirass est parfaite pour Elder Titan car elle se combine bien avec votre 3eme sort tout en vous apportant beaucoup de tanking.",
+				"heart":"Un des meilleurs items pour les héros force qui vous donnera un énorme boost de force, de vie et de régénération.",
+				"black_king_bar":"Si les ennemis vous empêchent systématiquement de caster votre echo stomp ou qu'il y a juste trop de contrôles de l'équipe ennemie, faites une BKB.",
+				"shivas_guard":"La Shiva vous apporte armure et mana, deux stats très intéressantes pour l'Elder Titan. De plus le slow vous donnera un bon petit burst ainsi qu'un contrôle supplémentaire.",
+				"vanguard":"Le vanguard est un bon item pour Elder Titan, qui lui permettra de tanker plus facilement dans les teamfights.",
+				"blade_mail":"Blade mail est un bon item si vous vous faites trop focus en teamfight.",
+				"hood_of_defiance":"Si l'équipe ennemie possède beaucoup de dégâts magiques, hood of defiance est un excellent item pour mieux tanker.",
+				"arcane_boots":"Les arcanes boots sont très utile pour L’elder Titan car il a besoin d’utiliser un maximum ses sorts pour infliger des dégâts.",
+				"veil_of_discord":"Le veil of discord est un bon item pour affaiblir tous vos ennemis avant un fight. Très bonne synergie avec votre 3eme sort."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_echo_stomp",
+			"2":"elder_titan_ancestral_spirit",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_echo_stomp",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_echo_stomp",
+			"9":"elder_titan_echo_stomp",
+			"10":"elder_titan_natural_order",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_natural_order",
+			"13":"elder_titan_natural_order",
+			"14":"elder_titan_natural_order",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"Un très bon sort pour engager votre combinaison de sorts ou laisser le temps à vos alliés de venir vous aider. Attention à ne pas vous faire annuler la compétence pendant son chargement !
+Vous pouvez aussi utiliser Echo Stomp pour endormir les ennemis qui vous pourchassent.",
+				"elder_titan_ancestral_spirit":"Un sort passe partout, il fait de bons dégâts, a une énorme portée, vous permet de placer très facilement votre echo stomp, vous permet de scouter sans aucun risque et en teamfight il vous apportera un bonus de dégâts significatif",
+				"elder_titan_natural_order":"
+Un passif très appréciable à partir du mid game lorsque les premiers teamfights ont lieu. Il permettra à toute votre équipe de faire plus de dommages, qu’ils soient magiques ou physiques.",
+				"elder_titan_earth_splitter":"Un ultimate très impressionant, qui fait de bons dégâts même sur les gros tanks. Il possède une très bonne range, mais est assez difficile à placer. Essayez de l’activer après avoir utilisé votre echo stomp ou lorsque vos alliés ont disable vos adversaires.",
+				"attribute_bonus":"Les statistiques sont nos amies !"
+		}
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"Hero":"lion",
+	"Title":"Cpt.Rage : Lion support (position 4)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"smoke_of_deceit",
+				"boots",
+				"magic_wand",
+				"urn_of_shadows"
+			],
+			"Core Items 1":
+			[
+				"ward_observer",
+				"blink",
+				"arcane_boots"
+			],
+			"Core items 2":
+			[
+				"tranquil_boots",
+				"force_staff",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"sheepstick",
+				"ghost",
+				"bracer",
+				"ancient_janggo",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Can be a very good item to set up late game ganks. And a very good item for positioning in team fights.",
+				"ghost":"Good survivability against carries.",
+				"ward_observer":"Buy wards at level one if no one else buy. Keep buying if the hard support does not have enough money. ",
+				"bracer":"If you are having a hard ime, buy one or two bracerrs for cheap hp and other stats",
+				"mekansm":"Not an ideal carrier of mek, but get it if no one else is.",
+				"urn_of_shadows":"Lion will be a part of many kills which makes him a natural carries of an urn.",
+				"sheepstick":"More disables are always good late game.",
+				"force_staff":"If you need more mobility or a more defensive alternative to blink if you dont have arcane boots.",
+				"ultimate_scepter":"An expensive item which gives you a minimal mana reduction of 25 and a small increase in damage (130 after resistance). an urn charge will actually do more damage( 150)",
+				"arcane_boots":"Get unless there are several arcane boots on the team, as lion is a very mana hungry support.",
+				"ancient_janggo":"Cheap cost effective item, normally aim to build this if you got a bracer",
+				"smoke_of_deceit":"A smoke can give an easy kill on an important target especially if you are level 6.",
+				"heavens_halberd":"Good late game survivability with evasion. Magic immunity will not dispel an already disarmed target.",
+				"tranquil_boots":"Tranquil can be usefull as mana drain can be used to regen mana. However this affects the mana pool and getting all spells off will not be possible without any items which gives int or raw mana"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_voodoo",
+			"2":"lion_mana_drain",
+			"3":"lion_impale",
+			"4":"lion_impale",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_voodoo",
+			"9":"lion_voodoo",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"lion_mana_drain",
+			"24":"lion_mana_drain",
+			"25":"lion_mana_drain"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"Good disable and nuke.",
+				"lion_voodoo":"Very long disable. have no cast time. usually cast this first when ganking. Gives much more disable at level one over earth spike, and the damage after resistaince on level one earth spike is only 45",
+				"lion_mana_drain":"Can be skipped. An early level can be used to on lane creeps or jungle creeps while pulling. Another level can be usefull if you do not have arcane boots early.",
+				"lion_finger_of_death":"Great damage, especially early game. try to gank whenever this is off cool down."
+		}
+	}
+}

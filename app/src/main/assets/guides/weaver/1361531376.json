@@ -1,0 +1,131 @@
+{
+	"Hero":"weaver",
+	"Title":"The cockroach you just can't stamp out - the build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"circlet",
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"Core":
+			[
+				"magic_wand",
+				"power_treads",
+				"ring_of_aquila"
+			],
+			"Offensive items":
+			[
+				"medallion_of_courage",
+				"radiance",
+				"greater_crit",
+				"desolator",
+				"monkey_king_bar",
+				"butterfly",
+				"rapier"
+			],
+			"Defensive items":
+			[
+				"vanguard",
+				"sange",
+				"armlet",
+				"skadi",
+				"heart",
+				"black_king_bar",
+				"sphere",
+				"heavens_halberd"
+			],
+			"Speculative items":
+			[
+				"tranquil_boots",
+				"bottle",
+				"manta",
+				"hand_of_midas",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Choose this over Circlet if you want to make a fast Ring of Basilius or Tranquil Boots",
+				"branches":"The best stats per gold item. Great earlygame choice.",
+				"circlet":"You may choose this over Ring of Protection if you want more stats in the early laning phase.",
+				"magic_wand":"Magic Wand is a great item overall, stat based and effect wise and it's reccomended on most heroes and Weaver is no exception.",
+				"flask":"Standard regeneration helps you stay on the lane longer.",
+				"bottle":"Very speculative item for regeneration, you don't really profit from runes but the regeneration can be very useful for Weaver.",
+				"tango":"Standard regeneration helps you stay on the lane longer.",
+				"tpscroll":"For more info about this build, check my guide on DotaFire.com",
+				"power_treads":"Power Treads are the boots of choice for Weaver, attack speed is good in this game phase and cheap surviveability with +8 Strenght is useful and can be switched for bonus damage or a little bit more mana.",
+				"hand_of_midas":"Farming item, it should bought as soon as possible or generally avoided.",
+				"heart":"The best defensive item health wise. Choose this or Eye of Skadi as your big HP item.",
+				"black_king_bar":"The magic immunity helps you deal with all those disables that might lock you down. Gives some HP and little damage as well.",
+				"sphere":"This item protects you against intiation. Useful against heroes like Batrider or Bane.",
+				"vanguard":"Solid defensive choice, however if you don't need the regen, Sange is a better choice.",
+				"rapier":"The ultimate weapon, you shouldn't make this very often because it's very risky and your death can easily lose the entire game.",
+				"monkey_king_bar":"Solid DPS item which grants you True Strike. It's great second item for damage but never should be made as a first because it deals slightly less effective than Radiance, Daedalus or Desolator.",
+				"radiance":"The core item in Radiance build. Gives you huge DPS output when farmed early as well as it helps to speed up your farm. However, loses it's effectivness quickly unless it's farmed before the 20 minute mark.",
+				"butterfly":"Very lategame oriented item for Weaver, because the damage increase is not that big. Useful for its evasion especially against permabashers like Faceless Void or Lycanthrope.",
+				"greater_crit":"Great DPS boost and core item in Deadalus build.",
+				"manta":"Very speculative item, your illusions are pretty weak but it can be bought for pushing purposes after Butterfly.",
+				"skadi":"Great defensive item which grants you a passive Cold attack which is pretty good. Don't get this item if you have decided for the Desolator build.",
+				"sange":"Great defensive item, especially for its health boost. Gives some bonus damage, maim and can be upgraded into Heaven's Halberd if needed.",
+				"desolator":"The main part of the Desolator build, with this and Medallion of Courage you get an instand -12 armor which can cripple most of your enemies.",
+				"medallion_of_courage":"One of core items for Desolator and Daedalus builds. Helps you both defensively and offensively and the mana regen from Medallion and Aquila will make you able to spam Shukuchi every time it's needed.",
+				"heavens_halberd":"Very good defensive item providing HP and evasion - a perfect mix against permabash heroes, also grants Disarm ability which makes the life of opposing carries hell.
+",
+				"ring_of_aquila":"One of the best items for Weaver overall. It provides a solid stat boost as well as some damage, armor and useful aura that provides mana regen.",
+				"tranquil_boots":"Good choice for lane sustainability, later in the game should be disassembled into Power Treads and Ring of Aquila unless you are going for the Armlet build."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"weaver_the_swarm",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_geminate_attack",
+			"9":"weaver_geminate_attack",
+			"10":"weaver_geminate_attack",
+			"11":"weaver_time_lapse",
+			"12":"weaver_the_swarm",
+			"13":"weaver_the_swarm",
+			"14":"weaver_the_swarm",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"Your most versatile skill, very useful even on the first level. It should be maxed last unless you go for the Radiance build, then max it second over Geminate Attack.",
+				"weaver_shukuchi":"Shukuchi is your trademark skill, it gives you surviveability as well as chasing and solid lane control.
+It should be always maxed first.",
+				"weaver_geminate_attack":"Geminate attack should be taken on level 2 because it's pretty useful on it's level one. Later in the game this is your steroid skill - this is what makes you a carry.
+Should be maxed second if you are going for Desolator, Daedalus or Armlet build, otherwise max The Swarm instead.",
+				"weaver_time_lapse":"Your ultimate gives you even more surviveability and dispells Dust and other debuffs. There's no reason to skip it and it should be taken on standard 6, 11, and 16.",
+				"attribute_bonus":"Stats are not that useful for Weaver because in early game you need your other skills more. Later they are not as useful so they should be avoided."
+		}
+	}
+}

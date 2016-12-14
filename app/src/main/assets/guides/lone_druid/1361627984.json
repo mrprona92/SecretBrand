@@ -1,0 +1,76 @@
+{
+	"Hero":"lone_druid",
+	"Title":"Bashing TO THE MAX! With cute Panda too <3",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"blades_of_attack"
+			],
+			"earlyGame":
+			[
+				"phase_boots"
+			],
+			"Early Bear`s item":
+			[
+				"phase_boots",
+				"orb_of_venom"
+			],
+			"Items for Lone Druid":
+			[
+				"basher",
+				"vladmir",
+				"manta",
+				"butterfly",
+				"heart",
+				"travel_boots"
+			],
+			"Bear`s item":
+			[
+				"basher",
+				"assault",
+				"mjollnir",
+				"greater_crit",
+				"monkey_king_bar",
+				"bfury"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_synergy",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_rabid",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_rabid",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_true_form",
+			"14":"lone_druid_true_form",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

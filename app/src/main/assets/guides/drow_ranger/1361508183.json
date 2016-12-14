@@ -1,0 +1,74 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"RACHINA BUILD 228",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"slippers",
+				"branches"
+			],
+			"LVL 6 TIER":
+			[
+				"lifesteal",
+				"boots",
+				"boots_of_elves",
+				"wraith_band",
+				"wraith_band"
+			],
+			"SHIT JUST GOT REAL TIER":
+			[
+				"power_treads",
+				"yasha",
+				"helm_of_the_dominator",
+				"lesser_crit"
+			],
+			"TOO OP NERF PLS":
+			[
+				"greater_crit",
+				"rapier",
+				"manta"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_trueshot",
+			"3":"drow_ranger_silence",
+			"4":"drow_ranger_frost_arrows",
+			"5":"drow_ranger_trueshot",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_frost_arrows",
+			"9":"drow_ranger_trueshot",
+			"10":"drow_ranger_silence",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_trueshot",
+			"13":"drow_ranger_silence",
+			"14":"attribute_bonus",
+			"15":"drow_ranger_silence",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

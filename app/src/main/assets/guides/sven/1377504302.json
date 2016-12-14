@@ -1,0 +1,91 @@
+{
+	"Hero":"sven",
+	"Title":"도타 2의 진정한 상남자, 스벤형.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"circlet",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"mask_of_madness",
+				"power_treads",
+				"quelling_blade",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"greater_crit",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"heart",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"스벤은 파밍이 필요한 후반부 하드 캐리입니다. 벌목 도끼는 막타를 먹기 쉽게 해주죠.",
+				"circlet":"전투 팔찌를 위한 아이템입니다. 능력치를 올려주면서 마나통과 체력통도 올려주죠.",
+				"tango":"적들이 우리 스벤형을 괴롭힐겁니다, 목담과로 채력을 유지하며 파밍하세요.",
+				"power_treads":"공격속도와 힘 능력치! 평타왕인 스벤형에게 완벽한 아이템입니다.",
+				"bracer":"초반에 평타 위주 힘 영웅이라면 하나 정도 장만하는게 좋습니다.",
+				"assault":"힘 영웅으로서 탱커도 가능하며 힘 능력치가 올라 피해량도 증가시켜주는 완소 아이템입니다.",
+				"heart":"힘 영웅으로서 탱커도 가능하며 힘 능력치가 올라 피해량도 증가시켜주는 완소 아이템입니다.",
+				"black_king_bar":"강력한 가르기와 신의 힘과 칠흑왕의 지팡이가 발동되면 아무도 스벤형을 막을 수 없습니다. 네, 아무도 못 막습니다.",
+				"greater_crit":"다이달로스는 스벤을 신으로 만들어줍니다. 광기의 가면과 칠흑왕의 지팡이를 구매한 후 바로 구매하시면 됩니다.",
+				"mask_of_madness":"파밍을 평범하게 잘하셨다면 광기의 가면이 나올 겁니다. 광기의 가면은 스벤의 궁극기 + 평타를 강력하게 해줍니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"attribute_bonus",
+			"3":"sven_storm_bolt",
+			"4":"sven_warcry",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_great_cleave",
+			"9":"sven_warcry",
+			"10":"sven_great_cleave",
+			"11":"sven_gods_strength",
+			"12":"attribute_bonus",
+			"13":"sven_great_cleave",
+			"14":"sven_warcry",
+			"15":"sven_great_cleave",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"sven_warcry",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"핵 꿀밤이라 부릅니다. 초반에 평타가 약한 스벤에게는 아주 중요한 기술입니다. 마스터! 마스터해주세요.",
+				"sven_great_cleave":"초반에는 라인을 밀어 라인 관리가 힘들고, 막타 관리가 힘들어 늦게 투자합니다. 소규모가 일어날 수도 있는 레벨8에 타이밍에 올려주기 시작합니다.",
+				"sven_warcry":"한타에서 팀원들의 방어력과 이동속도까지 올려주는 좋은 기술입니다. 하지만 레벨 초반부에는 대부분 도주 때 쓰니 레벨4에 투자하고 나중에 또 투자하세요.",
+				"sven_gods_strength":"스벤을 진정한 형으로 만들어주는 기술입니다. 신의 힘은 생각보다 시전 모션이 느려서 벼락 망치를 사용하기 전에 발동하고 적에게 진입하세요.",
+				"attribute_bonus":"능력치를 중간중간 찍어주는 이유는 도타 2내에서 가장 상남자인 스벤형은 머리보단 몸을 사용하는 영웅이라 지능이 낮습니다. 머리가 나쁜지 주력 기술인 벼락 망치가 마나 소모력이 엄청나서, 능력치를 중간에 찍어줘서 마나통을 늘려야합니다. 힘 능력치도 올라가니 일거양득!"
+		}
+	}
+}

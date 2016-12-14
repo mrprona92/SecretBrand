@@ -1,0 +1,96 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"Shadow shaman The shadow pusher",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"boots",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"energy_booster",
+				"staff_of_wizardry",
+				"ogre_axe",
+				"point_booster",
+				"blade_of_alacrity"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"necronomicon"
+			],
+			"luxury":
+			[
+				"rod_of_atos",
+				"refresher",
+				"shivas_guard",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ogre_axe":"Nice +10 str Boost.",
+				"staff_of_wizardry":"A very nice boost for INT stat.",
+				"boots":"Run Rhasta RUN!",
+				"clarity":"Mana is never refused. ",
+				"flask":"Healing for more lane survivability.",
+				"energy_booster":"More mana=More spells.",
+				"necronomicon":"Give you a nice INT And STR Boost with 2 demons to attack your foes.",
+				"ultimate_scepter":"Makes your wards a deadly freaking weapon!",
+				"refresher":"you will be saying:How about A double ward session motherfuckers!!! DOUBLES YOUR ULT",
+				"shivas_guard":"Armor And slow=OP",
+				"sphere":"Blocks Damage And helps alot against heavy casters!",
+				"arcane_boots":"Give you mana when really needed can get you out of shit many time!",
+				"rod_of_atos":"Slow your enemies and have even more fun killing them."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_ether_shock",
+			"2":"shadow_shaman_voodoo",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_voodoo",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_shackles",
+			"9":"shadow_shaman_voodoo",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_shackles",
+			"13":"shadow_shaman_shackles",
+			"14":"shadow_shaman_shackles",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"Shock the fuck out of your foes when maxed they will run and you will have total lane and creep domination.",
+				"shadow_shaman_voodoo":"Hex Your Foes PREVENTING THEM TO CAST!",
+				"shadow_shaman_shackles":"SHACKLES YOUR FOES PREVENTING THE TO MOVE USE CLOSE TO YOUR TOWERS IF POSSIBLE FOR A FUNNY CHEAP SHOT.",
+				"shadow_shaman_mass_serpent_ward":"Lol wards simply the best tower pushing tool and the best source of damage you can have! use each time your close to a tower or when in teamfight against big groups."
+		}
+	}
+}

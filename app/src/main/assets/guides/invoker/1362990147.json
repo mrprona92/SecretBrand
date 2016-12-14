@@ -1,0 +1,80 @@
+{
+	"Hero":"invoker",
+	"Title":"Invokerism - The Heavy Hitter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"robe",
+				"branches",
+				"flask",
+				"blades_of_attack"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"medallion_of_courage",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"desolator",
+				"assault"
+			],
+			"Luxury Items":
+			[
+				"sheepstick"
+			],
+			"Situational":
+			[
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Against high movement speed heroes and heavy  melees, prefer it over Power Treads",
+				"power_treads":"Against blinking heroes and nukers prefer it over Phase.",
+				"force_staff":"Forge Spirits -> Force Staff yourself -> Ice Wall -> Medallion -> Coldsnap. This is how you win a game before it really begins.",
+				"black_king_bar":"When the enemy realizes your right click is decimating them, they will start to focus you. Time for BKB.",
+				"medallion_of_courage":"You can solo Roshan with it and PT at level 10/"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_invoke",
+			"3":"invoker_exort",
+			"4":"invoker_quas",
+			"5":"invoker_exort",
+			"6":"invoker_quas",
+			"7":"invoker_invoke",
+			"8":"invoker_exort",
+			"9":"invoker_quas",
+			"10":"invoker_quas",
+			"11":"invoker_exort",
+			"12":"invoker_exort",
+			"13":"invoker_exort",
+			"14":"invoker_wex",
+			"15":"invoker_quas",
+			"16":"invoker_quas",
+			"17":"invoker_quas",
+			"18":"invoker_invoke",
+			"19":"invoker_invoke",
+			"20":"invoker_wex",
+			"21":"invoker_wex",
+			"22":"invoker_wex",
+			"23":"invoker_wex",
+			"24":"invoker_wex",
+			"25":"invoker_wex"
+		}
+	}
+}

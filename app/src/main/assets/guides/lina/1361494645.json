@@ -1,0 +1,143 @@
+{
+	"Hero":"lina",
+	"Title":"Helter Swelter! - A Support Lina Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity",
+				"flask",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"tpscroll",
+				"magic_stick",
+				"cyclone",
+				"mekansm"
+			],
+			"Support's Essentials":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			],
+			"Offensive Optionals":
+			[
+				"urn_of_shadows",
+				"blink",
+				"sheepstick",
+				"medallion_of_courage",
+				"orchid",
+				"ultimate_scepter",
+				"veil_of_discord"
+			],
+			"Defensive Optionals":
+			[
+				"pipe",
+				"vladmir",
+				"ancient_janggo",
+				"ghost",
+				"force_staff",
+				"shivas_guard"
+			],
+			"Updated: 8/29/2014":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The offensive cousin of the Force Staff. It won't give you stats, but its mobility is far more flexible. Use it to pop in and out of position during teamfights or to speed your travel across the map.",
+				"branches":"One can never have too many branches. Builds later into a magic wand.",
+				"boots":"A good first pickup from the sideshop, after the courier has been upgraded. The extra mobility lets you escape ganks and harass enemy players more safely.",
+				"magic_stick":"A stick will can let you regenerate enough to escape a fight with your life, or pick off a fleeing foe with one last spell. A good early pickup against spamming spellcasters like Zeus, Bristleback, or Batrider. Sometimes not worth upgrading to a wand, depending on your farm.",
+				"ghost":"A common pickup on every support. Provides you several moments of near-invulnerability from rightclick carries, provided they don't have a diffusal blade.",
+				"clarity":"Smart opponents will try and damage you to remove the effect; use your long attack range and careful positioning to prevent this.",
+				"flask":"Provides a quick heal, though it's broken by damage. Use it to quickly heal yourself or your carry after surviving a gank attempt to maximize your time in lane. Alternatively, use it while juking to give you the last bit of health you need to survive.",
+				"dust":"Use this to reveal pesky invisible heroes, or those with Shadowblades. Use the dust offensively to pick off heroes you catch out that would ordinarily flee under the cover of stealth. Throwing it out at random is a waste with its long cooldown.",
+				"ward_observer":"Place one of these bad boys near your lane's rune spawn at the start of the game. Use the second one to ward either the jungle or a pull camp, or to replace the first ward when it expires around the 6:00 mark.
+
+Keep buying these and warding throughout the game. Good warding saves lives!",
+				"ward_sentry":"Reveals invisible enemies (and wards) in its vicinity. Use this to counter and destroy enemy observer wards. Alternatively, use them as a defensive version of dust - place them in and around your engagement area to reveal incoming and fleeing stealth heroes.",
+				"tango":"Use these on trees to consume them and heal yourself. The heal is not interrupted by damage. Big trees heal just as much health as small trees, so there's no need to discriminate.",
+				"courier":"Don't leave the fountain without a courier! If someone has already bought a courier, grab a set of wards.",
+				"tpscroll":"Always carry at least one of these. Always.",
+				"void_stone":"If you've got a good momentum and find yourself ganking a lot, a naked Void Stone will help your early-game mana sustain.",
+				"bracer":"Covers the squishiness that is ubiquitous to most support characters. Later upgrades into Drums of Endurance.",
+				"mekansm":"If you are the only support for your team, build this before your Eul's. The earlier the better. Don't forget to use it in teamfights, but don't use it when everyone's full!",
+				"vladmir":"Many ranged supports find themselves picking this up to give their carries a form of orbless lifesteal.",
+				"flying_courier":"Try and upgrade the flying courier as soon as you can. If you got an early first blood, grab boots instead.",
+				"ring_of_basilius":"Once you hit level 3, your natural INT gain makes a Sage's Mask more valuable than Basilius. However, it does give armour and bonus damage, and can be built into a Vladmir's Aura.",
+				"pipe":"A must when teamfighting against lineups that include Queen of Pain, Zeus or other nukers.",
+				"urn_of_shadows":"Practically a Bracer and Sage's Mask combined, making it a good alternative for a Bracer. You generally want at least one early-game mana regeneration item to wean yourself off clarities. An urn synergizes with Lina's solid ganking ability, though a Medallion would open up early Roshan attempts.",
+				"sheepstick":"A common, albeit expensive, late-game support item. In many games you won't be able to scrape together the gold for this unless you forgo warding entirely, but it's extremely powerful in ganks and teamfights.",
+				"orchid":"Good if you went mid and are balling out of control because of it.",
+				"cyclone":"One of your main milestones. Provides extra mana, damage, and mana regeneration, on top of much-needed mobility. The active ability lets you catch out even the most slippery of foes and follow-up with a Light Strike Array.",
+				"force_staff":"If you're being targeted a lot, or if the enemy has some type of barrier skill (Tusk, Clockwerk) or an AoE you absolutely must avoid (Riki), a Force Staff is a common survivability/mobility pickup.",
+				"dagon":"If you want to be an instagibbing jerk, consider Aghanim's + Ethereal Blade instead.",
+				"ultimate_scepter":"Generally a late-game or snowballing pickup. Almost guarantees a kill on a support hero, albeit at a steep mana cost.",
+				"refresher":"While your nukes are great for AoE damage and picking off squishy supports, you don't have game-changing spells like Reverse Polarity or Ravage. Not to mention how utterly strained your mana pool would be with two back-to-back casting rotations.",
+				"shivas_guard":"A good survivability/teamfight pickup, especially vs. lineups reliant on physical damage.",
+				"bloodstone":"Bloodstones are good for heroes that need to stay in a fight to deal damage, and can truly snowball from the kills they receive as a result. Lina fits neither of these qualifications.",
+				"lesser_crit":"You're not a carry, but your Fiery Soul-hasted right clicks can pack a powerful punch with a Crystalys.",
+				"arcane_boots":"Absolutely essential to ensure your spellcasting longevity. Even if you're full, keep an eye on your allies' mana bars and give them a fill when needed.",
+				"ancient_janggo":"A good pickup if you're hard-pressed for gold. Gives you survivability and a useful team aura.",
+				"medallion_of_courage":"If you're ahead and have a team with good negative armour abilities (Alchemist, Slardar, Vengeful Spirit, etc.) you can get this to help open an early Roshan kill.",
+				"smoke_of_deceit":"A rarity in low-level pub games, but a good smoke gank can swing the game's momentum in your favour. You can also use it to dodge certain global abilities, such as Zeus's ultimate.",
+				"veil_of_discord":"A good pickup if your team is heavily reliant on magic damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_fiery_soul",
+			"4":"lina_dragon_slave",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_light_strike_array",
+			"10":"lina_light_strike_array",
+			"11":"lina_laguna_blade",
+			"12":"lina_fiery_soul",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lina_dragon_slave":"Your main nuke. The AoE extends 1225 units from you - far beyond your cast range - so you can use it to pick off fleeing heroes.",
+				"lina_light_strike_array":"Your primary opener and disable. The stun doesn't scale with levels, so we max Dragon Slave first. Try and position this slightly 'ahead' of your target to compensate for the delay. Also destroys trees in the affected area.",
+				"lina_fiery_soul":"Turns Lina into a respectable right-clicker in the wake of a casting rotation. Use this to pepper down enemy heroes in preparation for a Laguna Blade, or to finish them after the fact.",
+				"lina_laguna_blade":"Your signature move, used to burst down fragile carries or squishy supports. Use it sooner rather than later, but remember its steep mana cost! Your worst nightmare is trying to finish a casting combo, only to realize you're 10 mana off from Laguna's cost.",
+				"attribute_bonus":"Past level 11, some choose to level Stats before Fiery Soul, as the ability's attack speed bonus doesn't do much for a support Lina unless she deliberately stacks Intelligence."
+		}
+	}
+}

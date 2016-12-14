@@ -1,0 +1,102 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Wraith King Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"hyperstone",
+				"basher"
+			],
+			"coreItems":
+			[
+				"assault",
+				"desolator",
+				"abyssal_blade",
+				"heart",
+				"rapier"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"heavens_halberd",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Отлично поможет пофармить крипов ",
+				"branches":"Необязательный предмет, но эти крохи (в виде бонуса ко всем атрибутам) могут спасти вас ",
+				"clarity":"Маны сильно не хватает в начале игры, так что это наш выбор",
+				"flask":"Также обязательна к покупке",
+				"tango":"Обязательная вещь в начале игры",
+				"hyperstone":"Скорость атаки это наше все",
+				"power_treads":"Неплохая прибавка к хп, а также скорости атаки. Обязательно к покупке.",
+				"assault":"С ней мы будем просто доминировать апонентов",
+				"heart":"Бонус к хп и регенерация никогда не будут лишними",
+				"black_king_bar":"На ваше усмотрение",
+				"rapier":"Для тотального уничтожения",
+				"basher":"Отличный предмет, котрый позже мы превратим в Abyssal Blade.
+",
+				"mjollnir":"Если вы хотите бить как пулемет",
+				"desolator":"В купе с Assault Cuirass смотрится просто великолепно",
+				"abyssal_blade":"Поможет выцепить неприятных героев в бою",
+				"heavens_halberd":"Повысит выживаемость "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_vampiric_aura",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_vampiric_aura",
+			"9":"skeleton_king_vampiric_aura",
+			"10":"skeleton_king_vampiric_aura",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_mortal_strike",
+			"13":"skeleton_king_mortal_strike",
+			"14":"skeleton_king_mortal_strike",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"Отличнейший стан и единственый активный скил героя",
+				"skeleton_king_vampiric_aura":"Великолепная аура действующая на всех союзников не зависимо от их типа атаки",
+				"skeleton_king_mortal_strike":"Крит он и в Африке крит",
+				"skeleton_king_reincarnation":"Великолепный ультимейт позволяющий герою перерождаться, гланое всегда оставлять ману!"
+		}
+	}
+}

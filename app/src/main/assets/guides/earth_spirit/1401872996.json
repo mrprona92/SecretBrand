@@ -1,0 +1,96 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"GreyShark.Earth Spirit",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"Early Game":
+			[
+				"urn_of_shadows",
+				"arcane_boots",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"blade_mail",
+				"veil_of_discord"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"heart"
+			],
+			"Situation	":
+			[
+				"blink",
+				"ancient_janggo",
+				"pipe",
+				"soul_ring",
+				"refresher"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Этим артом еще нужно уметь пользоваться, если вы уже научились достаточно хорошо играть этим героем то можете экспериментировать !",
+				"mekansm":"Крутая штука, особенно если быстро её собрать !",
+				"pipe":"Более хороший арт для мид и лейт гейма, можете заменить урну или меку на пайп, пригодится в замесах !",
+				"urn_of_shadows":"Повышает реген МП, много хила по началу и поможет добить убегающего врага",
+				"sheepstick":"Тут думаю всё понятно",
+				"refresher":"Спорный арт, на самом деле, дать 2 раза блейд мейл или хекс очень даже неплохо, учитывая наш прокаст.",
+				"heart":"И тут тоже",
+				"blade_mail":"В замесе нас будут фокусить, с БМ у нас больше брони, больше МП, ну и самое главное будет еще больше ДПС по врагам",
+				"soul_ring":"Если решили напрягать врагов по кд, то можно собрать соул, почему бы и нет !",
+				"arcane_boots":"Нам будет нехватать маны !",
+				"ancient_janggo":"Тоже неплохой арт для саппорта, можно взять вместо меки или урны.",
+				"veil_of_discord":"Очень крутой арт, дает всего по немножку, и самое главное активка, с ней наша ульта и другие скиллы будут еще более ДПС'ные"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_rolling_boulder",
+			"3":"earth_spirit_boulder_smash",
+			"4":"earth_spirit_geomagnetic_grip",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_geomagnetic_grip",
+			"8":"earth_spirit_boulder_smash",
+			"9":"earth_spirit_boulder_smash",
+			"10":"earth_spirit_boulder_smash",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_rolling_boulder",
+			"13":"earth_spirit_rolling_boulder",
+			"14":"earth_spirit_rolling_boulder",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

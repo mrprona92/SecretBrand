@@ -1,0 +1,96 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Raijin Thunderkeg Grumos style",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"5-10 minutes!!!":
+			[
+				"bottle",
+				"arcane_boots",
+				"point_booster"
+			],
+			"Time to kick ass and chew bubblegum. (CORE)":
+			[
+				"bloodstone",
+				"orchid",
+				"tpscroll"
+			],
+			"Time to eat Lightning and crap Thunder (EXTENSION)":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"sphere",
+				"black_king_bar",
+				"rapier",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dust":"If against stealth heroes sometimes this is needed.",
+				"ward_observer":"Always good to have some of these to pick off those pesky supports we all hate de-warding.",
+				"tpscroll":"Never know when your other lane is in trouble getting dove by the enemy team. always carry one of these to help the team out.",
+				"sheepstick":"Are those magic immune heroes and stealth units pissing you off? sheep them and nuke them down before they even get a chance to react to your ult.",
+				"orchid":"Great on storm spirit due to harder and faster auto attacks, mana regeneration, and not to mention comes with a nice silence.",
+				"black_king_bar":"Magic Immunity is never bad.",
+				"shivas_guard":"need some armor? nuff said.",
+				"bloodstone":"Regardless of a bad game or not as storm spirit you are always around team fights for either kills or assists. You gain bloodstone charges just as easy as you gain gold per minute.",
+				"sphere":"Always a plus to have Mana Regen, Shield, and all attributes? why not?",
+				"rapier":"Having a blast? feel free to get multiple of these babies."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_overload",
+			"5":"storm_spirit_overload",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_electric_vortex",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_electric_vortex",
+			"10":"storm_spirit_electric_vortex",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_static_remnant",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_static_remnant",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"Keep at level 1 until the rest of your abilities are maxed.
+this ability has great level 1 damage to last hit creeps and to proc your overload.",
+				"storm_spirit_electric_vortex":"THE SECOND THIS IS OFF COOLDOWN AND YOU ARE LEVEL 6 LOOK FOR GANKS!!!",
+				"storm_spirit_overload":"The bread and butter of storm spirit.
+this ability makes your early game easier than breathing. your enemy comes close, and they will regret every click they made towards you.",
+				"storm_spirit_ball_lightning":"Ball lightning requires a lot of your mana. so use it with caution. always leave enough mana so that you can always escape with this ability. feel free to spam this late game to proc overload :)"
+		}
+	}
+}

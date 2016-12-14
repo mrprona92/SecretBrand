@@ -1,0 +1,99 @@
+{
+	"Hero":"lycan",
+	"Title":"Lycan - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"black_king_bar",
+				"basher"
+			],
+			"Late Game":
+			[
+				"abyssal_blade"
+			],
+			"Situacionales":
+			[
+				"assault",
+				"desolator",
+				"heart",
+				"heavens_halberd",
+				"monkey_king_bar",
+				"hand_of_midas",
+				"medallion_of_courage",
+				"necronomicon",
+				"travel_boots"
+			],
+			"Para Roshan":
+			[
+				"smoke_of_deceit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Si vas a estar solo o contra una linea que no sea muy ofensiva puedes considerar una Queling Blade.",
+				"power_treads":"Ponla en Fuerza (Rojo)",
+				"vladmir":"Una vez que tengas Vlads compra un Smoke y ve a Roshan con seguridad.",
+				"ring_of_basilius":"En lane dejalo desactivado para evitar pushear la linea. Si estas jungleando activalo para tus lobos.",
+				"black_king_bar":"Si el equipo contrario tiene muchos disables compralo antes del basher.",
+				"smoke_of_deceit":"Compralo para ir a Roshan sin miedo a ser detectado."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_howl",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_feral_impulse",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"Invoca unos lobos para ayudarle en todo momento. Usalos para ganar la linea, harassear al enemigo, junglear, matar a Roshan...Siempre que puedas invocalos.",
+				"lycan_howl":"Tiene un coste de mana muy bajo asi que usalo siempre que puedas. Ayuda a tu equipo en la linea y luego en las teamfights.",
+				"lycan_feral_impulse":"Aumenta el dmg y velocidad de ataque de Lycan y de todas las unidades bajo su control.",
+				"lycan_shapeshift":"Convierte a Lycan en un gran lobo que gana velocidad, fuerza, vida, ataque...Usalo para perseguir a enemigos, escapar de ellos y machacarlos."
+		}
+	}
+}

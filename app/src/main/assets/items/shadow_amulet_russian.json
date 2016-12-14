@@ -1,0 +1,15 @@
+{
+  "attrib": "+ 20 к скорости атаки",
+  "cd": "10 (0 - если на себя)",
+  "qual": "false",
+  "notes": "",
+  "desc": "Активируемая: Fade — делает вас или союзника невидимым на 1,5 секунды. Передвижение снимает невидимость. Применение на себя не имеет кулдауна.",
+  "dname": "Shadow Amulet",
+  "dotaId": "shadow_amulet",
+  "mc": false,
+  "img": "shadow_amulet_lg.png",
+  "lore": "",
+  "id": 215,
+  "created": false,
+  "cost": 1400
+}

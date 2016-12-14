@@ -1,0 +1,122 @@
+{
+	"Hero":"chen",
+	"Title":"6.82 - Standard Chen (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"flask",
+				"branches",
+				"branches",
+				"ring_of_protection",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"necronomicon"
+			],
+			"Core Items - Aghanim's":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"necronomicon"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"ghost",
+				"force_staff",
+				"pipe"
+			],
+			"Extension Items":
+			[
+				"vladmir",
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Only two branches to eventually make them into Mekansm.",
+				"ghost":"If a physical carry is targeting you, even when you are way in the back of the fight, pick this up. Stuns wasted on you are not an issue so long as you can pull off your heals and ultimate. ",
+				"ward_observer":"As a support hero, buy a courier or wards to help with the team.",
+				"courier":"As a support hero, buy a courier or wards to help with the team.",
+				"mekansm":"Fast Mekansm for a fast push. Chen wants Mekansm to buff his army of jungle creeps and combine the force of his team with the safety of Mekansm.",
+				"vladmir":"Vladmir's Offering is welcomed on all teams, especially one you can create via jungle creeps. The extra armour, lifesteal and mana regeneration are insanely good for Chen and his team.",
+				"pipe":"In case of a lot of casters and no other support is picking this up.",
+				"force_staff":"Ideal for when caught out of position or to help a friend. Use Force Staff to avoid large AOE attacks or direct stuns and utilize your creeps to make the chase difficult for your foes.",
+				"necronomicon":"Early mid-game support that helps with pushing and could be upgraded to level 3 to deal with stealth heroes. Necromonicon adds even more versatility in Chen's massive one-man/multi-creep army.",
+				"ultimate_scepter":"Aghanim's Scepter, if gotten early enough, can be great as a more offensive Chen and controlling Ancient Heroes. However, if it is taking you too long to get it or the team needs Mekansm, definitely go the Mekansm route.",
+				"ancient_janggo":"Get Drums when intending to gank early and for the movement speed with your creeps. All-around good item and relatively cheap."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_test_of_faith",
+			"4":"chen_holy_persuasion",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"Penitence does not just weaken foes against magic damage, but against physical ones as well. Be sure to open with his during ganks or even fights!",
+				"chen_test_of_faith":"Penitence first, then Test of Faith. However, during the early-game you should be ganking the nearest lane of your jungle and using Test of Faith to hurt foes.",
+				"chen_test_of_faith_teleport":"Use Test of Faith to bring allies back to base or to heal important neutral creeps you are controlling. There is a delay for Heroes to send back to base, but no delay for creeps.",
+				"chen_holy_persuasion":"Try to control jungle neutral creeps that give great auras or hold foes such as the Centaurs (stun, attack speed buff), the Dark Troll Warlord (net, summon skeletons for pushing), Satyr (health regeneration) or Alpha Wolf (damage buff).",
+				"chen_hand_of_god":"This is a global heal, spam it even in fights you're not even in. Account for who is getting targeted, who is important and use this ability accordingly."
+		}
+	}
+}

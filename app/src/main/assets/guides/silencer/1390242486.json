@@ -1,0 +1,82 @@
+{
+	"Hero":"silencer",
+	"Title":"GreyShark.Silencer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"courier",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"magic_wand",
+				"ring_of_basilius",
+				"power_treads",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"rod_of_atos",
+				"force_staff"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"ultimate_scepter"
+			],
+			"Situation":
+			[
+				"refresher",
+				"cyclone",
+				"orchid"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_curse_of_the_silent",
+			"2":"silencer_last_word",
+			"3":"silencer_last_word",
+			"4":"silencer_curse_of_the_silent",
+			"5":"silencer_last_word",
+			"6":"silencer_global_silence",
+			"7":"silencer_last_word",
+			"8":"silencer_glaives_of_wisdom",
+			"9":"silencer_curse_of_the_silent",
+			"10":"silencer_curse_of_the_silent",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_glaives_of_wisdom",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

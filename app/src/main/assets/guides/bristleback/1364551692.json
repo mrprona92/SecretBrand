@@ -1,0 +1,127 @@
+{
+	"Hero":"bristleback",
+	"Title":"[DMX] BristleBack (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"medallion_of_courage",
+				"magic_wand",
+				"orb_of_venom",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"hood_of_defiance",
+				"tpscroll"
+			],
+			"End Game":
+			[
+				"heart",
+				"assault",
+				"shivas_guard",
+				"travel_boots",
+				"pipe"
+			],
+			"Situationnel":
+			[
+				"vanguard",
+				"radiance",
+				"skadi",
+				"tranquil_boots",
+				"phase_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Le stout shield vous permettra de mieux résister à l'harass en phase de lane.",
+				"branches":"Les iron branch vous permettront d'avoir un peu plus de stats tout en préparant l'achat de votre magic wand.",
+				"boots":"Vous êtes un \"chaser\" (poursuiveur) de héros, vous aurez donc besoin de bottes le plus rapidement possible.",
+				"magic_wand":"Magic wand est un très bon item en toutes situations qui permettra de vous régénérer instantanément.",
+				"flask":"Vous êtes un héros mêlée, vous aurez donc besoin de regen sur la lane.",
+				"tango":"Vous êtes un héros mêlée, vous aurez donc besoin de regen sur la lane.",
+				"tpscroll":"Vous devez toujours avoir un parchemin de téléportation avec vous pour pouvoir vous enfuir ou vous téléportez sur une autre lane afin d'aider vos alliés.",
+				"travel_boots":"
+Les boots of travel sont les seules boots viables en late game car elles vous permettent d'économiser un slot d'inventaire et de vous téléportez partout sur la map pour aider vos alliés ou push/dépush facilement. ",
+				"phase_boots":"Les phases boots restent des bonnes bottes pour BristleBack car elle lui permettent de fuir et de chase encore plus facilement grâce à leur boost de vitesse.
+
+",
+				"power_treads":"Les power treads apportent de l'attack speed et des stats qui profitent bien à BristleBack.",
+				"pipe":"L'évolution de votre pipe, faites la si votre équipe fait face à beaucoup de dégâts magiq",
+				"assault":"
+De l'attack speed et de l'armure ainsi qu'un malus d'armure pour vos adversaires, voilà un très bon item pour BB en fin de game.",
+				"heart":"L'heart of tarrasque vous donne de la force, de la regen vie et de la vie, un item parfait pour BristleBack.",
+				"shivas_guard":"De l'armure, du mana et un slow très intéressant en teamfight.",
+				"vanguard":"Vanguard est un bon item de tanking, mais si vous devez choisir un item de tanking et de régénération préférez un hood of defiance. Si l'équipe ennemie est composée de beaucoup de dps physiques préférez le vanguard. Vous pouvez aussi faire les deux mais cela coûte cher !
+
+",
+				"hood_of_defiance":"Le hood of defiance est un item parfait pour BristleBack qui lui permet de tanker beaucoup plus les dégâts des sorts. (Combiné à votre troisième sort, vous subirez 55% de dégâts en moins si on vous lance des sorts de dos).",
+				"radiance":"La radiance est un très très bon item pour BristleBack, elle vous donne des dégâts, une aura de dommages tout autour de vous qui se combine énormément avec votre Quill Spray, cependant, radiance coûte cher. Si vous arrivez à farmer vite, faites cet item, sinon, laissez tomber.",
+				"skadi":"Si vous avez vraiment énormément de gold, vous pouvez faire un skadi qui vous aportera un slow monstrueux sur vos auto attaques et de nombreuses stats.
+
+",
+				"orb_of_venom":"L'orb of venom est très pratique pour slow encore plus la cible que vous avez prise en chasse, de plus elle ne coûte pas cher et peut s'acheter au side shop.",
+				"medallion_of_courage":"Le médaillon permet d'enlever de l'armure à votre cible (ce qui se combine très bien avec votre premier sort) et de vous donner une bonne régénération de mana (ce qui vous est très utile pour spammer votre second sort).",
+				"tranquil_boots":"Si vous faites face à beaucoup de harass en phase de lane, vous pouvez faire des tranquil boots pour vous soulager un peu."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_viscous_nasal_goo",
+			"2":"bristleback_quill_spray",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_bristleback",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_viscous_nasal_goo",
+			"9":"bristleback_viscous_nasal_goo",
+			"10":"bristleback_viscous_nasal_goo",
+			"11":"bristleback_warpath",
+			"12":"bristleback_bristleback",
+			"13":"bristleback_bristleback",
+			"14":"bristleback_bristleback",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"Un slow très intéressant tout au long de la partie, puisqu'il se stack et qu'il enlève de l'armure.
+
+Bonne synergie avec Orb of venom et Medaillon of courage.",
+				"bristleback_quill_spray":"Le sort à ne pas sous-estimer, il faudra le spammer pour qu'il fasse de bons dégâts, mais quels dégâts ! Au bout de quelques secondes vous infligerez des centaines de dommages en AOE toutes les 3 secondes, ce qui mettra à mal vos adversaires que ce soit en phase de lane, ou en teamfight.",
+				"bristleback_bristleback":"Un excellent sort de tanking, qui vous permettra de fuir plus facilement et de tanker dans les teamfight.",
+				"bristleback_warpath":"Un très bon ultimate qui synergise très bien avec vos autres sorts. Cet ultimate fera de vous le \"chaser\" (poursuiveur) de héros parfait : il sera très difficile pour un ennemi sans réelle escape ",
+				"attribute_bonus":"Les statistiques sont nos amies !"
+		}
+	}
+}

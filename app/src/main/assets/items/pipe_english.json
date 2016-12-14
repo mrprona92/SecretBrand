@@ -1,0 +1,19 @@
+{
+  "dotaId": "pipe",
+  "id": 90,
+  "img": "pipe_lg.png",
+  "dname": "Pipe of Insight",
+  "qual": "rare",
+  "cost": 3525,
+  "desc": "Active: Barrier - Gives a shield that blocks 400 spell damage to all allies in a 900 radius.<br/>Passive: Insight Aura - Gives allied units 4 health regeneration and 10% magic resistance in a 900 radius. The aura's bonus magic resistance is not applied to the equipped hero.",
+  "notes": "Barrier does not affect units that have been affected by Barrier in the last 50 seconds.<br/>Stacks multiplicatively with other sources of spell resistance.",
+  "attrib": "+ 9 HP Regeneration<br/>+ 30% Spell Resistance<br/>AURA HEALTH REGEN: 4<br/>AURA MAGIC RESISTANCE: 10%<br/>AURA RADIUS: 900<br/>BARRIER SPELL BLOCK: 400<br/>BARRIER DURATION: 12.0<br/>BARRIER CAST RADIUS: 900",
+  "mc": 100,
+  "cd": 60,
+  "lore": "A powerful artifact of mysterious origin, it creates barriers against magical forces.",
+  "components": [
+    "hood_of_defiance",
+    "headdress"
+  ],
+  "created": true
+}

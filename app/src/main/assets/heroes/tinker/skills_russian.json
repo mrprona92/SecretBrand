@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Laser",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выпускает сильный энергетический луч, который наносит урон и ослепляет цель, из-за чего та промахивается всеми физическими атаками. <br/>С Aghanim's Scepter луч отскакивает между всеми видимыми вражескими юнитами в радиусе 550 единиц.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/160/240/320</font></b>",
+        "attrib": "ШАНС ПРОМАХА: <b><font color=\"#ffffff\">100%/100%/100%/100%</font></b><br/>ДЛИТЕЛЬНОСТЬ ОСЛЕПЛЕНИЯ ГЕРОЕВ: <b><font color=\"#ffffff\">3/3.5/4/4.5</font></b><br/>ДЛИТЕЛЬНОСТЬ ОСЛЕПЛЕНИЯ КРИПОВ: <b><font color=\"#ffffff\">6/6/6/6</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">550</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 95/120/145/170<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14",
+        "lore": "В подземной лаборатории Фиолетового плато Боуш модифицировал промышленный лазерный резак, даже не задумываясь о его предстоящем боевом применении.",
+        "hurl": "Tinker",
+        "name": "tinker_laser",
+        "youtube":"2tDx6grjLns",
+        "id": 0
+    },
+    {
+        "dname": "Heat-Seeking Missile",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Запускает пару ракет в ближайших видимых вражеских героев в радиусе 2500 единиц. С Aghanim's Scepter количество атакуемых целей удваивается.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">125/200/275/350</font></b>",
+        "attrib": "КОЛИЧЕСТВО ЦЕЛЕЙ: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/140/160/180<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 25",
+        "lore": "Последним изобретением, что Боуш смог сохранить, была модифицированная ракетница с механизмом самонаведения.",
+        "hurl": "Tinker",
+        "name": "tinker_heat_seeking_missile",
+        "youtube":"jK4Sn_EDBpE",
+        "id": 1
+    },
+    {
+        "dname": "March of the Machines",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Призывает армию механических слуг, атакующих врагов вокруг Tinker.",
+        "notes": "За секунду появляется 24 робота.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">16/24/32/40</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">900</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6/6/6/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 145/150/165/190<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 35",
+        "lore": "Несмотря на то, что лабораторию уже давно запечатали, радио-вызов роботизированных дронов всё еще работает.",
+        "hurl": "Tinker",
+        "name": "tinker_march_of_the_machines",
+        "youtube":"AmXRvkaYhIE",
+        "id": 2
+    },
+    {
+        "dname": "Rearm",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, прерываемая</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — сбрасывает время перезарядки способностей и большинства предметов героя.",
+        "notes": "Rearm действует на все артефакты за исключением Black King Bar, Arcane Boots, Helm of the Dominator, Hand of Midas, Refresher Orb, Linken's Sphere и Necronomicon.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ПРОИЗНЕСЕНИЯ: <b><font color=\"#ffffff\">3/2/1</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/225/325<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Новую батарею сюда, пару ракет туда — Боуш постоянно совершенствует и обновляет свою технику.",
+        "hurl": "Tinker",
+        "name": "tinker_rearm",
+        "youtube":"eHlwkFnGtzs",
+        "id": 3
+    }
+]

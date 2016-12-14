@@ -1,0 +1,130 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Carry U 2 The Other Side",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"magic_stick",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"oblivion_staff",
+				"vitality_booster",
+				"oblivion_staff",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"rod_of_atos",
+				"orchid",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"heart",
+				"black_king_bar",
+				"monkey_king_bar",
+				"shivas_guard",
+				"mekansm",
+				"arcane_boots",
+				"urn_of_shadows",
+				"stout_shield",
+				"phase_boots",
+				"mjollnir",
+				"desolator"
+			],
+			"Situational Cont.":
+			[
+				"skadi",
+				"satanic",
+				"assault",
+				"greater_crit",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Being harassed then take this from the side shop to reduce some of it n stay in-lane for longer",
+				"branches":"Plus 1 all stats, very cost efficient item, can be used with your stick to create the wand",
+				"magic_stick":"good burst heal n mana, build into a wand if required",
+				"magic_wand":"A combination of your Magic stick and your branches, an extra 5 charges n plus three stats, nice, this item is not always required, if having a good game skip n build your Atos n Orchid faster",
+				"flask":"More heavy heal, 400 health if allowed to complete its duration, good after survived ganks or harrassment",
+				"tango":"Good reliable regen, four should be enough to see you through",
+				"phase_boots":"A good choice for boots on this hero, more chase viable can make you deadly, i prefer the more alround Treads",
+				"vitality_booster":"The first part of your Atos, the plus health is good as you are hard to kill if played right, plus this needs to be bought from the secret shop, the other parts do not!",
+				"power_treads":"My personal choice, maintains good effectiveness throughout the game, you can build into Phase if you feel it suits you",
+				"oblivion_staff":"Building two if these is your goal, seeing as your building a Orchid, good stats until you finish the Orchid, especially with two ",
+				"mekansm":"Not really a item you should be building unless your transitioning to a supoort role, this item is though a nessacery item for all teams, so if you are a support then build this",
+				"urn_of_shadows":"If you feel like ganking or are playing a support then this is a solid item, spread the regen to keep your team healthy",
+				"sheepstick":"More for supports, however strong stats n a very good active are hard to pass up",
+				"orchid":"This is the main item, damage, attack speed, mana regen oh and more Int, plus a active which silences, on a hero like Necrophos and with this item line-up = enemy team shouting and cursing, as you rip them into shreds",
+				"cyclone":"Swap this for the Atos if you need more  control on any pesky hero, the extra move speed is also welcome",
+				"ultimate_scepter":"Firstly more Health n mana and plus 10 all stats, a damage increase from 0.9 - 1.2, the mana decrease is only on levels 1 n 2, but the main reason is that any enemy killed by this skill CANNOT BUYBACK, this makes you hugely hated, kill the most effective enemy",
+				"assault":"More armour n reduction of enemy's = very quick teamfights",
+				"heart":"If you have finished your Core n are looking for other things to end the game then this is a solid choice, alot more health n possible regen makes you very hard to kill",
+				"black_king_bar":"Being targeted or stunned out, turn the tides with this item, prevents most magic abilities from affecting you, the extra health n damage is also nice",
+				"shivas_guard":"Want more tankyness, then this is it, a huge plus 30 to your INT n more armour, plus the active which does damage n slows",
+				"monkey_king_bar":"A very late game item, mainly reserved for a more typical carry, but if needed you can use it to lock down those evasive hero's",
+				"greater_crit":"Being a right clicker Necro will inflict heavy damage with this",
+				"satanic":"Satanic offers major lifesteal allowing Necro to become very tanky",
+				"mjollnir":"Pure carry item, which you can fufill, allows some very strong right clicks, a good active and a chnace of lightning, can never go wrong, Very good for farming up after strugiling for long periods of the early game",
+				"skadi":"Skadi is a very effective item for right clickers, and Necro is no diffrent, the slow really shows in pusuits, however it is unlikely to be chosen as there are far better choices for a final item",
+				"desolator":"A solid damage item, seeing as your ranged a few right clicks and the whole enemy team can be reduced, plus the towers n buildings suffer too",
+				"arcane_boots":"This is another item for a support hero, which you can play, more mana for you n the team",
+				"rod_of_atos":"This is the reason why no phase boots, good Int n health plus a 4 second slow of 60% making it harder to get away from a rather slow hero "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_heartstopper_aura",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_heartstopper_aura",
+			"4":"necrolyte_death_pulse",
+			"5":"necrolyte_heartstopper_aura",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_death_pulse",
+			"10":"necrolyte_death_pulse",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_sadist",
+			"13":"necrolyte_sadist",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"Easily spammable, and doing good damage to units within its radius, it also heals",
+				"necrolyte_heartstopper_aura":"Very strong harass, at level 3 this reduces their health by 1.2% of their maximum health, thus its leveled up to level 3 very quickily",
+				"necrolyte_sadist":"This is what makes you hard to push of lane, if taking alot of harassment then consider increasing the points into this n out of the Heartstopper",
+				"necrolyte_reapers_scythe":"A strong Ult, once at a quater life pop this n they are dead, stuns first, it allows you to attack after using it, Do Not Killsteal using this, with Scepter it becomes a major weapon, 1.2 damage per missing health is huge and any hero killed by this Ult CANNOT BUYBACK!!!"
+		}
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"Hero":"lone_druid",
+	"Title":"Safe-lane/Off-lane Carry Syllabear",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"Early Game: Sustain the Pain":
+			[
+				"boots",
+				"tranquil_boots",
+				"ring_of_aquila",
+				"phase_boots",
+				"orb_of_venom",
+				"hand_of_midas"
+			],
+			"Core Items: The Necessary Gear":
+			[
+				"radiance",
+				"assault",
+				"power_treads"
+			],
+			"Situational Items: The Perks":
+			[
+				"maelstrom",
+				"mjollnir",
+				"heavens_halberd",
+				"skadi",
+				"armlet",
+				"heart",
+				"travel_boots",
+				"basher",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Foregoing a Stout Shield for a Ring of Protection for Sylla himself will make getting to your Tranquil Boots early even easier. Not to mention the extra armor.
+",
+				"stout_shield":"An early Stout Shield for the bear will allow it to be insanely tanky in your lane, allowing for very easy harassment as well as tanking a pushed creep wave at your turret.
+",
+				"branches":"Get some extra branches if you have the spare money at start. You want the extra stats for the extra health and last hitting power in lane.",
+				"travel_boots":"If your build is going well and your team needs to push like mad, trading out your Power Treads for Boots of Travel is a good choice to maximize Sylla's pushing power, one of his greatest strengths.",
+				"phase_boots":"It should be noted that the early Phase Boots are for the bear. The bear's biggest weakness in a chase is its tendency to get caught up in a passing creep wave. Quickly switching to your bear to activate these as well as the Orb of Venom will most likely ensure a successful Entangling Claws.",
+				"power_treads":"Once you've left the laning phase, upgrading your Tranquil Boots to Power Treads is highly recommended. You'll love the extra attack speed and damage. Trust me, I'm a veterinarian.",
+				"hand_of_midas":"If your farm is going fairly well in your safe lane then picking up an early Hand of Midas will allow your farm to skyrocket. Though it should be noted that as an off-lane solo, this is not a recommended item.",
+				"vladmir":"In some cases, if you have another carry that is doing all the heavy lifting, opting to upgrade your Ring of Basilius into a Vlad's is an okay choice, though the space is always better suited to carry items of your own.
+",
+				"assault":"An Assault Cuirass is next on the list after Radiance, also to be put on the bear. The extra attack speed will make for more Entangles, which, in a normal situation, is a guaranteed kill. The armor is also a good perk of AC, making your bear your team's damage sponge when combined with Demolish.",
+				"heart":"The Heart of Tarrasque is an excellent item for Sylla himself as a tankiness pickup.
+",
+				"radiance":"If your farm went well and you didn't die too often, a quick Radiance to put on your bear greatly speeds up farming, as well as allowing you to use the bear to harass from a distance, as the burn is always active.",
+				"basher":"Almost every Lone Druid player loves the dual-basher build for both Sylla and his bear, allowing for perma-stun. And of course, if your enemies buy Black King Bar for your entangles ( BKB can pe popped after entangle to cancel it.), upgrading this to an Abyssal Blade is a smart choice.",
+				"armlet":"An Armlet is an unorthodox item, but it's been seeing some use in higher level Syllabear play. Used on the bear to increase its attack speed, it can be a very useful item in the appropriate situation.",
+				"mjollnir":"Once an Assault Cuirass is finished, upgrading your Maelstrom to a Mjollnir is optional.",
+				"skadi":"If you feel like it, and have an outrageous farm level, upgrading your bear's Orb of Venom to an Eye of Skadi is an option, although core items come first.
+",
+				"maelstrom":"If you were harassed and killed a little too often, getting a Maelstrom on the bear for the lightning arc proc as a farming substitute is viable, although an Assault Cuirass is still needed.",
+				"orb_of_venom":"Buying an early Orb of Venom at your sideshop, then giving it to your bear, will make harassing your enemies an easy pasttime. It's also great for ganks, as the 12% slow can make the difference.",
+				"heavens_halberd":"If you need a little evasion, or a 3 second disarm for an annoying enemy melee carry, the Heaven's Halberd is an optimum choice. This is to be put on Sylla as opposed to his furry companion.",
+				"ring_of_aquila":"An early Ring of Basilius gives you and your bear an armor aura ( The aura is applied to the bear even if it is turned off. ) as well as mana regen for Sylla, enabling you to resummon your bear at your leisure. And who wouldn't like a Ring of Aquila upgrade for that extra Agility?
+",
+				"tranquil_boots":"Having an early pair of tranquil boots on Sylla will let you be fairly fast, on top of being very hard to push out of lane. This, combined with a ring of basilius (which turned off still applies the aura to the bear.) will make you very self reliant."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_synergy",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lone_druid_spirit_bear":"Maxing out Summon Spirit Bear is a must, as having a tankier bear on top of the fact that the bear doesn't get any abilities like Entangling Claws or Demolish until higher levels is important.",
+				"lone_druid_rabid":"Rabid isn't as important of an ability to level as Spirit Bear or Synergy, but if needed can be skilled earlier than recommended depending on your situation.",
+				"lone_druid_synergy":"Synergy allows for increased bear damage and speed on top of increased Rabid duration and more health for your True Form transformation.",
+				"lone_druid_true_form_battle_cry":"A good ability to use when assaulting a turret or ganking an enemy. But use it sparingly early, as having mana for Summon Spirit Bear or Rabid is more important.",
+				"lone_druid_true_form":"Picked up at 6, 11, and 16, True Form allows for an insane early health boost if Synergy is skilled, which is what makes Syllabear such a survivable hero in the off-lane.",
+				"attribute_bonus":"Stat points aren't usually picked up on Sylla until late game. But again, depending on your situation."
+		}
+	}
+}

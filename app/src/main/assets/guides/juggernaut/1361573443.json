@@ -1,0 +1,128 @@
+{
+	"Hero":"juggernaut",
+	"Title":"JUGGER Push H-Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"quelling_blade",
+				"branches"
+			],
+			"Early game":
+			[
+				"boots",
+				"tpscroll",
+				"hand_of_midas",
+				"branches",
+				"branches",
+				"quelling_blade"
+			],
+			"core itens":
+			[
+				"hand_of_midas",
+				"bfury",
+				"phase_boots",
+				"ultimate_scepter",
+				"yasha",
+				"maelstrom",
+				"tpscroll"
+			],
+			"Late game":
+			[
+				"bfury",
+				"phase_boots",
+				"ultimate_scepter",
+				"manta",
+				"mjollnir",
+				"butterfly"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"black_king_bar",
+				"orchid",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Garantia de farm.",
+				"branches":"Status",
+				"boots":"MS padrao.",
+				"tango":"Regen xD",
+				"tpscroll":"Tem slot sobrando, TP é obrigatório.",
+				"travel_boots":"Tem grana sobrando, lets go Travel",
+				"phase_boots":"Melhor bota te da um bom MS para perseguições, e não te deixa ser trancado por unidades.",
+				"hand_of_midas":"Core item focando seu farm. entre 5 a 9 minutos.
+Proporciona um otimo farm e attack speed
+consideravel.",
+				"orchid":"precisa de silence para pegar alguem, pode contar com a Orchid.
+
++ attack speed, dano, regen, xD",
+				"ultimate_scepter":"Seu ult é a diferença? Por que não melhorá-lo! xD",
+				"black_king_bar":"Disables estão pegando no seu pé, acabe com eles.",
+				"monkey_king_bar":"Ta sofrendo, perdendo critico em MIS Attacks, corra neste item.",
+				"butterfly":"Troque sua midas por este item = GG game
+xD
+",
+				"bfury":"Melhor Item para o Juggenault.
+Proporciona dano, dano em área, regeneração de vida e mana.
+
+Tudo que o jugger precisa.",
+				"manta":"Atualize sua yasha.
++ dano, agilidade e ilusões com critico xD
+",
+				"mjollnir":"Muito mais attack speed, xD",
+				"maelstrom":"Mais dano, attack speed e dano magico em área Perfeito.",
+				"yasha":"Attack speed, agilidade e MS por um precinho, xD"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"juggernaut_healing_ward",
+			"3":"juggernaut_blade_fury",
+			"4":"attribute_bonus",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_blade_dance",
+			"13":"juggernaut_healing_ward",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"juggernaut_healing_ward",
+			"18":"juggernaut_healing_ward",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Roda Roda  Mato, xD",
+				"juggernaut_healing_ward":"Regen básico de necessário",
+				"juggernaut_blade_dance":"Critico só e necessário quando você tem dano.",
+				"juggernaut_omni_slash":"Fatia tudo. =P",
+				"attribute_bonus":"Status para o ult."
+		}
+	}
+}

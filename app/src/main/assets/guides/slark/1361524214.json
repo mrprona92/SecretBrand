@@ -1,0 +1,105 @@
+{
+	"Hero":"slark",
+	"Title":"[DMX] Slark (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"stout_shield",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"magic_wand",
+				"orb_of_venom",
+				"tpscroll",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"sange_and_yasha",
+				"tpscroll"
+			],
+			"Fin de Partie":
+			[
+				"abyssal_blade",
+				"butterfly",
+				"assault"
+			],
+			"Situationnels":
+			[
+				"mask_of_madness",
+				"skadi",
+				"black_king_bar",
+				"orchid",
+				"armlet",
+				"diffusal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Le stout shield vous permettra de tenir un peu mieux l'harass de vos adversaires.",
+				"poor_mans_shield":"Transformez votre Stout Shield en Poor man's shield.",
+				"orchid":"Orchid est un très bon item pour empecher votre cible de s'échapper, de plus elle vous apporte de la vitesse d'attaque et un petit burst supplémentaire.",
+				"black_king_bar":"S'il y a trop de contrôles BKB se révèle être un item presque obligatoire.",
+				"butterfly":"Butterfly est un très bon item sur Slark, lui apportant beaucoup de dps et de la survavibilité avec l'esquive.",
+				"armlet":"Si vous maitrisez l'actif de cet item, n'hésitez pas à le prendre, il est très efficace sur slark.",
+				"sange_and_yasha":"Bon item si vous voulez gagner du dps et de la vie supplémentaire ! Si vous vous sentez trop fragile, commencez par Sange.",
+				"skadi":"Si vous êtes bien dans la game, faîtes un skadi, cet item vous permettra de tanker et vous apporte un slow monstrueux.",
+				"mask_of_madness":"Si vous voulez jouer très agressif, vous pouvez partir sur MoM. Attention cependant vous serez TRÈS fragile.",
+				"diffusal_blade":"Diffusal vous permettra d'être très agressif et ne laissera peu de chance à un adversaire isolé. Attention par contre cet item ne stacke pas avec l'orb of venom, il faudra revendre cette dernière.",
+				"orb_of_venom":"L'orb of venom est un item très peu couteux et très utile lorsque vous êtes agressif sur vos adversaires",
+				"abyssal_blade":"Abyssal Blade vous assurera presque un kill à chaque fois que vous sauterez sur quelqu'un !"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_dark_pact",
+			"3":"slark_dark_pact",
+			"4":"slark_essence_shift",
+			"5":"slark_dark_pact",
+			"6":"slark_shadow_dance",
+			"7":"slark_dark_pact",
+			"8":"slark_pounce",
+			"9":"slark_pounce",
+			"10":"slark_pounce",
+			"11":"slark_shadow_dance",
+			"12":"slark_essence_shift",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slark_dark_pact":"Ce sort est votre principale source de dommages et il vous purgera des contrôles si vous l'utilisez au bon moment, il faut donc le maxer !",
+				"slark_pounce":"Prenez pounce en premier car c'est votre seul disable/sort d'escape.",
+				"slark_essence_shift":"Un excellent passif qui vous rendra extrêmement fort en fin de partie lorsque vous aurez l'occasion de toucher beaucoup de héros.",
+				"slark_shadow_dance":"Un excellent ultimate qui vous permettra de vous régénérez très facilement sans rentrer à la base. De plus son actif vous assurera des ganks faciles."
+		}
+	}
+}

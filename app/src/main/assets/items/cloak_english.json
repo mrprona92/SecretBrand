@@ -1,0 +1,16 @@
+{
+  "dotaId": "cloak",
+  "id": 31,
+  "img": "cloak_lg.png",
+  "dname": "Cloak",
+  "qual": "component",
+  "cost": 550,
+  "desc": "",
+  "notes": "Stacks multiplicatively with other sources of spell resistance.",
+  "attrib": "+ 20% Spell Resistance",
+  "mc": false,
+  "cd": false,
+  "lore": "A cloak made of a magical material that works to dispel any magic cast on it.",
+  "components": null,
+  "created": false
+}

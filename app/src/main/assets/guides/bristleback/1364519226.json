@@ -1,0 +1,119 @@
+{
+	"Hero":"bristleback",
+	"Title":"Fast and Hard build for Rigwarl, the Bristleback",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"flask",
+				"stout_shield",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"orb_of_venom",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"medallion_of_courage",
+				"power_treads"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"mekansm",
+				"ancient_janggo",
+				"hood_of_defiance",
+				"heart",
+				"skadi",
+				"assault",
+				"travel_boots",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Pretty necessary on any farming melee hero.
+
+Also great if/when you get into a diving situation.",
+				"sobi_mask":"'Cause even pigs need a little mana regen.",
+				"boots":"You want to get this item ASAP to help you chase your snot covered victims.",
+				"travel_boots":"Your quills are an amazing pushing tool. Use this to your advantage!",
+				"power_treads":"You'd probably be good with any set of boots, EXCEPT FOR PHASE.
+
+Remember that Phase boots are cancelled every time you cast a spell. Which is something you do  frequently as BB.",
+				"mekansm":"Thinking of getting Vangaurd? DON'T! Get this instead. It has similar damage block (from armor) as well as stats and a phat AOE heal.
+
+Great for when you want to constantly fight, and no one else is getting one.",
+				"urn_of_shadows":"Get this instead of Medallion, if you prefer.",
+				"assault":"Helps against physical damage and lowers your opponents armor even more.",
+				"heart":"Heart = more HP = more damage the enemy has to do to bring you down = more Bristleback passive procs.",
+				"black_king_bar":"For when the enemy team has lots of lockdown.",
+				"hood_of_defiance":"Get this item if you see a lot of magical damage coming from the other team. It isn't a bad idea to upgrade this item in to pipe, either!",
+				"skadi":"Similar to heart, but with a different active. Great for keeping a target locked down.",
+				"orb_of_venom":"When it absolutely, positively HAS to be slowed. They're not going anywhere.
+
+Remember: This item can be bought from the side shop.",
+				"ancient_janggo":"Another aggressive item to help you fight early.",
+				"medallion_of_courage":"OMGWTF DAT DE-ARMOR.
+
+You'll be hitting for tons of damage with every swing. Now get out there and sneeze on some noobs. 
+
+This is the only damage item you need. After this: tank up!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_viscous_nasal_goo",
+			"2":"bristleback_quill_spray",
+			"3":"bristleback_bristleback",
+			"4":"bristleback_quill_spray",
+			"5":"bristleback_viscous_nasal_goo",
+			"6":"bristleback_warpath",
+			"7":"bristleback_viscous_nasal_goo",
+			"8":"bristleback_quill_spray",
+			"9":"bristleback_quill_spray",
+			"10":"bristleback_viscous_nasal_goo",
+			"11":"bristleback_warpath",
+			"12":"bristleback_bristleback",
+			"13":"bristleback_bristleback",
+			"14":"bristleback_bristleback",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"Armor reduction is so good early game (well, all game actually). Hopefully you'll have a ranged ally in lane with you to really make use of all that dearmor.",
+				"bristleback_quill_spray":"You don't need lots of points in this early because the bonus damage remains the same at all levels. Still, this ability ends up getting maxed first (due to the weird scaling of Nasal Goo).",
+				"bristleback_bristleback":"THIS ALSO WORKS AGAINST ALL SOURCES OF DAMAGE!
+
+If you see a big nuke coming your way turn your back! It may save your life!
+
+The early level of this skill could be skipped, depending on how your game is going.",
+				"bristleback_warpath":"Once you get this spell you're basically a killing machine. Think Nightstalker, but 24/7.
+
+Remember to cast your spells right when they come off of cooldown."
+		}
+	}
+}

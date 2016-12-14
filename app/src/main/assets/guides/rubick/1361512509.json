@@ -1,0 +1,86 @@
+{
+	"Hero":"rubick",
+	"Title":"[DMX] Rubick (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"blink",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"travel_boots",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Situationnels":
+			[
+				"black_king_bar",
+				"cyclone",
+				"bloodstone",
+				"rod_of_atos"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Ce sort est votre disable principal, il peut neutraliser un ou plusieurs ennemis pendant longtemps et est donc un très bon outil pour ganker ou s’enfuir en toute sécurité.",
+				"rubick_fade_bolt":"Ce sort est votre principal nuke, il inflige de très bon dommages et son malus de dégâts vous sera très pratique pour empecher vos ennemis de last hit facilement sur la lane.",
+				"rubick_null_field":"Null Field se cumule avec la réistance magique venant des items et des sorts et permet à toute votre team d’être plus résistance dans les teamfights.",
+				"rubick_spell_steal":"Spell Steal est la signature de Rubick, cette compétence fait de lui un héros très polyvalent et très dangereux si vous volez les ultimates les plus puissants tels que Ravage ou Black Hole ! Alors soyez réactif et volez les bons spells !"
+		}
+	}
+}

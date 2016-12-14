@@ -1,0 +1,71 @@
+{
+	"Hero":"magnataur",
+	"Title":"Pay2Lose - Magnus for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"Core items":
+			[
+				"bottle",
+				"power_treads",
+				"ancient_janggo",
+				"bfury"
+			],
+			"End game Options":
+			[
+				"black_king_bar",
+				"heart",
+				"greater_crit",
+				"assault",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Get this ASAP, preferrably before the 2-minute mark"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"magnataur_skewer",
+			"2":"magnataur_shockwave",
+			"3":"magnataur_shockwave",
+			"4":"magnataur_skewer",
+			"5":"magnataur_shockwave",
+			"6":"magnataur_reverse_polarity",
+			"7":"magnataur_shockwave",
+			"8":"magnataur_skewer",
+			"9":"magnataur_skewer",
+			"10":"magnataur_empower",
+			"11":"magnataur_reverse_polarity",
+			"12":"magnataur_empower",
+			"13":"magnataur_empower",
+			"14":"magnataur_empower",
+			"15":"attribute_bonus",
+			"16":"magnataur_reverse_polarity",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

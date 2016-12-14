@@ -1,0 +1,97 @@
+{
+	"Hero":"rubick",
+	"Title":"Rubick omg!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"blink",
+				"bloodstone",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"ghost",
+				"rod_of_atos",
+				"orchid",
+				"force_staff",
+				"cyclone",
+				"dagon",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Very necessary items for gangs and kills",
+				"gauntlets":"For HP",
+				"branches":"+1 atribute))",
+				"ghost":"If you are against a lot of DPS, he is very useful",
+				"bottle":"Bottle will be needed for HP and MP",
+				"tango":"For Heal",
+				"urn_of_shadows":"If you need a support standards and will help the team",
+				"sheepstick":"Very strong for disable",
+				"orchid":"Can throw like invoker",
+				"cyclone":"Get together Forcestaff",
+				"force_staff":"Forcestaff and blink dager very hard)))",
+				"dagon":"Dagon 5 lvl and kill:DD",
+				"bloodstone":"In principle you can buy",
+				"arcane_boots":"always need mana and the team will be happy)))",
+				"ancient_janggo":"For tru support: DD",
+				"veil_of_discord":"M damage because you rubick)",
+				"rod_of_atos":"For fun you can)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

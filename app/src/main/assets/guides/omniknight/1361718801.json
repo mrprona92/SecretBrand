@@ -1,0 +1,85 @@
+{
+	"Hero":"omniknight",
+	"Title":"Omniknight Bot/Top by Zibi17k",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"sobi_mask",
+				"soul_ring",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_regen",
+				"boots",
+				"ring_of_regen",
+				"headdress",
+				"energy_booster",
+				"chainmail",
+				"buckler",
+				"mekansm"
+			],
+			"Next Items":
+			[
+				"point_booster",
+				"ogre_axe",
+				"staff_of_wizardry",
+				"blade_of_alacrity",
+				"ogre_axe",
+				"belt_of_strength",
+				"sange",
+				"blade_of_alacrity",
+				"boots_of_elves",
+				"yasha"
+			],
+			"Late Items":
+			[
+				"heart",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"soul_ring":"only Recipe"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_purification",
+			"2":"omniknight_degen_aura",
+			"3":"omniknight_purification",
+			"4":"omniknight_repel",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_degen_aura",
+			"9":"omniknight_degen_aura",
+			"10":"omniknight_degen_aura",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_repel",
+			"13":"omniknight_repel",
+			"14":"omniknight_repel",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

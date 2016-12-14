@@ -1,0 +1,125 @@
+{
+	"Hero":"puck",
+	"Title":"[5ers] Powerful Pucking Puck Guide (Gank/Support)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"magic_stick",
+				"tango",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"ward_observer",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"blink",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"travel_boots",
+				"ultimate_scepter",
+				"bloodstone",
+				"shivas_guard"
+			],
+			"Useful Early-Mid Consumables":
+			[
+				"clarity",
+				"flask"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Great for initiation and escape. Use in combination with all of your spells. If you blink into enemies, you can escape with orb and phase shift combo.
+If you are ganked and blink is disabled by enemies hitting you, use phase shift (if at high level) which will allow Blink inactivation to come off CD",
+				"branches":"Part of Magic Wand. Adds a little extra durability in early game laning.",
+				"boots":"Get this around the same time as Magic Wand. Extra movespeed - almost every hero in the game will get this at the same time so you need to keep up with everyone`s movespeed.",
+				"magic_stick":"Part of Magic Wand. Builds charges when enemies cast spells. You can dodge many enemy spells with Phase Shift ability, while still gaining charges which will help you maintain HP and Mana to stay in lane",
+				"magic_wand":"Combines branches and magic stick, giving you extra free slots. Can collect more charges. Same benefits as Magic Stick",
+				"clarity":"Use conservatively for mana regen (wait until your mana is about half depleted before you use this).
+Care not to be hit by enemy heroes or creeps during Clarity effect time, as this will cancel it.",
+				"flask":"Don`t get too many of these as it will waste money and hinder item progression through the game. 1 or 2 early game can be useful to help you stay in lane. Use the courier to deliver these to you, along with other items.
+Use Phase Shift effectively to avoid harass.",
+				"ward_observer":"Puck has plenty of farm, and you should help your team out by placing wards frequently. Don`t let this hinder your item progression however.
+Read a guide on where the best ward placement spots are - there are many and they depend on the situation.",
+				"tango":"HP regen early game - works even if you get attacked during its time of effect.",
+				"tpscroll":"Keep one of these on you at almost all times in the game so you can help in defending and ganking when the opportunity presents.",
+				"travel_boots":"You can trade in Phase Boots in late game for this. This will allow you teleport far to enemy lanes that are being pushed so you can help your allies in pushing or team fights. It will also allow you to quickly TP back to base to defend",
+				"phase_boots":"Extra movespeed mid-game and active ability gives extra speed temporarily and allows you to move through Heroes and Creeps. Great for positioning. Use active ability almost whenever it comes off cooldown (very low CD).",
+				"bracer":"Consider buying Phase Boots before you get this.
+Adds extra durability early game and can be converted into Drums later.",
+				"sheepstick":"Disables important enemy heroes. Use on the most important player in a team fight - either their carry or a big stunner/disabler which is causing problems for your team.",
+				"ultimate_scepter":"Extra stats, mana regen, and improves ulti. Good late game item if you don`t really need more disables or anything else.",
+				"shivas_guard":"Adds extra surviability and INT stats (mana regen and damage). Active AOE ability can slow enemies when escaping, chasing or in a team fight.
+Buy this if you`re getting killed too easily or instead of scythe if your team has enough disables already. Also helps pushing and defending.",
+				"bloodstone":"Great for stats and regen. Similarly to Aghanim`s scepter, only get this if you have more money than you know what to do with. Consider selling Magic Wand to replace this.
+Consider saving buy back money instead!",
+				"ancient_janggo":"Built from bracer, which gives you extra survivability early-mid game. Active ability increases the movespeed and attack speed of you and your team for a short period. Only has 4 charges so use sparingly: when escaping from a team fight, chasing, tower or roshan killing."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_phase_shift",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_phase_shift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_waning_rift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"Great AOE nuke. You can use it to harass and/or farm from a distance far away. Can also use to escape or initiate by blinking to the location of the orb.
+Use in combo with Phase Shift to escape.",
+				"puck_waning_rift":"Great AOE silence and nuke, especially at higher levels. Use in combination with Orb or blink to initiate and surprise enemies, then silence them quickly so (you don`t die, and..)  your allies can come and fight with confidence.",
+				"puck_phase_shift":"Consider getting this at Level 1, especially if there are many nukes that you can dodge in lane.
+Get the 2nd level earlier (at level 4, instead of Waning Rift as shown here) if you are a beginner as it will help you stay alive for longer and will help your combo timing.",
+				"puck_ethereal_jaunt":"Let`s you blink to your Orb, wherever it may be. Wait for your orb to get a far distance before using it to escape/initiate.
+You don`t always have to use this after casting orb!!",
+				"puck_dream_coil":"Get this ulti at 6, 11, 16. It`s fantastic. Use it to prevent enemies from escaping team fights and even for solo killing weaker heroes if you are feeling confident.
+Can also be used to aid ally escape, by holding enemies in place.
+Can identify enemy heroes amongst illusions.",
+				"attribute_bonus":"Puck has fantastic spells. Don`t get stats in place of spell levels until after you`ve maxed everything out."
+		}
+	}
+}

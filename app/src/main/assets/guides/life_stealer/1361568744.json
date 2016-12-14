@@ -1,0 +1,104 @@
+{
+	"Hero":"life_stealer",
+	"Title":"Lifestealer in-lane carry guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"hyperstone",
+				"lesser_crit",
+				"basher",
+				"assault",
+				"mjollnir",
+				"abyssal_blade",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"rapier",
+				"satanic",
+				"monkey_king_bar",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"This is assuming you are in a 2v1 or 3v1 lane, if you are in a 2v2 lane, perhaps a Stout Shield would be better here.",
+				"branches":"Sell this for space when needed.",
+				"hyperstone":"Get this item after your finish your Armlet.",
+				"power_treads":"Get these after Midas",
+				"hand_of_midas":"Rush ths, use every time it`s off cooldown",
+				"assault":"Get this or Mjollnir after you have Crystalys & Skull Basher.
+
+AC - If your team benefits from the aura
+
+Mjollnir - If your team does not benefit from the aura",
+				"black_king_bar":"Get this if your not magic immune for long enough.",
+				"rapier":"Build if you have too much money.",
+				"monkey_king_bar":"Build if enemies are making you miss your attacks or they are being dodged.",
+				"greater_crit":"Finish this item before Abyssal Blade if you feel your lacking damage.",
+				"basher":"Buy this item before Crystalys if you feel your enemies are escaping too often.",
+				"lesser_crit":"Buy this item before Skull Basher if you feel your lacking damage.",
+				"armlet":"Amazing item for Lifestealer, always build this straight after treads.",
+				"satanic":"Build if you don`t have enough lifesteal.",
+				"mjollnir":"Get this or AC after you have Crystalys & Skull Basher.
+
+AC - If your team benefits from the aura
+
+Mjollnir - If your team does not benefit from the aura",
+				"abyssal_blade":"Build this before Daedalus if magic immunity is causing you problems, or if your enemies are getting away too often."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_open_wounds",
+			"2":"life_stealer_rage",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_feast",
+			"5":"life_stealer_feast",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_feast",
+			"8":"life_stealer_rage",
+			"9":"life_stealer_rage",
+			"10":"life_stealer_rage",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_open_wounds",
+			"13":"life_stealer_open_wounds",
+			"14":"life_stealer_open_wounds",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

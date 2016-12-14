@@ -1,0 +1,91 @@
+{
+	"Hero":"phoenix",
+	"Title":"ProGuide | Icarus | Phoenix",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Tank":
+			[
+				"power_treads",
+				"vanguard",
+				"hood_of_defiance",
+				"blade_mail",
+				"heart",
+				"shivas_guard"
+			],
+			"Support":
+			[
+				"arcane_boots",
+				"mekansm",
+				"force_staff",
+				"shivas_guard",
+				"courier",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"sphere",
+				"radiance",
+				"assault",
+				"necronomicon",
+				"dagon",
+				"bloodstone"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_fire_spirits",
+			"4":"phoenix_icarus_dive",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_icarus_dive",
+			"9":"phoenix_icarus_dive",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_sun_ray",
+			"13":"phoenix_sun_ray",
+			"14":"phoenix_sun_ray",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Скил заменяет Фениксу дагер (кстати дальность Icarus Dive больше дальности дагера), с помощью него мы можем как ворваться в замес так и выйти из него. Одно только плохо - огромный кулдаун скила не позволяет использовать его в замесе дважды, вы должны хорошо продумать наилучший момент для его юза.",
+				"phoenix_fire_spirits":"Отличный скил. Его можно использовать для лечения себя, союзника и хараса противника,  добивания противника, фарма.
+",
+				"phoenix_sun_ray":"Sun Ray, конечно очень мощный скил, служит он в основном для добивания после использования ультимейта, однако очень легко контрится инвизом и блинками. Sun Ray это в основном скилл - антитанк т.к. зависит от здоровья оппонента, да и блинки с инвизами у танков встречаются не часто. ",
+				"phoenix_supernova":"Отличный ультимейт дамажащий по площади + довольно долгий стан + полное восполнение хп и мп. но так же как и Sun Ray легко контрится. Высокой скоростью атаки и иллюзиями.
+Рекомендуется использовать после Icarus Dive, т.к. дебафф не даст врагам некоторое время атаковать наше солнышко. "
+		}
+	}
+}

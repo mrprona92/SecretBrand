@@ -1,0 +1,113 @@
+{
+	"Hero":"disruptor",
+	"Title":"6.82 - Standard Disruptor (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"bottle",
+				"ghost",
+				"rod_of_atos"
+			],
+			"Extension Items":
+			[
+				"cyclone",
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Bottle is great if you intend to roam as Disruptor and take advantage of the runes!",
+				"ward_observer":"Be sure to purchase courier or wards as a support hero.",
+				"courier":"Be sure to purchase courier or wards as a support hero.",
+				"mekansm":"Get Mekansm if no one else is going to get it.",
+				"urn_of_shadows":"Survivability. Period. Urn is a situational item because you don't want to delay other items that you'll need in the extention, but you also made need something to ferry through the mid to late-game. ",
+				"cyclone":"Eul's Scepter gives you the desperate movement speed that you need and let's you easily set up your Kinetic Field!",
+				"force_staff":"Disruptor is about positioning and staying away from being in the center of fights. Force Staff let's you initiate and escape with ease and comfortability.",
+				"ultimate_scepter":"Aghanim's on Disruptor sounds good, but so late in the game with so many other items needed; may mean that you might have to skip this for more reliable disables and situational items.",
+				"rod_of_atos":"Slow enemies hard enough to get trapped in your Kinetic Field. Given its range, this gives Disruptor a ton of time to catch up or let allies chase after the slowed target."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_glimpse",
+			"2":"disruptor_thunder_strike",
+			"3":"disruptor_glimpse",
+			"4":"disruptor_kinetic_field",
+			"5":"disruptor_glimpse",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_glimpse",
+			"8":"disruptor_thunder_strike",
+			"9":"disruptor_thunder_strike",
+			"10":"disruptor_thunder_strike",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_kinetic_field",
+			"13":"disruptor_kinetic_field",
+			"14":"disruptor_kinetic_field",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Although the damage is amazing, Kinetic Field and Glimpse are much more versatile in their uses and early ganks. Be sure to count the number of strikes occur on a hero. The third one means Glimpse would return him to where you last casted Thunder Strike.",
+				"disruptor_glimpse":"Maxing Glimpse first means an incredible range from heroes who are trying to flee. Be sure to use Glimpse on heroes that are also teleporting to a tower, it'll force them back to the fountain!",
+				"disruptor_kinetic_field":"If your opponent gets out of the Kinetic Field before it is done, try and Glimpse them back. Be sure to follow-up your ultimate inside the Kinetic Field.",
+				"disruptor_static_storm":"Static Storm is an AOE Silence that deals decent damage. Use it in combination with Kinetic Field. Try avoid using it on heroes that are fleeing."
+		}
+	}
+}

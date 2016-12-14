@@ -1,0 +1,86 @@
+{
+	"Hero":"night_stalker",
+	"Title":"Night Stalker - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"magic_stick",
+				"quelling_blade",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"helm_of_the_dominator",
+				"basher"
+			],
+			"luxury":
+			[
+				"armlet",
+				"greater_crit",
+				"black_king_bar",
+				"satanic",
+				"heart",
+				"assault",
+				"mask_of_madness"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Si vas a tener wards que te permitan controlar las runas (Un support que sepa jugar basicamente) comprala.",
+				"black_king_bar":"Si el equipo contrario tiene muchos disables compralo rapido.",
+				"helm_of_the_dominator":"Recuerda stackear creeps para sacar partido al item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_hunter_in_the_night",
+			"3":"night_stalker_void",
+			"4":"night_stalker_crippling_fear",
+			"5":"night_stalker_void",
+			"6":"night_stalker_hunter_in_the_night",
+			"7":"night_stalker_void",
+			"8":"night_stalker_hunter_in_the_night",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_darkness",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"Lanzalo para iniciar tu ataque contra el enemigo (Si tiene disables o blink quizas te interese primero lanzar la W). Hace bastante dmg tambien.",
+				"night_stalker_crippling_fear":"Silencia al enemigo para que no te lance un stun, para que no escape...En las teamfights lanzasela al heroe que mas puede fastidiar a tu equipo.",
+				"night_stalker_hunter_in_the_night":"Intenta aprovechar la noche para hacer algo fuera de lo normal como ir a gankear, matar facilmente ancients, etc. Aprovecha tus noches!",
+				"night_stalker_darkness":"Ten en cuenta la duracion, que al principio no es mucha. Lanzala cuando creas que vas a seguir a alguien, para preparar una teamfight o incluso para huir si lo crees necesario. Recuerda que si es de noche extiende la misma!."
+		}
+	}
+}

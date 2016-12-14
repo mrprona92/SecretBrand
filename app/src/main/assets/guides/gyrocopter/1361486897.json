@@ -1,0 +1,225 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"A guide to carry Gyrocopter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"circlet",
+				"slippers",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"helm_of_the_dominator",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"rapier",
+				"butterfly",
+				"manta",
+				"ultimate_scepter",
+				"invis_sword",
+				"satanic",
+				"greater_crit",
+				"ancient_janggo",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This can work on Gyro but I wouldn't do it on a carry build. You already have phase boots to get in position. ",
+				"quelling_blade":"Don't buy this, only reason I'd consider buying it if is the enemy team has a Nature's Prophet. ",
+				"ring_of_protection":"Can build into a Ring Of Aquila, good starting item over a slipper if you feel you may need the armor over last hitting power. You can build a Ring of Basilius in the sideshop. ",
+				"stout_shield":"If you feel like you need this in lane, it goes into a poormans shield which is alright early game. ",
+				"slippers":"Adds stats to help Gyrocopter farm. Gyro has horrible base damage, at around 46 damage at level 1, last hitting for the first few levels may seem hard without these items. These also make your ring of aquila later.
+
+Instead of grabbing slippers, you can always grab a ring of protection if you insist",
+				"branches":"A GG branch is amazing. +1 STR, 1 AGI, and 1 INT can really help you early on. ",
+				"circlet":"Adds stats to help Gyrocopter farm. Gyro has horrible base damage, at around 46 damage at level 1, last hitting for the first few levels may seem hard without these items. These also make your ring of aquila later. ",
+				"boots":"You kind of need these, as these make your upgraded boots.",
+				"gem":"I don't recommend that Gyro holds a gem. ",
+				"magic_stick":"Good item, I recommend this if they have a lot of \"combos\" and you know the Health/Mana will save you.",
+				"magic_wand":"Good item, I recommend this if they have a lot of \"combos\" and you know the Health/Mana will save you.",
+				"clarity":"A clarity early on may prove useful. Up to you. ",
+				"flask":"Your basic regen, gyro isn't every tanky so he needs this.  ",
+				"dust":"You shouldn't be having to buy these, but if you plan to gank a Invis hero, go ahead. ",
+				"bottle":"If MID I recommend a bottle, gyro is very mana heavy if ganking. ",
+				"ward_observer":"You shouldn't be having to buy these, your supports should be buying these. ",
+				"ward_sentry":"You shouldn't be having to buy these, your supports should be buying these. ",
+				"tango":"Your basic regen, gyro isn't every tanky so he needs this.  ",
+				"courier":"You shouldn't be having to buy these, your supports should be buying these. ",
+				"tpscroll":"Always carry a TP scroll. ",
+				"travel_boots":"If you need the room, go ahead! ",
+				"phase_boots":"Adds damage and mobility to gyrocopter. Gyro is very position reliant, and damage on him really helps out with his flak cannon.
+
+An alternative pickup is Power Treads, as these add stats. I prefer phase, but it really depends on how your game is going. ",
+				"demon_edge":"Needed for Rapier, MKB, or Daedalus.
+",
+				"eagle":"Goes into a Butterfly or Ethereal Blade. ",
+				"reaver":"Gateway to your Satanic (Or Heart). Pick this up as soon as you can if you plan to build either. ",
+				"relic":"Are you sure this isn't throwing? Are you sure you wanna buy the Divine Rapier?
+
+Well, if you plan to build one go for it. ",
+				"power_treads":"Good alternative to Phase boots. Decent stats (Tread swap!) and attack speed. I dislike attack speed on carry Gyro, but the stat switching is handy. ",
+				"hand_of_midas":"This is a GOOD item choice if you feel like you can get it in a decent time. It's best to rush this if anything. Don't get this if you don't feel safe rushing it. ",
+				"poor_mans_shield":" 10 damage blocked isn't much, but if you have a horrible lane go for it. ",
+				"bracer":"Casual bracers are fine, and this can go into a drum! Sure! ",
+				"null_talisman":"You don't need this at all, you are an AGI hero, int is kind of wasted on you. Only thing this builds into is a Dagon, which is not needed on gyro. ",
+				"mekansm":"Can work on gyro, as it gives gyro amazing sustain. It'd be much better if your support built one. ",
+				"vladmir":"Only time I would get this on gyrocopter is if I was support gyro.
+
+You don't benefit from the lifesteal.
+",
+				"flying_courier":"You shouldn't be having to buy these, your supports should be buying these. ",
+				"ring_of_basilius":"A casual ring early on can be very handy, building it into a Ring of Aquila for the stats can be a good idea. ",
+				"urn_of_shadows":"You won't be ganking much, don't build this.",
+				"headdress":"Goes into a Mek which is much better on supports, but if no one else is building a mek you CAN possibly build one. I recommend a Helm Of The Dominator more. ",
+				"sheepstick":"I don't really recommend this on carry Gyro. ",
+				"orchid":"Nah, don't get this. You aren't going to be ganking much. ",
+				"cyclone":"INT and mana regen are both wasted. Leave this to your supports if possible.
+",
+				"force_staff":"If they have a lifestealer or someone else with a horrifying slow, force on carry gyro can actually work. ",
+				"dagon":"No. You already have good burst.",
+				"necronomicon":"I don't recommend this on Gyro for obvious reasons. Maybe on semi-support Gyro. ",
+				"ultimate_scepter":"This is not something you rush on gyrocopter. It's situational , it's main purpose is to push globally, while getting farm.
+
+I wouldn't get this unless if they have a pusher, and even then it's not something  you should rush! ",
+				"refresher":"Nah, not worth it. Your ult already has a rather low cooldown, the damage is nice but it isn't worth it. ",
+				"assault":"Can work on gyrocopter perfectly fine, but gyrocopter dealing damage is better than him attacking fast. Sure the armor reduction is nice, but theres much better. ",
+				"heart":"Kind of an odd choice on gyro, just get a satanic. It could work but a Satanic is normally a much better choice.",
+				"black_king_bar":"This is a MUST on gyro if they have good disables, you don't want to be focused down in a fight.
+
+Magic immunity, strength, and some damage? What's not to like. ",
+				"shivas_guard":"Alright item on gyro, great AOE slow to complement your ult and flak cannon. Makes you hard to burst down as well, with all that armor! ",
+				"bloodstone":"Don't...buy this. The regen is a waste. ",
+				"sphere":"Can work on Gyrocopter, if they have a single target that is REALLY annoying I recommend this.
+The stats are also really nice.
+",
+				"vanguard":"You shouldn't ever consider this...",
+				"blade_mail":"You shouldn't ever have to consider this...",
+				"rapier":"VERY situational, if they don't have a hero who can easily tear you down then it's an amazing item to rush. I recommend a BKB first!
+
+With your huge damage output, no one will stand a chance. ",
+				"monkey_king_bar":"Nothing is more annoying than having a hero that makes you miss (Brewmaster, Windrunner, Tinker, or anyone with a butterfly), so buy this to always hit! This also gives you great damage and slight attack speed.
+
+( Do note, Faceless Void's backtrack does not count as evasion! )",
+				"radiance":"What are you doing?
+
+",
+				"greater_crit":"Crits don't apply to non-main targets, but its a good damage item on Gyro. Your main target will also hate you. ",
+				"basher":"No...
+
+It could go into an Abyssal but there are much better choices. The stun is wasted. ",
+				"bfury":"You don't need this.
+
+Regen and cleave are both wasted, there are much better items you can get for pure damage. ",
+				"manta":"If you built a Yasha, build this. It adds stats, a great active, and movement speed!
+
+It's such a good item on gyrocopter. ",
+				"lesser_crit":"Goes into a Daedalus, if you are shooting for one go for it.",
+				"armlet":"In theory it sounds good, more damage and some sustain, but there's much better on Gyro. ",
+				"invis_sword":"Gyro lacks an escape, and this fills that need for one. Flak Cannon works with shadowblades active, so you can use that bonus damage offensively.
+
+",
+				"sange_and_yasha":"HORRIBLE item on gyro. Don't get this, it's a waste. Build a manta if you built a Yasha.",
+				"satanic":"GREAT item on gyro. You can go from no health to full health in one right click if you use Satanic's active.
+
+Perfect item on gyrocopter, I greatly recommend it. ",
+				"mjollnir":"Unsure how this works on gyrocopter, I don't see it being too bad. ",
+				"skadi":"Can work, but I don't recommend it. Gives gyro a great health pool and stats, but the orb only works on the main target.  ",
+				"sange":"I don't recommend this on Gyrocopter, he's not the kind of carry for a Sange. Build a Yasha instead. ",
+				"helm_of_the_dominator":"Adds AMAZING sustain to gyrocopter. Flak cannon works with lifesteal, so you can survive much longer in fights. You also get +5 armor and 20 damage on gyro, a welcome addition.
+Try to use the active to stack ancients if you can. Stacking will give you an amazing gold income! ",
+				"maelstrom":"Unsure how this works on gyrocopter, I don't see it being too bad. ",
+				"desolator":"Won't work with Helm of the Dominator, I don't recommend this.
+
+The orb doesn't work on non-primary targets. ",
+				"yasha":"This builds into manta, which is an item I RECOMMEND on Gyro! ",
+				"mask_of_madness":"DO NOT get this. Gyro isn't an attack speed based carry, similar to Kunkka, you want to get damage items.
+He's also rather squishy, so MoM will make him much easier to take down.",
+				"diffusal_blade":"You don't really need this anyway, theres much better for Gyro.
+
+The orb doesn't work on non-primary targets. ",
+				"ethereal_blade":"A very good item on gyro, as he has 3 magical damage sources and is an AGI carry.
+
+",
+				"soul_ring":"Kind of a waste, Gyro has a bad health pool. ",
+				"arcane_boots":"These work more on support gyro, I don't recommend these.",
+				"orb_of_venom":"Doesn't work with Flak, pointless item unless if you plan to build a Skadi, which is a very odd build. ",
+				"ancient_janggo":"Good item on gyrocopter! Good stats and aura, a pretty good item on him. ",
+				"medallion_of_courage":"I don't recommend this on Gyro, as you are about hitting multiple targets.",
+				"smoke_of_deceit":"You shouldn't be having to buy these, your supports should be buying these if you plan to gank or do Roshan",
+				"veil_of_discord":"Leave building this to your supports if your team is magic heavy. ",
+				"rod_of_atos":"I don't recommend this on gyro, as the int is wasted.",
+				"abyssal_blade":"It could work as it has huge damage, but it's not recommended over other items, as gyro is a ranged hero. ",
+				"heavens_halberd":"I don't recommend this on Gyrocopter, he's not the kind of person to build a Halberd. Active is fantastic, but your support can build this. ",
+				"ring_of_aquila":"Gives gyro good stats and mana regen, as he lacks both it's very appreciated. ",
+				"tranquil_boots":"If you are having a hard time in lane, these are perfectly fine!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_rocket_barrage",
+			"2":"gyrocopter_homing_missile",
+			"3":"gyrocopter_rocket_barrage",
+			"4":"gyrocopter_flak_cannon",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_flak_cannon",
+			"9":"gyrocopter_flak_cannon",
+			"10":"gyrocopter_flak_cannon",
+			"11":"gyrocopter_call_down",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"gyrocopter_homing_missile",
+			"24":"gyrocopter_homing_missile",
+			"25":"gyrocopter_homing_missile"
+		},
+		"AbilityTooltips":
+		{
+				"gyrocopter_rocket_barrage":"This is your strong early game nuke. It's similar to Leshrac's Edict, an in that it's strongest when there's only one enemy.
+
+This does INSANE damage early game and can easily get you kills. Do not skip this ability. 
+
+It's amazing at level one, doing over 300 damage!  Get this for FB.",
+				"gyrocopter_homing_missile":"Level this up second, as it is your stun. The Missile gives vision.
+
+Homing Missile can be maxed out if you feel like you won't need those early stats over that extra missile damage. The missile damage is so situational that it's not really worth it, and the stun barely scales.",
+				"gyrocopter_flak_cannon":"Your farming ability and your main damage in fights in the late game.
+
+With the right items you will easily be getting ultra kills and possible rampages! ",
+				"gyrocopter_call_down":"An amazing ult in fights, slows and does decent damage to every enemy in a decent AOE.
+"
+		}
+	}
+}

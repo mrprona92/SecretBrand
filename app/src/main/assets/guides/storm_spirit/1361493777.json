@@ -1,0 +1,78 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Mid Storm.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"mantle",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"Gives extra mana and damage.",
+				"branches":"Great stats early.",
+				"bottle":"Bottle is a great item, it has 3 charges and each one gives you mana and health, it can be refueled by bottling a rune in it or taking it back to the fountain, if you dont have good rune control you can get the coruier to take it back to the fountain for you.",
+				"tango":"Regen for early.",
+				"sheepstick":"Another great mana item for Storm, also gives a disable.",
+				"orchid":"Get this or sheepstick instead of bloodstone if things aren't going as planned.",
+				"bloodstone":"This item gives great mana and health regeneration for Storm Spirit.",
+				"arcane_boots":"Helps with storm spirits endless needs more mana early on, dismantle to finish off the blood stone."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_electric_vortex",
+			"8":"storm_spirit_static_remnant",
+			"9":"storm_spirit_static_remnant",
+			"10":"storm_spirit_static_remnant",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_overload",
+			"13":"storm_spirit_overload",
+			"14":"storm_spirit_overload",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"Hero":"rubick",
+	"Title":"Solo mid Rubick",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"force_staff",
+				"bracer"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"ancient_janggo",
+				"blink",
+				"cyclone",
+				"sheepstick",
+				"ultimate_scepter"
+			],
+			"Starting (Random gold)":
+			[
+				"bottle",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"For the greatest positioning. Don't get this if there's a Radiance on the enemy team.",
+				"branches":"Tangos and three branches leave you with enough gold so that you can get your Bottle before 2:00, provided that you lasthit well enough.",
+				"bottle":"Obligatory on most solo mids.",
+				"tango":"Tangos and three branches leaves you with enough gold that you can get your Bottle before 2:00 if you lasthit well enough.",
+				"phase_boots":"For better positioning.",
+				"bracer":"Attributes are good.",
+				"mekansm":"If none of your teammates is getting it, you might as well. Ditch the Bracer/Drum in that case.",
+				"cyclone":"Remember that you can use the active ability for dodging what would otherwise kill you, and to purge runes off of enemies. Use in conjunction with Blink Dagger to become an escape artist!",
+				"force_staff":"For greater positioning. Remember that you can use this on your allies and even your enemies!",
+				"ultimate_scepter":"If there is some ultimate spell you know you are able to steal, and has a nice upgrade, then why not?",
+				"ancient_janggo":"Don't get this if a teammate is building or already has built one."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Taken at level 1 to hinder or assist first blood attempts.
+You can throw enemies onto and off ledges.",
+				"rubick_fade_bolt":"Your bread-and-butter nuke. ",
+				"rubick_spell_steal":"YOU WOULDN'T STEAL A SPELL"
+		}
+	}
+}

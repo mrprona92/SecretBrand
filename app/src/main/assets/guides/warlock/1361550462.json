@@ -1,0 +1,114 @@
+{
+	"Hero":"warlock",
+	"Title":"Warlock - Support  trilane/duo",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"tpscroll",
+				"ring_of_basilius",
+				"mekansm",
+				"boots",
+				"dust"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ultimate_scepter",
+				"force_staff",
+				"pipe",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"refresher",
+				"sphere",
+				"necronomicon",
+				"veil_of_discord",
+				"vladmir",
+				"skadi",
+				"bloodstone",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dust":"If there is enemy stelth units don't forget to have one with you at all time. Until late game when u buy gem.",
+				"ward_observer":"Allways have wards with you at all time as support and remember when old one is about to expire go and replace it with new one before it does!",
+				"ward_sentry":"Use it for early game to de-ward your jungle camp's and deward enemy wards to take away enemy team vision.
+
+",
+				"courier":"Buy Curier when game starts or if some other suport did it buy flying currier.",
+				"tpscroll":"Remember allways carry a tp!",
+				"mekansm":"Get Mekansm fast the sooner the better. It will also help push faster.",
+				"ring_of_basilius":"Toggle it off until level 6 or when your team decide to push lane. It allso gives your golems +2 armor.",
+				"pipe":"Use it right before battle is about to start to migrate initial enemy spell damage openers.",
+				"sheepstick":"The disable it offers is handy in almost all situations, making chasing, escaping or even initiating a teamfight much easier.",
+				"force_staff":"You can use it to escape, chase or even to save teammates. Overall, it gives great mobility.",
+				"ultimate_scepter":"Go for it when u finish mekansm or pipe depends what other support in your team is going for.
+It's superb item for warlock even as support don't think about it just go for it when u can the sooner the better it will help your team a lot!.",
+				"shivas_guard":"Makes you harder to kill and gives a lot of mana. Its ability is perfect for teamfights.",
+				"arcane_boots":"Try to use it when few people needs mana from your team for maximum effectivness.",
+				"smoke_of_deceit":"Gather with all your allies and smoke up to gank enemy heroes. Remember geting at 1000 range of enemy or tower stelth will be broken."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"warlock_fatal_bonds",
+			"3":"warlock_shadow_word",
+			"4":"warlock_fatal_bonds",
+			"5":"warlock_shadow_word",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_shadow_word",
+			"8":"warlock_fatal_bonds",
+			"9":"warlock_fatal_bonds",
+			"10":"attribute_bonus",
+			"11":"warlock_rain_of_chaos",
+			"12":"warlock_upheaval",
+			"13":"warlock_upheaval",
+			"14":"warlock_upheaval",
+			"15":"warlock_upheaval",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"Use it right before big fights if possible or right after u cast your ultimate.",
+				"warlock_shadow_word":"Heal your allies when they run out of potions or being focused on.
+It also can be used to secure early first blood when cordinated with alies.",
+				"warlock_upheaval":"Use it after your ultimate to give your golems time to destroy enemies because they move slow or to slow down enemy pushing at towers.",
+				"warlock_rain_of_chaos":"Try to use it at 3 or more enemy heroes for maximum effect!"
+		}
+	}
+}

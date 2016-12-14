@@ -1,0 +1,98 @@
+{
+	"Hero":"lycan",
+	"Title":"The Best Pushing Lycanthrope's Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"First Item":
+			[
+				"lifesteal"
+			],
+			"coreItems":
+			[
+				"vladmir"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"medallion_of_courage"
+			],
+			"Pushing Core Item":
+			[
+				"necronomicon"
+			],
+			"Luxury Items":
+			[
+				"desolator",
+				"assault",
+				"black_king_bar",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Quelling Blade will improve your damage to the neutrals really well, also allowing you to make your own, faster path through the jungle.",
+				"stout_shield":"Stout Shield will greatly reduce damage you take while tanking neutral creeps",
+				"lifesteal":"This will help you tank neutrals without losing much health. Makes jungling much easier.",
+				"boots":"Increases your movement speed",
+				"tango":"You will need Tango to regenerate some health in the jungle",
+				"travel_boots":"Awesome item for split-push. You can use it either on creeps or your wolves. Send a wolf where you want to teleport - use Boots of Travel on him.",
+				"vladmir":"A core item for Lycan. Gives nice aura for him, his wolves and Necro units.",
+				"necronomicon":"This is our second core-item for pushing Lycan. Try to upgrade it to level 3. Use it right before attacking towers, enemies or Roshan.",
+				"assault":"Nice aura for your team, wolves and Necro units. Armor reduction is great for pushing towers as well.",
+				"black_king_bar":"Protects you from most spells, therefore is great for escaping (enemies can't stun you) or initiating fights. Also gives really good stats for Lycan.",
+				"desolator":"Increases your attack damage while decreasing tower's or enemy's armor.",
+				"ancient_janggo":"Nice attack speed and movement speed bonus aura for you, your wolves and Necronomicon units.",
+				"medallion_of_courage":"Get this cheap and really effective item if you want to kill Roshan really fast at early levels. Also helps melting down enemies. Active item, use it on units to decrease their armor."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_howl",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_feral_impulse",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"Your wolves. High damage and mobility, but low survivability. You also can use them for scouting runes (denying) and enemies, as well as blocking them.",
+				"lycan_howl":"Use it after you have summoned Necronomicon units and your wolves in order to attack. Not recommended to get early on, because of a short duration while pretty long cooldown.",
+				"lycan_feral_impulse":"Great passive for Lycan and his units.",
+				"lycan_shapeshift":"Turns you and all your units into a wolf with a maximum movement speed and many other bonuses. Also, all your units (necronomicon and wolves) get maximum movement speed for the spell duration."
+		}
+	}
+}

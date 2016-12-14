@@ -1,0 +1,77 @@
+{
+	"Hero":"jakiro",
+	"Title":"Carry Jakiro!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"hyperstone"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"invis_sword",
+				"orchid",
+				"assault"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"black_king_bar"
+			],
+			"Ultra farmed":
+			[
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_ice_path",
+			"2":"jakiro_dual_breath",
+			"3":"jakiro_dual_breath",
+			"4":"jakiro_ice_path",
+			"5":"jakiro_dual_breath",
+			"6":"jakiro_ice_path",
+			"7":"jakiro_dual_breath",
+			"8":"jakiro_ice_path",
+			"9":"jakiro_liquid_fire",
+			"10":"jakiro_macropyre",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"jakiro_macropyre",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

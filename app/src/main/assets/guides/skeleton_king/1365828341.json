@@ -1,0 +1,80 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Wraith King noobs guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"stout_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"armlet"
+			],
+			"luxury":
+			[
+				"heart",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"armlet":"This will make you loss healt ... But you can revive",
+				"desolator":"Lower Armor Better Damage"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_vampiric_aura",
+			"3":"skeleton_king_mortal_strike",
+			"4":"skeleton_king_vampiric_aura",
+			"5":"skeleton_king_vampiric_aura",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_mortal_strike",
+			"8":"skeleton_king_hellfire_blast",
+			"9":"skeleton_king_hellfire_blast",
+			"10":"skeleton_king_vampiric_aura",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_mortal_strike",
+			"13":"skeleton_king_hellfire_blast",
+			"14":"skeleton_king_mortal_strike",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"DONT SPAM THIS ABILT UNLESS YOU WANT YOUR REVIVE NOT TO WORK"
+		}
+	}
+}

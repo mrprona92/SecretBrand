@@ -1,0 +1,87 @@
+{
+	"Hero":"treant",
+	"Title":"TREANT THE MASTER FACESMASHER",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade"
+			],
+			"20 MIN IN DIS NEED":
+			[
+				"rapier",
+				"mask_of_madness",
+				"invis_sword"
+			],
+			"NEVER ENOUGH RAPIERS":
+			[
+				"rapier",
+				"rapier",
+				"mask_of_madness",
+				"rapier",
+				"rapier",
+				"invis_sword",
+				"rapier",
+				"rapier",
+				"rapier"
+			],
+			"luxury":
+			[
+				"gem",
+				"sange_and_yasha",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"MANLY TREES START WITH DIS, BE SURE TO ALWAYS CUT TREES TO FEEL GUD, IT GIVES NICE DMG TOO, BETER FARM WITH DIS
+",
+				"gem":"GET DIS IF PISS SHIT FAGGOT TAKE OP RIKI",
+				"ward_observer":"YOU SHLDNT BUY DOSE, IF TEAM DOSNT BUY FOR YOU, MAKE DEM REMEMBER WITH PINGS AND OFFENSIVE LANGUAGE!",
+				"courier":"USLS PISS OF TRASH, NEED MICRO, WHO NEEDS MICRO WHEN YOU CAN ATTACK SHT",
+				"dagon":"SPECIAL MENTION TO DIS ITEM, USE WHEN INVINCIBL, NOBODY WILL KNO WAT KILLED DEM, BOOM HEADSHOT 420!
+",
+				"rapier":"BEST ITEM FOR DMG, GET MANY MANY MANY, IF YOU DONT GET DIS BE4 15MIN YOU R A NO0B AND DONT DESERVE TO PLAY DOTO",
+				"invis_sword":"ONE OF D BEST ITEM IN DA GAME, YOU CAN GO INVINCIBLE WITH IT AND CRIT WHEN YOU COME OUT, BOOM BITCH, GET KILLED BY A TREE",
+				"sange_and_yasha":"GOOD ITEM FOR MVM SPEED, GIVES LOTS OF GOOD STATS, LIKE TRINITY FORCE IN LOL IF CANT AFFORD DIVINE RAPIER CUZ U NUB, BUY ALOT OF THESE, IT RAEPZ!",
+				"mask_of_madness":"MAKS U RUN LIKE CRAZY AND ATTACK RL FAST, RLY RLY GOOD ITEM, U GON NEED MVMT SPEED WITH DIS SINCE U DONT GO BOOTS ( WHO BUYS BOOTS, SCRUBS DO)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"treant_natures_guise",
+			"3":"attribute_bonus",
+			"4":"treant_natures_guise",
+			"5":"attribute_bonus",
+			"6":"treant_natures_guise",
+			"7":"treant_natures_guise",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"treant_leech_seed",
+			"11":"attribute_bonus",
+			"12":"treant_leech_seed",
+			"13":"attribute_bonus",
+			"14":"treant_leech_seed",
+			"15":"attribute_bonus",
+			"16":"treant_leech_seed",
+			"17":"attribute_bonus",
+			"18":"treant_overgrowth",
+			"19":"attribute_bonus",
+			"20":"treant_overgrowth",
+			"21":"treant_overgrowth",
+			"22":"treant_living_armor",
+			"23":"treant_living_armor",
+			"24":"treant_living_armor",
+			"25":"treant_living_armor"
+		}
+	}
+}

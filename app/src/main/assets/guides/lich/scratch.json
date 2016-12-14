@@ -1,0 +1,102 @@
+{
+	"Hero":"lich",
+	"Title":"[MTL] Cold Madness Semi-Carry/Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"courier",
+				"ring_of_regen"
+			],
+			"Basic Itens":
+			[
+				"headdress",
+				"boots",
+				"buckler",
+				"ward_observer",
+				"tpscroll",
+				"flying_courier"
+			],
+			"Mid Game Itens":
+			[
+				"phase_boots",
+				"orb_of_venom",
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"End Game Itens":
+			[
+				"shivas_guard",
+				"refresher",
+				"skadi"
+			],
+			"Situational Itens":
+			[
+				"bloodstone",
+				"invis_sword",
+				"sheepstick",
+				"force_staff",
+				"ancient_janggo",
+				"manta",
+				"sphere",
+				"hand_of_midas",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"You can Run Away!",
+				"mekansm":"You can sell this in End Game.",
+				"ultimate_scepter":"More powerfull bounces in ultimate.",
+				"refresher":"Double Ultimate!!",
+				"shivas_guard":"You can replace with Shadow Blade or Bloodstone."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_frost_nova",
+			"2":"lich_dark_ritual",
+			"3":"lich_frost_nova",
+			"4":"lich_dark_ritual",
+			"5":"lich_frost_nova",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_frost_armor",
+			"9":"lich_dark_ritual",
+			"10":"lich_dark_ritual",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Use this skill along with phase boots to give more hits, good for last hitting too.",
+				"lich_frost_armor":"Protect you and your team, if possible all the time.",
+				"lich_dark_ritual":"Use in all waves creep, keep your mana full.",
+				"lich_chain_frost":"Use this after his team begin the battle for more accuracy.",
+				"attribute_bonus":"..."
+		}
+	}
+}

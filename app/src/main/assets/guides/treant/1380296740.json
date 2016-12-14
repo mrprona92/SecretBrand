@@ -1,0 +1,82 @@
+{
+	"Hero":"treant",
+	"Title":"75thRR` Дерево-целитель (саппорт)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ring_of_protection",
+				"tango",
+				"tango",
+				"branches"
+			],
+			"До 13 минуты":
+			[
+				"flying_courier",
+				"arcane_boots"
+			],
+			"До 25 минуты ":
+			[
+				"blink",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"refresher",
+				"pipe",
+				"heavens_halberd",
+				"ancient_janggo"
+			],
+			"Лучшая сборка(Окончательная)":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"mekansm",
+				"refresher",
+				"sheepstick",
+				"heavens_halberd"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_living_armor",
+			"2":"treant_leech_seed",
+			"3":"treant_living_armor",
+			"4":"treant_natures_guise",
+			"5":"treant_living_armor",
+			"6":"treant_overgrowth",
+			"7":"treant_living_armor",
+			"8":"treant_leech_seed",
+			"9":"treant_natures_guise",
+			"10":"treant_leech_seed",
+			"11":"treant_overgrowth",
+			"12":"treant_leech_seed",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

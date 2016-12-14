@@ -1,0 +1,61 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "phantom_assassin_phantom_strike",
+        "2": "phantom_assassin_stifling_dagger",
+        "3": "phantom_assassin_stifling_dagger",
+        "4": "phantom_assassin_blur",
+        "5": "phantom_assassin_stifling_dagger",
+        "6": "phantom_assassin_phantom_strike",
+        "7": "phantom_assassin_stifling_dagger",
+        "8": "phantom_assassin_phantom_strike",
+        "9": "phantom_assassin_phantom_strike",
+        "10": "phantom_assassin_coup_de_grace",
+        "11": "phantom_assassin_coup_de_grace",
+        "12": "phantom_assassin_blur",
+        "13": "phantom_assassin_blur",
+        "14": "phantom_assassin_blur",
+        "15": "attribute_bonus",
+        "16": "phantom_assassin_coup_de_grace",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "phantom_assassin_coup_de_grace": "Our signature ability. Allows to pwn (almost) anyone with 2-5 hits.",
+        "phantom_assassin_blur": "Anti-phys carry skill.",
+        "phantom_assassin_stifling_dagger": "Nice lasthitting/ganking tool.",
+        "attribute_bonus": "We don\u0027t need them much.",
+        "phantom_assassin_phantom_strike": "Our escaping tool."
+    }
+}, "Hero": "phantom_assassin", "ItemBuild": {
+    "ItemTooltips": {
+        "helm_of_the_dominator": "Lifesteal and we can solo Roshan with Core Items and dominated creep.",
+        "flask": "For healing.",
+        "heart": "More HP.",
+        "vanguard": "More damage block and HP (Regen) if you\u0027re harassed much.",
+        "power_treads": "Movement and attack speed, plus agility boost.",
+        "rapier": "HOLY SHIT \u003e2000 CRITS",
+        "monkey_king_bar": "Works fine against evasive heroes (with Butterfly/Heaven\u0027s Halberd)",
+        "ring_of_health": "For healing, later builds inti Battle Fury.",
+        "poor_mans_shield": "Damage block and agility boost, nice.",
+        "satanic": "Moar lifesteal.",
+        "slippers": "For Poor Man\u0027s Shield.",
+        "tango": "For healing.",
+        "black_king_bar": "Magic immunity and HP/Damage boost.",
+        "boots": "Movement speed, builds into Power Treads.",
+        "bfury": "More damage for crit, HP and MP regen to heal and splash attack for farming."
+    },
+    "Items": {
+        "Starting Items": ["slippers", "slippers", "tango", "flask"],
+        "Early Gamea": ["poor_mans_shield", "ring_of_health", "boots"],
+        "Core Items": ["power_treads", "bfury", "helm_of_the_dominator"],
+        "Luxury Items": ["satanic", "rapier", "black_king_bar"],
+        "Optional Items": ["vanguard", "monkey_king_bar", "heart"]
+    }
+}, "Title": "Yet Another PA Guide"}

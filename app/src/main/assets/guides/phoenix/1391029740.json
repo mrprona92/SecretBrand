@@ -1,0 +1,112 @@
+{
+	"Hero":"phoenix",
+	"Title":"Make it burn dem' KFC in Mid 6.80!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"clarity"
+			],
+			"How may I take your order?":
+			[
+				"tranquil_boots",
+				"ring_of_aquila",
+				"veil_of_discord",
+				"ancient_janggo",
+				"urn_of_shadows",
+				"medallion_of_courage"
+			],
+			"Extra Crispy time":
+			[
+				"blade_mail",
+				"rod_of_atos"
+			],
+			"Would you like some fries with that?":
+			[
+				"heart",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situational":
+			[
+				"radiance",
+				"force_staff",
+				"mekansm",
+				"pipe",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Fly anywhere and gank anywhere? Sounds too good to be true.",
+				"mekansm":"Phoenix is still a support. Get this if your team is lacking one.",
+				"pipe":"Spell block for your team, magic resistance for you.",
+				"urn_of_shadows":"Gives HP on use, good mana regen and more HP for you in total.",
+				"sheepstick":"#Sheepstick",
+				"force_staff":"PUSHY PUSHY",
+				"heart":"Crazy HP Regen? Oh yes...",
+				"shivas_guard":"Armor, survivability and even MORE attack speed slow? Ohohohoho...",
+				"blade_mail":"More damage to you = more damage to them.
+Especially if your shooting your mother trucking godzilla lasers at them.",
+				"radiance":"Very situational, and VERY annoying for your enemies. Along with your spirits, you will seriously wreck somebodies day.",
+				"ancient_janggo":"Gives chase for you and your team mates.",
+				"medallion_of_courage":"Armor reduction for supporting your carry buddies. ",
+				"veil_of_discord":"Gives even MORE damage! It just got buffed to give some more stats too, so its even better than before!",
+				"rod_of_atos":"Gives even more slow. Your enemy ain't going anywhere with this.",
+				"ring_of_aquila":"More armor and stats.",
+				"tranquil_boots":"I chose tranq. boots because it'll give you that extra HP regen when traveling to gank. You can swap these out for power treads if you feel as if you need the extra str/int, but you have your ultimate anyways, remember that."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_sun_ray",
+			"4":"phoenix_fire_spirits",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_sun_ray",
+			"9":"phoenix_sun_ray",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_icarus_dive",
+			"13":"phoenix_icarus_dive",
+			"14":"phoenix_icarus_dive",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Only one point early on will do for this. You can literally fly over anything and everything, but remember, you CAN cancel your flight whenever you want by activating this again.
+
+REMEMBER, YOU CAN FIRE YOUR SPIRITS WHILE FLYING TOO!",
+				"phoenix_fire_spirits":"Remember, these cost 15% of your HP, its an HP removal effect, not phys/magical. Don't be afraid though, these bad boys give an impressive 150 attack speed slow, which can really screw people over early game.
+REMEMBER, YOU CAN USE THIS WHILE ICARUS DIVING.",
+				"phoenix_sun_ray":"This thing does CRAZY pure damage, and can make people extra crispy, FAST. Keep in mind you can move slowly over any obstacle if you activate your glide. You can also turn this thing albeit slowly, just remember that it drains YOUR hp per second you fire!",
+				"phoenix_supernova":"A massive distraction that can ultimately turn the tide of team fights. Your goal is to screw up the enemy's carries and then get away with it. KEEP IN MIND, it takes a CERTAIN NUMBER OF ATTACKS to break this. Feel free to use this when necessary, as it has a relatively low cooldown."
+		}
+	}
+}

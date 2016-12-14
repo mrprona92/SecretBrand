@@ -1,0 +1,98 @@
+{
+	"Hero":"sand_king",
+	"Title":"[DMX] Sand King (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"blink",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"veil_of_discord",
+				"ultimate_scepter",
+				"black_king_bar",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"bottle",
+				"ancient_janggo",
+				"blade_mail",
+				"heart",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"La blink dagger vous permettra de placer plus facilement votre ultimate. (Utilisez votre ultimate, puis téléportez vous dans le teamfight)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_sand_storm",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_sand_storm",
+			"9":"sandking_sand_storm",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_caustic_finale",
+			"13":"sandking_caustic_finale",
+			"14":"sandking_caustic_finale",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sandking_burrowstrike":"Un stun de zone couplé à une téléportation. Ce sort peut vous servir pour engager, pour disable un grand nombre d'adversaires et aussi pour fuir. Vous pouvez utiliser ce sort à travers les falaises.",
+				"sandking_sand_storm":"Un sort d'invisibilité très pratique pour temporiser. Vous pouvez également l'utiliser pour esquiver certains sorts ciblés.",
+				"sandking_caustic_finale":"Un passif qui vous permettra de push/dépush les lanes en un rien de temps en fin de partie.",
+				"sandking_epicenter":"Un ultimate assez difficile à placer sans Blink Dagger mais qui inflige des dégâts de zones très importants tout en ralentissant vos ennemis."
+		}
+	}
+}

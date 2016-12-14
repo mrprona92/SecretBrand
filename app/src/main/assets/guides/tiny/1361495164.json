@@ -1,0 +1,91 @@
+{
+	"Hero":"tiny",
+	"Title":"[DMX] Tiny (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"circlet",
+				"clarity",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"butterfly",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"ancient_janggo",
+				"phase_boots",
+				"manta",
+				"sheepstick"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tiny_avalanche",
+			"2":"tiny_toss",
+			"3":"tiny_avalanche",
+			"4":"tiny_toss",
+			"5":"tiny_avalanche",
+			"6":"tiny_toss",
+			"7":"tiny_avalanche",
+			"8":"tiny_toss",
+			"9":"tiny_grow",
+			"10":"tiny_craggy_exterior",
+			"11":"tiny_grow",
+			"12":"tiny_craggy_exterior",
+			"13":"tiny_craggy_exterior",
+			"14":"tiny_craggy_exterior",
+			"15":"attribute_bonus",
+			"16":"tiny_grow",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tiny_avalanche":"Avalanche est un contrôle de zone très pratique, essayez d'engager avec ce sort avant d'utiliser votre Toss. Si vous arriver à toss un ennemi dans votre avalanche, ce dernier prendra deux fois les dégâts.",
+				"tiny_toss":"Votre second nuke et votre outil indispensable au combo avalanche+toss. N'oubliez pas que vous pouvez toss un ennemi sur lui même ! N'hésitez pas non plus à lancer un allié avec un contrôle AOE pour engager un teamfight.",
+				"tiny_craggy_exterior":"Un passif très pratique qui vous permettra de vous défendre contre les ennemis qui vous attaquent en les étourdissant. Attention cependant, la zone d'action est assez faible.",
+				"tiny_grow":"L'ultimate de tiny le fera grossir de façon drastique augmentant de façon significative votre vitesse de déplacement ainsi que vos dégâts. Par contre votre attaque speed sera réduite. Essayez de faire des items de vitesse d'attaque pour palier à ce problème."
+		}
+	}
+}

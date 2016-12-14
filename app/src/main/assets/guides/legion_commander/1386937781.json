@@ -1,0 +1,116 @@
+{
+	"Hero":"legion_commander",
+	"Title":"[RUS] Carry Legion Commander",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"armlet",
+				"lesser_crit"
+			],
+			"coreItems":
+			[
+				"basher",
+				"greater_crit",
+				"assault",
+				"heart"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"butterfly",
+				"abyssal_blade",
+				"monkey_king_bar",
+				"hand_of_midas",
+				"black_king_bar",
+				"blade_mail",
+				"invis_sword",
+				"heavens_halberd",
+				"sphere"
+			],
+			"Не рекомендуемые":
+			[
+				"ring_of_basilius",
+				"blink",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Даст нам урон  дополнительный урон на начальных стадиях игры.",
+				"stout_shield":"Даст нам большую выживаемость.",
+				"flask":"Вначале у нас очень мало здоровья. Банка здоровья нам очень поможет. ",
+				"tango":"Вначале у нас очень мало здоровья. Нам не помешает дополнительные  вещь  для восстанавливая здоровья.",
+				"phase_boots":"Отличная прибавка к атаке +24.",
+				"hand_of_midas":"Можно купить если успеете его собрать до 8 мин.",
+				"assault":"Дает отличную прибавку к скорости атаки +35 и дает нам недостающую броню которая увеличивает нашу выживаемость!",
+				"heart":"Очень поможет если вы ощущаете нехватку в своем здоровье.",
+				"black_king_bar":"Пригодиться если в команде соперников присутствует магия которая оглушает вас.",
+				"sphere":"Пригодиться вам если в команде противника много дизейблов (шелушения)",
+				"blade_mail":"Если ваши соперники имеют много здоровья этот артефакт пригодиться вам. Не забывайте активировать его перед использовании своей ультимативной способности!",
+				"monkey_king_bar":"Можно собрать если в противоположной команде игрок(и) собрали butterfly.",
+				"butterfly":"Если вам не хватает скорости атаки этот артефакт отлично подойдет.",
+				"greater_crit":"Не забудьте обновить свой  Crystalys",
+				"basher":"Basher очень поможет в остановке цели которая от нас убегает. Так же оглушит врага во время вашей ультимативной способности!",
+				"lesser_crit":"Crystalys отличная вещь которая пригодиться нам до конца игры. 3 пассивная способность может дать ответный критичкиский удар противнику.",
+				"armlet":"Очень помогает выжить в трудных ситуациях. Главное не забывать активировать его при использовании своей ультимативной способности!",
+				"invis_sword":"На ваше усмотрение.",
+				"mjollnir":"Неплохой артефакт, прибавляет +80 к скорости атаки и периодически выпускает молнии которые наносят урон.",
+				"abyssal_blade":"По вашему желанию можете улучшить свой basher",
+				"heavens_halberd":"Если ваш соперник имеет очень много урона с руки этот артефакт поможет вам обезоружить его!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"legion_commander_press_the_attack",
+			"2":"legion_commander_overwhelming_odds",
+			"3":"legion_commander_press_the_attack",
+			"4":"legion_commander_overwhelming_odds",
+			"5":"legion_commander_press_the_attack",
+			"6":"legion_commander_duel",
+			"7":"legion_commander_press_the_attack",
+			"8":"legion_commander_overwhelming_odds",
+			"9":"legion_commander_moment_of_courage",
+			"10":"legion_commander_moment_of_courage",
+			"11":"legion_commander_duel",
+			"12":"legion_commander_overwhelming_odds",
+			"13":"legion_commander_moment_of_courage",
+			"14":"legion_commander_moment_of_courage",
+			"15":"attribute_bonus",
+			"16":"legion_commander_duel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"legion_commander_overwhelming_odds":"Поможет нам фармить пачку крипов на ранней стадии игры. С помощью этой способность вы с легкостью может догнать соперника!",
+				"legion_commander_press_the_attack":"Способность пригодиться нам на всех стадиях игры. Дает отличный бонус к скорости атаки, так же дает нам большую регенерацию здоровья!",
+				"legion_commander_moment_of_courage":"Способность пригодиться нам в середине стадии игры, главный плюс это вапмиризм который восстанавливает нам здоровье.",
+				"legion_commander_duel":"Эту способность нужно использовать с большой осторожностью. Если вы не уверены что вы выиграете лучше не используете ее на сопернике так как она даст прибавку к атаке вашему противнику на которого вы применили вашу ультимативную способность.",
+				"attribute_bonus":"Прокачиваем только на 15,17,18,19,20,21,22,23,24,24 уровне вашего героя."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Thunder Clap",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Раскалывает землю под ногами, нанося урон всем врагам в области действия, а также снижая их скорость атаки и передвижения.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">400/400/400/400</font></b><br/>УРОН: <b><font color=\"#ffffff\">100/175/250/300</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">25%/35%/45%/55%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">25/35/45/55</font></b><br/>ДЛИТЕЛЬНОСТЬ НА ГЕРОЯХ: <b><font color=\"#ffffff\">4</font></b><br/>ДЛИТЕЛЬНОСТЬ НА КРИПАХ: <b><font color=\"#ffffff\">8/8/8/8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/105/130/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13",
+        "lore": "Удар крепкой бочки Мангикса — знак начала веселья.",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_thunder_clap",
+        "youtube":"iff_66q_-WI",
+        "id": 0
+    },
+    {
+        "dname": "Drunken Haze",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Опьяняет врагов в небольшом радиусе, из-за чего те передвигаются медленнее и могут промахнуться при атаке.",
+        "notes": "Снаряд этой способности нельзя сбить с цели.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">200</font></b><br/>ДЛИТЕЛЬНОСТЬ НА ГЕРОЯХ: <b><font color=\"#ffffff\">8/8/8/8</font></b><br/>ДЛИТЕЛЬНОСТЬ НА КРИПАХ: <b><font color=\"#ffffff\">12/12/12/12</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">14%/18%/22%/26%</font></b><br/>ШАНС ПРОМАХА: <b><font color=\"#ffffff\">45%/55%/65%/75%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8",
+        "lore": "Орден Ойо знает, как решить любую проблему — еще по одной!",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_drunken_haze",
+        "youtube":"o5T4GnOGj5o",
+        "id": 1
+    },
+    {
+        "dname": "Drunken Brawler",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Дает шанс уклониться от атаки или нанести критический урон. Крит или уклонение всегда будут срабатывать, если вы не атаковали или не были атакованы соответственно в течение нескольких последних секунд.<br/>Сочетается по закону убывающей полезности с другими источниками уклонения.",
+        "notes": "Гарантированная критическая атака и гарантированный уворот имеют разные таймеры.",
+        "dmg": "",
+        "attrib": "ШАНС УКЛОНЕНИЯ: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ШАНС КРИТА: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>КРИТ. УРОН: <b><font color=\"#ffffff\">200%</font></b><br/>ВРЕМЯ ДО ОБЯЗАТЕЛЬНОГО СРАБАТЫВАНИЯ: <b><font color=\"#ffffff\">16/14/12/10</font></b>",
+        "cmb": "",
+        "lore": "Получив титул Хмелевара ордена Ойо, Мангикс также доказал всем, что он мастер опьянения.",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_drunken_brawler",
+        "youtube":"mYA6AFcxVhk",
+        "id": 2
+    },
+    {
+        "dname": "Primal Split",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Разделяет Brewmaster на трех воинов-элементалей, специализированных на выживании. Если хотя бы один из них выживет до окончания действия способности, Brewmaster переродится.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "На Earth Element будут действовать все ауры Brewmaster, включая раскрытие невидимости.<br/>Воин Fire проходит сквозь других юнитов.<br/>По окончании заклинания ваш герой появится на месте одного из еще живых элементалей в следующем порядке: Earth, Storm, Fire.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15/17/19</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/150/175<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 140/120/100",
+        "lore": "Не ясно, осознает ли Мангикс свою могучую связь с природой, ибо она чаще всего проявляется во время пьянки.",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_primal_split",
+        "youtube":"uLqYQIf9OuE",
+        "id": 3
+    }
+]

@@ -1,0 +1,129 @@
+{
+	"Hero":"sniper",
+	"Title":"Easy, simple, godlike Sniper build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"circlet",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"wraith_band",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"lesser_crit",
+				"yasha",
+				"desolator"
+			],
+			"End Game Items":
+			[
+				"travel_boots",
+				"greater_crit",
+				"manta",
+				"monkey_king_bar",
+				"butterfly"
+			],
+			"luxury":
+			[
+				"mask_of_madness",
+				"mjollnir",
+				"heart",
+				"skadi",
+				"black_king_bar",
+				"sphere",
+				"satanic"
+			],
+			"Extremely Situational":
+			[
+				"hand_of_midas",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Slippers for a bit more damage!",
+				"branches":"Every attribute counts!",
+				"circlet":"Why not some attributes hmm?",
+				"boots":"Boots of speed speaks for itself. Get this ASAP.",
+				"magic_wand":"Woo! Some minor healing and, wait for it, more attributes! I don't go a game without this. This item can  save your life in team fights or when you get ganked. Don't go a game without it!",
+				"tango":"How fun, a little healing item :D",
+				"travel_boots":"Sniper needs to be places! He cannot shoot across the map! Build this late game when you need to push your lanes and towers. Or shadow blade out of fights and go ahead and teleport back to your fountain.",
+				"power_treads":"Switch to strength for more health, or switch to agility for more attack speed!",
+				"hand_of_midas":"Is your farm not good enough for whatever reason? Did the enemy keep shutting you down from your farm? Well, Sniper can make a great comeback late game, why not pick this up and get that extra farm in?",
+				"wraith_band":"Yay, a lot more attributes!",
+				"heart":"Tired of sniping? Why not convert into tank mode? And charge into the enemy lines and destroy them all!",
+				"black_king_bar":"Nearly every hero needs this, and recently I have found myself mainly targeted by enemy disables, and I tried this out and managed to help my team out a lot more.",
+				"sphere":"An alternative to BKB, and the regen is really nice to have, as well as blocking nearly any kind of spell every few seconds. So now that bounty hunter can't track you, and you can go invis and fall back safely.",
+				"rapier":"Are you owning so hard, that you haven't even died yet? And the enemy team has no chance of coming back at all? Pick this up and END THE GAME.",
+				"monkey_king_bar":"More of a luxury item. As I only build this when I'm up against evasion heroes (aka phantom assassin and brewmaster).",
+				"butterfly":"Butterfly! The ultimate item for nearly all agility heroes! Evasion, a lot of speed everywhere, and ownage to go around!",
+				"greater_crit":"Bahaha, watch as the enemy hero's health deplete as you crit them to death!",
+				"manta":"Ahh, manta! If the enemy keeps targeting you out of team fights, why not surprise them with more of you that will still pwn them all!",
+				"lesser_crit":"Your crit item. You cannot go on without this. You need this to increase your damage and scare the other heroes away.",
+				"invis_sword":"This item is sniper's must have. Get this as early as possible. No questions. Just get it. But be careful for things that will reveal you! And with the new cooldown, try and use this as an escape.",
+				"satanic":"This lifesteal here is FREAKING AMAZING! It can save your life if you are being nuked down by the enemy. Careful though, its a unique attack modifier.",
+				"mjollnir":"If you do not seem to be melting the creep waves (which you should with desolator and daedalus) get this and see the sparks fly! Great attack speed comes from this, but it is situational, because you should be able to melt off the enemies' faces anyway.",
+				"skadi":"This is an alternative to Desolator. Do not get both, as they are unique attack modifiers, this is situational and I would get it if there are heroes that keep running away and I just simply need more stats and would like to finish them off.",
+				"desolator":"Hehe armor piercing! This is what makes sniper feared. Heroes and even towers fear this weapon, as it takes away their armor and leaves them vulnerable to the crits that you deal out with crystalys.",
+				"yasha":"Hey, why not some attributes that can make sniper much more faster. Build this into manta style later on.",
+				"mask_of_madness":"Not shooting fast enough? Necrolyte taking away your health too much? Why get some attack speed and lifesteal, so you can stay in fights and show them whos boss."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_headshot",
+			"2":"sniper_take_aim",
+			"3":"sniper_headshot",
+			"4":"sniper_take_aim",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"sniper_shrapnel",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sniper_shrapnel":"This ability is somewhat useless. Only one level can be useful against ambushers as it light up the area you shoot it in. Oh, and if rubick is on the other team, I suggest picking this at level 5 so you can spam this and don't have to worry about your assassinate being stolen.",
+				"sniper_headshot":"This is the most annoying yet useful ability you have. The mini bash can get rid of abilities that heroes charge up (aka sand king, crystal maiden).",
+				"sniper_take_aim":"This is what a sniper is for. Shooting enemy heroes and towers at (usually) a safe distance.",
+				"sniper_assassinate":"Ok, there is a small trick here. (At level 1) Watch the enemies health. Try and harass them to get their health down past the last bar. Once it is there, you are guaranteed to get the kill (unless of course they are healing or have healing abilities or can \"dodge\" the assassinate) ",
+				"attribute_bonus":"Woohoo! More attributes!"
+		}
+	}
+}

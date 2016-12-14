@@ -1,0 +1,109 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"6.82 - Standard Phantom Assassin (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"Core - Early Carry":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"black_king_bar",
+				"vladmir",
+				"basher"
+			],
+			"Core - Farming Carry":
+			[
+				"phase_boots",
+				"bfury",
+				"black_king_bar",
+				"helm_of_the_dominator",
+				"basher"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"satanic",
+				"abyssal_blade",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"vladmir":"Vladmir's is your survivability and demand for faster team-fights as your goal is tear down foes fast and take advantage of your early-game stats and ability.",
+				"monkey_king_bar":"Straight damage, helps against evasion carries (such as Phantom Assassin or heroes that buy Heaven's Halberd or Butterfly)",
+				"butterfly":"More evasion stacks with Phantom Assassin's passive ability. Butterfly offers everything that this hero loves: evasion, damage, speed!
+
+Use Flutter to keep sticking onto enemies or to better flee from messy situations. Phantom Assassin is all about coming late to parties and leaving early.",
+				"basher":"Get Skull Basher to keep your foes in place and for rivaling physical carries. The extra damage and its build-up towards Abyssal Blade is fantastic for this hero.",
+				"bfury":"This is your farming tool and your best way to spread your critical Coup de Grace passive to your enemies!",
+				"helm_of_the_dominator":"Control specific jungle neutral creeps that offer you more damage or immobilizing ability. The lifesteal also works on your critical strikes, which keeps Phantom Assassin alive for much longer periods.",
+				"ancient_janggo":"Extra health and attack speed helps alleviate Phantom Assassin's reliance on her Phantom Strike and pushes for more early-game team fights.",
+				"heavens_halberd":"Up the evasion percentage and disable your victims with Heaven's Halberd. Not always necessarily, but it can prove more useful than trying for a much larger item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_blur",
+			"4":"phantom_assassin_stifling_dagger",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Stifling Dagger is a good way to get last hits if aggressively harassed out of lane. Be sure to use it to follow-up on fleeing heroes as well. It is also affected by your ultimate, be sure to spam it often!",
+				"phantom_assassin_phantom_strike":"Remember that Phantom Strike gives you an increased attack speed. You can also use it to escape or towards an ally to avoid damage and flee from ganks.",
+				"phantom_assassin_blur":"This ability does stack with other evasion items such as Butterfly and Heaven's Halberd. We get an early level in this for its passive to not be seen on the mini-map.
+
+Using Blur's passive, you can freely farm without your opponents' noticing your absence on the minimap.",
+				"phantom_assassin_coup_de_grace":"This ultimate does not stack with Daedalus. Works with Battlefury and your harassment tool: Stifling Dagger."
+		}
+	}
+}

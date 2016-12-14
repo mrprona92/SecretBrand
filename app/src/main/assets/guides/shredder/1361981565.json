@@ -1,0 +1,97 @@
+{
+	"Hero":"shredder",
+	"Title":"Timbersaw Guid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"stout_shield",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"arcane_boots",
+				"vanguard"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"shivas_guard",
+				"heart",
+				"cyclone",
+				"rod_of_atos",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"assault",
+				"hood_of_defiance",
+				"blade_mail",
+				"black_king_bar",
+				"ancient_janggo",
+				"pipe",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Armor at the beginning is very much needed.",
+				"stout_shield":"Very helpful at the initial stage of the game.",
+				"ring_of_basilius":"Regeneration mana + armor.",
+				"sheepstick":"Lots of little intelligence + strength + regeneration MP.
+Very good active skill will help to escape or catch up.
+Very helpful in the fight.",
+				"cyclone":"Help to survive or initiate a fight.",
+				"heart":"Will prevent unnecessary health.",
+				"black_king_bar":"Immune to spell very well.",
+				"shivas_guard":"Mana + armor. What do you need?",
+				"bloodstone":"The most useful item is for Timbersaw.",
+				"vanguard":"Helps not to die.",
+				"blade_mail":"You can catch a strong enemy by surprise.",
+				"hood_of_defiance":"It will help us a lot if against mages.",
+				"arcane_boots":"Mana very helpful.",
+				"ancient_janggo":"speed + stats"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_whirling_death",
+			"3":"shredder_timber_chain",
+			"4":"shredder_whirling_death",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_reactive_armor",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

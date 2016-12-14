@@ -1,0 +1,105 @@
+{
+	"Hero":"windrunner",
+	"Title":"I run like the wind",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"mekansm",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"orchid",
+				"monkey_king_bar",
+				"sphere",
+				"heavens_halberd",
+				"bottle"
+			],
+			"Support (if lacking)":
+			[
+				"ward_observer",
+				"courier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Not an absolutely awful item, but Force Staff is almost always the better option.",
+				"ghost":"Get this item whenever you need even more physical protection, really great item to counter melee carries like N'aix or even to remove Naga's net.",
+				"flask":"Since you should almost always go for one of the support items, this is the most optimal build at level 1. If you can afford it due to overflow of support in your team, get a magic stick (granted that it will be useful in your lane) since you'll almost always want a magic wand in the early-mid game.",
+				"bottle":"If you have no other player on your team who will be picking up runes, you could get a bottle. It provides great consistent regeneration and will be useful when you gank (which you should be doing).",
+				"ward_observer":"You'll always want wards up on the map unless you have mega creeps and the enemy is just waiting for you to finish. Place them wherever you need protection and if you have none at the start of the game, pick a set up and place one on the ward spot.",
+				"courier":"Always buy at the start of the game if you don't have one. Couriers can make or break the laning phase.",
+				"phase_boots":"Allows for great speed, fleeing and chasing becomes a lot easier with this item. In addition, easier shackles and powershots will be available. Note that whenever you cast something, the phase boots effect is removed  which means: Use windrun, then phase boots (preferrably take turns with them).",
+				"mekansm":"Mekansm allows for great survivability, pushing power and adds a lot to the team.",
+				"sheepstick":"Scythe of Vyse is great to help with the crowd control of the team. Get this if you can get enough gold and the enemy team has one or two very important heroes for their fights to work.",
+				"orchid":"Great to counter heroes that rely on using spells to escape or initiate. If you can prevent an Enigma from getting his Black Hole off, an Anti-Mage from blinking or just a Riki from going invisible, it's definitely worth it. It also grants some extra autoattack power to Windrunner.",
+				"force_staff":"Force Staff grants you great mobility and makes it a lot easier to latch your shackles and reach targets with power shot farther away.",
+				"sphere":"Linken's is a great item if you're drowning in farm for some reason. Note that in most cases Mekansm is the greater option unless they have a few very strong single target ability.",
+				"monkey_king_bar":"MKB can be acquired if the game goes really late game and you need to help with carrying. Its synergy with your ultimate is perfect as well.",
+				"heavens_halberd":"More or less a poor man's Scythe of Vyse, or even an extension of it. With this you can lock a BKB-less carry down for a very long time if combined with Scythe."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_shackleshot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_focusfire",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Getting shackle maxed out after powershot is important due to its great efficiency as long as you land it.",
+				"windrunner_powershot":"Power shot is what you'll want to max first due to it being your bread and butter. You can use this a lot if you're carrying clarities which you can abuse. Note that it can be cancelled after 0.6 seconds and still deal the maximum amount of damage (might get fixed?).",
+				"windrunner_windrun":"You can basically go for any ability at level 1. I prefer waiting with getting any abilities until I need to use them. But if you want to be on the safe side, go for windrun at level 1. Two points in this ability is recommended before getting your ultimate.",
+				"windrunner_focusfire":"Recommended to not get this until your shackle and powershot are maxed out, it can situationally be picked up earlier if your team lacks pushing power. The spell is great to use on towers or key heroes of the enemy team.",
+				"attribute_bonus":"Standard stats build."
+		}
+	}
+}

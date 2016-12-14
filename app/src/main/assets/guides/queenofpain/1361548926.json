@@ -1,0 +1,101 @@
+{
+	"Hero":"queenofpain",
+	"Title":"FoTU' Chaos guide to a ganker Queen of Pain",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"mantle",
+				"branches",
+				"branches",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"lesser_crit",
+				"power_treads"
+			],
+			"Late Game":
+			[
+				"ultimate_scepter",
+				"skadi"
+			],
+			"If you have extra money":
+			[
+				"greater_crit",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"This mantle will help you make your null talisman in early game a little faster.",
+				"branches":"This branches provide good stats and will help you create an early game wand, while in the meantime giving you health, mana and attack speed.",
+				"boots":"This boots in early game will help you escape quickly from ganks combined with your blink agility.",
+				"flask":"One salve is enough at early game because QoP has the ability to quickly escape death.",
+				"bottle":"As QoP it is very important to get almost full rune control, since a simple invisibility rune will help you do a perfect first blood, the bottle will help you keep the runes for 2 minutes so you have extra time before using them, while providing a good active health and mana regeneration.",
+				"tango":"3 tangos will provide enough health at early game so you can save your salve for an emergency.",
+				"power_treads":"This boots are perfect for QoP since they will give her a nice attack speed bonus. I recommend to put them in str first, since it will give you a extra 152 hp adding more time for you to react ganks and to escape safely.",
+				"null_talisman":"Talisman is important in QoP since it will give you good stats and a damage boost which is great for early game ganks, it is not necessary to make more than one, since you may want to save up for more important core items.",
+				"orchid":"This orchid is perfect for QoP in mid-game, it is better than scepter, it will give you a total of 55 extra damage and a nice boost to your attack speed, plus a extraordinary mana regen, which QoP needs in mid game. This silence is perfect for ganks, since it will add a extra 30% damage.",
+				"ultimate_scepter":"It is very important to get scepter, you can replace this item for crystalis, since scepter will grant you a sick damage bonus to your ultimate plus a awesome cooldown, you can spam your ultimate even to creep waves. This item also adds nice health and mana bonus that will grant you more lifetime.",
+				"monkey_king_bar":"You can either have this or daedalus, MKB will grant you a kind of mini stun with extra damage, that will help to chase your target and quickly kill it. This MKB brings a lot of damage plus attack speed and the mini bash. If you are playing against escapee enemy heroes this is your item.",
+				"greater_crit":"You can finish daedalus and have more critical power plus the chance to crit in every 1 of 4 attacks, in the late game it will be almost every second since your attack speed will be very fast. If you are playing against hard to kill enemies, this is your item.",
+				"lesser_crit":"Crystalis will grant you a cheap but powerful critical strike, which it will help kill enemies faster, since you have attack speed bonus from orchid and power treads.Note that this item can be replaced by the arghanim scepter.",
+				"skadi":"Skadi will bring you the victory if you manage to farm it, you will have insane stats and a slow in every attack that you have, plus the chance to crit with crystalis, you will be a drow ranger with this. Get it if you can."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_blink",
+			"2":"queenofpain_scream_of_pain",
+			"3":"queenofpain_shadow_strike",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_shadow_strike",
+			"9":"queenofpain_shadow_strike",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_blink",
+			"14":"queenofpain_blink",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"This is your main tool for a quickly gank, this ability will grant a slow on a enemy target plus poison damage over time. A perfect combo can be to blink in, poison dagger and then scream. Because your target is slowed you can easily chase them if needed.",
+				"queenofpain_blink":"Blink is the way QoP has to escape, one level on this ability is enough to escape ganks. A good tactic late game when you have blink at max is to blink behind the enemies chasing you so you fool them. If you are not in trouble do NOT max this ability first.",
+				"queenofpain_scream_of_pain":"Scream of Pain is QoP main nuke, you can spam this ability with the low cooldown it has, it is also effective for last hitting creeps that are near death in a near area. This ability can also hit invisible targets nearby.",
+				"queenofpain_sonic_wave":"QoP ultimate ability should be used to either initate or finish, I recommend it is used to finish since it does not do much damage at the beginning. Late game when you get aghanim scepter this will be a very fast nuke with a lot of damage.",
+				"attribute_bonus":"As the guide says, you will be getting a lot of stats so there is no need to get stats from levels in early-mid game, just leave them as usual for the final levels."
+		}
+	}
+}

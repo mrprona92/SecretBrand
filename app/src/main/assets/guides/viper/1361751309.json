@@ -1,0 +1,106 @@
+{
+	"Hero":"viper",
+	"Title":"6.82 - Standard Viper (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"circlet",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"heart",
+				"monkey_king_bar",
+				"butterfly"
+			],
+			"Last Updated: 11/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Enhance your damage and your speed with these ideal boots. Treads is also a good alternative boots for its stats.",
+				"mekansm":"Mekansm offers a great regeneration for the mana you almost never fully use. Good armor in combination with your Corrosive Skin. This is pretty much essential when you're building an incredibly tanky carry such as Viper.",
+				"urn_of_shadows":"As you hit level 6 relatively fast. Urn of Shadows might be a pocket item you want to snag.",
+				"ultimate_scepter":"Aghanim's has an incredible cooldown and great improvement to your ultimate, making it worth it on all fronts to consecutively take down foes.",
+				"heart":"The only thing Viper needs more is survivability. Heart of Tarrasque furthers that goal with ease and makes targeting Viper in fights a pointless feat.",
+				"black_king_bar":"You should be taking most damage spells as you are able to take the damage and your passive should help shift the battle in your team's favour.
+
+However, taking several stuns to the face is not ideal.",
+				"monkey_king_bar":"Pure Damage. Viper, after bulking up with evasion and health, wants the damage that Monkey King Bar is known for.",
+				"butterfly":"After health comes Evasion and there is no better item than Butterfly for Viper. Butterfly hastens your attack speed and furthers your damage tremendously.",
+				"invis_sword":"If intending to gank or getting ganked often, Shadow Blade is the item for you.",
+				"ancient_janggo":"We get drums to help with your chasing capabilities and your survivability; building you even tankier."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_nethertoxin",
+			"3":"viper_nethertoxin",
+			"4":"viper_corrosive_skin",
+			"5":"viper_nethertoxin",
+			"6":"viper_viper_strike",
+			"7":"viper_nethertoxin",
+			"8":"viper_corrosive_skin",
+			"9":"viper_corrosive_skin",
+			"10":"viper_corrosive_skin",
+			"11":"viper_viper_strike",
+			"12":"viper_poison_attack",
+			"13":"viper_poison_attack",
+			"14":"viper_poison_attack",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"Each use of this ability resets the effect's duration. Be sure to constantly keep this effect going.",
+				"viper_nethertoxin":"Nethertoxin works perfectly with Poison Attack as the slow and damage amplifies with each hit. You definitely want these two abilities over Corrosive Skin.",
+				"viper_corrosive_skin":"Enemies who choose to fight you will be furthered crippled in combination with your other ability: Poison Attack. Plus, Viper should have Mekansm, making all ganks on you nearly fruitless.",
+				"viper_viper_strike":"This is your opener and a great ability to wear down physically-attacking or any fleeing foes. After Aghanim's Scepter, spamming this ability would give an incredible advantage to your team."
+		}
+	}
+}

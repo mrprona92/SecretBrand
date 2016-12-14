@@ -1,0 +1,112 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"Oompa's Spirit Breaker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"mask_of_madness"
+			],
+			"Mid Game":
+			[
+				"black_king_bar",
+				"assault"
+			],
+			"Late Game":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"heart"
+			],
+			"Situational Consumables":
+			[
+				"dust",
+				"tpscroll",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"heavens_halberd",
+				"invis_sword",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Provides early survivability.",
+				"belt_of_strength":"Builds into Power Treads.",
+				"gloves":"Builds into Power Treads.",
+				"boots":"Don't be afraid to get boots early. Increases bash damage and provides the potential to harass.
+
+Builds into Power Treads.",
+				"dust":"Great for revealing heroes that try to escape with invisibility.",
+				"tango":"Provides early survivability. Buy more with the courier if  you feel it's necessary.",
+				"tpscroll":"You may want to carry one of these if you think you will need to teleport back to base and heal quickly or if you get stuck somewhere on the map while charging and need a way out.",
+				"power_treads":"Don't be afraid to get boots early. Increases bash damage and provides the potential to harass.",
+				"ultimate_scepter":"Improves Nether Strike. But not generally recommended.",
+				"assault":"Generally good item for late-game. Makes up for Spirit Breaker's lack of attack speed and provides more survivability. Also benefits your team.",
+				"heart":"Provides good damage, health, and health regeneration. A good item for rounding out your hero and great if you need additional survivability.",
+				"black_king_bar":"Active magic immunity is great for initiating as well as ganking disablers. Activating while charging will not cancel the charge.",
+				"monkey_king_bar":"Good for countering late-game carries. Provides additional damage and counters heroes who have evasion or purchase butterfly.",
+				"greater_crit":"Great for additional damage late-game.",
+				"invis_sword":"Activating Shadow Walk will not cancel charge. This can work well for surprise ganking enemies when they have wards up. But not generally recommended.",
+				"satanic":"If the game somehow goes long enough you could sell your Mask of Madness and go for Satanic.",
+				"mask_of_madness":"Active movement and attack speed synergize great with Greater Bash. Further increasing Spirit Breaker's damage and chance to bash.",
+				"ancient_janggo":"Synergizes well with Spirit Breaker's abilities. Also benefits your team. But not recommended if it's already owned by a teammate.",
+				"smoke_of_deceit":"This can be used while charging for surprise ganks against enemies when they have wards up.",
+				"heavens_halberd":"Good for countering late-game carries. Provides evasion, chance to slow, and the active can be used to disarm an opponent. Disarm will not work through magic immunity."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_charge_of_darkness",
+			"2":"spirit_breaker_empowering_haste",
+			"3":"spirit_breaker_greater_bash",
+			"4":"spirit_breaker_charge_of_darkness",
+			"5":"spirit_breaker_charge_of_darkness",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_charge_of_darkness",
+			"8":"spirit_breaker_empowering_haste",
+			"9":"spirit_breaker_empowering_haste",
+			"10":"spirit_breaker_empowering_haste",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_greater_bash",
+			"13":"spirit_breaker_greater_bash",
+			"14":"spirit_breaker_greater_bash",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spirit_breaker_charge_of_darkness":"Put your first point into this because it's the most useful when there's a opportunity for first blood. Also allows you to get across the map much faster and can be used to escape if you are about to die.",
+				"spirit_breaker_empowering_haste":"This aura increases the movement speed of you and nearby allies. Increases the damage on your Greater Bash. Also good for just chasing enemies down or running away.",
+				"spirit_breaker_greater_bash":"The damage of these bashes is further increased by your movement speed.",
+				"spirit_breaker_nether_strike":"A great ability for finishing enemies off, stopping them from escaping, or just as additional stun when required."
+		}
+	}
+}

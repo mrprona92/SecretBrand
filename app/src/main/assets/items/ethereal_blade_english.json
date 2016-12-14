@@ -1,0 +1,19 @@
+{
+  "dotaId": "ethereal_blade",
+  "id": 176,
+  "img": "ethereal_blade_lg.png",
+  "dname": "Ethereal Blade",
+  "qual": "epic",
+  "cost": 4700,
+  "desc": "Active: Ether Blast - Launches a projectile which converts the target to ethereal form, increasing any incoming magic damage they take, while rendering them immune to physical damage and unable to attack.  Can be cast on self.  If the target is an enemy, it is also slowed, and takes 2.0x your primary attribute + 75 as magical damage.<br/>Using a Town Portal Scroll or Boots of Travel will not dispel Ethereal Form.",
+  "notes": "Shares cooldown with Ghost Scepter.<br/>Ethereal units take 40% bonus magic damage.<br/>Lasts an extra second on Self or Allied cast.",
+  "attrib": "+ 40 Agility<br/>+ 10 Strength<br/>+ 10 Intelligence<br/>BLAST ENEMY MOVE SLOW: 80%<br/>BLAST ENEMY DURATION: 3<br/>BLAST ALLY/SELF DURATION: 4<br/>INCREASED MAGIC DAMAGE: 40%",
+  "mc": 150,
+  "cd": 30,
+  "lore": "A flickering blade of a ghastly nature, it is capable of dealing damage in both magical and physical planes.",
+  "components": [
+    "eagle",
+    "ghost"
+  ],
+  "created": true
+}

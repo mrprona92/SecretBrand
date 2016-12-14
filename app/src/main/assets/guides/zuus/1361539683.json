@@ -1,0 +1,95 @@
+{
+	"Hero":"zuus",
+	"Title":"Zeus Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"refresher",
+				"veil_of_discord",
+				"sheepstick",
+				"cyclone",
+				"rod_of_atos",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tango":"Zeus is a mid hero and should rush a bottle. Buy these items and save up for the bottle.",
+				"sheepstick":"The ultimate item for int heroes -great stats, great mana regen, great disable. If you are not doing very well however, consider getting Euls instead.",
+				"cyclone":"If you are not doing so well, consider getting Euls - solves your mana problems and helps you escape.",
+				"force_staff":"Your only escape mechanism. Without it you will die... A LOT. Could be replaced by a Blink Dagger.",
+				"ultimate_scepter":"One of the best items for Zeus. Usually you want to get this after your Force Staff.",
+				"refresher":"Refresher coupled with a Scepter just 2 shots squishies.",
+				"bloodstone":"If you are doing extremely well to start off with, consider turning your Arcane Boots into a Bloodstone. ONLY get it if you can afford it before 20mins.",
+				"arcane_boots":"The only boots for Zeus (apart from late game Travels I guess). You need the mana capacity and regen to spam your skills.",
+				"veil_of_discord":"Very nice if you have other nukers on the team. Wouldn`t recommend it if Zeus is the only one as Veil is expensive and doesn`t provide helpful stats.",
+				"rod_of_atos":"For the extra HP. Slow is also nice."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Gotten first in order to last hit and harass early.",
+				"zuus_lightning_bolt":"Nothing to say here, max this first and melt faces.",
+				"zuus_static_field":"Effectively doubles the damage of Arc Lightning and should be leveled second.",
+				"zuus_thundergods_wrath":"After the 25% magic resist, it deals 168/262/356 damage without Aghanims. With a Scepter it deals (after reductions) 330/405/480 damage."
+		}
+	}
+}

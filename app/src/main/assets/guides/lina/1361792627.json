@@ -1,0 +1,78 @@
+{
+	"Hero":"lina",
+	"Title":"Hoss's ''Hot Hot Heat'' Nuker build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"circlet",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"bracer",
+				"bracer",
+				"void_stone"
+			],
+			"Mid Game":
+			[
+				"sheepstick",
+				"bloodstone",
+				"ultimate_scepter"
+			],
+			"Late Game":
+			[
+				"mekansm",
+				"veil_of_discord",
+				"desolator"
+			],
+			"Situational":
+			[
+				"cyclone",
+				"blink",
+				"shivas_guard",
+				"ghost",
+				"urn_of_shadows"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_fiery_soul",
+			"5":"lina_fiery_soul",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_fiery_soul",
+			"10":"lina_light_strike_array",
+			"11":"lina_laguna_blade",
+			"12":"attribute_bonus",
+			"13":"lina_dragon_slave",
+			"14":"lina_light_strike_array",
+			"15":"lina_fiery_soul",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

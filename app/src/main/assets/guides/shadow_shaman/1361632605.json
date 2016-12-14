@@ -1,0 +1,119 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"Fish's guide to the farming Shadow Shaman",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"circlet",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"Early Game":
+			[
+				"magic_stick",
+				"arcane_boots",
+				"bracer",
+				"magic_wand",
+				"tpscroll",
+				"flying_courier"
+			],
+			"Core Items":
+			[
+				"cyclone",
+				"mekansm",
+				"heart",
+				"tpscroll"
+			],
+			"Situational Items":
+			[
+				"travel_boots",
+				"blink",
+				"gem",
+				"pipe",
+				"shivas_guard",
+				"ward_observer"
+			],
+			"Don't Get this!":
+			[
+				"ultimate_scepter"
+			],
+			"Consider this!":
+			[
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Combined with the tanking of heart allows you to initiate fights by jumping in and crowd controling 3 people instantly with eul's and your spells, so your team can follow up with 3 free seconds of damage and whomever they want on the enemy team. Shouldn't be underestimated.",
+				"gauntlets":"Strength from gauntlets lets you be more agressive with shackels or hex to iniate ganks from junglers or while in a trilane earlier with less fear of dying to enemy creeps. Everytime you live through an early fight with 15 hp remember why it happened.",
+				"branches":"Provides early game stats and builds into a later wand, not much to say here.",
+				"circlet":"Circlet provides excellent early game stats while only taking up a single item slot, however, it can be replaced with another ironwood branch and some clarities if you plan to spam any of your spells in lane.",
+				"gem":"If a gem is nessesary and you have the room, you likely should be holding it. You are unlikely to lose it with heart and eul's, and once you find invisible units, you have the crowd control to hold them there so your teammates can back you up and finish the job.",
+				"magic_stick":"Shadow shaman is a hero who excels at early battles. Picking up a super early magic stick allows you to gain large amouts of free regen off of the skirmishes against your enemies. Turning this into the wand later isn't totally nessesary, but is generally a good idea. ",
+				"magic_wand":"You need to look deep down inside yourself and ask, is 309 gold worth adding 3 int, 3 str, and 3 agi to my hero? If the answer is yes grab yourself a magic wand.",
+				"flask":"In my opinion out classed by tangos as salves can be kocked off by any sort of damage while regening. Having a salve though, is still nice though if you are missing 300 or more health though and you want to heal up in a few seconds, as tangos take significantly to heal you.",
+				"ward_observer":"Remeber, even if you are farming getting wards are still vital. If another support is doing it such as a crystal maiden or shadow demon great, but if not, even though your goal with this build is to get items, wards are significantly more important.",
+				"tango":"Early regen is to important to pass up. If you are still in the early stages of the game, carry tangos or salves, as spending money on the regen is well worth it to stay in lane as, while you want items, gold is not nearly as important to shadow shaman as his precious precious levels.",
+				"tpscroll":"Starting very early in the game, you need to ask yourself, am I carrying a TP scroll? If the answer is no, it becomes priority number one to get one ASAP. The ability to support allies, stop a push, or escaping enemies for only 135 gold should never ever be passed up.",
+				"travel_boots":"These boots combined with eul's make up for shadow shaman's abysmal movespeed and turn him into a race car. They also allow shadow shaman to go from counter push mode (which he excels at due to ether shock) and push mode (with his wards) at the drop of hat.",
+				"bracer":"Provides great early game stats, but can be skipped if your gold per minute is insanely quick, allowing you to pick up stronger items faster.",
+				"mekansm":"Kind of an optional item here. Generally, there will be someone on your team who will already be buying this item, but if no one has it falls to you. It's not the end of the world though as it gives you great tank-ability and awesome synergy with pushes which is a great strength of shadow shaman.",
+				"flying_courier":"Did someone upgrade the couier? If not you should do it, its well worth the 220 gold for your team and the earlier the better.",
+				"pipe":"Another great support item which synergizes well with your already high health pool from heart and mek. Not only is it a great item to protect all of your team in teamfights and pushes, but since you have such high HP, your effective health goes through the roof!",
+				"cyclone":"The most core as core comes to shadow shaman. Eul's gives you everything you'd ever want. It allows you to save yourself or crowd control a thrid enemy in fights. It also gives you move speed to run down enemies with shackels or hex, and roughly a metic ton of mana regen. Do. Not. Pass. Up.",
+				"ultimate_scepter":"So many shadow shaman's get this item, but its terrible for this build. The only thing this gives you is about 1/3 more damage with your wards and some tank ability. The tanking is already achieved in this build with other items, and more ward damage is better achieved through refresher.",
+				"refresher":"Agh's has got nothing on refresher! Instead of a measly 1/3 damage increase from agh's, how about double damage with a larger amount of area of control from refresher? Oh yeah, it also lets you instantly repeat your insane CC abilities and gives you so much regen you won't run out of mana if you try",
+				"heart":"Heart is a great item for shadow shaman as it allows him to get in the mix, placing his wards, and running in casting hex and shackel without fear. Also, while your wards are on cool down, farming the jungle or a lane while regening. Not going back to base = more exp = stronger shadow shaman!",
+				"shivas_guard":"Similar deal to pipe. A super effective item for teamfights and works well with your high health. If the enemies have a large number of physical damage sources this will always be a good be a good pick up for shadow shaman!",
+				"arcane_boots":"The one and only boots for the early and mid game shadow shaman. Not only supports your mana hungry Ether Shock spam, but also the insane cost of your Hex ability while still supporting your teammates."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_ether_shock",
+			"2":"shadow_shaman_voodoo",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_shackles",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_voodoo",
+			"9":"shadow_shaman_shackles",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_shackles",
+			"13":"shadow_shaman_voodoo",
+			"14":"shadow_shaman_shackles",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"Ether Shock is one of the best spammable nukes in the game. With an 8 second cool down and 7 targets hit at level 4, you can easily spam this to farm creeps in the midgame once mana items like eul's and arcane's are purchased. This spell also does insane damage in fights against grouped enemies!",
+				"shadow_shaman_voodoo":"Chicken is great, and is generally better than shackles as it doesn't doesn't require a channel, but it is mana intensive so use sparingly!",
+				"shadow_shaman_shackles":"Should generally have a little less priority than chicken, but does have some advantages as it costs less mana, traps for significantly longer, does some damage, and can set up hard to aim abilities better such as invokers sun strike.",
+				"shadow_shaman_mass_serpent_ward":"These are shadow shaman's greatest tool. Every time you find that these are off cool down you need to ask yourself a question. Is a fight going to happen in the next couple mintues? If the answer is yes, hold on to them. If the answer is no however, run to a lane with some friends and wreck a tower!",
+				"attribute_bonus":"Stats should rarely be taken over any spell as shadow shaman's kit is absolutely insane."
+		}
+	}
+}

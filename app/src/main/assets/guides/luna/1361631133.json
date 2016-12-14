@@ -1,0 +1,106 @@
+{
+	"Hero":"luna",
+	"Title":"6.82 - Standard Luna (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"yasha",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"helm_of_the_dominator",
+				"manta"
+			],
+			"Extension Items":
+			[
+				"monkey_king_bar",
+				"satanic",
+				"butterfly"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"While stats are nice for Luna, Phase Boots is a safety measure so that you can chase after people when using your ultimate ability.",
+				"monkey_king_bar":"More damage, but definitely for more evasion heroes. However, Daedlus does not fully function for Luna, so Monkey King Bar is an overall good item.",
+				"butterfly":"Massive Evasion and an incredible active ability makes Butterfly great for Luna who needs to keep at a distance when auto-attacking!
+
+Use Flutter to actively keep the chase down on foes or flee with ease if they have somehow ganked you.",
+				"greater_crit":"Only does critical damage on the first targewt",
+				"manta":"Generally Manta Style is not great to be your first big-ticket, but much better for solidifying your dominance and damage after other major items have been bought.",
+				"satanic":"Satanic gives Luna survivability to pull off all her abilities. Satanic is the follow-up to Helm of the Dominator which you can get early to farm for the late-game by stacking Ancients.",
+				"helm_of_the_dominator":"Be sure to stack ancients with a controlled creep using this item. You will easily be able to farm stacked ancient creeps camps due to Moon Glaive.",
+				"yasha":"Yasha gives Luna even more speed in combination with Drums of Endurance. To be built into Manta Style much later.",
+				"ancient_janggo":"Drums of Endurance let's Luna move in and out battle with sufficient life, extra intelligence and movement speed to boot."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lucent_beam",
+			"2":"luna_lunar_blessing",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_moon_glaive",
+			"9":"luna_moon_glaive",
+			"10":"luna_moon_glaive",
+			"11":"luna_eclipse",
+			"12":"luna_moon_glaive",
+			"13":"luna_lunar_blessing",
+			"14":"luna_lunar_blessing",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"luna_lucent_beam":"Lucent Beam is a strong nuke with a ministun addition to its hit. Abuse accordingly to scare off people out of lane and to disrupt channeling abilities. Try and cast this to keep foes within your ultimate's range.",
+				"luna_moon_glaive":"We max this second, after the laning phase to farm faster and push down lanes as you start to collect your items. We want to avoid getting this early since it means pushing lanes during the early-phase of the game.",
+				"luna_lunar_blessing":"Bonus night vision and bonus damage are things Luna like as early as possible. This is your intermission ability as you want higher levels to get your Moon Glaive.",
+				"luna_eclipse":"Eclipse is an incredible ability to scare off foes that want to gank or to help with ganks in which no creeps are in the way to prevent this ability from damaging foes."
+		}
+	}
+}

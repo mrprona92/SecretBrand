@@ -1,0 +1,93 @@
+{
+	"Hero":"beastmaster",
+	"Title":"Highwind's WINNING Solo Mid Beasts of War",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"flask",
+				"tango",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"belt_of_strength",
+				"staff_of_wizardry",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"necronomicon",
+				"necronomicon",
+				"necronomicon",
+				"ancient_janggo",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Get HP to win your lane.",
+				"belt_of_strength":"This builds into necro and adds some tankage.",
+				"staff_of_wizardry":"ALSO builds into necro. adds some much needed mana",
+				"boots":"Boots after bottle play it right bro.",
+				"flask":"For Mid you need these. STAY IN THE LANE WITH THE REGEN",
+				"bottle":"Get as soon as posssible. with the hawk you will have some sick rune control. boar can slow the enemy on the way",
+				"tango":"GET ONE SURVIVE EARLY!!!!!!!!!!!!!! Use when lightly harassed",
+				"courier":"ONLY GET IF A SUPPORT DIDNT. IF THEY DID THEN SAVE FOR THAT EARLY SICK BOTTLE",
+				"travel_boots":"Can tp to your hawk and backdoor towers. good pick up.",
+				"necronomicon":"NECROBOOKKKKKK for the push builds. domiante the midgame and end early."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_call_of_the_wild",
+			"4":"beastmaster_inner_beast",
+			"5":"beastmaster_call_of_the_wild",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_call_of_the_wild",
+			"8":"beastmaster_inner_beast",
+			"9":"beastmaster_inner_beast",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_wild_axes",
+			"13":"beastmaster_wild_axes",
+			"14":"beastmaster_wild_axes",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"I dont feel they scale well enough to justify them being leveled until later. They can be used for last hitting and harass early.",
+				"beastmaster_call_of_the_wild":"Your hawk is rune control. your boar is last hit and perma slow for ganks. never lose a lane with this little guy. ",
+				"beastmaster_inner_beast":"your necro and ur beastsattack fast as ever KILL EVERYTHANG",
+				"beastmaster_primal_roar":"This ultimate goes through magic immunities. it's great for ganking. use it as often as possible."
+		}
+	}
+}

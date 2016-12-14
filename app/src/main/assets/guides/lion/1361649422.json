@@ -1,0 +1,112 @@
+{
+	"Hero":"lion",
+	"Title":"Pan-Pan`s Support Lion-Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"branches",
+				"branches",
+				"flask",
+				"flask",
+				"clarity",
+				"tango",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"magic_wand",
+				"urn_of_shadows",
+				"ward_observer",
+				"smoke_of_deceit",
+				"boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"blink",
+				"arcane_boots",
+				"ancient_janggo"
+			],
+			"Lategame":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"rod_of_atos",
+				"ghost",
+				"pipe",
+				"sphere",
+				"veil_of_discord",
+				"orchid"
+			],
+			"Luxary items and fun items":
+			[
+				"ethereal_blade",
+				"dagon",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"The Ghost Scepter is very usefull, if you face a very high DPS carry, it allows you to dodge the focus on you.
+The down side is, if there are any nukes on the enemies side you have to use the scepter wisly, otherwise you die really fast.",
+				"ward_observer":"Look at Courier Information",
+				"courier":"You need to talk with your support mate ingame, you get courier or wards BUT not both.",
+				"flying_courier":"Same thing here 2nd set of wards or flying courier",
+				"pipe":"You should get a pipe, if the enemies got many aoe spells and nukes like Epicenter etc.
+Mostly heros like DS or Pudge will get a Pipe, you need to communicate if your team to figure out who will buy the Pipe.",
+				"urn_of_shadows":"With Lion you can set up easyly kills in early game as soon as you hit lvl 6, an urn will do good work for you and your mates.",
+				"orchid":"Orchid is a good choice if you play vs heros whitch are dependent on their spells, like DS, Tidehunter, Enigma etc.
+You can shut them down and give your team the time to kill them.",
+				"sphere":"Linkens is a defensive item, you should get it to avoid strong single target nukes, such as Laguna Blade or Zeus nukes. Or if you get really hard fokused.
+You can avoid buying a Linkens if you manage to position yourself good.",
+				"ancient_janggo":"Either Drums or Meka it depense on your mates, what they will buy.",
+				"smoke_of_deceit":"To set up kills a smoke will always help",
+				"veil_of_discord":"This item will boost your teamfight potential if your team is based on AOE spell dmg.",
+				"rod_of_atos":"Rod of Athos is a very underused item. It is very uesfull if the enemie carry is meele. A meele carry needs to stand next to you that he can beat you down. The Rod allows you and your team to make the carry run around  like a chicken and never catch up."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_voodoo",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_voodoo",
+			"8":"lion_impale",
+			"9":"lion_mana_drain",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_mana_drain",
+			"14":"lion_mana_drain",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

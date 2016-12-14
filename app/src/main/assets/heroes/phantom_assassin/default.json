@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_phantom_assassin",
+	"Title":"Recommended items for Phantom Assassin",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"branches",
+			"branches",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"poor_mans_shield",
+			"magic_wand"
+		],
+
+		"coreItems":[
+			"power_treads",
+			"helm_of_the_dominator",
+			"black_king_bar",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"bfury",
+			"satanic",
+			"abyssal_blade",
+			"butterfly",
+			"vladmir",
+			"monkey_king_bar",
+			"assault"
+		]
+	}
+}

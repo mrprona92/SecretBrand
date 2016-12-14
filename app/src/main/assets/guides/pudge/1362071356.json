@@ -1,0 +1,104 @@
+{
+	"Hero":"pudge",
+	"Title":"Easy Guide to Pudge, The Butcher",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"force_staff",
+				"hood_of_defiance"
+			],
+			"Luxury Items":
+			[
+				"ultimate_scepter",
+				"heart",
+				"travel_boots"
+			],
+			"Situational":
+			[
+				"blink",
+				"invis_sword",
+				"arcane_boots",
+				"soul_ring"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Same purpose as Force Stuff, initiate or escape, use it as you want",
+				"gauntlets":"Some extra health and damage, later build to Urn of Shadows",
+				"boots":"Boots of Speed provides pretty enought speed for Pudge",
+				"flask":"Basic Regeneration",
+				"bottle":"Very usefull for Pudge on mid lane, allows you to regen mana and health and bottling runes.",
+				"tango":"Basic regeneration to heal up after lasthitting creeps with Rot",
+				"travel_boots":"Boots of speed and force staff is enought speed for pudge, but if late game, use travels!",
+				"urn_of_shadows":"Really good for helping your team, and you to heal. Also if enemy is escaping, you can use it and it will possibly kill him",
+				"force_staff":"One of my favourite items on Pudge. It is great, it allows you to perform very long hooks, and it also good for escape, or helping your teammates.",
+				"ultimate_scepter":"Dismember will last longer, and gives more damage AND heal you while ultimate",
+				"heart":"Extreme health regeneration, you should sold bottle untile this item",
+				"hood_of_defiance":"Good regeneration item + you will take less damage from Rot. I don't recommend to build it into Pipe of Insight.",
+				"invis_sword":"Initiate or escape. Beware of sentries.",
+				"soul_ring":"If you need to hook really alot. Also, fountain hook
+",
+				"arcane_boots":"If you need to hook really alot.
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_flesh_heap",
+			"10":"pudge_rot",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Your bread and butter. Pure damage with ministun",
+				"pudge_rot":"Use to lasthit creeps, lasthit enemies or commiting suicide",
+				"pudge_flesh_heap":"Kill a lot and you'll have tons of HP",
+				"pudge_dismember":"Basic pudge combo: Hook+Rot+Dismember. Just remember it is channeling, so don't fail by canceling it"
+		}
+	}
+}

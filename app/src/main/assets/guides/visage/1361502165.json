@@ -1,0 +1,175 @@
+{
+	"Hero":"visage",
+	"Title":"Advanced Support Visage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tango",
+				"flask",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"ring_of_basilius",
+				"flying_courier",
+				"magic_stick"
+			],
+			"Mid Game Items":
+			[
+				"mekansm",
+				"medallion_of_courage",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"tpscroll"
+			],
+			"Situational Support Items":
+			[
+				"ancient_janggo",
+				"pipe",
+				"urn_of_shadows",
+				"necronomicon",
+				"ghost",
+				"dust",
+				"gem",
+				"rod_of_atos"
+			],
+			"Late Game Core Items":
+			[
+				"ultimate_scepter",
+				"force_staff"
+			],
+			"Luxury Items":
+			[
+				"shivas_guard",
+				"orchid",
+				"travel_boots",
+				"sheepstick"
+			],
+			"Alternative Starting Items":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Good for the early game armor and use to make tranquil boots or ring of basilius later",
+				"branches":"Use branches to make magic wand later",
+				"gem":"Get to see invsible enemies and to deward.
+(Useful against Nyx, Riki, and Bouty Hunter)",
+				"magic_stick":"Really useful item to gain the extra mana to cast a spell when out of mana or to survive one more attack.",
+				"magic_wand":"Really useful item to gain the extra mana to cast a spell when out of mana or to survive one more attack.",
+				"ghost":"Prevents physical damage. Get if enemies carries can easily kill you.",
+				"flask":"Use to heal when really low or to heal teammates when they are low.",
+				"dust":"Use to see invisible units.",
+				"ward_observer":"Constantly buy wards throughout the game to give vision for your teammates and to see where the enemies are.
+",
+				"ward_sentry":"Starting Item: Buy sentries if someone already bought courier.
+
+Use to deward enemy wards and may be used to block enemy neutral camps.
+
+Note: In low bracket games, enemy usually don't buy wards so sentries may not be needed.
+",
+				"tango":"Basic regen for laning phase.
+
+Note: Use tango to cut down tree to double pull for Radiant Side.",
+				"courier":"Essential item in every game; buy it if no one else buys it",
+				"tpscroll":"Always have in inventory to help teammates, stop pushes and escape.",
+				"mekansm":"Remember to use to heal teammates in team fights
+
+Don't get if someone on team is already getting it!",
+				"flying_courier":"Upgrade Courier so help teammates get items to them faster.",
+				"ring_of_basilius":"Turn off when laning and turn on when pushing.",
+				"pipe":"Get if there are a lot of spell casters and if no one else is getting one.",
+				"urn_of_shadows":"Get if you are ganking alot and want the extra heal or extra dps.
+
+Remember to use on allies when they are low.",
+				"force_staff":"Useful for positioning (catching up to fleeing enemies and to avoid damage)
+
+Note: Use on allies to save them espeically when they are disabled
+Good against: Furion, Clockwerk, Disruptor",
+				"necronomicon":"Use to push lanes faster and to detect invisible heroes.
+
+Note: Last Will from melee summon does a lot of damage (Good if enemies have a lot of AoE)",
+				"ultimate_scepter":"Makes 3 familiars; Good for pushing lanes and gives extra stun",
+				"ancient_janggo":"Good for pushing lanes and increases mobility for the team.
+
+Note: On use it gives movement and ATTACK SPEED
+Can refresh charges by buying recipe again.",
+				"medallion_of_courage":"Gives good mana regen and helps physical attackers do more damage.
+
+Since Visage can kite easily with Grave Chill, the negative effect won't hurt as much.
+
+Use when you are ganking where you won't take alot of physical damage.",
+				"smoke_of_deceit":"Use to pick off enemies or surprise attack enemies",
+				"rod_of_atos":"Long range slow! Abuse the range and cooldown of the item.",
+				"tranquil_boots":"Gives good movement speed and heals for a good amount of HP.
+
+Note: If no enemies around, you can drop health gaining items on the ground to increase the output of the heal"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_grave_chill",
+			"2":"visage_soul_assumption",
+			"3":"visage_gravekeepers_cloak",
+			"4":"visage_soul_assumption",
+			"5":"visage_gravekeepers_cloak",
+			"6":"visage_summon_familiars",
+			"7":"visage_gravekeepers_cloak",
+			"8":"visage_soul_assumption",
+			"9":"visage_soul_assumption",
+			"10":"visage_gravekeepers_cloak",
+			"11":"visage_summon_familiars",
+			"12":"visage_grave_chill",
+			"13":"visage_grave_chill",
+			"14":"visage_grave_chill",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"visage_grave_chill":"One of the most powerful slow in the game.
+Early Game: Abuse spell to harass enemies with auto attacks since enemies have low attack speed and movespeed.
+Mid Game: Good slow to chase down enemies and to gank.
+Note: Useable on creeps and neutrals to catch fleeing out of range enemies or to run away.",
+				"visage_soul_assumption":"Great Offensive Nuke
+Does huge amount of damage when max charges.
+Use ASAP when max charges so more charges can be gain and because it has a short cooldown.",
+				"visage_gravekeepers_cloak":"Great Defensive Spell for Mid Game
+Helps keep Visage alive during team fights.",
+				"visage_summon_familiars":"Good for pushing and good disable when stuns are chained together.
+Use to melt towers/barracks, scout enemies/runes, stun and dps.
+Note: Look at the description section for more information.
+",
+				"attribute_bonus":"Fluttershy is best pony!"
+		}
+	}
+}

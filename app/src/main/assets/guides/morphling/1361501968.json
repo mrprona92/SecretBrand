@@ -1,0 +1,92 @@
+{
+	"Hero":"morphling",
+	"Title":"[DMX] Morphling (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"pers",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sphere",
+				"ethereal_blade",
+				"manta",
+				"black_king_bar",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"butterfly",
+				"skadi",
+				"satanic",
+				"heart",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_waveform",
+			"2":"morphling_morph_str",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_replicate",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_morph_str",
+			"10":"morphling_adaptive_strike",
+			"11":"morphling_replicate",
+			"12":"morphling_adaptive_strike",
+			"13":"morphling_adaptive_strike",
+			"14":"morphling_adaptive_strike",
+			"15":"attribute_bonus",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"morphling_waveform":"Votre nuke principal et aussi votre escape. Vous pouvez l'utiliser pour traverser les arbres ou les falaises et également pour éviter les sorts.",
+				"morphling_adaptive_strike":"Un très bon sort qui scale bien en fin de game. Au début, seul son knockback est intéressant, mais quand vous aurez suffisamment d'agilité, il infligera d'énorme dégâts.",
+				"morphling_morph_str":"Le sort qui vous permet de tanker à l'infini (ou presque) activez le en force dès que vous vous sentez en danger. Activez le en agilité pour gagner des dommages, de l'armure et de l'attaque speed.",
+				"morphling_replicate":"Un ultimate assez difficile à utiliser correctement mais il vous permettra de vous téléportez vers un ennemi ou un allié très facilement. Vous pourrez également l'utiliser pour faire un back fontaine éclair."
+		}
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"Hero":"undying",
+	"Title":"Surviving Pubs With: Dirge",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"tpscroll",
+				"ward_observer"
+			],
+			"Core":
+			[
+				"arcane_boots",
+				"mekansm",
+				"vanguard",
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"Luxury":
+			[
+				"ancient_janggo",
+				"pipe",
+				"blade_mail",
+				"shivas_guard",
+				"black_king_bar",
+				"heart",
+				"bloodstone",
+				"veil_of_discord",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"We're picking two of these up for Urn later. Gives a nice boost to your HP as well as giving you some bonus melee damage.",
+				"branches":"Have more than one empty space in your inventory? Buy a Branch. Trust me on this.",
+				"boots":"Your first 450 gold should go towards these puppies right here. The earlier you get boots, the more easily you will win your lane.",
+				"clarity":"Even though we're getting a Sage's Mask and building it into Urn, you're still going to end up running out of mana. Try to make sure you always have enough mana left for a Soul Rip.",
+				"flask":"Try to only use your Salve if you're actually missing at least 400 hp or you're at less than 30% max health. Anything else would be a waste.",
+				"ward_observer":"If there are no wards on the map, buy some. Ward the runes, block jungle camps, illuminate gank paths, whatever you do just buy some damn wards.",
+				"ward_sentry":"By about mid-game, you're probably going to need to start de- and counter-warding. The battle for vision is a long and difficult one.",
+				"tango":"Do not underestimate the usefulness of Tangoes. Learn the paths in the woods and use these to cut your way through them. Smart use of these will save your hide.",
+				"courier":"Oh joy, looks like you're the only person that picked support! Plop your courier out and merrily skip to your lane, because the fun has only just begun!",
+				"tpscroll":"Always carry at least 1 TP Scroll in your inventory at all times. Do not be afraid to TP to another lane early on to help with defending or to set up a kill.",
+				"mekansm":"If there isn't already a Mekansm on the team, get one. If someone else is already building Mek, pick up Vanguard or Drums of Endurance instead.",
+				"vladmir":"Dirge makes a great carrier for aura items since he's likely to stay alive for a long time. Consider picking this up if you have a melee carry on your team.",
+				"flying_courier":"If no one else has purchased this by ~5 minutes, buy it.",
+				"pipe":"If you're against heavy magic damage, pick this up ASAP. Try to use the active effect right before a big teamfight. If there's already a Pipe on your team, at least get a Hood of Defiance.",
+				"urn_of_shadows":"Buy a Sage's Mask from the side shop and send the recipe by courier.",
+				"sheepstick":"One of the best disables in the game, but far too expensive to consider picking up on a strength initiator.",
+				"ultimate_scepter":"I wont say that Dirge's Scepter upgrade is bad, but you should definitely be considering some other options first.",
+				"heart":"The quintessential strength survivabilty item. Extremely expensive, but well worth the price if you can afford it.",
+				"black_king_bar":"If hard CC is getting you down, a BKB will protect you from most disables and allow you to spam Decay freely.",
+				"shivas_guard":"The active effect of Shiva's works great in conjunction with Dirge's Flesh Golem aura, and the passive aura is great against enemy hard carries.",
+				"bloodstone":"The item every support dreams of getting to build. If you're having a really good game, disassemble your Arcane Boots and grab yourself an early Bloodstone.",
+				"vanguard":"An alternative choice to Mekansm if someone else is already getting one. Provides fantastic survivabilty for the price. Skip this if you get Mekansm.",
+				"blade_mail":"If you're being focused hard, a Blademail can help make your enemies think twice about trying to take you down.",
+				"arcane_boots":"You can purchase the Energy Booster from the side shop instead of the secret shop. These will allow you to roam without having to return to Well for mana.",
+				"ancient_janggo":"Extremely cheap item with a great aura and active effect. If there isn't one already on your team, pick it up. You can refresh the charges by buying the recipe again.",
+				"veil_of_discord":"Almost half the price of Scepter for 20% more magic damage amplification. Though it doesn't provide raw stats like Scepter, its price and damage amp make up for it.",
+				"rod_of_atos":"The health and slow effect provided by Atos is useful, but it's hard to justify picking it up over Shiva's Guard."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_soul_rip",
+			"2":"undying_decay",
+			"3":"undying_soul_rip",
+			"4":"undying_tombstone",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_tombstone",
+			"8":"undying_tombstone",
+			"9":"undying_decay",
+			"10":"undying_decay",
+			"11":"undying_flesh_golem",
+			"12":"undying_decay",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"The low cooldown on Decay makes it very easy to spam, but watch your mana pool early on. Creeps take a small fraction of Decay's damage component, so at max level you can use it to clear creep waves or farm jungle camps.",
+				"undying_soul_rip":"Taking Soul Rip first gives you the ability to save an ally's ass from a level 1 gank. Once Soul Rip is level 2, you can leave it there. Use it every time a new wave of creeps reach the lane to get the maximum damage out of it.",
+				"undying_tombstone":"This is Dirge's best skill. Use it strategically and sparingly, because the cooldown is long and the mana cost is high. Try to place it in areas that make it difficult to target but still close enough to reach the enemy. You can heal Tombstone with Soul Rip.",
+				"undying_flesh_golem":"Remember that enemies take more damage the closer you are to them, so if you have Flesh Golem up you better be whacking enemies upside the head. Try to make sure you use it in conjunction with Tombstone so that enemies get slowed twice."
+		}
+	}
+}

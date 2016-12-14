@@ -1,0 +1,114 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Skele-Wraith ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"mask_of_madness",
+				"maelstrom"
+			],
+			"Late game ":
+			[
+				"heavens_halberd",
+				"sange_and_yasha",
+				"mjollnir",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"bfury",
+				"refresher",
+				"rapier",
+				"hand_of_midas",
+				"manta",
+				"radiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Helps in last hitting.",
+				"gauntlets":"Need some strength to deal more damage and get more HP.",
+				"boots":"Move faster to catch up to opponents.",
+				"flask":"Regen is required in the lane of course.",
+				"tango":"Regen is required in the lane of course.",
+				"power_treads":"Better than Phase Boots because you won't really need to chase. Just Wraith Blast them. The attack speed helps and the survivability and damage will make you a threat to your enemies.",
+				"hand_of_midas":"Are you really behind? Get this to catch up on the farm.",
+				"urn_of_shadows":"The mana regen is very helpful if you play Wraith King. The first kill with this will grant you two charges also. Don't be afraid to use your charges to heal a teammate or to kill a running enemy.",
+				"refresher":"Just charge at the opponents with this. Your a one man army now. It is in situational because the mana cost is REALLY HEAVY so you're problably not going to be able to even click on this.",
+				"rapier":"What? You have 2 lives. Possibly three (With Refresher Orb.) Mabye even four (with Refresher AND Agis)",
+				"monkey_king_bar":"Most probably a carry would get butterfly late game. Show him how stupid that was.",
+				"radiance":"This is pretty situational. Just get this if the have so many invis heroes and you just want to kill them (with out spending your money on wards or gems.) Watch Riki die before he even touches you.",
+				"bfury":"Are you really behind? Get this to catch up on the farm.",
+				"manta":"This is a personal item that I like to get. Instead of getting SnY you can just get Manta, especially if they have a Bane on the opposing team. Getting manta will confuse those 1 target heroes.",
+				"armlet":"The amazing core of Wraith King. Just put this on then crit. When your about to die and this is on, DON'T turn it off. It boosts your max HP. I suggest Turn it off then turn it back on as fast as you can. Make sure you are not in the middle of the fight. If you are being chased that is when u do dis",
+				"sange_and_yasha":"Boosts movement speed, attack speed, damage, HP, HP regen, Gives you maim. What more can you want.",
+				"mjollnir":"Well, you can want much more attack speed than before. CRITTING TIME!",
+				"maelstrom":"This helps you deal even more damage. With MoM and Armlet boosting your attack spped PLUS this, you will be criting every second and shooting out lightning.",
+				"mask_of_madness":"This is optional. You have more lifesteal and you move faster, not to mention you attack faster too. The Attack Speed will help you crit. ALOT. Trust me.",
+				"soul_ring":"When your about to die, and you ran out of mana, but your ressurection is off cooldown, click this. Also helps deal with WK mana problems.",
+				"heavens_halberd":"For carries that piss you off alot even if you are super fed. Ex:Viper And Drow"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"attribute_bonus",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_mortal_strike",
+			"9":"skeleton_king_vampiric_aura",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_mortal_strike",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_vampiric_aura",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"A stun that burns. Max this first.",
+				"skeleton_king_vampiric_aura":"Not gotten early because you don't want your lane to be pushing early game.",
+				"skeleton_king_mortal_strike":"One level of crits will help you last hit early game (Because crit chance doesn't change per level.) If you feel you can last hit well enough pick up stats instead.",
+				"skeleton_king_reincarnation":"Standard ulti Leveling. Amazing and can change the tide of one teamfight.",
+				"attribute_bonus":"You might need a few stats to allow you to cast more Wraith Blasts :)"
+		}
+	}
+}

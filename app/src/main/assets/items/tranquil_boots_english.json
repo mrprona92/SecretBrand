@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 90 Movement Speed<br/>+ 4 Armor<br/>+ 12 HP Regeneration",
+  "cd": 13.0,
+  "components": [
+    "boots",
+    "ring_of_protection",
+    "ring_of_regen"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Active: Heal - Restores 250 HP over 20 seconds while out of combat.<br/>Passive: Break - Tranquil Boots lose their bonuses and only provide 25 MS until the last 10 seconds don\u0027t have 3 instances of damage.",
+  "dname": "Tranquil Boots",
+  "dotaId": "tranquil_boots",
+  "mc": false,
+  "img": "tranquil_boots_lg.png",
+  "lore": "While they increase the longevity of the wearer, this boot is not particularly reliable.",
+  "id": 214,
+  "created": true,
+  "cost": 1000
+}

@@ -1,0 +1,107 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"Ganker/Pusher/Carry Troll",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots"
+			],
+			"Early Solo Roshan":
+			[
+				"helm_of_the_dominator",
+				"medallion_of_courage",
+				"smoke_of_deceit"
+			],
+			"Mid Game":
+			[
+				"tpscroll",
+				"invis_sword",
+				"black_king_bar"
+			],
+			"Late Game Options":
+			[
+				"satanic",
+				"butterfly",
+				"greater_crit",
+				"monkey_king_bar",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Two Slippers give you +6 Agility, which means 6 more damage, so last hitting is easier, Buy a Stout Shield at once to convert the slippers into a Poor Man's Shield.",
+				"flask":"Reserve source of regeneration. If you lost more than 400 HP, fall back and use your salve to take full effect of its heal. Be sure not to get attacked, or the heal gets canceled.",
+				"tango":"Main source of regeneration. Use them to recover from harassment and be able to stay in range for last hits. If you lost over 400 HP, use your Healing Salve instead.",
+				"tpscroll":"Always carry one of these to be able to join fights quickly or hide into trees and teleport to base if you are about to die. Don't buy them any longer if you have Boots of Travel.",
+				"travel_boots":"When at full inventory, sell your Phase Boots and buy these, as they remove the need for saving an inventory slot for teleport scrolls.",
+				"phase_boots":"Troll has a surplus of attack speed. Phase Boots greatly increase his mobility and the bonus 24 damage is huge considering how much attack speed he has.",
+				"poor_mans_shield":"Complete this item by quickly buying a Stout Shield from the side shop. Note that it blocks 10 damage when in ranged mode and 20 damage when in melee mode. Make sure to switch to melee form when attacked to block the most amount of damage.",
+				"black_king_bar":"You want to be able to attack without being interrupted. You have little HP and you will be the main target of your enemies. Black King Bar solves all your problems. Get it right after Shadow Blade.",
+				"monkey_king_bar":"You will need to get this item if enemy heroes have evasion. You can also get it purely to boost your damage output. Your very high attack speed will ensure that you will do a lot of extra 100 damage minibashes. Nobody can take that kind of a beating.",
+				"butterfly":"Get Butterfly to stand toe to toe with any carry without MkB. With its 35% evasion, your 60% miss chance Whirling Axes and your BkB, you become God.
+Buy the Talisman of Evasion first to get the evasion right away.",
+				"greater_crit":"Huge attack speed + 25% chance to crit = a lot of critical hits. This is the best DPS increasing item for Troll by far (except Divine Rapier). Get it if you don't give a damn about your survivability and just want to brutally kill people.",
+				"invis_sword":"You have a lot of natural attack speed and all your items so far increase your attack damage. Your DPS will be very high. Use Shadow Blade to sneak up on people, kill them and sneak out. Beware of enemy Sentry Wards, dusts and gem. Constantly check their inventory for those.",
+				"satanic":"This is the upgrade for your Helm of the Dominator. Get Satanic if you feel that your damage is high enough and you simply need more survivability.",
+				"helm_of_the_dominator":"Get this right after Phase Boots. The lifesteal, the bonus damage and the extra armor greatly benefit Troll. He can't solo Roshan early on without this, To kill Rosh easier, dominate a neutral blue ogre and use his armor spell or an alpha wolf for its damage aura.",
+				"medallion_of_courage":"Constantly use its active ability on Roshan to reduce his armor, which causes you to do more damage to him and kill him much quicker than usual. Don't forget to use it on enemy heroes as well ! Sell this later when you are farmed enough.",
+				"smoke_of_deceit":"You must use a Smoke of Deceit on yourself in order to sneak into Roshan's pit undetected. If you are spotted by wards or enemy units, you can easily get ganked and you might even feed Roshan to the enemy."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_whirling_axes_ranged",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_fervor",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_fervor",
+			"9":"troll_warlord_fervor",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_berserkers_rage",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_berserkers_rage",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"Take this at level 1 so that you can switch forms. In melee form you move faster and last hit better, but are more easy to harass. Switch to whatever form is best for your current situation. If the enemy is about to escape with low HP, go ranged and throw a few hits to kill him.",
+				"troll_warlord_whirling_axes_ranged":"Use it for the slow to catch up to people. Also, throw your axes in a dangerous fogged area to have vision over it for a few seconds and spot potential enemies.",
+				"troll_warlord_whirling_axes_melee":"This makes enemies miss 60% of the time. It makes right click heroes cry. If one even dares to fight you 1vs1, MAN UP and beat the crap out of him. It's also your farming ability. It does a lot of AoE damage and lets you kill a lot of creeps at once. In fights, use it on as many heroes as you can.",
+				"troll_warlord_fervor":"This works on towers as well, which makes you an excellent pusher. Switching between forms does not reset the counter. This and your ultimate give you all the attack speed you could ever want.",
+				"troll_warlord_battle_trance":"It's cheap, it's spammable, it's global and it gives huge attack speed. Use it to kill Roshan, destroy towers, kill fools 1 on 1 and help allies win fights from across the map. Be in melee mode to permanently bash people like the troll that you are.",
+				"attribute_bonus":"It's stats, I ain't gotta explain shit."
+		}
+	}
+}

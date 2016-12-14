@@ -1,0 +1,79 @@
+{
+	"Hero":"dark_seer",
+	"Title":"GreyShark.Dark Seer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"ring_of_protection",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"soul_ring",
+				"arcane_boots",
+				"blink"
+			],
+			"Mid Game":
+			[
+				"mekansm",
+				"pipe"
+			],
+			"Late Game":
+			[
+				"refresher",
+				"sheepstick"
+			],
+			"Situation":
+			[
+				"ultimate_scepter"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_ion_shell",
+			"2":"dark_seer_surge",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_surge",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_vacuum",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_surge",
+			"9":"dark_seer_surge",
+			"10":"dark_seer_wall_of_replica",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_vacuum",
+			"13":"dark_seer_vacuum",
+			"14":"dark_seer_vacuum",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

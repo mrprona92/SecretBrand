@@ -1,0 +1,107 @@
+{
+	"Hero":"tidehunter",
+	"Title":"[DMX] Tidehunter - Support lane (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"blink",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"assault",
+				"heart",
+				"refresher",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"power_treads",
+				"force_staff",
+				"mekansm",
+				"hood_of_defiance",
+				"pipe",
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger vous permettra de placer votre ultimate de façon optimale.",
+				"courier":"Si le coursier à déjà été pris, prenez des wards",
+				"mekansm":"Si personne n'a fait de mekasnm, vous pouvez en faire un.",
+				"flying_courier":"Si personne n'upgrade le chick, faites le !",
+				"pipe":"La pipe est un très bon item si vos ennemis ont beaucoup de sorts AOE."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_anchor_smash",
+			"3":"tidehunter_gush",
+			"4":"tidehunter_anchor_smash",
+			"5":"tidehunter_gush",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_gush",
+			"8":"tidehunter_anchor_smash",
+			"9":"tidehunter_anchor_smash",
+			"10":"tidehunter_kraken_shell",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tidehunter_gush":"Un ralentissement, des dégâts et un débuff d'armure. Un outil parfait pour engager votre cible.",
+				"tidehunter_kraken_shell":"Un bon passif qui vous permettra de mieux tanker en teamfight et de purger les contrôles.",
+				"tidehunter_anchor_smash":"Un sort qui vous permet de push et dépush assez facilement. Ses bons dégats, son petit coût en mana et son court cd en font un sort spammable.",
+				"tidehunter_ravage":"Très bon ulti AOE qui étourdira tous vos adversaires dans une très large zone. Attention les ennemis sous immunité magiques ne seront pas affectés !
+Essayez d'utiliser votre ultimate au centre de la mêlée."
+		}
+	}
+}

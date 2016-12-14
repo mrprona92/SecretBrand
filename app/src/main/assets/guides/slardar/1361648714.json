@@ -1,0 +1,115 @@
+{
+	"Hero":"slardar",
+	"Title":"6.82 - Standard Slardar (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"Core Items - Ganker":
+			[
+				"power_treads",
+				"blink",
+				"medallion_of_courage",
+				"armlet",
+				"black_king_bar",
+				"assault"
+			],
+			"Core - Carry":
+			[
+				"power_treads",
+				"armlet",
+				"black_king_bar",
+				"desolator",
+				"assault",
+				"heart"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"urn_of_shadows",
+				"monkey_king_bar",
+				"heavens_halberd"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Slardar has a great stun but a sometimes unreliable form of getting close to foes. Blink Dagger let's you avoid using Sprint to engage and more for maneuverability in and out of battles.",
+				"quelling_blade":"If you have trouble last-hitting/farming, consider this item.",
+				"hand_of_midas":"If you're looking to carry, Midas is typically not a bad item if you've got the leeway early in the game.",
+				"urn_of_shadows":"When you want to take advantage of your ganking and overall teamplay, great overall item.",
+				"assault":"Continue supporting your main carry with Assault Cuirass. Offering more armor effects improving your chances of Bash.",
+				"black_king_bar":"Slardar's stun and need to be in the midst of battles makes Black King Bar a necessary part of his build.",
+				"shivas_guard":"The extra armor and the slow, combined with Slardar's Blink Dagger and Sprint, makes Shiva's Guard quite a good idea to pick up in most cases.",
+				"monkey_king_bar":"Not always needed, but for the carries that can dodge your attacks, this will help. This is how you counter evasion heroes.",
+				"armlet":"Armlet let's Slardar shift from initiator to a mid-game damage-dealer. Depending how you're playing Slardar, you may want to get this earlier or later.",
+				"desolator":"As a carry, you're going to need the damage and force that Desolator offers. It works great with your ultimate ability: Amplify Damage, dealing further debuff armor.",
+				"medallion_of_courage":"Works great with your ultimate to remove up to 26 total armor. Great early-game item and can help make ganks more efficient.
+
+Must obtain before Black King Bar"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_sprint",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_sprint",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_sprint",
+			"10":"slardar_bash",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_bash",
+			"13":"slardar_bash",
+			"14":"slardar_bash",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Be wary of how much bonus damage you take with this ability. Use it to gank foes in the middle lane or coordinate against opponents and charge into battles to follow up with your Slithereen Crush.",
+				"slardar_slithereen_crush":"The AOE stun on this ability is incredible. Use it sparingly given its mana cost. Don't forget that it also has an after-effect foe so you can keep tearing down foes as they flee.",
+				"slardar_bash":"Although Bash is great, Slithereen Crush and Sprint are an amazing combination. In addition, you do not have the attack speed to take advantage of Bash.",
+				"slardar_amplify_damage":"With such a low cooldown, you should use this ability often given its duration.
+
+This ultimate ability gives true sight so feel free to use it on stealth heroes such as Templar Assassin, Stealth Assassin and Nyx Assassin."
+		}
+	}
+}

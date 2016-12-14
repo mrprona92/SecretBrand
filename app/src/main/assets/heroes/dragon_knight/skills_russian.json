@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Breathe Fire",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Извергает огненное дыхание на вражеских юнитов в линии перед Dragon Knight, поджигая их и уменьшая урон от их атак.",
+        "notes": "Действует на механических юнитов.<br/>Наносит урон юнитам на расстоянии до 900 единиц.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">90/170/240/300</font></b>",
+        "attrib": "СНИЖЕНИЕ УРОНА: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>ДЛИТЕЛЬНОСТЬ СНИЖЕНИЯ: <b><font color=\"#ffffff\">8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/110/120/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Визитная карточка рыцаря Дейвиона — огненное дыхание, жертвам которого не припомнит счета даже сам дракон Слайрак.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_breathe_fire",
+        "youtube":"wrZnzBN1CmA",
+        "id": 0
+    },
+    {
+        "dname": "Dragon Tail",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Dragon Knight поражает своим щитом врага в радиусе ближнего боя, оглушая его и нанося небольшой урон. Когда рыцарь находится в форме дракона, он может применять заклинание с расстояния в 400 единиц.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">25/50/75/100</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">2.5/2.75/3/3.25</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/11/10/9",
+        "lore": "Комбинируя способности дракона и навыки рыцаря, Дейвион становится опасным противником в ближнем бою.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_dragon_tail",
+        "youtube":"gJSc04KMmbE",
+        "id": 1
+    },
+    {
+        "dname": "Dragon Blood",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Текущая в жилах Dragon Knight кровь дракона улучшает его регенерацию здоровья и броню.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РЕГЕН ЗДОРОВЬЯ: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>БРОНЯ: <b><font color=\"#ffffff\">3/6/9/12</font></b>",
+        "cmb": "",
+        "lore": "Кровь Слайрака все еще течет в венах Дейвиона, делая его намного выносливее других рыцарей.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_dragon_blood",
+        "youtube":"mbzF8oyAUfc",
+        "id": 2
+    },
+    {
+        "dname": "Elder Dragon Form",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Dragon Knight принимает облик одного из трех могущественных древних драконов, увеличивая свой урон, скорость передвижения и дальность применения Dragon Tail, а также получает новые способности.<br/><font color=\"#9acd32\">УРОВЕНЬ 1 — зеленый дракон</font> с Corrosive Breath: атаки наносят по 20 единиц урона от яда в течение 5 секунд. Действует на строения.<br/><font color=\"#ff0000\">УРОВЕНЬ 2 — красный дракон</font> с Splash Attack: атаки наносят урон всем юнитам в радиусе 300 единиц от цели, а основная цель подвергается воздействию Corrosive Breath.<br/><font color=\"#87ceeb\">УРОВЕНЬ 3 — синий дракон</font> с Frost Breath: замедляет на 3 секунды скорость передвижения всех врагов в радиусе действия Splash Attack на 30% и скорость их атаки на 20, а основная цель подвергается воздействию Corrosive Breath.",
+        "notes": "Урон от Corrosive Breath смертелен.<br/>Атака по площади наносит 100/75/50% урона всем противникам в радиусе 150/225/300 единиц, кроме строений.<br/>Ледяное дыхание сочетается с уникальными модификаторами атаки.<br/>Перезарядка Manta Style будет зависеть от того, в какой форме находился Dragon Knight во время использования предмета.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">60/60/60</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">25/25/25</font></b><br/>ДОП. ДАЛЬНОСТЬ АТАКИ: <b><font color=\"#ffffff\">372/372/372</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 115",
+        "lore": "Сила дракона, дремлющая внутри Дейвиона, вырывается наружу, совмещая мощь легендарного рыцаря с могуществом легендарного дракона.",
+        "hurl": "Dragon_Knight",
+        "name": "dragon_knight_elder_dragon_form",
+        "youtube":"3HpgABQ8kpA",
+        "id": 3
+    }
+]

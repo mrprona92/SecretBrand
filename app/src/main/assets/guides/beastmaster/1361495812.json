@@ -1,0 +1,102 @@
+{
+	"Hero":"beastmaster",
+	"Title":"[DMX] Beastmaster (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"soul_ring",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"assault",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"hood_of_defiance",
+				"pipe",
+				"blink",
+				"necronomicon",
+				"shivas_guard",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Une dagger vous permettra d'engager très facilement n'importe quel ennemi avec votre ultimate.",
+				"pipe":"Si vos adversaires ont beaucoup de dégâts magique de zone, pipe est un très bon item.",
+				"necronomicon":"Si vous êtes fort en microgestion, un necronomicon vous aidera à push et à faire de bons dégâts sur la cible que vous avez ulti.",
+				"soul_ring":"Ne prenez que la recette au départ ! (ça vous permet de le finir plus tard sans rentrer à la base)
+Finissez cet item en achetant les composants restant une fois vos bottes achetées"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_wild_axes",
+			"4":"beastmaster_call_of_the_wild",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"Votre principal nuke, il vous permettra de puhs/dépush facilement une lane tout en harassant votre adversaire.
+Servez vous de sa grande portée !",
+				"beastmaster_call_of_the_wild":"Ces deux animaux de compagnie sont très utiles : l'oiseau vous permettra de scout les runes et n'importe quelle zone de la carte sans danger, alors que votre boar ralentira significativement vos ennemis tout en vous ajoutant un dps non négligeable.",
+				"beastmaster_inner_beast":"Très bonne aura pour votre équipe et vous, qui vous permettra de push très vite et de vous aider lors des teamfights ou lorsque vous ferez roshan.",
+				"beastmaster_primal_roar":"Le meilleur stun monocible du jeu. Il inflige de très bon dégâts et passe par dessus l'immunité magique ! N'hésitez pas à l'utilisez pour engager le carry adverse, ou lors des ganks que vous ferez."
+		}
+	}
+}

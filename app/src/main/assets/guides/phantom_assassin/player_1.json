@@ -1,0 +1,60 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "phantom_assassin_stifling_dagger",
+        "2": "phantom_assassin_phantom_strike",
+        "3": "phantom_assassin_stifling_dagger",
+        "4": "phantom_assassin_blur",
+        "5": "phantom_assassin_stifling_dagger",
+        "6": "phantom_assassin_coup_de_grace",
+        "7": "phantom_assassin_phantom_strike",
+        "8": "phantom_assassin_stifling_dagger",
+        "9": "phantom_assassin_phantom_strike",
+        "10": "phantom_assassin_blur",
+        "11": "phantom_assassin_coup_de_grace",
+        "12": "phantom_assassin_phantom_strike",
+        "13": "phantom_assassin_blur",
+        "14": "phantom_assassin_blur",
+        "15": "attribute_bonus",
+        "16": "phantom_assassin_coup_de_grace",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "phantom_assassin_stifling_dagger": "Отличный скилл для ганга противников. Замедляет и наносит чистый урон. Пригодится на всех стадиях игры. Если вам не позволяют фармить в начале игры, добиваем кинжалами крипов. ",
+        "phantom_assassin_phantom_strike": "Блинк, но действует только на юнитах. Действует как и на врагов, так и на союзников. Если это враг, то ваша скорость атаки очень увеличится.",
+        "phantom_assassin_blur": "Уклон лучше чем от Бабочки и невидимость на мини-карте. Рекомендуется качать один раз на начальных стадиях игры.",
+        "phantom_assassin_coup_de_grace": "КРИТЫ!!! Самые огромные во всей игре. Основной скилл Фантомки. Позволит вам убить любого персонажа, за коротое время."
+    }
+}, "Hero": "phantom_assassin", "ItemBuild": {
+    "ItemTooltips": {
+        "stout_shield": "Позволит вам получать меньше урона в начальной стадии игры.",
+        "quelling_blade": "Улучшит фарм",
+        "tango": "Увеличит вашу выживаемость",
+        "phase_boots": "Выбираем именно этот сапог. Добавит нам урона, позволит быстро догнать противника.",
+        "helm_of_the_dominator": "Даст нам вампиризм и позволит приручать нейтралов.",
+        "pers": "Пригодится для Батл Фьюри, очень увеличит выживаемость.",
+        "satanic": "С нашими критами и Сатаником - мы бессмертны. Позволит полностью восстановить здоровье и убить противнтка.",
+        "bfury": "Незаменимый предмет. Отлично подойдет для фарма. Опять же нам помогут криты.",
+        "black_king_bar": "Покупаем, если противники сильно харасят магией.",
+        "armlet": "Поможет в критических ситуациях.",
+        "tpscroll": "Позволит быстро убежать от противника или ворваться в замес.",
+        "mask_of_madness": "Кинжал - Блинк - МОМ - криты - PROFIT!",
+        "assault": "Отличная броня.",
+        "invis_sword": "Позволит нам уйти от ганга или незаметно убить кого-нибудь.",
+        "rapier": "4 красные цифры.",
+        "heart": "У Мортры не много хп, а с Тараской станем жирными."
+    },
+    "Items": {
+        "Начальный закуп": ["stout_shield", "quelling_blade", "tango"],
+        "Ранняя стадия игры": ["phase_boots", "helm_of_the_dominator", "pers"],
+        "Основные предметы": ["satanic", "bfury", "black_king_bar", "armlet", "tpscroll", "mask_of_madness"],
+        "Предметы по ситуации": ["assault", "invis_sword", "rapier", "heart"]
+    }
+}, "Title": "Русский гайд на Мортру"}

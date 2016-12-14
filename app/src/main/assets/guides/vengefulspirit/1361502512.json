@@ -1,0 +1,107 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"[DMX] Vengeful Spirit (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm",
+				"force_staff",
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"manta",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"pipe",
+				"cyclone",
+				"desolator",
+				"butterfly",
+				"assault",
+				"shivas_guard",
+				"power_treads",
+				"ghost",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier à déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_command_aura",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_wave_of_terror",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_wave_of_terror",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Un bon stun monocible infligeant de bons dégâts.
+Utilisez le pour engager votre adversaire ou pour le retenir.",
+				"vengefulspirit_wave_of_terror":"Très bon sort pour scout mais aussi pour affaiblir vos ennemis dans un teamfight ou même lors d’un gank. aussi, ne sous-estimez pas ses petits dégâts qui pourront parfois vous permettre de prendre le kill !",
+				"vengefulspirit_command_aura":"Très bonne aura, qui boostera grandement toute votre équipe et qui vous permettra de vous transformer en semi-carry en fin de game avec les bons items.",
+				"vengefulspirit_nether_swap":"Ce sort est parfait pour engager un ennemi et le placer dans de mauvaises postures. Vous pouvez également changer votre place avec celle d’un allié dans la tourmente afin de le sauver ou encore interrompre les compétences canalisées de vos adversaires !"
+		}
+	}
+}

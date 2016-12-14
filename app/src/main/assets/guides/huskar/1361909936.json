@@ -1,0 +1,72 @@
+{
+	"Hero":"huskar",
+	"Title":"Huskar the Great",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"belt_of_strength"
+			],
+			"ASAP":
+			[
+				"gloves",
+				"power_treads"
+			],
+			"4 second Cooler!":
+			[
+				"ogre_axe",
+				"blade_of_alacrity",
+				"staff_of_wizardry",
+				"ultimate_scepter",
+				"lifesteal"
+			],
+			"Choose your Poison":
+			[
+				"armlet",
+				"mask_of_madness",
+				"heart",
+				"invis_sword",
+				"reaver",
+				"skadi"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_berserkers_blood",
+			"2":"huskar_inner_vitality",
+			"3":"huskar_berserkers_blood",
+			"4":"huskar_inner_vitality",
+			"5":"huskar_berserkers_blood",
+			"6":"huskar_life_break",
+			"7":"huskar_inner_vitality",
+			"8":"huskar_berserkers_blood",
+			"9":"attribute_bonus",
+			"10":"huskar_inner_vitality",
+			"11":"huskar_life_break",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"huskar_burning_spear",
+			"23":"huskar_burning_spear",
+			"24":"huskar_burning_spear",
+			"25":"huskar_burning_spear"
+		}
+	}
+}

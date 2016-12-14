@@ -1,0 +1,90 @@
+{
+	"Hero":"pudge",
+	"Title":"Roaming night pudge",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"urn_of_shadows",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"ultimate_scepter",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"cyclone",
+				"black_king_bar",
+				"heart",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Take the 3 brances to buy the Magic Wand later",
+				"bottle":"Bottle should be your first item that you recive after the game started. This will help you keep up your mana and hit points as well",
+				"ward_observer":"If noone get the wards you have to buy it, and place it after you bought the bottle",
+				"travel_boots":"Teleportin into the fog can almost cause you a free kill. Also grants movement speed ",
+				"urn_of_shadows":"Since pudge is one of the best ganker hero an Urn is nice to has on him. Can save your life and also help to kill an enemy if he is out of range",
+				"cyclone":"Eul for movement and stopping enemies also great to have. Dont forget, it can save your life too.",
+				"force_staff":"To better positioning a Force Staff is a huge advantage for the hooks.",
+				"ultimate_scepter":"Aghanim grants you lifesteal when youre using your ultimate. In my opinion its better then Heart",
+				"black_king_bar":"If the enemy has too many disable spells, you should purchase a BKB. Or take an Omniknight with you with for the repel",
+				"invis_sword":"Shadow Blade can be effective for silent killers",
+				"arcane_boots":"I do not recommend Phase for pudge, because his mana capacity is thin. If your team already have one, or two arcane, you should skip this and rush into a Phase or Tranquil Boots
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_flesh_heap",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_flesh_heap",
+			"10":"pudge_rot",
+			"11":"pudge_dismember",
+			"12":"pudge_rot",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

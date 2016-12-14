@@ -1,0 +1,94 @@
+{
+	"Hero":"techies",
+	"Title":"BOOM EVERYWHERE [Allifreyr] [6.82]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"sobi_mask",
+				"soul_ring",
+				"magic_wand",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"force_staff"
+			],
+			"Luxury":
+			[
+				"cyclone",
+				"sheepstick",
+				"shivas_guard",
+				"orchid",
+				"skadi",
+				"necronomicon",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"1 Clarity Potion is 1 Land Mine.",
+				"cyclone":"I usually go for this right after scepter for the increased movement speed, mana regen and disable",
+				"force_staff":"You can skip this and go straight for Scepter.
+
+Force staff seems better than it actually is. You can push your enemies into the mines, but as long as they don’t have Gem you should be able to kill them without it.",
+				"ultimate_scepter":"Techies’ Scepter- oh wait. This item gives you mana, health and it also improves your ultimate. Your Remote Mines will have a higher casting range and you can actually save some mana because the Damage/Mana ratio is higher.",
+				"soul_ring":"Soul Ring is a the perfect item for Techies. You get 150 Mana every 30 seconds, which is a lot of mana. It also means that you can place at least one Land Mine every 30 seconds.",
+				"arcane_boots":"Arcane Boots gives you a lot of mana and some mana regeneration. Combined with your Soul Ring you will have almost endless mana. After you get Soul Ring and Arcane Boots you actually got all items you need till late game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"techies_land_mines",
+			"2":"techies_suicide",
+			"3":"techies_land_mines",
+			"4":"techies_stasis_trap",
+			"5":"techies_land_mines",
+			"6":"techies_remote_mines",
+			"7":"techies_land_mines",
+			"8":"techies_suicide",
+			"9":"techies_suicide",
+			"10":"techies_suicide",
+			"11":"techies_remote_mines",
+			"12":"techies_stasis_trap",
+			"13":"techies_stasis_trap",
+			"14":"techies_stasis_trap",
+			"15":"attribute_bonus",
+			"16":"techies_remote_mines",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

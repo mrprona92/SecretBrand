@@ -1,0 +1,107 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"6.82 - Standard Doom (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"boots",
+				"tango"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"hand_of_midas",
+				"magic_wand",
+				"blink",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"vladmir",
+				"ultimate_scepter",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"refresher",
+				"sheepstick",
+				"assault",
+				"heart"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"See also: Jungle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Even more movement speed in combination with Scorched Earth.",
+				"hand_of_midas":"If so far ahead in gold and farm that you can get this quickly, definitely grab it and take advantage of it in the jungle.",
+				"vladmir":"Vladmir's Offering gives you the aura you want during the mid-game shift. It isn't always necessary and depends how you want to play Doom.",
+				"pipe":"This item is situational depending if the team hosts a lot of magic damage-dealers. If so, this item may prove to be more useful than Mekansm.",
+				"ultimate_scepter":"Aghanim's Scepter is an incredible addition to Doom's ultimate. However it depends on your enemies' line-up. If Faceless Void is on the other team, his ultimate and passive abilities can be annoying in which Aghanim's Scepter is justified.
+
+If you want to just stop initiators, then no Aghanim's.",
+				"refresher":"Getting Refresher after Midas, Black King Bar, Blink Dagger and Shiva's Guard makes you a crazy powerhouse with insane mana. All your abilities, including your ultimate, reset!",
+				"assault":"You have the extra damage, but now you need to improve your armor and attack speed. This item fills in the weak gaps of Doom to make him a monster powerhouse",
+				"heart":"With this item, you should be reaching 4,000 health and an incredible amount of regeneration. Definitely overpowered on Doom.",
+				"shivas_guard":"Shiva's Guard works great with Blink Dagger and your Scorched Earth. It will keep enemies in place, constantly taking damage and making you a huge menace.",
+				"radiance":"For much later in the game. Compensate for any loss of damage when going down this path with Radiance.",
+				"armlet":"Armlet is incredibly useful given your massive regeneration thanks to your Scorched Earth ability.",
+				"ancient_janggo":"Give some extra chasing power with Drums of Endurance. Also helps alleviate some of your mana problems.",
+				"abyssal_blade":"Though the damage and disabling is nice, Abyssal may not be necessary every game, especially when you Refresher Orb is available.",
+				"heavens_halberd":"Keep physical carries down with Halberd, furthering adding to the disability of your Doom. By activating your ultimate before Halberd, you prevent the enemy from dispelling the Halberd effect with Black King Bar."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_scorched_earth",
+			"9":"doom_bringer_scorched_earth",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Devour all the time. The incredible gold it gives you allows you to earn consistent gold at a rapid pace. In addition, you can now snag creeps with strong passive abilities in the neutral jungle camps.",
+				"doom_bringer_scorched_earth":"We're only picking up 1 in Scorched Earth for the movement speed to escape or chase. Devour is too good to ignore and Lvl? Death can also help at key timings.",
+				"doom_bringer_lvl_death":"Avoid using LVL? Death unless the bonus is up. You can try ganking the middle lane with LVL? if the opponent has reached level 6.",
+				"doom_bringer_doom":"Alwyas Doom opponents you want to keep down. Casters those with a lot of disabling abilities are the ones you should target. Avoid targeting physical carries as they do not rely on their abilities much and Doom lasts a good while."
+		}
+	}
+}

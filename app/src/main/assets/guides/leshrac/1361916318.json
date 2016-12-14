@@ -1,0 +1,122 @@
+{
+	"Hero":"leshrac",
+	"Title":"Detailed Guide to Leshrac (Lesh)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"flask",
+				"tango",
+				"gauntlets",
+				"gauntlets"
+			],
+			"Mid Starting Items":
+			[
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Support Core Items":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"magic_wand"
+			],
+			"Semi Carry Core Items":
+			[
+				"arcane_boots",
+				"bloodstone",
+				"bottle"
+			],
+			"luxury":
+			[
+				"courier",
+				"ward_observer",
+				"flying_courier",
+				"urn_of_shadows",
+				"cyclone",
+				"force_staff",
+				"ultimate_scepter",
+				"veil_of_discord",
+				"black_king_bar",
+				"ghost",
+				"sheepstick",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Provides decent health for the early game and can be upgraded to either a Bracer (and later Drum of Endurance) or Urn of Shadows.",
+				"branches":"The most cost efficient item in the game. Grab a handful of these to make last hitting slightly easier as well as giving you health to survive those early encounters. Component of Magic Wand. If you are going mid, save the rest of your gold to purchase a quick Bottle.",
+				"magic_wand":"With max charges, this item is effectively a Point Booster, allowing you to survive early and mid game encounters. It can also give you enough mana to cast that crucial last spell to finish an opponent off. More useful in combat and cheaper than a Bottle.",
+				"ghost":"If the enemy team is comprised mainly of physical damage, Ghost Form can swing the game in your favor. Be cautious using this as you will take bonus magic damage under its effects.",
+				"clarity":"Basic mana regeneration consumable.",
+				"flask":"Basic healing consumable. You need to have one of these to make sure you can stay in lane and get levels.",
+				"bottle":"A must for any mid lane solo. Make sure you use all your charges before bottling a rune as it will replenish the charges. Whenever you are sitting in the well, make sure you spam this to regenerate health and mana quicker. Observer Wards (Situational Items) will help you gain rune control.",
+				"ward_observer":"If no one on your team is buying Observer Wards, you may want to purchase some of your own to scout the rune spots. Rune control can swing momentum into your favor by providing you powerful buffs such as Invisibility while also refilling your Bottle, allowing you to stay active on the map.",
+				"tango":"Basic healing consumable. You need to have these to make sure you can stay in lane and get levels. I suggest using these prior to using your Healing Salve as their effectiveness decreases as the game drags on.",
+				"courier":"If you are playing support, you may have to purchase this at the start of the game. You may also have to upgrade the courier later. If you buy this, you should purchase 2x Clarity, 1x Healing Salve, 1x Tango, and 3x Iron Branch.",
+				"flying_courier":"If you have not purchased wards or the default courier, you may be required to upgrade the courier.",
+				"urn_of_shadows":"A strong alternative to Drum of Endurance. Provides good health, mana regeneration, and a great active ability Soul Release which can be used to heal allies (or yourself) or finish off fleeing opponents.",
+				"sheepstick":"Strong late game option. Provides Leshrac with a seemingly endless mana pool, respectable damage, and a powerful active ability Hex to give Leshrac some form of crowd control.",
+				"cyclone":"An alternative mid game option that provides decent mana regeneration, significant flat bonus movement speed, as well as an active ability that can be used to disable enemies. Cyclone can be used to set up Split Earth on an enemy or used on yourself to dodge projectiles",
+				"force_staff":"If you want more mobility, Force Staff is the best option. This can be used to gain distance from enemies or to chase fleeing enemies. It also provides Leshrac with a slightly increased mana pool.",
+				"ultimate_scepter":"A strong choice after Bloodstone if you want to carry. Provides Leshrac with more health and mana as well as an increase in Pulse Nova damage.",
+				"black_king_bar":"Black King Bar (BKB) is useful if you are constantly being targeted by enemy spell casters. The stats don't provide Necrolyte with very much besides health, but the active ability Avatar will allow you to last throughout dragged out team fights and deal more damage with Pulse Nova.",
+				"shivas_guard":"Provides a significant amount of armor, an aura that will reduce enemy attack speed, and an active ability Arctic Blast that deals decent magical damage as well as slowing enemies. A strong choice if survivability is an issue while also giving you more AOE damage.",
+				"bloodstone":"Provides exceptional health, mana, and regeneration. Allows you to use Pulse Nova effectively. You can disassemble Arcane Boots and use the Energy Booster to build Soul Booster and eventually Bloodstone. With enough stacks of Bloodpact, your respawn can become instant after dying.",
+				"arcane_boots":"The boot of choice. Not only will they increase your overall mana pool, but they give you an active ability to replenish the mana of you and any nearby team mates. In conjunction with Bottle, the active ability Replenish Mana should help you solve any mana problems until the late game.",
+				"ancient_janggo":"One of the most cost efficient items in the game. Swiftness Aura as well as the active ability Endurance boost the combat abilities of your entire team. It also gives you a respectable amount of damage, health, and mana for its price. Improves Leshrac's overall combat capabilities.",
+				"veil_of_discord":"A strong choice if your team is comprised mainly of magical damage. This will significantly amplify your AOE damage, especially when paired with Aghanim's Scepter. Also provides good bonus armor and intelligence."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_lightning_storm",
+			"3":"leshrac_split_earth",
+			"4":"leshrac_lightning_storm",
+			"5":"leshrac_split_earth",
+			"6":"leshrac_lightning_storm",
+			"7":"leshrac_split_earth",
+			"8":"leshrac_lightning_storm",
+			"9":"leshrac_diabolic_edict",
+			"10":"leshrac_pulse_nova",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_diabolic_edict",
+			"13":"leshrac_diabolic_edict",
+			"14":"leshrac_diabolic_edict",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Leshrac's only form of crowd control. The damage and radius increase with each rank, making it easier to land. Leshrac has a long cast animation so be sure to lead your target. If you know Split Earth will miss but the cast animation has not finished, use \"S\" to cancel the animation and try again.",
+				"leshrac_diabolic_edict":"Deals both physical and magical damage. Does decent damage in a crowded team fight, but most useful when only one target is in range. Use this to push towers and position yourself properly so that only the tower is being damaged by Diabolic Edict.",
+				"leshrac_lightning_storm":"Deals decent damage to multiple targets and has a very short cooldown. Use this to last hit, push, and harass the enemy. If you want to push towers early, you can rank Diabolic Edict before Lightning Storm. This spell is more suited towards solo mid play.",
+				"leshrac_pulse_nova":"Deals massive area of effect (AOE) damage but not useful without a large mana pool. Now that the mid game is approaching, we can put ranks into this. Once we have a good mana pool and regeneration, we can activate this during team fights.",
+				"attribute_bonus":"Once all your other abilities are max rank, there's no other option but Attribute Bonus."
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"Tiber's Earth Spirit Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"stout_shield",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"headdress",
+				"vitality_booster",
+				"broadsword"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"heart",
+				"basher",
+				"blade_mail"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"radiance",
+				"satanic"
+			],
+			"Magic heavy team":
+			[
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"broadsword":"build into Blademail
+",
+				"stout_shield":"Adds a little bit of tankness since your a CQB champ",
+				"branches":"Cheap and useful",
+				"clarity":"You run out of mana quick if you don't know what your doing bring this for back up.",
+				"tango":"Quick for healing, not to tanky early game are we?",
+				"vitality_booster":"Build toward varguard, get this last.",
+				"mekansm":"Get this if you need it, I would have it depending on the   if you are to squishy.",
+				"headdress":"build mech later on, but have this for the lane sustain on hp regen, helps alot.",
+				"heart":"good to have, build before vanguard if farmed enough. With this you can Roll out with your W heal, then go right back in :D",
+				"black_king_bar":"Needed if alot magic users are present.",
+				"vanguard":"may be noobish, but helps with you having to be close for your ulty",
+				"blade_mail":"Great for the attack and retaliation.",
+				"radiance":"Why not right? roll in, start burning everybody!",
+				"basher":"Stun stun stun!",
+				"satanic":"Its satanic, nuf said.",
+				"arcane_boots":"Get these quick for mana on the spot, the speed bonus helps also. recommended you build the Booster first."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_boulder_smash",
+			"3":"earth_spirit_geomagnetic_grip",
+			"4":"earth_spirit_rolling_boulder",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_geomagnetic_grip",
+			"8":"earth_spirit_boulder_smash",
+			"9":"earth_spirit_rolling_boulder",
+			"10":"earth_spirit_rolling_boulder",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_boulder_smash",
+			"13":"earth_spirit_rolling_boulder",
+			"14":"earth_spirit_boulder_smash",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"Pretty much Bruce Lee dragon kick your enemies away from you or into others, your stones will silence if  you kick them into your enemies. ALSO YOU CAN KICK YOUR FREINDS AWAY HAHAHAHHAHA, no need for force staff :3",
+				"earth_spirit_rolling_boulder":"Amazing escape, goes through everything except heroes. More stones you stack in a line the farther you go and more damage.",
+				"earth_spirit_geomagnetic_grip":"Get first so you can stun, its a long stun and means everything early game, first blood is easy for your team with this. Max out quick, stun gets longer fast.",
+				"earth_spirit_stone_caller":"Place in lines for you W so you go farther increasing damage, or in circles around your enemies, or behind them so you can pull stun, then shotgun them in the face with your Q along with the silence.",
+				"earth_spirit_magnetize":"Surround the enemy with stones then activate when your by them, great for finishing off people. Makes your  stones scary!"
+		}
+	}
+}

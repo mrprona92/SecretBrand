@@ -1,0 +1,104 @@
+{
+	"Hero":"chen",
+	"Title":"[DMX] Chen (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"vladmir",
+				"necronomicon",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_holy_persuasion",
+			"4":"chen_test_of_faith",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"le slow est très intéressant pour Chen puisqu’il permettra aux creeps sous son contrôle de rattraper les ennemis. L’amplification de dégâts en revanche, est surtout utile pour son deuxième sort.
+
+ ",
+				"chen_test_of_faith":"Cette compétence inflige des dégâts purs et peut donc être un très gros burst. De plus si vous l'utilisez après votre seconde compétence les dégâts seront encore plus grands.",
+				"chen_test_of_faith_teleport":"Un sort qui permet de téléporter vos alliés dans la base ce qui peut les sauver d'une situation périlleuse.",
+				"chen_holy_persuasion":"Ce sort vous permet de convertir des creeps et donc de faire vos woods tranquillement.
+Utilisez vos creeps pour tanker, dps et faire des ganks.",
+				"chen_hand_of_god":"Un très bon heal global qui pourra aider vos alliés même si vous êtes loin d'eux.
+Il remettra également la vie des creeps que vous contrôlez au maximum"
+		}
+	}
+}

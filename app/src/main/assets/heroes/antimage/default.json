@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_antimage",
+	"Title":"Recommended items for Anti-Mage",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"branches",
+			"branches",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"ring_of_health"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"magic_wand",
+			"vanguard",
+			"yasha",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"bfury",
+			"manta",
+			"abyssal_blade",
+			"butterfly",
+			"heart",
+			"vladmir"
+		]
+	}
+}

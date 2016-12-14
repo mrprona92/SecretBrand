@@ -1,0 +1,109 @@
+{
+	"Hero":"naga_siren",
+	"Title":"[A] EGM's Support Naga",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"branches",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"urn_of_shadows",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"heavens_halberd",
+				"medallion_of_courage"
+			],
+			"luxury":
+			[
+				"diffusal_blade",
+				"mekansm",
+				"ancient_janggo",
+				"black_king_bar",
+				"ghost"
+			],
+			"Supporting Items":
+			[
+				"courier",
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"build on arcane later.",
+				"magic_wand":"survivability",
+				"ghost":"This item is very situational. You might get this item if you feel that you have to last longer in team fights against multiple enemies with high physical dps. This item works similar to halberd but getting a halberd will be more useful than this.",
+				"ward_observer":"Replace with tangos or another item in order to buy this in the beginning of the game.",
+				"courier":"You should replace this with tangoes if you are going to buy the courier.",
+				"poor_mans_shield":"Nice early game block and durability",
+				"mekansm":"health and armor",
+				"urn_of_shadows":"Since this naga build is mainly focused on ganks, gaining urn charges makes you more durable and more support during the game.",
+				"black_king_bar":"for survivability.",
+				"diffusal_blade":"With nagas illusions, diffisual can be very useful on enemies who needs mana to be useful. Also a nice active to slow and take off buffs.",
+				"arcane_boots":"Naga needs mana to be more useful on team fights and ganks.",
+				"ancient_janggo":"for extra speed and survivability.",
+				"medallion_of_courage":"Medallion combined with rip tide causes extreme physical damage.",
+				"heavens_halberd":"This item gives you perfect evasion and with its active you can shut down right clickers on enemy team. Also a nice chance to slow and nice strength bonus."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_ensnare",
+			"2":"naga_siren_rip_tide",
+			"3":"naga_siren_ensnare",
+			"4":"naga_siren_rip_tide",
+			"5":"naga_siren_mirror_image",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_rip_tide",
+			"8":"naga_siren_ensnare",
+			"9":"naga_siren_rip_tide",
+			"10":"naga_siren_ensnare",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_mirror_image",
+			"13":"naga_siren_mirror_image",
+			"14":"naga_siren_mirror_image",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Very nice skill for dps and also you can send your illusions to break enemies armor with rip tide.",
+				"naga_siren_ensnare":"Nice disable.... Very important for ganks. An important note about this ability is that ensnare, goes through bkb.So you can use this on bkbed enemy carries. However, in a team fight, your main target to ensnare should be the most dangerous one that you think. It might not be just the carry.",
+				"naga_siren_rip_tide":"Makes enemies take high physical damage. You should send illusions forward and use this skill onyour main hero just to harass and reduce armor more safely.",
+				"naga_siren_song_of_the_siren":"Everyone goes to sleep!!! Use it for team fight initiations or for escapes. For initiation, try to catch as many heroes as possible so you can setup a team fight.Also you can use this to isolate and kill the enemy heroes when they activate bkb.For escapes,always try to save important heroes for team"
+		}
+	}
+}

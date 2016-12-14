@@ -1,0 +1,76 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"Perfect Nyx Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"boots",
+				"magic_wand",
+				"null_talisman"
+			],
+			"Core Items":
+			[
+				"arcane_boots",
+				"dagon"
+			],
+			"Late Game":
+			[
+				"ethereal_blade"
+			],
+			"Optional":
+			[
+				"ring_of_aquila",
+				"medallion_of_courage",
+				"ancient_janggo",
+				"blade_mail",
+				"orchid"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_impale",
+			"2":"nyx_assassin_spiked_carapace",
+			"3":"nyx_assassin_mana_burn",
+			"4":"nyx_assassin_impale",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_spiked_carapace",
+			"9":"nyx_assassin_spiked_carapace",
+			"10":"nyx_assassin_spiked_carapace",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_mana_burn",
+			"13":"nyx_assassin_mana_burn",
+			"14":"nyx_assassin_mana_burn",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

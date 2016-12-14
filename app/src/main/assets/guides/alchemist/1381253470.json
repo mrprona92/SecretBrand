@@ -1,0 +1,121 @@
+{
+	"Hero":"alchemist",
+	"Title":"Alchemist hard carry (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"quelling_blade",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"gloves",
+				"hand_of_midas",
+				"power_treads",
+				"invis_sword"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"maelstrom",
+				"basher",
+				"mjollnir",
+				"hyperstone"
+			],
+			"Финальный закуп":
+			[
+				"travel_boots",
+				"assault",
+				"mjollnir",
+				"abyssal_blade",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"bfury",
+				"vladmir",
+				"blade_mail",
+				"monkey_king_bar",
+				"rapier",
+				"black_king_bar",
+				"satanic",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Проще убивать крипов - проще фармить",
+				"gloves":"слегка увеличит аспид,с ходу улучшаем до мидаса",
+				"flask":"Бывают сильные стычки-это поможет",
+				"tango":"Поможет востановить малое  количество хп после небольшых стычек",
+				"travel_boots":"с ультом на 3лвл и в шб скорость 522 . Также секономить на телепорте)",
+				"hyperstone":"Нужен для кирасы или молнии, даёт нужную скорость атаки",
+				"power_treads":"Немного аспида,немного урона ,немного живучести, и скорость - то что надо",
+				"hand_of_midas":"Благодаря пассивке, фарм польётся рекой",
+				"vladmir":"Если  у вас много героев ближнего боя-идельно подойдёт для тимплея",
+				"assault":"Пмогает быть ещё живучей",
+				"heart":"С ультой регенирируете быстрее фонтана     ",
+				"black_king_bar":"Надоели нюкеры и сапорты ? идеальное решение",
+				"blade_mail":"Если у соперника персонажи с большим уроном стоит купить",
+				"rapier":"Когда всё напряженно или наоборот очень легко , облегчает ситуацию",
+				"monkey_king_bar":"Если  у соперника есть уклонение - полезный итем",
+				"basher":"С нашей скоростью атаки станы просто замечательная вещь",
+				"bfury":"Помогает ещё быстрей фармить и куда легче убивать если у соперника хватает илюзий",
+				"invis_sword":"Даёт нужный аспид и шанс уйти от смерти. Ультуем заряжаем колбу уходим в инвиз подходим к врагу, ну а дальше сами...",
+				"satanic":"Поможет вам не умиреть даже в самом тяжёлом бою",
+				"mjollnir":"Основной бонус скорости",
+				"maelstrom":"Даёт ещё больше скорости атаки и помогает фармить крипов",
+				"abyssal_blade":"Дополнительный урон и стан лишними не бывают"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_goblins_greed",
+			"2":"alchemist_unstable_concoction",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_unstable_concoction",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_goblins_greed",
+			"8":"alchemist_unstable_concoction",
+			"9":"alchemist_unstable_concoction",
+			"10":"alchemist_acid_spray",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_acid_spray",
+			"13":"alchemist_acid_spray",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Можно использовать для зачистки крипов,классно понижает броню и небольшой урон",
+				"alchemist_unstable_concoction":"Очень классный стан , а так же вещь на случай самоубийства , но если передержите-взорвётесь сами",
+				"alchemist_goblins_greed":"Больше золота-круче вещи",
+				"alchemist_chemical_rage":"Скорость атаки,регенерация жизней и маны, Скорость движения и увеличения количества жизней- всё что нужно любому кери",
+				"alchemist_unstable_concoction_throw":"Кидай или иначе взорвёшся",
+				"attribute_bonus":"Небольшие прибавки к характеристикам сделают вас сильнее"
+		}
+	}
+}

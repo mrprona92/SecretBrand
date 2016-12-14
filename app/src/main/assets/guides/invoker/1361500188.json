@@ -1,0 +1,106 @@
+{
+	"Hero":"invoker",
+	"Title":"Exort Invoker Middle!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"blades_of_attack",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"hand_of_midas",
+				"phase_boots",
+				"ancient_janggo",
+				"force_staff",
+				"tpscroll"
+			],
+			"Midgame":
+			[
+				"ultimate_scepter",
+				"cyclone"
+			],
+			"Invoker Skillz?":
+			[
+				"refresher"
+			],
+			"Extension":
+			[
+				"black_king_bar",
+				"sheepstick",
+				"assault",
+				"skadi"
+			],
+			"Last Updated: 24/10/2013":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blades_of_attack":"Blades of Attack give you a lot of early lasthitting+ damage",
+				"boots":"Leather boot before midas unless you expect a sub 7 minute midas timing",
+				"flask":"You can take Tango's instead if you see fit",
+				"tpscroll":"Extremely usefull to have, but use better judgement",
+				"phase_boots":"Improved rune control and massive damage",
+				"hand_of_midas":"Great for catching up when behind, Great for getting a greater lead, Make sure to use on large neutral creeps!",
+				"cyclone":"Allows a one shot combo consisting of Eul's, Sunstrike as they are up, And meatball where they land",
+				"force_staff":"Pushstick gives you a lot of positioning and mobility",
+				"ultimate_scepter":"Shorter cooldown on invoke and no mana cost! more spells and faster fight translation",
+				"refresher":"This is an EXTENSION item! If you decide to be refreshing you need to start working on it before any other extensions though (Only exception being BKB)",
+				"assault":"Better off buying if you plan to solo carry",
+				"black_king_bar":"A lot more team fight survivability",
+				"skadi":"Loda Doda we Like To Skoda",
+				"ancient_janggo":"Gives you a lot of direct benefits and early kill potential, Also helps team later on"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_quas",
+			"3":"invoker_invoke",
+			"4":"invoker_exort",
+			"5":"invoker_exort",
+			"6":"invoker_quas",
+			"7":"invoker_exort",
+			"8":"invoker_quas",
+			"9":"invoker_quas",
+			"10":"invoker_invoke",
+			"11":"invoker_wex",
+			"12":"invoker_exort",
+			"13":"invoker_exort",
+			"14":"invoker_exort",
+			"15":"invoker_wex",
+			"16":"invoker_invoke",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_quas",
+			"20":"invoker_quas",
+			"21":"invoker_quas",
+			"22":"invoker_wex",
+			"23":"invoker_wex",
+			"24":"invoker_wex",
+			"25":"invoker_wex"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_cold_snap":"Cold snap gives you a good single target stun, letting you stay on a target rather then keeping them in place, Early game you can use a mix of this and forgespirits for some serious ministunning goodness",
+				"invoker_ghost_walk":"If you see yourself getting in sticky situations early you can get a point in wex BEFORE level 11, giving you many escapes including ghostwalk, REMEMBER! The coldfeet debuff means people near you know you are there",
+				"invoker_tornado":"A good ranged CC, not much for damage and shouldn't be used during fights, Can be used to line up a Deafening Blast",
+				"invoker_emp":"For this build it doesn't do much until level 23, Too high manacost to worry about with this build until super late when you just need to spam a spell, Burns there mana and does damage based on burned mana",
+				"invoker_alacrity":"Auto attack steroid, When solo pushing cast this on yourself when you go for towers, in fights make sure to cast it on any agi carrys you may or maynot have. Tip for remembering it: IT MAKES YOU BETTER AT FIGHTING, WWE, WORLD WRESTLING!",
+				"invoker_chaos_meteor":"A long range slow moving high damage DoT AOE, Use with Defining Blast to keep them in the aoe, Use primairly for group fights, not solo kills early on (Unless you see clear potential)"
+		}
+	}
+}

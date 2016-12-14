@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Plasma Field",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Releases a wave of energetic plasma that grows in power as it expands, but also zaps on contraction, dealing damage to enemy units caught in its path. Damage increases with distance from Razor.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAMAGE MIN: <b><font color=\"#ffffff\">30/50/70/90</font></b><br/>DAMAGE MAX: <b><font color=\"#ffffff\">160/230/300/370</font></b><br/>RADIUS: <b><font color=\"#ffffff\">700</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/125/125/125<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14",
+        "lore": "The Lightning Revenant rules the Underscape with plasmatic power.",
+        "hurl": "Razor",
+        "name": "razor_plasma_field",
+        "youtube":"3wvYOe_TxFY",
+        "id": 0
+    },
+    {
+        "dname": "Static Link",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Creates a charged link between Razor and an enemy Hero, stealing damage from the target and giving it to Razor.",
+        "notes": "The link is broken when either unit dies or the distance between them becomes greater than 700.<br/>Can target Spell Immune units.",
+        "dmg": "",
+        "attrib": "LINK DURATION: <b><font color=\"#ffffff\">8/8/8/8</font></b><br/>BUFF DURATION: <b><font color=\"#ffffff\">18/18/18/18</font></b><br/>DAMAGE DRAIN RATE: <b><font color=\"#ffffff\">7/14/21/28</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 32/30/28/26",
+        "lore": "Razor\u0027s polarity channels electricity into his being, draining the power of his opposition.",
+        "hurl": "Razor",
+        "name": "razor_static_link",
+        "youtube":"F8ZIMc-BLEo",
+        "id": 1
+    },
+    {
+        "dname": "Unstable Current",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Razor moves with increased speed, and any abilites targeted at him are instantly countered with a jolt of electricity which damages, slows, and purges buffs from enemies.",
+        "notes": "Damage activates when the spell cast on Razor.<br/>Only activates if the caster is a hero unit.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">40/70/100/130</font></b>",
+        "attrib": "BONUS SPEED: <b><font color=\"#ffffff\">4%/8%/12%/16%</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">0.5/1/1.5/2</font></b>",
+        "cmb": "",
+        "lore": "Attacking the Lightning Revenant is rewarded with shock therapy.",
+        "hurl": "Razor",
+        "name": "razor_unstable_current",
+        "youtube":"K2FcewK9HYQ",
+        "id": 2
+    },
+    {
+        "dname": "Eye of the Storm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "A powerful lightning storm strikes out at enemy units with the lowest health, dealing damage and reducing their armor.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Each blast targets the lowest health enemy unit within range.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">500/500/500</font></b><br/>DURATION: <b><font color=\"#ffffff\">30</font></b><br/>STRIKE INTERVAL: <b><font color=\"#ffffff\">0.7/0.6/0.5</font></b><br/>ARMOR REDUCTION: <b><font color=\"#ffffff\">1/1/1</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">37/50/63</font></b><br/><font color=\"#6fe871\">SCEPTER STRIKE INTERVAL:</font></b> <b><font color=\"#ffffff\">0.6/0.5/0.4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/150/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/70/60",
+        "lore": "Ride the lightning.",
+        "hurl": "Razor",
+        "name": "razor_eye_of_the_storm",
+        "youtube":"aMqqRjUH9g8",
+        "id": 3
+    }
+]

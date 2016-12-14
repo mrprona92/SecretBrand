@@ -1,0 +1,123 @@
+{
+	"Hero":"rattletrap",
+	"Title":"6.82 - Standard Clockwerk (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"blade_mail"
+			],
+			"Core - Support":
+			[
+				"arcane_boots",
+				"mekansm",
+				"blade_mail"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"force_staff",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"heavens_halberd",
+				"ultimate_scepter",
+				"shivas_guard",
+				"heart"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Use stout sheild to mitigate damage from opponents harassing you. In addition, this works well with Power Cogs where your opponent is enclosed in an area with you.",
+				"bottle":"(Optional): Even if not in the mid-lane, you will constantly run out of mana. Bottle is to help remedy that situation. Make sure another person does not have bottle as well (although bottle is still good on Clockwerk).",
+				"phase_boots":"Typically Phase boots are the best boots for Clockwerk due to your Battery Assault ability. When using Battery Assault and chasing your opponent, your phase boots will allow you to sift passed creeps and obstructions.",
+				"mekansm":"With Clockwerk being among the first into battle, Mekansm and his qualities as a strength hero making Mekansm an ideal choice of an item for Clockwerk.",
+				"urn_of_shadows":"Urn of Shadows is a good pinch item to keep you juiced and healing while you gank the lanes.",
+				"force_staff":"If enemy team is ahead and your target has Black King Bar, making your Battery Assault useless, you can Cogs them and escape safely through Force Staff.",
+				"ultimate_scepter":"A great item if you're on the offensive or a key player in disabling specific heroes. Sometimes you may skip this item if you need survivability.
+
+You can also rush this item if you find yourself on a spree of ganks that leads to a strong lead for your team.",
+				"black_king_bar":"Black King Bar let's you move freely without being hindered by slows and disables from your foes, letting you pull off Battery Assault with ease.",
+				"shivas_guard":"Shiva's Guard adds to your survivability and slows opponents in a large damaging AOE. Very useful considering you will be initiating  a lot of team-fights (and thus be in the middle of the battle).",
+				"vanguard":"Vanguard is the follow-up item from Stout Shield and works great with Clockwerk due to the needed life regen, life and block percentage.",
+				"blade_mail":"Blade Mail helps counteract the forced attacks from your opponent due to your Power Cogs. Make sure to activate Blade Mail after trapping your opponent in with Power Cogs to further induce damage. Battery Assault will also prevent them from casting abilties, so activate that as well.",
+				"hood_of_defiance":"To further add to your tankiness and survivability.",
+				"rod_of_atos":"To help alleviate the low mana pool of Clockwerk, Atos slows opponents at an incredible range and offers health for clockwerk. Another very underrated but very useful item.",
+				"heavens_halberd":"Halberd is an underrated tool that helps disable physically-attacking carries. Make sure to use this at any opportunity you have. Also adds to your strength and life."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_power_cogs",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_battery_assault",
+			"4":"rattletrap_rocket_flare",
+			"5":"rattletrap_battery_assault",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_battery_assault",
+			"8":"rattletrap_rocket_flare",
+			"9":"rattletrap_rocket_flare",
+			"10":"rattletrap_rocket_flare",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_power_cogs",
+			"14":"rattletrap_power_cogs",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rattletrap_battery_assault":"We max this first given its killing capability when coupled with the right allies. Interrupt channeling abilities, fleeing enemies or even those trying to auto-attack as the intermission between mini-stuns is incredibly short.",
+				"rattletrap_power_cogs":"Power Cogs can be used in two ways: 1. To trap foes and drain their life/mana. 2. To escape or block paths, be sure to consider the advantages of both when positioning.",
+				"rattletrap_rocket_flare":"Flares has a global range, but must be shot from your location. Use it to illuminate certain areas or to kill of surviving escaping enemy heros.",
+				"rattletrap_hookshot":"Hook then Power Cogs then Battery Assault. It can target allies and enemies (including creeps), so be careful. The range is incredible so take advantage of it."
+		}
+	}
+}

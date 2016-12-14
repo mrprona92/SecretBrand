@@ -1,0 +1,99 @@
+{
+	"Hero":"earthshaker",
+	"Title":"Earthshaker Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"veil_of_discord",
+				"cyclone",
+				"shivas_guard",
+				"rod_of_atos",
+				"heart",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Another must have item - without it you will never get a proper Echo Slam off. Concentrate on stacking and pulling the neutral camps so you can get the gold for it. In fights you want to Blink in, Echo Slam, Fissure and Totem. Aftershock makes sure everyone is perma stunned.",
+				"branches":"You don`t have to get a Magic Wand with these right away. You should almost always get Arcane Boots asap.",
+				"clarity":"You need as much mana regen as possible early as you have a very small mana pool and Fissure is costly to use early on.",
+				"sheepstick":"Amazing mana regen and great disable to add to your arsenal of stuns.",
+				"cyclone":"Cheap item considered as a replacement for Scythe of Vyse. Great mana regen and a decent disable.",
+				"ultimate_scepter":"Great stats, great improvement on your ult. It is really hard to get the gold for it though. All situational items are considered extremely luxury.",
+				"heart":"You can consider buying a Heart in the rare cases where you have considerable farm and would like to stay alive longer in fights past the initiation phase. Recommended to buy later on, once you have a couple of mana boost items.",
+				"shivas_guard":"You can consider getting a Shiva`s to add to your initiation punch, as well as slowing the attack speed of enemy carries.",
+				"arcane_boots":"Arcane Boots are a must on Earthshaker. His mana pool is pitiful and definitely needs a boost. ES is not really a \"ward bitch\" as he requires items. Try to have another support on the team which can provide you with wards, dust, smoke, etc.",
+				"ancient_janggo":"Makes you tougher and increases your tiny mana pool. The aura is also very beneficial to your team.",
+				"veil_of_discord":"Not the best item for Blink initiators but still considered if you have a lot of magic damage on your team. Don`t get it if ES is the only hero dealing heavy magic damage.",
+				"rod_of_atos":"A bit of HP and mana boost. Comes in cheap."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_enchant_totem",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_aftershock",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Due to the long cast time of Fissure it is advisable to target the ground in front of the person you want to trap. Even if you don`t manage to land the stun (which shouldn`t be a problem after some practice) blocking someone off is more often than not more useful.",
+				"earthshaker_enchant_totem":"Enchant Totem, combined with Aftershock provides you with another AoE stun which you can use when Fissure is on cooldown (or you don`t have the mana for it) and you need to slow someone down. Get a point in it at level 4 so you can stun when out of mana for a Fissure.",
+				"earthshaker_aftershock":"The ability which makes Earthshaker a perma stunner. Doesn`t proc when you use items though.",
+				"earthshaker_echo_slam":"I`ve seen a lot of people not using Echo Slam if there are only 2-3 enemy heroes around and no creeps. DO ult in situations like this if you think it is necessary - winning a team fight like that makes enemy rax and towers easy prey with the hero advantage you have now."
+		}
+	}
+}

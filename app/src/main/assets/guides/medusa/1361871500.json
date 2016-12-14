@@ -1,0 +1,128 @@
+{
+	"Hero":"medusa",
+	"Title":"Fade2Black (middle lane medusa)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"slippers",
+				"tango",
+				"clarity"
+			],
+			"After 2-5 minutes of farm":
+			[
+				"ring_of_basilius",
+				"branches",
+				"branches",
+				"poor_mans_shield",
+				"magic_stick",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"poor_mans_shield",
+				"magic_wand",
+				"power_treads",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"manta",
+				"sphere",
+				"power_treads",
+				"rapier",
+				"butterfly",
+				"skadi"
+			],
+			"luxury":
+			[
+				"rapier",
+				"rapier",
+				"sphere",
+				"manta",
+				"travel_boots",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Reason: To be build later to Ring of Basilius",
+				"slippers":"Reason: Later to be build to Poor Man's Shield.",
+				"branches":"Reason: Helpful to boost your stats.",
+				"magic_stick":"Reason: Help you survive with spammer heroes.",
+				"clarity":"Reason: To make you spam more!",
+				"tango":"Reason: Prove to be useful to survive you in middle lane.",
+				"power_treads":"Reason: I chose Power Treads because again an addition of attackspeed, stats makes you dominate in farming! ",
+				"poor_mans_shield":"Reason: Makes you tank! as well as to give you agility.",
+				"sphere":"Reason: Get this after Manta, and from this time I expect you to be hard to kill, but don't rush into clashes, but instead just farm to any lane which have tons of creeps but no heroes. ",
+				"rapier":"After getting Manta and Linken's Sphere, Get Divine Rapier immediatly! and call it GG GAME!
+-Legendary Medusa by LGS.Fade2black",
+				"manta":"Reason: After getting Yasha, go Manta immediatly and proceed to Linken's Sphere.",
+				"satanic":"Reason: After getting DR, I suggest you go SATANIC to avoid getting killed. Because at the enemies' eyes, you are so precious to them that you become a good TARGET.",
+				"yasha":"Reason: Buy Yasha immediately after getting Treads,Aquila, Poor Shield and Wand. Makes you farm a lot! as well as give you movement speed to escape ganks.",
+				"ring_of_aquila":"Reason: An addition of your agility and other stats help you lasthit creeps better as well as to buckle up your life and gives you small amount of mana pool. Trust me it works until you make somwhere around Linken's Sphere and Manta"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"medusa_mystic_snake",
+			"2":"medusa_mana_shield",
+			"3":"medusa_mystic_snake",
+			"4":"medusa_mana_shield",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_mana_shield",
+			"9":"medusa_split_shot",
+			"10":"medusa_mana_shield",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_split_shot",
+			"13":"medusa_split_shot",
+			"14":"medusa_split_shot",
+			"15":"attribute_bonus",
+			"16":"medusa_stone_gaze",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"medusa_split_shot":"Activate split shot when farming to gain fast money!
+
+
+
+
+Tip: Activate when you have yasha and the level of split shot is level 3 or 4.",
+				"medusa_mystic_snake":"Max this first to harras enemies.
+
+tips:example, level 2 magic snake hits 4 units. So kill 1 creep (not the range, as they provide you mana) and when enemy is within the range. Cast the spell to the farthest creep so that the last one to be hit will be the hero, by that way, you can deal  big dmg!",
+				"medusa_mana_shield":"Activate mana shield when you sense enemies nearby (effective during early game) and if mid/late game, activate all the time to avoid being ganked!
+
+
+tips: Don't activate at early game when you want to harras your enemy to avoid mana loss.",
+				"medusa_stone_gaze":"Use this when being gank to avoid deaths! and also helpful when you want to kill an enemy with a magic snake and normal hit.
+
+
+
+tips: cast this if the enemy can be killed using magic snake."
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"Hero":"meepo",
+	"Title":"[DMX] Meepo (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_regen",
+				"branches",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"headdress",
+				"boots",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"vladmir",
+				"power_treads",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"assault",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"cyclone",
+				"blink",
+				"pipe"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_poof",
+			"4":"meepo_divided_we_stand",
+			"5":"meepo_poof",
+			"6":"meepo_earthbind",
+			"7":"meepo_poof",
+			"8":"meepo_earthbind",
+			"9":"meepo_earthbind",
+			"10":"meepo_geostrike",
+			"11":"meepo_divided_we_stand",
+			"12":"meepo_geostrike",
+			"13":"meepo_geostrike",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"meepo_divided_we_stand",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_earthbind":"Ce sort est très pratique car c’est votre disable principal, il vous permettra d’immobiliser votre cible à l’infini si vous avez plusieurs clones.",
+				"meepo_poof":"Cette compétence vous donne une mobilité hors norme et vous permet de passer d’un meepo à plusieurs en quelques instants. C’est aussi un excellent moyen de farmer car il inflige de bons dégâts en zone. Lorsque vous aurez plusieurs clones, utilisez Poof pour infliger un burst conséquent.",
+				"meepo_geostrike":"Ce sort vous permet de chase à l’infini en vous donnant un slow permanent tant que vous touchez votre adversaire. il s’avère donc très pratique pour garder vos ennemis à portée.",
+				"meepo_divided_we_stand":"Grâce à cet ultimate meepo peut gagner de l’expérience et de l’or plus vite que n’importe quel héros, mais cela nécessite une microgestion et une vision du jeu extrème, car si l’un de vos clones se fait tuer, vous mourrez avec lui."
+		}
+	}
+}

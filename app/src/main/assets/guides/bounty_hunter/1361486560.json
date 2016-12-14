@@ -1,0 +1,87 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"Utility Bounty Hunter (Hard Lane)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"medallion_of_courage",
+				"tpscroll",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"desolator",
+				"heart",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Stout shield is great at letting get you some experience points at the cost of some health, as the supps will not do very much damage to you, and you can get exp and lasthits like that.",
+				"bottle":"In case your midder doesnt want to go for bottle, or for more stayability on the lane, u can buy a bottle and go for rune control when the hard lane is too pushed.",
+				"tpscroll":"Always carry tp at early levels, tping into a 3 man gank on your easy lane can turn the fight around and earn a huge advantage if you already have track.",
+				"phase_boots":"The damage from phaseboots work very well with the crit from jinada, for extra health go for treads.",
+				"vladmir":"Great for pushing, lifesteal.",
+				"heart":"Great lategame item which almost make you unkillable when you have your bkb activated.
+",
+				"black_king_bar":"Bkb helps you in teamfights as you can go for the supps without being afraid of getting too much damage, as you are still a rather squishy hero.",
+				"rapier":"Underrated item,it is dangerous to buy in some situations, but if it is used right, can take enemied in one hit and escape with invi, the reliable crit of jinada makes this item really usefull on bh, as well as having 2 escape mechanisms (invi&track)",
+				"desolator":"If u have a good start a desolator can tear apart the other teams supports. Also great for focusing carries.",
+				"ancient_janggo":"Gives you great mobility and some hp, great for teamfights and for escaping from bad situations/chase.",
+				"medallion_of_courage":"Another item that synergizes great with jinada, just use it before hitting and you will crit nice numbers."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_jinada",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_jinada",
+			"8":"bounty_hunter_jinada",
+			"9":"bounty_hunter_shuriken_toss",
+			"10":"bounty_hunter_shuriken_toss",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_wind_walk",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

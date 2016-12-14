@@ -1,0 +1,67 @@
+{
+	"Hero":"treant",
+	"Title":"Treant Prorector by A.S",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"boots",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink"
+			],
+			"luxury":
+			[
+				"radiance",
+				"refresher",
+				"heart",
+				"assault",
+				"shivas_guard"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_leech_seed",
+			"2":"treant_living_armor",
+			"3":"treant_natures_guise",
+			"4":"treant_leech_seed",
+			"5":"treant_living_armor",
+			"6":"treant_overgrowth",
+			"7":"treant_living_armor",
+			"8":"treant_leech_seed",
+			"9":"treant_leech_seed",
+			"10":"treant_natures_guise",
+			"11":"treant_overgrowth",
+			"12":"treant_living_armor",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

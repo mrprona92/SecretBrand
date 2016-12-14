@@ -1,0 +1,111 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"6.82 - Standard Ember Spirit (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"bfury",
+				"bfury"
+			],
+			"luxury":
+			[
+				"poor_mans_shield",
+				"desolator",
+				"monkey_king_bar",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"greater_crit",
+				"abyssal_blade"
+			],
+			"Squall's Limit Break":
+			[
+				"rapier"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"poor_mans_shield":"Not always necessary but sometimes you may want that extra damage and to improve defense against harassment.",
+				"assault":"More armor debuff, more support for the main carry and great armor to prevent rivaling physical carries from wailing your team down.",
+				"black_king_bar":"Sometimes it just can't be avoided. This is to prevent those annoying silencing gankers that you just can't seem to shake off!",
+				"greater_crit":"More damage, more criticals, more one-hit kills with your ability Sleight of Fist.",
+				"bfury":"Good damage, good mana and health regeneration, works perfectly with Sleight of Fist. It transforms your small physical damage ability to an increased nuke.
+
+It is better to get two battlefurries before Daedalus as you get 70% (they stack additively) than Daedalus",
+				"desolator":"Apply the armor debuff easily with Sleight of Fist. This isn't better than two Battlefurys into Daedalus, so we slot it as situational as it works in conjunction with other heroes like Gyro/Luna as they can advantage of their multiple-target attacks and your Deso debuff.",
+				"ancient_janggo":"Helps with mana problems and keeps you moving. A great transitional item to eventually get your main damage-dealing item.",
+				"abyssal_blade":"Abyssal is a tool to keep physical carries down even when they get Black King Bar. Its damage naturally works with Sleight of Fist as well."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_flame_guard",
+			"2":"ember_spirit_searing_chains",
+			"3":"ember_spirit_flame_guard",
+			"4":"ember_spirit_searing_chains",
+			"5":"ember_spirit_flame_guard",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_flame_guard",
+			"8":"ember_spirit_sleight_of_fist",
+			"9":"ember_spirit_searing_chains",
+			"10":"ember_spirit_sleight_of_fist",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_searing_chains",
+			"13":"ember_spirit_sleight_of_fist",
+			"14":"ember_spirit_sleight_of_fist",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"Though the scaling is weak, this ability has a an immobilizer that does function with Sleight of Fist. Try to avoid doing this around creeps as you do not get to select the two units it holds in place.",
+				"ember_spirit_sleight_of_fist":"Similar to Juggernaut's Omnislash ultimate, this ability applies any and all attack modifiers to its attack. You cannot be touched while you use this ability. Use it to snag last hits you typically could not and to safely get closer to your foes for your Searing Chains",
+				"ember_spirit_flame_guard":"Flame Guard is a great pseudo-Black King Bar as it negates the damage from nukers and nullifies the partial usefulness of stun abilities. It scales incredibly well and furthers your ability to farm through its immolation effect.
+
+Pick this up depending how difficult it is to farm.",
+				"ember_spirit_fire_remnant":"While the damage is weak, it has an infinite range when used (not casted, but used). You can change lanes constantly to keep up farm, avoid ganks or even go back to base to heal momentarily then back mid-fight. Activating abilities also works during flight."
+		}
+	}
+}

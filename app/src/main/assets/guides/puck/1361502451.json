@@ -1,0 +1,94 @@
+{
+	"Hero":"puck",
+	"Title":"Finch Says Puck is a Pretty Lady",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"mantle",
+				"tango",
+				"flask",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"bracer",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"blink"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"sheepstick",
+				"shivas_guard",
+				"dagon",
+				"orchid",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is 100% needed on Puck.  It give you even more mobility and positioning.  You can even Orb into a fight, do some damage, then pop a Phase Shift (at max rank lasts 3.25 sec) and blink out untouched.  ",
+				"mantle":"If you are having trouble last hitting with Puck, feel free to puck up 2 Mantle of Intelligence.  ",
+				"circlet":"Grab this for more stats and then you can build it into your bracer.",
+				"bottle":"Bottle is a must on Puck.  It will give you more survivability with its regen as well as allow you to control the runes.  Once you are 6, between a rune and Dream Coil...you have an easy kill.",
+				"power_treads":"Power Treads on Puck allow her to be more vesitile.  Leave them on Strength if you need the health.  Or put them on Intelligence if you want the damage.",
+				"bracer":"This will give you a larger health pool which will allow you to play more aggressive.  If you have a great start and can get Power Treads + Blink, then go for it.  ",
+				"sheepstick":"Sheep Stick will allow you to nulify someone on the other team as well as give you a larger mana pool.  It is always a great item to help your team win the game. ",
+				"orchid":"The orchid will help if you have a pesky caster on the opposing team.  Picking this will further shut them down and can ruin their day.",
+				"cyclone":"Eul's will give you additional move speed for easier positioning.  Plus the effect can remove an enemy from the fight or help buy yourself time for your Blink Dagger to come off cooldown.",
+				"dagon":"Dagon is usually a bad idea, unless you have a hero on the enemy team you can blow up instantly.  Orb + Silence + Dagon can kill most low health heros before they have a chance to use any abilities.  ",
+				"shivas_guard":"Shiva's will allow you to have more mana and armor.  Dream Coil + Silence + Shivas Slow = a very upset opponents. ",
+				"ancient_janggo":"If you have the bracer already and no one else on the team has built Drums yet...why not you?  "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_phase_shift",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"You max the Orb first to give you a good amount of damage early game.  It will allow you to start the fight as well as finish off enemy heros as they are running away.  ",
+				"puck_waning_rift":"You want to max the Silence next because it will allow you to effectivly shut down enemy heros.  If you are going agaisnt a team who is extremely spell based, feel free to max it first over Orb.",
+				"puck_phase_shift":"Pick up Phase Shift at level 2, it will allow you to negate a ton of different types of damage.  The mana cost is 0 so please use it for ANY type of damage.  Auto attacks, enemy spells, tower shots...all can be negated with this ability.",
+				"puck_dream_coil":"As soon as you get Dream Coil, make sure you are ganking.  Use it to lock down an enemy to prevent them from getting away.  If you get a kill, then it is never wasteful to use Dream Coil on a single hero. "
+		}
+	}
+}

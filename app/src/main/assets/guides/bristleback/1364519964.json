@@ -1,0 +1,107 @@
+{
+	"Hero":"bristleback",
+	"Title":"The Ultimate Tank Machine [Update 6.8x]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"stout_shield",
+				"cloak",
+				"gauntlets",
+				"ring_of_regen",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"urn_of_shadows",
+				"power_treads",
+				"tpscroll",
+				"hood_of_defiance"
+			],
+			"Ultimate Build":
+			[
+				"black_king_bar",
+				"shivas_guard",
+				"pipe",
+				"heart",
+				"assault",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"blade_mail",
+				"vanguard",
+				"radiance",
+				"sphere",
+				"desolator",
+				"skadi"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"This item is good for pursuing your target, or escaping ganks. It also makes you very versatile in game. Don't buy this unless you have excessive money. Tread is a good enough choice for boots.",
+				"pipe":"Upgrade to Pipe if Enemy team has many disabler/nuker such as Tinker, Queen of Pain, or Jakiro etc.",
+				"assault":"If your Core Items cannot keep you alive during crucial team fights, try building Assault Cuirass.",
+				"heart":"What better way to survive than to build this for Bristlebog? Combined with his passive skill which reduces damage, Heart will provide you with massive regeneration and HP.",
+				"black_king_bar":"Good choice if Enemy Team has many disablers/nukers.",
+				"shivas_guard":"If your Core Items cannot keep you alive during crucial team fights, try building Shiva's Guard.",
+				"sphere":"Good choice if Enemy Team has many disablers/nukers.",
+				"vanguard":"Not highly recommended for Bristlebog but you should buy one if you feel like you need more HP. Vanguard will give you more durability in combat.",
+				"hood_of_defiance":"Buy this first after you have treads and magic wand.",
+				"radiance":"If you have money, go for Radiance. However don't rush it because it will be useless unless you have your Core Items on you. Radiance combined with your Die Hard ability will burn your enemies very much if they decide to pursue you during, or post-team fight.",
+				"desolator":"Don't buy this unless you're rich. Reduce Armor of Desolator and your first skill Nasal Goo will stack."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_quill_spray",
+			"2":"bristleback_viscous_nasal_goo",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_viscous_nasal_goo",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_bristleback",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_bristleback",
+			"13":"bristleback_viscous_nasal_goo",
+			"14":"bristleback_viscous_nasal_goo",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_bristleback":"Learn this ability sooner if you die too much. Max this ability when you reach Mid Game."
+		}
+	}
+}

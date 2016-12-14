@@ -1,0 +1,106 @@
+{
+	"Hero":"phantom_lancer",
+	"Title":"[Parker] Old school guide [RUS]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"vanguard"
+			],
+			"coreItems":
+			[
+				"radiance",
+				"diffusal_blade",
+				"heart",
+				"greater_crit",
+				"butterfly"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"skadi",
+				"manta",
+				"monkey_king_bar",
+				"quelling_blade",
+				"tranquil_boots",
+				"ring_of_aquila",
+				"black_king_bar",
+				"magic_wand"
+			],
+			"Лансер пушер":
+			[
+				"travel_boots",
+				"manta",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Можно купить в начале, если крипов тяжело добивать",
+				"magic_wand":"Помогает на начальных этапах игры",
+				"travel_boots":"Мобильность благодаря которой мы начинаем пушить",
+				"power_treads":"Прирост статов, и переключение, спасает порой. Собирается если у нас есть возможность фармить сразу, или после транквилов.",
+				"hand_of_midas":"Имеет место быть, скорость атаки + голда. ",
+				"necronomicon":"Прилетаем с травелами, юзаем некров, манту и сносим тавер.",
+				"heart":"Огромный бурст хп, и наши копии становятся гораздо плотнее",
+				"black_king_bar":"Тоже имеет место быть, не обращайте внимание на то что нас будет сразу видно, просто 6 слотовые маги такие как: Зевс, Леший могут нам сделать очень много проблем.",
+				"vanguard":"Мы становимся достаточно плотные, но позже мы его разбираем в тараску",
+				"monkey_king_bar":"Тоже один из важных предметов, если против нас играет Phantom Assasin, то обязательно собираем, плюс ко всему дает много урона.",
+				"radiance":"Собирает после 2 пт и вангварда, если фарм идет нормально, если же нет, то собирать его не стоит, время - до 20 мин.",
+				"butterfly":"Увороты, скорость атаки и ловкость",
+				"greater_crit":"Криты всегда помогут",
+				"manta":"Очень важный предмет для лансера, его можно собирать вместо радика, если игра в начале не пошла сразу, к тому же хорошо используется при пуше",
+				"skadi":"В конце игры выжигание маны от дифузов уже не играет столь большой роли, а это артифакт поможет нам в конце гораздо больше, особенно если глубокий лейт",
+				"diffusal_blade":"Основной предмет для лансера. Нам дает выжигание маны, хороший прирост статов, сильное замедление.",
+				"ring_of_aquila":"Даст вам немного пуш-ауры, реген маны (все-таки у нас хоть и две пассивки, но два скилла юзаем мы активно) и немного статов",
+				"tranquil_boots":"Собирается если стоим на тяжелой линии "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_lancer_spirit_lance",
+			"2":"phantom_lancer_doppelwalk",
+			"3":"phantom_lancer_spirit_lance",
+			"4":"phantom_lancer_phantom_edge",
+			"5":"phantom_lancer_spirit_lance",
+			"6":"phantom_lancer_juxtapose",
+			"7":"phantom_lancer_doppelwalk",
+			"8":"phantom_lancer_spirit_lance",
+			"9":"phantom_lancer_doppelwalk",
+			"10":"phantom_lancer_phantom_edge",
+			"11":"phantom_lancer_juxtapose",
+			"12":"phantom_lancer_doppelwalk",
+			"13":"phantom_lancer_phantom_edge",
+			"14":"phantom_lancer_phantom_edge",
+			"15":"attribute_bonus",
+			"16":"phantom_lancer_juxtapose",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

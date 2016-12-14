@@ -1,0 +1,103 @@
+{
+	"Hero":"lion",
+	"Title":"[DMX] Lion (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm",
+				"blink",
+				"force_staff",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"phase_boots",
+				"cyclone",
+				"dagon",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"SI le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_mana_drain",
+			"3":"lion_impale",
+			"4":"lion_voodoo",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_voodoo",
+			"9":"lion_voodoo",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_mana_drain",
+			"13":"lion_mana_drain",
+			"14":"lion_mana_drain",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"Un très bon stun de zone qui infligera de bons dommages.
+Essayez de stun le plus d'ennemis possibles avec !",
+				"lion_voodoo":"Un très bon contrôle qui permet à vos alliés de placer tous leurs dégâts aisément.",
+				"lion_mana_drain":"Un sort quio vous permettra de récupérer du mana sur les creeps range et les héros ennemis.",
+				"lion_finger_of_death":"Un très bon burst qui vous permet de finir un héros facilement ou de le tuer en un rien de temps avec vos alliés."
+		}
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Jungle to Earlygame Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"armlet"
+			],
+			"coreItems":
+			[
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"desolator",
+				"assault",
+				"vanguard"
+			],
+			"Late-carry Alternatives":
+			[
+				"hand_of_midas",
+				"radiance",
+				"satanic",
+				"abyssal_blade",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_vampiric_aura",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_vampiric_aura",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_vampiric_aura",
+			"6":"skeleton_king_mortal_strike",
+			"7":"skeleton_king_mortal_strike",
+			"8":"skeleton_king_hellfire_blast",
+			"9":"skeleton_king_vampiric_aura",
+			"10":"attribute_bonus",
+			"11":"attribute_bonus",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"skeleton_king_reincarnation",
+			"15":"skeleton_king_reincarnation",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"skeleton_king_hellfire_blast",
+			"24":"skeleton_king_hellfire_blast",
+			"25":"skeleton_king_hellfire_blast"
+		}
+	}
+}

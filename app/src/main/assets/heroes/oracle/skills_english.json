@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Fortune\u0027s End",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "CHANNELED - Gathers Oracle\u0027s power into a bolt of scouring energy that, when released, damages, stops movement, and purges enemies of buffs in an area around the target. Can be channeled for up to 2.5 seconds. The stop duration is equal to the time spent channeling.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">75/150/225/300</font></b><br/>MIN STOP DURATION: <b><font color=\"#ffffff\">0.5</font></b><br/>MAX STOP DURATION: <b><font color=\"#ffffff\">2.5</font></b><br/>RADIUS: <b><font color=\"#ffffff\">215</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "The astral orb crackles with power while raw energy lances out, temporarily disrupting an enemy\u0027s connection to their own body.",
+        "hurl": "Oracle",
+        "name": "oracle_fortunes_end",
+        "youtube": "uoC4rmz5pL4",
+        "id": 0
+    },
+    {
+        "dname": "Fate\u0027s Edict",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Oracle enraptures a target, disarming them and granting them 100% magic damage resistance, yet also increasing any damage taken from other damage types. Can be cast on allies and enemies.",
+        "notes": "Cannot be dispelled by purges, except for the purge from Fortune\u0027s End.",
+        "dmg": "",
+        "attrib": "DAMAGE AMPLIFICATION: <b><font color=\"#ffffff\">50%</font></b><br/>DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "An unbreakable prophecy resounds: a chosen ally shall briefly suffer no magics.  Other kinds of suffering however...",
+        "hurl": "Oracle",
+        "name": "oracle_fates_edict",
+        "youtube": "-5MLuLQ92_w",
+        "id": 1
+    },
+    {
+        "dname": "Purifying Flames",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Burns away impurities, dealing heavy magic damage to the target before causing them to regenerate health over time. The amount of health regenerated over its duration exceeds the amount of initial damage. Can be cast on enemies and allies.",
+        "notes": "The healing from Purifying Flames can be stacked with itself.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">90/180/270/360</font></b><br/>HEAL PER SECOND: <b><font color=\"#ffffff\">11/22/33/44</font></b><br/>TOTAL HEAL: <b><font color=\"#ffffff\">99/198/297/396</font></b><br/>DURATION: <b><font color=\"#ffffff\">9</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/60/70/80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 2.50",
+        "lore": "Like a hall of mirrors might amplify the light of a single candle, the shattered walls of the universe can transform the light of prophecy into a burning torch.",
+        "hurl": "Oracle",
+        "name": "oracle_purifying_flames",
+        "youtube": "YP2ZXzx6kX4",
+        "id": 2
+    },
+    {
+        "dname": "False Promise",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Heroes</font></b>",
+        "desc": "Temporarily alters an ally\u0027s destiny, delaying any healing or damage taken until False Promise ends. Any healing that is delayed by False Promise is doubled. Removes most negative status effects and disables while active.",
+        "notes": "Delayed damage and healing will take armor and magic resistance reductions into account when received.<br/>The delayed damage and healing takes effect as soon as the target becomes vulnerable.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">6/7/8</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/60/40",
+        "lore": "As false prophets are blind to the future, so your enemies shall be blind to your allies.",
+        "hurl": "Oracle",
+        "name": "oracle_false_promise",
+        "youtube": "q_OHyoGf9Ns",
+        "id": 3
+    }
+]

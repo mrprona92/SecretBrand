@@ -1,0 +1,76 @@
+
+{
+	"Hero":"oracle",
+	"Title":"Foreseer's Support Timeline",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"cyclone"
+			],
+			"Luxury Items":
+			[
+				"travel_boots",
+				"orchid",
+				"sheepstick",
+				"shivas_guard",
+				"sphere",
+				"necronomicon"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"ancient_janggo",
+				"rod_of_atos",
+				"pipe"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"oracle_purifying_flames",
+			"2":"oracle_fates_edict",
+			"3":"oracle_fortunes_end",
+			"4":"oracle_purifying_flames",
+			"5":"oracle_purifying_flames",
+			"6":"oracle_false_promise",
+			"7":"oracle_purifying_flames",
+			"8":"oracle_fortunes_end",
+			"9":"oracle_fortunes_end",
+			"10":"oracle_fortunes_end",
+			"11":"oracle_false_promise",
+			"12":"oracle_fates_edict",
+			"13":"oracle_fates_edict",
+			"14":"oracle_fates_edict",
+			"15":"attribute_bonus",
+			"16":"oracle_false_promise",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

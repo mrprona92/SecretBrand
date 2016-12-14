@@ -1,0 +1,107 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"And.... First Blood.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"magic_stick",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"power_treads",
+				"armlet",
+				"helm_of_the_dominator",
+				"tpscroll",
+				"hyperstone"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"heart",
+				"assault",
+				"manta",
+				"black_king_bar",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Build into bracers and later drums of endurance.",
+				"branches":"Best item in game.",
+				"boots":"Boots.",
+				"magic_stick":"Buy the recipe at base for 150 gold, Then go to the side shop in lane buy the magic stick. You can complete the magic wand after a couple last hits.",
+				"magic_wand":"Helps you with survivability and more importantly gives you much needed mana for your stun/rift combo.",
+				"tango":"Helps with survivability.",
+				"tpscroll":"You are a ganking hero, Tps are necessary since you should be roaming constantly. Teleport back to base if you are low on health/mana.",
+				"hyperstone":"Get after the rest of your core items for some extra oomph.",
+				"power_treads":"Keep on strength but toggle to int if you need the extra mana for an ability.",
+				"bracer":"More strength for your strength hero.",
+				"assault":"If the game drags on too long pick this up. Your team will enjoy this just as much as you do.",
+				"heart":"Get this if you are melting in team fights.",
+				"black_king_bar":"Get this if you are being bound, stunned, or fingered to death in every team fight.",
+				"manta":"The illusions from Manta style travel with your rift as well as the ones from your ulti. Also the movement speed increase helps you in chases.",
+				"armlet":"Probably the most key item on Chaos Knight. Makes you strike more often and harder. If your health drops too low remember to toggle the armlet off and back on.",
+				"satanic":"Get if you feel like you need more life steal.",
+				"helm_of_the_dominator":"Give you survability with your armlet and gives you the option to do Rosh. Pick up an Alpha wolf for team fights.",
+				"ancient_janggo":"Pop a charge in an important team fight or if you desperately need the speed in a chase or an escape.",
+				"medallion_of_courage":"If you are hurting on mana this is a fairly inexpensive way to keep up, the active ability helps you gank as well."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Use sparingly, your mana pool is small. Always try to use in conjunction with Reality Rift. Rift an enemy away from their laning partner and stun them. If you have an ally with a stun make sure you chain stun for 3 minute GG.",
+				"chaos_knight_reality_rift":"The reason why Chaos Knight is good at ganking. While you are in lane try to rift an enemy into your tower range and then stun them for a sure kill.",
+				"chaos_knight_chaos_strike":"One of the best crits in the game. Start leveling once you are done maxing your Rift/Stun combo.",
+				"chaos_knight_phantasm":"One of my personal favorite ultis. Don't spec into it at level 6 since you will lack the mana to use it effeciently. "
+		}
+	}
+}

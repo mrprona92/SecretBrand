@@ -1,0 +1,103 @@
+{
+	"Hero":"sniper",
+	"Title":"Carry Sniper",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"yasha",
+				"monkey_king_bar"
+			],
+			"Late Game":
+			[
+				"desolator",
+				"manta",
+				"butterfly",
+				"greater_crit"
+			],
+			"Alternatives":
+			[
+				"satanic",
+				"skadi",
+				"mjollnir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Gives you some protection from damage early.",
+				"slippers":"Gives you more damage so you can last hit better.",
+				"boots":"Everyone needs boots to run faster.",
+				"flask":"Allows you to heal up fast when you are low on HP.",
+				"tango":"Use these to heal up minor damage you take.",
+				"power_treads":"Gives you DPS, exactly what you need. Keep them on agility (green) unless you need more HP put them on strength (red).",
+				"monkey_king_bar":"Gives you more bashes and lots of damage. The extra bashes will help keep enemies from running.",
+				"butterfly":"Gives you tons of DPS as well as evasion.",
+				"greater_crit":"Crits for massive amounts of damage.",
+				"manta":"Gives nice stats and your illusions will do good damage.",
+				"satanic":"Gives lifeseal f you need it, remember it does not stack with Desolator.",
+				"mjollnir":"Gives tons of attack speed, good for pushing.",
+				"skadi":"Great stats and keep the enemy from running, remember it does not stack with Desolator but will stack with lifesteal.",
+				"desolator":"Gives you lots of damage.",
+				"yasha":"Gives you good damage and attack speed as well as makes you run faster.",
+				"ring_of_aquila":"Gives you good early stats and some Mana regen."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_take_aim",
+			"4":"sniper_headshot",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"sniper_shrapnel",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sniper_shrapnel":"Not a very strong spell, best used in team fights and for hurting towers.",
+				"sniper_headshot":"Allows you to stun enemies, gives good damage throughout the game.",
+				"sniper_take_aim":"Allows you to attack from a safer distance so max it first.",
+				"sniper_assassinate":"A powerful long range nuke, use it to kill fleeing enemies, also it has a low cool-down so use it often.",
+				"attribute_bonus":"You can get some points in this early if you need more stats, otherwise just wait until you have to."
+		}
+	}
+}

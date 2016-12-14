@@ -1,0 +1,86 @@
+{
+	"Hero":"undying",
+	"Title":"6.79 - The Neverdie Undying",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"circlet",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"ring_of_health",
+				"boots",
+				"cloak"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"pipe",
+				"arcane_boots"
+			],
+			"luxury":
+			[
+				"vanguard",
+				"shivas_guard",
+				"ultimate_scepter",
+				"vladmir",
+				"bloodstone",
+				"heart",
+				"blade_mail",
+				"veil_of_discord"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_decay",
+			"2":"undying_tombstone",
+			"3":"undying_decay",
+			"4":"undying_tombstone",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_decay",
+			"8":"undying_soul_rip",
+			"9":"undying_tombstone",
+			"10":"undying_decay",
+			"11":"undying_flesh_golem",
+			"12":"undying_soul_rip",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Arguably the strongest level 1 skill in the game. Decay busts trilanes into pieces. The sizeable AOE makes it easy to hit several targets. SPAM this ability when you are able to get 2 or 3 people, then start going for kills! Paired with a good disable, first blood should be yours.",
+				"undying_soul_rip":"Soul Rip. Meh. It's nice that its versatile (damage or heal) but the totals are just underwhelming. Wait on this ability as long as you can.",
+				"undying_tombstone":"Want to turn a teamfight in a hurry? Tombstone can do that! The AOE starts out very small but becomes very big at levels 3 and 4. Save this ability for the right teamfight opportunity, the cooldown is long.",
+				"undying_flesh_golem":"Flesh Golem is what keeps Undying undead. Pop that ability when shit hits the fan for instant debuffs to opponents and instant heals to you whenever something dies."
+		}
+	}
+}

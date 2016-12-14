@@ -1,0 +1,119 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Taking advantage of Wraith King's lifesteal",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"belt_of_strength",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"lifesteal",
+				"armlet",
+				"helm_of_the_dominator",
+				"satanic"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"basher",
+				"greater_crit",
+				"hand_of_midas",
+				"black_king_bar",
+				"soul_ring"
+			],
+			"Past Situational Items":
+			[
+				"rapier",
+				"abyssal_blade",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Last hits are always nice, especialy on a melee hero like Wraith King, where you may not have much of a window to take them.",
+				"branches":"Most importantly, extra mana, damage, and, builds into a Magic Wand.",
+				"belt_of_strength":"Damage, Health, and most importantly, builds into Power Treads, a core item.",
+				"lifesteal":"Good for the jungle, good for Vladmir's Offering and builds into Helm of the Dominator.",
+				"boots":"Use this over Belt of Strength if you need the movement speed, otherwise, just take the Belt of Strength.",
+				"magic_stick":"Builds into a Magic Wand.",
+				"magic_wand":"Cheap, gives passive mana and, supplies you with Health and Mana each time it's used. Try to get this as early as possible, so the charges can start building. (You never know when you need a little bit of mana to use that Ultimate.)",
+				"flask":"Fairly self explanitory, use when taking burst damage.",
+				"tango":"Fairly self explanitory, use when taking harass from enemies.",
+				"power_treads":"Power Treads, who doesn't like: Freely switching between core attributes for +8 in each one (use strength exept when casting, when casting, obviously use inteligence.)
+Extra movement speed: For getting out of tough situations. And, attack speed: Who doesn't like +30 attack speed?",
+				"hand_of_midas":"If you really need gold, or are jungling hardcore, then this may be your ticket, otherwise, stay away!",
+				"vladmir":"If you really need that much lifesteal, or want to jungle hardcore, then this is the item for you. It is benificial to your team (and your creeps) so, I would not advise you get it untill middle/late game. However, it really does help with jungling and it gives helpful, downright wonderful stats.",
+				"refresher":"Refresher Orb, an expensive Mana sustain item that gives decent damage. That's not why you should be getting it though. It combos well with Wraith King's Ultimate essentialy giving you two lifes, (Three with the Aegis of the Immortal.)  That allows you to safely build a Divine rapier.",
+				"black_king_bar":"If you are getting nuked hard, just need an escape route (not guaranteed of course) or the extra damage for a rather high price appeals to you then, this is your ticket.",
+				"rapier":"It really does work like a charm on Wraith King, providing: Huge lifesteal, mega criticals and, it is almost impossible to take off of him if you're playing well. Refresher Orb helps even more by giving him 2 lifes in which to burn. However, it can be pricey building Satanic Divine and Refresher.",
+				"greater_crit":"Only grab this if you are truly swimming in gold as the damage it gives is rather amazing, not to mention the criticals, which go hand in hand with Wraith King's natural criticals.",
+				"basher":"Only grab this if you need stuns, or you need good damage, as this is a good source of it at a fairly cheap price.",
+				"armlet":"A wonderful item for such a tanky carry (not to mention one with lifesteal!) The passives are most certantly nice but, it's the active that is the shining star of this item, use it during teamfights to kill quicker and most importantly, for the large amount of extra health it gives while active.",
+				"satanic":"And so we come to the core, Satanic. Huge lifesteal, wonderful active, and benificial stats, all a boon. Sadly, getting a Reaver to make it can be mighty difficult. So if you somehow cannot get this, keep/sell the Helm of the Dominator, and build Vladmir's Offering.",
+				"helm_of_the_dominator":"Work on this after the armlet, not only for the wonderful stats (yay lifesteal!) or its wonderful farming capabilities, but it builds into the core item for this build, a Satanic",
+				"soul_ring":"I would honestly only recommend Soul Ring if you're facing heroes with Mana burn skills. Otherwise the Magic Wand works just fine, although it could be a replacement to the Magic Wand depending on the situation.",
+				"abyssal_blade":"Upgrade to the Skull Basher, a situational item in its own right. Abyssal Blade provides, rather insane stunning capability and damage enough to make all of them quake in fear."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_vampiric_aura",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"This attack is your bread and butter at any point of the game, stun, DoT, slow, and nuke damage. However, don't use it freely as Wraith King is a hero of limited mana. Instead, only use it when you are either going to kill or, think you are going to kill.",
+				"skeleton_king_vampiric_aura":"You may think \"Well, why don't I upgrade this ability early, seeing as lifesteal is the core of this build!?\" My answer to you is, it denies you killing opportunities and farm oppertunities by making your creeps win the creep war, as such pushing them closer to the enemy tower. Not good early game.",
+				"skeleton_king_mortal_strike":"Great for the passive criticals. Fairly self explanitory in that it adds a good amount of DPS.",
+				"skeleton_king_reincarnation":"Resurrection, the shining star of Wraith King. Don't think you can play more risky, even slighty with this, because not only does it have a high cooldown (untill level 3) but, you need a rather high amount of mana to use it before level 2-3, when you should have enough mana to make it activate.",
+				"attribute_bonus":"Pretty self explainitory, dont you think? Although the the extra stats can be extremely useful for having not only a larger Health and Mana pool, but also for the extra damage they give while you're still laning. So you can grab these earlier then recommended if you'd like."
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "dotaId": "silver_edge",
+  "id": 249,
+  "img": "silver_edge_lg.png",
+  "dname": "Silver Edge",
+  "qual": "epic",
+  "cost": 5450,
+  "desc": "Active: Shadow Walk - Makes you invisible until the duration ends, or until you attack or cast a spell.  While invisible, you move 20% faster and can move through units.  Attacking to end the invisibility will deal 225 bonus damage to the target, disable their passive abilities, and reduce their damage output.<br \/>\r\nPassive: Lesser Maim - Each attack has a chance to slow the enemy\u0027s movement and attack speed for 4.0 seconds.",
+  "notes": "Backstab cannot miss.",
+  "attrib": "+ 32 Damage<br/>+ 30 Attack Speed<br/>+ 16 Strength<br/>MAIM CHANCE: 15%<br/>MAIM MOVE SLOW: 20%<br/>MAIM ATTACK SLOW: 20<br/>MAIM DURATION: 4<br/>SHADOW WALK DURATION: 14<br/>BONUS ATTACK DAMAGE: 225<br/>ENEMY DAMAGE REDUCTION: 40%<br/>REDUCTION DURATION: 5",
+  "mc": 75,
+  "cd": 24,
+  "lore": "Once used to slay an unjust king, only to have the kingdom erupt into civil war in the aftermath.",
+  "components": [
+    "invis_sword",
+    "sange"
+  ],
+  "created": true
+}

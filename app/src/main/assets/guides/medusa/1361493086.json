@@ -1,0 +1,100 @@
+{
+	"Hero":"medusa",
+	"Title":"Medusa Jungling",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"slippers",
+				"ward_observer",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"ancient_janggo",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"manta",
+				"rapier",
+				"butterfly",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"sphere",
+				"skadi",
+				"sheepstick",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Use to cut trees for choke point jungling and increase DPS.",
+				"slippers":"This instead of 3x GG branches simple because you wont need to get rid of GG branches later to make slot for midas and boots. Therefore increase your DPS overall in a long run.",
+				"branches":"GG",
+				"ward_observer":"Feel free to buy more than once after used up the first pair, you can afford it after getting a 5 mins midas and you should be the hero needed wards the most to escape ganks.",
+				"travel_boots":"As an ultra late game carrier, Medusa needs to get rid of useless slot to make room for rapiers. Provide great mobility and the ability to buyback-> TP ->pick up rapiers.",
+				"phase_boots":"Doesnt provide as much DPS as Agi Treads but it gives the mobility you will need to escape gank as well as moving between jungle camps for stacking/farming. Medusa is a naturely slow hero so this could save her life in a lot of situation and earning you some bonus kills.",
+				"hand_of_midas":"Try to get this ASAP, if you do things correctly, 5 mins midas is attainable. Otherwise try aiming for a 7 mins midas goal.",
+				"sheepstick":"Going toward utilities instead of DPS carry. Great if enemy team focus all their farm into 1 hard carrier.",
+				"sphere":"Get if the enemy has a certain advantage over your team mid game. Linken could keep you alive and stall the game longer for your need of farms. Defensive item.",
+				"rapier":"Get only after attain roshan or 2 lanes of mega creep. Once obtained, try to finish the game asap since the longer you hold it the bigger the risk. It is advised to finished your butterfly before completing your rapier.",
+				"butterfly":"Tremendous amount of DPS, increase survivability and forcing enemy carries to waste item slot on MKB, what not to like?",
+				"greater_crit":"Lesser Manly Rapier.",
+				"manta":"Remember illusion will carry the status of your first skill. Meaning that once you get manta(around 20 mins), You could turn on your Split Shot and activate manta to use illusion to push lanes out without risking yourself being ganked. Use creatively. Remove debuff, dodge projectiles.",
+				"skadi":"Great tank item lategame wise on medusa but it doesnt provide the damage medusa needed to completely dominate team fight. The orb effect is only applied to the main target of split shot so you will have a hard time trying to micro medusa instead of A-moving.",
+				"yasha":"If your team is behind, losing mapcontrol, consider getting an ultimate orb instead. Yasha, however, would increase your farming speed tremendously.",
+				"ancient_janggo":"Cost efficient all stat item is always good on medusa. Movement speed and damage bonus makes it imbalance."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"medusa_split_shot",
+			"2":"attribute_bonus",
+			"3":"medusa_split_shot",
+			"4":"attribute_bonus",
+			"5":"medusa_split_shot",
+			"6":"attribute_bonus",
+			"7":"medusa_split_shot",
+			"8":"medusa_stone_gaze",
+			"9":"medusa_mana_shield",
+			"10":"medusa_mystic_snake",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_mystic_snake",
+			"13":"medusa_mystic_snake",
+			"14":"medusa_mystic_snake",
+			"15":"medusa_mana_shield",
+			"16":"medusa_stone_gaze",
+			"17":"medusa_mana_shield",
+			"18":"medusa_mana_shield",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"medusa_split_shot":"Simply essential in farming ancient stacked. Get at least 1 point early on. Maxing Split shot means that you will be useless but it guarantees a rocket start in your farming potential.",
+				"medusa_mystic_snake":"Farming tool. Due to the damage jump mechanic, consider casting it on creeps to get the last bounce on hero which deals the most amount of damage.",
+				"medusa_mana_shield":"Tanky beyond measure. Signature spell.",
+				"medusa_stone_gaze":"Crow control. Increase survivalbility. Use carefully before hit level 16 because it costs quite a bit of mana.",
+				"attribute_bonus":"Best skill to have as medusa. Damage, HP, Mana.... all in 1 skill. Need at least 2 points in stat before maxing out Manashield."
+		}
+	}
+}

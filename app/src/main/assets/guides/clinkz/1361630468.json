@@ -1,0 +1,104 @@
+{
+	"Hero":"clinkz",
+	"Title":"6.82 - Standard Clinkz (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"orchid",
+				"helm_of_the_dominator"
+			],
+			"Extension Items":
+			[
+				"greater_crit",
+				"satanic",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sheepstick":"To aid with your mana regeneration and further disables.",
+				"orchid":"Orchid is to silence the enemy to ensure you aren't disrupted or interrupted during your Strafe and Searing Arrows onslaught. The extra attack speed and increased intelligence are to help with your mana starvation.",
+				"black_king_bar":"Get Black King Bar if you're prone to be a target of stuns and disables. This should help you be able to deal your damage and quickly escape without fear of being targeted.",
+				"monkey_king_bar":"Tear down towers even faster with Monkey King Bar. Monkey King Bar is especially useful for heroes that cause you to miss or simply evade a lot of attacks (such as Phantom Assassin)",
+				"butterfly":"Clinkz has trouble surviving and Butterfly amplifies his damage and speed while also adding survivability.",
+				"greater_crit":"Put less pressure to keep near your foe and just get luck with criticals to completely deteriorate any chance for them to survive.",
+				"helm_of_the_dominator":"Helm of the Dominator has two uses for Clinkz.
+
+1. It lets you use your ultimate: Death Pact to keep up your strength and damage
+
+and 2. It gives you a nice aura buff/disable that could be crucial when you want to gank.
+
+The possibilities are endless!",
+				"diffusal_blade":"Searing Arrows works alongside orb attacks such as the mana burn from Diffusal Blade. Consider getting level 2 if need-be.",
+				"ring_of_aquila":"Survivability and a bit of everything that Clinkz needs to stay in lane during the initial start."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_searing_arrows",
+			"2":"clinkz_wind_walk",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_wind_walk",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_strafe",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_wind_walk",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_strafe",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"One level in Strafe is all you need to kill foes and has too much of a mana cost to get it early. Strafe has a consistent attack speed buff but increases its duration. It can be used to tear towers or gank foes after using your ultimate: Death Pact.",
+				"clinkz_searing_arrows":"Use Searing Arrows to ensure last hits and also to harass your opponent during the lane-phase. Later on, this will be more damage dealer and it does go through Black King Bar.",
+				"clinkz_wind_walk":"This is your escape and way of moving about on the map. Be sure to use it sparingly as it does cost a good amount of your small mana pool.",
+				"clinkz_death_pact":"Constantly use this ability if you intend to gank or even for farming, it nets you easy goal and is essential for the extra damage and survivability. The larger the creep, the better the reward."
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"Hero":"lone_druid",
+	"Title":"Laning Lone Druid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"Starting Items (Bear)":
+			[
+				"stout_shield"
+			],
+			"Early Game (Druid)":
+			[
+				"tranquil_boots",
+				"magic_wand"
+			],
+			"Early Game (Bear)":
+			[
+				"stout_shield",
+				"phase_boots",
+				"orb_of_venom"
+			],
+			"Core Items (Bear)":
+			[
+				"maelstrom",
+				"assault"
+			],
+			"Extension (Druid)":
+			[
+				"pipe"
+			],
+			"Extension / Situational":
+			[
+				"basher",
+				"basher",
+				"monkey_king_bar",
+				"mjollnir",
+				"travel_boots",
+				"radiance",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"This makes it incredibly difficult for enemies to harass your bear.",
+				"magic_wand":"You can use the branches you started with to make this. It can also potentially save you in tight situations if you time it well.",
+				"travel_boots":"These replace your druids Tranquil Boots later on in the game. As an added bonus, you can teleport to your bear with them.",
+				"phase_boots":"Q: What's better than a near hasted bear?
+A: A near hasted bear with phase. Make sure you use the active frequently, it'll help a tonne with chasing and genuinely make it impossible to escape your bear.",
+				"hand_of_midas":"If your lineup is likely going to struggle to find openings early on this can be a decent pickup. Best picked up as a first item in this case. ",
+				"pipe":"You already get massive armor bonuses for physical damage dealers, get this if the enemy team has a lot of magical damage. It also helps out the rest of your team!",
+				"assault":"Should be your 2nd major item. Can also be carried on your druid if he's getting focused a lot in team fights. In general, you want it on your bear though, since you can stand the druid right back at a safe distance during pushes, and the bear will provide the aura to creeps and allied heroes.",
+				"monkey_king_bar":"This is for your bear, and should be considered if the enemy's core heroes have evasion.",
+				"radiance":"If you're having a fantastic early game and some extra pushing and teamfight presence buld this. It allows you to send the bear to lanes where you aren't and push (and farm!), you can then teleport the bear back any time you're in an engagement or want to push a tower.",
+				"basher":"You can get one of these on both your hero and bear for even more lockdown on top of entangle. Great against BKB users.",
+				"armlet":"This gives your bear insane damage output without any of the drawbacks of running armlet on your hero. Comparable damage output to maelstrom but also provides said damage against towers.",
+				"mjollnir":"For your bear. You can pick this up as an alternative to radiance. It's easier to farm and will help your bear land more entangles but you can't split push with it. If you're having difficulty farming, go for this instead.",
+				"maelstrom":"Very cost efficient for the damage it provides, unless you're having a near perfect early game (in which case grab a Radiance) this should be your first major item. ",
+				"orb_of_venom":"The extra slow from this will usually give your bear one or two extra hits for an entangle. It's also very cheap and can be bought from the side shops.",
+				"tranquil_boots":"When you can, change into range form before using these since you'll have lower base health. Since it's a static heal, it'll provide a bigger heal. You don't need much more than these on your hero since you become extremely tanky from your ultimate already."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_synergy",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lone_druid_spirit_bear":"Your bread and butter skill, also allows you to harass very well in lane whilst not putting yourself at risk. Once you hit level 5 you'll be able to get kills almost every time you get an entangle. Once you hit level 7 make sure you're pushing towers with it, the extra gold will help farm your core.",
+				"lone_druid_rabid":"A very powerful steroid, mostly for your bear. You can get a level in it at level 4 if you feel you need the extra movement speed.",
+				"lone_druid_synergy":"This skill buffs the rest of your skills and should be maxed second. It makes your bear hit like a truck, your rabid last for 10 years and makes your bear form immortal.",
+				"lone_druid_true_form_battle_cry":"Use this when you get into fights or want to push a tower faster. At level 16 it gives the same damage as a sacred relic, ouch!",
+				"lone_druid_true_form":"This is easily one of your most critical skills. Using it, you don't need to build defensive items on your hero and instead you can spend all of your money on making your bear insane. Be sure to use the armor and damage buff during fights and when pushing towers.",
+				"lone_druid_true_form_druid":"For the most part, make sure you use this before using your tranquil boots to give yourself a larger (overall hp%-wise) heal.",
+				"attribute_bonus":"Delicious stats. These are taken after everything else is maxed."
+		}
+	}
+}

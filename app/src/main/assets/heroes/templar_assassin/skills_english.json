@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Refraction",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Templar Assassin becomes highly elusive, avoiding damage and gaining a bonus to her damage.  The damage and avoidance effects are separate, and have a limited number of instances.",
+        "notes": "Damage as HP Removal bypasses Refraction (it won\u0027t reduce the charges).<br/>Only instances of 5 or more damage will trigger Refraction.",
+        "dmg": "",
+        "attrib": "INSTANCES: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>DURATION: <b><font color=\"#ffffff\">17/17/17/17</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 17",
+        "lore": "Manipulating her psionic veil, Lanaya bends nature\u0027s law to her will.",
+        "hurl": "Templar_Assassin",
+        "name": "templar_assassin_refraction",
+        "youtube":"xrj3rk70xrs",
+        "id": 0
+    },
+    {
+        "dname": "Meld",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Templar Assassin conceals herself, becoming invisible as long as she remains still.  If Meld\u0027s invisibility is broken by attacking an enemy, Lanaya will deal bonus damage to the enemy and reduce their armor for 10 seconds.",
+        "notes": "Meld is broken by any action other than staying in position.<br/>Meld\u0027s armor reduction does not work against towers.",
+        "dmg": "",
+        "attrib": "BONUS DAMAGE: <b><font color=\"#ffffff\">50/100/150/200</font></b><br/>ARMOR REDUCTION: <b><font color=\"#ffffff\">2/4/6/8</font></b><br/>ARMOR REDUCTION DURATION: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 6",
+        "lore": "Lanaya is as elusive as her covenant with the Hidden Temple.",
+        "hurl": "Templar_Assassin",
+        "name": "templar_assassin_meld",
+        "youtube":"-oa6PPpOtiM",
+        "id": 1
+    },
+    {
+        "dname": "Psi Blades",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Templar Assassin\u0027s psi blades slice through the attacked unit, splitting and damaging enemy units directly behind it, while gaining bonus attack range.",
+        "notes": "Split damage hits invisible units.<br/>Attack effects like Unique Attack Modifiers and Bash will only be applied to the main target.<br/>Attacks against illusions will not split.",
+        "dmg": "",
+        "attrib": "BONUS ATTACK RANGE: <b><font color=\"#ffffff\">60/120/180/240</font></b><br/>SPLIT RANGE: <b><font color=\"#ffffff\">590/630/670/710</font></b>",
+        "cmb": "",
+        "lore": "Her blades pierce the skin as much as the mind, furthering her understanding of the mystery that is reality.",
+        "hurl": "Templar_Assassin",
+        "name": "templar_assassin_psi_blades",
+        "youtube":"TujHkI7r5Lw",
+        "id": 2
+    },
+    {
+        "dname": "Trap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Springs the nearest trap, slowing nearby enemies.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0.50",
+        "lore": "",
+        "hurl": "Templar_Assassin",
+        "name": "templar_assassin_trap",
+        "youtube":"kZkWoqTLTrY",
+        "id": 3
+    },
+    {
+        "dname": "Psionic Trap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Templar Assassin places mystical traps that invisibly monitor enemy movement. When sprung at her command, they exert a slowing influence of 30% in the area. Traps charge up to slow an additional 5% every second, up to 50%.",
+        "notes": "Traps last indefinitely.<br/>They have invisibility that fades in over 2 seconds, spell immunity, and 100 HP.<br/>Traps have 400/400 vision range and don\u0027t prevent neutral camps from spawning.",
+        "dmg": "",
+        "attrib": "MAX TRAPS: <b><font color=\"#ffffff\">5/8/11</font></b><br/>MIN MOVEMENT SLOW: <b><font color=\"#ffffff\">30%</font></b><br/>MAX MOVEMENT SLOW: <b><font color=\"#ffffff\">50%</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 15/15/15<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 11/8/5",
+        "lore": "Calling upon the reach of the Hidden Temple, none escape the eye of the Templar.",
+        "hurl": "Templar_Assassin",
+        "name": "templar_assassin_psionic_trap",
+        "id": 4
+    }
+]

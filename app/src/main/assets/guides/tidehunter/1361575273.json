@@ -1,0 +1,112 @@
+{
+	"Hero":"tidehunter",
+	"Title":"6.82 - Standard Tidehunter (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"tango"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"magic_wand"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"crimson_guard",
+				"pipe",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"refresher"
+			],
+			"Last Updated: 10/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Initiate with Blink Dagger. This is quintessential to making a good Tidehunter initiator. Without Blink Dagger, Tidehunter is incredibly difficult to engage a team-fight properly.",
+				"ward_observer":"As a support, be sure to buy courier or wards.",
+				"courier":"As a support, be sure to buy courier or wards.",
+				"mekansm":"Tidehunter can hold Mekansm like no other. Pick this up if no one else will.",
+				"refresher":"After Shiva's Guard, Refresher Orb will give you a second ultimate and a second Shiva's Guard active ability. Just make sure you have the mana for it all.",
+				"shivas_guard":"After using your ultimate, Shiva's Guard is a natural item to get after to keep them within reach of your team as well as adding to the survivability in combination with Kraken Shell.",
+				"vanguard":"Crimson Guard can be great given your Anchor Smash reduces damage from enemy attacks. Depending on their line-up, you may want to pick up Crimson Guard or Pipe of Insight to deflect physical or magic damage.",
+				"crimson_guard":"Get Crimson Guard towards the later part of the game where you are needed for team-fights. Crimson Guard will change that in an instance.",
+				"ancient_janggo":"Use drums as an intermediate towards getting Blink Dagger. The added strength, intelligence and speed would help you greatly.",
+				"heavens_halberd":"Be sure to get this item if countering a carry hero. This will disable them for a sufficient amount of time after you use your ultimate."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_anchor_smash",
+			"3":"tidehunter_anchor_smash",
+			"4":"tidehunter_kraken_shell",
+			"5":"tidehunter_anchor_smash",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_anchor_smash",
+			"8":"tidehunter_kraken_shell",
+			"9":"tidehunter_kraken_shell",
+			"10":"tidehunter_kraken_shell",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_gush",
+			"13":"tidehunter_gush",
+			"14":"tidehunter_gush",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tidehunter_gush":"Gush needs one level for the slow, the damage does not beat its cost and cooldown of Anchor Smash.",
+				"tidehunter_kraken_shell":"Getting Max Kraken Shell let's you farm the jungle camps and do ancients in combination with your Anchor Smash. Using the two together allows you to take down Ancients without taking any damage (dmg reduction + physical block)!
+
+At level 3 Kraken Shell, you can start doing Ancients.",
+				"tidehunter_anchor_smash":"You max out Anchor Smash over Gush given its low cooldown, incredible damage and how it reduces incoming damage from affected enemy heroes.
+
+Use this ability to farm the jungle/Ancients and get your core items at an incredible rate.",
+				"tidehunter_ravage":"This is one of the best ultimate abilities in the game. Considering its range, you do not need to be in the center of the fight to cast it off! Just don't use it as an escape mechanism as it does have a very long cooldown."
+		}
+	}
+}

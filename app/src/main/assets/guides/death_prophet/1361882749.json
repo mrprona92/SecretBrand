@@ -1,0 +1,106 @@
+{
+	"Hero":"death_prophet",
+	"Title":"Cpt.Rage : Death Prophet solo mid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bloodstone",
+				"cyclone"
+			],
+			"Late game":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"heart",
+				"travel_boots"
+			],
+			"alternatives to core and situational":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"vitality_booster",
+				"mekansm",
+				"rod_of_atos",
+				"pipe",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Death prophet does not need to auto attack so ghost scepter is a great choice against farmed carries.",
+				"bottle":"Death prophet have good rune control with the high movement speed provided by witchcraft. She also benefit highly from many of the runes.",
+				"travel_boots":"upgrade your boots to travel for extra movement speed and another slot available as you don't have to carry TPs anymore",
+				"phase_boots":"More movement speed for good rune control. Buy arcane instead if your not doing well in lane",
+				"vitality_booster":"naked vitality booster can be bought for cheap survivability, then later turned into heart.",
+				"mekansm":"If no one else is going for it and you are not having a good enough start get this with arcane boots instead of blood stone",
+				"pipe":"If the enemy team have a lot of magical damage then pipe is a great choice.",
+				"sheepstick":"Late game hex is always good",
+				"cyclone":"Flat movement speed is very good, as death prophets passive gives a percentage based increase in movement speed. you can also cyclone yourself while your exorcism is active.",
+				"heart":"All you need to do late game in team fights is to stay alive with exorcism on. Heart gives a lot of survivability",
+				"shivas_guard":"Great against a team with a lot of physical damage, the slow also helps while kiting.",
+				"bloodstone":"Gives everything death prophet needs early game. Mana, survivability and regen.",
+				"arcane_boots":"Go for arcane if you are having a hard time in lane, can be disassembled to make a blood stone later. ",
+				"ancient_janggo":"early game stats and movement speed, if you are not having a good start",
+				"rod_of_atos":"Survivability and mana, good early if your not going for bloodstone, not worth getting as a late game item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_witchcraft",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_witchcraft",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_witchcraft",
+			"8":"death_prophet_witchcraft",
+			"9":"death_prophet_silence",
+			"10":"death_prophet_carrion_swarm",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_carrion_swarm":"Get a few levels early on for lane control, last level does not scale particularly well (50 damage instead of all other levels of 75)",
+				"death_prophet_silence":"Sometimes silence is needed earlier, this skill point could be swapped with level 3 carrion swarm",
+				"death_prophet_witchcraft":"Should be maxed early to give your ultimate its maximum effect. Level one exorcism uses 4 spirits, while level 4 witchcraft gives an additional 6 spirits. The movement speed is also very useful for rune control",
+				"death_prophet_exorcism":"Very good ultimate for pushing and team fights. Remember that the damage is physical and not magical."
+		}
+	}
+}

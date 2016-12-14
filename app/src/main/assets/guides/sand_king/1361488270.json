@@ -1,0 +1,84 @@
+{
+	"Hero":"sand_king",
+	"Title":"The Definitive Sand King Guide (Shortened for in-game)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"circlet",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"Solo Mid Starting Items":
+			[
+				"mantle",
+				"circlet",
+				"flask",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots"
+			],
+			"Vital Items":
+			[
+				"blink"
+			],
+			"Luxury Items (In Order of Importance)":
+			[
+				"ultimate_scepter",
+				"veil_of_discord",
+				"shivas_guard"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_caustic_finale",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_sand_storm",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_caustic_finale",
+			"9":"sandking_caustic_finale",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_sand_storm",
+			"13":"sandking_sand_storm",
+			"14":"sandking_sand_storm",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sandking_burrowstrike":"Burrowstrike teleports you to the target location instantly, while stunning those in a line towards your target. When using on fleeing enemies, aim ahead of their running direction, as this will allow you to get an extra attack off and increase your chances of hitting the enemy with Burrowstrike.",
+				"sandking_sand_storm":"Sand Storm should be used only for escape. Farming with it is ill-advised, as the damage is too slow to the point enemy heroes can simply deny their own creeps. You can dodge most projectile-based damage by pressing Sand Storm's hotkey while the projectile is mid-air. Practice makes perfect.
+",
+				"sandking_caustic_finale":"Caustic Finale is extremely devastating to all enemy melee heroes. If you are versing an enemy melee hero in your lane, get this at Level 2 instead of Level 4. You can stack this debuff on an entire creep wave, and then Burrowstrike that wave to deal insane damage in a large area of effect.",
+				"sandking_epicenter":"Unless your targets have no stuns to stop the 2 second channeling time of this spell, always rely on Blink Dagger to effectively Epicenter. Channel the spell in a safe location, hold SHIFT, then blink to your target location. Shift-queuing ensures you will miss no pulses of Epicenter.",
+				"attribute_bonus":"Attribute bonuses are nice, man."
+		}
+	}
+}

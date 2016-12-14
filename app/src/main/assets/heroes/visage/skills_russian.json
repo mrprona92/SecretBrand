@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Grave Chill",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Visage вытягивает скорость передвижения и атаки цели, прибавляя эти показатели к своим.",
+        "notes": "Эффекты можно снять по отдельности способностью очищения.<br/>Количество полученной скорости не зависит от количества потерянной.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ВЫСАСЫВАЕМАЯ СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">32%/32%/32%/32%</font></b><br/>ВЫСАСЫВАЕМАЯ СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">64/64/64/64</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/14/12/10",
+        "lore": "Тепло солнечного света никогда не просачивалось в темные и холодные коридоры Узкого Лабиринта.",
+        "hurl": "Visage",
+        "name": "visage_grave_chill",
+        "youtube":"Wn_IpUEFnOk",
+        "id": 0
+    },
+    {
+        "dname": "Soul Assumption",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Visage наносит цели урон, зависящий от числа накопленных душ. Каждый раз, когда нанесенный всем юнитам вокруг урон превышает определенную границу, Visage накапливает одну душу.",
+        "notes": "Вы получаете душу при нанесении игроком или Рошаном урона от 2 до 3000 единиц. Урон самому себе или урон от этой способности не учитывается.<br/>Снаряд этой способности нельзя сбить с цели.",
+        "dmg": "",
+        "attrib": "БАЗОВЫЙ УРОН: <b><font color=\"#ffffff\">20</font></b><br/>УРОН ДУШИ: <b><font color=\"#ffffff\">65</font></b><br/>ГРАНИЦА УРОНА: <b><font color=\"#ffffff\">110</font></b><br/>МАКС. ДУШ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ВРЕМЯ ЖИЗНИ ДУШ: <b><font color=\"#ffffff\">6</font></b><br/>РАДИУС ДЕЙСТВИЯ: <b><font color=\"#ffffff\">1375</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 170/160/150/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 4",
+        "lore": "Собранные души мертвых вырываются, чтобы забрать к себе в стаю еще одну.",
+        "hurl": "Visage",
+        "name": "visage_soul_assumption",
+        "youtube":"NCV_P7rUw-8",
+        "id": 1
+    },
+    {
+        "dname": "Gravekeeper's Cloak",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Visage создает слоистый барьер, который защищает его как от физического, так и от магического урона. Если герой получает урон от игрока, один слой исчезает, и затем восстанавливается спустя определенное время.",
+        "notes": "При получении от игрока урона больше 2 единиц исчезает один слой.",
+        "dmg": "",
+        "attrib": "БРОНЯ ЗА СЛОЙ: <b><font color=\"#ffffff\">1/2/4/5</font></b><br/>СОПРОТИВЛЕНИЕ ЗА СЛОЙ: <b><font color=\"#ffffff\">3%/6%/12%/16%</font></b><br/>МАКСИМУМ СЛОЕВ: <b><font color=\"#ffffff\">4</font></b><br/>ВРЕМЯ ВОССТАНОВЛЕНИЯ СЛОЯ: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "",
+        "lore": "Прочная сущность Visage разделяет свойства камня и призрака, делая его практически невосприимчивым к мечу и магии.",
+        "hurl": "Visage",
+        "name": "visage_gravekeepers_cloak",
+        "youtube":"jAG74Ac-Z4o",
+        "id": 2
+    },
+    {
+        "dname": "Summon Familiars",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Призывает двух слепых гаргулий, которые будут сражаться на стороне Visage. Гаргульи имеют высокую силу атаки, но, атакуя, расходуют заряды урона, которые медленно восстанавливаются. Гаргульи имеют способность Stone Form, которая позволяет им превращаться в камень, оглушая врагов при приземлении. В форме камня гаргульи неуязвимы и быстро восстанавливают здоровье и заряды урона. За убийство гаргулий враг получает значительную награду.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Использование способности заменяет существующих гаргулий вновь призванными.<br/>Каждая гаргулья появляется с 7 зарядами урона. Гаргульи невосприимчивы к заклинаниям.",
+        "dmg": "",
+        "attrib": "АТАК ДЛЯ УНИЧТОЖЕНИЯ: <b><font color=\"#ffffff\">3</font></b><br/>БРОНЯ ГАРГУЛЬИ: <b><font color=\"#ffffff\">0/1/2</font></b><br/>СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ГАРГУЛЬИ: <b><font color=\"#ffffff\">380/390/400</font></b><br/>МАКСИМАЛЬНЫЙ УРОН ГАРГУЛЬИ: <b><font color=\"#ffffff\">56/98/154</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/150/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 180/160/140",
+        "lore": "Стражи Узкого Лабиринта, приспешники Некро'лика, неустанно и отрешенно следят за его владениями.",
+        "hurl": "Visage",
+        "name": "visage_summon_familiars",
+        "youtube":"_wBf8zfMfFc",
+        "id": 3
+    }
+]

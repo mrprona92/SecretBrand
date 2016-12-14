@@ -1,0 +1,110 @@
+{
+	"Hero":"alchemist",
+	"Title":"Alternate Alchemist Carry [ATK. Speed]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"lifesteal"
+			],
+			"coreItems":
+			[
+				"mask_of_madness",
+				"phase_boots",
+				"maelstrom",
+				"basher"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"assault",
+				"heart",
+				"hand_of_midas",
+				"radiance",
+				"armlet",
+				"greater_crit",
+				"tranquil_boots",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Quelling Blade comes in handy when stacking your Goblin's Greed. If you can use this item to it's full potential, you'll be swimming in gold in no time.",
+				"stout_shield":"Stout Shield is an excellent item for Alchemist's early game since it provides protection against early game attacks, letting you stack Goblin's Greed further.
+
+Later, this item will be built into Vangaurd",
+				"lifesteal":"Morbid Mask will provide some Lifesteal for early game kills or farm.
+
+This item will be built into Mask of Madness.",
+				"travel_boots":"What can I say? They're really fast!",
+				"phase_boots":"Phase Boots will allow you to walk through units, making Unstable Concoction much easier to land. It also gives quite a nice early game attack.",
+				"hand_of_midas":"Only get this if your farm is going to be good, if not, skip it for other core items.
+",
+				"assault":"Pushing late game and the stacking with your Acid Spray does very well.",
+				"heart":"If you're dying too much, get one of these.
+",
+				"radiance":"Radiance is a good item to pick up if your farm is severe. It will automatically kill units around you in an AoE, stacking Goblin's Greed for you.",
+				"basher":"Skull Basher will allow you to utilize your attack speed to the fullest potential, leaving your enemies stunned while you hack at them.",
+				"mjollnir":"Direct upgrade of Maelstrom, get it, if you have the farm.",
+				"maelstrom":"Maelstrom is a very core item in this build. It allows for Alchemist's Ultimate to be used as effectively as possible.",
+				"mask_of_madness":"Mask of Madness is an excellent item for Alchemist, giving him easier farm, increased lifesteal, early ganking potential, and the ability to chase enemies with your Unstable Concoction. ",
+				"tranquil_boots":"If you're dying a lot early game, get these instead of Phase."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_goblins_greed",
+			"2":"alchemist_unstable_concoction",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_unstable_concoction",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_unstable_concoction",
+			"8":"alchemist_goblins_greed",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_unstable_concoction",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_acid_spray",
+			"13":"alchemist_acid_spray",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Acid Spray will come in handy at later levels, reducing enemies armor while you 1-2-Punch them with Unstable Concoction, and your auto-attack.",
+				"alchemist_unstable_concoction":"Use this ability with caution, as it can easily get you killed. Make sure to have good timing and a reliable back-up, in case you don't make the throw.
+It's extremely good for getting early gank kills / first blood.",
+				"alchemist_goblins_greed":"Leveling this ability first will maximize your farm in the lane. Focus on last hitting creeps to keep the stack going.",
+				"alchemist_chemical_rage":"This ability will, when activated:
+Enhance your HP and Mana regeneration rate.
+Improve your attack speed.
+Make you run faster.
+Fortunately, this ability is very able to spam. The duration is almost as long as the cooldown, so you can quickly dispatch enemies, farm, defend, and repeat."
+		}
+	}
+}

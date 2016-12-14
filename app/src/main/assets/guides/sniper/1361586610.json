@@ -1,0 +1,98 @@
+{
+	"Hero":"sniper",
+	"Title":"FAST SHOOTING SNIPAH!!!!!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"slippers",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"gloves",
+				"boots_of_elves",
+				"wraith_band",
+				"magic_wand",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"manta",
+				"invis_sword",
+				"power_treads"
+			],
+			"luxury":
+			[
+				"desolator",
+				"mjollnir",
+				"butterfly",
+				"sange_and_yasha",
+				"quarterstaff"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quarterstaff":"Cheap source of damage and attack speed",
+				"slippers":"More agi ) more damage",
+				"branches":"Stats, and a future magic wand",
+				"boots_of_elves":"You can get threads with this, and while you get the other ingredients, you get a bonus of agility",
+				"gloves":"gunslinger, by the end you will have a-never-fails-stunning-machingun, this just get the process faster",
+				"boots":"As you lack of speed as sniper, this ones will be helpful",
+				"magic_wand":"this can save you in the less expected moment, also gives you stats",
+				"flask":"quick regen ",
+				"tango":"Keep yourself alive",
+				"power_treads":"JUST REMEMBER TO UT THEM GREEN",
+				"wraith_band":"snipers damage will increase with every point of agility, so...",
+				"butterfly":"Just, great",
+				"manta":"Aside for stats, and being a better version of yasha, it gives you to make illusions, wich means extra firepower",
+				"invis_sword":"Useful for escape and ganking, just remember it needs mana to work",
+				"sange_and_yasha":"yasha with the plus of Sange, that gives you damage and strenght",
+				"mjollnir":"The chance of chain and the bonus of damage make this item awesome for a long ranged hero like sniper",
+				"desolator":"More damage plus piercing rounds",
+				"yasha":"gives you all sniper needs> attack speed, movement speed and agility"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_shrapnel",
+			"4":"sniper_take_aim",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_headshot",
+			"11":"sniper_assassinate",
+			"12":"sniper_shrapnel",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"Hero":"enigma",
+	"Title":"6.82 - Standard Engima (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar",
+				"mekansm"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"radiance"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"refresher"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"You should be able to get Blink Dagger by the six or seven mark. Be active in ganks during the lane phase to speed up the process.",
+				"sobi_mask":"To be made into Soul Ring.",
+				"boots":"We're keeping Enigma's boots at a base level because of how important Blink Dagger is and how irrelevant the boots are for Enigma given his weak movement speed and close-range his ultimate demands.",
+				"ward_observer":"Purchase Courier or Wards as a support. You will be able to afford the rest without a problem. Only buy one of the two, whichever is appropriate.",
+				"courier":"Purchase Courier or Wards as a support. You will be able to afford the rest without a problem.",
+				"travel_boots":"Finish your boots if you are truly ahead, otherwise, blink will be enough to get your ultimate off.",
+				"mekansm":"Obtain Mekansm if you are the only support on the team.",
+				"ultimate_scepter":"Aghanim's Scepter adds a midnight pulse to your ultimate, but also let's you add another midnight pulse stacking the damage incredibly!",
+				"black_king_bar":"Black King Bar is needed to avoid being disrupted while you are channeling your ultimate.",
+				"shivas_guard":"Shiva's Guard offers more survivability for Enigma and a nice slow effect for after his ultimate to further ensnare his foes!",
+				"radiance":"Radiance in conjunction with ultimate offers a lot of damage, but it isn't necessary for Enigma beyond the ensured damage. It is situational because there may be other items that suit the situation better.",
+				"soul_ring":"Soul Ring is used to summon more Demonics. You will be able to regenerate the life back without fear of death."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_demonic_conversion",
+			"8":"enigma_malefice",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"enigma_midnight_pulse",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"attribute_bonus",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_malefice":"You do not need to be attacking the hero for Malefice to stun consecutively. You can gank foes successful and with little cost thanks to Malefice's low cooldown and average mana cost.",
+				"enigma_demonic_conversion":"Make sure to micromanage your Eidolons so that they do not die. Any Eidolon reproduced from your originally summoned regenerates all their life back, so use for as long as possible.
+
+With proper play, you can kill two camps with each Eidolon summon.",
+				"enigma_midnight_pulse":"Try to cast this down before you use your ultimate, however, it isn't of importance if you're coming into a crucial time of the fight.
+
+This ability also tears down trees to disrupt annoying juking enemies.",
+				"enigma_black_hole":"The casting range for Black Hole is very small. Be sure to blink right on your targets to ensure you get them all. Take your time and position yourself well otherwise you might miss your very important ultimate."
+		}
+	}
+}

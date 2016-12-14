@@ -1,0 +1,41 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_batrider",
+	"Title":"Recommended items for Batrider",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"tango",
+			"clarity",
+			"ring_of_protection",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"tranquil_boots",
+			"magic_stick"
+		],
+		
+		"coreItems":[
+			"blink",
+			"magic_wand",
+			"urn_of_shadows",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"force_staff",
+			"cyclone",
+			"sheepstick",
+			"pipe",
+			"shivas_guard",
+			"sphere",
+			"black_king_bar",
+			"travel_boots"
+		]
+	}
+}

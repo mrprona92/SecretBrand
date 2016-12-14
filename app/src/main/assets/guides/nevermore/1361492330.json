@@ -1,0 +1,147 @@
+{
+	"Hero":"nevermore",
+	"Title":"Nevermore Imba carry Mid  (Remastered)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"blink",
+				"power_treads",
+				"bottle"
+			],
+			"Mid Game - vs Agy/Intel":
+			[
+				"power_treads",
+				"desolator",
+				"invis_sword",
+				"blink",
+				"black_king_bar"
+			],
+			"Mid Game - vs Str":
+			[
+				"power_treads",
+				"helm_of_the_dominator",
+				"invis_sword",
+				"blink",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"desolator",
+				"manta",
+				"travel_boots",
+				"butterfly",
+				"black_king_bar",
+				"satanic",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Great to initiate and escape!
+Jump near low hp enemy then just use razes (qwe)",
+				"bottle":"Provide hp and mp regen after you consume tangos, and great capability to gank, if can hit invis or haste just go and make some lane kill's!",
+				"tango":"Provide health first 5 min",
+				"travel_boots":"If you can farm it till min 10 get it. Help you gang faster/ push faster and move faster!
+
+If not get it later in the game if you fight vs pushers like Nature Prophet.",
+				"power_treads":"Movement speed + atack speed + str / agilty or inteligence gain.
+Keep them on str early in the game for more survabilty!",
+				"wraith_band":"Gain 3 str and like 9 dmg
+Your base dmg is very low when game start, so get this first to make some lh!",
+				"black_king_bar":"Core item for Nevermore!
+
+Get it afther lothar or dagger instead if you fight vs enemy with many disable.
+
+Help you survive and ulty without beeing disabled!
+",
+				"monkey_king_bar":"Good vs heroes like Phantom Assasin or heroes who have butterfly.
+
+You can't miss enemy's if you get this item.",
+				"butterfly":"Core item for almost any agilty carry.
+Provide nice dmg and atack speed and help you survive even more with 35% chance to miss",
+				"greater_crit":"You can hit with +1000 critical dmg.
+
+Should be enough to kill enemyes for 1-2 hits.
+
+Works great with Desolator or Satanic!",
+				"manta":"Replace Shadow Blade or Blink in \"end game\" game cause it gives you nice stats for agilty hero like you are.
+
+Most important +2 illusions who deal some dmg and can confuse your enemy!",
+				"invis_sword":"Get even more dmg and atack speed.
+
+Use this with your ulty... focus on low hp heroes, like lion. Go invis above him then just cast ulty. It break's your invis after you cast ulty
+
+Free kill!",
+				"satanic":"Very usefull vs str heroes in late game.
+
+Help you survive. Activate it to steal even more hp.",
+				"helm_of_the_dominator":"Get this when you fight str heroes just to gain some hp when you hit.
+
+Upgrade it later in Satanic!",
+				"desolator":"If fight versus low hp heroes , like many int or agilty go for this and kill them with 4-5 hits
+-12 armor per hit and +60 dmg should be enough to own them!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_shadowraze1",
+			"4":"nevermore_necromastery",
+			"5":"nevermore_shadowraze1",
+			"6":"nevermore_necromastery",
+			"7":"nevermore_shadowraze1",
+			"8":"nevermore_necromastery",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nevermore_shadowraze1":"900 line dmg at max level.
+
+Max them after lvl 1 to burst 300 dmg instead.
+
+Imba for killing heroes or creeps.",
+				"nevermore_necromastery":"One of you base passives.
+ Provide +72 dmg at max lvl, and you'r ulty is based on this skill.
+
+Many souls mean big dmg ulty and big dmg per hit!
+Max this and razes first.
+
+Just max them as i suggest!",
+				"nevermore_dark_lord":"Max it afther lvl 9 to get -6 armor per hit witch mean more dmg per hit!",
+				"nevermore_requiem":"You don't need ulty till lvl 9 cause it can't reach maxim potential till then.
+You need 36 souls (lvl 4 necromastery) to relase full dmg with this, so at lvl 6 you can have maxim 20 souls!"
+		}
+	}
+}

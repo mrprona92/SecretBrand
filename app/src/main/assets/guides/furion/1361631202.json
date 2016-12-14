@@ -1,0 +1,67 @@
+{
+	"Hero":"furion",
+	"Title":"Safe farm + carry mode, min7 midas",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gloves",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"invis_sword",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"helm_of_the_dominator",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_teleportation",
+			"2":"furion_force_of_nature",
+			"3":"furion_teleportation",
+			"4":"furion_sprout",
+			"5":"furion_teleportation",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_teleportation",
+			"8":"furion_sprout",
+			"9":"furion_sprout",
+			"10":"furion_sprout",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_force_of_nature",
+			"13":"furion_force_of_nature",
+			"14":"furion_force_of_nature",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

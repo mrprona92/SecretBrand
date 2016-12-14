@@ -1,0 +1,84 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Bringer of Doom: A Carry/Tank Oriented Guide to Doom Bringer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"gauntlets",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"hand_of_midas",
+				"phase_boots",
+				"quelling_blade",
+				"platemail"
+			],
+			"coreItems":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"rod_of_atos",
+				"radiance",
+				"abyssal_blade",
+				"travel_boots",
+				"sheepstick",
+				"black_king_bar",
+				"hood_of_defiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"platemail":"Doom does not have a high armor rating, so an early platemail that will later be used to build a Shiva's Guard will reduce the amount of incoming damage.",
+				"ring_of_protection":"Doom has low starting armor; this will serve to protect him and build a Ring of Basilius.",
+				"stout_shield":"This will allow you to get an early start in the jungle (at level 3).  DO NOT BUILD THIS INTO A VANGUARD.  Rather, just spam your Scorched Earth when you need to regain your health.",
+				"gauntlets":"This will serve to make you tankier, allowing you to stay in lane longer.",
+				"phase_boots":"Phase boots solve your movement speed issue, as you will find yourself often chasing another hero.",
+				"hand_of_midas":"An early Hand of Midas, coupled with Devour, allows you to easily amass a large amount of gold in a short timespan.  Farming up big items early is what makes Doom Bringer unique."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_lvl_death",
+			"8":"doom_bringer_devour",
+			"9":"doom_bringer_scorched_earth",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_scorched_earth",
+			"13":"doom_bringer_lvl_death",
+			"14":"attribute_bonus",
+			"15":"doom_bringer_lvl_death",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

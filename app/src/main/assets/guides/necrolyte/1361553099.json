@@ -1,0 +1,85 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Hi, i'm Death. Just Death",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"headdress"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"mekansm",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"blade_mail",
+				"heart",
+				"refresher"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"sphere",
+				"heavens_halberd",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Королевский вариант - \"Смерть из-за угла\". Покупать только (!!!) при наличии хекса или линки.",
+				"bracer":"Брасер - он и в Африке брасер. Лишние хиты никогда не помешают. Даже весьма челябинской Смерти =)",
+				"mekansm":"Вместе с родным хилом и манатапками мы превращаемся в превосходного суппорта, который не даст умереть тиме.",
+				"headdress":"В начале игры обеспечит уверенность и легкость на лайне. Вместе с хорошим ластхитом мобов получаем полную независимость в хитах и мане.
+Обеспечивает быстрый сбор меки.",
+				"sheepstick":"Вы - большой буржуй и проказник? Тогда хекс для вас :) Ситуационный предмет.",
+				"ultimate_scepter":"Аганим - третий по важности арт после арканы и меки - теперь мы становимся крайне опасны для любого противника",
+				"refresher":"Рефреш достойно завершит сборку каждой профессиональной Смерти - два ульта = 2 трупа.",
+				"heart":"С тараской мы почти непобедимы - тройной отхил и куча хитов - залог выживаемости и каждой порядочной Смерти =)",
+				"sphere":"В вас летит слишком много скилов? Линка - наш выбор! Ситуационный предмет.",
+				"blade_mail":"У противника много дд? Блейдмейл отберет кучу здоровья у врагов, пока у нас есть целых 2/3 личных отхила.",
+				"arcane_boots":"Наша мана - хиты для союзников и урон врагу - мастхэв!",
+				"heavens_halberd":"Нас все ещё гнобят заносчивые \"рукопашники\" или дд? Алебарда даст увотор и заткнет негодяев, дав ход Косе =)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_heartstopper_aura",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

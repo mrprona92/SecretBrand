@@ -1,0 +1,19 @@
+{
+  "dotaId": "pers",
+  "id": 69,
+  "img": "pers_lg.png",
+  "dname": "Perseverance",
+  "qual": "common",
+  "cost": 1750,
+  "desc": "",
+  "notes": "Можно передавать союзникам.",
+  "attrib": "+ 5 к регенерации здоровья<br/>+ 125% к регенерации маны<br/>+ 10 УРОНА",
+  "mc": false,
+  "cd": false,
+  "lore": "Камень, способный заменить сердце владельцу.",
+  "components": [
+    "ring_of_health",
+    "void_stone"
+  ],
+  "created": true
+}

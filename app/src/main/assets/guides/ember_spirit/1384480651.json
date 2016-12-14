@@ -1,0 +1,120 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"Easy Ember Spirit (6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"quelling_blade",
+				"boots",
+				"magic_wand"
+			],
+			"Solo Mid Core":
+			[
+				"bottle",
+				"arcane_boots",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"mjollnir",
+				"tpscroll"
+			],
+			"Duo Lane Core":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"bfury",
+				"black_king_bar",
+				"diffusal_blade",
+				"tpscroll"
+			],
+			"Luxury":
+			[
+				"skadi",
+				"desolator",
+				"monkey_king_bar",
+				"satanic",
+				"manta",
+				"greater_crit",
+				"abyssal_blade",
+				"butterfly",
+				"sange_and_yasha",
+				"radiance",
+				"shivas_guard",
+				"vanguard"
+			],
+			"Mana Regen":
+			[
+				"bloodstone",
+				"sphere",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Situational safe lane farming item pays for itself in 4 creep kills that you would've missed without it.",
+				"phase_boots":"My favorite boots on Ember Spirit.",
+				"urn_of_shadows":"Great Mana Regen item that suits Ember Spirit's agressive play style and mana issues. Don't be afraid to pick this up in any game where your team lacks one and you are having mana issues.",
+				"radiance":"This stacks with flame guard",
+				"greater_crit":"You can Crit with this in Sleight of fist.",
+				"bfury":"Expensive, but great item on Ember Spirit. Don't be afraid to get this if you went mid if you got the farm for it. Because of how Sleight of Fist work it is not a bad idea to get two of these if you have decent farm.",
+				"manta":"You can activate this during sleight of fist.",
+				"satanic":"You can activate this and use Sleight of Fist to heal yourself back up.",
+				"skadi":"Excellent Luxury item on Ember Spirit. The slow procs during sleight of fist.",
+				"desolator":"The minus armor procs during Sleight of fist.",
+				"diffusal_blade":"You can activate this during sleight of fist.",
+				"arcane_boots":"I prefer Phase boots however these are your go to boots if you are having Mana problems.",
+				"abyssal_blade":"You can activate this during sleight of fist."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_searing_chains",
+			"2":"ember_spirit_flame_guard",
+			"3":"ember_spirit_flame_guard",
+			"4":"ember_spirit_searing_chains",
+			"5":"ember_spirit_searing_chains",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_flame_guard",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_searing_chains",
+			"10":"ember_spirit_sleight_of_fist",
+			"11":"ember_spirit_sleight_of_fist",
+			"12":"ember_spirit_sleight_of_fist",
+			"13":"ember_spirit_sleight_of_fist",
+			"14":"attribute_bonus",
+			"15":"ember_spirit_fire_remnant",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_sleight_of_fist":"Get an early point in this if you need to dodge projectile abilities. ",
+				"ember_spirit_fire_remnant":"As this skill is in 6.79 it is best to put 1 point in this skill at 6 and level up your other abilities before you put more points in this."
+		}
+	}
+}

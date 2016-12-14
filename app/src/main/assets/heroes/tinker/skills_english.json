@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Laser",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Fires an intense energy beam, dealing damage and blinding the target, causing it to miss all physical attacks. <br/>Upgradable by Aghanim\u0027s Scepter, causing the laser to refract between all visible enemy units in a 550 range.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">80/160/240/320</font></b>",
+        "attrib": "BLIND MISS RATE: <b><font color=\"#ffffff\">100%/100%/100%/100%</font></b><br/>HERO BLIND DURATION: <b><font color=\"#ffffff\">3/3.5/4/4.5</font></b><br/>CREEP BLIND DURATION: <b><font color=\"#ffffff\">6/6/6/6</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">550</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 95/120/145/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14",
+        "lore": "Boush perfected this rock cutting laser in his subterranean laboratory, never considering its combat utility.",
+        "hurl": "Tinker",
+        "name": "tinker_laser",
+        "youtube":"2tDx6grjLns",
+        "id": 0
+    },
+    {
+        "dname": "Heat-Seeking Missile",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Launches a pair of rockets at the nearest visible enemy heroes within 2500 range. The number of missile targets is doubled with Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">125/200/275/350</font></b>",
+        "attrib": "TARGETS: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/140/160/180<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 25",
+        "lore": "The last contraption Boush was able to save was a retrofitted rocket launcher with a homing mechanism.",
+        "hurl": "Tinker",
+        "name": "tinker_heat_seeking_missile",
+        "youtube":"jK4Sn_EDBpE",
+        "id": 1
+    },
+    {
+        "dname": "March of the Machines",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Enlists an army of robotic minions to destroy enemy units in an area around Tinker.",
+        "notes": "Robots spawn at a rate of 24 per second.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">16/24/32/40</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">900</font></b><br/>DURATION: <b><font color=\"#ffffff\">6/6/6/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 145/150/165/190<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 35",
+        "lore": "Even though the laboratory has since been sealed off, the ability to radio in robotic drones is still in working order.",
+        "hurl": "Tinker",
+        "name": "tinker_march_of_the_machines",
+        "youtube":"AmXRvkaYhIE",
+        "id": 2
+    },
+    {
+        "dname": "Rearm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Channeled</font></b>",
+        "desc": "CHANNELED - Resets the cooldown on most of Tinker\u0027s items and abilities.",
+        "notes": "Rearm works on all items except Black King Bar, Arcane Boots, Helm of the Dominator, Hand of Midas, Refresher Orb, Linken\u0027s Sphere, and Necronomicon.",
+        "dmg": "",
+        "attrib": "TIME TO REARM: <b><font color=\"#ffffff\">3/2/1</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/225/325<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "A new battery here, another set of rockets there, Boush continually improves on existing technology.",
+        "hurl": "Tinker",
+        "name": "tinker_rearm",
+        "youtube":"eHlwkFnGtzs",
+        "id": 3
+    }
+]

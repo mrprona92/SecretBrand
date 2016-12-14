@@ -1,0 +1,16 @@
+{
+  "dotaId": "gem",
+  "id": 30,
+  "img": "gem_lg.png",
+  "dname": "Gem of True Sight",
+  "qual": "component",
+  "cost": 900,
+  "desc": "Passive: True Sight - Adds the ability to see invisible units and wards to any allied vision within its carrier's range.<br/>Dropped on death, and cannot be destroyed.",
+  "notes": "Disabled while on a courier.",
+  "attrib": "TRUE SIGHT RADIUS: 1100",
+  "mc": false,
+  "cd": false,
+  "lore": "Not one thrall creature of the depths,<br/>Nor spirit bound in drowning's keep,<br/>Nor Maelrawn the Tentacular,<br/>Shall rest till seas, gem comes to sleep.",
+  "components": null,
+  "created": false
+}

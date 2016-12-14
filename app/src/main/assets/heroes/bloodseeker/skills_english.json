@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Bloodrage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Drives a unit into a bloodthirsty rage during which a unit deals, and takes, increased damage. Units affected by Bloodrage will be healed for 25% of the max health of any units they kill. Units affected by Bloodrage when killed will heal 25% of their max health to their killer.",
+        "notes": "Bloodrage can be cast on enemy and allied units, as well as Bloodseeker himself.<br/>Only amplifies for half values when the damage dealer and the receiver are over 2200 range apart.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">9/10/11/12</font></b><br/>DAMAGE INCREASE: <b><font color=\"#ffffff\">25%/30%/35%/40%</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/10/8/6",
+        "lore": "Strygwyr shares his animalistic thirst for bloodshed.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_bloodrage",
+        "youtube":"tG_hgU-jbmY",
+        "id": 0
+    },
+    {
+        "dname": "Blood Rite",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Bloodseeker baptizes an area in sacred blood. After 3 seconds the ritual completes, causing any enemies caught in the area to take damage and become silenced.",
+        "notes": "Total time is a 2.6 second delay plus a 0.4 second cast time.",
+        "dmg": "",
+        "attrib": "RITUAL AREA: <b><font color=\"#ffffff\">600</font></b><br/>SILENCE DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">120/160/200/240</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 29/26/23/20",
+        "lore": "The Flayed Twins are ever willing to aid those who spill blood upon the field of battle.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_blood_bath",
+        "youtube":"0TwYY6Xloio",
+        "id": 1
+    },
+    {
+        "dname": "Thirst",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Enables Bloodseeker to sense enemy Heroes whose health is below a certain percentage wherever they are, giving him True Sight on that unit, increasing his movement speed, and increasing the attack damage he deals to that hero based on how much health they are missing. Bonuses stack per Hero.",
+        "notes": "Not triggered by Illusions.",
+        "dmg": "",
+        "attrib": "VISIBILITY HEALTH: <b><font color=\"#ffffff\">25%</font></b><br/>MAX BONUS MOVE SPEED: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>MAX THIRST BONUS DAMAGE: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "",
+        "lore": "Strygwyr becomes frenzied when blood is spilled.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_thirst",
+        "youtube":"L8zGP8VNG1E",
+        "id": 2
+    },
+    {
+        "dname": "Rupture",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Causes an enemy unit\u0027s skin to rupture. If the unit moves, it takes a percentage of the distance traveled as damage.  The damage is dealt through spell immunity.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">12</font></b><br/>MOVE DAMAGE: <b><font color=\"#ffffff\">20%/40%/60%</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">1000</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/200/250<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60",
+        "lore": "When the Bloodseeker hunts you, injuries become fatalities.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_rupture",
+        "youtube":"qQZtcnvqY68",
+        "id": 3
+    }
+]

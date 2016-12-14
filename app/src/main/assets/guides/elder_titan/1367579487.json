@@ -1,0 +1,131 @@
+{
+	"Hero":"elder_titan",
+	"Title":"Elder Titan Initiator [Lane] Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"gauntlets",
+				"gauntlets",
+				"stout_shield",
+				"ring_of_protection",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"tpscroll",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"urn_of_shadows",
+				"mekansm",
+				"hood_of_defiance"
+			],
+			"Late Game Items":
+			[
+				"assault",
+				"force_staff",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"soul_ring",
+				"power_treads",
+				"arcane_boots",
+				"pipe",
+				"black_king_bar",
+				"veil_of_discord",
+				"blade_mail",
+				"shivas_guard",
+				"sheepstick",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"A good choice if you are tri-laning it builds into a Ring of Basilius .You get it at the start of the game because it can only be bought from the base.",
+				"stout_shield":"Stout Shield uses pseudo-random distribution, the actual chance for damage block is closer to 53%. This item is good if you are a melee hero and know you will be taking constant harassment in lane usually from a ranged hero.",
+				"gauntlets":"Provides +3 strength to all heroes and +3 damage to strength heroes. 19HP increase on max health and +0.03HP regen per second for every point of strength. Can be made into a Bracer or Urn of Shadows.",
+				"branches":"This is the most cost-efficient item in the game. It is used early game for a cheap boost of attributes and it can be made into a Magic Wand, Mekansm or sold later on. It provides extra health, mana and damage helping you last hit when your hero is weakest.",
+				"boots":"Provides +50 movement speed. Can be bought at side shop. A requirement for every hero in every game. This should usually be your first or second item bought after your starting items. Core boots that allow you to build into specific types.",
+				"magic_stick":"Purchase at side shop or base, allows for a quick burst of healing and mana. Is excellent against heroes that spam abilities while in lane. Gains 1 charge (max 10) every time a visible enemy in a 1200 radius uses an active ability. Restores 15 health and mana per charge.",
+				"magic_wand":"Same information as Magic Stick applies combining the 3 Iron Branches provides +3 to all attributes and extends the maximum charges to 15. Certain abilities, such as arrow abilities (Frost arrow, Poison Attack, etc.) and item abilities will not add a charge.",
+				"flask":"A more powerful consumable to help you stay in the lane and get experience. Use it if you lost more than 400 HP to take full effect of its healing power. Stay back while healing, since if you are attacked, the effect is lost. Like Clarities they can be used on allies.",
+				"tango":"Basic regeneration item. Use it when you are hurt to stay in lane and get experience. If you lost more than 400 HP, fall back and use Healing Salve instead. The regeneration is not broken when damage is taken. As a target tree is removed on cast, it can provide a useful pathway to chase or escape.",
+				"courier":"Buy if no one else does. It can carry items to you. Is not affected by most spells, has magic immunity. It gives 175 gold to each enemy player if killed. If it dies it will respawn after 3 minutes, and the items it was carrying will be inaccessible until then.",
+				"tpscroll":"This allows the casting hero to teleport to a friendly building. It is often used as a means of escape against heroes who have no way to cancel the channeling. As a support always walk back to lane from the base; only use your TP when support is actually required for a team-fight, defence or push.",
+				"travel_boots":"Late game item when all your item slots are needed. Acts as a Town Portal Scroll sharing the cooldown and allows you to teleport to an allied non-hero unit or structure, this includes your own creeps.",
+				"power_treads":"Provides +30 attack speed, +55 move speed. Boosts a specific attribute by 8 points by switching. Use Intelligence when casting abilities, Agility when healing and Strength when tanking enemy attacks. Primarily you want Strength Mode, as they provide +152 HP and +8 damage.",
+				"mekansm":"This item should be one of your team’s priorities to get. Multiple instances of Mekansm Aura do not stack. Restore heals 250 HP and gives +2 armour in an area. Healing does not affect any unit that has been healed by Restore in the last 25 seconds. Heal is great for team-fights and sustaining pushes",
+				"vladmir":"Useful if you have a melee line-up. Lifesteal aura is not a unique attack modifier so it stacks with other lifesteal effects, except another Vladmir’s offering. Bonus armour does not stack with Assault Cuirass, Ring of Aquila or Vladmir’s Offerings. Lifesteal bonuses only affect melee units.",
+				"ring_of_basilius":"Only if you started with Ring of Protection. Toggle off aura so your creeps don't push the lane. Provides  +3 armour points and +6 damage for better harassment.  The aura does not stack with similar bonuses from Assault Cuirass, Vladimir's offering, Ring of Basilius and Aquila. Can be disassembled.",
+				"pipe":"Not always required but a great utility item that helps to push base towers. Barrier provides a shield that blocks 400 magical damage in a 500 radius. Does not affect units that have been affected by Barrier in the last 50 seconds. Multiple instances of magic resistance from items do not stack.",
+				"urn_of_shadows":"Gains 1 charge for every enemy hero that dies within a 1400 radius. Closest urn gains a charge, so only have one on your team. Healing effect ends if the target takes damage from anything other than creeps. A very cost effective item that gives mana regen, health and damage.",
+				"sheepstick":"150% bonus mana regen allows you to spam Arcane Bolt. Hex turns the target unit into a critter for 3.5 seconds disabling damage block, evasion & reducing unit’s base move speed to 100. Affected unit retains normal health, mana, armour value and armour type.",
+				"force_staff":"Allows you to kite physical damage dealers, support your team to escape or initiate and force an enemy out of position. Does not interrupt the target, so forcing someone who is channeling does not cancel it. Can force units over cliffs and through trees (destroying them in the process.)",
+				"assault":"Synergises with the minus armour aura. Grants attack speed and armour to nearby allied units and decreases armour of nearby enemies. Good team-fight/pushing base item. Bonus armour doesn't stack with armour auras from Assault Cuirass, Ring of Aquila or Vladmir’s Offering.",
+				"black_king_bar":"Grants magic immunity. You will not take any damage that is magical or pure. A magic immune target cannot be targeted by most abilities. Duration and cooldown decrease with each use. Some ultimate abilities are able to disable through BKB. Allows you to cast your Echo Stomp with no worries.",
+				"shivas_guard":"+30 intelligence & +15 armour. Freezing aura reduces attack speed by 30% in a 1000 unit radius. Does not stack with multiple instances of this aura. Arctic Blast emits a wave that does 200 magical damage and slows movement by 40% for 4 seconds. Activating this does not break channelling abilities.",
+				"blade_mail":"Provides +10 intelligence, +22 damage & +5 armour. Damage Return returns any damage you take to the unit that dealt the damage. You still take damage but the returned damage is pure damage. Damage is reduced by armour or magic resistance before being returned.",
+				"hood_of_defiance":"Provides +8HP regeneration & +30% magic resistance. Builds into Pipe of Insight. Increases your durability against nukers. ",
+				"soul_ring":"Consumes 150HP to temporarily gain 150 mana for 10 seconds. If the mana can’t fit in your mana pool it creates a mana buffer that lasts 10 seconds. Any mana in the buffer not spent is lost. It will reduce the bearer’s HP to a minimum of 1HP. Great for heroes with heals high strength gain.",
+				"arcane_boots":"Great utility item for the team. Can be disassembled. Restores 135 mana in a 600 radius every 55 seconds. This is equivalent to 2 mana per second for the user & 2.45 mana per second for allies. Always try to find an ally who needs mana before you replenish your own.",
+				"ancient_janggo":"An alternative to Urn of Shadows. Starts with 4 charges, can be replenished by buying the recipe again. Can be purged with Diffusal Blade. Affects all allied player-controlled units. Multiple auras do not stack. Useful for taking towers, chasing enemies. ",
+				"veil_of_discord":"Synergies with your spirit & magical dmg team. Provides +12 intelligence, +6HP regen, +6 armour. Magic Weakness is an AoE target ability with radius 550. It amplifies magical damage within this area by 25% for 20 seconds. Cast range of 1000 units."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_echo_stomp",
+			"2":"elder_titan_ancestral_spirit",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_echo_stomp",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_echo_stomp",
+			"9":"elder_titan_echo_stomp",
+			"10":"elder_titan_natural_order",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_natural_order",
+			"13":"elder_titan_natural_order",
+			"14":"elder_titan_natural_order",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"A long 1.4 sec channel time but with 950 AoE. Casting spirit at 950 range, you can cover 1900 units in length. Titan deals physical dmg while the spirit deals magical. Enemies wake once they take damage from any player-controlled unit. Tower & creeps have no effect, abuse this on tower divers.",
+				"elder_titan_ancestral_spirit":"Target point ability summoning a controllable spirit dealing magical dmg to any unit in a 275 radius from point cast & any units it passes through on return. On return, grants bonus damage & move speed for each hero damaged. Unlike Titan Echo Stomp cannot be cancelled through the cast time.",
+				"elder_titan_natural_order":"Greatly increases the effect of spells and physical attacks on your team. Enemies inside a range of 275 loses 25/50/75/100% of their base armour. This only applies to base armour & armour gained via agility. Also Amplifying magical damage by 8/16/25/33%. The Ancestral Spirit also has this ability.",
+				"elder_titan_earth_splitter":"Travels 2400 units at 900 speed. After 3 secs the crack implodes drawing enemies within 300 units of the crack to the centre, dealing physical and magical dmg based on target's health & slowing for a duration. This cancels channeling spells. Delay requires setup with Stomp or AoE disable from ally."
+		}
+	}
+}

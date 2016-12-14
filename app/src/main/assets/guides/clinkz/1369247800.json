@@ -1,0 +1,102 @@
+{
+	"Hero":"clinkz",
+	"Title":"Graddus' Clinkz Build [Mid/Safe/Offlane]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"circlet",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_aquila",
+				"oblivion_staff"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"orchid",
+				"greater_crit"
+			],
+			"Luxury":
+			[
+				"black_king_bar",
+				"manta",
+				"butterfly"
+			],
+			"Situational Items":
+			[
+				"medallion_of_courage",
+				"sphere",
+				"assault",
+				"monkey_king_bar",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Power Treads are the best Boots for every Agility Carry, since they provide attack speed and improve your survivability. Put these on Intel when using Searing Arrows, otherwise put them on Agility.",
+				"oblivion_staff":"An Oblivion Staff gves mana regen, damage and attack speed, which synergizes well with Clinkz's kit.",
+				"urn_of_shadows":"An Urn of Shadows could be picked up by a support, so i don't often get this. But even so, your ganking potential is pretty good, so you can easily get charges.",
+				"orchid":"An Orchid Malevolance is a very logical choice for Clinkz, since it increases the damage of Searin Arrows on a target by 30%. The silence also disables the target's escape mechanism(s).",
+				"assault":"I only get an Assault Cuirass if the enemy has very high burst damage. Yes it help you push towers, but a Desolator does so too and is a lot cheaper.",
+				"black_king_bar":"A Black King Bar is a viable options for every hero, since it helps you to survive teamfights. I almost Always get this, since the protection it gives in teamfights is just amazing.",
+				"sphere":"I pick up a Linken's Sphere when the enemy has powerful single target disables that prevent me from using Skeleton Walk. ",
+				"monkey_king_bar":"I only pick up a MKB if i need more DPS or if the enemy has Evasion.",
+				"butterfly":" Butterfly is a Late Game must-have for every Agility DPS-machine. It improves your DPS, while also granting Evasion for suvivability.",
+				"greater_crit":"A Daedalus synergizes with Clinkz's Strafe, since the increased attack speed improves the chance of getting a critical strike.",
+				"manta":"A Manta Style allows you to splitpush and take down towers very fast, and it also provides survivability and damage in teamfights.",
+				"desolator":"I almost Always pick up a Desolator, since this will boost your pushing and ganking capabilities. Just keep in mind that if you activate Searing Arrows, you won't gain the Desolator's effect. This means that you can't auto-cast it.",
+				"medallion_of_courage":"I don't often pick it up, but a Medaillon is a very useful item for ganking and farming Neutrals. This item is most commonly seen on a ganking/roaming Clinkz.",
+				"ring_of_aquila":"A Ring of Aquila helps you to stay in lane thanks to the bonus Armor. It's mana regen allows you to use Searing Arrows more often."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_wind_walk",
+			"2":"clinkz_searing_arrows",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_strafe",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_strafe",
+			"9":"clinkz_strafe",
+			"10":"clinkz_strafe",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_wind_walk",
+			"13":"clinkz_wind_walk",
+			"14":"clinkz_wind_walk",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"Strafe is an attack speed steriod that allows you to take down heroes and towers easily. It may require a lot of mana, but Strafe+Searing Arrows are a devestating combo, especially against towers.",
+				"clinkz_searing_arrows":"Searing Arrows improve your DPS. Keep in mind that these flaming arrows work against towers, making Clinkz an excellent pusher.",
+				"clinkz_wind_walk":"Skeleton Walk allows you to move faster and invisible, which is great for chases and getaways.",
+				"clinkz_death_pact":"Death Pact temporarly increases your HP and Damage. Try to Always use this on Medium or Large Neutrals, since they have a higher HP pool than creeps."
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "attrib": "",
+    "cd": false,
+    "qual": "consumable",
+    "notes": "",
+    "desc": "Use: Deploy Courier - Deploys a creature to carry items to and from your team's base.",
+    "dname": "Animal Courier",
+    "dotaId": "courier",
+    "mc": false,
+    "img": "courier_lg.png",
+    "lore": "Losing the donkey is punishable by death.",
+    "id": 45,
+    "created": false,
+    "cost": 120
+}

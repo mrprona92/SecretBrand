@@ -1,0 +1,118 @@
+{
+	"Hero":"terrorblade",
+	"Title":"6.82 - Standard Terrorblade (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"orb_of_venom",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"yasha"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"sange_and_yasha",
+				"black_king_bar",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"butterfly",
+				"satanic",
+				"skadi",
+				"greater_crit"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"poor_mans_shield":"The extra stats and shield will help you survive in lane despite a weak health pool.",
+				"black_king_bar":"Prevent any form of stuns on you so you can pull of your sunder and raze down teams easily. Black King Bar is not always needed, but it is a nice security blanket.",
+				"butterfly":"Be sure to use Flutter to either escape from enemies or to pounce on them before they can see you coming. The incredible movement speed active is handy in key situations.",
+				"manta":"With the numerous ways to create illusions of heroes, Manta Style may seem redundant, but imagine creating multiple forms of your Metamorphosis and you start to realize that Manta Style just gives more of what you like.",
+				"sange_and_yasha":"Usually a fast and easy way to get extra damage, extra survivability and some buffs for you and your illusions. This is a core extension items for Terrorblade.
+
+Buy this or Skadi, not both, as it can be a bit redundant.",
+				"satanic":"With so much damage coming from Terrorblade, your one orb item should be Satanic as it gives you the lifesteal you want and the extra life needed.
+
+WORKS WITH SKADI",
+				"skadi":"The added slow is a nice touch with your illusions and the all-around stats make Terrorblade unstoppable.
+
+Buy this or S&amp;amp;Y, not both, as it can be a bit redundant.
+
+WORKS WITH SATANIC",
+				"yasha":"The extra speed and damage is great for Terrorblade to start out. From there he can either go to Manta Style to fully exercise his push potential or Sange &amp;amp; Yasha to start hitting like a truck.",
+				"ancient_janggo":"Extra survivability and small mana regeneration. It is a great item in a pinch where you are not finding yourselves getting ganked many times and needing to improve your stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"terrorblade_reflection",
+			"2":"terrorblade_metamorphosis",
+			"3":"terrorblade_metamorphosis",
+			"4":"terrorblade_conjure_image",
+			"5":"terrorblade_metamorphosis",
+			"6":"terrorblade_sunder",
+			"7":"terrorblade_metamorphosis",
+			"8":"terrorblade_conjure_image",
+			"9":"terrorblade_conjure_image",
+			"10":"terrorblade_conjure_image",
+			"11":"terrorblade_sunder",
+			"12":"terrorblade_reflection",
+			"13":"terrorblade_reflection",
+			"14":"terrorblade_reflection",
+			"15":"attribute_bonus",
+			"16":"terrorblade_sunder",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"terrorblade_reflection":"Low cooldown, average mana cost. Conjure Image can be great for enforced fights and you want to shift the battle in your favour.
+
+You can go for stats after level 1 of this if preferred.",
+				"terrorblade_conjure_image":"Amazing ability later on, especially when you are beefed up on items. Use this after Metamorphosis to start pushing lanes, towers and start getting out of control!",
+				"terrorblade_metamorphosis":"Metamorphosis is considered your best ability, especially with Conjure Image. Push lanes, fight incredibly fights with your ranged, extra-damaging hero. Use this ability wisely as the cooldown is pretty insane.",
+				"terrorblade_sunder":"Can be used on allies and enemies. Better safe than sorry, use this in fear of major nukes that may prevent this ability.
+
+Can also be used on illusions."
+		}
+	}
+}

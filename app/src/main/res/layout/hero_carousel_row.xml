@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/carousel_height"
+    android:orientation="vertical">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gifHero"
+        android:layout_width="@dimen/carousel_anim_width"
+        android:layout_height="@dimen/carousel_anim_height"
+        android:layout_centerInParent="true" />
+    <!--<WebView
+            android:layout_width="@dimen/carousel_anim_width"
+            android:layout_height="@dimen/carousel_anim_height"
+            android:background="@android:color/transparent"
+            android:visibility="invisible"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_centerInParent="true"
+            android:id="@+id/gifHero"/>-->
+    <RelativeLayout
+        android:layout_width="@dimen/carousel_width"
+        android:layout_height="@dimen/carousel_height"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:layout_width="@dimen/carousel_width"
+            android:layout_height="@dimen/carousel_height"
+            android:background="@drawable/blankcard_default" />
+
+        <ImageView
+            android:id="@+id/main_attr"
+            android:layout_width="@dimen/carousel_main_attr_width"
+            android:layout_height="@dimen/carousel_main_attr_height"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="@dimen/carousel_main_attr_margin_right"
+            android:layout_marginTop="@dimen/carousel_main_attr_margin_top"
+            android:src="@drawable/pip_str" />
+
+        <TextView
+            android:id="@+id/hero_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/carousel_name_margin_left"
+            android:layout_marginTop="@dimen/carousel_name_margin_top"
+            android:shadowColor="@android:color/black"
+            android:shadowDy="1"
+            android:shadowRadius="2"
+            android:text="ANCIENT APPARATION"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/carousel_name_text_size"
+            android:textStyle="bold" />
+        <!--<LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="@dimen/carousel_role_holder_margin_top"
+                android:id="@+id/hero_role_holder"
+                android:orientation="vertical"/>-->
+        <LinearLayout
+            android:id="@+id/skills_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/skill_role_holder_margin_bottom"
+            android:layout_marginLeft="@dimen/half_view_padding"
+            android:layout_marginRight="@dimen/half_view_padding"
+            android:gravity="bottom"
+            android:orientation="horizontal" />
+    </RelativeLayout>
+
+</RelativeLayout>

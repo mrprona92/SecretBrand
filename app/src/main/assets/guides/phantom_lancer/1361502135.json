@@ -1,0 +1,101 @@
+{
+	"Hero":"phantom_lancer",
+	"Title":"[DMX] Phantom Lancer (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"vanguard",
+				"diffusal_blade",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"manta",
+				"assault",
+				"butterfly",
+				"diffusal_blade",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"radiance",
+				"black_king_bar",
+				"tranquil_boots",
+				"soul_ring",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Ne prenez la Quelling Blade que si vous avez du mal avec les last hits",
+				"vladmir":"Vlad est un très bon item pour vous et vos illusions mais il prend un slot d'inventaire. Essayez de demander à un de vos support de faire cet item pour vous aider dans les teamfights.",
+				"radiance":"Faites radiance si vous farmez très bien. C'est un excellent item dont profiteront vos illusions.",
+				"soul_ring":"A utiliserr en combo avec tranquil boots pour harass un maximum votre adversaire.",
+				"tranquil_boots":"A utiliser en combinaison avec le soul ring pour harass un maximum votre adversaire."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_lancer_spirit_lance",
+			"2":"phantom_lancer_doppelwalk",
+			"3":"phantom_lancer_spirit_lance",
+			"4":"phantom_lancer_doppelwalk",
+			"5":"phantom_lancer_spirit_lance",
+			"6":"phantom_lancer_doppelwalk",
+			"7":"phantom_lancer_spirit_lance",
+			"8":"phantom_lancer_doppelwalk",
+			"9":"phantom_lancer_juxtapose",
+			"10":"phantom_lancer_phantom_edge",
+			"11":"phantom_lancer_phantom_edge",
+			"12":"phantom_lancer_juxtapose",
+			"13":"phantom_lancer_juxtapose",
+			"14":"phantom_lancer_juxtapose",
+			"15":"attribute_bonus",
+			"16":"phantom_lancer_phantom_edge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_lancer_spirit_lance":"Votre principal moyen d'harass. Utilisez le slow apporté pour pourchasser votre cible.",
+				"phantom_lancer_doppelwalk":"Votre sort d'escape. Très utile durant toutes les phases de jeu, il jukera votre adversaire facilement. Attention cependant si vos ennemis ont de quoi vous révéler.",
+				"phantom_lancer_juxtapose":"Le passif qui va vous transformer en armée en un rien de temps. Si vos ennemis n'ont pas d'AOE ils vont le regretter !",
+				"phantom_lancer_phantom_edge":"Un très bon ultimate qui permet à vos illusions de se dédoubler elles-même."
+		}
+	}
+}

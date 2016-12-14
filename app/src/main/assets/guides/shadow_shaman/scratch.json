@@ -1,0 +1,110 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"Shadow Shaman - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"blink",
+				"force_staff",
+				"tpscroll"
+			],
+			"Situacionales":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"shivas_guard",
+				"bloodstone",
+				"sheepstick",
+				"travel_boots",
+				"bottle",
+				"cyclone",
+				"ghost",
+				"ancient_janggo",
+				"necronomicon"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Para iniciar ganks, escapar, etc. Lo ideal es gankear saltando y usando tu E.",
+				"magic_stick":"Te da supervivencia en linea.",
+				"ward_observer":"Si ya han comprado wards, compra courier",
+				"courier":"Si alguien compra courier tu compra wards.",
+				"tpscroll":"Siempre lleva tp
+",
+				"force_staff":"Mucha movilidad, escape, etc"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_shackles",
+			"2":"shadow_shaman_ether_shock",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_voodoo",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_voodoo",
+			"9":"shadow_shaman_voodoo",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_shackles",
+			"13":"shadow_shaman_shackles",
+			"14":"shadow_shaman_shackles",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"Nuke principal de Shadow Shaman. Usalo al principio para harassear y si puedes algun last hit pero no robando al carry. Luego lo usas para pushear y para spamear en teamfights.",
+				"shadow_shaman_voodoo":"Convierte al enemigo en un pollo durante unos segundos que te permite iniciar sobre enemigos, inutilizarlos, etc.",
+				"shadow_shaman_shackles":"Inmoviliza a un enemigo. Combinado con el equipo para golpear mientras, o para iniciar cuando tengas la blink dagger.",
+				"shadow_shaman_mass_serpent_ward":"Grandisima ulti para pushear, defender, para las teamfights y para gankear o inmovilizar a enemigos encerrandolos dentro (practica esto ultimo!)."
+		}
+	}
+}

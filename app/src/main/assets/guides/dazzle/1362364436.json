@@ -1,0 +1,101 @@
+{
+	"Hero":"dazzle",
+	"Title":"Aggressive Gank and Support Dazzle",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"tpscroll",
+				"arcane_boots",
+				"magic_wand",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"sheepstick",
+				"force_staff",
+				"pipe",
+				"ultimate_scepter",
+				"cyclone",
+				"shivas_guard",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"A Magic Wand is always good. The stats and active are great for getting out of tight situations, as well as providing extra mana in drawn out fights.",
+				"ghost":"Get a Ghost Scepter if the enemy team has a lot of physical damage and tends to focus you.",
+				"ward_observer":"Get wards as needed. Ideally you'll have someone on your team to help you split the cost.",
+				"ward_sentry":"Get sentries as needed.",
+				"courier":"If someone else bought courier already, get a set of wards instead.",
+				"tpscroll":"Always carry a TP. Keep one at all times to gank and countergank.",
+				"mekansm":"This is the main item you want to get. Your job is to heal your team as much as you can, and Mek will help you with that.",
+				"pipe":"Get a Pipe if the enemy team has a lot of magic damage and if someone on your team is not already getting one.",
+				"force_staff":"Force Staff is a great positioning tool. ",
+				"arcane_boots":"Great utility item. Use it to replenish your team's mana. You'll essentially be a walking fountain.",
+				"medallion_of_courage":"The only reservations I have about getting this item is that it could delay your Mek, and it also takes up another inventory space. As a support hero, your inventory space is limited already, and you need to have space for TP, boots, wand, wards, making inventory space very valuable."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shadow_wave",
+			"2":"dazzle_shallow_grave",
+			"3":"dazzle_poison_touch",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_poison_touch",
+			"6":"dazzle_weave",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_shadow_wave",
+			"9":"dazzle_shadow_wave",
+			"10":"dazzle_poison_touch",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_shallow_grave",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"Levels 1 and 2 of Poison Touch don't stun. Usually it's not worth casting until you have level 3 Poison Touch. Level 3 is where the skill stuns and you can start being aggressive and gank with it. Don't skill Poison Touch until level 3 since your heal and grave will be more useful at levels 1 and 2.",
+				"dazzle_shallow_grave":"Depending on your lane, you might want to get this skill at level 1 instead of at level 2. It's best to use this skill at the very last second to save someone, but cast it earlier if the enemy has a lot of burst damage. You can level this up more in place of heal if you need the improved cast range.",
+				"dazzle_shadow_wave":"This skill does physical damage around the heroes it heals. Use it when your allies are in close combat with enemy heroes to do some additional damage. This skill can be useful for farming as well, but remember to not take farm from heroes on your team that need it more.",
+				"dazzle_weave":"You can choose to skip this at level 6 if you feel like you need more heals. This skill has a huge cast range and grants vision to the area it hits for a brief duration. It's great for getting vision in the trees if an enemy is juking. Try to hit as many heroes with this skill as possible."
+		}
+	}
+}

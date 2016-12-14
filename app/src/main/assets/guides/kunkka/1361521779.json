@@ -1,0 +1,127 @@
+{
+	"Hero":"kunkka",
+	"Title":"Hard Carry Kunkka (by C@pta1n CoCo)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"tpscroll",
+				"phase_boots",
+				"magic_wand",
+				"invis_sword",
+				"bfury"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"vanguard",
+				"ancient_janggo",
+				"ghost",
+				"blade_mail",
+				"hand_of_midas",
+				"heavens_halberd",
+				"monkey_king_bar",
+				"bottle"
+			],
+			"Luxury Items":
+			[
+				"greater_crit",
+				"assault",
+				"heart",
+				"satanic",
+				"travel_boots",
+				"rapier",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"To be more durable (against range heroes harass) duaring the laning stage of the game.",
+				"branches":"Cheap stats.",
+				"magic_wand":"Sometimes you can place a perfect Torrent and than have no mana for your Ship, or have no mana for your torrent while chasing your victim, or even 50 mana for return ability while making a combo. Burst heal can be gank breaking early on. Just too usefull item to skip.",
+				"ghost":"If there are hard physical dps carries like Mortred, Sven, Naix you should save your ass somehow...",
+				"flask":"A burst regen. Can save Admirals ass sometimes if used in a proper way and time.",
+				"bottle":"If you are playing as a mid lane solo.",
+				"tango":"Just a healty food for a good mood.",
+				"tpscroll":"ALWAYS have a TP scroll in your inventory. You a gamebraking hero that can do a lot of shit in fights. Look at the minimap and use it to help your allies. You can also use it to farm or to avoid incoming ganks.",
+				"travel_boots":"VS Furion, Wisp, Kotl, PL, Tinker. We need this late game when we should fill all our slots with items and have a tp. Late game can turn into a pushing fest so we need to def our base in a proper time.",
+				"phase_boots":"Damage for easier lasthitting and powerfull harass with Tidebringer. Phase ability for chasing and escaping.",
+				"hand_of_midas":"A very popular carry item ourdays. Not recomended on Kunkka since you just dont need it too farm fast. If you've got a First Blood you can purchase this item.",
+				"assault":"We can compensate Admiralls poor agi gain, armor, IAS by this item. ",
+				"heart":"If you die fast and need more health to survive in clashes.",
+				"black_king_bar":"Disables? Hard Nukers? Touch This!",
+				"vanguard":"If you are playing mid (ganking all the time) or want to fight a lot early game (tower diving) instead of farming, you should purchase this item.",
+				"blade_mail":"You will be focused by annoying invi heroes that do a lot of damage (when your bkb on cooldown) for example Riki, Bone Fletcher, SF (with SB), or just Huskar for example. You are quite tanky and they are squishy, so you let them kill themselves. Why not?",
+				"rapier":"Risky but gamebreking item if rushed early on or just purchased with Daedalus.",
+				"monkey_king_bar":"Brewmaster, Riki, Mortred, Kotl, Butterfly, Hevens Halberd - MKB is a good solution for those 'miss' messages.",
+				"greater_crit":"Torrent + Ship + Crit = Team Wipe. Baddass item. Makes Kunkka a real threat and one hit wonder. You can X Mark yourself at a safe place (High Ground) and harass hard, epecially if crit procs, before a teamfight. Purchase it right after your core items.",
+				"bfury":"A lot of players ignore this item on Kunkka and build Daedalus instead. You can skip BF for BKB if you countered hard by disables and you is the only initiator  in the team. Stable splash damage + your Tidebringer + SB makes you a farming machine and a threat duaring teamfights.",
+				"invis_sword":"We need a good position to place our combo. We can use it as an escape mechanism, farming tool (one shot for range creeps), and just for damage (30 stable +150 duaring Wind Walk), we should mention that +30 IAS is a nice bonus too.",
+				"satanic":"Satanic is Satanic...",
+				"ancient_janggo":"A good item for any melee hero without a blink ability. Gives nice stats for mana dependent str hero. Not must have.",
+				"abyssal_blade":"Great dmg. Active CC ability. Nice with AC.",
+				"heavens_halberd":"Cheap survivability against physical dps. Sometimes disarm ability can make a difference between victory and defeat in team fight. But its better to ask your supports for this item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_torrent",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_torrent",
+			"9":"kunkka_torrent",
+			"10":"kunkka_x_marks_the_spot",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_x_marks_the_spot",
+			"13":"kunkka_x_marks_the_spot",
+			"14":"kunkka_x_marks_the_spot",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"For a First Blood attempt. Also max it if you have a good line combo such as Kunkka + Shadow Demon or Bane (or any direct stun/slow). If not go for Tidebringer.",
+				"kunkka_tidebringer":"If you have no combo like Kunkka + Shadow Demon or + Bane (or any direct stun) or the laning phase is quite passive and you need to harass - max it first. If you have a freefarm early on you should not max this skill because you will push the lane. Max it when you finish afk farming.",
+				"kunkka_x_marks_the_spot":"Some people said in their guides to max it just 2 times and than go stats. Casting range increasing each lvl so  I recommend to max it out for its maximum potetial.",
+				"kunkka_ghostship":"Too powerfull to skip early on. For other info you can read a skill decription.",
+				"attribute_bonus":"Stats. Just +."
+		}
+	}
+}

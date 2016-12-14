@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arcane Bolt",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Skywrath Mage выпускает во врага медленный заряд магической энергии, который наносит урон, зависящий от уровня интеллекта мага.",
+        "notes": "Снаряд двигается с небольшой скоростью в 500 единиц в секунду, давая обзор в радиусе 325 единиц. По достижении цели территория вокруг нее будет видима 3,34 секунды.<br/>Снаряд этой способности нельзя сбить с цели.",
+        "dmg": "",
+        "attrib": "БАЗОВЫЙ УРОН: <b><font color=\"#ffffff\">60/80/100/120</font></b><br/>МНОЖИТЕЛЬ ИНТЕЛЛЕКТА: <b><font color=\"#ffffff\">1.6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/70/70/70<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 5/4/3/2",
+        "lore": "Среди бесконечных интриг Ужаснейшего гнезда лишь умный и спокойный имеет шанс на выживание.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_arcane_bolt",
+        "youtube":"TFjMorJ3PHU",
+        "id": 0
+    },
+    {
+        "dname": "Concussive Shot",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Skywrath Mage делает выстрел на дальнюю дистанцию, который бьет по ближайшему вражескому герою. При попадании наносит урон и замедляет всех попавших в область действия врагов.",
+        "notes": "Не работает, когда в радиусе применения нет героев или когда они вне зоны видимости.<br/>Наносит урон крипам в области действия.<br/>Снаряд дает обзор в 400 единиц и подсвечивает цель в течение 3,34 секунды после нанесения урона.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ВЫСТРЕЛА: <b><font color=\"#ffffff\">1600</font></b><br/>РАДИУС УРОНА: <b><font color=\"#ffffff\">200</font></b><br/>УРОН: <b><font color=\"#ffffff\">60/120/180/240</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">4</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">30%/35%/40%/45%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/110/110/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/18/16/14",
+        "lore": "Те, кто служат при дворе Ужаснейшего гнезда, находятся на скрытой войне. Важно всегда знать, где скрывается опасность.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_concussive_shot",
+        "youtube":"tkF8HA5D5Sk",
+        "id": 1
+    },
+    {
+        "dname": "Ancient Seal",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Skywrath Mage оставляет печать древней руны на выбранном существе, запрещая произносить заклинания и увеличивая магический урон от заклинаний.",
+        "notes": "Уменьшение сопротивления магическому урону не действует на крипов.",
+        "dmg": "",
+        "attrib": "ДОП. МАГИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">30%/35%/40%/45%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14",
+        "lore": "Всякий, кого коснется священная печать Авилливы, должен перенести тягостное молчание.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_ancient_seal",
+        "youtube":"busbJBCRPho",
+        "id": 2
+    },
+    {
+        "dname": "Mystic Flare",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Skywrath Mage создает направленное поле сверхъестественной силы, чтобы сокрушить своих врагов. Поле наносит огромный урон, который равномерно распределяется между героями в области действия заклинания в течение 2.4 секунды.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Эта способность действует только на героев; она не действует на иллюзий или крипов.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">170</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2.4</font></b><br/>УРОН: <b><font color=\"#ffffff\">600/1000/1400</font></b><br/>ПЕРЕЗАРЯДКА СО СКИПЕТРОМ: <b><font color=\"#ffffff\">20/10/0</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 350/575/800<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/40/20",
+        "lore": "Только самые опытные маги-скайрасы могут заставлять небеса разродиться такой бурей.",
+        "hurl": "Skywrath_Mage",
+        "name": "skywrath_mage_mystic_flare",
+        "youtube":"bCWXFPy8NYo",
+        "id": 3
+    }
+]

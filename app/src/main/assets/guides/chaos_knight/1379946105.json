@@ -1,0 +1,93 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"Carry Chaos by Charus",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"gauntlets",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"armlet",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"assault",
+				"sange_and_yasha",
+				"manta",
+				"heavens_halberd",
+				"heart"
+			],
+			"luxury":
+			[
+				"satanic",
+				"monkey_king_bar",
+				"abyssal_blade",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"assault":"Этот артефакт даст нам больше выживаемости, скорость атаки и много брони. ",
+				"heart":"Тараска даст нам и нашим копиям больше выживаемости и больше урона. ",
+				"black_king_bar":"Black King Bar поможет нам если в команде противников имеется много магического урона который невозможно избежать во время замесов.
+Без него нас будут убивать.",
+				"sphere":"Линка на Chaos Knight'a это, конечно, редкий случай, но иногда можно и собрать, только в том случае, если у противников мало дизейблов и почти нет магического урона. К тому же, линка даст нам неплохие атрибуты, реген хп и маны.",
+				"monkey_king_bar":"Этот предмет лучше собирать в том случае, если против вас играют такие герои, как: Brewmaster, Phantom Assassin, Troll Warlord, Windranger. Либо же, если в противоположной команде кто-то собрал Butterfly или Heaven's Halberd. ",
+				"manta":"Manta Style отличный артефакт для данного героя, у вас имеются свои копии + появятся ещё 2, врагам будет тяжело во время драк и пуша т.к. ваши копии введут их в заблуждение. Также снимает с вас отрицательные эффекты.",
+				"armlet":"Хороший артефакт для ранней игры, дает нам всего понемногу.",
+				"sange_and_yasha":"Дает хорошую скорость передвижения, скорость атаки и пассивное замедление. Ну по-моему есть альтернатива куда лучше - это Manta Style.
+Так что покупать или не покупать, зависит от вашего решения. ",
+				"satanic":"Если у нас отличная скорость атаки и много урона, то это для нас. ",
+				"ancient_janggo":"Если из тимейтов никто не собирает барабаны, то можете собрать их сами. Они дают нам в ранней игре понемногу атрибутов, скорости передвижения и ауру для своей команды, что очень даже не плохо. ",
+				"abyssal_blade":"Если у вашей команды мало дизейблов, вам нечем фиксировать врагов и у многих с противоположной команды имеется Black King Bar, то Abyssal Blade решит эту проблему. Вам будет проще фиксировать таких героев, которые очень мобильные сами по себе.
+К примеру АМ, Тимбер, Квопа, Пак, Шторм, Мирана и т.д.",
+				"heavens_halberd":"Поможет нам против героев которые очень больно бьют с руки и даст нам 25% к уклонению."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

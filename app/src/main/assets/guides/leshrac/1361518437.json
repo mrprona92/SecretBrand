@@ -1,0 +1,104 @@
+{
+	"Hero":"leshrac",
+	"Title":"[DMX] Leshrac - Push Build (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"bloodstone",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"black_king_bar",
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"blink",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_diabolic_edict",
+			"4":"leshrac_split_earth",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"leshrac_lightning_storm",
+			"10":"leshrac_lightning_storm",
+			"11":"leshrac_lightning_storm",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_pulse_nova",
+			"14":"leshrac_pulse_nova",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Un stun de zone avec de bons dégâts.
+Attention cependant il possède un petit délai qui le rend assez difficile à placer.",
+				"leshrac_diabolic_edict":"Un sort qui infligera d'énormes dégâts sur une ciible isolée.
+C'est aussi un très bon sort pour push les tours.",
+				"leshrac_lightning_storm":"Un sort qui rebondit qui vous permettra de faire encore plus de dégâts de zone en teamfight.",
+				"leshrac_pulse_nova":"Un ultimate qui vous permettra de faire d'énormes dégâts mais qui coute très cher en mana alors attention à ne pas le laisser activé pour rien."
+		}
+	}
+}

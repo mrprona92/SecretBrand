@@ -1,0 +1,91 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"Gyrocopter - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"helm_of_the_dominator"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"yasha"
+			],
+			"luxury":
+			[
+				"manta",
+				"butterfly",
+				"satanic",
+				"invis_sword",
+				"monkey_king_bar",
+				"greater_crit",
+				"ultimate_scepter",
+				"rapier",
+				"ring_of_aquila"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Pontelas en agilidad (Verde)",
+				"black_king_bar":"Muy util para iniciar junto a tu ultimate y poder pelear en las teamfights.",
+				"monkey_king_bar":"Si tienen enemigos con evasion o Mariposa, necesitas este item",
+				"invis_sword":"Si quieres ir de ganker (y no eres el principal carry del equipo,) la shadow blade es una buena opcion.",
+				"helm_of_the_dominator":"Stackea ancients siempre que puedas!!",
+				"ring_of_aquila":"Apagalo cuando no lo necesites para evitar que tus creeps pusheen la linea."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_rocket_barrage",
+			"2":"gyrocopter_flak_cannon",
+			"3":"gyrocopter_rocket_barrage",
+			"4":"gyrocopter_flak_cannon",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_flak_cannon",
+			"9":"gyrocopter_flak_cannon",
+			"10":"gyrocopter_homing_missile",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_homing_missile",
+			"13":"gyrocopter_homing_missile",
+			"14":"gyrocopter_homing_missile",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"gyrocopter_rocket_barrage":"Intenta lanzarlo cuando no haya creeps enemigos cerca para que el heroe enemigo se lleve todos los ataques. Hace muchisimo dmg!!",
+				"gyrocopter_homing_missile":"Muy util para gankear, ademas de hacer retroceder a los enemigos.",
+				"gyrocopter_flak_cannon":"Te permite pushear muchisimo las lineas, farmear ancients, etc.",
+				"gyrocopter_call_down":"Habilidad importantisima para las teamfights. Puedes iniciar con ella (muy util junto a hoja sombria). Con cetro de Aghanim puedes lanzarla desde cualquier punto del mapa!"
+		}
+	}
+}

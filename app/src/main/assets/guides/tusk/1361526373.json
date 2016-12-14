@@ -1,0 +1,80 @@
+{
+	"Hero":"tusk",
+	"Title":"Gide for tusk by Tetris (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"bottle"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"orb_of_venom"
+			],
+			"Основные предметы":
+			[
+				"phase_boots",
+				"invis_sword",
+				"skadi"
+			],
+			"luxury":
+			[
+				"rapier",
+				"heart",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Tut vce pon9tno: viwe skorost', a zna4it i ckoroct' cnezhka budet bolwe.",
+				"magic_wand":"Stick nuzhen dlya vocctanovleniya mp i hp, Zapacnoy bottle + daet nebolwoy pluc k statam.",
+				"bottle":"Mnogie skazhut, chto bottle dlya nachalnih urovney - eto glupo, ya zhe schitayu eto znachitel'nim preimuwectvom pered vrazheskoy komandoy. Ecli vi budete uspevat' podnimat' runi - to vawey mani ne budet konca!",
+				"phase_boots":"Posle togo, kak kupili prediduwie itemi, bistree sobiraem eto, ved' eto zhe ogromnaya skorost' v snezhke, unikal'naya vew' dlya \"dogonyalok\",",
+				"sheepstick":"Pomimo vawix spelov, dast ewe paru sekund u9zvimosti protivnika, Dopolnitel'naya mana.",
+				"heart":"Povisit vawu vizhivaemoct'.",
+				"rapier":"Ecli vi uspeete eto cobrat', to vawi soperniki budut lozhitc9 c 1 krita! No nado bit' octorozhnim, chtobi ee ne otobrali!",
+				"invis_sword":"Strategiya takaya: yuzaem ultu, uxodim v inviz... b'em!  C ee pomowi mozhnno ubegat' ot copernikov. Otlichnaya vew'! Brat' obyazatel'no!",
+				"skadi":"Uluchwaem naw Orv of Venom, Bolwoy procent zamedleniya, dopolnitel'nie mp i hp. Ee 100% nuzhno uspet' nafarmit'.",
+				"orb_of_venom":"Ochen' vazhaya vew'!!! Vcegda ee pokupat'! Xranit' do late'a. Potom mozhno prodat'. O4en' xorowo pomozhet pri gangax, ibo zamedlyaet cel' na 12%!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_ice_shards",
+			"2":"tusk_snowball",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_frozen_sigil",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"Scary DOC! Support, Killer, Semi-carry Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"sobi_mask",
+				"tango",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"flying_courier",
+				"urn_of_shadows",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"ward_observer",
+				"arcane_boots",
+				"ultimate_scepter",
+				"magic_wand",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"invis_sword",
+				"ghost",
+				"bloodstone",
+				"shivas_guard",
+				"ancient_janggo",
+				"gem"
+			],
+			"Very Situational Items":
+			[
+				"pipe",
+				"sheepstick",
+				"cyclone",
+				"force_staff",
+				"blink",
+				"mekansm",
+				"vladmir",
+				"medallion_of_courage"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"WARDS! WARDS! WARDS!
+",
+				"ward_sentry":"Use to remove the enemy wards and kill invisible heroes.",
+				"urn_of_shadows":"You can use for both defensive use, when you need a fast heal or dont have mana. Or offensive, after maledict.",
+				"ultimate_scepter":"Aghanins will provide a nice help on the ultimate, if the other team have a lot of disables you can do a shadow blade or bkb before aghanins.",
+				"bloodstone":"Bloodstone will help you mantain the heal all the time",
+				"invis_sword":"Like BkB is useful to survive and mantain your ult up.",
+				"arcane_boots":"This will provide a nice mana pool and help your allies, after you can transform into a bloodstone.",
+				"ancient_janggo":"Nice for stats for low cost.",
+				"medallion_of_courage":"If you team is -armor based, this will help with roshan kills"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_voodoo_restoration",
+			"3":"witch_doctor_maledict",
+			"4":"witch_doctor_paralyzing_cask",
+			"5":"witch_doctor_maledict",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_maledict",
+			"9":"witch_doctor_paralyzing_cask",
+			"10":"witch_doctor_maledict",
+			"11":"witch_doctor_death_ward",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"witch_doctor_voodoo_restoration",
+			"18":"witch_doctor_voodoo_restoration",
+			"19":"witch_doctor_voodoo_restoration",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"Useful to farm and to make the big plays!",
+				"witch_doctor_voodoo_restoration":"Healing lv 1 helps a lot in the early game, and the early  urn will help with manahealth regen.",
+				"witch_doctor_maledict":"The killer skill, its a little hard to hit more than 1 person, but when you do its beautiful.",
+				"witch_doctor_death_ward":"Killer machine, just need to get the right position to drop this."
+		}
+	}
+}

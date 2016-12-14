@@ -1,0 +1,108 @@
+{
+	"Hero":"lich",
+	"Title":"It's Lich Bitch",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"magic_stick"
+			],
+			"Core":
+			[
+				"mekansm",
+				"bracer"
+			],
+			"Situational/Late Game":
+			[
+				"force_staff",
+				"ghost",
+				"magic_wand",
+				"ancient_janggo",
+				"necronomicon",
+				"ultimate_scepter"
+			],
+			"Support Items":
+			[
+				"flying_courier",
+				"ward_sentry",
+				"ward_observer",
+				"smoke_of_deceit",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_stick":"A magic stick is a very good item for Lich as it is only 200 gold but provides very good burst regen when used correctly. Having one of these will save your life many a time.",
+				"magic_wand":"If you have the spare cash turning your stick into a wand will give you a nice stat boost and an extra 5 charges.",
+				"ghost":"If you're up against a high mobility physical damage reliant hero such as AntiMage, Lycan or PA a ghost scepter can keep you alive long enough to throw your ulti and use your Mek, while wasting the enemy carry's time.",
+				"dust":"As a support it is your job to purchase support items, place wards, use inventory space on dust and smoke and not take kills and farm. It's a hard life but it aids your team tremendously. Good supports can make games.",
+				"ward_observer":"As a support it is your job to purchase support items, place wards, use inventory space on dust and smoke and not take kills and farm. It's a hard life but it aids your team tremendously. Good supports can make games.",
+				"ward_sentry":"As a support it is your job to purchase support items, place wards, use inventory space on dust and smoke and not take kills and farm. It's a hard life but it aids your team tremendously. Good supports can make games.",
+				"courier":"At the beginning of the game don't buy a courier if your team already has one. Instead buy one less Iron Branch and get an early set of sentry wards for dewarding and killing invisable heroes.",
+				"bracer":"Bracers are cheap, and give you good survivability. Buy one can be quite a good idea as it will make you a nice amount tankier and can be turned into a drum later. If you're not doing well you can buy more to tank up, but avoid this.",
+				"mekansm":"Your one and only core item is a Mek. Getting this is of huge importance and the earlier you have it the better your team will do. Try not to be initiated on in teamfights as losing the Mek holder quickly will be a great loss to the team.",
+				"flying_courier":"As a support it is your job to purchase support items, place wards, use inventory space on dust and smoke and not take kills and farm. It's a hard life but it aids your team tremendously. Good supports can make games.",
+				"force_staff":"Force Staff is a fantastic utility item. The stats it gives are ok but what you really want is the effect. You can use it to put yourself into a good position for you ulti, allow a carry to catch a fleeing enemy or even put an out of position enemy into an even worse spot,",
+				"necronomicon":"If you are doing well early but are worried about being outcarried later, pick up a Necro Book. The extra push it provides is wonderful as well as some more teamfight capability.",
+				"ultimate_scepter":"A Scepter is an absolute luxaury item for Lich. You should be focusing on support items and not rushing it early, but if you are doing really well and can afford it the buff to your ulti can be very helpful.",
+				"ancient_janggo":"If nobody else on your team is making a drum, it can be a great item for you to finish. The aura bonuses will buff your team nicely giving you an edge in fights.",
+				"smoke_of_deceit":"As a support it is your job to purchase support items, place wards, use inventory space on dust and smoke and not take kills and farm. It's a hard life but it aids your team tremendously. Good supports can make games.",
+				"tranquil_boots":"Tranquil boots are the best choice for Lich as they give great regen good move speed and, most importantly, are significantly cheeper than other boots meaning a faster Mek and a happier team."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_dark_ritual",
+			"6":"lich_chain_frost",
+			"7":"lich_dark_ritual",
+			"8":"lich_frost_nova",
+			"9":"lich_frost_nova",
+			"10":"lich_frost_armor",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Frost blast in 'cool' and will make laning against you awful but it is important to max sacrifice first as it's impacts are much larger. Be sure to cast this frequently in lane on enemy heroes but don't put yourself too far out of position to do it.",
+				"lich_frost_armor":"Frost armor can give your team a big advantage in fights. Especially against right-click dependant carries. Best not to autocast the ability unless you're really struggling. Make sure you put it on your team's most critical heroes in preference to yourself.",
+				"lich_dark_ritual":"Sacrifice makes a huge impact on the lane by denying XP and gold while keeping the creep wave close to your tower where your carry can farm safely. Use this skill as soon as it is off cd in the laning phase. Denying ranged creeps will pull the wave more, melee creeps will give more mana.",
+				"lich_chain_frost":"Chain Frost can be a game changer when used well. Make sure that when you use it there aren't creeps around, there are at least 2 heroes and they aren't too far apart. Coupling this with another group disable such as Black Hole, Chronosphere, Reverse Polarity or Ravage can be game breaking.",
+				"attribute_bonus":"While Lich would love to have more stats, it's probably not going to happen."
+		}
+	}
+}

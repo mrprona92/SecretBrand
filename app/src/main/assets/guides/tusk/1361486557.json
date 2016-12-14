@@ -1,0 +1,87 @@
+{
+	"Hero":"tusk",
+	"Title":"Tusky (carry/utility Tusk)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"orb_of_venom",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"armlet",
+				"medallion_of_courage",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"soul_ring",
+				"black_king_bar",
+				"invis_sword",
+				"bfury",
+				"greater_crit",
+				"heart",
+				"blade_mail",
+				"yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Don't get this if you don't expect any physical harrass, get a Gauntlets of Strength instead",
+				"black_king_bar":"Useful against magic intensive teams",
+				"bfury":"Your ulti will also cleave if you get this, consider getting it if you have a Magnus/DS/Enigma etc.",
+				"armlet":"This boosts your survivability, get it after you upgrade your boots",
+				"yasha":"Get this if you need more speed",
+				"arcane_boots":"Tusk has a low mana pool and needs mana for all of his skills, if you have supports with Arcane Boots, get Phase boots instead",
+				"orb_of_venom":"Cheap item that helps you catch up to people that try to flee after you snowball"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_snowball",
+			"2":"tusk_ice_shards",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_frozen_sigil",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

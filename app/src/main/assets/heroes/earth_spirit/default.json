@@ -1,0 +1,42 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_earth_spirit",
+	"Title":"Recommended items for Earth Spirit",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"clarity",
+			"branches",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"null_talisman"
+		],
+		
+		"coreItems":[
+			"arcane_boots",
+			"magic_wand",
+			"veil_of_discord",
+			"urn_of_shadows",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"heavens_halberd",
+			"pipe",
+			"heart",
+			"sheepstick",
+			"blade_mail",
+			"shivas_guard",
+			"force_staff",
+			"blink",
+			"mekansm"
+		]
+	}
+}

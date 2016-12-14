@@ -1,0 +1,99 @@
+{
+	"Hero":"chen",
+	"Title":"You got bad micro but want to play as chen? Be a support!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"headdress",
+				"buckler",
+				"vladmir",
+				"boots",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"assault",
+				"shivas_guard",
+				"bloodstone",
+				"ultimate_scepter",
+				"travel_boots",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"refresher",
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Wards, wards and even more wards! one who controls the map controls the game! If you are not shure about your placing, or just lazy to stick them yourself at least buy them so someone can place instead of you!",
+				"ward_sentry":"if your allies are getting annoyed by invisible enemy or by enemies wards - by theese!",
+				"travel_boots":"You always can be in the center of action with this.",
+				"mekansm":"Heal when you are nearby to your allies. Also dont forget a little armour boost.",
+				"vladmir":"Adds lifesteal to your melee allies. And whats more to your melee creeps!",
+				"ring_of_basilius":"Bonus armour to your creeps as well as mp regen to you.",
+				"headdress":"Regenerates your creeps in forest!",
+				"ultimate_scepter":"Really good thing, with this you can even stay at fountain healing your allies by cd(not that you should do that ^_^ )",
+				"refresher":"If ulti + mekka is not enough for your team to win - try this one for size! ",
+				"assault":"Buy either this or shiva.",
+				"shivas_guard":"Buy either this or cuirass.",
+				"bloodstone":"Gives you great hp and mpregen boost. Survivability and more action in one item!",
+				"ancient_janggo":"Use to chase or retreat from your ebemies. Also use on tower killing - even 10% bonus to atkspd is crucial sometimes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_holy_persuasion",
+			"4":"chen_penitence",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_test_of_faith",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"Early point here for a little slow. really helps surviving and chasing!",
+				"chen_test_of_faith":"Early point here to tp for free your lane ally.",
+				"chen_test_of_faith_teleport":"Always, i repeat, ALWAYS REMEMBER that you can TP YOUR ALLIE FOR FREE to base!(or cobold. no, srsly, cobold is, like, most rare neutral creep. so if things are getting bad, befor you die, at least save this fellow. or allie. but thats optional.)",
+				"chen_holy_persuasion":"Try to get as bulky creeps as you can for jungling. For teamfighting get centaur with stomp and aura of spdatk, wolf with crit and aura of %dmg and cobold with aura of bonus ms(one with the cup).
+With those three and your mekka + vladi your allies will get strong like they are 3-4 levels higher,",
+				"chen_hand_of_god":"Always monitor your allies status and minimap to see if there is a fight somewhere to sudden heal your allies, thus giving them advantage!"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "dotaId": "quelling_blade",
+  "id": 11,
+  "img": "quelling_blade_lg.png",
+  "dname": "Quelling Blade",
+  "qual": "component",
+  "cost": 225,
+  "desc": "Active: Chop Tree/Ward - Destroy a target tree or ward. Chop cast range is increased when targetting wards.<br/><br/>Passive: Quell - Increases attack damage against non-hero units, based on whether the equipped hero is ranged or melee. Does not provide bonus damage against Roshan.",
+  "notes": "Cannot carry more than one.",
+  "attrib": "QUELL MELEE DAMAGE: 140%<br/>QUELL RANGED DAMAGE: 115%<br/>CHOP TREE CAST RANGE: 350<br/>CHOP WARD CAST RANGE: 450",
+  "mc": false,
+  "cd": 5,
+  "lore": "The axe of a fallen gnome, it allows you to effectively maneuver the forest.",
+  "components": null,
+  "created": false
+}

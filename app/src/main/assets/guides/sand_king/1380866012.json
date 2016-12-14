@@ -1,0 +1,88 @@
+{
+	"Hero":"sand_king",
+	"Title":"강력한 기절과 한타에서 적들의 혼까지 빼먹는 누킹의 제왕! 모래 제왕!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"circlet",
+				"gauntlets",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"blink",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"모래 제왕에게 점멸 단검은 생명보다 더 중요한 아이템입니다. 숨어서 궁극기를 사용 후 점멸 단검으로 진입하는 콤보가 정석입니다. ",
+				"gauntlets":"전투팔찌를 위한 초반을 도와주는 아이템입니다.",
+				"circlet":"전투팔찌를 위한 초반을 도와주는 아이템입니다.",
+				"bracer":"초반에 모자른 능력치와 약간의 데미지를 상승시켜줍니다. ",
+				"ultimate_scepter":"아가님 홀을 맞춰서 한타에서 엄청난 누킹을 선사하세요.",
+				"heart":"모든 힘 영웅에게 타라스크는 완벽한 아이템입니다. 힘 능력치와 엄청난 체력통의 증가!",
+				"shivas_guard":"후반에 생존과 약간의 누킹을 위한 아이템입니다. 게다가 둔화효과도 있어서 적들이 궁극기에서 못 도망가게 합니다. ",
+				"arcane_boots":"힘 영웅이라 마나가 모자란 모래 제왕이지만 대부분의 딜링을 기술로 하니 마나 신발은 필수입니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_caustic_finale",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_caustic_finale",
+			"9":"sandking_caustic_finale",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"sandking_sand_storm",
+			"24":"sandking_sand_storm",
+			"25":"sandking_sand_storm"
+		},
+		"AbilityTooltips":
+		{
+				"sandking_burrowstrike":"훌륭한 군중 제어기이며, 초반에는 딜링이 꽤 됩니다. 한꺼번에 2~3명까지도 기절이 가능하니 잘 사용하시면 한타에서 아주 좋습니다.",
+				"sandking_sand_storm":"초반에 하나만 찍어주시면 됩니다. 위험할 때 적이 감지 효과 아이템이 없을 때는 숨어서 도망가기에 최고입니다.",
+				"sandking_caustic_finale":"라인을 좀 푸시해서 탈이긴 하지만, 후반 파밍에는 완벽합니다. 그리고 독에 중독된 크립이 터지면서 막타를 먹으로 오는 적에게 간접적인 피해를 입힙니다.",
+				"sandking_epicenter":"지고 있는 게임도 뒤집는 최고의 누킹 기술입니다. 게다가 둔화효과도 걸려있어서 잘만 사용한다면 적들을 멘탈 붕괴 시켜버리는 궁극기입니다. 2초의 정신집중 시간이 있다는 점을 유의하세요! 정신집중 시간 동안 움직이거나 방해를 받으면 궁극기가 취소되고 멘탈붕괴는 당신의 것입니다.",
+				"attribute_bonus":"모래 폭풍이 1 이상 투자 필요가 없는 기술이라 능력치를 먼저 찍어줍니다."
+		}
+	}
+}

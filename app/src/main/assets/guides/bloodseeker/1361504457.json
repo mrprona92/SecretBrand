@@ -1,0 +1,87 @@
+{
+	"Hero":"bloodseeker",
+	"Title":"[DMX] Bloodseeker (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"quelling_blade",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"monkey_king_bar",
+				"assault",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"radiance",
+				"sange_and_yasha",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bloodseeker_blood_bath",
+			"2":"bloodseeker_bloodrage",
+			"3":"bloodseeker_blood_bath",
+			"4":"bloodseeker_thirst",
+			"5":"bloodseeker_blood_bath",
+			"6":"bloodseeker_rupture",
+			"7":"bloodseeker_blood_bath",
+			"8":"bloodseeker_thirst",
+			"9":"bloodseeker_thirst",
+			"10":"bloodseeker_thirst",
+			"11":"bloodseeker_rupture",
+			"12":"bloodseeker_bloodrage",
+			"13":"bloodseeker_bloodrage",
+			"14":"bloodseeker_bloodrage",
+			"15":"attribute_bonus",
+			"16":"bloodseeker_rupture",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bloodseeker_bloodrage":"ce sort vous servira surtout à silence des héros casters au début de la partie. Ou à harass sur votre lane.
+Vous pouvez également le lancer sur vous-même quand vous commencez à avoir du stuff, ce qui augmentera drastiquement vos dégâts.",
+				"bloodseeker_blood_bath":"Ce sort est relativement unique dans le sens ou il vous autorise à chasser vos proies même sous les tours ou dans leur base sans vous soucier de votre vie du moment que vous la tuez. Un Bloodseeker au seuil de la mort pourra se retrouver full vie quelques instants plus tard s’il tue 2 ou 3 héros.",
+				"bloodseeker_thirst":"Parfait pour chasser les proies ayant peu de pv.",
+				"bloodseeker_rupture":"Excellent lors des ganks : La cible auront donc le choix de rester en place et de se laisser taper dessus ou de mourir en courant."
+		}
+	}
+}

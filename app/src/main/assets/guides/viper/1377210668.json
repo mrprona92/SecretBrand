@@ -1,0 +1,141 @@
+{
+	"Hero":"viper",
+	"Title":"미드 바이퍼(Mid Viper)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"circlet",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"power_treads",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"ultimate_scepter",
+				"yasha",
+				"manta",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"phase_boots",
+				"monkey_king_bar",
+				"invis_sword",
+				"magic_wand",
+				"travel_boots",
+				"ancient_janggo",
+				"butterfly",
+				"heart",
+				"heavens_halberd",
+				"assault",
+				"maelstrom",
+				"gem"
+			],
+			"팀원이 함께 사야합니다.":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"courier",
+				"flying_courier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"아퀼라 하위탬",
+				"branches":"치유 물약 대신에 쇳가지 2~3개도 좋은 선택.",
+				"circlet":"아퀼라 하위탬",
+				"boots":"바이퍼는 발이 느립니다. 중요중요. 사이드상점에서도 파니 참고.",
+				"gem":"상대가 은신케릭터가 많다면 빨리 가주고. 아니라면 나중에사도 됩니다. 와드지우는 재미도 쏠쏠. 사서 다른 튼튼한 아군 주는것이 좋죠.",
+				"magic_wand":"미드에 스킬을 많이 쓰는 영웅이 왔던지 쇳가지 스타트하셨으면 살만합니다. ",
+				"flask":"데미지를 입으면 취소되니 주의 또 주의.",
+				"dust":"가장 무난한 은신감지 아이템.",
+				"bottle":"미드라면 제일 처음 맞춰야할 템입니다. 최대한 빨리 맞추세요. 최소 4분전까지. 다른 아군이 물병갈 사람이 있거나, 빠른 메칸즘이 목표면 가지 않습니다.",
+				"ward_observer":"사는 사람 없으면 사야죠 어쩌겠나요.. 나중에 돈이 많다면 사서 짐꾼에 넣은후 서포터에게 알려줍시다.",
+				"ward_sentry":"은신을 지속적으로 감시하고 상대 와드 지울때 쓰는 감시와드!",
+				"tango":"기본적으로 체력회복에도 좋지만, 나무사이로 도망다닐때도 좋습니다.",
+				"courier":"아무도 안산다면 사야죠...어쩌겠나요.",
+				"tpscroll":"모든 영웅의 코어탬. 웬만하면 들고 다니세요.",
+				"travel_boots":"게임이 매우 길어진다면 위상변화장화를 팔고 이것을 구입합시다.",
+				"phase_boots":"추격능력을 대폭 상향시켜주고 도주 능력도 대폭 올려줍니다. 사이드상점에서 완성가능",
+				"power_treads":"위상변화 장화와 이것중에 선택인데, 이쪽은 캐리력은 더 높으나 갱킹력이 떨어집니다.",
+				"mekansm":"아퀼라까지 맞추시고 나면 가셔야할탬. 이것을 맞추고나면 정글도 쉽게 돕니다.",
+				"flying_courier":"역시 아무도 안올려준다면 올려야죠 ㅠㅠ",
+				"orchid":"침묵이 절실한 경우 생각보다 괜찮은 아이템입니다.",
+				"ultimate_scepter":"안티캐리역할을 좀 더 잘하게 해주는 아이템.",
+				"assault":"쓸만한 아이템인건 분명하나...갈 기회가 별로 없습니다.",
+				"heart":"적어도 만타까지 맞추고 갈만한탬중 하나. 맞추면 죽지않는 바이퍼를 볼 수 있어요.",
+				"black_king_bar":"만타 이후에 갈만한 국민탬중 하나. 상대 마법공격이나 CC가 매섭다면 메칸즘 이후에 바로 가는것도 좋아요.",
+				"vanguard":"메칸즘 대용탬중 하나.",
+				"blade_mail":"메칸즘 이후에 갈만한 아이템. 아군에 다른 캐리가 있으면 가볼만해요.",
+				"monkey_king_bar":"만타까지 나온이후에 가볼만한 최종딜템중 하나. 유령자객이나 나비검캐리 견제하기도 좋습니다. 리키연막무시라던지..취권도사 디버프무시라던지",
+				"butterfly":"공수일체의 좋은아이템중 하나이긴하나 이걸 맞추면 상대 고대의 요새가 터져있을듯..",
+				"manta":"폭딜/투사체회피/디버프제거/적 딜 분산/이속/모든스탯등등 만능탬...",
+				"invis_sword":"저수준게임에선 학살을 하게 해주는탬.",
+				"maelstrom":"레인 푸쉬가 절실할때 가줍시다.",
+				"yasha":"만타 선행탬. 이속이 있어서 좋아요.",
+				"ancient_janggo":"가성비가 좋은 북.",
+				"smoke_of_deceit":"연막 갱킹/연막 로샨/연막 팀파이트 등등..무궁무진.",
+				"heavens_halberd":"안티캐리를 표방할경우 선택할만한 좋은 아이템입니다.",
+				"ring_of_aquila":"위상변화 장화 이후에 가주면 되는탬. 가성비도 좋은데다가 마나젠까지~"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_nethertoxin",
+			"3":"viper_corrosive_skin",
+			"4":"viper_poison_attack",
+			"5":"viper_corrosive_skin",
+			"6":"viper_viper_strike",
+			"7":"viper_corrosive_skin",
+			"8":"viper_corrosive_skin",
+			"9":"viper_nethertoxin",
+			"10":"viper_poison_attack",
+			"11":"viper_viper_strike",
+			"12":"viper_nethertoxin",
+			"13":"viper_nethertoxin",
+			"14":"viper_poison_attack",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"바이퍼의 밥줄 스킬. 수동으로 쓸 경우에는 크립/포탑 어그로를 안먹는다는점을 잘 이용하세요.
+보통 1렙 선스킬로 가지만, 경우에 따라선 W나 E를 선으로 찍기도합니다.",
+				"viper_nethertoxin":"막타/디나이하기 편해지고, 체력비례 추가뎀은 역관광을 잘내줍니다.",
+				"viper_corrosive_skin":"어설픈 견제는 독으로 갚아주는 강력한 패시브.갱킹보다 안티갱킹을 목표로한다면 Q보다 이쪽을 먼저 찍어주세요.",
+				"viper_viper_strike":"갱킹과 안티캐리용 강력한 독. 아가님이 있다면 쿨도 12초에 사거리도 900 ! 마법면역에도 감속효과는 들어갑니다.",
+				"attribute_bonus":"바이퍼는 모든 스킬이 유용하므로 스탯은 스킬을 다찍고 찍습니다."
+		}
+	}
+}

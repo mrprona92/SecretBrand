@@ -1,0 +1,92 @@
+{
+	"Hero":"enchantress",
+	"Title":"Tin_Foil's Semi-Carry Enchant",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"power_treads",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"force_staff",
+				"mask_of_madness"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Rush an urn.  Plus your Hp is awful.",
+				"branches":"Cause they're gg branches.",
+				"tango":"When you gank often, these will let you save some mana if you don't have to cast heal as often.",
+				"power_treads":"Again, you need the Hp.  Also the attack speed is nice.",
+				"urn_of_shadows":"Some early ganks will get you some charges.  Plus you need the Hp.  Eventually you'll need to sell this if you're farming like crazy.",
+				"sheepstick":"If you can afford it.  Sheep is always amazing.",
+				"orchid":"A little cheaper than sheep and still great.",
+				"force_staff":"A great escape tool, on enchant it can give you some extra dmg.  Just throw a spear and force away for a huge hit.  Don't get gimmicky with it, but if you only have time for one more attack, use it.",
+				"ultimate_scepter":"Really one of the best scepter upgrades there is.  You get extra range and truly painful damage.  Not to mention, you need the hp.  No reason to ever not get this on enchant.",
+				"mask_of_madness":"This might look strange here, but the damage you can dish out with the extra attack speed...  Well, it's good.  Be careful with the extra damage you can take.",
+				"ancient_janggo":"You need the hp, the movespeed, and the mana.  Plus, it's a cheap item to get before scepter.  Yes, this is a lot of early game farm.  Gank the lane some, but mainly farm like mad."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_natures_attendants",
+			"4":"attribute_bonus",
+			"5":"attribute_bonus",
+			"6":"enchantress_impetus",
+			"7":"enchantress_natures_attendants",
+			"8":"enchantress_natures_attendants",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"enchantress_impetus",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"enchantress_enchant",
+			"18":"enchantress_enchant",
+			"19":"enchantress_enchant",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"enchantress_untouchable",
+			"23":"enchantress_untouchable",
+			"24":"enchantress_untouchable",
+			"25":"enchantress_untouchable"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"This skill can be okay.  Kind of.  But really not that good.  In late game, heroes will have enough items that it won't matter much.  You can grab a level earlier if you like it.",
+				"enchantress_enchant":"Here's where this build gets odd.  Leveling up this skill allows you to hold onto creeps for longer, which is good for pushing, but you aren't.  You lose the slow, but you gain survivablity and your ult can do the damage fast enough.  Use to farm like mad in the jungle.",
+				"enchantress_natures_attendants":"A really amazing skill.  Two levels is enough early, so stats are nice for a bit, but finish it up before long.",
+				"enchantress_impetus":"This build revolves around your ult.  You can just do so much damage, and much of it pure.  Remember to say at range and just unload on people."
+		}
+	}
+}

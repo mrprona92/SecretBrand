@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 7 Armor<br/>+ 50% Mana Regeneration<br/>ARMOR REDUCTION: 7",
+  "cd": 7.0,
+  "components": [
+    "chainmail",
+    "sobi_mask"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Active: Valor - If cast on an ally, increases their armor while reducing the caster\u0027s. If cast on an enemy, reduces the armor of both the enemy and the caster. Lasts 7 seconds.",
+  "dname": "Medallion of Courage",
+  "dotaId": "medallion_of_courage",
+  "mc": false,
+  "img": "medallion_of_courage_lg.png",
+  "lore": "The bearer has no fear of combat.",
+  "id": 187,
+  "created": true,
+  "cost": 1200
+}

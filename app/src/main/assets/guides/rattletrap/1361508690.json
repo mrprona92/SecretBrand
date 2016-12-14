@@ -1,0 +1,103 @@
+{
+	"Hero":"rattletrap",
+	"Title":"Clockwerk - The Best of Ganker build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"flask",
+				"branches",
+				"clarity",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"magic_stick",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"magic_wand",
+				"blade_mail",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"shivas_guard",
+				"sphere"
+			],
+			"Wanna carry?":
+			[
+				"assault",
+				"mjollnir",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Brush off harassment in lane.",
+				"gauntlets":"A little bit of tankiness.",
+				"boots":"Mobility is everything.",
+				"magic_stick":"In the heat of ganking, gaining a charge or two is very common, especially against deperate spell-caster.",
+				"magic_wand":"Straight update from Magic Stick.",
+				"bottle":"With rocket to scout, bottle is the nicest regen for Clockwerk early game.",
+				"phase_boots":"Even more speed to chase halpless heroes.",
+				"bracer":"Straight upgrade from Gaunlet, provides very needed stats.",
+				"ultimate_scepter":"Start off with one Point Booster, then complete the other core items like Blade Mail. Aghanim Scepter is a must for every Clockwerk out there.",
+				"shivas_guard":"Never out of mana again, nice AoE nuke after initiate with Hookshot.",
+				"sphere":"Perfect against single-target disable.",
+				"blade_mail":"When locked inside the enemy line-up, Blade Mail helps Clockwerk kill more quickly against panic enemies or survive till his team arrive.",
+				"ancient_janggo":"More speed, more stats. Activate during fights.
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_rocket_flare",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_battery_assault",
+			"4":"rattletrap_power_cogs",
+			"5":"rattletrap_battery_assault",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_battery_assault",
+			"8":"rattletrap_rocket_flare",
+			"9":"rattletrap_rocket_flare",
+			"10":"rattletrap_rocket_flare",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_power_cogs",
+			"14":"rattletrap_power_cogs",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rattletrap_battery_assault":"Clockwerk signature skill, maxing it first is number-one priority. Keep in mind that the damage instance will be distributed randomly between units in an area so positioning or isolating enemies with Power Cog is very important.",
+				"rattletrap_power_cogs":"Best isolate skill in the game, though leveling it to maximum doesn't provide that much of benefit for Clockwerk, so take one level of this early and leave it at that until later.",
+				"rattletrap_rocket_flare":"One level at the begining for scouting rune and lane, maxing at 10 for damage and cooldown. Spam it!",
+				"rattletrap_hookshot":"Aim about 100 units ahead of the target. Hookshot is quite fast and easy to latch, what important is the combo come after. "
+		}
+	}
+}

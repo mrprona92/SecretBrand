@@ -1,0 +1,1994 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shadow Demon! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Shadow_demon_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your old master has returned! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Shadow_demon_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heed me, and it will go better for you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Shadow_demon_spawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sa nith icha gluth. (This land will be consumed.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Shadow_demon_spawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This time it is the demon who will do the summoning! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7f/Shadow_demon_spawn_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beginning the Battle",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I will scatter all who gather here today. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Shadow_demon_battlebegins_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh domosh acha. (My reign begins now.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Shadow_demon_battlebegins_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Drawing First Blood",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " First blood. Ah ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Shadow_demon_first_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " With this blood I seal my promise of Dominion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Shadow_demon_first_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Shadow_demon_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So I gather. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Shadow_demon_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is all one to me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Shadow_demon_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Follow! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Shadow_demon_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am summoned. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Shadow_demon_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Who is the minion here? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Shadow_demon_move_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I go where I will. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a4/Shadow_demon_move_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By my beck. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Shadow_demon_move_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hear and heed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Shadow_demon_move_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Obey? Me? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Shadow_demon_move_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " At whose command? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Shadow_demon_move_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Alatho. (Forward.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Shadow_demon_move_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh thok alatho. (I go forward.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/23/Shadow_demon_move_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hollom fek. (Without delay) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Shadow_demon_move_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Acha zomfa. (With pleasure) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Shadow_demon_move_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hollom icha fek ozh. (Nothing can stop me.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Shadow_demon_move_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hmmm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c7/Shadow_demon_move_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haaaah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Shadow_demon_move_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hrrmmm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Shadow_demon_move_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hrm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Shadow_demon_move_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5a/Shadow_demon_move_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Shadow_demon_move_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Shadow_demon_move_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Shadow_demon_move_24.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ef/Shadow_demon_move_25.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rarhrhrh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Shadow_demon_move_26.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hrmm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Shadow_demon_move_27.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That suits me well. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/37/Shadow_demon_move_28.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Shadow_demon_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dominion is mine! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Shadow_demon_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fall before me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Shadow_demon_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By my shadow! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Shadow_demon_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A summoning! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Shadow_demon_attack_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My shadow seeks! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Shadow_demon_attack_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come into my dominion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Shadow_demon_attack_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thus do I dominate! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/88/Shadow_demon_attack_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Voth doq izh. (War on you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cb/Shadow_demon_attack_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Omoz sek. (Darkness comes.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Shadow_demon_attack_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Izh vo\u0027acha ses. (You can not hide.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Shadow_demon_attack_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh icha tak izh! (I will have you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Shadow_demon_attack_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Izh vo\u0027acha nesh. (You are not safe.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/83/Shadow_demon_attack_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By the demon\u0027s will! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0e/Shadow_demon_attack_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s all to my advantage. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Shadow_demon_cast_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No shadow will shelter you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Shadow_demon_cast_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come into my shadow! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Shadow_demon_cast_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh acha doq izh. (I am upon you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Shadow_demon_cast_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Demonic Purge",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Good has no hold on you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Shadow_demon_ability_demonic_purge_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The demon\u0027s curse! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Shadow_demon_ability_demonic_purge_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your friends can\u0027t help you now. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Shadow_demon_ability_demonic_purge_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That\u0027s me you feel. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Shadow_demon_ability_demonic_purge_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You wear my shadow now! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Shadow_demon_ability_demonic_purge_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hahsh ozh poz! (Feel my power!) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Shadow_demon_ability_demonic_purge_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozkavosh tak izh. (Demon-kind takes you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Shadow_demon_ability_demonic_purge_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Purged! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Shadow_demon_ability_demonic_purge_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Stripped! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Shadow_demon_ability_demonic_purge_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Disruption",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027ll be back! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Shadow_demon_ability_disruption_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Leave me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Shadow_demon_ability_disruption_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Off with you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Shadow_demon_ability_disruption_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Disruption! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Shadow_demon_ability_disruption_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You brought me new minions. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Shadow_demon_ability_disruption_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " New followers! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Shadow_demon_ability_disruption_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My, how you\u0027ve grown. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Shadow_demon_ability_disruption_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Evangelizing for my cause? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/83/Shadow_demon_ability_disruption_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing With Shadow Poison",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Shadow_demon_ability_shadow_poison_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Shadow_demon_ability_shadow_poison_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Shadow_demon_ability_shadow_poison_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That was sick! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Shadow_demon_ability_shadow_poison_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My shadow does that to people. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Shadow_demon_ability_shadow_poison_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Finally. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Shadow_demon_ability_shadow_poison_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " In the end, you\u0027re all mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Shadow_demon_ability_shadow_poison_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahm\u0027irush tak izh. (The plague has you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Shadow_demon_ability_shadow_poison_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Vo\u0027sol. (No hope.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Shadow_demon_ability_shadow_poison_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Soul Catcher",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Just your bad luck. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Shadow_demon_ability_soul_catcher_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Caught your soul. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bd/Shadow_demon_ability_soul_catcher_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your soul ensnared. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Shadow_demon_ability_soul_catcher_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Izh icha safras. (You will suffer.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Shadow_demon_ability_soul_catcher_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Failing To Place Soul Catcher On An Enemy Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Shadow_demon_ability_soul_catcher_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Shadow_demon_ability_soul_catcher_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Slipped my trap! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Shadow_demon_ability_soul_catcher_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bad catch! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Shadow_demon_ability_soul_catcher_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Failing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grrrr. Kish! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Shadow_demon_failure_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " In shades refined. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Shadow_demon_level_up_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " How my shadow darkens. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5c/Shadow_demon_level_up_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fearsome energies invoked! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Shadow_demon_level_up_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It all comes together in the end. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Shadow_demon_level_up_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Doubt not a demon\u0027s will. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Shadow_demon_level_up_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My cult grows in number! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Shadow_demon_level_up_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Second Domination draws near. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Shadow_demon_level_up_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Muwahha ha ha ha ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Shadow_demon_level_up_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rahh, ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/72/Shadow_demon_level_up_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh omoz groth! (My shadow spreads.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Shadow_demon_level_up_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The shadow grows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Shadow_demon_ability_shadow_poison_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your soul will make a fine minion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Shadow_demon_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My cult grows by one. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b4/Shadow_demon_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Slain you say? I hardly noticed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Shadow_demon_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Go on, bewail your fate. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/30/Shadow_demon_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cry for all the good it does you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ef/Shadow_demon_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My shadow sweeps over you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Shadow_demon_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Did you not see the demon in your gaze? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Shadow_demon_kill_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Look to the shadows for a taste of your fate. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Shadow_demon_kill_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The weeping is yours, the laughter is all mine. Ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Shadow_demon_kill_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You conspired against me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Shadow_demon_kill_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eyik vo\u0027hollom. (Behold oblivion.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Shadow_demon_kill_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Izh sol fek. (Your day is over.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bd/Shadow_demon_kill_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Vo\u0027sol izh. (There is no hope for you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Shadow_demon_kill_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cry some more. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Shadow_demon_kill_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Rival",
+    "responses": [
+      {
+        "heroes": [
+          "nevermore"
+        ],
+        "items": [],
+        "title": " My shadow rises while your shadow falls. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Shadow_demon_rival_01.mp3"
+      },
+      {
+        "heroes": [
+          "doom_bringer"
+        ],
+        "items": [],
+        "title": " Whatever hell you came from will have to take you back. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/86/Shadow_demon_rival_02.mp3"
+      },
+      {
+        "heroes": [
+          "antimage"
+        ],
+        "items": [],
+        "title": " Deal with it, Anti-Mage. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Shadow_demon_rival_03.mp3"
+      },
+      {
+        "heroes": [
+          "antimage"
+        ],
+        "items": [],
+        "title": " My will, not thine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Shadow_demon_rival_04.mp3"
+      },
+      {
+        "heroes": [
+          "antimage"
+        ],
+        "items": [],
+        "title": " You\u0027ll not dispel my magic! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Shadow_demon_rival_05.mp3"
+      },
+      {
+        "heroes": [
+          "antimage"
+        ],
+        "items": [],
+        "title": " Over-ruled! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Shadow_demon_rival_06.mp3"
+      },
+      {
+        "heroes": [
+          "bane"
+        ],
+        "items": [],
+        "title": " The nightmares you harvest are like sweet dreams to me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Shadow_demon_rival_07.mp3"
+      },
+      {
+        "heroes": [
+          "razor"
+        ],
+        "items": [],
+        "title": " You might be a power in the underscape, but here, you\u0027re a damp spark. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/55/Shadow_demon_rival_08.mp3"
+      },
+      {
+        "heroes": [
+          "clinkz"
+        ],
+        "items": [],
+        "title": " The demon that made Clinkz botched the job if you ask me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Shadow_demon_rival_09.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " I\u0027ll never come to your call. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Shadow_demon_rival_10.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Warlock, you should have written your memoir, not your grimoire. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Shadow_demon_rival_11.mp3"
+      },
+      {
+        "heroes": [
+          "omniknight"
+        ],
+        "items": [],
+        "title": " Omniknight, you were wholly a nuisance. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Shadow_demon_rival_12.mp3"
+      },
+      {
+        "heroes": [
+          "chen"
+        ],
+        "items": [],
+        "title": " There lies Chen. Never were followers more misguided. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Shadow_demon_rival_13.mp3"
+      },
+      {
+        "heroes": [
+          "nevermore"
+        ],
+        "items": [],
+        "title": " Ozh icha tak lash. (I will take my share.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Shadow_demon_rival_14.mp3"
+      },
+      {
+        "heroes": [
+          "nevermore"
+        ],
+        "items": [],
+        "title": " Izh greesh vo\u0027lieyev. (Your debt is not yet paid.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Shadow_demon_rival_15.mp3"
+      },
+      {
+        "heroes": [
+          "doom_bringer"
+        ],
+        "items": [],
+        "title": " Ahm\u0027vo\u0027izh fek sa chron, Lucifash. (Not even you can stop me, Lucifer.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d1/Shadow_demon_rival_16.mp3"
+      },
+      {
+        "heroes": [
+          "doom_bringer"
+        ],
+        "items": [],
+        "title": " Izh vo\u0027poz doq nith, Lucifash. (You are powerless here, Lucifer.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1c/Shadow_demon_rival_17.mp3"
+      },
+      {
+        "heroes": [
+          "doom_bringer"
+        ],
+        "items": [],
+        "title": " Ozh vo\u0027chron izh rast, Lucifash. (I am no longer your puppet, Lucifer.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/98/Shadow_demon_rival_18.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A follower. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Shadow_demon_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A new minion. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Shadow_demon_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All for the Second Dominion. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Shadow_demon_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dominion is mine! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4d/Shadow_demon_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Swept up in the shadows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Shadow_demon_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Demon gold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Shadow_demon_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bow down. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Shadow_demon_lasthit_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s more than your worth. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Shadow_demon_lasthit_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bow to me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/88/Shadow_demon_lasthit_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bow Down. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Shadow_demon_lasthit_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Shadow_demon_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Follow me not! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Shadow_demon_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Torn apart again… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Shadow_demon_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My cult is leaderless! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Shadow_demon_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Darkness within darkness… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Shadow_demon_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Curse that light! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Shadow_demon_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ve lost my dominion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Shadow_demon_death_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Undaunted, I die… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Shadow_demon_death_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Curse your bright cabal! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Shadow_demon_death_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Beset on all sides! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Shadow_demon_death_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The field is rife with enemies. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Shadow_demon_death_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That\u0027s it: You\u0027re out of the cult. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Shadow_demon_death_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sof izh. (Curse you.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Shadow_demon_death_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh vo\u0027fek. (I cannot be stopped.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/64/Shadow_demon_death_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Omoz groth ozh. (The abyss welcomes me.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Shadow_demon_death_15.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning Quickly",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Shadow_demon_fastrez_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh poz icha gluth wroth. (My power will rise again.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Shadow_demon_fastrez_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Give me a moment to regroup. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ea/Shadow_demon_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Let me pull myself together. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Shadow_demon_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Take care what you summon. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Shadow_demon_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Summon forth, fifth and sixth. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Shadow_demon_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Served with a summons. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/86/Shadow_demon_respawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My shadow, in tatters, reknits. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Shadow_demon_respawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I need more shadows here, to beat back this scouring light! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/23/Shadow_demon_respawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Who toys with demons will find himself toyed with. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b4/Shadow_demon_respawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I sense uncertain mastery of these most sinister arts… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Shadow_demon_respawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll bite this hand that feeds me, and take it for my own! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Shadow_demon_respawn_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I heard the cabal call my name. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/73/Shadow_demon_respawn_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This will further the Second Domination. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4f/Shadow_demon_purch_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Well-suited to a demon\u0027s power. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Shadow_demon_purch_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh, shadows, I shall use this in your name. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b4/Shadow_demon_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, Scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Shadow_demon_scepter_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Scepter mine! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Shadow_demon_scepter_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink dagger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Shadow_demon_blink_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink dagger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Shadow_demon_blink_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Ah, this dagger brings back memories. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/73/Shadow_demon_blink_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "sheepstick"
+        ],
+        "title": " Scythe of Vyse! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Shadow_demon_items_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "force_staff"
+        ],
+        "title": " Force Staff! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/26/Shadow_demon_items_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "shivas_guard"
+        ],
+        "title": " Shiva\u0027s Guard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Shadow_demon_items_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "necronomicon"
+        ],
+        "title": " Necronomicon! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Shadow_demon_items_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "bloodstone"
+        ],
+        "title": " Bloodstone! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dc/Shadow_demon_items_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I can wait a bit longer. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Shadow_demon_bottle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Patience is my middle name. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Shadow_demon_bottle_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The shadows gather. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Shadow_demon_bottle_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Shadow_demon_denied_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Shadow_demon_denied_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not so. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Shadow_demon_denied_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not so! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Shadow_demon_denied_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Deee-monic! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Shadow_demon_denied_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Deee-monic! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Shadow_demon_denied_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Begone! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Shadow_demon_denied_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Begone! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Shadow_demon_denied_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not for you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Shadow_demon_denied_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not for you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c6/Shadow_demon_denied_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All is mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Shadow_demon_denied_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All is mine! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Shadow_demon_denied_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For me? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Shadow_demon_denied_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For me?! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Shadow_demon_denied_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Taken! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Shadow_demon_denied_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Taken! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Shadow_demon_denied_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wu-ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Shadow_demon_denied_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Shadow_demon_denied_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh-uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Shadow_demon_denied_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nah-ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Shadow_demon_denied_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Un-uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c6/Shadow_demon_denied_21.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nooooo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Shadow_demon_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defeated! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Shadow_demon_lose_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A blinding light dispels my shadow! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Shadow_demon_lose_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeeessss! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Shadow_demon_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Victory! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Shadow_demon_win_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All creation swept into my shadow! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/53/Shadow_demon_win_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Calling a Missing Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bottom is missing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Shadow_demon_missing_bottom_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Middle is missing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Shadow_demon_missing_middle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Top is missing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Shadow_demon_missing_top_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Shadow_demon_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Here is to a reign unending. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Shadow_demon_immort_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Shadow_demon_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All the quicker to extend my reach. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Shadow_demon_haste_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Shadow_demon_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " And they thought it could get no darker. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/55/Shadow_demon_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Shadow_demon_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So shall my shadows cohere! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Shadow_demon_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Shadow_demon_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Worship all of us, equally. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Shadow_demon_illus_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Shadow_demon_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " In my shadow all is hidden. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Shadow_demon_invis_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Demon gold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Shadow_demon_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ozh icha tak lash. (I will take my share.) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Shadow_demon_rival_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Shadow_demon_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Shadow_demon_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Shadow_demon_notyet_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Shadow_demon_notyet_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Shadow_demon_notyet_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I’m! Not! Ready! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Shadow_demon_notyet_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Shadow_demon_notyet_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Shadow_demon_notyet_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not! Time yet! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Shadow_demon_notyet_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Shadow_demon_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Shadow_demon_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/69/Shadow_demon_nomana_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Shadow_demon_nomana_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Shadow_demon_nomana_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! Mana! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Shadow_demon_nomana_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Shadow_demon_nomana_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Shadow_demon_nomana_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Shadow_demon_nomana_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Shadow_demon_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A demon\u0027s gratitude. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Shadow_demon_thanks_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hrmrmr… thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Shadow_demon_thanks_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Barrhh… thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ea/Shadow_demon_thanks_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming Under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m under attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Shadow_demon_underattack_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No demon lord has ever been more assured that this one, is in the bag. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Shadow_demon_inthebag_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No demon lord has ever been more assured that this one, is in the bag! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Shadow_demon_inthebag_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shitty Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bah! Shitty wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Shadow_demon_shiwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Crummy Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Crummy wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a3/Shadow_demon_crumwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pain",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Shadow_demon_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Shadow_demon_pain_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Erhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Shadow_demon_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Shadow_demon_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nahh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Shadow_demon_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Shadow_demon_pain_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Unh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Shadow_demon_pain_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blahh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/85/Shadow_demon_pain_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Daaah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Shadow_demon_pain_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Braaah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Shadow_demon_pain_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh-rrarr… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Shadow_demon_anger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grrrr. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Shadow_demon_anger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Da! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Shadow_demon_anger_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A rrrrr. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Shadow_demon_anger_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rrrah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Shadow_demon_anger_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rrrah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Shadow_demon_anger_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ehrrr ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Shadow_demon_anger_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grrr. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Shadow_demon_anger_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Aaahhhhh…. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Shadow_demon_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Aaahhhhh…. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Shadow_demon_happy_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hrm hm hm hm hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Shadow_demon_happy_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeeahhhh…. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Shadow_demon_happy_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Shadow_demon_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Shadow_demon_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Shadow_demon_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Buw ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Shadow_demon_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! Ha ha ha ha ha ha ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Shadow_demon_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Shadow_demon_laugh_06.mp3"
+      }
+    ]
+  }
+]

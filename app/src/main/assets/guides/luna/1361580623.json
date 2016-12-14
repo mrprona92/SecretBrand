@@ -1,0 +1,106 @@
+{
+	"Hero":"luna",
+	"Title":"Carry/Semi-Carry Luna Build ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"branches",
+				"circlet",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"power_treads",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"helm_of_the_dominator",
+				"yasha",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"manta",
+				"butterfly",
+				"satanic"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"invis_sword",
+				"monkey_king_bar",
+				"assault",
+				"heart",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Offers early game armor and will be built to Tranquil boot. (Both boot and Ring of Regen can be bought from safe lane secret shop)",
+				"power_treads":"Extra HP and extra attack speed, just what Luna needs. This is now the preferred boots over Tranquil boots following the changes introduced in 6.79.",
+				"bracer":"Cost-effective HP/stats boost and can be built into Drums laters.",
+				"assault":"If no one else from the team can build AC then it's not a bad choice for Luna.",
+				"heart":"If you need extra survivability. ",
+				"black_king_bar":"Magic immunity is a must in late game team fight.",
+				"monkey_king_bar":"A good counter to enemy carry with high evasion.",
+				"butterfly":"A must for most agi carry heroes, it gives Luna more right-click powers and make her moon glavies bouncing like crazy. Also, the passive evasion is imperative in late-game man fights.",
+				"manta":"More push power and can be used to dispel some negative effects on Luna like entangle.",
+				"satanic":"Natural progression from Helm of Dominator",
+				"helm_of_the_dominator":"HoD provides Luna a good sustain on her lane, and you should always dominate a creep (range unit preferred) to help you stack neutral camps.",
+				"yasha":"The extra movement speed greatly enhances Luna's chasing power and also helps to land more hits from her ultimate.
+
+Built into Manta in late game.",
+				"ancient_janggo":"A nature progression from bracer and the extra int can be useful for just one more beam.",
+				"tranquil_boots":"Help stay in the lane and abuse opponent with Luna's high right-click damage. Also help Luna to farm jungles.
+
+It can be disassembled and built to treads.
+
+The recent nerf has made this less attractive but still a decent choice in early games. However, you may want to build it to treads earlier."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lunar_blessing",
+			"2":"luna_lucent_beam",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_moon_glaive",
+			"9":"luna_lunar_blessing",
+			"10":"luna_lunar_blessing",
+			"11":"luna_eclipse",
+			"12":"luna_moon_glaive",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

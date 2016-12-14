@@ -1,0 +1,114 @@
+{
+	"Hero":"treant",
+	"Title":"DressCodes Guide to \"The safelane-tree-dude\"",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"tango",
+				"tango",
+				"clarity"
+			],
+			"Earlygame":
+			[
+				"stout_shield",
+				"tpscroll",
+				"magic_stick",
+				"boots"
+			],
+			"Core":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"smoke_of_deceit",
+				"tpscroll",
+				"ring_of_regen",
+				"quelling_blade"
+			],
+			"Midgame - from more to less likely":
+			[
+				"mekansm",
+				"force_staff",
+				"cloak",
+				"ancient_janggo",
+				"medallion_of_courage"
+			],
+			"Transition (\"Lategame\") - from more to less likely":
+			[
+				"pipe",
+				"ghost",
+				"vladmir",
+				"heavens_halberd",
+				"platemail",
+				"blade_mail",
+				"shivas_guard",
+				"necronomicon",
+				"sheepstick",
+				"black_king_bar",
+				"refresher",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"SITUATIONAL ITEM but gives you a lot of lasthitting (or better denying) power and more importantly let's you set up insane ganks especially with guise and your ult.",
+				"ward_observer":"Defensive ward for the river and the closest rune - hide the second behind your tower.",
+				"tango":"Donate one of the tangos if your lane isn`t extremly contested.",
+				"vladmir":"Just if noone has AC on your team.",
+				"force_staff":"Keep in mind that you can force allys to trees while \"guising\" them.",
+				"heart":"Just if you're sure that they can't ignore you once it's up.",
+				"black_king_bar":"SITUATIONAL ITEM. Buy it just if your opponent team has to be REALLY scared of you ult. Just walk in and force chaos.",
+				"blade_mail":"Buy it and literally stand in your opponents way!",
+				"arcane_boots":"If you're unlikely to reach them go tranquil + soul ring or just soulring.",
+				"medallion_of_courage":"SITUTATIONAL ITEM. Is usefull if early fighting is going on - or you want to rosh quickly (and the armor is great). Adapt your transition purely according to your midgame and the needs of your team.",
+				"smoke_of_deceit":"A combination of smoke and guise creates opportunitys for ults."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_living_armor",
+			"2":"treant_leech_seed",
+			"3":"treant_living_armor",
+			"4":"treant_leech_seed",
+			"5":"treant_living_armor",
+			"6":"treant_overgrowth",
+			"7":"treant_leech_seed",
+			"8":"treant_leech_seed",
+			"9":"treant_living_armor",
+			"10":"treant_natures_guise",
+			"11":"treant_overgrowth",
+			"12":"treant_natures_guise",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"treant_natures_guise",
+			"25":"treant_natures_guise"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"Go for it on lvl 4 if your opponents don`t buy detection. If you do, max leech seed by 9 and go for the last lvl of living armor on lvl 10.",
+				"treant_leech_seed":"Your bread-and-butter-spell. Go for it on lvl 1 if you can get a kill with it or there is a lvl 1 teamfight.",
+				"treant_living_armor":"As you pull or do stuff, spam living armor to own your opponents laning.",
+				"treant_overgrowth":"Don`t hesitate if you have a good opportunity, since you might get a second one off in the same teamfight. On the other hand constantly threatening too ult might be a great disruption as well."
+		}
+	}
+}

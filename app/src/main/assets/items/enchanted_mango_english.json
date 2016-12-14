@@ -1,0 +1,16 @@
+{
+  "attrib": "+ 1HP Regeneration<br/>MANA RESTORED: 150",
+  "cd": false,
+  "components": null,
+  "qual": "consumable",
+  "notes": "",
+  "desc": "Use: Consume the mango to instantly restore 150 mana. Can be fed to an ally.",
+  "dname": "Enchanted Mango",
+  "dotaId":"enchanted_mango",
+  "mc": false,
+  "img": "enchanted_mango_lg.png",
+  "lore": "The bittersweet flavors of Jidi Isle are irresistible to amphibians.",
+  "id": 216,
+  "created": false,
+  "cost": 150
+}

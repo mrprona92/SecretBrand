@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Spawn Spiderlings",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Broodmother injects her young into an enemy unit, dealing damage. The spiderlings will hatch if the target is killed while under this influence.",
+        "notes": "If the target is killed within 2 seconds of being hit with this skill, the Spiderlings will spawn.<br/>Units killed by Spiderlings will then give birth to Spiderites, smaller and less powerful versions of the Spiderlings.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">75/150/225/300</font></b><br/>COUNT: <b><font color=\"#ffffff\">1/2/3/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "Black Arachnia continues to raise her young, even amidst the field of combat.  The brood quickly learns how to support their mother.",
+        "hurl": "Broodmother",
+        "name": "broodmother_spawn_spiderlings",
+        "youtube":"HsrNXKf_QOY",
+        "id": 0
+    },
+    {
+        "dname": "Spin Web",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b>",
+        "desc": "Spins a large web that renders Broodmother invisible, grants a passive movement speed increase, gives free movement, and boosts regeneration while in its vicinity. Spin Web charges restore every 40 seconds. If damage is taken, free movement is disabled and the movement speed increase is halved for 6 seconds. Spin Web can be cast from anywhere as long as the new web touches an existing web. Webs never expire, and can be manually destroyed. When the maximum limit of webs is exceeded, the oldest web disappears.",
+        "notes": "Has a fade time of 2 seconds.<br/>Also affects Spiderling and Spiderites.<br/>If free movement is disabled, you will destroy nearby trees.",
+        "dmg": "",
+        "attrib": "MAX WEBS: <b><font color=\"#ffffff\">2/4/6/8</font></b><br/>HEALTH REGEN: <b><font color=\"#ffffff\">2/4/6/8</font></b><br/>MOVE INCREASE: <b><font color=\"#ffffff\">40%/50%/60%/70%</font></b><br/>MAX WEB CHARGES: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>CHARGE RESTORE TIME: <b><font color=\"#ffffff\">40</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "Weaving a bed of silken fibers, Arachnia\u0027s web both protects her and her offspring, as well as giving advancing opponents a sense of forboding.",
+        "hurl": "Broodmother",
+        "name": "broodmother_spin_web",
+        "youtube":"rTMrFJkcWTk",
+        "id": 1
+    },
+    {
+        "dname": "Incapacitating Bite",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Broodmother\u0027s venom cripples enemy units, causing her attacks to slow and giving the affected unit a chance to miss its attacks.",
+        "notes": "The miss chance stacks with evasion and terrain dodge chance.",
+        "dmg": "",
+        "attrib": "MISS CHANCE: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>DURATION: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
+        "cmb": "",
+        "lore": "Paralytic toxins come from Black Arachnia\u0027s fangs, causing a slow and painful death to those who intrude on her webs.",
+        "hurl": "Broodmother",
+        "name": "broodmother_incapacitating_bite",
+        "youtube":"fewADuqpwLM",
+        "id": 2
+    },
+    {
+        "dname": "Insatiable Hunger",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "A violent lust for vital fluids increases Broodmother\u0027s attack damage and gives her a vampiric attack.",
+        "notes": "Fully stacks with other sources of lifesteal.<br/>Insatiable hunger can be removed by purge effects.",
+        "dmg": "",
+        "attrib": "BONUS DAMAGE: <b><font color=\"#ffffff\">60/90/120</font></b><br/>LIFESTEAL: <b><font color=\"#ffffff\">60%/80%/100%</font></b><br/>DURATION: <b><font color=\"#ffffff\">14/14/14</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 45",
+        "lore": "While most of her prey is wrapped in silken cocoons and saved for her young, the Broodmother herself has a taste for wandering heroes.",
+        "hurl": "Broodmother",
+        "name": "broodmother_insatiable_hunger",
+        "youtube":"zxPfDpll2II",
+        "id": 3
+    }
+]

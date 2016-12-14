@@ -1,0 +1,2076 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/51/Axe_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " There is no team in Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c1/Axe_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe here! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Axe_spawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A cut above the rest. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Axe_spawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe in hand. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f1/Axe_spawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Axe lives! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Axe_spawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Axe swings his blade. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b6/Axe_spawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is ready! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Axe_spawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Axe-man comes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Axe_spawn_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beginning the Battle",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Let the carnage begin. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c1/Axe_spawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " There can be no battle till Axe is at hand. And Axe is. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Axe_battlebegins_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Drawing First Blood",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha, the blade of Axe has tasted first blood! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Axe_firstblood_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe will whittle them down one by one. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Axe_firstblood_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cut and run! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Axe_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rest is for the dead! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Axe_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Forward! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Axe_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " To battle! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Axe_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe goes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Axe_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe charges! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Axe_move_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Into war\u0027s teeth! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Axe_move_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " To the enemy! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Axe_move_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe runs! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Axe_move_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Enemies need killing! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Axe_move_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Good day to fight! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Axe_move_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fc/Axe_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Taste my blade! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Axe_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A slice of the action! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Axe_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Here comes the axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Axe_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe brings the axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Axe_attack_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe trades in death! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Axe_attack_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Whet my blade! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Axe_attack_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Here you break. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Axe_attack_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe hacks! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/92/Axe_attack_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe attacks! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Axe_attack_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cut to the chase! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Axe_cast_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not by blade alone! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Axe_cast_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Berserker\u0027s Call",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Get some! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Axe_ability_berserk_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come and get it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ce/Axe_ability_berserk_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come to Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Axe_ability_berserk_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " To me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Axe_ability_berserk_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Yar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Axe_ability_berserk_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Har! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Axe_ability_berserk_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ae/Axe_ability_berserk_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Axe_ability_berserk_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a4/Axe_ability_berserk_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Battle Hunger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Show your worth! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bd/Axe_ability_battlehunger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Prove yourself! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Axe_ability_battlehunger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fight if you can! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Axe_ability_battlehunger_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing someone with Culling Blade",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Culled! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Axe_ability_cullingblade_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Wheat before a scythe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c7/Axe_ability_cullingblade_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You get nothing. Good day, sir! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Axe_deny_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I said good day, sir! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Axe_deny_16.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Failing to Kill a Hero With Culling Blade",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Axe misjudged? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Axe_ability_failure_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Axe misjudged? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Axe_ability_failure_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " You\u0027re tougher than Axe thought! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ae/Axe_ability_failure_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Blinking, then Casting Culling Blade",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You been blinked! (30% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Axe_blinkcull_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Axe_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe dies… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Axe_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Here a hero dies… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Axe_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A soldier\u0027s death… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Axe_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe falls in battle… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/88/Axe_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is blunted… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Axe_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe cuts no more… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Axe_death_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The cruelest cut… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Axe_death_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You and what army? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Axe_death_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Death cuts both ways. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Axe_death_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not so fast! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Axe_blinkcull_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No escaping Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c5/Axe_blinkcull_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes, Axe kills you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Axe_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cut you like cordwood! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Axe_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your life on my steel! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cc/Axe_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe chops you down to size! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Axe_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This ends you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Axe_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You fought badly--died worse. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Axe_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All must die--you first! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Axe_kill_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe warms his blade in your guts! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Axe_kill_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Feel the axe of Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Axe_kill_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe hews your bones! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Axe_kill_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe fells you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Axe_kill_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Twenty hacks from the axe of Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/80/Axe_kill_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hew and cry some more! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Axe_kill_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sheathe my axe in your bowels! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Axe_kill_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Axe_kill_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Axe_kill_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Axe_kill_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha yeah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/72/Axe_kill_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Axe_kill_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha yeah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Axe_kill_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe kills you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Axe_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Axe_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Axe_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh heh yeah ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Axe_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Axe_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What happened? Axe happened! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Axe_rival_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe-actly! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Axe_rival_23.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Rival",
+    "responses": [
+      {
+        "heroes": [
+          "crystal_maiden"
+        ],
+        "items": [],
+        "title": " Cold cut! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Axe_killspecial_01.mp3"
+      },
+      {
+        "heroes": [
+          "morphling"
+        ],
+        "items": [],
+        "title": " Cut and dried! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Axe_killspecial_02.mp3"
+      },
+      {
+        "heroes": [
+          "zuus"
+        ],
+        "items": [],
+        "title": " Catch some Z\u0027s! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a4/Axe_killspecial_03.mp3"
+      },
+      {
+        "heroes": [
+          "beastmaster"
+        ],
+        "items": [],
+        "title": " You call that an axe? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Axe_killspecial_04.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Axe has no time for all this jibber jabber. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Axe_rival_01.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Blade versus book. Blade wins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Axe_rival_02.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Warlock, you should have picked a sharper weapon. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Axe_rival_03.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Warlock, who is the smart one now? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Axe_rival_04.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Axe hates to kill Oglodi, but it must be done. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Axe_rival_05.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Even kin must die. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/db/Axe_rival_06.mp3"
+      },
+      {
+        "heroes": [
+          "disruptor"
+        ],
+        "items": [],
+        "title": " We are blood, true. But most of yours came out. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Axe_rival_07.mp3"
+      },
+      {
+        "heroes": [
+          "disruptor"
+        ],
+        "items": [],
+        "title": " You were handsome like Axe. Axe doesn\u0027t like that. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/25/Axe_rival_08.mp3"
+      },
+      {
+        "heroes": [
+          "invoker"
+        ],
+        "items": [],
+        "title": " Too much talking, not enough fighting. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Axe_rival_09.mp3"
+      },
+      {
+        "heroes": [
+          "invoker"
+        ],
+        "items": [],
+        "title": " Big words cannot keep you safe from Axe. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5a/Axe_rival_10.mp3"
+      },
+      {
+        "heroes": [
+          "treant"
+        ],
+        "items": [],
+        "title": " The Treant brought much wood for Axe to chop. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Axe_rival_11.mp3"
+      },
+      {
+        "heroes": [
+          "broodmother"
+        ],
+        "items": [],
+        "title": " Who said Axe fears spiders? Axe wants to know their name. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Axe_rival_12.mp3"
+      },
+      {
+        "heroes": [
+          "pudge"
+        ],
+        "items": [],
+        "title": " Taste the Axe. Not this Axe, that axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Axe_rival_14.mp3"
+      },
+      {
+        "heroes": [
+          "obsidian_destroyer"
+        ],
+        "items": [],
+        "title": " Your name is not Axe-world Destroyer! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c5/Axe_rival_15.mp3"
+      },
+      {
+        "heroes": [
+          "razor"
+        ],
+        "items": [],
+        "title": " What is a tiny razor to a mighty Axe? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Axe_rival_16.mp3"
+      },
+      {
+        "heroes": [
+          "zuus"
+        ],
+        "items": [],
+        "title": " You might have been a fancyman in Heaven, but down here you are nothing next to Axe. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Axe_rival_17.mp3"
+      },
+      {
+        "heroes": [
+          "ursa"
+        ],
+        "items": [],
+        "title": " Each of Ursa\u0027s claws is like a little axe. Axe reluctantly approves. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c1/Axe_rival_18.mp3"
+      },
+      {
+        "heroes": [
+          "spectre"
+        ],
+        "items": [],
+        "title": " Axe has no time for such nonsense! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0d/Axe_rival_19.mp3"
+      },
+      {
+        "heroes": [
+          "treant"
+        ],
+        "items": [],
+        "title": " More things for Axe to chop! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Axe_rival_20.mp3"
+      },
+      {
+        "heroes": [
+          "night_stalker"
+        ],
+        "items": [],
+        "title": " I said good nightstalker! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Axe_rival_21.mp3"
+      },
+      {
+        "heroes": [
+          "lion"
+        ],
+        "items": [],
+        "title": " Axe knows you not, fiend. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Axe_rival_24.mp3"
+      },
+      {
+        "heroes": [
+          "alchemist"
+        ],
+        "items": [],
+        "title": " Your free ride is over. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Axe_rival_25.mp3"
+      },
+      {
+        "heroes": [
+          "alchemist"
+        ],
+        "items": [],
+        "title": " Ride no more, smallkeen! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Axe_rival_26.mp3"
+      },
+      {
+        "heroes": [
+          "alchemist"
+        ],
+        "items": [],
+        "title": " Smallkeens should be scoured from the land! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Axe_rival_29.mp3"
+      },
+      {
+        "heroes": [
+          "alchemist"
+        ],
+        "items": [
+        ],
+        "title": " Axe hates the Keenfolk! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Axe_rival_30.mp3"
+      },
+      {
+        "heroes": [
+          "sniper"
+        ],
+        "items": [],
+        "title": " A Keen worthy to fight. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Axe_rival_27.mp3"
+      },
+      {
+        "heroes": [
+          "sniper"
+        ],
+        "items": [],
+        "title": " For the Keenfolk, you weren\u0027t half bad. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Axe_rival_28.mp3"
+      },
+      {
+        "heroes": [
+          "meepo"
+        ],
+        "items": [
+        ],
+        "title": " Axe cut you in four! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Axe_rival_31.mp3"
+      },
+      {
+        "heroes": [
+          "meepo"
+        ],
+        "items": [
+        ],
+        "title": " Axe cut you into more than four. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Axe_rival_32.mp3"
+      },
+      {
+        "heroes": [
+          "meepo"
+        ],
+        "items": [
+        ],
+        "title": " Axe cut you into more than four. Nine? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Axe_rival_33.mp3"
+      },
+      {
+        "heroes": [
+          "meepo"
+        ],
+        "items": [
+        ],
+        "title": " Axe cut you into more than four. Twenty? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Axe_rival_34.mp3"
+      },
+      {
+        "heroes": [
+          "meepo"
+        ],
+        "items": [
+        ],
+        "title": " Axe cut you into more than four. Hundreds? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Axe_rival_35.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Meeting an Ally",
+    "responses": [
+      {
+        "heroes": [
+          "disruptor"
+        ],
+        "items": [],
+        "title": " Axe has a cousin? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8c/Axe_ally_01.mp3"
+      },
+      {
+        "heroes": [
+          "disruptor"
+        ],
+        "items": [],
+        "title": " You look like Axe, only slightly less. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/86/Axe_ally_02.mp3"
+      },
+      {
+        "heroes": [
+          "disruptor"
+        ],
+        "items": [],
+        "title": " Oglodi fight side by side. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Axe_ally_03.mp3"
+      },
+      {
+        "heroes": [
+          "disruptor"
+        ],
+        "items": [],
+        "title": " That is a fearsome creature you ride, Disruptor. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Axe_ally_04.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Side by side, the Oglodi fight. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Axe_ally_05.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " The Oglodi shall take this fight. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Axe_ally_06.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " Warlock brings a book. Axe brings an axe. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Axe_ally_07.mp3"
+      },
+      {
+        "heroes": [
+          "faceless_void"
+        ],
+        "items": [],
+        "title": " Nice choppers! Axe approves! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Axe_ally_08.mp3"
+      },
+      {
+        "heroes": [
+          "faceless_void"
+        ],
+        "items": [],
+        "title": " Axe is curious. Where did your face go? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Axe_ally_09.mp3"
+      },
+      {
+        "heroes": [
+          "undying"
+        ],
+        "items": [],
+        "title": " Undying, don\u0027t order Axe around and we\u0027ll get along just fine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Axe_ally_10.mp3"
+      },
+      {
+        "heroes": [
+          "treant"
+        ],
+        "items": [],
+        "title": " Don\u0027t worry, Treant, Axe does not come to chop you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Axe_ally_11.mp3"
+      },
+      {
+        "heroes": [
+          "witch_doctor"
+        ],
+        "items": [],
+        "title": " Witch doctor, our enemies are in need of Axe-amination! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Axe_ally_12.mp3"
+      },
+      {
+        "heroes": [
+          "tinker"
+        ],
+        "items": [],
+        "title": " Tinker, eh? War is an Axe-act science! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f9/Axe_ally_13.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning with Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Axe_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Time for a re-en-axe-ment! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Axe_fastres_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is back and ready to whack! And also hack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Axe_fastres_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe lives to cut again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Axe_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is back! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Axe_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Back in AXEtion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Axe_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Axe\u0027s edge is keen again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Axe_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe cuts anew! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Axe_respawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is all the reinforcement this army needs! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Axe_respawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " From the Red Mist, Axe returns! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Axe_respawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A blunted Axe is resharpened! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Axe_respawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Better red than dead! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Axe_respawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe returns. The war may now continue! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Axe_respawn_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Selecting hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So many skulls to cleave. So many bodies to throw on the pile. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Axe_rare_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No business but war. No family but death. No mercy but the grave! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Axe_rare_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe brings the Red Mist! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Axe_rare_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By his blade, Axe earns this purchase. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c5/Axe_purch_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Earned through blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Axe_purch_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The wait has ended. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Axe_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Axe_purch_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink dagger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Axe_blink_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Don\u0027t worry, precious axe. Blink Dagger does not come to chop. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Axe_blink_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "vanguard"
+        ],
+        "title": " Vanguard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Axe_item_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blade_mail"
+        ],
+        "title": " Blademail! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Axe_item_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "black_king_bar"
+        ],
+        "title": " Black King Bar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Axe_item_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "heart"
+        ],
+        "title": " Oooh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Axe_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "heart"
+        ],
+        "title": " Heart of Tarrasque! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Axe_item_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "urn_of_shadows"
+        ],
+        "title": " Urn of Shadows! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Axe_item_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "assault"
+        ],
+        "title": " Assault Cuirass! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Axe_item_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "hood_of_defiance"
+        ],
+        "title": " Hood of Defiance! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Axe_item_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "radiance"
+        ],
+        "title": " Radiance! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Axe_item_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "shivas_guard"
+        ],
+        "title": " Shiva\u0027s Guard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Axe_item_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Getting Hexed",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is not Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Axe_sheepstick_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Axe_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Axe\u0027s edge will never dull! (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Axe_immort_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Axe_deny_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/88/Axe_deny_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Axe_deny_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You get nothing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Axe_deny_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You get nothing! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Axe_deny_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe defies you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Axe_deny_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " None for you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Axe_deny_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You deserve nothing! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Axe_deny_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nuh-uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Axe_deny_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Axe_deny_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Axe_deny_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not this time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Axe_deny_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mwa ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/30/Axe_deny_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/30/Axe_deny_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Axe_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe takes all! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Axe_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Soldier of fortune! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0d/Axe_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gold for steel! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Axe_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Coin of the realm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Axe_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe takes your coin! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Axe_lasthit_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Calling a Missing Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe reports top is missing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Axe_missing_lane_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe says middle is missing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Axe_missing_lane_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bottom is missing according to Axe. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Axe_missing_lane_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Common Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oooh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5f/Axe_happy_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh, Axe like! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/30/Axe_drop_common_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding an Uncommon Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mmm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Axe_happy_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe likes this very much. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Axe_drop_medium_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Rare Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8c/Axe_happy_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe likes this so much words fail Axe. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Axe_drop_rare_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/25/Axe_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defeated! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Axe_lose_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Inglourious end! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Axe_lose_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is sad. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8c/Axe_lose_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grrr, Axe is defeated! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Axe_lose_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Axe_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Victorious! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Axe_win_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This day belongs to Axe! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Axe_win_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Saved for later. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Axe_bottle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For another time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Axe_bottle_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " When the time is right. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Axe_bottle_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe does not need this, but no one else shall have it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Axe_bottle_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Axe_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste lays waste. (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Axe_haste_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Axe_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cuts two ways! (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Axe_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Axe_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Axe\u0027s edge grows keen again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/73/Axe_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Axe_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The axe blades dazzle. (12.5% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/db/Axe_illus_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe has gone three blades! (12.5% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Axe_illus_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Axe_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe fades from sight! (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Axe_invis_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oooh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Axe_happy_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe grows stronger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Axe_level_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe gains strength! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Axe_level_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe rises in rank! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Axe_level_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is a cut above! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Axe_level_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe sharpens! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/42/Axe_level_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is promoted! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8b/Axe_level_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mwa ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Axe_level_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Axe_level_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh huh ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Axe_level_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Axe_level_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Axe_level_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Axe_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Axe_pain_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Axe_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Axe_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cb/Axe_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Axe_pain_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Chhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Axe_pain_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is under attack! (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Axe_underattack_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Axe_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Axe_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is not yet time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Axe_notyet_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Axe_notyet_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/23/Axe_notyet_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is not yet time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5a/Axe_notyet_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Axe_notyet_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is not ready! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/92/Axe_notyet_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is not yet time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Axe_notyet_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Need mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/db/Axe_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Axe_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Axe_nomana_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Need mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Axe_nomana_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Axe_nomana_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Axe_nomana_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Need mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8b/Axe_nomana_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Axe_nomana_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Axe_nomana_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mmmm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Axe_happy_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Axe_happy_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe says thank you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Axe_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is grateful. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Axe_thanks_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Ooh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Axe_happy_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Axe_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Axe_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Axe_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh heh yeah ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Axe_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Axe_laugh_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Axe is calling it: It’s in the bag! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/53/Axe_inthebag_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This was in the bag the day Axe was born! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Axe_inthebag_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shitty Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shitty wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Axe_shitwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Crummy Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+        ],
+        "title": " Crummy wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Axe_crumwiz_01.mp3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+{
+	"Hero":"invoker",
+	"Title":"Invokerism - The Game Master",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"blades_of_attack",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"hand_of_midas"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"ultimate_scepter",
+				"refresher",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"blink"
+			],
+			"Luxury Items":
+			[
+				"sphere",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Hop hop hop. Here's an invoker jumping around!",
+				"hand_of_midas":"While it's not a must item. I suggest it. Extra experience helps this build a lot.",
+				"refresher":"Best spells to refresh : Meteor, EMP, Ice Wall, Blast",
+				"shivas_guard":"Good to keep enemies every more disables on top of your double combos. Double slowed as well.",
+				"bloodstone":"While it's on the core pack, don't purchase it before the others. Its role is to keep your mana always high and in case you die to get back asap. But if you don't have the other 3, none of the 2 helps you.",
+				"sphere":"When some annoying disables, annoyingly decides that he's too much annoyed of your annoying combos. Buy this and procceed to annoy him further."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_exort",
+			"5":"invoker_exort",
+			"6":"invoker_wex",
+			"7":"invoker_invoke",
+			"8":"invoker_exort",
+			"9":"invoker_quas",
+			"10":"invoker_quas",
+			"11":"invoker_quas",
+			"12":"invoker_invoke",
+			"13":"invoker_wex",
+			"14":"invoker_wex",
+			"15":"invoker_wex",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_exort",
+			"19":"invoker_quas",
+			"20":"invoker_wex",
+			"21":"invoker_exort",
+			"22":"invoker_quas",
+			"23":"invoker_wex",
+			"24":"invoker_exort",
+			"25":"invoker_quas"
+		}
+	}
+}

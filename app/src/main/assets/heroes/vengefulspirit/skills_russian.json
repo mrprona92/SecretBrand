@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Magic Missile",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выпускает во врага магический снаряд, который оглушает и наносит урон.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.45/1.55/1.65/1.75</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/120/130/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13/12/11/10",
+        "lore": "Простейшая скайрасская техника — магический снаряд — основной инструмент мести Шендел.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_magic_missile",
+        "youtube":"v0QcCg9lEzU",
+        "id": 0
+    },
+    {
+        "dname": "Wave of Terror",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Vengeful Spirit издает дьявольский клич, который ослабляет броню врагов и раскрывает туман войны.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">30/50/70/90</font></b>",
+        "attrib": "СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА: <b><font color=\"#ffffff\">15</font></b><br/>ДЛИТЕЛЬНОСТЬ ВИДИМОСТИ: <b><font color=\"#ffffff\">3/3/3/3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 40/40/40/40<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20",
+        "lore": "Душераздирающий голос Шендел напоминает о ее приближении.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_wave_of_terror",
+        "youtube":"M-40xlCUWac",
+        "id": 1
+    },
+    {
+        "dname": "Vengeance Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">союзников</font></b>",
+        "desc": "Присутствие Vengeful Spirit увеличивает урон ближайших союзников. Тот, кто убьет Vengeful Spirit, получит отрицательный эффект этой ауры, который уменьшит урон убийцы и его союзников неподалеку до момента возрождения Vengeful Spirit.",
+        "notes": "Дополнительный урон от ауры подсчитывается на основе базового урона и основной характеристики.",
+        "dmg": "",
+        "attrib": "ДОП. УРОН: <b><font color=\"#ffffff\">12%/20%/28%/36%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "",
+        "lore": "Отнюдь не все разделяют всепоглощающую жажду мести, однако ее чрезмерный фанатизм воодушевляет на подвиги.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_command_aura",
+        "youtube":"313ljmCbIiQ",
+        "id": 2
+    },
+    {
+        "dname": "Nether Swap",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Мгновенно меняется местами с союзным или вражеским героем. Способность прерывает используемые заклинания.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Действует на юнитов, невосприимчивых к заклинаниям.<br/>После применения заклинания деревья рядом с вами и целью будут уничтожены.<br/>Nether Swap прерывает произнесение заклинаний.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">700/950/1200</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/150/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 45",
+        "lore": "Мученичество — совсем не большое воздаяние за месть.",
+        "hurl": "Vengeful_Spirit",
+        "name": "vengefulspirit_nether_swap",
+        "youtube":"MSS_SNkHVEo",
+        "id": 3
+    }
+]

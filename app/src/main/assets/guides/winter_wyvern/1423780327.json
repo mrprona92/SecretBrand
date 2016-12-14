@@ -1,0 +1,82 @@
+{
+	"Hero":"winter_wyvern",
+	"Title":"The Winter Wyvern",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"clarity",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"cyclone",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"urn_of_shadows",
+				"mekansm",
+				"blink",
+				"ghost",
+				"sheepstick",
+				"skadi",
+				"refresher"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"winter_wyvern_arctic_burn",
+			"2":"winter_wyvern_cold_embrace",
+			"3":"winter_wyvern_arctic_burn",
+			"4":"winter_wyvern_splinter_blast",
+			"5":"winter_wyvern_arctic_burn",
+			"6":"winter_wyvern_winters_curse",
+			"7":"winter_wyvern_arctic_burn",
+			"8":"winter_wyvern_splinter_blast",
+			"9":"winter_wyvern_splinter_blast",
+			"10":"winter_wyvern_splinter_blast",
+			"11":"winter_wyvern_winters_curse",
+			"12":"winter_wyvern_cold_embrace",
+			"13":"winter_wyvern_cold_embrace",
+			"14":"winter_wyvern_cold_embrace",
+			"15":"attribute_bonus",
+			"16":"winter_wyvern_winters_curse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"winter_wyvern_arctic_burn":"Use this to harass, and escape over cliffs",
+				"winter_wyvern_splinter_blast":"Make sure to hit enemies next to your target, not the target itself",
+				"winter_wyvern_cold_embrace":"Use this for sustain. Do not use it on allies if they don't expect it.",
+				"winter_wyvern_winters_curse":"Goes through BKB"
+		}
+	}
+}

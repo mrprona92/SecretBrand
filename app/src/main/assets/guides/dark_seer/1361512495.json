@@ -1,0 +1,120 @@
+{
+	"Hero":"dark_seer",
+	"Title":"Neviskio's Dark Seer Lane(especially hardlane) Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"cloak",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"pipe",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"vanguard",
+				"ultimate_scepter",
+				"magic_wand",
+				"bottle"
+			],
+			"Luxury Items":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"heart",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"The iron branch, the best investment you can make.The easiest mistake you can do is to not realize the power of stats in dota2, this item gives you:
+
+19 health, 0.03 health regen, 1/7th of armor, 1% attack speed, 13 mana, 0.04 mana per second, and 1 damage since it gives 1 of your primary attribute.",
+				"boots":"Dark seer definitely can do with delayed boots due to his skill surge, you should anyway buy them as soon as you have the soulring up or in cases you can get controlled during the surge by stuns, since you need to not get killed early in the lane as much as you can.",
+				"cloak":"A casual cloak will save you from nukes, combined with the stout shield you should be fine while farming for bigger items.You can skip this if you're doing really good or you're confident you can make a mekansm without issues.",
+				"magic_wand":"Dark seer is one of the heroes where I put the wand on situational.Your core is expensive, you need to get it sooner than later since mek gets worse the later the game goes, and well...you should be making one but can live without it.I might move this into core but still thinking about it.",
+				"flask":"This is your second part of regeneration, is stronger than tangoes but it will be dispelled if you get hit by anything that does more than 20 damage after reduction.Hp removal doesn't stop it, also,
+
+it stacks with tangoes heal but not with urn of shadows.",
+				"bottle":"The choice if going mid.Try and get it before the 2 min or 4 min rune for the best dominance in the lane.Hopefully you'll have wards on runes if not do buy yourself a set, it helps a lot.Dark seer dominates mid easily.",
+				"tango":"Regeneration and stats is the base of early game dota, you need on any hero some regen, this is the best way to spend your money early without risking to get hit and lose your regen.You could buy 2
+
+instead of a salve, but do remember that a salve gives much more HP.
+",
+				"tpscroll":"You need to be carrying one, better if 2 at ALL TIMES.It's the best dota2 item and yet people fail to use it, you WILL lose towers/raxes/heroes during ganks because you are not carrying one.There's
+
+no excuse it costs 2-3 last hits and maybe some passive gold, you HAVE to have one.No excuses.
+",
+				"mekansm":"An early mekansm means early pushes and early clutch saves with the heal.The armor is also strong making buckler the first choice when choosing how to build the mek.Be aware that most people don't go for this item in lower skill brackets so tell them you're building one! Adapt if they do one.",
+				"pipe":"The choice for survival in 99% of the cases.Your team needs all the support power you can give during teamfights while dropping the walls and vacuums.A pipe makes you and your team stronger.you should skip it for a vanguard if they're SUPER low on magic damage.This is a must.",
+				"sheepstick":"One big target being annoying and you survive teamfights fine? This is the control choice.Not much to say but surely a better choice if you are not having issues surviving since it gives the edge in fights by neutralizing dangerous targets.",
+				"ultimate_scepter":"Aghanim has become situational due to better item choices all around.If the situation calls for more damage on illusions made by the wall this is the choice but I do feel you can get better things for the price.Definitely a good choice in some games.",
+				"refresher":"Rarely seen because...well...your core is expensive as hell and aghanim is probably better, but still, double wall double the fun.",
+				"heart":"When it all fails just get more hp.Shouldn't really be gotten before a shiva or sheepstick, but still a solid choice.Pipe shiva and this and you are near impossible to kill if you play your cards right.",
+				"shivas_guard":"Shivas is the first choice if you want to be annoying to the enemy carries late game.Especially good if you didn't go vanguard since it gives the needed survival to right clicks.I suggest the platemail first unless you have mana issues.Perfect survival stats and the slow/nuke.",
+				"vanguard":"4 heroes out of 5 are doing only physical damage and autoattack? this is the choice.It's not core for me because I don't feel you need this AND a mekansm AND a pipe.It's just overkill.Even this and a hood of defiance is overkill so please don't make it if it isn't needed.",
+				"soul_ring":"Soul ring lets dark seer spam his ion shell and gives sustainability in lane making him strong to harassment and hard to lane against.If you random you can buy the recipe first since the other 2 pieces are sold from the sideshop.Do the standard build in other cases.",
+				"arcane_boots":"The boots of choice, you really need all the mana you can get and also you are pretty much granted to be running around with your team since you're supposed to be best at teamfighting with the ulti.Try and be a team man and get these for the poor supports."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_ion_shell",
+			"2":"dark_seer_surge",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_vacuum",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_surge",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_vacuum",
+			"9":"dark_seer_vacuum",
+			"10":"dark_seer_wall_of_replica",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_vacuum",
+			"13":"dark_seer_surge",
+			"14":"dark_seer_surge",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dark_seer_vacuum":"Vacuum aoe grows at higher levels, early you might not even get the point at lvl 4 unless you think it will guarantee you a kill or a good play or anything worth.I reccomend one point since...you might never know what happens.Max it second for the bigger aoe.",
+				"dark_seer_ion_shell":"This is the first skill you need to max out, has a lot of uses, on creeps, on yourself, on friends, with soulring you'll be spamming this a lot.Should always have 2 running after soul ring is done, to maximize damage/pushing power/last hits.Just don't follow the creeps if it is unsafe!",
+				"dark_seer_surge":"1 point at level 2 and one at lvl 6 will give you survival, generally lvl 3 and 4 are not used untill later.You can get the second point at lvl 4 and skipping vacuum if you feel you'd be better like that.",
+				"dark_seer_wall_of_replica":"Your ulti is bad at lvl 6, costing too much mana, and generally not many teamfights happening that early.Lvl 1 is also generally weak, you should try and delay it and using by level 2 onwards.It gets stronger if you can  vacuum all 5 heroes inside it(they have to traverse the wall).Practice with it!",
+				"attribute_bonus":"Just don't get stats early, you need your other abilities maxed before."
+		}
+	}
+}

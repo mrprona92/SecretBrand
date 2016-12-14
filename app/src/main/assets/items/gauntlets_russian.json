@@ -1,0 +1,16 @@
+{
+  "dotaId": "gauntlets",
+  "id": 13,
+  "img": "gauntlets_lg.png",
+  "dname": "Gauntlets of Strength",
+  "qual": "component",
+  "cost": 150,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 3 к силе",
+  "mc": false,
+  "cd": false,
+  "lore": "Шипованные кожаные перчатки, которые дают грубую силу.",
+  "components": null,
+  "created": false
+}

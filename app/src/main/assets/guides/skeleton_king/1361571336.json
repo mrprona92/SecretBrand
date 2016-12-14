@@ -1,0 +1,110 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Carry Wraith King",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"quelling_blade",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"armlet",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"sange",
+				"black_king_bar",
+				"basher"
+			],
+			"Late Game":
+			[
+				"desolator",
+				"heavens_halberd",
+				"assault",
+				"heart",
+				"abyssal_blade"
+			],
+			"Alternative":
+			[
+				"rapier",
+				"refresher",
+				"satanic",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Allows you to last hit better.",
+				"boots":"Every hero needs boots to run fast.",
+				"clarity":"Gives some extra Mana.",
+				"flask":"Good HP regen for when you are low.",
+				"tango":"Good heal to help against harass.",
+				"power_treads":"Gives DPS, exactly what you need. Keep them on strength (red) unless you need more Mana, then put them on intelligence (blue).",
+				"hand_of_midas":"If you can get it very fast, will give you lots of money.",
+				"refresher":"Makes you very hard to kill.",
+				"assault":"Gives good attack speed and armor, also has a good aura.",
+				"heart":"Gives tons of HP and damage.",
+				"black_king_bar":"Good HP and damage and allows you to not get stunned.",
+				"rapier":"The only item you need if you can not die.",
+				"basher":"Gives you good damage and HP as well as some stuns.",
+				"armlet":"Gives very good DPS as well as more HP.",
+				"satanic":"If you want tons of HP and lifesteal.",
+				"sange":"Good HP and damage.",
+				"desolator":"Good damage item.",
+				"abyssal_blade":"Gives you stunning power and damage.",
+				"heavens_halberd":"Gives you evasion and the ability to disarm enemy carries."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"attribute_bonus",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_vampiric_aura",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_mortal_strike",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_vampiric_aura",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"Good stun, use it to let you hit enemies.",
+				"skeleton_king_vampiric_aura":"Gives you lifesteal but scales badly, get it later on.",
+				"skeleton_king_mortal_strike":"A good skill for surviving and killing. Later on the crits give good damage. One point is enough early.",
+				"skeleton_king_reincarnation":"Brings you back to life. Try not to waste it.",
+				"attribute_bonus":"Takes these early for more Mana, HP, and damage since you other skills are not useful in lane."
+		}
+	}
+}

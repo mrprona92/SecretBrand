@@ -1,0 +1,92 @@
+{
+	"Hero":"rattletrap",
+	"Title":"Clockwerk - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"clarity",
+				"stout_shield",
+				"gauntlets",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"bracer",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"magic_wand",
+				"ultimate_scepter",
+				"blade_mail"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"black_king_bar",
+				"shivas_guard",
+				"sphere",
+				"assault",
+				"heart",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Muy bueno para regenerar al principio de la partida. Si la runa esta en tu lado pidele al mid si te la deja.",
+				"ultimate_scepter":"Es un objeto buenisimo que te permite spamear tu hook.",
+				"blade_mail":"Cuando te pillen desprevenido, cuando te metas con tus cogs con un enemigo, activalo.",
+				"ancient_janggo":"Mas Velocidad y stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_rocket_flare",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_battery_assault",
+			"4":"rattletrap_power_cogs",
+			"5":"rattletrap_battery_assault",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_battery_assault",
+			"8":"rattletrap_rocket_flare",
+			"9":"rattletrap_rocket_flare",
+			"10":"rattletrap_rocket_flare",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_power_cogs",
+			"14":"rattletrap_power_cogs",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rattletrap_battery_assault":"Posicionate bien porque ataca a unidades de forma random. Lanzalo cuando encierres a un enemigo siempre!",
+				"rattletrap_power_cogs":"Solo subela un nivel al principio porque no mejora mucho con los niveles. Encierras a un enemigo, tiras tu Q y sigue golpeandolo.",
+				"rattletrap_rocket_flare":"Usalo para scoutear, pushear lineas, defender de pushes, rematar enemigos que escapan, etc. Muy muy util y barato en mana.",
+				"rattletrap_hookshot":"Es un gancho muy bueno y preciso, se lanza muy rapido y suele ser bastante efectivo al hookear a un enemigo, encerrarlo, tirar tu Q y seguir golpeandolo mientras devuelves dmg con tu blade Mail. Con Aghanim lo puedes usar muchisimo mas."
+		}
+	}
+}

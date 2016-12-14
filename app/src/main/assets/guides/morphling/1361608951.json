@@ -1,0 +1,82 @@
+{
+	"Hero":"morphling",
+	"Title":"My Morphling",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"wraith_band"
+			],
+			"Early Game":
+			[
+				"boots",
+				"ring_of_aquila",
+				"magic_wand"
+			],
+			"Core Items":
+			[
+				"power_treads",
+				"yasha",
+				"pers"
+			],
+			"Final Build":
+			[
+				"power_treads",
+				"ethereal_blade",
+				"sphere",
+				"manta",
+				"skadi",
+				"butterfly"
+			],
+			"Situational items":
+			[
+				"bottle",
+				"helm_of_the_dominator",
+				"ancient_janggo",
+				"hand_of_midas",
+				"travel_boots",
+				"black_king_bar",
+				"bloodstone",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_morph_str",
+			"2":"morphling_waveform",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_morph_str",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_replicate",
+			"10":"morphling_adaptive_strike",
+			"11":"morphling_replicate",
+			"12":"morphling_adaptive_strike",
+			"13":"morphling_adaptive_strike",
+			"14":"morphling_adaptive_strike",
+			"15":"attribute_bonus",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

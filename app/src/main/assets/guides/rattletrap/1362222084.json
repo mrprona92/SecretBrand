@@ -1,0 +1,82 @@
+{
+	"Hero":"rattletrap",
+	"Title":"My name is Clockwerk bip bop!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"circlet",
+				"circlet",
+				"tango",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand"
+			],
+			"Must have!(Tanking)":
+			[
+				"assault",
+				"blade_mail",
+				"sphere",
+				"vanguard",
+				"heart",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"you need it if your enemy using everytime some spells or skills",
+				"heart":"big health and health regenarationg nice for survive",
+				"shivas_guard":"nice slow before running enemies or escaping",
+				"sphere":"nice before incoming spells",
+				"blade_mail":"returning taken damage 8)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_rocket_flare",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_power_cogs",
+			"4":"rattletrap_rocket_flare",
+			"5":"rattletrap_battery_assault",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_battery_assault",
+			"8":"rattletrap_battery_assault",
+			"9":"rattletrap_power_cogs",
+			"10":"rattletrap_power_cogs",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_rocket_flare",
+			"14":"rattletrap_rocket_flare",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rattletrap_battery_assault":".....",
+				"rattletrap_power_cogs":"use it for tanking or for safe place",
+				"rattletrap_rocket_flare":"use it for true sight or kill running enemy",
+				"rattletrap_hookshot":"hook shot + power cogs + battery assault = nice tanking ganking"
+		}
+	}
+}

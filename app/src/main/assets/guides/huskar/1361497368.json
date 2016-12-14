@@ -1,0 +1,95 @@
+{
+	"Hero":"huskar",
+	"Title":"[DMX] Huskar (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"urn_of_shadows",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"armlet",
+				"helm_of_the_dominator",
+				"tpscroll"
+			],
+			"Late game":
+			[
+				"black_king_bar",
+				"assault",
+				"ultimate_scepter",
+				"satanic",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"invis_sword",
+				"pipe",
+				"heavens_halberd",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"invis_sword":"Bon item en game publique de bas-moyen niveau. La shadow blade vous permettra de ganker très facilement."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_berserkers_blood",
+			"4":"huskar_inner_vitality",
+			"5":"huskar_berserkers_blood",
+			"6":"huskar_life_break",
+			"7":"huskar_berserkers_blood",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"huskar_burning_spear",
+			"24":"huskar_burning_spear",
+			"25":"huskar_burning_spear"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"Un soin très efficace pour vous lorsque vous n'avez plus beaucoup de points de vie. Attention, il consomme du mana et vous n'en avez pas beaucoup.",
+				"huskar_burning_spear":"Très bon sort pour harass vos adversaires en phase de lane sans prendre l'agression des creeps. Cependant, ne l'utilisez plus lorsque vous avez votre item de lifesteal, car ces effets ne se cumulent pas.",
+				"huskar_berserkers_blood":"Le passif qui fera de vous un monstre lorsque vous n'avez plus de vie. Faites attention aux burst ennemis car même si vous tapez extrèment fort, vous êtes aussi très vulnérable lorsque vous avez peu de points de vie.",
+				"huskar_life_break":"Très bon outil pour engager un adversaire, il vous permettra d'activer votre passif et ainsi d'infliger plus de dégâts. Activez votre armlet juste après avoir ulti pour minimiser les dégâts que vous vous infligez vous même."
+		}
+	}
+}

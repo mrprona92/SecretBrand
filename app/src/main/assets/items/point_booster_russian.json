@@ -1,0 +1,15 @@
+{
+  "dotaId": "point_booster",
+  "attrib": "+ 150 к мане<br/>+ 200 к здоровью",
+  "cd": false,
+  "qual": "secret_shop",
+  "notes": "",
+  "desc": "",
+  "dname": "Point Booster",
+  "mc": false,
+  "img": "point_booster_lg.png",
+  "lore": "Аметист идеальной формы питает и разум, и тело владельца.",
+  "id": 60,
+  "created": false,
+  "cost": 1200
+}

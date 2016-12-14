@@ -1,0 +1,86 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"Mort777",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"circlet",
+				"mantle",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"null_talisman",
+				"magic_wand",
+				"pers"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"dagon",
+				"magic_wand",
+				"bloodstone",
+				"veil_of_discord"
+			],
+			"luxury":
+			[
+				"orchid",
+				"sphere",
+				"rod_of_atos",
+				"shivas_guard",
+				"invis_sword",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"You must sold this, after finish the essentials. (+1 slot)",
+				"orchid":"After buy the essentials, buy the Malevolence, this will make you really stronger.",
+				"sphere":"A nice option, Skymage is weak as a duck...",
+				"arcane_boots":"Skywrath use to much mana, so do this item as fast you can.",
+				"smoke_of_deceit":"Buy if you know how to use. Using this, you have a great chance to make a first blood."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_concussive_shot",
+			"2":"skywrath_mage_arcane_bolt",
+			"3":"skywrath_mage_ancient_seal",
+			"4":"skywrath_mage_arcane_bolt",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_concussive_shot",
+			"9":"skywrath_mage_concussive_shot",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_ancient_seal",
+			"13":"skywrath_mage_ancient_seal",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

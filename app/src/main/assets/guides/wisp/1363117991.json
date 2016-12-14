@@ -1,0 +1,199 @@
+{
+	"Hero":"wisp",
+	"Title":"[Detailed Guide!] Io, the Super-Powered Babysitter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"flask",
+				"ring_of_regen",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"flying_courier",
+				"headdress",
+				"chainmail"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"tranquil_boots",
+				"medallion_of_courage",
+				"pipe"
+			],
+			"Items for Winners":
+			[
+				"orchid",
+				"bloodstone",
+				"sphere",
+				"assault"
+			],
+			"Situational and Alternate":
+			[
+				"bottle",
+				"clarity",
+				"magic_wand",
+				"arcane_boots",
+				"gem",
+				"ward_observer",
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"blink dagger? I suppose this could be useful. I can think of a few ways to use it with Io, but none really necessary.",
+				"blades_of_attack":"No.",
+				"broadsword":"Again. No. Never get a straight damage upgrade on IO. He doesn't right click in nearly any situation.",
+				"chainmail":"Builds into Mekansm. That's about it.",
+				"claymore":"I said nooooooo!",
+				"helm_of_iron_will":"If you've got the money, but you're still taking a beating, this item will help you survive, while also buffing your tether buddy's heal rate. A good buy.",
+				"javelin":"No. You can't buy items FOR your carry. Though that'd be awesome.",
+				"mithril_hammer":"No. ",
+				"platemail":"Fuck yeah. Armour. Uh. Can't remember what it can be used for off the top of my head, but it's expensive, so don't get it unless you're building into something.",
+				"quarterstaff":"Eh. Well. It's a thing. A thing not really for Io.",
+				"quelling_blade":"No. Don't.",
+				"ring_of_protection":"Basic armor item used for some recipes.",
+				"stout_shield":"Consider a shield if you're really having trouble with harass. You should make every attempt to NOT negate damage, though. You need to lose some HP. If you've already got soul ring but having a hard time, this is an OK buy.",
+				"gauntlets":"Decent early game item if you already have Soul Ring. Always go for Soul Ring first. Personally, I don't think any Io build is complete without a Soul Ring.",
+				"slippers":"No real excuse to be buying agility slippers.",
+				"mantle":"Mantel is nice for some extra mana, but it's not really necessary.",
+				"branches":"Not a whole lot of reason for branches in this build, other than to complete parts of the core build. This build focuses on learning how Io functions and maxing up his heal rate.",
+				"belt_of_strength":"Nice primary stat buff.",
+				"boots_of_elves":"Still no need for agility.",
+				"robe":"More int boost.",
+				"circlet":"A nice item, but remember: If you're not using it to build into a support item, there's no reason to buy it.",
+				"ogre_axe":"While STR is Io's primary stat, it's not necessary to get this unless you're building it into something.",
+				"blade_of_alacrity":"Again, AGI not needed.",
+				"staff_of_wizardry":"Builds into a few useful things. Nice for the int boost.",
+				"ultimate_orb":"Boost all the things!",
+				"gloves":"Nah.",
+				"lifesteal":"WHY? ",
+				"ring_of_regen":"Not sure where Io wears this. Maybe it all just floats around inside him. Anyway, this will lead you into the Headress.",
+				"sobi_mask":"Delicious mana regen rate. Helps you and your tether.",
+				"boots":"Boots make Io go fast, like sonic. When tethered, of course. Don't bother buying them until you have a few more items, though. Roughly 15-20 min in, boots can still be bought without suffering much in game.",
+				"gem":"You shouldn't be dying at all, so the gem is great for Io. Take this in place of the Medallion if you need it.",
+				"cloak":"A good item for any hero when taking heavy nuke damage. If you plan to build into pipe later, grab this as well.",
+				"talisman_of_evasion":"Not needed",
+				"magic_stick":"Wand is good. Good wand. Good.",
+				"magic_wand":"If the enemy is using a lot of skills in your lane, this is a definite must. You'll be able to recover mana and health instantly, and your buddy can get a max of 337.5 hp in a full charge.",
+				"ghost":"Very situational. Probably a bad idea.",
+				"clarity":"Pretty slow regen, so not very worth it, but remember, your buddy will be getting 150 mana instead of the bottled 100. This is definately good for early game support, since you won't need to use Overcharge and hurt yourself to be giving a mana boost.",
+				"flask":"Always keep a few potions on you until you get the bottle. Remember to take the potions away from whoever you're laning with, too. If you've got overcharge, you can always give your buddy 600 hp while healing yourself 400.",
+				"dust":"Dust of appearance is best when used when it's best used, which I hope is obvious. This is a support item. Use it as needed.",
+				"bottle":"Use the bottle for mana at first, which will always be low if you and your lane partner are playing agressively. Coming mid-game, you're partner will be soaking up more damage than you will, so pair this with Overcharge and Soul Ring so you can be healing them even while you're at full hp in fights.",
+				"ward_observer":"Combine Relocate with wards, and you can instantly have good vision without risking time or a gank. Typically place them in the key spots, like the rune lookouts.",
+				"ward_sentry":"If you've got the money, pair up your wards with sentries so you can see all those pesky cloakers.",
+				"tango":"(Don't actually buy this.) Tangos are nice, too, but typically are given to you by your lane partner, rather than bought yourself.",
+				"courier":"Airdrop this immediately. You're the support. Emphasize that shit.",
+				"tpscroll":"No real reason for Io to carry around TP scrolls past early game, but if you have room for it, it never hurts to be ready.",
+				"travel_boots":"BoTs? That's just excessive.",
+				"phase_boots":"If you're REALLY having trouble keeping up with your partner, this is the only excuse to get these. Otherwise they're an expensive waste.",
+				"power_treads":"Not really worth it in all honesty. ",
+				"hand_of_midas":"Hahahahahahahaha! HAHAHA. Ahhhahahahah. But no. Seriously. Never do this ever.",
+				"oblivion_staff":"Builds into some nice late-game stuff, but probably not stuff for Io.",
+				"pers":"A good buy! Just boosts the bonus Io gives.",
+				"poor_mans_shield":"mer. It's okay. don't bother though",
+				"bracer":"An okay buy! Live longer and probably build Drums!",
+				"wraith_band":"stahp",
+				"null_talisman":"wat r u doin",
+				"mekansm":"TIME TO FUCK SHIT UP! But no, seriously. If you recover the maximum amount of health while tethered, your buddy receives the Mek heal AND the bonus from the tether, up to a maximum total of 625 instant heal! Paired with Soul Ring, be ready to pump 625 hp and 225 mana into your friend instantly.",
+				"vladmir":"Anything aura is great. Use this to make sure your team is drinking up most of the blood it spills.",
+				"flying_courier":"I said emphasize that shit.",
+				"buckler":"Need it for Mek!",
+				"ring_of_basilius":"Pretty nice if your lane is having bad mana issues.",
+				"pipe":"Great for the hp regen, even better for the 400 damage shield against spells. If you're running into a teamfight, make you sure you time when you drop this to prevent heavy damage from attacks like Lina's ult or Lion's, or even Shadow Shaman's basic.",
+				"urn_of_shadows":"Urn's a good idea, too, if you're doing okay and need to support more than just on wards and your pocket-heals buddy. Cast it on yourself most of the time.",
+				"headdress":"Anything aura is fantastic. You'll give your teamates the bonus as well as yourself, which stacks and even becomes more potent when you're damaged and tethered to others. This will lead into Mekansm, which is the first item you're going to want to build into after bottle.",
+				"sheepstick":"The Scythe is the best kind of \"fuck you\"",
+				"orchid":"If you're having trouble with certain casters, silence them and stun them with your Tether, then smash them with your partner and Overcharge.",
+				"cyclone":"Eul's is good. Good. Movement, disable. Good. Notsomuch good for Io. Leave it to your other support, which there SHOULD be another of, like semi. You can pick it up if you really need it, though.",
+				"force_staff":"I suppose there might be some cool tricks you could pull off with Io and the Force Staff. I'll test it out, see what happens.",
+				"dagon":"Hahahaha! Worth it? Rarely. Still. Dagon Io is funny shit.",
+				"necronomicon":"Necronomicon is a good pick for the Int and Str boost, as well as for true sight later on, but I still feel like this is an item better used by other heros on the team.",
+				"ultimate_scepter":"You just. Well. No.",
+				"refresher":"This is overkill. You definitely don't need it.",
+				"assault":"It's got an aura. You should have it if you've got money floating around inside you and no one else has taken it.",
+				"bloodstone":"At this point you should already have won the game. If you've got the coin now, get a bloodstone. You'll never have to worry about mana, and neither will your tether. If you do end up dying, the health boost to your allies helps them all escape.",
+				"sphere":"Mostly for mana and hp regen, but the spellblock should keep you from dying completely, since you should only be taking damage rarely anyway.",
+				"blade_mail":"Might help convince people not to target you, but other than that not worth it.",
+				"hood_of_defiance":"Gotta get this to get pipe. A great boost of magic resist.",
+				"rapier":"MUWAAHAHAHAHAHAHAHAHAHAH",
+				"monkey_king_bar":"huehuehuehuehue",
+				"radiance":"Hilarious idea, but you'd become too much of a target.",
+				"butterfly":"Baaahahahaha",
+				"greater_crit":"HUEHUEHUE",
+				"basher":"This doesn't make any sense.",
+				"bfury":"No.",
+				"lesser_crit":"No.",
+				"armlet":"Building Armlet is entirely up to you. After playing a lot of Io, I've realized that keeping health low enough to maximize tether regen rate gets difficult late game, forcing you to enter battle to take damage. This is obviously a risky, bad idea. Other than the HP drain, it doesn't have much use...",
+				"invis_sword":"Hmm. Possible. A waste of money, though. It's better to have good team coordination than to use cloak.",
+				"ethereal_blade":"Hrm. Well. No. I'd say don't.",
+				"soul_ring":"This completes Io from early game. The temporary mana transfers as a regen to your tether, giving them 225 mana without taking it away. This helps you limit your use of Overcharge outside of teamfighting, and is extremely useful when paired with Mekansm.",
+				"arcane_boots":"If you're noticing that mana is an increasing problem, build into arcane boots instead of the Tranquil boots. Using them while tethered will give your tether bonus mana, up to 202 in one burst. Definitely helpful for mana-heavy tethers.",
+				"ancient_janggo":"Hrm. Well. Drums are cool. I guess. They're a good support item, but with the stat boost, it should go to someone else who needs the points.",
+				"medallion_of_courage":"A cheap buy, and a good bonus to mana regen. By this point, teamfighting should be getting much heavier, so keep this on a good key so you can pop it off on whoever you and your buddy are targeting.",
+				"smoke_of_deceit":"Truth be told, Io doesn't have a lot of use for this. With Relocate, concealed travel isn't too much of an issue.",
+				"veil_of_discord":"An awesome item for Io. Regen? Yep. Int boost for mana? You bet. Teamfight support debuff? Fuck yeah.",
+				"rod_of_atos":"Decent. Good for the int boost, but still not a perfect item for Io. In terms of ability, it's definitely good. It's a big fuck you to the guy you're abourt to tether-stun.",
+				"abyssal_blade":"Stahp.",
+				"ring_of_aquila":"Ring of Basalilisusfgasdhu +1",
+				"tranquil_boots":"Essentially a timed potion, with a sexy movement bonus. You shouldn't need boots until later with the Tether movement speed bonus. Make up for slow speed by tethering through trees and over cliffs. Again, make sure you combine this with Overcharge and Soul Ring.",
+				"shadow_amulet":"nevar"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_overcharge",
+			"3":"wisp_spirits",
+			"4":"wisp_spirits",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_tether",
+			"9":"wisp_overcharge",
+			"10":"wisp_tether",
+			"11":"wisp_relocate",
+			"12":"wisp_overcharge",
+			"13":"wisp_tether",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"wisp_tether":"Hold hands with your laning partner at any time you can. Any health or mana regen you get will transfer to your buddy at a 1.5x rate, which is sexy, but keep in mind that only happens when you're actually regenerating, not at full health.",
+				"wisp_tether_break":"Don't ever detach the tether, unless you're using Relocate to teleport a buddy to the battle, but not staying yourself. If you time the recharge right, you can tether someone in, untether, grab someone who's who about to die, then teleport out to saftey, effectively tag-teaming your teamates.",
+				"wisp_spirits":"Spirits never get to do a lot of damage, but they bend creeps over and maintain lane dominance. Keep in mind you can't untoggle distance while silenced. Use this especially when there are cloaked heros or copies around to find the real target where the spirit bursts. Also good for finishing runners.",
+				"wisp_overcharge":"You'll need to pay attention to your Overcharge at all times. With this, you can force damage so your buddy gets the healing he needs, as you can't heal him if you're not actually receiving health/mana. Also good for saving heros, as it gives a good damage reduction.",
+				"wisp_relocate":"Easily one of the most adaptable and frustrating skills in the game. Use this in combat to teleport to spawn, grab items and heal up, and jump right back into combat. You'll want to stay alive and keep your buddy in lane until you get this instead of running back, since you can teleport.",
+				"wisp_spirits_in":"These are tricky to get used to. If you're having difficulty getting good hits on heros, focus on moving around rather than changing the Spirit distance.
+
+Remember to keep them close to you if you think an invisible hero or illusion is nearby, they'll pop when they hit the real hero.",
+				"wisp_spirits_out":"These are tricky to get used to. If you're having difficulty getting good hits on heros, focus on moving around rather than changing the Spirit distance.
+
+Remember to keep them close to you if you think an invisible hero or illusion is nearby, they'll pop when they hit the real hero.",
+				"attribute_bonus":"Why are you highlighting this? You're already level 15? Good job. Unless you're not. Selfish prick. Get back to the other skills and help your team."
+		}
+	}
+}

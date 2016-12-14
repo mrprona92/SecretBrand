@@ -1,0 +1,16 @@
+{
+  "dotaId": "clarity",
+  "id": 38,
+  "img": "clarity_lg.png",
+  "dname": "Clarity",
+  "qual": "consumable",
+  "cost": 50,
+  "desc": "Использование: постепенно восстанавливает ману цели. Если ее атакуют, восстановление прекращается.",
+  "notes": "",
+  "attrib": "ПОПОЛНЯЕТ МАНЫ: 170<br/>ДЛИТЕЛЬНОСТЬ: 45",
+  "mc": false,
+  "cd": false,
+  "lore": "Чистая вода, повышающая способность к медитации.",
+  "components": null,
+  "created": false
+}

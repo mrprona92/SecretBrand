@@ -1,0 +1,129 @@
+{
+	"Hero":"enchantress",
+	"Title":"Enchantress - ganking under all circumstances",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"clarity",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"force_staff",
+				"sheepstick",
+				"bloodstone",
+				"pipe"
+			],
+			"Also Situational":
+			[
+				"necronomicon",
+				"black_king_bar",
+				"sphere",
+				"arcane_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Vision is key to control the map. If you know were your enemy is you can see if it is possible to gank someone or if you can push safely.
+Keep them up and have an eye on the minimap.",
+				"ward_sentry":"Deward your jungle and the runespots. Keep control that the enemy is blind on your side and even better blind on there own.",
+				"power_treads":"I prefer Power Treads because the give you attackspeed and much needed stats which will help to increase your DPS and your health.
+But if you want Arcane Boots or other, this decision is up to you.",
+				"mekansm":"First item on the list.
+It's one of the best support-items and you can affort it, because you can farm.
+Get it, it's heal is great for teamfights and tu survive sticky situations.
+It also gives you some needed stats.",
+				"pipe":"Very good against massive magical AoE-damage. It gives nearby allies an 400 magic-damage-shield. Perfectly for going into teamfights.
+Don't use it too early, because the enemy can see it and maybe avoid a teamfight until the shield is gone.",
+				"urn_of_shadows":"If you gank and kill a lot, you will gain charges for later use.
+You can heal and deal damage to save someone or get a charge back if you kill them (or assist).
+It's earlygame power is huge. Use it.",
+				"sheepstick":"It gives you stats, mana regeneration and it will give you a great disable.
+It[s expensive but it]s always a great pick up.",
+				"cyclone":"It helps a lot against your mana-issue and it gives you, your teammates and your creeps time to position themself around an enemy (if used on them).
+It can make ganks much more easier. ",
+				"force_staff":"If you want to chase after an enemy or to get away from one (or an ally tries to) this item is never a bad choise.
+Also it gives you more mana, what is great for your ultimate. ",
+				"necronomicon":"The Mana-Burn shouldn´t be underestimated and if someone kills your warrior in an AoE he would get a huge nuke. On level 3 the warrior also provides true-sight which is great againt invisible heroes and to remove all vision of the enemy outside their base.
+Also the strenght-gain will be great.",
+				"ultimate_scepter":"This will increase your damage of your ultimate a lot if you stand back in fights. It is a great item and will give you a lot of stats.
+Just a great item.",
+				"black_king_bar":"Magic Immunity is great but only if really needed.
+If your enemy has a lot of spells to shut down completely it is a great item-choise and gives you extra needed stats.",
+				"bloodstone":"This item fixes your mana-issues completely and let you use your Impetus freely. But if you die often it´s not worth to buy.
+So be carefull if you have it.",
+				"sphere":"It helps against your mana-problems and can negate an enemy spell that could shut you down completely.
+
+It isn't as good as BKB but if there aren't to many disables in your enemies team, this choise is better, because you get mana regeneration.",
+				"arcane_boots":"If you plan to build the Energy-Booster into a Bloodstone these boots could be the right choise. It also helps your mana-issue and you can support your team with it.",
+				"smoke_of_deceit":"Bypass wards and gank with all your creeps. It cost just 100 gold but a kill or an assist is much more worth. Gank in mid-game in the enemies jungle with one or two teammates."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_untouchable",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_natures_attendants",
+			"6":"enchantress_impetus",
+			"7":"enchantress_natures_attendants",
+			"8":"enchantress_enchant",
+			"9":"enchantress_enchant",
+			"10":"enchantress_enchant",
+			"11":"enchantress_impetus",
+			"12":"enchantress_untouchable",
+			"13":"enchantress_untouchable",
+			"14":"enchantress_untouchable",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"This skill slow the enemies attackspeed which makes it usefull late in the game and so it shouldn´t be focused on to early. One point on level 4 is enough before all other skills are maxed out.
+It can help in the early stages of the game in the jungle and if someone tries to fight if you gank them.",
+				"enchantress_enchant":"Your bread and butter in the jungle. You gain temporarily control over a creep so that you can use it to farm, tank, push and gank. Max it second because of its slow on enemies and the cooldown reduction.
+You can have up to 2 creeps right after minute 1 and this is huge! Go gank with them.",
+				"enchantress_natures_attendants":"This heal is awesome. It heals all nearby allies and if you are alone with one and you have full life you can heal your target for up to 900 hp (!)
+It´s makes you so tough to kill if they can´t burst you and it goes through magic immunity. 
+This skill is maxed first.",
+				"enchantress_impetus":"The farer the enemy is away, the more damage you will do. It´s an attack-modifier and doesn´t stack with other, but it´s pure damage so it will tear through armor-heroes like they were butter.
+But magic immunity cripples you because you will deal no extra damage with it.
+Skill it at standard 6/11/16"
+		}
+	}
+}

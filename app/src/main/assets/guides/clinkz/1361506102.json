@@ -1,0 +1,91 @@
+{
+	"Hero":"clinkz",
+	"Title":"[DMX] Clinkz (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"flask",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"boots"
+			],
+			"coreItems":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"orchid",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"greater_crit",
+				"manta",
+				"butterfly",
+				"monkey_king_bar",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"sphere",
+				"sheepstick",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_wind_walk",
+			"2":"clinkz_searing_arrows",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_strafe",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_wind_walk",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_wind_walk",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_strafe",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"Ce sort s’avère très utile une fois la phase de laning passée pour détruire une tour ou tuer un héros sans avoir à acheter d’item pour la vitesse d’attaque. Il permet de partir sur des items pur DPS ou survie tout en ayant un “damage output” convenable.",
+				"clinkz_searing_arrows":"Les dégâts de ce sort s’ajoutent directement à l’attaque de Clinkz, il s’agit donc de dégâts physiques. Les ennemis peuvent s’en protéger avec de l’armure.
+Fonctionne sur les TOURS.",
+				"clinkz_wind_walk":"cette compétence permettra à Clintz d’arriver derrière n’importe quel héros esseulé en un minimum de temps. Combiner Skeleton Walk, Searing Arrows et Strafe fera de vous un tueur.",
+				"clinkz_death_pact":"Utilisez-le à chaque fois que le cooldown revient ! Ce sort vous donne tellement d’HP qu’il peut vous sauver la vie quand on vous gankera pendant que vous farmez !
+Essayez de manger un gros creep neutre."
+		}
+	}
+}

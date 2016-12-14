@@ -1,0 +1,88 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"Rolling Kickapow",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"veil_of_discord",
+				"heart"
+			],
+			"luxury":
+			[
+				"soul_ring",
+				"assault",
+				"bloodstone",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Always best to have a stick.",
+				"bottle":"Super handy to have since you're going to be spamming spells and taking some damage.",
+				"urn_of_shadows":"If you're able to harass a fair amount but are running out of mana, pick up the Sage's mask for this before your boots, and finish it afterwards.",
+				"cyclone":"Nice mana regen, plus disabling utility.",
+				"assault":"If you're getting nicely fed but still take uncomfortable amounts of damage, get this.",
+				"heart":"Health regen + bonus damage",
+				"bloodstone":"For the Earth Spirit who knows no limits.",
+				"soul_ring":"If you find yourself with an overabundance of health and never enough mana, pick this up after your arcane boots.",
+				"arcane_boots":"Gotta get these ASAP for that mana.",
+				"veil_of_discord":"Drop this on people right before you surround them with remnants and ult, it's beautiful."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_rolling_boulder",
+			"3":"earth_spirit_boulder_smash",
+			"4":"earth_spirit_rolling_boulder",
+			"5":"earth_spirit_rolling_boulder",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_boulder_smash",
+			"8":"earth_spirit_rolling_boulder",
+			"9":"earth_spirit_boulder_smash",
+			"10":"earth_spirit_boulder_smash",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_geomagnetic_grip",
+			"13":"earth_spirit_geomagnetic_grip",
+			"14":"earth_spirit_geomagnetic_grip",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Earthbind",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Tosses a net at the target point, pinning down all enemy units.  Earthbind prevents invisibility, blink, and interrupts channeling.",
+        "notes": "While preventing units from going invisible, Earthbind won\u0027t hit units that are already invisible.<br/>Does not work on Spell Immune units or Roshan.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">2</font></b><br/>RADIUS: <b><font color=\"#ffffff\">220</font></b><br/>RANGE: <b><font color=\"#ffffff\">500/750/1000/1250</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/16/12/8",
+        "lore": "Catching dinner in the Riftshadow Ruins can be quite the task.",
+        "hurl": "Meepo",
+        "name": "meepo_earthbind",
+        "youtube":"i1tAJ-RJ27Q",
+        "id": 0
+    },
+    {
+        "dname": "Poof",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Drawing mystical energies from the earth, a Meepo can teleport to another Meepo or itself after channeling for 1.5 seconds, dealing damage in both the departure and arrival locations.",
+        "notes": "Can be cast through the minimap.<br/>Can teleport to Meepo illusions.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">80/100/120/140</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">375</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/10/8/6",
+        "lore": "Sometimes breaking one of the Riftshadow Crystals can be just the trick for getting yourself out of a bind.  Or your other self.",
+        "hurl": "Meepo",
+        "name": "meepo_poof",
+        "youtube":"-alsToHm2BM",
+        "id": 1
+    },
+    {
+        "dname": "Geostrike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Meepo enchants his weapon to deal damage per second, as well as slow the movement speed of the attacked unit.  Geostrikes from multiple Meepos stack.",
+        "notes": "Slows Spell Immune units.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">8/16/24/32</font></b>",
+        "attrib": "MOVE SLOW: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>DURATION: <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "",
+        "lore": "Keeping your pack light and having few but versatile tools is the best bet for survival.",
+        "hurl": "Meepo",
+        "name": "meepo_geostrike",
+        "youtube":"FNzYi2ViXMQ",
+        "id": 2
+    },
+    {
+        "dname": "Divided We Stand",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Meepo summons an imperfect, semi-autonomous duplicate of himself, which can gain gold and experience as he does and shares his experience and abilities. However, the clones cannot wield any items but the boots that Meepo himself wears.  If any of the clones die, they all die.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Clones can\u0027t use Arcane Boots or pick up runes.",
+        "dmg": "",
+        "attrib": "NUMBER OF MEEPOES: <b><font color=\"#ffffff\">1/2/3</font></b>",
+        "cmb": "",
+        "lore": "Do I know you?",
+        "hurl": "Meepo",
+        "name": "meepo_divided_we_stand",
+        "youtube":"aa1ksGfZ6fY",
+        "id": 3
+    }
+]

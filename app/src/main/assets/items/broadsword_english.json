@@ -1,0 +1,16 @@
+{
+  "dotaId": "broadsword",
+  "id": 3,
+  "img": "broadsword_lg.png",
+  "dname": "Broadsword",
+  "qual": "component",
+  "cost": 1200,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 18 Damage",
+  "mc": false,
+  "cd": false,
+  "lore": "The classic weapon of choice for knights, this blade is sturdy and reliable for slaying enemies.",
+  "components": null,
+  "created": false
+}

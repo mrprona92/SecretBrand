@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Sprout",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b>",
+        "desc": "Окружает юнита кольцом деревьев, не давая ему сбежать.",
+        "notes": "Способность Sprout может быть применена на любого юнита или на землю.<br/>Деревья, созданные этой способностью, взаимодействуют со способностями как обычные.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">625/700/775/850</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/120/140/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 11/10/9/8",
+        "lore": "Большое количество зелени — частый недуг, замечаемый нападающими на Nature's Prophet.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_sprout",
+        "youtube":"IKC9k4noGgI",
+        "id": 0
+    },
+    {
+        "dname": "Teleportation",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Телепортирует в любую точку карты.",
+        "notes": "Прочтение заклинания Teleport длится 3 секунды.<br/>Перезарядка и потеря маны происходят только после завершения прочтения способности. Если прервать прочтение, вы не потеряете ману, и перезарядка способности не начнется.<br/>Во время прочтения заклинания в конечной точке появится видимый союзникам и противникам эффект.",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/40/30/20",
+        "lore": "По всему лесу Prophet расставил стражу, защищающую его в необходимое время.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_teleportation",
+        "youtube":"4Z6E1mANiYY",
+        "id": 1
+    },
+    {
+        "dname": "Nature's Call",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Преобразует участок леса в энтов. Каждый из них имеет 550 здоровья и наносит 22-28 урона.",
+        "notes": "С помощью Nature's Call можно создать столько энтов, сколько деревьев находится в зоне действия способности.",
+        "dmg": "",
+        "attrib": "КОЛИЧЕСТВО ЭНТОВ: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>ВРЕМЯ ЖИЗНИ ЭНТОВ: <b><font color=\"#ffffff\">60/60/60/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 160/160/160/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 37",
+        "lore": "Веродиция наделила Prophet способностью призыва энтов, мифической разумной армии дикой природы.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_force_of_nature",
+        "youtube":"h-4uJF0-P6w",
+        "id": 2
+    },
+    {
+        "dname": "Wrath of Nature",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Вызывает сгусток энергии, отскакивающий от врагов в зоне видимости по всей карте и наносящий им урон. С каждой новой целью урон от сгустка увеличивается.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Wrath of Nature не нанесет урона юнитам вне поля зрения.<br/>Способность может быть применена на мини-карту; при этом выбирается ближайшая возможная цель.",
+        "dmg": "",
+        "attrib": "МАКС. ЦЕЛЕЙ: <b><font color=\"#ffffff\">16/16/16</font></b><br/>УРОН: <b><font color=\"#ffffff\">140/180/225</font></b><br/>ДОП. УРОН ЗА КАЖДЫЙ СКАЧОК: <b><font color=\"#ffffff\">7%</font></b><br/><font color=\"#6fe871\">МАКС. ЦЕЛЕЙ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">18/18/18</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">155/210/275</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 175/225/275<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/75/60",
+        "lore": "Nature's Prophet вызывает ярость Веродиции, направляя ее против осмелившихся опустошать дикую природу.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_wrath_of_nature",
+        "youtube":"gqPn_GVmLDY",
+        "id": 3
+    }
+]

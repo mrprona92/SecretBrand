@@ -1,0 +1,77 @@
+
+{
+	"Hero":"oracle",
+	"Title":"Oracle Mid: AMAZING",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"null_talisman"
+			],
+			"Before 10 minutes":
+			[
+				"bottle",
+				"phase_boots",
+				"force_staff"
+			],
+			"Mid Game (In order)":
+			[
+				"veil_of_discord",
+				"desolator",
+				"orchid"
+			],
+			"Late Game":
+			[
+				"bloodstone",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"greater_crit",
+				"skadi",
+				"blink",
+				"arcane_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"oracle_fortunes_end",
+			"2":"oracle_purifying_flames",
+			"3":"oracle_fortunes_end",
+			"4":"oracle_purifying_flames",
+			"5":"oracle_fortunes_end",
+			"6":"oracle_false_promise",
+			"7":"oracle_purifying_flames",
+			"8":"oracle_purifying_flames",
+			"9":"oracle_fates_edict",
+			"10":"oracle_fortunes_end",
+			"11":"oracle_false_promise",
+			"12":"oracle_fates_edict",
+			"13":"oracle_fates_edict",
+			"14":"oracle_fates_edict",
+			"15":"attribute_bonus",
+			"16":"oracle_false_promise",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

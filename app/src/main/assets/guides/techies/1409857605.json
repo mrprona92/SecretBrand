@@ -1,0 +1,128 @@
+{
+	"Hero":"techies",
+	"Title":"6.82 - Standard Techies (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tpscroll",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"cyclone",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"bottle",
+				"force_staff",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"bloodstone",
+				"travel_boots",
+				"sheepstick"
+			],
+			"Last updated: 17/10/14":
+			[
+			],
+			"Contact - @TortedeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Ghost Scepter is situationally good as it can give you that delay to either pop-off your Suicide Squad, Attack! or lay down that Stasis Trap!",
+				"clarity":"Since the first minute is crucial to set up traps as Techies, you will run out of mana very quickly. This massive stock of Clarity is to alleviate that drain and keep you on that initial momentum.",
+				"bottle":"Bottle can be good during the early game if you are snagging runes, being at mid or simply want even more regeneration for active mine placing.",
+				"tpscroll":"GET THIS ASAP AND TELEPORT TO THE LANE TO PLACE MINES BEFORE THE GAME STARTS! This moment in time is crucial to put mines where enemies will ward/go (rune, steps, ward areas) and get first blood at level 1!",
+				"travel_boots":"As Techies, Mobility goes without saying. The ability to teleport back to base to prevent a push or to quickly mine an area that is crucial to the enemy (Roshan, Jungle, Secret Shop) are what justifies getting Boots of Travel.",
+				"urn_of_shadows":"Urn of Shadows can sometimes be good if you find yourself in many team-fights early to the mid-game. Urn of Shadows will help with your mana regeneration and alleviate some lack of health.",
+				"sheepstick":"Scythe of Vyse is another obvious pick for Techies as it offers even more disable and Intelligence.",
+				"cyclone":"Eul's Scepter works nicely to further immobilize a foe. Open with Eul's Scepter of Divinity, place the Stasis Trap, watch them get stunned.
+
+The extra mana regeneration and movement speed are also welcomed making this a relatively well-rounded item for Techies.",
+				"force_staff":"Force Staff is Techies' escape. As everyone can tell, Techies has few escapes if caught off-guard or out of place.
+
+Force Staff is also very nice to push foes into traps and mines.",
+				"necronomicon":"Having Necronomicon for Techies will reveal pesky wards you want to rid of to set up traps as well as contribute further to team-fights with the damage output, mana burn and additional attack speed aura it offers to teammates.",
+				"ultimate_scepter":"Aghanim's Scepter changes Techies' role from a trapper and annoyance to a straight-up team-fighter with the improvement in range and massive damage boost. You won't be remotely as useful without Aghanim's Scepter.",
+				"shivas_guard":"While Techies' Survivability is still incredibly poor. Shiva's Guard can alter that and give a decent AOE slow which works within the range of your new Aghanim's Scepter-buffed ultimate cast range.",
+				"bloodstone":"While Bloodstone has its benefits for Techies. It is not always necessary or, better yet, just not ideal under certain circumstances where the game extends relatively far in which you are engaging in team-fights. Typically Bloodstone should be obtained very much after many of the Extension Items.",
+				"ethereal_blade":"Ethereal Blade amplifies everything you want and dishes out an impressive slow your foe right before you destroy them with your ultimate: Remote Mines. ",
+				"soul_ring":"Soul Ring is Techies' best friend during the early round as it gives you good regeneration and a fast pump of mana to drop more Land Mines",
+				"arcane_boots":"Arcane Boots go without saying as Techies benefits from none of the other boots given all his abilities are still massive mana sinks."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"techies_land_mines",
+			"2":"techies_suicide",
+			"3":"techies_land_mines",
+			"4":"techies_suicide",
+			"5":"techies_land_mines",
+			"6":"techies_remote_mines",
+			"7":"techies_land_mines",
+			"8":"techies_suicide",
+			"9":"techies_suicide",
+			"10":"techies_stasis_trap",
+			"11":"techies_remote_mines",
+			"12":"techies_stasis_trap",
+			"13":"techies_stasis_trap",
+			"14":"techies_stasis_trap",
+			"15":"attribute_bonus",
+			"16":"techies_remote_mines",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"techies_land_mines":"Be creative with your Land Mines. Place them over runes, in areas foes walk to (ward spots, secret shop, ancients) and use them over ramps and other fogged areas that can't be seen until the enemy climbs those ramps/steps.
+
+- Can block Jungle Camps
+- Can clear Ancients",
+				"techies_stasis_trap":"Stasis Trap is one of your strongest team-fighting abilities and an incredible way to delay pushes and lanes from being pushed. Works great in combination with Eul's Scepter of Divinity.
+
+Stasis Trap has a long stun and an insane range, so try put it where it can't be triggered by creeps by accident",
+				"techies_suicide":"Deny yourself and your enemy's exp./gold bonus by killing yourself. You don't have to target an enemy to get deny yourself. This is also a good way to try and get first-blood if coordinated with teammates. Also a nice combination with Tiny's Toss ability.
+
+Goes through Black King Bar/Spell Immunity",
+				"techies_focused_detonate":"Button-pressing permission granted to Will Smith and all Tommy Lee Jones' fans.",
+				"techies_minefield_sign":"Property of ACME and ACME-affiliated property.",
+				"techies_remote_mines":"Before Aghanim's Scepter, this needs to be set up in places to either prevent pushes or in common areas that you know you will have the reaction time to trigger.
+
+After Aghanim's Scepter, this ability can be used directly in team-fights given your good range and incredible AOE damage (a full nuke)"
+		}
+	}
+}

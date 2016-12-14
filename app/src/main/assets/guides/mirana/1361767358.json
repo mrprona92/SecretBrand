@@ -1,0 +1,101 @@
+{
+	"Hero":"mirana",
+	"Title":"Ed Wunclers - Mirana hard carry [pro arrow build]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"circlet",
+				"branches",
+				"branches"
+			],
+			"Band recipe or 2 branches":
+			[
+				"wraith_band"
+			],
+			"Starting Items (Alternative - for more dmg)":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Lurkin":
+			[
+				"boots",
+				"ring_of_aquila",
+				"power_treads"
+			],
+			"O let's do it":
+			[
+				"desolator",
+				"diffusal_blade",
+				"manta"
+			],
+			"Grove St. Party":
+			[
+				"black_king_bar",
+				"greater_crit",
+				"sphere",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Either branch or Wraith Band recipe.",
+				"power_treads":"Use agility when last hitting in the lane and switch to strength as soon as shit is about to go down with a enemy hero.",
+				"wraith_band":"Either buy 2 branches for last 150g or Wraith Band recipe, then you are able to buy Aquila form sideshop.",
+				"black_king_bar":"Get if going against a lot of stuns etc.",
+				"sphere":"Get if going against a lot of nuke, lion, lina, nyx etc.",
+				"butterfly":"If more survivability is needed go Butterfly instead of Daedalus.",
+				"greater_crit":"Get if more dmg is needed.
+
+If survivability is needed go butterfly.",
+				"manta":"Get after Diffusal Blade or Desolator for survivability.",
+				"desolator":"Get if going against str heros.",
+				"diffusal_blade":"Get if going against int heros.",
+				"ring_of_aquila":"Get last parts from side shop. Or buy parts from base if you dont have Wraith Band recipe."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_arrow",
+			"4":"mirana_starfall",
+			"5":"mirana_arrow",
+			"6":"mirana_starfall",
+			"7":"mirana_arrow",
+			"8":"mirana_starfall",
+			"9":"mirana_starfall",
+			"10":"mirana_invis",
+			"11":"mirana_leap",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_invis",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

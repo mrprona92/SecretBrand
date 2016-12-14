@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Cold Feet",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Пытается заморозить врага, в результате чего тот начинает получать периодической урон. Заклятие может быть развеяно, если цель выйдет из зоны действия; в противном случае через 4 секунды враг будет оглушен и приморожен к месту.",
+        "notes": "Максимально можно нанести: 150/200/250/300 урона.<br/>Наносит урон каждые 0,8 секунд.",
+        "dmg": "",
+        "attrib": "ПЕРИОДИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">37.5/50/62.5/75</font></b><br/>РАССТОЯНИЕ РАЗРЫВА: <b><font color=\"#ffffff\">740/740/740/740</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.25/2/2.75/3.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/150/150/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/13/11/9",
+        "lore": "Присутствие Калдра обращает окружающих его в замерзшую пустоту, угрожая запереть их в ледяной темнице навечно.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_cold_feet",
+        "youtube":"wq_I0TQFqG8",
+        "id": 0
+    },
+    {
+        "dname": "Ice Vortex",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает вихрь ледяной энергии, который замедляет скорость передвижения и понижает сопротивление магии в зоне действия в течение 16 секунд.",
+        "notes": "Не действует на юнитов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b><br/>УВЕЛИЧЕНИЕ МАГИЧЕСКОГО УРОНА: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 4",
+        "lore": "Ледяные, жгучие ветра подчиняются прихоти Калдра, остужая поле битвы.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_ice_vortex",
+        "youtube":"ZK9v1WLg7lc",
+        "id": 1
+    },
+    {
+        "dname": "Chilling Touch",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Ледяной ветер зачаровывает оружие союзных героев, добавляя ко всем их атакам дополнительный магический урон, при этом немного снижая скорость атаки. <br/> Ancient Apparition всегда получает это усиление. Эффект длится 30 секунд.",
+        "notes": "Дополнительный урон наносится отдельно.<br/>Наносит урон только героям и крипам.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">525</font></b><br/>МАКС. АТАК: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>УРОН: <b><font color=\"#ffffff\">50/60/70/80</font></b><br/>СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">20</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/120/130/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/42/34/26",
+        "lore": "Используя вечное знание, Ancient Apparition заколдовывает своих союзников холодом.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_chilling_touch",
+        "youtube":"vmYw33RAlCE",
+        "id": 2
+    },
+    {
+        "dname": "Ice Blast",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Запускает снаряд в направлении выбранной точки на карте. Способность нужно повторно активировать, чтобы запустить ледяной шар, который взорвется там, где находился первый снаряд на момент активации. Чем дальше он пролетит, тем больше будет радиус взрыва. У врагов, которые оказались в радиусе взрыва или на пути ледяного шара, застывает кровь, что делает невозможным лечение или регенерацию. Если здоровье пораженных целей упадет ниже определенного уровня, они мгновенно разобьются на осколки.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Область действия — 275 + 50*время полета, максимум 1000. Область заморозки по траектории полета — 275 единиц.<br/>Убийство будет зачтено тому, чей урон рассыпал цель на осколки.<br/>Иллюзии или клонов Meepo нельзя убить мгновенно.<br/>Запрещает восстанавливать здоровье большинством способов (в том числе и возле фонтана).<br/>Эффект от этой способности нельзя снять способностью очищения.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">250/350/450</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОБМОРОЖЕНИЯ: <b><font color=\"#ffffff\">8/9/10</font></b><br/>УРОН ОТ ОБМОРОЖЕНИЯ В СЕК.: <b><font color=\"#ffffff\">12.5/20/32</font></b><br/>ЗДОРОВЬЯ ДЛЯ УБИЙСТВА: <b><font color=\"#ffffff\">10%/11%/12%</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">17</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/125/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 40",
+        "lore": "Ледяные бури прошлых эпох вырываются из холодных конечностей Калдра, обрушиваясь на мир и превращая его жителей в памятники его вечного могущества.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_ice_blast",
+        "youtube":"j97qGajoj1s",
+        "id": 3
+    },
+    {
+        "dname": "Release",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Запускает стремительный ледяной шар в выбранное местоположение.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1",
+        "lore": "",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_ice_blast_release",
+        "id": 4
+    }
+]

@@ -1,0 +1,114 @@
+{
+	"Hero":"lich",
+	"Title":"The perfect Lanesupport",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"flask",
+				"tango",
+				"gauntlets",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"ward_observer",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"buckler",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"veil_of_discord",
+				"medallion_of_courage",
+				"force_staff",
+				"necronomicon"
+			],
+			"Supportive Items":
+			[
+				"pipe",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Stats! Lich is pretty squishy, you get a little advantage to have this, staying in your lane and resist some harras.",
+				"branches":"Branches! Branches are the most costeffective item ingame. Early extrastats give you more healthpoints and more manapoints.",
+				"boots":"Movementspeed - better  positioning and you will die less.",
+				"flask":"Healing! Always nice to have.",
+				"ward_observer":"Wards giving your sight. With wards you can support your carry hardly, have vision about enemy movement, can see runes, and know when to move agressive or more defensive.",
+				"tango":"Tangoes give you mendatory regeneration of HP. You can stay longer in your lane and support your carry.",
+				"courier":"Get a courier. It is mendatory. If you already have a courier in your team, buy wards!",
+				"power_treads":"As beginner I recommend to buy powerthreads. You get a lot sustain against all damage, while they are red and setted to strenght.",
+				"mekansm":"Meka gives you and your team all 40 seconds a heal. And the Aura supports in Teamfights aswell.",
+				"flying_courier":"From an upgraded courier - as early as possible - will greatly benefit to your midlane. And your little fella will be less sniped off.",
+				"buckler":"The buckler gives you some more armor, which gives you some resistance against autoattacks from enemy heroes. After you finished it, buy your complete Mekanism.",
+				"pipe":"Many nukers? Get a pipe! It blocks 400 damage from spells.",
+				"force_staff":"A Lifestealer locks you hardly down? You die more often, because you're slowed to death?
+Push yourself out of position. Or maybe a teammate. ",
+				"necronomicon":"Your team is lacking of pushing power? Or you have some trouble with inivisible heroes like Riki or Nyxassasin?
+This item is bricked. You get two small units, if they kill the melee-red one, they receive a maximum of 400 pure damage. And they burn mana. And give you slightly faster movementspeed.",
+				"shivas_guard":"Many Carries? Slow them down, and have more armor to survive their attacks!",
+				"ancient_janggo":"Being dead often? Feeling slow?
+Get a drum. Helps you a lot out!",
+				"medallion_of_courage":"This item gives you a bit manaregeneration, that you don't really need, but some more armor. This is really useful, when you/re fearing autohits from enemies.",
+				"veil_of_discord":"Veil and enemies sticked together is a pure win, You will totally destroy them."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_dark_ritual",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_frost_nova",
+			"9":"lich_dark_ritual",
+			"10":"lich_frost_armor",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Nuke whenever you can! Make the most out of your manapool!",
+				"lich_frost_armor":"Bonusarmor is a strong thing for your carry. Don't use autocast, it only will empty your manapool over time and you are always aware to care about your best friend - your carry.
+You can also use it on melee-creeps, because it's slowing down the enemy range-creeps. And you get more pushing-power!",
+				"lich_dark_ritual":"Eat your first range-creep, when the timer starts at 0:00. This decreases the pushing-power of your lane.
+And then always sacrifice a creep whenever you can. Try to take only the melee-ones with the most healthpoints.",
+				"lich_chain_frost":"So, there aren't many creeps around your enemies, who stick together?
+Fire your ultimative skill in them."
+		}
+	}
+}

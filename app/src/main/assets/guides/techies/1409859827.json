@@ -1,0 +1,97 @@
+{
+	"Hero":"techies",
+	"Title":"Techies KABOOM (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tpscroll",
+				"clarity",
+				"clarity",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"ultimate_scepter",
+				"cyclone"
+			],
+			"Поздняя игра":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"blink",
+				"black_king_bar",
+				"orchid",
+				"sphere",
+				"ethereal_blade",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"Минируй всё, как можно раньше!",
+				"tpscroll":"Минируй всё, как можно быстрее!",
+				"cyclone":"Реген маны + скорость передвижения + способность поднимать противников - то что надо!",
+				"force_staff":"Небольшой буст к мане + способность толкать противника на мины.",
+				"soul_ring":"Techies сильно зависимы от маны. МАСТХЭВ!",
+				"arcane_boots":"Больше маны - больше мин!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"techies_land_mines",
+			"2":"techies_suicide",
+			"3":"techies_land_mines",
+			"4":"techies_stasis_trap",
+			"5":"techies_land_mines",
+			"6":"techies_remote_mines",
+			"7":"techies_land_mines",
+			"8":"techies_suicide",
+			"9":"techies_suicide",
+			"10":"techies_suicide",
+			"11":"techies_remote_mines",
+			"12":"techies_stasis_trap",
+			"13":"techies_stasis_trap",
+			"14":"techies_stasis_trap",
+			"15":"attribute_bonus",
+			"16":"techies_remote_mines",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"techies_land_mines":"Используйте кларити из начального закупа, чтобы как можно раньше начать минировать важные точки на карте.",
+				"techies_stasis_trap":"Это же один из самых долгих масс станов в доте!!!",
+				"techies_suicide":"Суицид может быть использован, чтобы не отдать килл врагу на ранних уровнях. Или он может перевернуть весь ход битвы...",
+				"techies_remote_mines":"Минируйте больше! Станьте сильнее со скипетром! И комбинируйте с первой способностью."
+		}
+	}
+}

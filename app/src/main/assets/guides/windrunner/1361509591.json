@@ -1,0 +1,106 @@
+{
+	"Hero":"windrunner",
+	"Title":"[DMX] Windrunner (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"flask",
+				"tango",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_basilius",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"force_staff",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"monkey_king_bar",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"mekansm",
+				"pipe",
+				"arcane_boots",
+				"cyclone",
+				"orchid",
+				"sphere",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Très bon item pour le positionnement, pratique pour réussir vos shackleshots, cependant, cet item pourra être désactivé par les attaques des héros ennemis, ce qui le rend plus difficile à utiliser pour s'échapper.",
+				"phase_boots":"Ces bottes vous donneront un bon boost de movespeed et un bonus de dégâts pratique pour last hit.",
+				"force_staff":"Très bon item pour le positionnement, afin de réussir vos shackleshots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_shackleshot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_focusfire",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Un très bon stun mais il faut savoir se placer pour l'utiliser au mieux.
+Essayez de stun un creep devant le héros ennemi pour le stun si vous êtes au mid.
+Sinon aidez vous des arbres.",
+				"windrunner_powershot":"Un très bon nuke qui fait de bons dégâts avec une bonne range, par contre c'est une canalisation et votre ennemi pourra l'esquiver assez facilement.
+Essayez de vous cacher pour placer ce sort.
+Vous pouvez l'utiliser pour farmer les creeps.",
+				"windrunner_windrun":"Un très bon sort d'escape qui vous adonne 100% d'esquive et une movespeed de folie pour échapper aux ganks.",
+				"windrunner_focusfire":"Un ultimate très pratique pour pusher les bâtiments.
+Vous pouvez l'utiliser en fin de game pour dps un héros ennemi."
+		}
+	}
+}

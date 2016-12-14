@@ -1,0 +1,19 @@
+{
+  "dotaId": "lotus_orb",
+  "id": 226,
+  "img": "lotus_orb_lg.png",
+  "dname": "Lotus Orb",
+  "qual": "epic",
+  "cost": 4050,
+  "desc": "Active: Echo Shell - Applies a shield to the target unit which re-casts most targeted spells back to their caster. The shielded unit will still take damage from the spell. Dispels negative buffs when applied.",
+  "notes": "",
+  "attrib": "+ 10 Damage<br/>+ 10 Armor<br/>+ 5 HP Regeneration<br/>+ 125% Mana Regeneration<br/>ECHO DURATION: 6<br/>ECHO CAST RANGE: 900",
+  "mc": 100,
+  "cd": 17,
+  "lore": "The jewel at its center still reflects a pale image of its creator.",
+  "components": [
+    "pers",
+    "platemail"
+  ],
+  "created": true
+}

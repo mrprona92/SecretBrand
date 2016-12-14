@@ -1,0 +1,116 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Revenge Solves Everything: A Vengeful Spirit Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"clarity",
+				"courier",
+				"ward_observer",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"flying_courier",
+				"magic_wand"
+			],
+			"Mid Game":
+			[
+				"force_staff",
+				"power_treads",
+				"bracer",
+				"ancient_janggo"
+			],
+			"Late Game":
+			[
+				"cyclone",
+				"ultimate_scepter"
+			],
+			"Situational / Luxury Items":
+			[
+				"ward_sentry",
+				"phase_boots",
+				"travel_boots",
+				"mekansm",
+				"vladmir",
+				"yasha",
+				"manta",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"If you randomed Vengeful Spirit, you can use the extra gold to buy a Ring of Protection to build towards Tranquil Boots.",
+				"branches":"Fill up any empty inventory space that you have the money for with Iron Branches.",
+				"ward_observer":"...Pick up some Observer Wards instead.",
+				"ward_sentry":"If you're laning against an invisible enemy in the early game (Riki, Clinkz, Bounty Hunter, etc.) then buy these and plant them in the lane. Later in the game, you can use these to deward and keep the enemy blind, or keep hunting down those invisible foes.",
+				"courier":"If someone on your team hasn't bought the courier, be sure to buy one. If someone already has...",
+				"travel_boots":"Boots of Travel are always a good luxury item for heroes, but Vengeful Spirit benefits quite well from it. The extra movement speed is fantastic for her, and teleporting in and getting to a teamfight as fast as you can is important.",
+				"phase_boots":"Some people prefer the maneuverability and Phasing ability from Phase Boots over Power Treads. Both boots have their own strengths, so while Power Treads are recommended in this guide, this comes down to personal preference.",
+				"power_treads":"Vengeful Spirit benefits from all three stats greatly (being squishy, an Agility hero, and mana dependant) so Power Treads are a great choice. The attack speed (and the possible Agility boost) synergises well with Vengeance Aura, too.",
+				"mekansm":"If nobody on your team has built a Mekansm, it should be your priority to get this, preferably after your Force Staff.",
+				"vladmir":"If nobody on the team has bought a Vladmir's Offering and/or somebody already has a Mekansm/Pipe of Insight, you may want to pick this item up to strengthen up your teamfight presence.",
+				"flying_courier":"If the Courier hasn't been upgraded yet, feel free to buy the Flying Courier.",
+				"pipe":"...a Pipe of Insight. For the same reasons as Mekansm, giving you and your allies a spell shield is great - especially against enemy teams that rely on magical abilities.",
+				"headdress":"If you decide to build a Headdress, you can build into...",
+				"cyclone":"Eul's Scepter is an underrated but powerful tool for Vengeful Spirit. The Cyclone ability can be used in the traditional means of disabling enemy right clickers or initiators, but it can also be used to prevent a grim death when you initiate with Nether Swap.",
+				"force_staff":"The core item for Vengeful Spirit. Enemy too far away for your Magic Missile or your Nether Swap? Force in and close the distance. What if a teammate is in danger, but your Nether Swap is on cooldown? Force them out of a sticky situation. This item will save lives if applied correctly.",
+				"ultimate_scepter":"The famous Scepter is also viable for Vengeful Spirit. The reduction in cooldown and the ability to swap non-hero units can save your life and open up some new possibilities. The value of this item comes down to your team, the enemy team, and your playstyle.",
+				"manta":"...A Manta Style, if you feel inclined to go straight out for damage.",
+				"desolator":"Alternatively, you can go for a Desolator to reduce armor and give you, and your allies, more physical damage. This can be deadly in combination with your Vengeful Aura.",
+				"yasha":"Sometimes, you may have enough space to farm up or have joined in enough kills to be leading in experience and capable of helping to carry in the late game. Yasha is a strong item for the semi-carry Vengeful Spirit, which can be built into...",
+				"ancient_janggo":"Drums of Endurance is the ideal aura-based item for Vengeful Spirit to carry. Movement speed and attack speed are important for her, and benefiting your team with them as well is great. The stats from the item are also good, too.",
+				"tranquil_boots":"Tranquil Boots will give Vengeful Spirit some much needed movement speed and surviability in the laning phase. Later on, you can disassemble them to make a new pair of boots while building the Ring of Regen into your Core Item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"attribute_bonus",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_wave_of_terror",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_wave_of_terror",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_wave_of_terror",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"vengefulspirit_command_aura",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"A reliable stun with a good amount of damage. Magic Missile may not be a fancy skill, but it gets the job done and should be maxed out first.",
+				"vengefulspirit_wave_of_terror":"A level in Wave of Terror is taken somewhat early at level 4 (or 2 if you skip stats) to scout through the fog of war. This skill is later maxed out, as it benefits more early on than Vengeance Aura.",
+				"vengefulspirit_command_aura":"Vengeance Aura is powerful and helps Vengeful Spirit scale into the late game. It is most potent at that time, as the damage is percentage based, and thus it is maxed out last.",
+				"vengefulspirit_nether_swap":"Nether Swap is a very versatile ultimate that can save lives. It is taken whenever possible.",
+				"attribute_bonus":"An early level of stats can help you gain the mana needed for two Magic Missiles without recovery. However, if you have the Clarities and/or stat items to keep your mana up, you can replace this with an early Wave of Terror."
+		}
+	}
+}

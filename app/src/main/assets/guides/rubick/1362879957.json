@@ -1,0 +1,113 @@
+{
+	"Hero":"rubick",
+	"Title":"Grand Magus: Middle Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"mantle",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"blink",
+				"ghost",
+				"black_king_bar",
+				"sheepstick",
+				"orchid",
+				"cyclone",
+				"ancient_janggo",
+				"pipe",
+				"mekansm"
+			],
+			"Utilitarian":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"courier",
+				"flying_courier",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If the enemy team has heroes with AOE ultimate's, such as Tidehunter, Sand King or Enigma, picking up a Blink Dagger is a good idea.  This will give you the ability to perform the role of an initiator and to blink in at opportune times to steal valuable abilities. ",
+				"mantle":"Mantle of Intelligence might seem like an odd choice. This item is picked up as it gives you +6 stats early game when combined with Iron Branches. This boost of stats will give you a lot of last hitting and harassing power to help you win the lane. After the lane phase has ended you can sell it.",
+				"magic_wand":"Magic Wand is a useful item for Rubick due to how mana dependent he is. It will provide a good source of reserve mana and health which can be used if the going gets tough.",
+				"ghost":"If you're struggling to stay afloat against right click heroes such as Faceless Void or Shadow Fiend, get a Ghost Scepter. This wil stop them from focusing you down and will allow you position yourself better for the rest of the fight.",
+				"bottle":"The reason for not spending all of your starting gold is because you want to rush a Bottle as soon as possible. This will allow you to keep your Health and Mana topped off as well giving you the ability to save Runes for oppertune times, such as ganking the side lanes. ",
+				"ward_observer":"Wards are vital to victory. Purchase Observer wards whenever they are in stock to keep vision on the enemy. ",
+				"ward_sentry":"Sentry wards are important for de-warding and for using against stealth heroes. Unlike Observer Wards, Sentries have an unlimited stock in the shop. ",
+				"courier":"It's not ideal for you to purchase the courier as you want to get to a Bottle as soon as possible, however as support you may be forced to if nobody on your team can. ",
+				"mekansm":"Mechanism is a solid pick for Rubick. It's good for pushing momentum and for use during a team fight. Mechanism becomes less useful as the game goes on so you want to grab in the mid game phase.",
+				"pipe":"If the enemy team has a lot of AOE ultimates it's a good idea to pickup a Pipe of Insight. It will provide a much needed health buffer that will let you survive a team fight encounter against a well landed Epicentre or Ravage. ",
+				"sheepstick":"Scythe of Vyse is a very strong choice for Rubick for obvious reasons. It allows you to crowd control the enemy team and provides a large amount of intelligence and mana regeneration. ",
+				"orchid":"Orchid Malevolence is another option if you need crowd control. Orchid is also especially useful for shutting down ability based heroes such as Omni Knight as it amplifies your team's damage against the target and prevents them from casting spells. ",
+				"cyclone":"Eul's Scepeter of Divinity is a great item for taking yourself out of combat while you wait for a cool down and for providing crowd control. It's also a lot cheaper then a Scythe of Vyse and an Orchid Malevolence which means you can get it earlier in the game. ",
+				"force_staff":"Force Staff gives an excellent source of Intelligence as well as providing an additional chase and escape. Force Staff also provides synergy with a lot of different abilities in the game, which will make your ultimate even more effective. ",
+				"black_king_bar":"Black King Bar is a good pickup for Rubick if you are constantly being crowd controlled. This will provide extra useful if you are able to be in possession of a channeled ultimate such as Epicentre or Black Hole, as it will prevent the enemy from interrupting you during the cast.",
+				"arcane_boots":"Arcane Boots are key on Rubick. Not only does it give you a boost of Mana every 55 seconds but it also increases your Mana pool by 250. Rubick is almost entirely spell dependent, so it's obvious to see why this item is great on him. ",
+				"ancient_janggo":"Drum of Endurance is a great pick for Rubick. It provides excellent stats and gives a valuable team aura. On top of that the use effect scales very well in to the late game phase. If you find that your team needs additional speed or damage, grab a Drum. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Telekinesis is an AOE stun which if used correctly, can be devastating in a team fight. We will level this spell to max second as Fade Bolt provides much more harassment early game, which is important if you are mid against a carry. ",
+				"rubick_fade_bolt":"Fade Bolt is the first spell we will level to max. It is an instant cast damage dealer which has a huge range. It's excellent for securing kills and for harassment in the lane phase. ",
+				"rubick_null_field":"Null Field provides a lot of spell resistance. The only reason we level this last is because Rubick's other ability's are a lot more useful for securing early game advantages. ",
+				"rubick_spell_steal":"Spell Steal is the most important ability that Rubick has. Getting to level 6 as quickly as possible is one of the main reasons he takes mid. The moment you hit level 6 put a point in your ultimate and begin ganking the side lanes. ",
+				"attribute_bonus":"Rubick is mostly ability based. There is no need to put points in stats until everything else has been maximized.  "
+		}
+	}
+}

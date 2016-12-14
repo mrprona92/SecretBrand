@@ -1,0 +1,97 @@
+{
+	"Hero":"night_stalker",
+	"Title":"[DMX] Night Stalker (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"stout_shield",
+				"urn_of_shadows",
+				"boots",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"vanguard",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"black_king_bar",
+				"ultimate_scepter",
+				"assault",
+				"abyssal_blade",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnel":
+			[
+				"armlet",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Item indispensable si vous jouez au mid, vous aurez le contrôle des runes et la régénération facilitera vos ganks.",
+				"urn_of_shadows":"L'urn se rechargera très vite si vous effectuez beaucoup de kills/d'assists."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_hunter_in_the_night",
+			"3":"night_stalker_void",
+			"4":"night_stalker_hunter_in_the_night",
+			"5":"night_stalker_void",
+			"6":"night_stalker_crippling_fear",
+			"7":"night_stalker_void",
+			"8":"night_stalker_hunter_in_the_night",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_darkness",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"Un ralentissement très efficace qui inflige de nombreux dommages. Utilisez le pour harass, poruchasser une cible ou même finir un fuyard.
+Son mini-stun vous permet d'annuler les canalisations tels que les parchemins de téléportation.",
+				"night_stalker_crippling_fear":"Un très bon silence couplé à un malus de précision. Utilisez le avant que votre cible ne puisse lancer un sort !",
+				"night_stalker_hunter_in_the_night":"Un passif qui ne sert que la nuit, mais qui vous transforme en véritable monstre : une attaque speed et une movespeed de folie pendant la nuit vous garantira des kills faciles.",
+				"night_stalker_darkness":"Un ultimate qui permet de faire tomber la nuit, utile lors d'un gros teamfight ou pour vous sauver. Attention, il arrête le temps, essayez de ne l'utiliser qu'en dernier recours pendant le jour. Par contre, utilisez le dès qu'il est disponible pendant la nuit, pour agrandir cette dernière."
+		}
+	}
+}

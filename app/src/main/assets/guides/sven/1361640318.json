@@ -1,0 +1,99 @@
+{
+	"Hero":"sven",
+	"Title":"6.82 - Standard Sven (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"heavens_halberd",
+				"ultimate_scepter"
+			],
+			"Extension Items":
+			[
+				"greater_crit",
+				"heart",
+				"monkey_king_bar",
+				"abyssal_blade"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ultimate_scepter":"Depending on the goal of your line-up, Aghanim's Scepter is great to create more base damage from your allies to push down towers, rip teams apart and take advantage of initiators like Magnus who can grant many allies cleave and additional damage!",
+				"black_king_bar":"You need Black King Bar to ensure you can nail down all of your damage during God's Strength's duration.",
+				"greater_crit":"Daedalus works great with Great Cleave, start building Crystalys first for the small critical damage. This stacks with your ultimate: God's Strength so the damage will be even further.",
+				"armlet":"Between this or Mask of Madness are both ideal.",
+				"mask_of_madness":"Need that extra movement and attack speed? Snag this quickly to really nail down your opponents faster than they can react."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"sven_warcry",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_great_cleave",
+			"9":"sven_great_cleave",
+			"10":"sven_great_cleave",
+			"11":"sven_gods_strength",
+			"12":"sven_great_cleave",
+			"13":"sven_warcry",
+			"14":"sven_warcry",
+			"15":"attribute_bonus",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"This is a ranged AOE stun. It's incredibly powerful and a great way to initiate if there are no initiatior on the team. It takes a huge chunk of mana, so don't overuse it more than necessary. ",
+				"sven_great_cleave":"The range on his Cleave ability is incredible. In addition, critical hits spread towards all units affect, allowing you to tear down waves and waves of enemies quickly.",
+				"sven_warcry":"Warcry is a great chasing ability and one to really cause scare to foes as your armor multiplies to 16; making you and everyone around incredibly tough.",
+				"sven_gods_strength":"God's Strength needs Sven to cast it, so you will be immobile for the casting animation."
+		}
+	}
+}

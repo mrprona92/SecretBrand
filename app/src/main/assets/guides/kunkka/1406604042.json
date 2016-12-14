@@ -1,0 +1,109 @@
+{
+	"Hero":"kunkka",
+	"Title":"Attacker's 6.9k MMR Mid Kunkka Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"stout_shield",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"phase_boots",
+				"tpscroll",
+				"pers"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"blink",
+				"demon_edge"
+			],
+			"Late Game Build":
+			[
+				"phase_boots",
+				"bfury",
+				"blink",
+				"tpscroll",
+				"greater_crit",
+				"greater_crit"
+			],
+			"Very Late / Situational":
+			[
+				"travel_boots",
+				"greater_crit",
+				"heart",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"At high skill levels, Blink is more valuable than Shadow Blade. You will farm the jungle very quickly. Also, if you cast X on yourself, you can blink deep into a fight and escape safely",
+				"stout_shield":"Provides good protection in lane. Sell this after you have sold your Branches when you need to free up an item slot",
+				"branches":"Provides cheap early game stats. Sell these off first as you need to free up item slots",
+				"bottle":"Rush Bottle and fight hard for Rune control in order to keep your mana and health high",
+				"tango":"Stay alive in lane",
+				"tpscroll":"Always be prepared to escape danger or help an ally in their lane",
+				"travel_boots":"Boots of Travel will allow you to split push, join fights anywhere on the map, and will free up an inventory slot since you will no longer need TP Scrolls",
+				"phase_boots":"Get Brown Boots after Bottle and upgrade them to Phase Boots. The speed boost will help you chain early Torrents and Ghost Ships, as the cast distances are different",
+				"demon_edge":"You will be building Daedalus. Buy the Demon Edge first and complete the item when you have the rest of the gold you need. Building Demon Edge over Crystalys provides more reliable damage with each attack",
+				"pers":"You are rushing Battlefury. Build Perseverance first",
+				"heart":"If you play Kunkka well, you won't need a Heart since you won't be focused in fights much. X and Blink should be enough to escape",
+				"black_king_bar":"If you are not able to avoid being focused, get BKB before Daedalus",
+				"greater_crit":"If you want absurd damage",
+				"bfury":"Greatly speeds up farming but also provides very valuable mana regeneration. You will be doing a lot of farming in order to earn your later items"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_torrent",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_torrent",
+			"9":"kunkka_torrent",
+			"10":"kunkka_x_marks_the_spot",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_x_marks_the_spot",
+			"13":"kunkka_x_marks_the_spot",
+			"14":"kunkka_x_marks_the_spot",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"A stun and a slow that can be used to set up your ult, or right after it. Has a long cast range for surprising enemies. Use X to reliably hit Torrents",
+				"kunkka_tidebringer":"Max this first to harass and frustrate your mid lane opponent. Later it well help you farm very quickly and deal crits to groups of enemies at once",
+				"kunkka_x_marks_the_spot":"Use X to reliably stun enemies. Level 2 is needed to reliably hit a Torrent, and level 3 is needed for Boat. Cast on fleeing enemies to bring them back. Cast on allies who are diving to help them back out of danger",
+				"kunkka_ghostship":"Provides a large AOE stun, large AOE damage, a movement speed on allies, and a delay of incoming damage on allies which can keep them alive for the duration of a fight. Hit as many allies and enemies as possible",
+				"kunkka_return":"You can trigger your X early if you don't want it to run for the full duration",
+				"attribute_bonus":"Level stats only when you have to"
+		}
+	}
+}

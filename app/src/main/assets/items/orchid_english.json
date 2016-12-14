@@ -1,0 +1,19 @@
+{
+  "dotaId": "orchid",
+  "id": 98,
+  "img": "orchid_lg.png",
+  "dname": "Orchid Malevolence",
+  "qual": "rare",
+  "cost": 4075,
+  "desc": "Active: Soul Burn - Silences the target unit for 5.0 seconds and amplifies the damage it takes by 30.0%.",
+  "notes": "Amplified damage is dealt at the end of the duration as magical damage.",
+  "attrib": "+ 25 Intelligence<br/>+ 30 Attack Speed<br/>+ 30 Damage<br/>+ 150% Mana Regeneration<br/>SOUL BURN INCREASED DAMAGE: 30%<br/>SOUL BURN DURATION: 5",
+  "mc": 100,
+  "cd": 18,
+  "lore": "A garnet rod constructed from the essence of a fire demon.",
+  "components": [
+    "oblivion_staff",
+    "oblivion_staff"
+  ],
+  "created": true
+}

@@ -1,0 +1,60 @@
+[
+    {
+        "dname": "Reflection",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Terrorblade brings forth an invulnerable dark reflection of the targeted enemy hero. The enemy hero is slowed and attacked by the reflection for a short duration.",
+        "notes": "Reflections are untargetable, invulnerable illusions.<br/>Reflections can only attack their source.",
+        "dmg": "",
+        "attrib": "REFLECTION DURATION: <b><font color=\"#ffffff\">2.5/3.5/4.5/5.5</font></b><br/>REFLECTION DAMAGE: <b><font color=\"#ffffff\">40%/60%/80%/100%</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">60%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 22/18/14/10",
+        "lore": "In the fractal prison of Foulfell, Terrorblade learned the truth of this old tale: you are your own worst enemy.  Now it is a lesson he teaches others.",
+        "hurl": "Terrorblade",
+        "name": "terrorblade_reflection",
+        "youtube":"fuym8gNLAr0",
+        "id": 0
+
+    },
+    {
+        "dname": "Conjure Image",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Creates an illusion of Terrorblade that deals damage.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ILLUSION DURATION: <b><font color=\"#ffffff\">32</font></b><br/>ILLUSION DAMAGE: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>ILLUSION DAMAGE TAKEN: <b><font color=\"#ffffff\">425%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "There\u0027s only one thing more dangerous than facing Terrorblade.  Facing MORE Terrrorblades!",
+        "hurl": "Terrorblade",
+        "name": "terrorblade_conjure_image",
+        "youtube":"-b0yMS7uu2g",
+        "id": 1
+
+    },
+    {
+        "dname": "Metamorphosis",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Terrorblade transforms into a powerful demon with a ranged attack.",
+        "notes": "Manta Style\u0027s cooldown time will be based on whether Terrorblade was in his ranged or melee form when the item was used.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">40/44/48/52</font></b><br/>TRANSFORMATION TIME: <b><font color=\"#ffffff\">0.35</font></b><br/>BASE ATTACK TIME: <b><font color=\"#ffffff\">1.6</font></b><br/>ATTACK RANGE: <b><font color=\"#ffffff\">550</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>MOVEMENT SPEED LOSS: <b><font color=\"#ffffff\">25</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 140",
+        "lore": "Temper, temper. The rage rises up and takes control.  Meet Terrorblade\u0027s own worst self.",
+        "hurl": "Terrorblade",
+        "name": "terrorblade_metamorphosis",
+        "youtube":"nGq0lqaBngU",
+        "id": 2
+    },
+    {
+        "dname": "Sunder",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Severs the life from both Terrorblade and a target hero, exchanging a percentage of both units\u0027 current health. Some health points must remain.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "MINIMUM HP SWAP: <b><font color=\"#ffffff\">20%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/100/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/80/40",
+        "lore": "You didn\u0027t need that life, did you?  The demon marauder steals that which you hold most dear.",
+        "hurl": "Terrorblade",
+        "name": "terrorblade_sunder",
+        "youtube":"_r-fKYPSnlw",
+        "id": 3
+    }
+]

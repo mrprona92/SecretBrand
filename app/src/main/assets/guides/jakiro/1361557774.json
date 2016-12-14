@@ -1,0 +1,121 @@
+{
+	"Hero":"jakiro",
+	"Title":"6.82 - Standard Jakiro (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"cyclone",
+				"ghost",
+				"veil_of_discord"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_stick":"(Optional): Purchase wand if the situation dictates so (aggressive casters, constant ganks).",
+				"ghost":"Repel physical carries from targeting or ganking you with Ghost Scepter. It doesn't prevent interrupts such as stuns; but it can keep you alive a little bit longer for Force Staff to come back up.",
+				"ward_observer":"As a support hero, courier or wards are expected to be bought by you. Buy either one.",
+				"courier":"As a support hero, courier or wards are expected to be bought by you. Buy either one.",
+				"mekansm":"Jakiro needs very little items to perform his duties. Carrying Mekansm on him is accepted because of his much-needed additional armor and his ability to stay in the back of fights: safe and sound.",
+				"urn_of_shadows":"Urn of Shadows is an intermittent item for Jakiro where you take advantage of his roaming capabilities and keep allies' health up.",
+				"sheepstick":"Jakiro is often away from the fight and consistently activating his abilities. Scythe of Vyse gives you the much needed mana and disable key enemies that have an important ability you want to delay or outright cancel.",
+				"cyclone":"For added Survivability, movement and mana regeneration: Eul's Scepter works great in-between core and extension. Eul's Scepter has a situational demand where you may want to avoid taking damage or disable an initiator that wants to get the jump on your team.",
+				"force_staff":"Force Staff should be used to escape due to Jakiro's inability to flee or to help with positioning: it's pretty key for Jakiro to get this item.",
+				"ultimate_scepter":"We consider Aghanim's Scepter for Jakiro because of the extra damage and radius it offers as well as it working in conjunction with Veil.",
+				"shivas_guard":"Shiva's Guard minimizes the fear of Jakiro dying given his awful maneuvrability and repel foes from targeting him with his active ability via Shiva's Guard.",
+				"veil_of_discord":"Veil is an amazing item that works well with your massive AOE attacks such as your ultimate and Dual-Breath. Obtain Veil of Discord if you don't think you can afford more expensive items in time or your team is more oriented as magic users."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_liquid_fire",
+			"2":"jakiro_ice_path",
+			"3":"jakiro_liquid_fire",
+			"4":"jakiro_dual_breath",
+			"5":"jakiro_liquid_fire",
+			"6":"jakiro_macropyre",
+			"7":"jakiro_liquid_fire",
+			"8":"jakiro_dual_breath",
+			"9":"jakiro_dual_breath",
+			"10":"jakiro_dual_breath",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_ice_path",
+			"13":"jakiro_ice_path",
+			"14":"jakiro_ice_path",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_dual_breath":"Dual Breath has consistent debuff effects but a great scaling damage. However, given its mana cost, it cannot be abused like your other abilities.
+
+Be wary that it does have a weaker ranger so use it when you are not going to be targeted, by approaching your foes through Force Staff or Ice Path.",
+				"jakiro_ice_path":"Ice Path has a low cooldown that makes it versatile throughout the game. Use Ice Path to catch fleeing foes, interrupt spells and disrupt fights.
+
+It has a small casting delay; so make sure to time them properly.",
+				"jakiro_liquid_fire":"Harass with Liquid Fire as it costs 0 mana and has a decent range for you to abuse. Liquid Fire works on creeps, heroes and towers; so don't be afraid to really take advantage of it to give the early game your favour.",
+				"jakiro_macropyre":"Macropyre works after using Ice Path as you need the time to cast it and trap foes within. Use Macropyre after someone on your team has initiated to make use of its full effect."
+		}
+	}
+}

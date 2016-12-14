@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Fatal Bonds",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Binds several enemy units together, causing 25% of the damage dealt to one of them to be felt by the others.",
+        "notes": "Damage will not disable abilities or items like Blink Dagger which require player based damage.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "ENEMIES BOUND: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>DURATION: <b><font color=\"#ffffff\">25</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 25",
+        "lore": "An ancient incantation that links the vital energies of multiple lifeforms into one collective body.",
+        "hurl": "Warlock",
+        "name": "warlock_fatal_bonds",
+        "youtube":"uRFLMNzJ7Vs",
+        "id": 0
+    },
+    {
+        "dname": "Shadow Word",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Warlock whispers an incantation, healing a friendly unit or damaging an enemy unit over time.",
+        "notes": "A hero affected by Shadow Word may be denied once it falls below 25% of its maximum health.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">15/25/35/45</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">11</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/110/130/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "Demnok\u0027s arcane arts have a myriad of uses, allowing them to be powerful friendly enchantments or damaging curses.",
+        "hurl": "Warlock",
+        "name": "warlock_shadow_word",
+        "youtube":"1ExGT5E8-FE",
+        "id": 1
+    },
+    {
+        "dname": "Upheaval",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "CHANNELED - A powerful slowing current that grows stronger as it\u0027s channelled. Lasts up to 16 seconds.  Enemies are slowed for 3 seconds after leaving the area or the spell ends.",
+        "notes": "The slow increase is based on length of the channel, not the duration an enemy was standing in the area.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">650/650/650/650</font></b><br/>MAX SLOW CHANNEL: <b><font color=\"#ffffff\">12.5/6.5/4.5/3.5</font></b><br/>MAX SLOW: <b><font color=\"#ffffff\">84%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/110/120/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/46/42/38",
+        "lore": "Demnok manipulates space-time, impairing entire armies.",
+        "hurl": "Warlock",
+        "name": "warlock_upheaval",
+        "youtube":"9VHxyxOkHek",
+        "id": 2
+    },
+    {
+        "dname": "Chaotic Offering",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Summons a Golem from the depths, stunning enemies for one second. The Golem lives 60 seconds, takes reduced damage from spells, has Permanent Immolation and Flaming Fists on attack.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Spell Immune units will be stunned.<br/>This ability destroys trees in its area of effect.",
+        "dmg": "",
+        "attrib": "SUMMON BLAST RADIUS: <b><font color=\"#ffffff\">600</font></b><br/>GOLEM HEALTH: <b><font color=\"#ffffff\">900/1200/1500</font></b><br/>GOLEM DAMAGE: <b><font color=\"#ffffff\">75/100/125</font></b><br/>GOLEM ARMOR: <b><font color=\"#ffffff\">6/9/12</font></b><br/>GOLEM HEALTH REGEN: <b><font color=\"#ffffff\">25/50/75</font></b><br/><font color=\"#6fe871\">SCEPTER NUMBER OF GOLEMS:</font></b> <b><font color=\"#ffffff\">2</font></b><br/><font color=\"#6fe871\">SCEPTER GOLEM HEALTH:</font></b> <b><font color=\"#ffffff\">675/900/1125</font></b><br/><font color=\"#6fe871\">SCEPTER GOLEM DAMAGE:</font></b> <b><font color=\"#ffffff\">56/75/94</font></b><br/><font color=\"#6fe871\">SCEPTER BOUNTY REDUCTION:</font></b> <b><font color=\"#ffffff\">50%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/300/400<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 165",
+        "lore": "Demnok unleashes the captive spirit in his Dreadwood staff, causing destruction in enemy ranks.",
+        "hurl": "Warlock",
+        "name": "warlock_rain_of_chaos",
+        "youtube":"LlUYOShkrE0",
+        "id": 3
+    }
+]

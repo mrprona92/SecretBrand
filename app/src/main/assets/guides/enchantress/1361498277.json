@@ -1,0 +1,129 @@
+{
+	"Hero":"enchantress",
+	"Title":"You know what I love? EVERYTHING!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"gauntlets",
+				"gauntlets",
+				"clarity",
+				"tango"
+			],
+			"Early Game Items":
+			[
+				"urn_of_shadows",
+				"boots",
+				"magic_stick",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand"
+			],
+			"Persistent Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll",
+				"dust",
+				"smoke_of_deceit"
+			],
+			"Luxury Items":
+			[
+				"ultimate_scepter",
+				"force_staff",
+				"cyclone",
+				"orchid",
+				"sheepstick",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"The boost of strength from the Gauntlets of Strength is important to boost your low starting health. It also builds well into a commonly bought item (Urn of Shadows).",
+				"boots":"A bit of extra speed is always useful when Enchantress is ganking early game - asserting her dominance in the lane adjacent to her jungle.",
+				"magic_stick":"The burst of mana and health can be just the thing to survive a gank, finish off an enemy, or just simply regenerate some health and mana.",
+				"magic_wand":"Just an upgrade from magic stick - giving it more capacity to give you a large burst of health. It also gives a bit of stats which is always nice for Enchantress.
+",
+				"clarity":"A bit of extra mana regeneration to allow you to continue to use your spells to jungle and gank.",
+				"dust":"Probably the best item to reveal most invisibility heroes, once again step up to buy and use the dust if your team needs it.",
+				"ward_observer":"Every team needs wards on the field - if no one is buying them on your team, take up the role of the warding support.",
+				"ward_sentry":"Sometimes reveal is needed, whether it be to see enemy invisible heroes or to counter-ward when necessary - be sure to buy them when you see the need.",
+				"tango":"Not only do tangos regenerate health, they can also be useful to open up certain spots in the jungle to make jungling, ganking, or escaping easier.",
+				"courier":"As you'll be jungling, you should have some extra gold - either buy the first set of wards or a courier, these items are a must for your team.",
+				"tpscroll":"Soon after the start of the game, never leave the base without a Town Portal Scroll - you can save an ally or make a quick escape from a sticky situation. ",
+				"power_treads":"Extra stats (mostly strength), more attack speed, and more movement speed - everything Enchantress can want.",
+				"flying_courier":"The flying courier is crucial to get items to your allies faster, if your team doesn't have one and you have the gold, be sure to buy the upgrade.",
+				"urn_of_shadows":"A strong item for Enchantress to keep her allies healed up and possibly finish off enemies running away. The item itself gives good mana regeneration and a bit of health. If you don't want to buy this, buy a Ring of Basilius and Bracer instead.",
+				"sheepstick":"A powerful disable and great mix of stats - you can use the heavy disable to take a sizable chunk of a target's health before they can even react.
+
+Take this if you have a lot of gold to spend.
+
+",
+				"orchid":"Overall a strong item to boost the damage output of Enchantress, giving her extra attack speed, damage, and mana regeneration. The silence/amplify is extremely useful to quickly pick off a target.
+
+ Take this if you need to quickly kill a single target.",
+				"cyclone":"A nice mix of utility and stats for Enchantress - not only can it help Enchantress avoid damage at times but it can also put a target out of a fight when she needs it.
+
+Take this item if you need the utility of Cyclone.",
+				"force_staff":"Force Staff not only gives Enchantress an escape mechanism but it also can be used offensively, pushing either Enchantress or the target enemy away after an Impetus in order to do more damage on the last throw of Impetus.
+
+Take this if you feel like you need the utility from Force.",
+				"necronomicon":"Necronomicon minions can help push very effectively with they're movement speed buff. Alongside that the invisible reveal can make sure no enemy heroes are hiding waiting for a deny on a tower and the self destruct passive can deter the use of anti-push skills.
+
+Take this if you want to push harder",
+				"ultimate_scepter":"A nice item to help Enchantress stay in a safe position and not be in danger while still doing damage.
+
+Take this item if your team needs more damage.",
+				"smoke_of_deceit":"Smoke of Deceit can help pull off ganks quickly and effectively, not only does it turn you invisible to move past wards it also effects your allies and controlled neutral creeps. If you see a chance to use smoke, go ahead and buy it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_enchant",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_enchant",
+			"6":"enchantress_impetus",
+			"7":"enchantress_enchant",
+			"8":"enchantress_natures_attendants",
+			"9":"enchantress_natures_attendants",
+			"10":"enchantress_untouchable",
+			"11":"enchantress_impetus",
+			"12":"enchantress_untouchable",
+			"13":"enchantress_untouchable",
+			"14":"enchantress_untouchable",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"Untouchable is a strong defensive passive for Enchantress to defend against auto-attacking sources of damage. Although usually leveled last, some levels of it can be taken earlier if necessary - swap the points with Nature's Attendants. It can also be completely skipped in a game if you prefer stats",
+				"enchantress_enchant":"The most important skill in Enchantress's arsenal giving her the important ability to jungle and gank heavily - be sure to level it as quickly as possible as it does not have a downside to leveling. Use it often to jungle and gank.",
+				"enchantress_natures_attendants":"An extremely strong healing skill in the form of a heal over time. This can effect allied units around you but the overall heal will be weaker for each single unit. Level this when you have the extra skill points as its great to healing large chunks of health.",
+				"enchantress_impetus":"Impetus gives Enchantress the ability to put out a lot of pure damage - when used properly (positioning and orb-walking), it allows her to dish out a lot of damage extremely quickly while focusing on staying farther away from enemies.",
+				"attribute_bonus":"Stats can be taken instead of Untouchable if you need the extra stats to compensate for the low stat gain of Enchantress - otherwise, take it when you have no other skills to level."
+		}
+	}
+}

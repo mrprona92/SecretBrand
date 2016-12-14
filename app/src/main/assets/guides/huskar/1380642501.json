@@ -1,0 +1,94 @@
+{
+	"Hero":"huskar",
+	"Title":"Nice Huskar",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"boots"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"helm_of_the_dominator",
+				"armlet"
+			],
+			"coreItems":
+			[
+				"heart",
+				"greater_crit",
+				"satanic",
+				"rapier"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"monkey_king_bar",
+				"invis_sword",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Скорость, самособой.",
+				"tango":"Хил, немного",
+				"power_treads":"Ставьте на здоровье - вы силовик!",
+				"mekansm":"Если дело дрянь",
+				"ultimate_scepter":"Я лично никогда с этим не играл, но говорят помогает.",
+				"heart":"Обязательно собирать - вы будете неубиваемым",
+				"rapier":"Если вы никогда не сливаетесь - это для вас.",
+				"monkey_king_bar":"Что бы никогда не косить!",
+				"greater_crit":"Криты, полезен на поздних этапах игры.",
+				"armlet":"Может спасти вас при low hp. Ну а так же доп урон и скорость.",
+				"invis_sword":"Что бы рвать жопу противнику из инвиза.",
+				"satanic":"Отхил прям под вонтаном - очень полезен.",
+				"helm_of_the_dominator":"Вампиризм, но работает только на обычных копиях."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_burning_spear",
+			"4":"huskar_berserkers_blood",
+			"5":"huskar_burning_spear",
+			"6":"huskar_life_break",
+			"7":"huskar_berserkers_blood",
+			"8":"huskar_burning_spear",
+			"9":"huskar_berserkers_blood",
+			"10":"huskar_inner_vitality",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"Отхил, полезен если на высоких уровнях.",
+				"huskar_burning_spear":"гнабите противников",
+				"huskar_berserkers_blood":"Собственно, ваша ярость!",
+				"huskar_life_break":"Прыгаете, и у вашего противника нету 45% hp и получаете сами урон, но он вам сильно помогает с яростью."
+		}
+	}
+}

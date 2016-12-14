@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Poison Touch",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Накладывает отравляющее заклинание на вражеского юнита, которое постепенно замедляет и наносит урон.<br/><font color=\"#ffb2ff\">1 УРОВЕНЬ</font> — Замедляет цель на 33% на 3 секунды.<br/><font color=\"#ff99ff\">2 УРОВЕНЬ</font> — Замедляет цель на 33% на 2 секунды, затем на 66% на 1 секунду.<br/><font color=\"#ff66ff\">3 УРОВЕНЬ</font> — Последовательно замедляет на 33%, 66%, и 100% каждую секунду.<br/><font color=\"#ff33ff\">4 УРОВЕНЬ</font> — Замедляет цель на 33% на 1 секунду, затем на 66% на 1 секунду, затем оглушает на 1 секунду.",
+        "notes": "Урон не уменьшается способностями, блокирующими урон.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">14/20/26/36</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">3</font></b><br/>ДЛИТЕЛЬНОСТЬ УРОНА: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/115/130/145<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/13/11/7",
+        "lore": "Это одно из немногих заклинаний культа Дезун, направленное непосредственно на нанесение урона врагу. Паралитический яд оказывается очень полезным в бою.",
+        "hurl": "Dazzle",
+        "name": "dazzle_poison_touch",
+        "youtube":"iNu7gMUOovI",
+        "id": 0
+    },
+    {
+        "dname": "Shallow Grave",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Союзник, находящийся под защитой Shallow Grave, не может умереть независимо от того, как он близок к смерти.",
+        "notes": "Уровень здоровья юнита под действием этой способности не может опуститься ниже единицы, но Axe может убить его заклинанием Culling Blade.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5/5/5/5</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">550/700/850/1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 140/130/120/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/45/30/15",
+        "lore": "Только могущественный послушник культа Теней способен обмануть саму смерть.",
+        "hurl": "Dazzle",
+        "name": "dazzle_shallow_grave",
+        "youtube":"iW-w1R0pcZI",
+        "id": 1
+    },
+    {
+        "dname": "Shadow Wave",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Выпускает мощный заряд, который передается от союзника к союзнику и наносит урон противникам, находящимся неподалеку. Способность всегда лечит самого Dazzle.",
+        "notes": "Лечит сначала героев, и уже потом — крипов.<br/>Если враг находится рядом с несколькими союзниками под действием этой способности, он может получить урон несколько раз.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/100/120/140</font></b>",
+        "attrib": "РАДИУС ПЕРЕДАЧИ: <b><font color=\"#ffffff\">475</font></b><br/>РАДИУС УРОНА: <b><font color=\"#ffffff\">185</font></b><br/>МАКС. ЦЕЛЕЙ: <b><font color=\"#ffffff\">4/5/6/7</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/10/8/6",
+        "lore": "Shadow Wave — одно из самых простых заклинаний, известных жрецу теней, однако оно же — одно из самых эффективных.",
+        "hurl": "Dazzle",
+        "name": "dazzle_shadow_wave",
+        "youtube":"hiqYtx3MNck",
+        "id": 2
+    },
+    {
+        "dname": "Weave",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "С течением времени увеличивает у дружественных и уменьшает у вражеских героев броню в выбранном радиусе.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Действие заклинания не прекратится, если выйти из области его применения.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">575/575/575</font></b><br/>БРОНИ ЗА СЕКУНДУ: <b><font color=\"#ffffff\">0.75/1/1.25</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">24</font></b><br/><font color=\"#6fe871\">РАДИУС СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">775/775/775</font></b><br/><font color=\"#6fe871\">БРОНИ ЗА СЕКУНДУ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">1.25/1.5/1.75</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 40",
+        "lore": "Познания, приобретенные Dazzle на эфирном плане Нотл, позволяют магу создать заклинание, комбинирующее силы света и тьмы — создавая противоположно направленные волны защиты, маг усиляет союзников и ослабляет врагов.",
+        "hurl": "Dazzle",
+        "name": "dazzle_weave",
+        "youtube":"kobWMCcOQLc",
+        "id": 3
+    }
+]

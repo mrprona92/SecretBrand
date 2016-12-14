@@ -1,0 +1,75 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Necrolyte - The Pope Of Pestilence",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"clarity",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"headdress",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"pipe",
+				"ultimate_scepter",
+				"radiance",
+				"heart"
+			],
+			"Без имени":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_heartstopper_aura",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_heartstopper_aura",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_sadist",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

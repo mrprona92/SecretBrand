@@ -1,0 +1,117 @@
+{
+	"Hero":"alchemist",
+	"Title":"Better living through Alchemy!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"invis_sword",
+				"mjollnir"
+			],
+			"Situational Items - Carry":
+			[
+				"armlet",
+				"radiance",
+				"assault",
+				"black_king_bar",
+				"desolator",
+				"monkey_king_bar",
+				"vladmir"
+			],
+			"Situational Items - Initiator/Support":
+			[
+				"vladmir",
+				"pipe",
+				"ancient_janggo",
+				"blink",
+				"mekansm"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A possible option instead of Lothar's for a quick blink stun combo.",
+				"quelling_blade":"Quelling blade is good for a couple of things: interesting jukes, extra last hitting power for both creep kills and denies. That extra 20+ damage a hit on creeps gives you another degree of precision for getting your last hits.",
+				"stout_shield":"The Stout Shield is to protect against those guys getting in the random physical attacks like Windrunner or Lich or another ranged hero.",
+				"branches":"The 3 branches are some necessary padding for when your levels don't net you many stat gains.",
+				"magic_wand":"Wand is super burst heal and mana regen in a pinch.",
+				"flask":"Great for the burst heal after getting to near death.",
+				"tango":"A great heal over time while in the lane.",
+				"phase_boots":"Phase boots grants an MS boost that stacks with your ult and damage, which your ult doesn't grant. FINALLY, NEW SHOES!",
+				"mekansm":"Provides great stats for Alchemist while giving a heal and armor buff to allies.",
+				"vladmir":"Vladmir's Offering is a great choice for any team. It's team mana regen, armor, damage, and lifesteal for melee heroes including yourself. Buy this when you have 2-3 melee carries.
+",
+				"pipe":"Pipe's mass-Barrier is great for softening the first wave of enemy nukes, and thanks to Rage the manacost is a non-issue. The bonuses given to Alch are also worthwhile, granting him great survivability against spells and HP regen to continue on longer pushes.",
+				"urn_of_shadows":"Urn provides solid bonuses that every Alch should take advantage of. The strength bonus allows you to substitute this for a bracer, and the mana regen more than covers Shake usage. The active ability is the big deal; as a strong disabler/ganker, you will always be there to get the charge.",
+				"assault":"The incredible boost to attackspeed, combined with your low BAT from Rage helps your attacks' DPS surpass all but the hardest and most fed carries. At the same time your armor auras (aka Circle of Power aura) will have your opponents panicking and your allies loving.",
+				"black_king_bar":"If your biggest problem is dealing with big spells/stuns, you can take full advantage of the BKB, and it gives a good damage boost on top of that. ",
+				"monkey_king_bar":"Monkey King Bar is a useful pickup against carries that have built evasion or blinds. The bash is also great for locking down enemies.",
+				"radiance":"Radiance is always nice on Alch and complements your abilities well, and it adds punch to your naturally fast attacks and its AoE damage stacks with Acid Spray.",
+				"armlet":"Alch is a natural Armlet user. He greatly benefits from its basic bonuses (especially the 5 armor) and Rage helps negate the degen caused by Unholy Strength. This item is what will make you a great midgame DPSer, and mark you as a threat.",
+				"invis_sword":"Lothars has become a powerful option for Alchs wanting insane initiation power. Bear in mind, however, that as he only packs usually 1 single-target stun, that its usage will mostly be regulated to ganks. Still, a highly useful item and deadly when gotten early. Shake and then activate lothar's.",
+				"mjollnir":"It gives you a solid attack speed to finally take advantage of your low BAT. I'll grant that you only get one Chain Lightning per second. But with your new BAT, you will get one at least every 1.5 seconds; I guarantee it.",
+				"desolator":"Desolator has a nifty side effect; it stacks with your Acid Spray. This gives you a deadly -12 armor on your targets; they are gonna feel every hit you land, especially any squishy INT heroes. Usually you will buy this over Mjollnir but stacking them is sometimes useful.",
+				"ancient_janggo":"Drums provide great stats and a aura for yourself and the team. Pick this up if no one else is going to."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_goblins_greed",
+			"3":"alchemist_unstable_concoction",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_unstable_concoction",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_unstable_concoction",
+			"8":"alchemist_acid_spray",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_acid_spray",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_goblins_greed",
+			"13":"alchemist_goblins_greed",
+			"14":"alchemist_goblins_greed",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Acid Spray is a great utility power. It provides armor reduction, damage over time (DoT), and effects a HUGE area. This ability never loses value and increases the damage output of everyone. Throw it out at the start of a battle.",
+				"alchemist_unstable_concoction":"Alch's signature, and usually the one most people underrate. This power is the one that requires the best instincts of timing to be devastating. The ability is a stun-nuke, and is unique in its application due to its charge-up time.",
+				"alchemist_goblins_greed":"The ultimate farming ability. And if you manage to get a good score while farming, say 3-1 or even 2-0, you'll probably be the first one to finish your items on the board. That allows you to leave the lane to your carry and roam. Believe me, nothing is scarier than an mia Alch.",
+				"alchemist_chemical_rage":"This has a low cooldown and long duration as far as most ultimates go, but you should be cautious while this is on cooldown. Without this active, you are one of the squishiest heroes in the game. While active, you have the potential for causing absolute havoc within the other team's ranks."
+		}
+	}
+}

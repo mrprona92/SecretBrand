@@ -1,0 +1,93 @@
+{
+	"Hero":"tidehunter",
+	"Title":"Savvy - Tidehunter support/initiator",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ward_observer",
+				"courier",
+				"gauntlets",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"chainmail",
+				"refresher"
+			],
+			"luxury":
+			[
+				"assault",
+				"blink",
+				"pipe",
+				"heart",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"if you getting in is hard... this is not core no matter what people think unless in pro games",
+				"chainmail":"cheap and survivabilty",
+				"gauntlets":"before your kraken and levels you are kind of squishy",
+				"branches":"filler",
+				"ward_observer":"if you need to get them get them",
+				"courier":"if nobody else gets you get",
+				"pipe":"if they have massive spells",
+				"refresher":"if you can afford ulting then waiting a few seconds and ulting again is devastating",
+				"assault":"very nice to have for the tankability and since your alive forever the debuff is up the whole fight",
+				"heart":"if your rich and you really need",
+				"blade_mail":"if you are the focus and you have your other imporant items this makes them think twice about trying to take you down as you will already be too strong"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_anchor_smash",
+			"3":"tidehunter_gush",
+			"4":"tidehunter_kraken_shell",
+			"5":"tidehunter_gush",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_anchor_smash",
+			"8":"tidehunter_gush",
+			"9":"tidehunter_anchor_smash",
+			"10":"tidehunter_anchor_smash",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tidehunter_gush":"good nuke and good slow early game. save your mana for these",
+				"tidehunter_kraken_shell":"get a quick level to keep yourself up in lane",
+				"tidehunter_anchor_smash":"alot of people think its cute to level this with gush and try to nuke people. pro tip your mana will no support it and your not there to nuke. your gush needs to be bursty and this is merely there for the debuff at this level.",
+				"tidehunter_ravage":"You want this at the standard, if you go refresher. Ult and wait a few seconds before you ult again.. depending on your mana pool you can gush and anchor in between and will most likely need to pop ur arcane.. DO NOT DOUBLE ULT WHILE THEY ARE STILL STUNNED FROM FIRST ULT"
+		}
+	}
+}

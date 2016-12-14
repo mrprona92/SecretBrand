@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Echo Stomp",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, прерываемая</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Elder Titan и его дух сотрясают землю, нанося урон и оглушая врага до бессознательного состояния. Этой способностью Elder Titan наносит физический урон, в то время как его дух наносит магический урон.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ВРЕМЯ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1.6</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">475</font></b><br/>ДЛИТЕЛЬНОСТЬ СНА: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>УРОН ОТ STOMP: <b><font color=\"#ffffff\">80/90/100/110</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14/13/12/11",
+        "lore": "Мощь созидания до сих пор отражается эхом в топоте Elder Titan.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_echo_stomp",
+        "youtube":"yBDyBbeVK0k",
+        "id": 0
+    },
+    {
+        "dname": "Astral Spirit",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Elder Titan призывает астрального духа, который наносит урон каждому врагу, сквозь которого он проходит. При воссоединении с Титаном дух дарует ему дополнительный урон и скорость передвижения за каждого раненного им врага. <br/>Дух также обладает способностями Echo Stomp, Return Spirit и Natural Order.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">275</font></b><br/>УРОН: <b><font color=\"#ffffff\">60/90/120/150</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">8</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА: <b><font color=\"#ffffff\">9</font></b><br/>БОНУС К СКОРОСТИ (КРИПЫ): <b><font color=\"#ffffff\">1%</font></b><br/>БОНУС К СКОРОСТИ (ГЕРОИ): <b><font color=\"#ffffff\">5%</font></b><br/>БОНУС К УРОНУ (КРИПЫ): <b><font color=\"#ffffff\">3/6/9/12</font></b><br/>БОНУС К УРОНУ (ГЕРОИ): <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/110/110/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16",
+        "lore": "Так же, как и четыре основы, Elder Titan существует во всех мирах одновременно, и может призывать другие свои сущности тогда, когда ему это нужно.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_ancestral_spirit",
+        "youtube":"OUUqiie5-Z8",
+        "id": 1
+    },
+    {
+        "dname": "Natural Order",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Понижает все показатели до их начального уровня, снижая базовый показатель брони и сопротивление магическому урону ближайших врагов.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>СНИЖЕНИЕ ОСН. БРОНИ: <b><font color=\"#ffffff\">40%/60%/80%/100%</font></b><br/>СНИЖЕНИЕ СОПРОТИВЛЕНИЯ: <b><font color=\"#ffffff\">12%/19%/26%/33%</font></b>",
+        "cmb": "",
+        "lore": "Elder Titan приводит все к первоначальному состоянию.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_natural_order",
+        "id": 2
+    },
+    {
+        "dname": "Return Astral Spirit",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Вернуть дух обратно к Elder Titan.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_return_spirit",
+        "youtube":"ql8H5QjhygM",
+        "id": 3
+    },
+    {
+        "dname": "Earth Splitter",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Elder Titan раскалывает землю впереди себя. После трех секунд трещина взрывается, замедляя всех врагов, которые попали в область действия способности, и нанося им урон в зависимости от их максимального показателя здоровья.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ЗАДЕРЖКА ПЕРЕД ВЗРЫВОМ: <b><font color=\"#ffffff\">3.14</font></b><br/>ШИРИНА ТРЕЩИНЫ: <b><font color=\"#ffffff\">300</font></b><br/>ДЛИНА ТРЕЩИНЫ: <b><font color=\"#ffffff\">2400</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">30%/40%/50%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">3/4/5</font></b><br/>УРОН ОТ МАКС. ЗДОРОВЬЯ: <b><font color=\"#ffffff\">35%</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ/РАЗОРУЖЕНИЯ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 175/175/175<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 100",
+        "lore": "Титан разрывает в клочья всё, что создал до этого.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_earth_splitter",
+        "youtube":"OWI9tNGa6dQ",
+        "id": 4
+    }
+]

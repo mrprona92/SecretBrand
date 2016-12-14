@@ -1,0 +1,77 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"GreyShark.Wraith King",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"Early Game":
+			[
+				"power_treads",
+				"armlet",
+				"black_king_bar"
+			],
+			"Mid Game":
+			[
+				"basher",
+				"assault"
+			],
+			"Late Game":
+			[
+				"abyssal_blade",
+				"heart"
+			],
+			"Situation":
+			[
+				"rapier",
+				"skadi",
+				"refresher"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_vampiric_aura",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_mortal_strike",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

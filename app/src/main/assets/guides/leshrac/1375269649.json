@@ -1,0 +1,87 @@
+{
+	"Hero":"leshrac",
+	"Title":"NevL - Leshrac",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"flask",
+				"tango",
+				"clarity",
+				"courier",
+				"ward_observer"
+			],
+			"Early game":
+			[
+				"arcane_boots",
+				"ring_of_basilius",
+				"bloodstone"
+			],
+			"Mid game":
+			[
+				"ultimate_scepter",
+				"shivas_guard"
+			],
+			"Late game":
+			[
+				"black_king_bar",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situation":
+			[
+				"cyclone",
+				"radiance",
+				"veil_of_discord",
+				"force_staff",
+				"blink",
+				"invis_sword",
+				"sphere",
+				"heavens_halberd",
+				"heart",
+				"mekansm",
+				"pipe",
+				"ancient_janggo"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_diabolic_edict",
+			"4":"leshrac_split_earth",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"leshrac_pulse_nova",
+			"10":"leshrac_lightning_storm",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_lightning_storm",
+			"14":"leshrac_lightning_storm",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

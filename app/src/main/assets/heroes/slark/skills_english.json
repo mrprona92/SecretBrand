@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Dark Pact",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "After a short delay, Slark sacrifices some of his life blood, purging most negative debuffs and dealing damage to enemy units around him and to himself.  Slark only takes 50% of the damage.",
+        "notes": "1.5 seconds after cast, a series of 10 pulses separated by 0.1 seconds deal the damage.<br/>Each pulse also removes buffs from Slark.<br/>You can\u0027t kill yourself with this skill.<br/>The pulses stop if Slark dies.",
+        "dmg": "",
+        "attrib": "DELAY: <b><font color=\"#ffffff\">1.5</font></b><br/>RADIUS: <b><font color=\"#ffffff\">325</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 55/50/45/40<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 9/8/7/6",
+        "lore": "Slithereen are capable of quickly regrowing appendages, in case of critical injury, to save their own lives.",
+        "hurl": "Slark",
+        "name": "slark_dark_pact",
+        "youtube":"OHGQ_BUhySI",
+        "id": 0
+    },
+    {
+        "dname": "Pounce",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Slark leaps forward, grabbing the first hero he connects with.  That unit takes damage and is leashed to Slark, and can only move a limited distance away from Slark\u0027s landing position.",
+        "notes": "On cast, Slark leaps forward at a speed of 933.33, stopping when he latches onto an enemy hero or has traveled 700 distance.<br/>Spell Immune units cannot be leashed.<br/>Trees will be destroyed around Slark\u0027s landing location.<br/>Blinking or teleporting can break the leash.",
+        "dmg": "",
+        "attrib": "DISTANCE: <b><font color=\"#ffffff\">700</font></b><br/>POUNCE DAMAGE: <b><font color=\"#ffffff\">50/100/150/200</font></b><br/>LEASH DURATION: <b><font color=\"#ffffff\">3.5</font></b><br/>LEASH RADIUS: <b><font color=\"#ffffff\">325</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/75/75/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/16/12/8",
+        "lore": "Time in the Dark Reef made Slark a dangerous assassin; aggressive and fearless.",
+        "hurl": "Slark",
+        "name": "slark_pounce",
+        "youtube":"opGqZyhkBYw",
+        "id": 1
+    },
+    {
+        "dname": "Essence Shift",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Slark steals the life essence of enemy heroes with his attacks, draining each of their attributes and converting them to bonus Agility.",
+        "notes": "Attributes cannot be dropped below 1.<br/>Essence Shifted stats are returned to normal on death. The stat return for Slark and for the affected hero are separate.",
+        "dmg": "",
+        "attrib": "AGILITY GAINED: <b><font color=\"#ffffff\">3</font></b><br/>ALL ATTRIBUTE LOSS: <b><font color=\"#ffffff\">1</font></b><br/>DURATION: <b><font color=\"#ffffff\">15/30/60/120</font></b>",
+        "cmb": "",
+        "lore": "With each strike at his adversaries, Slark\u0027s knowledge of their weaknesses improves.",
+        "hurl": "Slark",
+        "name": "slark_essence_shift",
+        "youtube":"60HPDokFuvU",
+        "id": 2
+    },
+    {
+        "dname": "Shadow Dance",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "When used, Slark hides himself in a cloud of shadows, becoming immune to detection. Attacking, casting spells, and using items will not reveal Slark.  Passively, when not visible to the enemy team, Slark gains bonus movement speed and health regeneration.",
+        "notes": "If Slark is damaged by a neutral unit, the passive movement and health regeneration bonuses are lost for 2 seconds.<br/>The passive movement and health regeneration bonuses have a 0.5 second activation and deactivation delay.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">4</font></b><br/>BONUS MOVEMENT SPEED: <b><font color=\"#ffffff\">30%/35%/40%</font></b><br/>HEALTH GAINED PER SECOND: <b><font color=\"#ffffff\">3%/5%/7%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60",
+        "lore": "The hidden Thirteenth is a slippery foe.",
+        "hurl": "Slark",
+        "name": "slark_shadow_dance",
+        "youtube":"k8jpsm0VhGk",
+        "id": 3
+    }
+]

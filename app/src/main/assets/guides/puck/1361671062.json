@@ -1,0 +1,98 @@
+{
+	"Hero":"puck",
+	"Title":"Did you try to elude me?",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"mantle",
+				"mantle",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"dagon",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"blink"
+			],
+			"Luxury Items":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"shivas_guard"
+			],
+			"If you Random:":
+			[
+				"bottle"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger is Puck's bread and butter. Why? Because phase shift (level 4) lasts longer than blink dagger's cooldown from being hit. This means if you are caught out, you can phase, then blink to safety! NOTE: you will still have to turn when you try to blink, so it's not perfect. But it's close!",
+				"mantle":"Mantle is a must for Puck. The added base attack damage is good and it's the first step towards your dagon. What's not to love? ALT NOTE: Puck is very squishy. As such, consider getting a gauntlet instead of a second mantle, since the health is very nice.",
+				"branches":"You've got more space, you've got more money. Time for an iron branch! Feel free to sell it if you need the space, but you want to go out into lane with as much as you can carry!",
+				"clarity":"Puck's abilities eat his mana as fast as any other hero. But since you'll be ganking, harassing and such, you'll likely run out of mana. That's when a clarity is your best friend. NOTE: If you randomed Puck, you should opt for a bottle over the clarity.",
+				"flask":"ALT NOTE:While salves are good, you can opt for another stack of tangos if you are planing to do a lot of harass, as tangos cost less. Go with a salve for those awkward situations. Don't forget to pop it!",
+				"bottle":"Bottle is one of the strongest items for any mid-lane hero. It's not entirely worth it if you don't random, but with the extra gold from randoming, you can afford your other starting items as well. Note that bottle refills when you go back to base, or when you pick up a rune. ITS OP!",
+				"tango":"Tangos are a must on anyone, and as Puck you should be willing to take a little harrass to dish out some pain of your own. ",
+				"phase_boots":"The mobility offered by phase boots gives Puck the speed he needs to really gank well. That said, they should be a secondary priority to dagon. (though you should get level 1 boots early as well) ALT NOTE: Phase boots are expensive.  They are a non-integral part of this build, so experiment!",
+				"sheepstick":"Scythe of Vice is good on anyone. So, obviously, Puck is no exception. It's expencive, and it doesn't give anything in particular that synergizes with Puck, so it shouldn't be a priority. If you've got extra cash, it doesn't hurt...",
+				"dagon":"Dagon is the centerpiece of my build. Getting it as early as possible will make your ganks exceptionally deadly. With the gold you earn, you'll be able to build nice late-game items. and disrupt the enemy team, giving your carry time to farm. DO NOT UPGRADE DAGON UNLESS YOU'RE REALLY STOMPING.",
+				"ultimate_scepter":"Scepter on Puck is a bit lackluster. While the bonus is noticable, by the time you get a scepter after blink dagger and dagon, it'll be past your prime. If you've got lots of cash laying around, feel free to pick it up. Youre team will thank your for the extra team-fight potential.",
+				"shivas_guard":"As much as I love Shiva's, it is expensive. It's good because you, as Puck, will be getting into the middle of the enemy team a lot. It's bad because of the cost. As with the other luxury items, by the time you can get this, it'll be past your prime. If you can afford one, your team will thank you."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_phase_shift",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"Orb is Puck's harass and his escape. Careful planing as to when to use it for both purposes is essential. Since this build is all about early-game ganking, it is important to max orb first. As your primary damage dealing ability, you're going to want it in lane.",
+				"puck_waning_rift":"Rift is a very strong nuke, but it lacks the utility that Orb does. The silence becomes very significant. Max this second so that you have maximum burst damage while you are ganking. You don't really need to upgrade your phase shift too much until you get your blink dagger.",
+				"puck_phase_shift":"Phase shift is what makes Puck's play style work. Since it doesn't cost anything, use it to dodge spells or tower shots. You should max this around the time you get a blink dagger, so that you can escape. Before that, throw your orb BEFORE shifting, so that you can instantly get out of danger.",
+				"puck_ethereal_jaunt":"Because I can",
+				"puck_dream_coil":"Coil is an amusing abilitiy. It's obviously most effective in team-fights, and allows Puck to stay relevent even later game. Early on, though, you shouldn't be stingy with it. If you can get a kill, grab that kill, it'll put you closer to your dagon and blink dagger.",
+				"attribute_bonus":"If you aren't sure when you are supposed to be getting stats, I'll give you a hint: it's the same for most heros.
+Still don't know? YOU SHOULDN'T BE PLAYING PUCK."
+		}
+	}
+}

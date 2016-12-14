@@ -1,0 +1,69 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "bounty_hunter_wind_walk",
+        "2": "bounty_hunter_jinada",
+        "3": "bounty_hunter_shuriken_toss",
+        "4": "bounty_hunter_shuriken_toss",
+        "5": "bounty_hunter_wind_walk",
+        "6": "bounty_hunter_track",
+        "7": "bounty_hunter_wind_walk",
+        "8": "bounty_hunter_wind_walk",
+        "9": "bounty_hunter_jinada",
+        "10": "bounty_hunter_jinada",
+        "11": "bounty_hunter_track",
+        "12": "bounty_hunter_jinada",
+        "13": "bounty_hunter_shuriken_toss",
+        "14": "bounty_hunter_shuriken_toss",
+        "15": "attribute_bonus",
+        "16": "bounty_hunter_track",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "bounty_hunter_track": "The reason why bounty hunter doesn\u0027t to farm as much is this right here. Before a fight starts try to track as many heroes possible with those with invis being the priority.",
+        "bounty_hunter_shuriken_toss": "Your main nuke. Has a high mana cost and increases as you level it up so we only get two points of due to the weird scaling. Always use it to cancel TPs  or any chanelling skills.",
+        "bounty_hunter_wind_walk": "Main escape and enagaging skill. Has bonus damage on hit so try to hit an enemy then tracking him. If the lane is hard try your best to just exp sap the lane and not die. Be wary of enemy inventory if they drop sentries.",
+        "bounty_hunter_jinada": "Great passive which allows you to burst down squishies and slow them for more auto attacks in between. Use it to last creeps early on and if you want to harrass the supports use wind walk first.",
+        "attribute_bonus": "Stats are stats."
+    }
+}, "Hero": "bounty_hunter", "ItemBuild": {
+    "ItemTooltips": {
+        "ward_sentry": "Buy these and give one to your safelane to deward any blocks. Use the other one to either deward sentries dropped or extend the ward block",
+        "ward_observer": "Ask one from your support for you to block the pull camp.",
+        "flask": "Use this to stay in the lane further. only use wben you have lost more than 400 hp",
+        "tango_single": "Ask your support to give you two.",
+        "stout_shield": "To lessen harras from supports. ",
+        "poor_mans_shield": "Poorman\u0027s will ensure that the support\u0027s autos don\u0027t hurt and +6 damage helps with las hitting.",
+        "phase_boots": "Ideal boots for bh. You can phase then invi because of the fade time. Adds damage and speed to escape or chaae enemies.",
+        "urn_of_shadows": "Since you will be ganking a lot an urn is a good pickup, but note only one urn is allowed  per team.",
+        "magic_wand": "Stats and amazing active will help you in most situations either a save or quick burst of mana for 1 more shuriken toss",
+        "tpscroll": "Always bring a TP scroll since you will be ganking and roaming. Buy two at base so you still have one whem you tp. When a lane is dived tp at once.",
+        "desolator": "Deso is somewhat core on Bounty. Damage plus -armor melts supports easily.",
+        "orchid": "Orchid solves Bounty\u0027s mana problems and gives a great active for those with escapes like magina, qop, storm, etc.",
+        "black_king_bar": "BKB is comes into place when the enemy has a lot of disables and it makes it easier to walk up to your target.",
+        "vladmir": "You are not the main carry and buying vladas for your meele carry is a good choice if he needs life steal.",
+        "ancient_janggo": "Drums are a good pickup for pushing and give you decent stats for its price. Buy it when you feel you need pushing power",
+        "bottle": "Getting a bottle is optional if your midlaner doesn\u0027t have one. Since you will be ganking you will often pas",
+        "soul_ring": "Soul ring gives you the ability to spam shuriken toss to force supports out of the lane or potentially kill them. But due to bh\u0027s low hp pool it is risky.",
+        "medallion_of_courage": "Medallion is poor man\u0027s deso. No damage just the debuff. Good if you\u0027re falling behind",
+        "monkey_king_bar": "MKB will give you +88 damage and ignores evasion. The raw damage is what we aim for since bh isn\u0027t really much of an autoattacker.",
+        "bfury": "Although battlefury gives bh both damage and mana regen, I\u0027m afraid that batfu is only for farmers and bh isn\u0027t really looking to farm the whole game.",
+        "manta": "The stats are mediocre for bh and illus won\u0027t really help you kill enemies. ",
+        "basher": "BH is not an autoattacker and will have a very low chance of procing bashes.",
+        "sange_and_yasha": "Just no."
+    },
+    "Items": {
+        "Starting items": ["tango_single", "tango_single", "flask", "stout_shield", "ward_sentry", "ward_observer"],
+        "Laning": ["poor_mans_shield", "phase_boots", "urn_of_shadows", "magic_wand"],
+        "Mid Game": ["tpscroll", "desolator", "orchid", "black_king_bar"],
+        "Situational": ["vladmir", "ancient_janggo", "bottle", "soul_ring", "medallion_of_courage", "monkey_king_bar"],
+        "Rejected items": ["bfury", "manta", "basher", "sange_and_yasha"]
+    }
+}, "Title": "Detailed offlane Bounty Hunter"}

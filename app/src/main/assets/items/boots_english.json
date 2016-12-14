@@ -1,0 +1,15 @@
+{
+  "dotaId": "boots",
+  "attrib": "+ 50 Movement Speed",
+  "cd": false,
+  "qual": "component",
+  "notes": "",
+  "desc": "Flat movement speed bonuses from multiple pairs of boots do not stack.",
+  "dname": "Boots of Speed",
+  "mc": false,
+  "img": "boots_lg.png",
+  "lore": "Fleet footwear, increasing movement.",
+  "id": 29,
+  "created": false,
+  "cost": 450
+}

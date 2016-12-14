@@ -1,0 +1,55 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "abaddon_aphotic_shield",
+        "2": "abaddon_frostmourne",
+        "3": "abaddon_aphotic_shield",
+        "4": "abaddon_frostmourne",
+        "5": "abaddon_death_coil",
+        "6": "abaddon_borrowed_time",
+        "7": "abaddon_aphotic_shield",
+        "8": "abaddon_frostmourne",
+        "9": "abaddon_aphotic_shield",
+        "10": "abaddon_frostmourne",
+        "11": "abaddon_borrowed_time",
+        "12": "abaddon_death_coil",
+        "13": "abaddon_death_coil",
+        "14": "abaddon_death_coil",
+        "15": "attribute_bonus",
+        "16": "abaddon_borrowed_time",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "abaddon_death_coil": "Ценой своего здоровья мы наносим небольшой урон врагу, либо лечим союзника.",
+        "abaddon_aphotic_shield": "Щит, поглащающий некоторое количество урона, после, взрывается и наносит этот же урон в радиусе 675.",
+        "abaddon_frostmourne": "Пассивная способность, которая поможет в ганках. Замедляет противника, и увеличивает скорость атаки, тех кто атакует цель.",
+        "abaddon_borrowed_time": "Скилл, делающий нас  неуязвимыми. Он активируется, если у Абаддона менее 400 хп, либо вручню.\nЛюбой урон будет нас лечить, благодарю этому мы можем заходить под чужой фонтан и лечиться, не умирая."
+    }
+}, "Hero": "abaddon", "ItemBuild": {
+    "ItemTooltips": {
+        "quelling_blade": "Улучшит фарм.",
+        "phase_boots": "Выбираем эти сапоги, помогут убивать противников/уходить от них.",
+        "tango": "Небольшая лечилка.",
+        "orb_of_venom": "Неплохо замедляет противника, хорошо сочитается с Sange и 3 скиллом Абаддона.",
+        "mask_of_madness": "МОМ - отличный предмет для Абаддона. Пассивно даст нам вампиризм, а активируя его и включая ульт, Абаддон лечится быстрее от любого урона, и дает нам огромную скорость атаки.",
+        "basher": "У нас нет дизейбла, поэтому быстрее фармим на башер.",
+        "mjollnir": "После приобретения данного арта, мы не будем страдать от маленькой скорости атаки. Да и молнии харасят неплохо.",
+        "sange_and_yasha": "Даст нам доп. скорость передвижения и поможет замедлить врага.",
+        "abyssal_blade": "Теперь у нас есть свой направленный дизейбл.",
+        "greater_crit": "Скорость атаки у нас хорошая, теперь нам нужен урон, в этом помогут криты.",
+        "heart": "Даст нам плотности."
+    },
+    "Items": {
+        "Начальный закуп.": ["quelling_blade", "tango", "orb_of_venom"],
+        "Ранняя игра.": ["phase_boots", "mask_of_madness"],
+        "Основные предметы.": ["sange_and_yasha", "mjollnir", "basher"],
+        "Лейт.": ["abyssal_blade", "greater_crit", "heart"]
+    }
+}, "Title": "Гайд на Абаддона-керри."}

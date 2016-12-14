@@ -1,0 +1,103 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"Cpt.Rage : Shadow Demon full support (Position 5)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"magic_wand",
+				"urn_of_shadows",
+				"boots",
+				"smoke_of_deceit",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"tranquil_boots",
+				"bracer",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"sheepstick",
+				"heavens_halberd",
+				"ghost",
+				"medallion_of_courage"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Always a good late game item for defense against right click carries",
+				"ward_observer":"Buy wards at level one even if it means that you have to get both courier and wards. Continue warding about once every 6 min for the entire game",
+				"courier":"If no one else is getting courier at level one get it. ",
+				"bracer":"Bracer is good on any support, cheap hit points.",
+				"mekansm":"Usually better that another hero on the team gets a mek, if no one is going for one and you can get it within 25 min go for it.",
+				"flying_courier":"Use your first 220 gold to upgrade courier.",
+				"urn_of_shadows":"If you get some early farm get an urn as you will be involved in a lot of early kills",
+				"sheepstick":"Always a good choice for late game, remember that hex disable evasion.",
+				"force_staff":"Fore staff can be used both offensive or defensive. Good for setting up disruption into soul catcher kills..",
+				"ancient_janggo":"If you already have a bracer and no one on your team have drums.",
+				"medallion_of_courage":"Can be used as an alternative or in addition to urn of shadows.. Gives mana regen and armor. Synergizes well with soulcatcher to make your gankes even more effective. Medallion of courage will also make it much easier for your team to kill roshan.",
+				"smoke_of_deceit":"Shadow demon is an excellent ganker, smoke is not needed at lower levels as the enemy team will most likely not have wards.",
+				"heavens_halberd":"Good survivability late game with evasion. Also a very good disable on right click carries. Disarm will remain if target use bkb after disarm.",
+				"tranquil_boots":"Shadow demon can well with only normal boots, choose arcane if your team does not have enough arcane boots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_soul_catcher",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_soul_catcher",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_soul_catcher",
+			"8":"shadow_demon_disruption",
+			"9":"shadow_demon_disruption",
+			"10":"shadow_demon_disruption",
+			"11":"shadow_demon_demonic_purge",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"shadow_demon_shadow_poison",
+			"24":"shadow_demon_shadow_poison",
+			"25":"shadow_demon_shadow_poison"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"Excellent setup skill. Remember that soul catcher can land on a target that is disrupted. level 2-4 can be leveled after shadow poison if needed, as illusion damage will be most effective late game. This skill can also be very effective as a defensive spell if used on an allied being focused.",
+				"shadow_demon_soul_catcher":"Good skill to get fast kills Very good when roaming with a support with good early game nukes such as Lina or Leshrac.",
+				"shadow_demon_shadow_poison":"Only used as a scouting tool in this build. if needed for counter push or more damage early game max this first from level 3.",
+				"shadow_demon_demonic_purge":"Very good ultimate. Slow goes trough magic immunity and the purge can dispel many notable enemy buffs such as dark seers surge or omniknighs repel and guardian angle"
+		}
+	}
+}

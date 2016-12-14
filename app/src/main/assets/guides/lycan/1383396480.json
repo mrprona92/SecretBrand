@@ -1,0 +1,122 @@
+{
+	"Hero":"lycan",
+	"Title":"Banehallow the Lycanthrope",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_regen",
+				"magic_wand",
+				"boots",
+				"ring_of_basilius",
+				"vladmir",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"medallion_of_courage",
+				"smoke_of_deceit",
+				"power_treads",
+				"black_king_bar",
+				"necronomicon"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"helm_of_the_dominator",
+				"ancient_janggo",
+				"bfury",
+				"satanic",
+				"skadi",
+				"heart",
+				"assault",
+				"heavens_halberd",
+				"monkey_king_bar",
+				"abyssal_blade",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"With Feral Impulse at Level 1 instead of wolves, plus the 3 Iron Branches and the Quelling Blade, you are looking at 95 total damage to creeps for last-hitting on average.",
+				"ring_of_regen":"Get a Ring for the passive health regen only if your lane is constantly harassed. And also don't forget not to make Tranquil Boots; you can't disassemble them anymore.",
+				"boots":"Get you basic boots next as the increase in speed can help catching up to your wolves, because they always outrun even you.",
+				"magic_wand":"Farm as fast as you can to finish this. The attributes you gain for the cost of 509 gold and 1 item slot, not to mention the restoration in HP and mana, is very useful in the early-to-mid game.",
+				"tango":"It's viable to start with basic health regeneration. Tangoes and a Salve should cover you health needs. Should you burn all your health, or use it ineffectively, buy a Ring of Regen from the Side Shop or Base.",
+				"travel_boots":"If your farm is insane, sell your Treads for Boots of Travel, as these help in pushing undefended lanes or retreating to base (more often than not to push).",
+				"power_treads":"With Aegis in hand and a few levels in front of even the middle lane hero in some cases, finish your Boots into Power Treads, and keep them on Strength.",
+				"bracer":"If you choose to lane, get this first. The increase in health and damage can increase your survivability in lane. Getting Drums can also works as the attributes can help for you, while saving the utility hero in having to buy it for themselves.",
+				"vladmir":"Once you are Level 5, with the skills in order E, Q, E, Q, Q, you can jungle farm for Vladmir's Offering, as the increase in damage, mana aura, armour and lifesteal benefit you and your wolves.",
+				"ring_of_basilius":"Get an early Ring of Basilius for the armor bonus to you and your wolves, as well as the mana regen and to later build your Vladimir's.",
+				"necronomicon":"Consider a Necronomicon in your build. If they are invisible heroes like Riki or Drow, mana-intensive carries like Lifestealer and Skeleton King, or powerhouse pushers like Pugna, this book can be useful at the right time.",
+				"assault":"You should choose between either a Heart or an Assault Cuirass. Both offer you survivability, and both are only advised if your team is behind and need to push to win. But the Assault Cuirass adds a lot of armor and attack speed for you and your allies, summons and creeps.",
+				"heart":"A Heart of Tarrasque, paired with your Black King Bar, makes you nearly indestructible in both health and damage. Your HP pool is insanely huge, and you can deal lots of damage along with it.",
+				"black_king_bar":"If you push successfully, you can easily afford a Black King Bar. The damage is nice, but the magic immunity prevents your biggest weakness: stuns and disables. Don't forget to destroy your Black King Bar once you've bought a new one to refresh the duration to 10 seconds again.",
+				"monkey_king_bar":"The Monkey King Bar is only viable against evasion heroes like Phantom Assassin, Riki or Drow Ranger. It can be a worthwhile pickup, well worth its cost.",
+				"greater_crit":"Daedalus is something to consider. You have built-in critical strike in Shapeshift, but that's an extra 70% as to the Daedalus' 240%. The larger critical damage is situational, for those like Pudge, with masses of health.",
+				"bfury":"Even a Battle Fury can help in increasing your damage and your already insane pushing power. This can work well in skirmishes, especially if they are all clumped up from Vacuum or Black Hole.",
+				"satanic":"If you don't want to go Vladmir's, or up for a different spin, a Satanic works insanely well. The huge amounts of lifesteal can make you live through more teamfights more often.",
+				"skadi":"A good trick is to pair this, the Eye of Skadi, with your Satanic. This combination acts as both a slow and a lifesteal, helpful in you and your team chasing down enemies.",
+				"helm_of_the_dominator":"The Helm of the Dominator is good for better lifesteal and armor, but a good trick is to get an Alpha Wolf neutral creep to not only roam with your pack, but to increase your pack's damage even further.",
+				"ancient_janggo":"Get Drums early or let someone else get them. They help, but finish it earlier than your Vladmir's if you laned for the duration of your farm.",
+				"medallion_of_courage":"Once Vladmir's have been obtained, keep jungling for this: the Medallion of Courage. The armor and mana regen help, sure, but the armor reduction increases your initial damage. This can work wonders against Roshan with maxed Summon Wolves and Feral Impulse.",
+				"smoke_of_deceit":"Get yourself a Smoke of Deceit to bypass any wards that may be up. For the gold it costs, it is worth it. If you go without it, your enemies will know what you are up to, and will put a stop to it.",
+				"abyssal_blade":"The Abyssal Blade has insane damage and a bash to boot. The active can interrupt an Enigma Black Hole or prevent an escape of a hard carry.",
+				"heavens_halberd":"The Heaven's Halberd is a great Strength anti-carry item. The evasion works well on those without an Monkey King Bar, and when there is one, you can Disarm them from using it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_feral_impulse",
+			"2":"lycan_summon_wolves",
+			"3":"lycan_feral_impulse",
+			"4":"lycan_summon_wolves",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"Your wolves are your pushing machines. They are weak, for certain, but with decent micro-management they can be a real threat. They deal piercing damage, which is increased damage to creeps. They also help in tanking Roshan for when you have a Vladimir's.",
+				"lycan_howl":"Howl is a global damage-increasing skill, in that your whole team and their summons, have their damage increased enough for towers not to withstand it. Not to mention, your damage is better late-game as long as you've Howled.",
+				"lycan_feral_impulse":"Feral Impulse works with you, you wolves, but also your Necronomicon units and Dominated creep. The damage is great in the laning phase, while both damage and attack speed are great even late-game.",
+				"lycan_shapeshift":"Shapeshift is comparable to Alchemist. The boost in stats, with an instant cast time, can be useful for chasing and escaping, and when neither, can deal loads of damage in fights."
+		}
+	}
+}

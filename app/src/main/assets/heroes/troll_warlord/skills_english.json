@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Berserker\u0027s Rage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Toggle</font></b>",
+        "desc": "Allows the Warlord to use his throwing axes as melee weapons, gaining bonus damage, attack speed, movement speed, hitpoints, armor, and a chance to bash targets on attack.  Berserker\u0027s Rage also changes the functionality of Whirling Axes.",
+        "notes": "The bash stun goes through spell immunity.<br/>Doesn\u0027t stack with Skull Basher.<br/>Manta Style\u0027s cooldown time will be based on whether Troll Warlord was in his ranged or melee form when the item was used.",
+        "dmg": "",
+        "attrib": "BONUS MOVE SPEED: <b><font color=\"#ffffff\">10/20/30/40</font></b><br/>BASE ATTACK TIME: <b><font color=\"#ffffff\">1.55</font></b><br/>BONUS HP: <b><font color=\"#ffffff\">100</font></b><br/>BONUS ARMOR: <b><font color=\"#ffffff\">3</font></b><br/>BASH CHANCE: <b><font color=\"#ffffff\">10%</font></b><br/>BASH DURATION: <b><font color=\"#ffffff\">0.8/1.2/1.6/2</font></b><br/>BASH DAMAGE: <b><font color=\"#ffffff\">20/30/40/50</font></b>",
+        "cmb": "",
+        "lore": "Like his anger, Troll Warlord\u0027s supply of axes is infinite.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_berserkers_rage",
+        "youtube":"5hm9QkwMsuk",
+        "id": 0
+    },
+    {
+        "dname": "Whirling Axes (Ranged)",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Troll hurls a fistful of five axes in a cone shape over 900 range, slowing and damaging enemy units.",
+        "notes": "Only available in ranged mode.<br/>Both abilities have independent cooldowns.",
+        "dmg": "",
+        "attrib": "AXE DAMAGE: <b><font color=\"#ffffff\">75</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">3/3.75/4.5/5.25</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">30%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/19/18/17",
+        "lore": "Only axes fueled by hate whirl with such a deadly spin.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_whirling_axes_ranged",
+        "youtube":"pqe5QcZDAEE",
+        "id": 1
+    },
+    {
+        "dname": "Whirling Axes (Melee)",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Troll hurls two axes around him in a close range area of effect, damaging enemy units and causing them to miss some attacks.",
+        "notes": "Only available in melee mode.<br/>Both abilities have independent cooldowns.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">75/125/175/225</font></b><br/>RADIUS: <b><font color=\"#ffffff\">450</font></b><br/>BLIND DURATION: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>MISS CHANCE: <b><font color=\"#ffffff\">60%</font></b><br/>WHIRL DURATION: <b><font color=\"#ffffff\">3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_whirling_axes_melee",
+        "youtube":"x9u8gk8vczg",
+        "id": 2
+    },
+    {
+        "dname": "Fervor",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "With each continuous blow on the same target, Troll gains increased attack speed.  If Troll changes targets, the stacks drop to zero.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "MAX STACKS: <b><font color=\"#ffffff\">4</font></b><br/>ATTACK SPEED PER STACK: <b><font color=\"#ffffff\">16/22/28/34</font></b>",
+        "cmb": "",
+        "lore": "If at first you don\u0027t succeed, strike, strike again.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_fervor",
+        "youtube":"Ba5LZHZaAts",
+        "id": 3
+    },
+    {
+        "dname": "Battle Trance",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Troll\u0027s presence on the battlefield increases the attack speed of himself and all allied heroes. ",
+        "notes": "Doesn\u0027t work on illusions.",
+        "dmg": "",
+        "attrib": "TRANCE DURATION: <b><font color=\"#ffffff\">5</font></b><br/>ATTACK SPEED: <b><font color=\"#ffffff\">60/120/180</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/75/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30",
+        "lore": "An adrenaline rush of pure hatred quickens your blades.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_battle_trance",
+        "youtube":"YLDwkaESv9U",
+        "id": 4
+    }
+]

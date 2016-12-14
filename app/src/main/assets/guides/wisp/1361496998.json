@@ -1,0 +1,124 @@
+{
+	"Hero":"wisp",
+	"Title":"6.82 - Standard IO (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"urn_of_shadows",
+				"mekansm"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"ghost",
+				"pipe"
+			],
+			"Extension Items":
+			[
+				"arcane_boots",
+				"sheepstick",
+				"heart"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Buy Ring of Protection at the fountain shop. You will be buying Ring of Basilius further on. Sobi Mask can be bought at the side-shop.",
+				"gauntlets":"This will be later used to make Urn of Shadows.",
+				"ghost":"Physical allies will always try and ruin you since you are an easy target, make them regret their pursuit with this nifty item - preventing physical attacks from hitting you.",
+				"clarity":"All these items are to be used to help keep yourself and your ally alive! Use them on yourself and tether your ally!",
+				"flask":"All these items are to be used to help keep yourself and your ally alive! Use them on yourself and tether your ally!",
+				"bottle":"As Wisp, you'll want to get Bottle to help replenish the life and mana of your ally. You can pick up the rune each 2 minutes to continually keep yourself alive.",
+				"ward_observer":"As a support, wards or a courier are generally expected of you.",
+				"tango":"All these items are to be used to help keep yourself and your ally alive! Use them on yourself and tether your ally!",
+				"courier":"As a support, wards or a courier are generally expected of you.",
+				"mekansm":"Tether while you heal, just like everything else that you have.",
+				"vladmir":"More Armor, more survivability, more passives to help your team. If you have teams with physical melee carries; get this for sure.",
+				"pipe":"While Mekansm is the way to go, Pipe of Insight maybe prove to be better if strong magic initiators are keeping your team down.",
+				"urn_of_shadows":"Can be used offensively or defensively. Tether an ally while using this to keep them alive even longer. Works great in combination with Overcharge to keep you alive, healing your tethered ally and running Overcharge.",
+				"force_staff":"Another great escape for you, or better yet; to be used to further tether-stun someone! Use this versatile item to really give you better positioning in fights!",
+				"soul_ring":"Soul Ring removes your health for the sake of more mana for your ally. In most cases, this is really good, especially if your ally needs it to last-hit or for further harassment. However it has its risks and Wisp is pretty frail, so consider the situation before dipping into this.",
+				"arcane_boots":"Arcane boots work great with tether and give 1.5x more mana to your tethered ally. It isn't as demanded as your other core items; so pick it up after you get your main items and capabilities.",
+				"ancient_janggo":"Usually, we get this to chase and help your ally. It definitely lines up with the extra health that Wisp needs.",
+				"tranquil_boots":"Tranquil boots work great with your tether ability. Make sure to constantly heal your ally through tether."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_spirits",
+			"4":"wisp_overcharge",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_overcharge",
+			"9":"wisp_overcharge",
+			"10":"wisp_overcharge",
+			"11":"wisp_relocate",
+			"12":"wisp_tether",
+			"13":"wisp_tether",
+			"14":"wisp_tether",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"wisp_tether":"Tether has two uses: 1. It can be used to keep your ally alive through heals and consumables (use it on yourself and it will heal/regenerate a bonus amount towards the tethered ally) and 2. It can be used to immobilize any hero that crosses it. Make sure to be active with the tether in many ways",
+				"wisp_spirits":"Spirits is an underrated ability when it comes to the damage it can output. It has a large mana cost, but relatively low cooldown, so use it at heros running away or engagements.
+
+Make sure to use the Spirits Out/In button to increase its reach or decrease. Also gives sight when hitting an enemy.",
+				"wisp_overcharge":"Overdrive drains your life and mana, so use that as a reason to keep healing yourself while giving the bonuses to your tethered ally. Just be sure to be at a safe distance because of the drain, you will be an easy kill for any heros targeting you.
+
+We max it second given tether beyond level 1 is eh.",
+				"wisp_relocate":"Relocate can be used in a variety of ways. Consider it similar of Nature's Prophet teleport with a timer. In combination with Tether, you can cause nightmares for any enemy heros trying to farm or bring an ally into the fountain, only to have him come back with full health and mana!"
+		}
+	}
+}

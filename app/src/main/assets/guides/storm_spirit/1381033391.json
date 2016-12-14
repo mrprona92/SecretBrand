@@ -1,0 +1,101 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Stal.Ento-Storm Spirit. (M)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"orchid",
+				"sheepstick"
+			],
+			"Для поздней игры":
+			[
+				"bloodstone",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"sphere",
+				"dagon",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Сапог нужен всем.",
+				"bottle":"Контроль рун на миде нужен всегда.",
+				"travel_boots":"После разбора Аркан, собираем Тревела.",
+				"null_talisman":"Потихоньку собираем Dagon.",
+				"sheepstick":"С ним от вас никто не убежит.",
+				"orchid":"Лишнее сало никогда не помешает.",
+				"dagon":"Собираем до конца, если хотим быть жесткими кэрри.",
+				"black_king_bar":"Иммун к магии нам очень поможет. А здоровья у Шторма не так уж и много.",
+				"shivas_guard":"Собирайте если нужно больше брони.",
+				"bloodstone":"Разбираем Арканы, и собираем Бладстоун.",
+				"sphere":"Болше регена маны и защиты от заклинаний.",
+				"arcane_boots":"Нужно больше маны на скиллы."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_overload",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_electric_vortex",
+			"8":"storm_spirit_electric_vortex",
+			"9":"storm_spirit_overload",
+			"10":"storm_spirit_static_remnant",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_overload",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_static_remnant",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"В основном используется для фарма и для зарядов для пасивки.",
+				"storm_spirit_electric_vortex":"Отличный дизейбл. Поможет при гангах на ранних уровнях.",
+				"storm_spirit_overload":"Неплохой АОЕ дамаг в начале игры.",
+				"storm_spirit_ball_lightning":"Влетаем в замес и наносим большой дамаг и также быстро улетаем. Можно этим скиллом накапливать заряд для пассивки.",
+				"attribute_bonus":"Все стандартно."
+		}
+	}
+}

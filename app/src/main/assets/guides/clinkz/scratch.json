@@ -1,0 +1,95 @@
+{
+	"Hero":"clinkz",
+	"Title":"Clinkz - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"circlet",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"oblivion_staff",
+				"oblivion_staff",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"orchid"
+			],
+			"Final de Partida":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"butterfly"
+			],
+			"Situacionales":
+			[
+				"black_king_bar",
+				"sphere",
+				"medallion_of_courage",
+				"mjollnir",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Ponlas en color verde",
+				"orchid":"Silencia a los enemigos y usa tu Q y W para matar rapidamente al enemigo sin que pueda escapar.",
+				"black_king_bar":"Si tienen muchos disables NECESITAS este objeto",
+				"ring_of_aquila":"Recuerda apagarlo para evitar que los creeps pusheen la linea."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_searing_arrows",
+			"2":"clinkz_wind_walk",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_strafe",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_wind_walk",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_wind_walk",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_strafe",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"Incrementa radicalmente la velocidad de ataque por poco tiempo. Usalo para matar rapidamente enemigos, tirar torres, etc-",
+				"clinkz_searing_arrows":"Al principio usalo para harassear enemigos en su linea, asegurar last hits, etc. Luego puedes dejarlo siempre activado cuando tengas la regeneracion de mana necesaria pulsando click dxo sobre la habilidad.",
+				"clinkz_wind_walk":"Te haces invisible y corres mas rapido. Usalo para escapar, gankear con orchidea, etc.",
+				"clinkz_death_pact":"Ganas atributos y farmeas. Intenta comerte creeps grandes de la jungla para maxima efectividad. En cualquier caso intenta usarla siempre para aprovechar el farm que da."
+		}
+	}
+}

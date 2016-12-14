@@ -1,0 +1,16 @@
+{
+  "dotaId": "diffusal_blade_2",
+  "attrib": "+ 20/<font color=\"#ffffff\"><b>35</b></font> Agility<br/>+ 6/<font color=\"#ffffff\"><b>10</b></font> Intelligence",
+  "cd": 8.0,
+  "components": ["diffusal_blade"],
+  "qual": "artifact",
+  "notes": "Instantly kills summoned units.Slow lasts 4 seconds.",
+  "desc": "Active: Purge - Purges a target unit, removing buffs, slowing, and dealing damage if it is a summoned unit.<br/>Passive: Feedback - Your attacks burn  25 mana and deal the same amount in physical damage. Upgradable.",
+  "dname": "Diffusal Blade lvl2",
+  "mc": false,
+  "img": "diffusal_blade_2_lg.png",
+  "lore": "An enchanted blade that allows the user to cut straight into the enemy\u0027s soul.",
+  "id": 196,
+  "created": true,
+  "cost": 3850
+}

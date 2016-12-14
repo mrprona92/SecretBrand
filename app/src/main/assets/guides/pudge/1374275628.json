@@ -1,0 +1,135 @@
+{
+	"Hero":"pudge",
+	"Title":"Na'Vi.Dendi build solo mid pudge (with item descriptions)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"boots",
+				"smoke_of_deceit",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"ultimate_scepter",
+				"travel_boots",
+				"black_king_bar",
+				"hood_of_defiance"
+			],
+			"luxury":
+			[
+				"ghost",
+				"invis_sword",
+				"heart",
+				"pipe",
+				"assault",
+				"sheepstick",
+				"blade_mail",
+				"heavens_halberd",
+				"blink"
+			],
+			"Own Additions to the Build":
+			[
+				"bloodstone",
+				"phase_boots",
+				"power_treads"
+			],
+			"Alternative Starting Item Build":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allowed since 6.79.",
+				"gauntlets":"To provide some extra damage early game, for last hitting etc.",
+				"branches":"Will be built into a wand later on. Other than that, the extra stats are good early game, obviously.",
+				"boots":"Pretty damn standard.",
+				"magic_wand":"Build your branches into this, the active is great for staying alive etc.",
+				"ghost":"Used avoid Right Click Damage while still casting spells.",
+				"bottle":"Obivous. Pudge uses quite a lot of his mana to pull off his signature combo, so a bottle will help with that. Get this first.",
+				"tango":"Basic regen, you want to use rot sometimes to make lasthitting creeps easier.",
+				"tpscroll":"To switch lanes faster early game, always carry a TP with you.",
+				"travel_boots":"Either Phase or these. BoT help you to get to other lanes faster, while saving you the 135 Gold you would need to buy a TP after every gank.",
+				"phase_boots":"Either BoT or these. Provide damage, and good movespeed, also the active is great for fast positioning etc. I prefer Phase over BoT.",
+				"power_treads":"People say that Dendi used it in TI3, I didn't notice that, because I didn't care.",
+				"hand_of_midas":"Don't get this, because you will be getting way more XP and Gold by ganking other lanes.",
+				"pipe":"I sometimes get this item if no one on my team gets it. It's a great item, but I don't think that it is necessary.",
+				"urn_of_shadows":"This will heal you after ganks because your Rot will damage you as well. Can be useful early game to finish off opponents.",
+				"sheepstick":"A very good item, will normally be used to disable the most dangerous hero in the enemy team.",
+				"force_staff":"For the positioning, which is the most important thing when playing Pudge. After landing your Hook of course.",
+				"ultimate_scepter":"Using your Ult will heal you now. This is GREAT. GET IT.",
+				"assault":"Awesome item, I only get this if I am doing REALLY well.",
+				"heart":"If you get a lot of early game Kills, this thing is nasty, because you will be virtually unkillable due to the retarded amount of health you are getting.",
+				"black_king_bar":"Magic immunity is GOOD. Get it if the enemy has a lot of disables/stuns.",
+				"bloodstone":"If you are really fed, and the game is coming to an end while you still have space, then you can try this.",
+				"blade_mail":"When you are fed, this will make people scared to attack you, since your HP will be really high.",
+				"hood_of_defiance":"Rot does magic damage, so this is an excellent choice. Keep in mind that this will stack with your Flesh Heap, so your magic resistance will be insane, meaning that you can use rot basically anytime you want to. Awesome combined with a HoT.",
+				"rapier":"DON'T EVEN EVER THINK ABOUT GETTING THIS ITEM! YOUR TEAM WILL HATE YOU IF YOU BUY IT AND THEN DIE!!! NEVER EVER GET THIS!",
+				"invis_sword":"A better Smoke of Deceit, awesome!",
+				"smoke_of_deceit":"This is used for ganks, obviously. You need to get into position, and to to that safely you use Smoke. Great item for Pudge.",
+				"heavens_halberd":"Pretty good if the enemy team has some heavy right clickers, and since its pretty cheap, its recommended to get it in general."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_rot",
+			"10":"pudge_flesh_heap",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Signature skill. The damage dealt is pure, so this will deal a lot of damage by itself.",
+				"pudge_rot":"Great to help with last hitting, also you can deny yourself with this, so that the enemy does not get Gold for your Death. The damage is magical, so magic resistance will reduce the damage. When pulling off your signature combo, use Rot before using Dismember to deal the maximum amout of damage.",
+				"pudge_flesh_heap":"Magic resistance, good when used with your Rot.",
+				"pudge_dismember":"This is a damaging stun, but its channeling, so keep that in mind."
+		}
+	}
+}

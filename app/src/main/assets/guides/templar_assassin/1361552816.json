@@ -1,0 +1,107 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Electric- A Guide to solomid-Lanaya",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"desolator",
+				"butterfly",
+				"assault",
+				"monkey_king_bar",
+				"satanic",
+				"orchid",
+				"manta"
+			],
+			"Boots":
+			[
+				"phase_boots",
+				"power_treads"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Getting your dagger is usually the point in the game where shit starts to get ridiculous. Use it mainly to get yourself into position for a meld-strike. You will literally *melt* those squishy supports. ",
+				"boots":"Do i really have to explain? :D",
+				"magic_wand":"Will save your life so many times. ALWAYS get a stick really soon when you are laning against a bat, qop, zeus or whatever heroes use to keep spamming their abilities.",
+				"bottle":"A bottle gives u the regen that you need to keep on ganking from level 6 on. Go for a kill everytime you get a haste or dd-rune! Lanaya is the born runewhore. Even if you play in the lowest of pubs, with Traps you will always see what rune is spawning where.",
+				"tango":"Tangos are usually enough regen till you have your bottle, what should be the case at about 2 minutes.",
+				"phase_boots":"Phaseboots are most of the time prefered over Treads.They give you even more chasing power. Especially after the Psyonic Traps-nerf. Treads offer more lategame-potential, but lategame is not what you should aim for when playing Templar Assasin.",
+				"power_treads":"If you think you are too squishy with Phase or you dont need the active, go for Treads. They give you more lategame-potential as the IAS will have a greater effect as the 24 dmg. In addition they allow you to bottle up with more efficiency.",
+				"orchid":"Orchid gives you a lot of manaregen and that deadly silence. Good for disabling Enigma, Beastmaster, or anyone else who wants to disable you through your beloved BKB. Because one of your teammates usually should get a sheepstick, this item is very situational.",
+				"assault":"If you are lategame and got a desolator early. This will make your team push so much harder. Though there normally is a better hero to get it, i.e. Furion or Lycanthrope. In most cases a butterfly will give you greater survivability and damage. ",
+				"black_king_bar":"As you will be most likely the main-focus of the opposing team's disables, in most games the bkb is what you need after getting your dagger. Refraction may be one of the greatest skills in lane, but in a clash it will be gone really fast. You NEED to become untouchable by all the Silence, Stun, etc.",
+				"monkey_king_bar":"An alternative to deso, daedalus. The reason? Simply to oppose Riki, Phantom Assassin, or anyone else being able to evade your attacks. ",
+				"butterfly":"You got your Dagger, BKB, Daedalus? Getting a Butterfly will ensure you great damage-output and evasion from all of those auto-attacks focusing on you.  ",
+				"greater_crit":" If you are doing really well, get a crystalis before the BKB. It is far cheaper than the desolator and you can get it faster, too. If you need to carry, TA can lifesteal in combination with this item fairly well.",
+				"manta":"Manta-Style. In some games it might be really good to get an early yasha. Its movespeed-boost will let you gank very effectively. Manta itself boosts your damage in teamfights a lot, especially if you've bought some crit! Dodging stuns and creating confusion is always good, too.
+",
+				"satanic":"Get a Satanic if you need to fill the hardcarry role because your team doesn't have one or he failed hard. I personally almost never get lifesteal on Templar Assasin as you are not the kind of hero to trade hits 1 on 1 with the enemy team's carry. You are there for one-shotting this cm with 1k hp.",
+				"desolator":"Desolator is really situational. Get it, if the enemy team has many really shquishy heroes. Especially int-carries i.e. Silencer, OD. Against heroes with high agi-gain or base-armor it is not really good. Deso was a good choice in DotA as you could not crit while phase or melding."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_refraction",
+			"2":"templar_assassin_psi_blades",
+			"3":"templar_assassin_meld",
+			"4":"templar_assassin_refraction",
+			"5":"templar_assassin_meld",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_refraction",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"Get refraction on level one to get your bottle before the two-minute mark! Usually I max out Meld first, but especially to new TA-players maxing out Refraction first may be a good option. If you are not confident about not landing every meld strike, max Refraction first. Denies dont remove charges.",
+				"templar_assassin_meld":"As you are going to gank from level 6 on or maybe even earlier (i.e. having haste and dd) maxing out meld is imo the best way, to burst down enemy heroes as fast as possible. Also refraction nowadays costs a lot of mana, maxing out Meld may be a viable option.",
+				"templar_assassin_psi_blades":"I get Psy-Blades at level two as it allows you to harras your opponent and farm incredibly fast. If u are getting lasthits by attcking your own creeps or denying, you wont lose refraction charges. If you are having problems hitting meld-strikes, you can get a second level at 7 or 8.",
+				"templar_assassin_psionic_trap":"Traps. Use them for checking the runespots when staying mid. When ganking try to place a trap wisely behind the opponents, as the slow will increase with the time the traps are up. You also can use it for scouting roshan or upchoke if you are expecting enemies to gank you.",
+				"attribute_bonus":"If you are having problems coordinating the traps, activating the right one or keping up the number of traps, u can keep them at level one and get the rest of your skills first."
+		}
+	}
+}

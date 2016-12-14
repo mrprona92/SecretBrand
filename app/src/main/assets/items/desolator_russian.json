@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 50 к урону<br/>СНИЖЕНИЕ БРОНИ: 7",
+  "cd": false,
+  "components": [
+    "mithril_hammer",
+    "mithril_hammer"
+  ],
+  "qual": "artifact",
+  "notes": "Снижение брони действует на здания.",
+  "desc": "Пассивная: Corruption — ваши атаки уменьшают броню цели на 15 секунд.<br/><br/>Desolator — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+  "dname": "Desolator",
+  "dotaId": "desolator",
+  "mc": false,
+  "img": "desolator_lg.png",
+  "lore": "Это проклятое оружие использовалось при пытках особо опасных преступников.",
+  "id": 168,
+  "created": true,
+  "cost": 3500
+}

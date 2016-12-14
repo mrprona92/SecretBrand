@@ -1,0 +1,108 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"6.82 - Standard Bounty Hunter (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"clarity",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"poor_mans_shield",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"desolator",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"vladmir",
+				"orchid",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"monkey_king_bar",
+				"assault",
+				"heart"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Use Bottle to replenish your mana and continue your ganking spree without having to go back to base. With runes spawning at both sides of the river, refilling should be an easy priority and allow you to continually use your abilities comfortably.",
+				"orchid":"This works great with your Shuriken Toss and furthers your aim to go after casters or relatively frail heroes.",
+				"assault":"Given your capabilities trail off the further into the game you are, offer some key buffs/debuffs to the game with Assault Cuirass.",
+				"heart":"With your damage nearly topped off, the only thing you would need is Health and survivability, Heart of Tarrasque makes you a continued a threat that can be killed by any damage-dealer without some real dedication on their part.",
+				"black_king_bar":"Black King Bar keeps you safe and comfy as you dish our damage to foes. During this later phase in the game, you will start to have to engage in team-fights you melt against initiators and magic users who can spot you.",
+				"sphere":"Linken's Sphere can get you out of jam if team is particularly heavy on stuns and disables.",
+				"monkey_king_bar":"Monkey King Bar is the extra damage you need to truly make sure anyone you gank stays dead. Monkey King Bar also works on heroes with evasion to ensure all ganks are successful.",
+				"desolator":"Desolator synchronizes well with your Jinada and extra damage from Shadow Walk. With Desolator, you can gank support heroes on your own and take advantage of your ultimate: Track.",
+				"ancient_janggo":"Use Drums for chasing, escaping or overall use during the early mid-game phase to help carry you towards Desolator."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_shuriken_toss",
+			"8":"bounty_hunter_jinada",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_jinada",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_wind_walk",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"We max Shuriken Toss for the swift damage and to avoid getting too involved in fights. At lower levels, Bounty Hunter is extremely frail and not strong enough to burst down foes.",
+				"bounty_hunter_jinada":"One level in Jinada is to last-hit and help slow foes so your allies can follow-through on damage. It is max later on when you have accumulated enough damage to make it worthwhile.",
+				"bounty_hunter_wind_walk":"Shadow Walk lets you survey areas safely and prep. for planned ganks. Use it well and let the cooldown finish before striking so you can re-invis again quickly to escape or avoid damage.",
+				"bounty_hunter_track":"Use Track on every gank before the kill to increase everyone's gold. This is your way of farming the items you need. Using Shuriken Toss on enemies near those Track cause it to bounce: double damage!
+
+Don't forget that Tracks allows you to see invisible units, so use it to counter Riki/Templar Ass."
+		}
+	}
+}

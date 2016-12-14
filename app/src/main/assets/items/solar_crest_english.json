@@ -1,0 +1,19 @@
+{
+  "dotaId": "solar_crest",
+  "id": 229,
+  "img": "solar_crest_lg.png",
+  "dname": "Solar Crest",
+  "qual": "rare",
+  "cost": 3000,
+  "desc": "Active: Temporarily removes the armor and evasion from Solar Crest. When cast on an ally it grants them 10 armor and 30% evasion. When cast on an enemy it removes 10 of their armor and blinds them, causing them to miss 30% of their attacks.",
+  "notes": "",
+  "attrib": "+ 10 Armor<br/>+ 75% Mana Regeneration<br/>+ 30% Evasion<br/>SHINE ALLY BONUS ARMOR: 10<br/>SHINE ALLY EVASION: 30%<br/>SHINE ENEMY ARMOR LOSS: 10<br/>SHINE ENEMY MISS CHANCE: 30%<br/>SHINE DURATION: 7<br/>SHINE CAST RANGE: 1000",
+  "mc": false,
+  "cd": 7,
+  "lore": "A talisman forged to honor the daytime sky.",
+  "components": [
+    "medallion_of_courage",
+    "talisman_of_evasion"
+  ],
+  "created": true
+}

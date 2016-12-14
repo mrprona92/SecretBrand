@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_lich",
+	"Title":"Recommended items for Lich",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"gauntlets",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"urn_of_shadows"
+		],
+		
+		"coreItems":[
+			"tranquil_boots",
+			"mekansm",
+			"point_booster",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"blink",
+			"force_staff",
+			"cyclone",
+			"sheepstick",
+			"shivas_guard",
+			"veil_of_discord",
+			"rod_of_atos"
+		]
+	}
+}

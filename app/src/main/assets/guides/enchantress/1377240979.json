@@ -1,0 +1,124 @@
+{
+	"Hero":"enchantress",
+	"Title":"Enchantress: When Played Competitively",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"branches",
+				"tango",
+				"smoke_of_deceit",
+				"ward_sentry"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"point_booster",
+				"ultimate_scepter",
+				"ghost"
+			],
+			"luxury":
+			[
+				"gem",
+				"mekansm",
+				"force_staff",
+				"vladmir"
+			],
+			"Consistently bought":
+			[
+				"smoke_of_deceit",
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll"
+			],
+			"Luxury After Thoughts":
+			[
+				"sheepstick",
+				"orchid",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Always need a manner branch :)",
+				"boots":"First early core item.",
+				"gem":"What will be required possibly later in the game when the gold is there, and free detection without having to spend on mass sentries.",
+				"magic_stick":"Start gathering charges before creating into a Wand and you're ready to go for all the early engagements and fights.",
+				"magic_wand":"No matter what, you should always have a wand.",
+				"ghost":"When it gets to mid-late game, as a support you are going to be eaten alive by the big right clickers. A Ghost Scepter will help you stay alive longer.",
+				"clarity":"Helps keep your mana up for enchanting creeps. Try not to use Natures Attendents early on since you are getting the 1 clarity to always have creep control (if you are buying 1).",
+				"ward_observer":"Keep buying through-out the game if the other support is gold starved.",
+				"ward_sentry":"If you expect to be camp blocked, sentries are a must-buy. Always keep sentry count up with your wards for de-warding and killing invis heroes.",
+				"tango":"Due to 6.79, you will not be able to pool your allies with big regen. Tangoes for you are now as safety regen for yourself when you've already given a tango to your mid or offlaner etc",
+				"courier":"Standard buy for every game. If no one has bought chicken, buy it yourself.",
+				"tpscroll":"Always always always carry a TP scroll.",
+				"point_booster":"Start of your Aghanim's Scepter.",
+				"power_treads":"Your upgraded boots. Learn when to switch between INT and STR.",
+				"mekansm":"If your team does not have a Mek after you have built your Scepter, build it yourself.",
+				"vladmir":"Vlads is an item that is very cost efficient for it's price. While the lifesteal will not help you, it can help your allies/creeps. The other bonuses it gives are just as useful for justifying to buy it when you need an item to fall back on.",
+				"flying_courier":"6.79 - courier upgrade is now not allowed till 3 minutes in the game.",
+				"pipe":"Pipe will help negate all the magic damage coming onto yourself and your team and is very crucial when \"breaking the base\". Don't ever expect to be the one to grab it, nor should you in most scenarios.",
+				"urn_of_shadows":"Extra support healing or damage.",
+				"sheepstick":"One of the best items in the game for controlling fights or picking off. Chances are you will never ever get this because of the gold you are spending but as a little luxury, feel free to get a Scythe.",
+				"orchid":"Same as the Scythe, chances are you won't have the farm or the time to get this, but on the off chance you can, feel free. Orchid can always be used as a backup item after thought when it's very crucial against specific heroes it can shutdown otherwise it is not a good item to grab for it's cost.",
+				"force_staff":"A defensive item that can sometimes be used offensively. This is what you can grab up if your team is losing and you cannot get farm for your Scepter.",
+				"ultimate_scepter":"This item is your bread & butter. Upgrading Impetus to be even more deadly and help dish out damage.",
+				"smoke_of_deceit":"With 6.79 changes, buy smoke at the start of the game as you have gold for yourself now. While it's kind of bad as enchantress was viable for pooling a lot of regen, this means you can get a fast gank off."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_enchant",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_natures_attendants",
+			"6":"enchantress_impetus",
+			"7":"enchantress_enchant",
+			"8":"enchantress_natures_attendants",
+			"9":"enchantress_enchant",
+			"10":"enchantress_untouchable",
+			"11":"enchantress_impetus",
+			"12":"enchantress_untouchable",
+			"13":"enchantress_untouchable",
+			"14":"enchantress_untouchable",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"Untouchable is an ability that is better leveling later on in the game in general and very situational on when you level it earlier on. The only time you will want to be leveling it early if there's a lot of damage dished out is when against e.g. Nerubian Weaver and Troll Warlord.",
+				"enchantress_enchant":"Enchanting creeps and slowing enemy heroes for ganks. If against a Chen, always enchant his creeps when the time is right. Feel free to skip the last 2 levels for earlier stat points or when you need points in Untouchable.",
+				"enchantress_natures_attendants":"The 'You can't kill me' ability. A saving grace from being ganked or healing up your team and keeping them up in fights. Remember the more wounded around you, the less effective it can be.",
+				"enchantress_impetus":"Your ability that can convert you from a support to a carry. Always toggle/orb walk it and never leave it on or you will be flat out of mana.",
+				"attribute_bonus":"Leveling stats depends on who you're playing against. It is always an option."
+		}
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"Hero":"invoker",
+	"Title":"Invoker by Terraman.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"blades_of_attack",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"cyclone"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"blink",
+				"ancient_janggo",
+				"refresher",
+				"force_staff",
+				"arcane_boots",
+				"power_treads",
+				"orchid",
+				"skadi",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"To easily escape after ghost walk, also for capture the enemies, and be mobile in fights :)",
+				"blades_of_attack":"You should buy this first item, cause you need your phase boots, to immediately gank  after the assembly.",
+				"branches":"This branch increases your basic stats at the start.",
+				"tango":"If you will play as exort invoker and max firstly the exort, i suppose, this would be so usefull for regen your hp, if someone will harass you like queen of pain or pudge.",
+				"travel_boots":"This item needs if you will play over the 50 minute, and your  team will loose all the fights, and the only chance is push the towers.",
+				"phase_boots":"The main item during all game. With this item you can easily last hit the creeps, you gotta use this boots to catch the enemy, and next use cold snap on him, also, usefull for escape.",
+				"power_treads":"Bad choice for invoker, you just dont get, what you expect.",
+				"sheepstick":"As invoker, you're not the main carry, you're playing him like a dd, whose skills like meteor or blast ,makes alot of dmg. Only because of this, if against you will play a carry, which have an incredible dmg, you will just transform him into hex.",
+				"orchid":"This item will be so usefull against  mobile / invisible heroes like Storm Spirit / Bounty Hunter etc.  You dont let him escape and kill, exactly. Also will give you attack speed ( prefer wex then ), few dmg, mana regen. ",
+				"cyclone":"For my opinion, this item you should definetely buy in all games. Grant you an mp regen, as for real if you're playin quas-exort,  your waste of mana will be mad, and a regen 150% mana will fill all gaps. If you're playin' quas-wex, this item will grant you an awesome movement speed.",
+				"force_staff":"Actually, this item is poor, because of his cost, at the start this is too many for a small bonus to hp regen ( dont forget about your quas ) and escape ability ( not always ). If i will choose between this item and drums - always the second.",
+				"ultimate_scepter":"this item reduce your mana cost for invocation, also give you a cooldown around 2 seconds, what making this item the best for invoker.",
+				"refresher":"Someone consider that this item is useless, someone consider another, but my choice is - just imagine the 2 meteors+ 2 blasts and 2 icewalls, besides of this, will give you a good stats and mp regen also.",
+				"sphere":"This item is only against spam skills which can stun / disable / dmg  you. For example rubick's stun and nuke, or tinker's rockets and laser. Also, guys, don't be scared, this item is fully justify itself, will give you except reflection, good increase of stats, HP/MP regen.",
+				"skadi":"Okay, skadi.. I hear this every time when i buy this item.  This item will give you a slow motion skill, with cold snap + skadi buff, will be amazing, really. Also will provide + to all stats, and will increase your HP/MP. Choose this item, if against you'll be not a powerful carry (btw hex / skadi)",
+				"arcane_boots":"If you're the only support in game ( nvm ) you should buy this item to regenerate the allies mana .",
+				"ancient_janggo":"You should buy this item for invoker, if you will take good farm ( i mean against traxe or crooked sniper ).
+Grant you a perfect aura and + to your basic stats at the start"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_quas",
+			"2":"invoker_invoke",
+			"3":"invoker_wex",
+			"4":"invoker_quas",
+			"5":"invoker_exort",
+			"6":"invoker_quas",
+			"7":"invoker_invoke",
+			"8":"invoker_quas",
+			"9":"invoker_quas",
+			"10":"invoker_wex",
+			"11":"invoker_quas",
+			"12":"invoker_invoke",
+			"13":"invoker_wex",
+			"14":"invoker_quas",
+			"15":"invoker_wex",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_exort",
+			"21":"invoker_exort",
+			"22":"invoker_exort",
+			"23":"invoker_exort",
+			"24":"invoker_exort",
+			"25":"invoker_exort"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_cold_snap":"The main skill of invoker.
+This is the first skill of most  invoker combo's, so you should definetely use that skill if you want to win, just at the start ( until 14 ) max the quas sphere, and all will be perfect, with max coldsnap will be around 10 micro-stuns or more, i'll write some combos.",
+				"invoker_ghost_walk":"escape/salvation skill which also slow the enemy. Very usefull with max quas/wex spheres.",
+				"invoker_tornado":"1st combo : This skill's destination is salvation. If you're seeing that someone running and behind him an enemy just lift him up and everyone will be okay. Combo the same, you will lift, next will use coldsnap,and for dmg, you'll fast cast the blast or sunstrike( only if you'll even dont kill him )",
+				"invoker_chaos_meteor":"3rd combo : You will use scepter of divinity, next you'll make a meteor and immediately blast. Our combo have the most disable range and dmg also. Very usefull at the end of game, i think this combo will decide all fights.",
+				"invoker_sun_strike":"Combo with sunstrike. You will chase the enemy, use your scepter of divinity, he will in air around 3 seconds, so, you'll have enough time to target and shoot.",
+				"invoker_forge_spirit":"2nd combo:
+You gotta come to the gank from midlane, next, from the woods you should invoke the forge spirits, and coldsnap to your invocation panel. Choose the most slimest victim, and you will easily kill her because of your dmg, and spirit's range.",
+				"invoker_ice_wall":"Combo with Ice Wall.
+First of all your spheres gotta be maxed(wex,quas). You will make a tornado, while they in air, you will just make an ice wall behind them, next you should give an alacrity buff to your ally carry, and will make a coldsnap, blast, meteor, emp etc, just will look for a situation.",
+				"invoker_deafening_blast":"Situational combo:
+Imagine, you will fight on mid against 5 or 4 enemies,
+you will easily kill all or disable for 3-5 seconds with this skill, next after blast just choose: if you have a max wex rune, just will use tornado, and while they in the air, use mana burn, for the another - meteor."
+		}
+	}
+}

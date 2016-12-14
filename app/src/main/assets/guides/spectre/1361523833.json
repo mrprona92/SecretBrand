@@ -1,0 +1,109 @@
+{
+	"Hero":"spectre",
+	"Title":"Easy winning with spectre",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"flask",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_health",
+				"boots",
+				"magic_stick",
+				"stout_shield"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"vanguard",
+				"magic_wand",
+				"manta"
+			],
+			"luxury":
+			[
+				"heart",
+				"blade_mail",
+				"butterfly",
+				"mjollnir",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Spectre has low starting damage, so getting QB will help you to lasthit better. ",
+				"stout_shield":"If you can't get your RIng of health fast enough because of being harrased get Stout shield first.",
+				"branches":"Good game branch will make your game good.",
+				"boots":"Boot is a boot.",
+				"magic_stick":"You may get it later if your enemies cast spells rarely.",
+				"magic_wand":"Spectre has some problems with mana. This will help.
+
+",
+				"flask":"Healing salve and 3 tangos are standart lane healing items.",
+				"tango":"Healing salve and 3 tangos are standart lane healing items.",
+				"phase_boots":"I am not using diffusial blade in this build, so getting Phase boots would help you to catch your enemies.
+Also it will give you great movespeed combined with spectral dagger.",
+				"ring_of_health":"You need this for lane sustaining. Will be upgraded into vanguard.",
+				"heart":"You don't need lots of damage items. Spectre blocks/deals tons of damage with dispersion. Seriously, spectre is one of the best tanks in the game. So dont be shy, tank everything.",
+				"vanguard":"After getting this you can:
+easily dive towers (but have common sence);
+survive ganks;
+ farm any creep camp without losing hp (exept ancients);
+fly into space (not really).
+Since you want to reflect damage in the late game and dmg block wiil become relatively low you can sell VG once you get Heart.",
+				"blade_mail":"If enemy has Drow or Ursa or someone else who annoys you - get Blademail. It grealty synergizes with dispersion.",
+				"butterfly":"Build this when you play against team with lots of physical damage. Also, you need this attack speed.",
+				"manta":"What's so wonderful? The fact that you're going to deal a good portion of your autoattack damage with desolate. Now add two illusions that deal 50 pure damage each. Not mentioning another movespeed increase (18% dagger, 16% phases, 10% manta).",
+				"satanic":"Way more indestructable now.",
+				"mjollnir":"Attack speed for desolate, static charge for more damage while tanking, what else do you need?"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_spectral_dagger",
+			"2":"spectre_dispersion",
+			"3":"spectre_spectral_dagger",
+			"4":"spectre_desolate",
+			"5":"spectre_spectral_dagger",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_desolate",
+			"9":"spectre_desolate",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_dispersion",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"If you're being ganked just throw your dagger in the forest and hide. Use quelling blade to get out. Also use Phase boots after this skill, not before. You dont want Phase buff to end, do you?",
+				"spectre_desolate":"Fighting with spectre 1v1, well, let them try. If you're winning the lane you want to learn this skill at 2nd lvl. Otherwise get it on 4.",
+				"spectre_dispersion":"Makes no big difference in early game, but becomes your signature in late.",
+				"spectre_haunt":"Your global presence. If you want grab some assists it will help. It will also help you to escape ganks, scout some enemies, and push mid barracks just a second after farming top lane."
+		}
+	}
+}

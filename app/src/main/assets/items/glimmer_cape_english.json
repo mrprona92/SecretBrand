@@ -1,0 +1,19 @@
+{
+  "dotaId": "glimmer_cape",
+  "id": 254,
+  "img": "glimmer_cape_lg.png",
+  "dname": "Glimmer Cape",
+  "qual": "rare",
+  "cost": 1950,
+  "desc": "Active: Glimmer - After a 0.4 second delay, grants invisibility and 66% magic resistance to you or a target allied unit. Can be cast while channelling.",
+  "notes": "",
+  "attrib": "+ 20 Attack Speed<br/>+ 20% Spell Resistance<br/>GLIMMER FADE TIME: 0.4<br/>GLIMMER MAGIC RESISTANCE: 55%<br/>GLIMMER DURATION: 5",
+  "mc": 130,
+  "cd": 16,
+  "lore": "The stolen cape of a master illusionist.",
+  "components": [
+    "shadow_amulet",
+    "cloak"
+  ],
+  "created": true
+}

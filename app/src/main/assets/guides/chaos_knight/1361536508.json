@@ -1,0 +1,89 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"Chaos Knight - Portador de la muerte",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"vladmir",
+				"manta"
+			],
+			"luxury":
+			[
+				"heart",
+				"reaver",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Fundamental para que Chaos Knight tenga siempre mana para lanzar sus hechizos, pues son muy caros",
+				"power_treads":"Recomiendo las de poder en vez de por ejemplo las arcanas porque aunque Chaos Knight consuma mucho mana, tenemos 3 usos con la botella y seleccionando el atributo de agilidad en las botas conseguiremos un resultado optimo",
+				"vladmir":"Fundamental para aguantar y no tener que ir a base",
+				"heart":"Si llegamos a comprarlo sencillamante y como cualquier otro heroe, seremos imparables, debido a que Chaos Knight es adem'as un excelente tanque.",
+				"manta":"Unido al ultimate de Chaos Knight, con Manta Style podr'as sacar muchas mas copias y arrasar a su vez con el teletransporte.",
+				"armlet":"Si queremos aumentar mucho el danio de Chaos Knight, una vez tengamos el nivel adecuado, podemos optar por comprar estos brazaletes que nos daran una gran bonificicacion a cambio de irnos bajando poco la salud",
+				"helm_of_the_dominator":"Para poder seguir dandolo todo sin tener que ir a base. Con el robo de vida podemos seguir adelante."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_strike",
+			"4":"chaos_knight_chaos_bolt",
+			"5":"chaos_knight_reality_rift",
+			"6":"chaos_knight_phantasm",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_chaos_strike",
+			"9":"chaos_knight_chaos_bolt",
+			"10":"chaos_knight_chaos_strike",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_reality_rift",
+			"13":"chaos_knight_reality_rift",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"El primer stun. Es fundamental lanzarlo en el momento preciso, pues consume mucho mana. Podemos combinarlo con 'Fisura de la realidad' para conseguir un efecto devastador en el ataque.",
+				"chaos_knight_reality_rift":"Una habilidad unica de Chaos Knight. Abre un portal entre el heroe objetivo y Chaos Knight a una distancia ente ambos. Es fantastico usarlo cuando defendemos nuestra propia torre haciendo aavanzar el heroe enemigo a nuestro campo.",
+				"chaos_knight_chaos_strike":"Chaos Knight hace mucha pupa, sobre todo gracias a esta pasiva que permite hacer criticos, convirtiendose en unautentico heroe de DPS.",
+				"chaos_knight_phantasm":"El ultimate de Chaos Knight saca copias de si mismo. Es muy efectivo usarlo en combinaciion con su segunda habilidad 'Fisura de la realidad' para ser devastador. Si lo combinamos con el objeto 'Estilo manta' podemos llegar a sacar hasta 5 copias, ademas de ayudarnos a huir en caso necesario."
+		}
+	}
+}

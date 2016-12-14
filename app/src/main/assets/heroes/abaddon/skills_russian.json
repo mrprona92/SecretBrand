@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Mist Coil",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Ценой собственного здоровья Abaddon выпускает смертельный туман, который наносит урон врагу или лечит союзника.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УРОН ПО СЕБЕ: <b><font color=\"#ffffff\">75/100/125/150</font></b><br/>УРОН/ЛЕЧЕНИЕ: <b><font color=\"#ffffff\">100/150/200/250</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/60/70/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 5",
+        "lore": "Теперь Abaddon дышит загадочными испарениями фонтана Аверно и использует их по своему усмотрению.",
+        "hurl": "Abaddon",
+        "name": "abaddon_death_coil",
+        "youtube":"stcWsFoEfag",
+        "id": 0
+    },
+    {
+        "dname": "Aphotic Shield",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Окружает союзника темной энергией, создавая щит, который поглощает некоторое количество урона перед тем как исчезнуть. При уничтожении щит взрывается и наносит весь поглощенный урон ближайшим врагам. Сбрасывает некоторые негативные эффекты и оглушение при применении.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15</font></b><br/>МАКС. ПОГЛОЩЕНИЕ УРОНА: <b><font color=\"#ffffff\">110/140/170/200</font></b><br/>РАДИУС ВЗРЫВА: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/105/110/115<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/10/8/6",
+        "lore": "Сила черного тумана поглощает удары так же, как он сам поглощает дневной свет.",
+        "hurl": "Abaddon",
+        "name": "abaddon_aphotic_shield",
+        "youtube":"AUZPOPV0FiU",
+        "id": 1
+    },
+    {
+        "dname": "Curse of Avernus",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Атаки Абаддона накладывают замораживающее проклятье. У всех, кто атакует замедленного врага, на некоторое время повышается скорость атаки и передвижения.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">2.5</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА: <b><font color=\"#ffffff\">4.5</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">15%</font></b><br/>ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "",
+        "lore": "Проклятье замедляет врага и ускоряет союзника.",
+        "hurl": "Abaddon",
+        "name": "abaddon_frostmourne",
+        "youtube":"83iU74QhxWw",
+        "id": 2
+    },
+    {
+        "dname": "Borrowed Time",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "При активации любой получаемый урон будет лечить вас. Снимает большинство негативных эффектов. Если способность готова к применению, она будет активирована пассивно, как только ваше здоровье упадет ниже 400.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Эту способность можно использовать, если ваш герой выведен из строя, но не когда он обезмолвлен.",
+        "dmg": "",
+        "attrib": "ПОРОГ ЗДОРОВЬЯ: <b><font color=\"#ffffff\">400</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/5/6</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">5/6/7</font></b><br/><font color=\"#6fe871\">ОБЛАСТЬ ДЕЙСТВИЯ:</font></b> <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/50/40",
+        "lore": "Эта сила, самая противоестественная из всех даров фонтана Аверно, бросает вызов пониманию смертных. То, что должно ранить, лечит, а то, что должно убить, — дает свежие силы.",
+        "hurl": "Abaddon",
+        "name": "abaddon_borrowed_time",
+        "youtube":"9J7CPbAg9dU",
+        "id": 3
+    }
+]

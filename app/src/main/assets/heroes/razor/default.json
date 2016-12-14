@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_razor",
+	"Title":"Recommended items for Razor",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"ring_of_protection",
+			"tango",
+			"flask",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"ring_of_aquila",
+			"boots"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"mekansm",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"black_king_bar",
+			"sange_and_yasha",
+			"desolator",
+			"heart",
+			"butterfly"
+		]
+	}
+}

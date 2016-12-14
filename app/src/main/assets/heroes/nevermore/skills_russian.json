@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shadowraze",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Shadow Fiend опустошает участок земли перед собой, нанося урон всем врагам в зоне действия.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/75/75/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Фирменный ход Nevermore для сбора душ.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_shadowraze1",
+        "youtube":"lznv0dtz-EI",
+        "id": 0
+    },
+    {
+        "dname": "Necromastery",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Shadow Fiend крадет душу каждого убитого врага, получая бонус к атаке. При убийстве героя он получает сразу 12 душ. После смерти выпускает половину из них.",
+        "notes": "Добивание союзников, нейтральных крипов и строений также дает бонус к атаке.",
+        "dmg": "",
+        "attrib": "УРОНА ЗА ДУШУ: <b><font color=\"#ffffff\">2</font></b><br/>МАКС. ДУШ: <b><font color=\"#ffffff\">15/22/29/36</font></b>",
+        "cmb": "",
+        "lore": "Shadow Fiend заботливо собирает души поверженных врагов, не давая им отправиться в Бездну, а взамен они служат ему, увеличивая его боевой потенциал.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_necromastery",
+        "youtube":"uC3aaPBr8-Y",
+        "id": 1
+    },
+    {
+        "dname": "Presence of the Dark Lord",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">врагов</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Присутствие Shadow Fiend снижает броню ближайших врагов.",
+        "notes": "Складывается с другими способностями и аурами, снижающими броню.",
+        "dmg": "",
+        "attrib": "СНИЖЕНИЕ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "",
+        "lore": "Даже просто будучи рядом, Nevermore разъедает душу.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_dark_lord",
+        "youtube":"fPfxz4wGRsk",
+        "id": 2
+    },
+    {
+        "dname": "Requiem of Souls",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Shadow Fiend выпускает собранные души в волны демонической энергии. Юниты возле Shadow Fiend могут получить урон от нескольких волн. Скорость передвижения и урон каждого юнита, получившего урон от этой способности, будут уменьшены. Создает одну волну энергии за каждые две души, захваченные с помощью Necromastery. Если Shadow Fiend погибает, то способность автоматически срабатывает вне зависимости от ее готовности.",
+        "notes": "Создает до 18 волн урона, по одной волне урона за каждые две души.<br/>Замедление и уменьшение урона от Requiem of Souls игнорирует невосприимчивость к заклинаниям.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/120/160</font></b>",
+        "attrib": "ЗАДЕРЖКА ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1.67</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">25%</font></b><br/>СНИЖЕНИЕ УРОНА: <b><font color=\"#ffffff\">50%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">5.000000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/175/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/110/100",
+        "lore": "Заточенные души павших в былых сражениях обретают свободу, дабы мстительно преследовать тех, кто еще недавно были их союзниками.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_requiem",
+        "youtube":"bYIdWp3A49M",
+        "id": 3
+    }
+]

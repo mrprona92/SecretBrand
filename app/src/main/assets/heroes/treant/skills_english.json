@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Nature\u0027s Guise",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Causes the targeted unit to blend in with the forest, becoming invisible to enemies and gaining a movement speed bonus when near a tree.  If the unit moves away from a tree or the spell is cast on a unit with no nearby trees, Nature\u0027s Guise is lost.  Treant Protector can cast spells and remain invisible under Nature\u0027s Guise.",
+        "notes": "If cast on a unit that isn\u0027t near a tree, it will lose the invisibility almost instantly.<br/>Nature\u0027s Guise checks in 1 second intervals for nearby trees, removing invisibility if none are found.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">15/30/45/60</font></b><br/>FADE TIME: <b><font color=\"#ffffff\">2</font></b><br/>TREE RADIUS: <b><font color=\"#ffffff\">375/375/375/375</font></b><br/>MOVEMENT SPEED: <b><font color=\"#ffffff\">10%/10%/10%/10%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10/8/6/4",
+        "lore": "The Protectors don\u0027t often come into vision; their natural state being nestled within their leafy brethren.",
+        "hurl": "Treant_Protector",
+        "name": "treant_natures_guise",
+        "youtube":"RrG1oa36SLk",
+        "id": 0
+    },
+    {
+        "dname": "Leech Seed",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Treant plants a life-sapping seed in an enemy unit, draining its health, while simultaneously slowing it. The seed heals friendly units around it.  Pulses 6 times.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAMAGE PER PULSE: <b><font color=\"#ffffff\">15/30/45/60</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">28%</font></b><br/>RADIUS: <b><font color=\"#ffffff\">500</font></b><br/>DURATION: <b><font color=\"#ffffff\">4.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16/14/12/10",
+        "lore": "Rooftrellen nurtures the beings under his stewardship, sustained by the lifeforce of trespassers into his sacred ground.",
+        "hurl": "Treant_Protector",
+        "name": "treant_leech_seed",
+        "youtube":"DxUAavLdUNM",
+        "id": 1
+    },
+    {
+        "dname": "Living Armor",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Infuses the target hero or structure with a protective coating which grants bonus regeneration. Also blocks some damage from all sources . Dispels when a number of damage instances are taken.",
+        "notes": "Can be cast through the minimap.",
+        "dmg": "",
+        "attrib": "DAMAGE INSTANCES: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>REGEN: <b><font color=\"#ffffff\">4/7/10/13</font></b><br/>BLOCK: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>DURATION: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 32/26/20/14",
+        "lore": "The roots and tendrils of the Treant Protectors are far-reaching, stimulating the growth and rejuvenation of all of nature.",
+        "hurl": "Treant_Protector",
+        "name": "treant_living_armor",
+        "youtube":"DkpjC57bU_g",
+        "id": 2
+    },
+    {
+        "dname": "Overgrowth",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Summons an overgrowth of vines and branches around Treant that prevent afflicted enemies from moving, blinking, going invisible, or attacking.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Works on Spell Immune units, but if units gain spell immunity after the effect starts, they\u0027ll break free.<br/>Being entangled by Overgrowth through enchanted trees from Eyes of the Forest does damage. Being entangled by Overgrowth directly from Treant Protector does not.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">3/3.75/4.5</font></b><br/>RADIUS: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/175/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 70",
+        "lore": "Rooftrellen calls the ancestral spirit of nature, releasing its power through all of his kin.",
+        "hurl": "Treant_Protector",
+        "name": "treant_overgrowth",
+        "youtube":"Sz6oCVgEAIY",
+        "id": 3
+    },
+    {
+        "dname": "Eyes In The Forest",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b>",
+        "desc": "Treant Protector enchants a tree, which grants him unobstructed vision in that location. If Overgrowth is cast, units within a 700 radius of an enchanted tree will be entangled and damaged.",
+        "notes": "Being entangled by Overgrowth through enchanted trees from Eyes of the Forest does damage. Being entangled by Overgrowth directly from Treant Protector does not.<br/>If the enemy has True Sight, they will be able to see which trees are enchanted.",
+        "dmg": "",
+        "attrib": "TREE VISION RADIUS: <b><font color=\"#ffffff\">700</font></b><br/>OVERGROWTH RADIUS: <b><font color=\"#ffffff\">700</font></b><br/>OVERGROWTH DAMAGE PER SEC: <b><font color=\"#ffffff\">175</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 25",
+        "lore": "One can never be too certain who, or what, might need protecting.",
+        "hurl": "Treant_Protector",
+        "name": "treant_eyes_in_the_forest",
+        "youtube":"",
+        "id": 4
+    }
+]

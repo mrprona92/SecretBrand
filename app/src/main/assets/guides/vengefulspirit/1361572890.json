@@ -1,0 +1,109 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Vengeful Spirit agressive and defensive roles - Squid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"circlet",
+				"slippers",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"power_treads"
+			],
+			"Agressive (Carry)":
+			[
+				"desolator",
+				"heart",
+				"skadi"
+			],
+			"Defensive (Support)":
+			[
+				"mekansm",
+				"ultimate_scepter",
+				"skadi"
+			],
+			"Luxary items (Both)":
+			[
+				"rapier",
+				"greater_crit",
+				"butterfly",
+				"hood_of_defiance",
+				"blade_mail",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Very important if used correctly. Can be used with Vengeful`s ultimate to win teamfights by initiating and getting out safely.",
+				"slippers":"Will be needed for your Ring Of Aquila, provides useful much needed agility at the start of the game.",
+				"circlet":"Will be needed for your Ring Of Aquila, provides decent boosts for low costs.",
+				"clarity":"Clarity for stun pushing early game if you`re going agressive or stun protection if they are pushing hard.",
+				"flask":"Basic healing item, use when low on health to replenish a large portion of health.",
+				"tango":"Basic healing item, use to top health up to full when you`ve taken small amounts of damage,",
+				"power_treads":"Exceedingly good if used correctly, can be toggled to suit the situation. I suggest the strength option to increase health due to Vengeful starting reasonably flimsy.",
+				"mekansm":"Very useful, can be used to keep team members alive and adds to survivability.",
+				"ultimate_scepter":"Average stat boosts. Cuts ultimate time down to 10seconds, great for generally messing with the enemy and can be used to swap with key targets straight into the middle of your team to get them killed easy.",
+				"heart":"Key if you`re initiating and will just increase your survivability throughout the fight. Remember, the longer you stay alive the longer you can be around helping and picking up the juicy kills!",
+				"blade_mail":"If you`re tanking, will be helpful at dealing damaging back to the attackers.",
+				"hood_of_defiance":"Adds to defenses against magic, useful if you`re playing a spell heavy team.",
+				"rapier":"Obvious choice if you have a lot of money and you`re dominating them, the 300+ damage will rip through anyone.",
+				"butterfly":"30% evasion is incredibly good, will increase the time you survive in fights greatly.",
+				"greater_crit":"Huge crits can be achieved, can be devastating and turn the tides of fights in a matter of hits.",
+				"skadi":"Good for just helping youself/team by reducing enemies attack speed and speed whilst providing good stats.",
+				"desolator":"Good damage with a great effect. The reduced armour effect is crucial for team fights as it helps bring down heavy tank whilst also giving you bigger hits for easier creep kills.",
+				"ring_of_aquila":"Useful aura and good stats."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_command_aura",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_command_aura",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_command_aura",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_command_aura",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_nether_swap",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_wave_of_terror",
+			"13":"vengefulspirit_wave_of_terror",
+			"14":"vengefulspirit_wave_of_terror",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Aggressive - Can be used to get quick early stuns to assist the team in kills or use the high damage early on to bag some kills for youself.
+
+Defensive - Can be used to stun enemies who are chasing you/your team whilst hitting good damage on them,",
+				"vengefulspirit_wave_of_terror":"Not great but can be useful in teamfights to reduce the enemies armour and to hit small amounts of damage.",
+				"vengefulspirit_command_aura":"Very useful, buffs the whole team with good % bonus in damage, in team games make sure to keep your heavy hitters within range so they hit even more!",
+				"vengefulspirit_nether_swap":"Not needed until around level 10 once team fights are more likely to start, can be used very well to sacrifice yourself to take down priority targets by swaping them into the middle of your team."
+		}
+	}
+}

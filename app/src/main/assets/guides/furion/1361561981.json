@@ -1,0 +1,89 @@
+{
+	"Hero":"furion",
+	"Title":"Natures Prophet (Jungla) - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"gloves"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"desolator",
+				"orchid",
+				"greater_crit",
+				"ultimate_scepter",
+				"black_king_bar",
+				"monkey_king_bar",
+				"rapier",
+				"manta",
+				"dagon",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"Cuidado de no activarla cuando un creep neutral de rango te pueda atacar (que tus treants se lleven los ataques) porque puedes perder mucho potencial de jungleo.",
+				"hand_of_midas":"Si quieres comprar Midas intenta que sea antes del minuto 7 aproximadamente y usalo cada vez que su cooldown se acabe!!",
+				"necronomicon":"Para pushear!",
+				"invis_sword":"Puedes comprar la hoja sombria si quieres un extra de movilidad y seguridad al gankear enemigos."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_sprout",
+			"3":"furion_force_of_nature",
+			"4":"furion_teleportation",
+			"5":"furion_force_of_nature",
+			"6":"furion_teleportation",
+			"7":"furion_force_of_nature",
+			"8":"furion_wrath_of_nature",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_sprout",
+			"12":"furion_wrath_of_nature",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"Usa esta habilidad para atrapar heroes despues de transportarte para gankear. Tambien para atrapar a los que escapan en las teamfights. Puedes usarlo para ti mismo y asi escapar con transporte mas facil. Puedes usarla y luego convertir los arboles en treants.",
+				"furion_teleportation":"La principal habilidad de Natures Prophet. Al principio no usarla si no estas seguro de que vas a poder matar al transportarte (Intentar mantenerte en la jungla todo lo posible si no es una kill segura). Luego en mid y late game usar para gankear y pushear torres.",
+				"furion_force_of_nature":"Usar los treants para evitar recibir ataques mientras jungleas. Maximizar esta habilidad la primera para junglear mas facilmente. En mid y late game se usan para pushear torres.",
+				"furion_wrath_of_nature":"Esta habilidad usala para matar a los enemigos que veas con muy poca vida, para las teamfights y para pushear lineas o defender torres en cualquier momento."
+		}
+	}
+}

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/half_view_padding"
+                android:text="@string/enemies"
+                android:textColor="@color/enemy_team" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <ImageView
+                    android:id="@+id/enemy0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="@dimen/half_view_padding"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/enemy1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/enemy2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/enemy3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/enemy4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/default_img" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/half_view_padding"
+                android:text="@string/allies"
+                android:textColor="@color/ally_team" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <ImageView
+                    android:id="@+id/ally0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginLeft="@dimen/half_view_padding"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/ally1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/ally2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/default_img" />
+
+                <ImageView
+                    android:id="@+id/ally3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="56dp"
+                    android:layout_marginRight="@dimen/half_view_padding"
+                    android:layout_weight="0.25"
+                    android:src="@drawable/default_img" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/half_view_padding"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/hero_roles" />
+
+                <Spinner
+                    android:id="@+id/role_select"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <com.pnikosis.materialishprogress.ProgressWheel
+                xmlns:wheel="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/progressBar"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:visibility="gone"
+                wheel:matProg_barColor="@color/primary"
+                wheel:matProg_progressIndeterminate="true" />
+            <TextView
+                android:id="@+id/holder_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/half_view_padding"
+                android:text="@string/recommended_to_you"
+                android:visibility="gone" />
+
+            <com.badr.infodota.base.view.FlowLayout
+                android:id="@+id/holder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/half_view_padding"
+        android:text="@string/show_results" />
+</LinearLayout>

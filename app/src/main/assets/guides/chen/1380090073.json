@@ -1,0 +1,126 @@
+{
+	"Hero":"chen",
+	"Title":"Chen: When Played Competitively",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"smoke_of_deceit",
+				"ward_sentry",
+				"clarity",
+				"branches"
+			],
+			"Starting 2 (No Vlads)":
+			[
+				"tango",
+				"ward_sentry",
+				"clarity",
+				"smoke_of_deceit"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"headdress",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"vladmir",
+				"force_staff",
+				"ghost"
+			],
+			"Situational + Alt Items":
+			[
+				"gem",
+				"ultimate_scepter",
+				"sheepstick",
+				"tpscroll"
+			],
+			"Consistently Bought":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Start of your Ring of Basilius which will then lead into your Vlads later on. You can alternatively not buy a Ring of Protection for helping buy the courier or observer wards, but this means you will be going straight Arcane Boots and Mekansm.",
+				"branches":"Manner branch :)",
+				"boots":"Boots for Arcane Boots!",
+				"gem":"When the time calls for a it, a Gem will help your team de-ward quicker and give free detection when discovering invis heroes is a lot more important later in the game + helps you from buying a lot of sentries.",
+				"ghost":"If a team has two core heroes that both are right clickers, a Ghost Scepter will help you survive longer in fights.",
+				"clarity":"Clarity will help you with your early regen, especially if you opted to not go through with Ring of Basilius > Vlads.",
+				"ward_observer":"Due to not being able to pool regen, you can now help buy the wards at the start of the game.
+
+
+Keep buying through-out the game. This will help your other support not get gold starved to death.",
+				"ward_sentry":"The enemy might start heading into your jungle at the start of the game to block one or two of your camps due to blocking the pull camp not being viable in 6.79. Be prepared for it. Always buy sentries for de-warding and to setup kills on invisible heroes.",
+				"courier":"Due to the 6.79 changes to not being able to give your allies your regen, you can now either help buy the courier or wards",
+				"tpscroll":"Because you have a mobile army, TPing around the map is useless to a certain degree. The only times you will buy a TP scroll, is leaving the fountain or after pushing a tower. You will also never have the space to fit them in your inventory, so buy them when you are absolutely going to use it.",
+				"mekansm":"Mekansm is your close range 'Hand of God'. It is better used before Hand of God in a team fight because of it's cooldown and mana cost being more efficient.",
+				"vladmir":"Vlads is a very cheap item that not only buffs your allies, but your creeps as well. It is one of the best early-mid items that fits Chen. If you did not buy a basilius ring and opted to skip it, DO NOT build a Vlads.",
+				"flying_courier":"6.79 - The courier cannot be upgraded until 3 minutes into the game.",
+				"ring_of_basilius":"First early core item. Build into a Vlads after completing Arcane Boots and Mekansm.",
+				"headdress":"The starting item of your mekansm.",
+				"sheepstick":"A Scythe is the perfect item in the late game if you decide to skip the Aghanims Scepter to help out being offensive against the enemy heroes. The trade off being you are opting out of healing your team with a spammable ultimate vs hexing a important target.",
+				"force_staff":"Force Staff is a defensive item that can also be used offensively. Another cheap item that you can use to support your team with in the mid game.",
+				"ultimate_scepter":"What can be called the bread + butter item for Chen, it is a misconception that you must always always always go for an Aghanims Scepter. Because of it's high cost, a Scepter is only farmable and aquired when late game hits. This is because there are cheaper items that benefit more earlier on.",
+				"arcane_boots":"Because Chens abilities are costly, Arcane Boots are the only boots that are worth buying + mana for your team.",
+				"smoke_of_deceit":"6.79 - Smoke is now a lot lot better and with the night time changes making it even more powerful without touching it for ganking is even greater. There is no reason to not buy the smoke at the start of the game. Remember to buy through-out the game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_test_of_faith",
+			"4":"chen_holy_persuasion",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"Because the scaling is terrible early on and the bonus damage is physical only, it is a mid-late ability for your right clickers. It comes with an okay slow as well.",
+				"chen_test_of_faith":"A very powerful nuke if the RNG is right. The reason for getting the 2nd level at level 3 is due to Holy Persuasion not letting you get a 2nd creep till the abilitiy is level 3. It also helps when ganking early to put out more damage.",
+				"chen_test_of_faith_teleport":"6.79 - TEST OF FAITH IS NOW DISPELLABLE
+
+If a teamfight looks lost, send an ally that may die or the most important one back. You can also send an ally home and have them TP back into the lane so they avoid walking.",
+				"chen_holy_persuasion":"The abiltity that makes Chen what he is. Controlling creeps is a very powerful tool to have at your disposal. Make sure to always have creeps and use them to push towers early and in general. The later the game goes, the weaker and less scary creeps are. Always remember to hotkey new creeps.",
+				"chen_hand_of_god":"This is your global Mekansm. It has a long cooldown and a large mana cost but it will also heal your creeps completely back to full health and allies that are in magic immune states (BKB, Repel, Rage etc). Use only after Mekansm in team fights to get the most healing potential out.",
+				"attribute_bonus":"Level after everything else is. Yay stats."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Summon Wolves",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Призывает двух волков, которые будут сражаться на стороне Lycan. Волки 2-4 уровней могут нанести критический удар, волки 3-4 уровней обладают постоянной невидимостью, а волки 4 уровня имеют регенерацию здоровья, равную 15 единиц.",
+        "notes": "Если волки были призваны после использования способности Howl, они получат эффект от нее на оставшееся время действия.<br/>Волки имеют сопротивление магическому урону в 80%%.<br/>Прочтение этого заклинания заменит уже существующих волков на новых.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">55/55/55/55</font></b><br/>ЗАДЕРЖКА ПЕРЕД АТАКОЙ: <b><font color=\"#ffffff\">1.25/1.2/1.15/1.1</font></b><br/>УРОН: <b><font color=\"#ffffff\">18/29/37/46</font></b><br/>ЗДОРОВЬЕ: <b><font color=\"#ffffff\">200/240/280/320</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 145<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30",
+        "lore": "То самое заклинание, что исказило его сущность, также позволяет призывать волков-напарников.",
+        "hurl": "Lycan",
+        "name": "lycan_summon_wolves",
+        "youtube":"jgij5OMHj0M",
+        "id": 0
+    },
+    {
+        "dname": "Howl",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Увеличивает урон Lycan, союзных героев и всех подконтрольных им юнитов.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ПРОДОЛЖИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН ГЕРОЯМ: <b><font color=\"#ffffff\">14/26/38/50</font></b><br/>ДОП. УРОН ПРИЗВАННЫМ СУЩЕСТВАМ: <b><font color=\"#ffffff\">5/10/15/20</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/20/25/30<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/45/40/35",
+        "lore": "Леденящий кровь вой дает врагам знать: Бэйнхаллоу уже среди них.",
+        "hurl": "Lycan",
+        "name": "lycan_howl",
+        "youtube":"5vyHuopd3zQ",
+        "id": 1
+    },
+    {
+        "dname": "Feral Impulse",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Увеличивает урон и скорость атаки Lycan и всех подконтрольных ему юнитов.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">900/900/900/900</font></b><br/>ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">15/20/25/30</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b>",
+        "cmb": "",
+        "lore": "Звериный симбиоз с волчьим родом даёт Бейнхаллоу улучшенные рефлексы и способности для охоты.",
+        "hurl": "Lycan",
+        "name": "lycan_feral_impulse",
+        "youtube":"bmNQfQmSPzc",
+        "id": 2
+    },
+    {
+        "dname": "Shapeshift",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Lycan принимает свою истинную форму, в которой он может наносить критические удары и обладает ночным зрением. Во время действия этой способности Lycan и все существа под его контролем двигаются с увеличенной скоростью и не могут быть замедлены.",
+        "notes": "Hex не влияет на скорость передвижения вашего героя.<br/>В этом состоянии вы имеете меньший радиус столкновения.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">18/18/18</font></b><br/>СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">650</font></b><br/>ДОП. НОЧНОЙ ОБЗОР: <b><font color=\"#ffffff\">1000</font></b><br/>ШАНС КРИТА: <b><font color=\"#ffffff\">30%/30%/30%</font></b><br/>КРИТИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">170%/170%/170%</font></b><br/>ВРЕМЯ ПРЕВРАЩЕНИЯ: <b><font color=\"#ffffff\">1.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/90/60",
+        "lore": "Навеки раб своей ликантропии, Бейнхаллоу смирился с проклятием и принял свою свирепость как данное.",
+        "hurl": "Lycan",
+        "name": "lycan_shapeshift",
+        "youtube":"b2Uh7so6wiE",
+        "id": 3
+    }
+]

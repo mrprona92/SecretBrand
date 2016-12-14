@@ -1,0 +1,93 @@
+{
+	"Hero":"puck",
+	"Title":"Puck Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"blink"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"sphere",
+				"sheepstick",
+				"shivas_guard",
+				"dagon",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"After you go in with Blink and unload all your abilities on top of the poor enemy team you will be prime target for them. You will then need a way to get out - you Orb does just that. You can also escape almost every situation with Blink and Phase Shift.",
+				"mantle":"For the extra last hitting power. You can always skip the Mantle and the Salve or Tango in order to get a quicker Bottle.",
+				"bottle":"As you will most likely take the mid role, rune control becomes very easy when you have Illusory Orb at your disposal. Not many heroes can compete with Puck when it comes to a rune race.",
+				"power_treads":"I personally find Power Treads extremely helpful for Puck due to the fact Puck is super squishy. Tread switching (putting the Treads to INT before casting a spell and then reverting them back to STR) saves up a lot of mana as well. Phase Boots are also nice as Puck wants to be as fast as possible.",
+				"sheepstick":"The ultimate late game luxury for INT heroes. Nuff said.",
+				"cyclone":"A very cheap item which makes you faster, solves most of your mana problems and most importantly allows you to disable an enemy. You can also use it on yourself while waiting for your abilities or Blink to come off cooldown or to just dodge stuff aimed at you - a secondary Phase Shift if you will.",
+				"dagon":"In case you need the extra damage. Do NOT upgrade it past level 1.",
+				"heart":"For even more survivability, Heart makes you almost impossible to kill. You need to get a mana regen item first though - Eul`s, Linken`s or Scythe.",
+				"shivas_guard":"You don`t like dying, eh? I hear you. Linken`s, Heart and Shiva`s practically make you invulnerable. It is so funny to see a \"squishy\" Puck running around with 3k hp, 20+ armor and Linken`s. However this is only advisable if you are having a laugh or the game has gone past the hour mark.",
+				"sphere":"You are the prime target in team fights? Fear not, Linken`s is here to save the day. Everything this item provides is great for Puck and the Spell Block is invaluable."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_phase_shift",
+			"2":"puck_illusory_orb",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"Your primary ability to initiate with prior to obtaining a Blink Dagger and to escape with later on. Why max it first over Waning Rift? Because it has a lower cooldown and is a ranged nuke. Don`t forget it also grants vision over the area.",
+				"puck_waning_rift":"Hold on to your Waning Rift unless going in for a quick kill - the silence is great to stop channeling abilities, so do bait them out of possible. However, if you are the primary initiator, don`t waste any time and silence after you go in or you might find yourself in deep trouble.",
+				"puck_phase_shift":"Get Phase Shift at level 1 and leave it for last. You can effectively trade hits with the enemy mid hero as you can easily dodge incoming attacks or spells with it. When it`s lvl 4, you can always escape by double tapping Blink Dagger as the skill duration is enough for Blink to come off cooldown.",
+				"puck_dream_coil":"Try to catch people out of position with your Dream Coil. Then they have to choose between running away and getting stunned or staying in and getting trapped. Dream Coil is not particularly effective when the enemy heroes don`t need to run away as the Coil break stun is most important."
+		}
+	}
+}

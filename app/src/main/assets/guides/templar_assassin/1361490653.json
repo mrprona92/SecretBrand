@@ -1,0 +1,125 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"The Mysteries Cannot Protect Themselves",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"blink",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"desolator",
+				"greater_crit",
+				"manta",
+				"butterfly",
+				"assault",
+				"monkey_king_bar",
+				"medallion_of_courage",
+				"sphere",
+				"heart",
+				"satanic",
+				"ancient_janggo",
+				"diffusal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"You can use this to position yourself properly, for the right Psi Blades attack, or to truly utilise the \"Assassin\" nature. You're going to want to trap, blink in, Meld, then dish out all your damage, and they have to react when you're close, not when you're running up to them.",
+				"branches":"To build into a Magic Wand and for a bit of laning presence.",
+				"boots":"Brown Boots ensure you keep up with people. Remember, Templar Assassin has a slow, but still no way to close a gap. You want to be able to keep up with people, and getting these Boots early on will give you that leg up for the time being.",
+				"magic_wand":"You're going to be wanting to fight a lot early to mid game, it's where she shines. This means you can do that a bit more often. More health and more mana (in a burst, too!) means better, or more fighting!",
+				"bottle":"Rush this as soon as possible. It's why you don't spend the full 600g at the start!",
+				"tango":"For sustainability in lane. Consider a Healing Salve, too, if you're against a nasty lane (e.g. Batrider).",
+				"phase_boots":"Templar Assassin, as stated before, has no real way to close a gap, and doesn't particularly need to attack fast. You can use these to make up for TA's lack of gap closer, they REALLY help, even with Blink!
+
+Get Phase Boots every time, they're essential for closing distance.",
+				"assault":"Useful to bolster your team's own Attack Speed, and help shred the enemy armour even more. Get this only after BKB and Desolator and if someone else on your team would greatly benefit it.",
+				"heart":"Only really useful extremely late in the game and if you're the only carry on your team and therefore need to stay alive, really. For the most part, Refraction makes you tankier than most people anyway.",
+				"black_king_bar":"This is essential for Templar Assassin due to her short range, reliance on killing heroes, and also means her Refraction will only block physical attacks, which usually means the enemy carry, which is exactly what you want, as they're going to hurt the hardest.",
+				"sphere":"Very useful if you're having trouble with a Beastmaster's Roar or other single target disable. Means you can remain un-CC'd, free to deal your damage.",
+				"monkey_king_bar":"If you're relied upon to carry and/or the enemy team has a lot of avoidance based abilities (like Phantom Assassin's Blur or a Brewmaster), this can be a really really nice pickup.",
+				"butterfly":"Useful extremely late game if you are relied upon to face the enemy carries, or if it's dragging into really late game, and you need an item for your last few slots, consider Butterfly.",
+				"greater_crit":"Makes your armour-shredding really come into use. With a Meld hit and that added damage from Refraction, your crits are going to be HUGE.",
+				"manta":"Useful against enemies with Orchid Malevolence (using Manta Style removes the silence!) or little to no Area of Effect damage.",
+				"satanic":"A nice item for tankiness late game if you don`t have any other Unique Attack Modifier and would like some lifesteal.",
+				"desolator":"Get this if you're doing well early game or after your BKB, it stacks incredibly well with Meld.",
+				"diffusal_blade":"Against Warlock, Omniknight, or other heroes you can usefully use this item against, this item can be extremely useful. Remember you can`t stack this with Desolator, however.",
+				"ancient_janggo":"A nice early game item if someone else on your team isn't buying Drums and you`d like to focus less on ganking and more on teamfight contribution.",
+				"medallion_of_courage":"Can SOMETIMES be useful for a bit of early aggression, or to counter heroes that rely it but have little armour (like Tiny). Worthy of note for its synergy with Meld, but it should be ignored most game. It costs exactly half of your Blink Dagger."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_refraction",
+			"2":"templar_assassin_psi_blades",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"ALWAYS max this first. Activate it a little bit before a fight starts for maximum efficiency.
+
+80 damage on 6 attacks isn't to be scoffed at, neither is dodging 6 attacks. You want that as soon as possible.",
+				"templar_assassin_meld":"This is a damage buff first, a skill disjoint (you can stop projectiles (like QoP's dagger) from hitting you if you Meld mid-air and they don't see you) second, and an invisibility last. Hover your mouse over them, press W, THEN right click!
+
+Maxed second for the incredible damage it gives.",
+				"templar_assassin_psi_blades":"This is extraordinarily useful in lane, and is the reason Templar Assassin demands such good positioning in team fights. Try and line heroes (or creeps and heroes) up so you can hit both at the same time!
+
+Always take a point early for harass.
+
+Works on denies.",
+				"templar_assassin_trap":"I'd advise never to use this ability. It has a 0.5s casting time, which means it's a LOT faster to draw a box around your trap and press Q, which is INSTANT!
+
+It takes a bit of getting used to, though, but it's worth it. That small break in movement can really make a difference.",
+				"templar_assassin_psionic_trap":"Make sure you take this whenever you can. Put one down on each rune spot and one on either side of mid lane. Pop them whenever action happens near there or you want to make it happen.
+
+Remember, they grow 5% slow each second they're down, so you don't HAVE to pop them as soon as you drop them."
+		}
+	}
+}

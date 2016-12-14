@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_gyrocopter",
+	"Title":"Recommended items for Gyrocopter",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"clarity",
+			"tango",
+			"flask",
+			"circlet",
+			"slippers"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_wand",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"black_king_bar",
+			"helm_of_the_dominator",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"invis_sword",
+			"monkey_king_bar",
+			"satanic",
+			"butterfly",
+			"sphere",
+			"ancient_janggo",
+			"ultimate_scepter",
+			"ethereal_blade"
+		]
+	}
+}

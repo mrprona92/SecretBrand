@@ -1,0 +1,99 @@
+{
+	"Hero":"bristleback",
+	"Title":"Classic Bristleback",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"sobi_mask",
+				"boots",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"hood_of_defiance",
+				"power_treads"
+			],
+			"Luxury":
+			[
+				"pipe",
+				"blade_mail",
+				"assault",
+				"radiance"
+			],
+			"More Mana, More Spam":
+			[
+				"arcane_boots",
+				"medallion_of_courage",
+				"urn_of_shadows"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Strong defensive start with items you'll need later.",
+				"sobi_mask":"You can choose to turn this into a medallion (for synergy with your snot) or just keep it for a little extra regen.",
+				"magic_wand":"Virtually mandatory. You're gonna get spammed on.",
+				"pipe":"Natural conclusion to your hood.",
+				"urn_of_shadows":"Very situational. If you're running around ganking, maybe. Generally Bristle opens and tanks, rather than ganking. He need time to stack up his snots and quills.",
+				"assault":"More anti-armor, but quite a luxury.",
+				"heart":"Don't get a heart. You need to take hits continuously to be effective.",
+				"blade_mail":"Your job is to get hit. This'll make em pay for it.",
+				"radiance":"You'd have to be doing pretty well to get a rad.",
+				"arcane_boots":"I would only go mana boots if there are other highly mana-dependant heroes on your team who aren't planning to get said boots themselves.",
+				"medallion_of_courage":"Even less armor, even more snot."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_viscous_nasal_goo",
+			"2":"bristleback_quill_spray",
+			"3":"bristleback_viscous_nasal_goo",
+			"4":"bristleback_quill_spray",
+			"5":"bristleback_viscous_nasal_goo",
+			"6":"bristleback_warpath",
+			"7":"bristleback_viscous_nasal_goo",
+			"8":"bristleback_quill_spray",
+			"9":"bristleback_quill_spray",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_bristleback",
+			"13":"bristleback_bristleback",
+			"14":"bristleback_bristleback",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"Starting with goo, or any defensive skill, is usually a good idea.",
+				"bristleback_bristleback":"No need to go early bristleback, as taking damage in lane phase is hardly a priority."
+		}
+	}
+}

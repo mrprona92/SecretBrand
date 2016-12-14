@@ -1,0 +1,82 @@
+{
+	"Hero":"night_stalker",
+	"Title":"Баланар-хардкерри",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"tango"
+			],
+			"К 1 ночи (плохой фарм)":
+			[
+				"quelling_blade",
+				"ring_of_basilius",
+				"boots"
+			],
+			"К 1 ночи (хороший фарм)":
+			[
+				"quelling_blade",
+				"ring_of_basilius",
+				"boots",
+				"ring_of_regen",
+				"lifesteal"
+			],
+			"Середина игры":
+			[
+				"quelling_blade",
+				"vladmir",
+				"basher",
+				"power_treads"
+			],
+			"Лейт":
+			[
+				"mjollnir",
+				"vladmir",
+				"abyssal_blade",
+				"power_treads",
+				"heart",
+				"greater_crit"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_hunter_in_the_night",
+			"3":"night_stalker_void",
+			"4":"night_stalker_hunter_in_the_night",
+			"5":"night_stalker_void",
+			"6":"night_stalker_darkness",
+			"7":"night_stalker_void",
+			"8":"night_stalker_hunter_in_the_night",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_crippling_fear",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

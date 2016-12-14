@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Thunder Clap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Slams the ground, dealing damage and slowing the movement speed and attack rate of nearby enemy land units.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">400/400/400/400</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">100/175/250/300</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">25%/35%/45%/55%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">25/35/45/55</font></b><br/>HERO DURATION: <b><font color=\"#ffffff\">4</font></b><br/>CREEP DURATION: <b><font color=\"#ffffff\">8/8/8/8</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/105/130/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13",
+        "lore": "A slam of Mangix\u0027 mighty keg starts the festivities.",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_thunder_clap",
+        "youtube":"iff_66q_-WI",
+        "id": 0
+    },
+    {
+        "dname": "Drunken Haze",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Drenches a small area in alcohol, causing their movement speed to be reduced, and causing their attacks to have a chance to miss.",
+        "notes": "Drunken Haze cannot be disjointed.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">200</font></b><br/>HERO DURATION: <b><font color=\"#ffffff\">8/8/8/8</font></b><br/>CREEP DURATION: <b><font color=\"#ffffff\">12/12/12/12</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">14%/18%/22%/26%</font></b><br/>MISS CHANCE: <b><font color=\"#ffffff\">45%/55%/65%/75%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "The Order of the Oyo\u0027s solution to all problems - another round!",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_drunken_haze",
+        "youtube":"o5T4GnOGj5o",
+        "id": 1
+    },
+    {
+        "dname": "Drunken Brawler",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Gives a chance to avoid attacks and to deal critical damage. Drunken Brawler will always trigger if you have not attacked, or have not been attacked, in the last several seconds.<br/>Stacks diminishingly with other sources of Evasion.",
+        "notes": "The guaranteed critical attack and guaranteed dodge chance are on separate timers.",
+        "dmg": "",
+        "attrib": "DODGE CHANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>CRIT CHANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>CRIT DAMAGE: <b><font color=\"#ffffff\">200%</font></b><br/>CERTAIN TRIGGER TIMER: <b><font color=\"#ffffff\">16/14/12/10</font></b>",
+        "cmb": "",
+        "lore": "When Mangix won his title as the Brewmaster of the Order of Oyo, he also claimed his place in the mastery of inebriation.",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_drunken_brawler",
+        "youtube":"mYA6AFcxVhk",
+        "id": 2
+    },
+    {
+        "dname": "Primal Split",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Splits Brewmaster into elements, forming 3 specialized warriors, adept at survival. If any of them survive until the end of their summoned timer, the Brewmaster is reborn.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The Earth Element will carry all auras that the Brewmaster has, as well as True Sight.<br/>The Fire Element has phased movement.<br/>When the spell ends, Brewmaster will take the place of an element in this order, assuming they are alive: Earth, Storm, Fire.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">15/17/19</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/150/175<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/120/100",
+        "lore": "It isn\u0027t clear whether Mangix is consciously aware of his potent bond with nature, as it often occurs in the midst of a drunken stupor.",
+        "hurl": "Brewmaster",
+        "name": "brewmaster_primal_split",
+        "youtube":"uLqYQIf9OuE",
+        "id": 3
+    }
+]

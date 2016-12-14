@@ -1,0 +1,97 @@
+{
+	"Hero":"pugna",
+	"Title":"[DMX] Pugna (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"mekansm",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"shivas_guard",
+				"dagon",
+				"black_king_bar",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ring_of_basilius",
+				"ancient_janggo",
+				"phase_boots",
+				"cyclone",
+				"ghost",
+				"courier",
+				"flying_courier",
+				"ward_observer"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pugna_nether_blast",
+			"2":"pugna_decrepify",
+			"3":"pugna_nether_blast",
+			"4":"pugna_nether_ward",
+			"5":"pugna_nether_blast",
+			"6":"pugna_life_drain",
+			"7":"pugna_nether_blast",
+			"8":"pugna_nether_ward",
+			"9":"pugna_nether_ward",
+			"10":"pugna_nether_ward",
+			"11":"pugna_life_drain",
+			"12":"pugna_decrepify",
+			"13":"pugna_decrepify",
+			"14":"pugna_decrepify",
+			"15":"attribute_bonus",
+			"16":"pugna_life_drain",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pugna_nether_blast":"Un excellent sort de dégâts qui permet de push les tours très rapidement.",
+				"pugna_decrepify":"Un sort qui maximisera vos dégâts magiques et permettra de vous sauver des dégâts physiques.",
+				"pugna_nether_ward":"Une ward excellente en teamfight qui rendra fou les ennemis lors des teamfights en infligeant de gros dégâts.",
+				"pugna_life_drain":"Une canalisation très puissante qui permettra d'infliger de gros dégâts à distance.
+L'aghanim's scepter est un must."
+		}
+	}
+}

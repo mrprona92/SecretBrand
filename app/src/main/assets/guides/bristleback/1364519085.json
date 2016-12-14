@@ -1,0 +1,112 @@
+{
+	"Hero":"bristleback",
+	"Title":"6.82 - Standard Bristleback (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"medallion_of_courage"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"crimson_guard",
+				"heavens_halberd"
+			],
+			"Replace Crimson Guard":
+			[
+				"mekansm",
+				"pipe"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"blade_mail"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"shivas_guard",
+				"heart"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"No bullshit, just more armor and heals to keep you running. Very nice item and since you use very little for everything else (30-35), Mekansm works out well with keeping you afloat in life and keeping team-fights heavily in your favour.
+
+If someone else on the team is getting it, don't bother.",
+				"pipe":"Pipe of Insight is also a very good item depending on the enemy line-up. Enemy nukers should be wary knowing you have this for your team.",
+				"sphere":"Don't let your passive take all the fun. Linken's is definitely a strong considerable item.",
+				"vanguard":"Crimson Guard is a great item for Bristleback in team-fights. Especially if he can't keep up with the enemy's physical carry's damage output. If you are doing fine tanking, then Crimson Guard is not especially needed but can still be useful.",
+				"crimson_guard":"Crimson Guard is a great item for Bristleback in team-fights. Especially if he can't keep up with the enemy's physical carry's damage output. If you are doing fine tanking, then Crimson Guard is not especially needed but can still be useful.",
+				"blade_mail":"Though it can be counter-intuitive to your tank-like abilities. Blade Mail can help mitigate even more damage, return it back to foes and keep you strutting around.",
+				"hood_of_defiance":"If your back is turned and you have this item. That is 55% reduced spell damage from your opponent's spells. This is a must buy.",
+				"sange_and_yasha":"If you want to deal damage,  this popular item is right up your alley!",
+				"medallion_of_courage":"Works great with your Goo ability and provides much needed mana regeneration. Definitely something good throughout the whole game! -6 armor + max stacks goo is another -8 armor. A whopping 14 armor reduction is incredible.",
+				"heavens_halberd":"Dodge + Keep enemy carries down as you dive into battle. Heaven's Halberd is an underplayed item that can seriously wreck enemy's plans."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_quill_spray",
+			"2":"bristleback_bristleback",
+			"3":"bristleback_viscous_nasal_goo",
+			"4":"bristleback_quill_spray",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_bristleback",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_viscous_nasal_goo",
+			"13":"bristleback_viscous_nasal_goo",
+			"14":"bristleback_viscous_nasal_goo",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"We get one level in Goo for the slow. However, your early game is all survivability and farming up those much needed core items. Try to focus on that and use Goo to assist anyone ganking in your lane.",
+				"bristleback_quill_spray":"Your core damage dealer and friend. Spam this to boost up your ultimate as well as to harass in lane, last-hit and everything in-between. Be careful as those with wands can take advantage of this to get stacks.
+
+Damage is instant, animation is for show. Hits stealth units.",
+				"bristleback_bristleback":"Keep your back turned from foes and let them wail on you. This will reduce all damage incoming from the side/back and allow you to be the &amp;amp;amp;quot;meat-shield&amp;amp;amp;quot; for your allies. It's all about position, so take advantage. Works on any and all spells, attacks, etc.",
+				"bristleback_warpath":"Quil Spray and Goo should help build up the stacks. Caution that this ultimate does not work with any item abilities you cast. So only Quill Spray and Goo will give you Warpath stacks."
+		}
+	}
+}

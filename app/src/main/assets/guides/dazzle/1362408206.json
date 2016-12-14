@@ -1,0 +1,121 @@
+{
+	"Hero":"dazzle",
+	"Title":"Dazzle Hard Mid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"branches",
+				"circlet",
+				"branches",
+				"branches",
+				"mantle",
+				"clarity"
+			],
+			"Early game":
+			[
+				"tpscroll",
+				"medallion_of_courage",
+				"phase_boots",
+				"hand_of_midas"
+			],
+			"Core items":
+			[
+				"travel_boots",
+				"invis_sword",
+				"desolator",
+				"assault"
+			],
+			"Sutuational items":
+			[
+				"black_king_bar",
+				"dagon",
+				"rod_of_atos",
+				"skadi",
+				"heart",
+				"blade_mail",
+				"orchid",
+				"heavens_halberd",
+				"greater_crit"
+			],
+			"Laning stage":
+			[
+				"null_talisman",
+				"bottle",
+				"boots",
+				"magic_wand"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"+3 damage and some more mana - good for the start..",
+				"branches":"Give some stats, not bad in the beginning.",
+				"circlet":"Need more stats in the beggining - it all that we need.",
+				"sobi_mask":"Need for buying soul ring, dont buy mask first, its better to buy recipe and buy mask later on the line.",
+				"boots":"Must have, need more speed for rushing ganks))",
+				"magic_wand":"Best variation to ubgrade branches. Extremely handy and it will save you many times in diffucult moments.",
+				"clarity":"Help you with recovering mana in early game.",
+				"bottle":"Very useful if you stay on mid lane: controling runes or just abusing it, grants you hp, to be safe in difficult situations, and mana, that will help you with healing, harass and chance to have some advantage, that gives you chance to kick asses of your enemies =))",
+				"tpscroll":"Gives mobility, always must have.",
+				"travel_boots":"Mobility is the key to easy win.",
+				"phase_boots":"Give you 24 damage and more speed, these wont be excess in early game.",
+				"hand_of_midas":"It will be useful, if you take it before 6-8 min comes and you have free time for some more farm.",
+				"null_talisman":"Everyone want to have some farm on the mid lane))And it would give you good opportunity to lasthit... Can be ubgrade in Dagon =)",
+				"orchid":"Possibility to silence casters or carries like Antimage, or to hush faster weak supports.",
+				"dagon":"Easy ganks in early-mid game",
+				"assault":"Turns the masses of enemies in fresh meat. -6 defence to all of enemy heroes, +10 and defence and a bit of AS to you , buffs to your team - very useful item in all phases of the game.",
+				"black_king_bar":"Need more safety - without a great amount of hp and susceptibility to casts (most about stuns, or skills that deals extra damage, like a lina or lion ulti).",
+				"greater_crit":"Luxury item, but if you try it - you ll understand how much damage you can deal with it...",
+				"invis_sword":"Invisibility,mobility,low price... and it isnt full list of advantages of this item. Best item for mid game ganks.",
+				"desolator":"Bonus reduction of enemy armor and bonus damage, helps you to kill faster that before.You can try to collect it before mid game ( best variation - 12-15 min from the beginning of the game ).",
+				"soul_ring":"Need mana to harass enemies with poison touch or shadow wave , or just cast shield in difficult times))",
+				"arcane_boots":"If you wish to always have mana, must have this.",
+				"medallion_of_courage":"In stack with ultimate, it gives you more chanses to solo gank by redusing enemy armor extremely. ",
+				"heavens_halberd":"Strong carries like Sven or Alchemist will kill you in few seconds, it will help you to survive and kill them easily."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shadow_wave",
+			"2":"dazzle_poison_touch",
+			"3":"dazzle_shallow_grave",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_poison_touch",
+			"6":"dazzle_weave",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_shadow_wave",
+			"9":"dazzle_shadow_wave",
+			"10":"dazzle_shallow_grave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_poison_touch",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"You can ask: ' Why i should improve this spell if i can deal more harass by using shadow wave' and i wlll understand you, but we need to improve poison touch because of it universality (damage, slowdown, stun) that can help us in different moments.",
+				"dazzle_shallow_grave":"Better to up this skill situationally: sometimes better to up this skill first to save your or your teammate live."
+		}
+	}
+}

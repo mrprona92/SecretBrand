@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shuriken Toss",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Hurls a deadly shuriken at an enemy unit, dealing damage and mini-stunning the target.  The shuriken will bounce between any Tracked units who are within a 1200 radius of each other.",
+        "notes": "This spell interrupts channeling abilities.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">150/225/300/375</font></b><br/>TRACK BOUNCE RANGE: <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/130/140/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "While the shuriken may be small, Gondar\u0027s precise aim can cause critical damage.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_shuriken_toss",
+        "youtube":"THFY7EAD7HY",
+        "id": 0
+    },
+    {
+        "dname": "Jinada",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Bounty Hunter plans his next hit, passively adding a critical strike and maim to his next attack.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "CRITICAL DAMAGE: <b><font color=\"#ffffff\">150%/175%/200%/225%</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">25%/25%/25%/25%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">25/25/25/25</font></b><br/>DURATION: <b><font color=\"#ffffff\">3/3/3/3</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/10/8/6",
+        "lore": "Whispering an enchantment he learned from Soruq to his faithful blades, Gondar targets vital tendons and joints to disable his opponents.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_jinada",
+        "youtube":"JVqW1Gyi5FM",
+        "id": 1
+    },
+    {
+        "dname": "Shadow Walk",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Bounty Hunter becomes invisible and gains the ability to move through other units until he attacks or uses an ability.  If he breaks the invisibility with an attack, that attack will deal bonus damage.",
+        "notes": "Will not break most channeling of spells upon activation.<br/>The bonus damage is a separate instance, and isn\u0027t considered in Jinada\u0027s calculation.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">20/25/30/35</font></b><br/>FADE TIME: <b><font color=\"#ffffff\">1/0.75/0.5/0.25</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">30/60/90/120</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15",
+        "lore": "The court jesters present during King Goff\u0027s assassination can recount no other image than a dancing shadow.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_wind_walk",
+        "youtube":"A1pTdYaSDo0",
+        "id": 2
+    },
+    {
+        "dname": "Track",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Tracks an enemy hero, giving True Sight of its location, and information on how much gold it is carrying. Allies near the hunted are granted bonus movement speed. If the target dies, Bounty Hunter and nearby heroes collect a bounty in gold.",
+        "notes": "Bounty Hunter will get the bonus gold if the target dies while Track is active, regardless of how it died.<br/>Gives True Sight as well as shared vision of the target.<br/>Track\u0027s effect is only visible to allies.<br/>The allies that are receiving the bonus speed from Track are the ones that will receive the bonus gold.<br/>Bonus gold is reliable gold.",
+        "dmg": "",
+        "attrib": "SPEED RADIUS: <b><font color=\"#ffffff\">900/900/900</font></b><br/>BONUS SPEED: <b><font color=\"#ffffff\">20%/20%/20%</font></b><br/>BONUS GOLD FOR SELF: <b><font color=\"#ffffff\">200/275/350</font></b><br/>BONUS GOLD FOR ALLIES: <b><font color=\"#ffffff\">50/100/150</font></b><br/>DURATION: <b><font color=\"#ffffff\">30/30/30</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 4",
+        "lore": "Using his elevated senses of sight and smell, Gondar\u0027s hits have quite a good chance of success.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_track",
+        "youtube":"QUR30zbpNDs",
+        "id": 3
+    }
+]

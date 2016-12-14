@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Inner Vitality",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b>",
+        "desc": "Раскрывает у союзника скрытые способности к регенерации. Интенсивность лечения зависит от основного атрибута. Если здоровье ниже 40%, цель регенерирует быстрее. Действует 16 секунд.",
+        "notes": "Процент уровня здоровья проверяется каждую секунду, и регенерация здоровья изменяется соответственно.<br/>Действует на союзников, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "РЕГЕН ЗДОРОВЬЯ: <b><font color=\"#ffffff\">10</font></b><br/>БОНУС АТРИБУТА: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>БОНУС ПРИ РАНЕНИЯХ: <b><font color=\"#ffffff\">20%/40%/60%/80%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 170/170/170/170<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 22/18/14/10",
+        "lore": "Несмотря на то, что Huskar не предпочитает магию оружию, при тяжелейших ранениях он использует это небольшое заклинание, которому его научили Dazzle и жрецы ордена Дезун.",
+        "hurl": "Huskar",
+        "name": "huskar_inner_vitality",
+        "youtube":"Euh9XipSClI",
+        "id": 0
+    },
+    {
+        "dname": "Burning Spear",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Huskar поджигает свои копья, нанося периодический урон своей обычной атакой. Дополнительный урон складывается с несколькими атаками. Каждая атака поглощает часть здоровья Huskar. Длится 8 секунд.",
+        "notes": "Эффекты от этой способности складываются. Порога количества нет.<br/>Этой способностью нельзя совершить самоубийство.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">5/10/15/20</font></b>",
+        "attrib": "ЗДОРОВЬЯ ЗА УДАР: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Священный воин поджигает свое оружие, орошив его собственной кровью, вызывая у врагов гораздо большую боль, чем испытывает он сам.",
+        "hurl": "Huskar",
+        "name": "huskar_burning_spear",
+        "youtube":"OqiIX9VUBgk",
+        "id": 1
+    },
+    {
+        "dname": "Berserker's Blood",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Раны делают Huskar сильнее, увеличивая его скорость атаки и сопротивление магическому урону в зависимости от количества недостающего здоровья.",
+        "notes": "Максимальный (14-кратный) бонус дается, когда уровень вашего здоровья составляет меньше 3% от максимального.<br/>Первый эффект Berserker's Blood добавляется, когда у Huskar здоровье на уровне 87%. Дополнительные эффекты прибавляются за каждые 7% потерянного здоровья.",
+        "dmg": "",
+        "attrib": "ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">14/16/18/20</font></b><br/>ДОП. СОПРОТИВЛЕНИЕ: <b><font color=\"#ffffff\">4%/5%/6%/7%</font></b>",
+        "cmb": "",
+        "lore": "После утери своих родовых прав Huskar приобрел смертоносность в схватке — тем более значительную, чем больше пролито его собственной крови.",
+        "hurl": "Huskar",
+        "name": "huskar_berserkers_blood",
+        "youtube":"6Dx9pD12lEI",
+        "id": 2
+    },
+    {
+        "dname": "Life Break",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Huskar ценой собственного здоровья наносит огромный урон врагу. Он прыгает к цели в радиусе своей атаки, отнимая часть ее текущего здоровья и замедляя ее. Во время прыжка Huskar невосприимчив к заклинаниям.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Если во время прыжка Huskar будет выведен из строя или цель передвинется на расстояние более 1400 за 0,015 секунды, прыжок остановится.<br/>Замедляет врагов, невосприимчивых к заклинаниям.<br/>Эту способность нельзя сбить с цели.",
+        "dmg": "",
+        "attrib": "УРОН ЦЕЛИ: <b><font color=\"#ffffff\">35%</font></b><br/>УРОН СЕБЕ: <b><font color=\"#ffffff\">35%</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">40%/50%/60%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">4/5/6</font></b><br/><font color=\"#6fe871\">УРОН ЦЕЛИ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">65%</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Какой бы ни была опасность, когда Huskar бросается в битву, пережить ее сможет только он.",
+        "hurl": "Huskar",
+        "name": "huskar_life_break",
+        "youtube":"uL4iSDlCveo",
+        "id": 3
+    }
+]

@@ -1,0 +1,110 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"Too bad it's me.... The Ogre Magi Guide.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"tango",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"ultimate_scepter",
+				"veil_of_discord"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"bloodstone",
+				"travel_boots"
+			],
+			"Don't forget these!":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier",
+				"smoke_of_deceit",
+				"dust",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dust":"Use this in team fights if they have invisible units, if not there is no use.",
+				"ward_observer":"Don't forget to get these throughout the game, vision is a very key aspect and if you're not sure where to place them, don't be afraid to ask your team mates.",
+				"ward_sentry":"Commonly used if they have an invisible person in the lane OR you want to counter ward the enemy team
+",
+				"courier":"If you're the only teams support you should purchase both wards and the animal courier, however if there is another buy one and let the other support get the other",
+				"tpscroll":"A good player should always be carrying around a TP scroll as it allows you to move around the map faster and can help you escape from certain situations and be able to teleport up to defend towers with allies.",
+				"travel_boots":"around the 40-50 minute mark of a game, if you have spare gold for some reason pick these up, it allows an extra inventory slot so you don't have to continually be buying TP scrolls.
+",
+				"mekansm":"Mekansm is a very good item on support's as it is an area of effect heal that can save allies during teamfights, along side arcane boots this is basically a free heal.",
+				"sheepstick":"If for some reason you ever get enough gold for this item, buy it, and always focus the enemy's main source of damage with it.",
+				"force_staff":"Force staff is a very strong items for fights as it can get team mates out of the fight when they're on very low HP, just remember this pushes them the direction they are FACING, so try not to force staff them even further into the enemy team.
+",
+				"ultimate_scepter":"this items allows you to access your extra stun! Which is a very strong ability as it allows you to get more stuns off on the enemy team!!",
+				"bloodstone":"Get this if you have enough money for it, however normally you should be focusing on other items first.
+",
+				"arcane_boots":"These boots are essential on Ogre Magi as it'll allow you to continually use spells and replenish your team mates mana pools.",
+				"smoke_of_deceit":"Use this when you're attempting to sneak into the enemy jungle or when attempting to go for a sneaky Roshan",
+				"veil_of_discord":"Get this item if you  have a lot of magic damage on your team, and if you don't it can still be a very good item to pick up."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_bloodlust",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_ignite",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"Try to use this ability either on their Carry or their main source of damage during fights.",
+				"ogre_magi_bloodlust":"Attempt to cast this on your carry during team fights",
+				"ogre_magi_unrefined_fireblast":"use this on the same target you used your Q on after it's finished "
+		}
+	}
+}

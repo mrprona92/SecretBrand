@@ -1,0 +1,96 @@
+{
+	"Hero":"beastmaster",
+	"Title":"BeastMANster",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"chainmail"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"power_treads"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"necronomicon",
+				"medallion_of_courage",
+				"ancient_janggo",
+				"basher",
+				"assault",
+				"heart",
+				"ultimate_scepter",
+				"shivas_guard",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"chainmail":"I like to get the early chainmail for extra armor early on for a little better durability. Men like to live. This item is optional though if you would rather start working towards other situationals.",
+				"boots":"Boots are good early because they make you go faster. Men are fast.",
+				"power_treads":"These boots make you extra manly.",
+				"mekansm":"Mekansm works well as a replacement to the vlad's. Both items provide nice aura's, and if you have no melee carries the Mekansm is going to be a much better choice.",
+				"vladmir":"Vlad's is a good core item for any man. It provides cool lifesteal and nice auras for all your manly beasts.  This item also works well if you have some melee carries.",
+				"ring_of_basilius":"A ring of Basi is a good pickup early for that nice regen. It also builds into the vlads which is nice.",
+				"necronomicon":"More beasts = greater manliness",
+				"ancient_janggo":"The Drum of Endurance is another good item because of its aura and cheap price.  Aura items work well with Beastmaster becasuse of his beasts.",
+				"medallion_of_courage":"This is a nice cheap early game pick up. It gives some more mana regen which is cool and lowers armor on opponents to make your manliness a little more powerful."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_wild_axes",
+			"4":"beastmaster_call_of_the_wild",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"This ability is your main damage dealer. It's a nice manly skill to max early. Make sure to aim a little past your target so both axes hit, or it's not that cool.  Also this skill helps to cut down trees. So basically you're a lumberjack.",
+				"beastmaster_call_of_the_wild":"This skill is what makes you the BeastMANster.  The boar, which is unlocked at level 2, is great for early game kills, because the boars goey spit crap slows enemys down for you.",
+				"beastmaster_inner_beast":"Nice attack speed aura. Better later on.",
+				"beastmaster_primal_roar":"ROAR!!!!! scare your enemies shitless for awhile. It also messes up Bkb users."
+		}
+	}
+}

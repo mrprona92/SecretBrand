@@ -1,0 +1,130 @@
+{
+	"Hero":"viper",
+	"Title":"How to play Viper mid/sidelane carry!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"tango",
+				"flask",
+				"slippers",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"yasha",
+				"manta"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"heart",
+				"butterfly",
+				"black_king_bar",
+				"orchid",
+				"ancient_janggo",
+				"ring_of_basilius",
+				"travel_boots",
+				"ring_of_aquila"
+			],
+			"Pubstomp.":
+			[
+				"monkey_king_bar"
+			],
+			"Avoid":
+			[
+				"rapier",
+				"satanic",
+				"power_treads",
+				"sange_and_yasha",
+				"hand_of_midas"
+			],
+			"Early game survivabilty":
+			[
+				"mekansm"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Use these to build into an early wraith band",
+				"boots":"It is very important that you get boots early as Viper is very slow with 285 base movement speed.
+Boots are often needed for your first blood as you wont be able to catch up to people, if you dont have boots, just work off your opponents mistakes, harrasing them with your q.",
+				"tango":"Don`t ask why this is neccesary.",
+				"travel_boots":"Late game when you are six slotted so you don`t have to keep carrying tp scrolls around with you all the time. ",
+				"phase_boots":"Phase boots are better than power treads as you need the extra movement speed to catch up to slowed enemies as Viper will often not be able to catch up with just power treads as he has an extremely slow movement speed.",
+				"power_treads":"PHASE BOOTS ARE BETTER! The attack speed from this is overlookable and you get less movement speed than phase which Viper desperately needs, also early/early mid game Viper relies on his ult/Q to deal lots of damage, Phase boot just give Viper a bit more instant damage which is also needed. ",
+				"hand_of_midas":"You don`t want to rely on creeps to level and get gold, you`d be better of ganking for these things AND you`d be helping out teammates",
+				"wraith_band":"I sometime get a wraith band as early as possible, as it will only cost 150 more than your starting gold, this is good if you want to do damage but not neccesary kill, as viper is so slow he wont be able to catch up to enemies early on so they will be able to get away",
+				"mekansm":"This items is quite nice if you are going to pick up a manta or ring of aquila as although it tanks you up quite a lot you will likely find yourself running out of mana too fast. I wouldn't build this if a support will get one, build inbetween sange and manta.",
+				"ring_of_basilius":"Only if you are EXTREMELY mana hungry.",
+				"orchid":"This is close to being in the avoid part. You don`t need this item as you get hardly any damage, a slight attack speed, the mana however can be quite handy but with a manta your mana will often be good anyway, I only get this against heroes like storm or weaver with good escapes.",
+				"heart":"I dont pick up heart very often as i prefer damage over tankability on Viper, however, a tanky viper is almost impossible to kill with his attack speeds slow, and his spell damage reduction. I find myself picking this item up after I have enough damage items.",
+				"black_king_bar":"I actually hardly ever get this item, but it doesnt mean that you shouldn`t. Against a team with about 3 stuns, i feel like this is often a good item as although their team will sometime be focusing your other carry, you can often outcarry them and be the main target, still a viable choice.",
+				"rapier":"Don`t. Not even when you are dominating. Viper doesnt really need all this much damage, he would be better off and safer with something like a butterfly or a manta in the late game, I have seen too many people feed a divine and lose an easy game, don`t be that guy.",
+				"monkey_king_bar":"I love getting this item as it gives you a lot of auto attack damage, a slight attack speed boost, and it gives you a way to stop chanelling spells now, if you get lucky. Try to get a manta before this however.",
+				"butterfly":"He uses the extra attack speed well, the damage is nice, the 30% miss chance however means that after all the attack speed slows, they have a chance to miss, meaning that they will hardly ever be hitting you, and then they miss! I dont pick it up very often, personal choice MKB.",
+				"manta":"What Viper needs, a bit of strength which is nice for dives, attack speed whichhas synergy, move speed which is AMAZING in getting easy kills. he also gains the ability to use his ult and spam his Q with int. the illusions also have corrosive skin and can save you! ",
+				"invis_sword":"I often don`t get a shadow blade as i feel like you should be able to win your mid lane enough you dont need to escape, just need to stand and fight seeing as you reduce all of they attack speed. You won't need it too much for initiation as with your phase boots and manta you will be fast anyway.",
+				"sange_and_yasha":"You don`t need the slow, you get a bit of attack speed/damage and the agility and strength gain isnt that much, BUY A MANTA INCASE YOU WANTED TO GET THIS, MANTA JUST GIVES YOU MORE OF WHAT YOU NEED!",
+				"satanic":"You don`t need lifesteal on Viper, even in the late game because he will be so tanky then that just a vanguard or a heart will be fine for your regen as viper makes sure that the enemy can`t escape or deal damage to him with his attack slows",
+				"yasha":"You MUST get this item on Viper, it is up to you to finish your manta immediately or farm another item before finishing your manta style.
+The movement speed is too good to pass up.",
+				"ancient_janggo":"I don`t feel this is worth it, you`d be better of just getting a Yasha to build into a manta, but if you want that bit of strength, movespeed and attack speed for the mid game, this is a viable option. I don`t pick this up however.",
+				"ring_of_aquila":"This items is now a lot better in my eyes as now your first spell has no cooldown and you might find yourself running out of mana too often, it also helps you push."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_nethertoxin",
+			"2":"viper_poison_attack",
+			"3":"viper_poison_attack",
+			"4":"viper_corrosive_skin",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_poison_attack",
+			"8":"viper_nethertoxin",
+			"9":"viper_nethertoxin",
+			"10":"viper_nethertoxin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"Because this now has 0 CD I find myself picking this up second UNLESS you are going for first blood with people helping you. Just remember with this spell no one can run away from you with about 2 level in this. Make sure you have one eye on your mana whilst using this spell whilst still being agro.",
+				"viper_nethertoxin":"Great for last hitting and doing extra damage to enemies on low health.
+If you are doing a lot of harassment, i feel it is always best to pick up a second level of this at level 4, however, if you are constantly trading blows with your enemy, definately pick up your E, Corrosive skin at level 4. ",
+				"viper_corrosive_skin":"This is sometimes handy to pick up at level 4 if you are trading blows alot with your enemy, this is because it does 40 DOT to them and slows their attack speed, this is one of the reasons Viper is so good 1v1, I also recommend picking this up at 4 if the enemy hero is a spellcaster for damage reduc",
+				"viper_viper_strike":"if the case is 2v1, you being solo, what i do is ult one person, and then start auto attacking the other person, this is because you will be slowing their attack speed so much they wont be able to do anything as this stacks with your q which slows attack speed as well so you do it to 2 people.",
+				"attribute_bonus":"I feel Vipers other spells are worth more than stats, dont get this,"
+		}
+	}
+}

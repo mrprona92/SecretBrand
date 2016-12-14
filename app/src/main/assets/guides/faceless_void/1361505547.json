@@ -1,0 +1,95 @@
+{
+	"Hero":"faceless_void",
+	"Title":"[DMX] Faceless Void (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"bfury",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"butterfly",
+				"greater_crit",
+				"assault",
+				"ultimate_scepter",
+				"mjollnir",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"poor_mans_shield",
+				"mask_of_madness",
+				"monkey_king_bar",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Prenez cette Quelling Blade à la place du Stout Shield si vous avez du mal à farmer"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_time_lock",
+			"3":"faceless_void_time_lock",
+			"4":"faceless_void_backtrack",
+			"5":"faceless_void_time_lock",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_lock",
+			"8":"faceless_void_backtrack",
+			"9":"faceless_void_backtrack",
+			"10":"faceless_void_backtrack",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"Votre sort d'escape et d'engage, il vous permet aussi de ralentir vos adversaires ! Pendant votre saut, vous êtes invulnérable, cela peut donc vous permettre d’éviter des sorts avec le bon timing.",
+				"faceless_void_backtrack":"Un passif qui vous permettra d'esquiver les dégâts de n'importe quel sort avec un peu de chance ! ",
+				"faceless_void_time_lock":"Très bon bash qui coincera votre adversaire ! Inflige le double de dégâts si l'ennemi est dans votre chronosphère.",
+				"faceless_void_chronosphere":"Un des meilleur ultimate de zone, il vous permet d'engager ou de contre-engager aisément un teamfight."
+		}
+	}
+}

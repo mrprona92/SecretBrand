@@ -1,0 +1,107 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"Carry Chaos Knight",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"gauntlets",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"armlet",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"sange_and_yasha",
+				"helm_of_the_dominator"
+			],
+			"Late Game":
+			[
+				"heavens_halberd",
+				"manta",
+				"satanic",
+				"heart",
+				"black_king_bar"
+			],
+			"Alternative":
+			[
+				"urn_of_shadows",
+				"vanguard",
+				"assault",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Gives HP and damage early on.",
+				"circlet":"Gives good stats.",
+				"flask":"Gives HP regen when you are low.",
+				"tango":"Helps heal you if you get harassed.",
+				"power_treads":"Give DPS which you need.",
+				"vladmir":"Good aura lifesteal if you get another UAM or want more lifesteal.",
+				"urn_of_shadows":"Good item early on for more HP damage and Mana regen. Active heals you and your team.",
+				"assault":"Gives good armor and attack speed and has a good aura.",
+				"heart":"Tons of HP and damage.",
+				"black_king_bar":"Allows you to kill everyone unimpeded.",
+				"vanguard":"Good early if you need HP and damage block.",
+				"manta":"Gives you even more illusions for good DPS.",
+				"armlet":"Gives great stats and damage, use it before you use your ultimate to makes your illusions more powerful.",
+				"sange_and_yasha":"Gives damage and attack speed and HP. Disassemble it later to make Heavens Halberd and Manta Style.",
+				"satanic":"More lifesteal and lots of HP and damage.",
+				"helm_of_the_dominator":"Gives you good bonuses and lifesteal.",
+				"ancient_janggo":"Gives good stats and movespeed, aura helps the team.",
+				"heavens_halberd":"Gives you HP damage and evasion. Use the active to disarm enemy carries."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Very good stun, use it to stop and kill enemies.",
+				"chaos_knight_reality_rift":"Allows you to pull enemies to you, use it to stop them from running or to initiate.",
+				"chaos_knight_chaos_strike":"Gives you crits for more damage.",
+				"chaos_knight_phantasm":"Gives you illusions that do lots of damage. Use this during team fights to kill everyone. Not good until you have more levels and get more illusions.",
+				"attribute_bonus":"Take these when you have no other choices."
+		}
+	}
+}

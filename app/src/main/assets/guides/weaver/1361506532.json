@@ -1,0 +1,89 @@
+{
+	"Hero":"weaver",
+	"Title":"[DMX] Weaver (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"magic_stick",
+				"boots",
+				"pers"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"sphere",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"radiance",
+				"monkey_king_bar",
+				"butterfly",
+				"rapier",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"vanguard",
+				"greater_crit"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_geminate_attack",
+			"2":"weaver_shukuchi",
+			"3":"weaver_shukuchi",
+			"4":"weaver_the_swarm",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_the_swarm",
+			"9":"weaver_the_swarm",
+			"10":"weaver_the_swarm",
+			"11":"weaver_time_lapse",
+			"12":"weaver_geminate_attack",
+			"13":"weaver_geminate_attack",
+			"14":"weaver_geminate_attack",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"Ce sort est parfait pour scout et réduire l'armure de vos ennemis.",
+				"weaver_shukuchi":"Votre sort d'escape, il peut aussi vous être utile pour harass votre adversaire ou le pourchasser",
+				"weaver_geminate_attack":"Ce double coup vous aidera à last hit ou à harass votre adversaire. N'oubliez pas de regarde le cooldown pour voir s'il est disponible.",
+				"weaver_time_lapse":"Un très bon ultimate qui pourra vous sortir des situations délicates. N'hésitez pas à l'utiliser au niveau maximum, il ne coute pas de mana."
+		}
+	}
+}

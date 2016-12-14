@@ -1,0 +1,20 @@
+{
+  "dotaId": "armlet",
+  "id": 151,
+  "img": "armlet_lg.png",
+  "dname": "Armlet of Mordiggian",
+  "qual": "epic",
+  "cost": 2370,
+  "desc": "Active: Toggle Unholy Strength - When active, Unholy Strength grants +31 damage and +25 strength, but drains 40 health per second.  You cannot die from the health drain when Unholy Strength is activate, nor from the strength loss when Unholy Strength is deactivated.",
+  "notes": "The strength change will affect both maximum and current HP, but you cannot die from the change.<br/>The strength change occurs over 0.6 seconds.<br/>Activating or deactiving Unholy Strength does not interrupt channeling.",
+  "attrib": "+ 9 Damage<br/>+ 25 Attack Speed<br/>+ 5 Armor<br/>+ 7 HP Regeneration",
+  "mc": false,
+  "cd": 0,
+  "lore": "Weapon of choice among brutes, the bearer sacrifices his life energy to gain immense strength and power.",
+  "components": [
+    "helm_of_iron_will",
+    "gloves",
+    "blades_of_attack"
+  ],
+  "created": true
+}

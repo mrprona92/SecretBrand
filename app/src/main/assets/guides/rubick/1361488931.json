@@ -1,0 +1,142 @@
+{
+	"Hero":"rubick",
+	"Title":"+6.80 Support/Overall Rub.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"Support Items":
+			[
+				"flying_courier",
+				"dust",
+				"smoke_of_deceit",
+				"ward_observer",
+				"ward_sentry",
+				"gem"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Early Game Situational":
+			[
+				"gauntlets",
+				"urn_of_shadows",
+				"bracer",
+				"bottle",
+				"medallion_of_courage",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"ultimate_scepter",
+				"cyclone",
+				"blink",
+				"ancient_janggo",
+				"ghost",
+				"pipe",
+				"sheepstick",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Situational/Advanced. Useful for advanced positioning and when your team lacks initiators.",
+				"gauntlets":"Recommended. Boosts Rubick's base hp and gives him the ability to stay longer in fights. Upgrade this into Urn of Shadows, or Bracers.",
+				"branches":"Best cost effective item in-game. GG Branches for Magic Wand or Mekansm.",
+				"boots":"Base boots. Speed is crucial for positioning as Rubick has low base movement speed.",
+				"gem":"Very Situational. Recommended at mid to late game stages when there are invisible enemy heroes/wards. Give this item to your carry/durable ally.",
+				"magic_wand":"Great item for survivability at early stages, its active will save you most of the time. Try to keep it's charges at high numbers (up to 15) to reach it's full potential at fights.",
+				"ghost":"Extremely Situational. Get this item when you are extremely focused by enemy carries that rely on right clicks. (Ex: Clinkz)",
+				"clarity":"Clarity is optional, you can trade these for hp regen consumables. Effect will not remain while attacked.",
+				"flask":"Gives you the ability to stay in lane, harass or heal you/your carry. Effect will not remain while attacked.",
+				"dust":"This item is underrated in pubs. Makes it worthy to kill those invisible carries like Riki. Remember this doesn't reveal enemy wards.",
+				"bottle":"Situational. Buy this if you are heading mid early, for runes, or if nobody has bottle and you need fast regen. Also keep in mind runes are helpful for ganking.",
+				"ward_observer":"Vision is important for succesful games. Always have this in mind. Know where your enemy is to prevent deaths, engage fights or to push other lanes.",
+				"ward_sentry":"Give a hard time to enemy invisible heroes. Also useful for counter-warding. This doesn't reveal enemy smoke ganks anymore.",
+				"tango":"Gives you the ability to stay in lane, harass or heal you/your carry. Remember to click on tangoes and target allies to share them. Effect will remain even while attacked.",
+				"courier":"One per team. If courier is already bought, buy Observer Wards.",
+				"tpscroll":"Always carry a TP! Remember Rubick needs to move around the map and chase kills, not farming. Defend your allies when enemies dive towers.",
+				"bracer":"Situational. This Bracer gives Rubick hp and stats boost as he is squishy. Intended for upgrading it into Drums of Endurance... If you are dying a lot, a couple of bracers (or Urn of Shadows) can help you into surviving fights.",
+				"mekansm":"Recommended. One per team. Great item for pushing and gives survivability to your team. If already bought, consider building Aghanim's Scepter.",
+				"flying_courier":"Make sure courier is upgraded when you have that extra gold early. Ask your teammates for courier upgrade when you can´t afford it.",
+				"ring_of_basilius":"Not recommended. But sometimes if not a single ally intends to buy a Basilius, you can give this a try as it can help your team a lot for pushing at early stages.",
+				"pipe":"Extremely situational. Only if needed by your team and you are the only one that can build it. Pipe is less effective than usual as Rubick has already Null Field. Great nonetheless thanks to its active: barrier.",
+				"urn_of_shadows":"Recommended. One per team. Urn is needed for healing all members of your team between fights or damage enemies. Gives decent mana regen, boosts base hp for Rubick.",
+				"sheepstick":"Luxury item. Great item when an extra disable is needed to focus those key enemies late game.",
+				"cyclone":"Situational. Cheap disable, intended to focus on key enemies and gives a possible escape mechanism. Also keeps you safe for a short period and from important spells.",
+				"force_staff":"Great item for positioning. Gives you an escape mechanism that Rubick lacks. Also, you can help your teammates to survive or keep enemies out of position.",
+				"necronomicon":"Extremely situational. Great and forgotten item in pubs. It gives the ability to push harder, but this item is only recommended when all the other items are bought by the team.",
+				"ultimate_scepter":"Recommended. Now scepter reduces greatly it's ultimate cooldown, which translates into more big ultimates in fights. Mid to lategame item.",
+				"bloodstone":"Luxury item. You certainly are not playing support if you consider this one, unless you are dying first. Great item that synergizes with Rubick late game. Remember Arcane boots can be dissassembled into Bloodstone.",
+				"arcane_boots":"Boosts your mana pool and gives mana to your allies. Very useful on early-mid game overall. Can be dissassembled for Bloodstone purposes.",
+				"ancient_janggo":"Very Situational. One per team. Usually built by your carry, but if your team is lacking this item you should consider it for teamfight presence.",
+				"medallion_of_courage":"Extremely Situational. While effective at focusing heroes, and taking Roshan, you should prioritize other items like Mekansm and save slots for wards or TPs.",
+				"smoke_of_deceit":"Always helpful when losing or winning a game. Start ganking those enemy carrries, ganking forest, smoke into Roshan, etc."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Main disable. You can disable any enemy for up to 2.25 seconds, at lvl 4, and if positioned well enough you can disable the whole team. In a regular match, you should max this out after Fade Bolt, otherwise aim for his Null Field.",
+				"rubick_telekinesis_land":"While using telekinesis you can land the targeted enemy in any position up to 375 units. If positioned well enough you can disable the whole enemy team for 1.75 seconds.",
+				"rubick_fade_bolt":"Main nuke. Helps Rubick deal nice damage along with the spells he steals. Core at lvl 7. Keep in mind this also reduces your enemies base damage for a short time.",
+				"rubick_null_field":"While listed as a mid-late game skill, in some special situations, like push strats or you are dying a lot, you should prioritize this over Telekinesis.",
+				"rubick_spell_steal":"Focus on key spells and ultimates. Some of them may give you extra disables, escape mechanisms, AOE or high damage output. If you steal and use 2 or more big spells in a fight, consider yourself good. Scepter is great on Rubick lategame.",
+				"attribute_bonus":"Ideally, you should max this last. But if you are dying a lot and enemies deal physical damage, you should consider stats earlier."
+		}
+	}
+}

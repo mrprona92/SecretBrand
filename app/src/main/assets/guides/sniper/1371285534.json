@@ -1,0 +1,114 @@
+{
+	"Hero":"sniper",
+	"Title":"(rus/eng) Carry Sniper-True damage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"circlet",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Для ранней игры/For the early game":
+			[
+				"wraith_band",
+				"boots",
+				"magic_wand"
+			],
+			"Основные предметы/Main items":
+			[
+				"power_treads",
+				"invis_sword",
+				"lesser_crit",
+				"helm_of_the_dominator",
+				"yasha"
+			],
+			"По ситуации//On the situation":
+			[
+				"greater_crit",
+				"mjollnir",
+				"butterfly",
+				"sange_and_yasha",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"RUS[Хороший начальный товар, чтобы получить немного больше Урона, и лучший способ сделать последний удар.]
+ENG[A good starting item to get a bit more damage, and the best way to make the final blow.]",
+				"branches":"RUS[Еще немного дополнительной статистики. Позже быть волшебной палочки.]
+ENG[A little more extra stats. Later be Magic Wand.]",
+				"circlet":"RUS[Хороший начальный товар, чтобы получить немного больше Урона, и лучший способ сделать последний удар.]
+ENG[A good starting item to get a bit more damage, and the best way to make the final blow.]",
+				"lifesteal":"RUS[Восстанавливает HP атаке.]
+ENG[Restores HP attack.]",
+				"boots":"RUS[Хороший предмет. Дает не так много, чтобы говорить о нем.]
+ENG[Good thing. Does not have much to say about it.]",
+				"magic_wand":"RUS[Очень полезная вещь. Она может спасти твою жизнь.]
+ENG[A very useful item. It can save your life.]",
+				"tango":"RUS[Для регенерации HP и чтобы  продолжать атаки без риска потерять регенерацию при  нападении противника.]
+ENG[o regenerate HP and continue to attack without the risk of losing the regeneration of the attack of the enemy.]",
+				"power_treads":"RUS[Предмет очень полезный. Снайпер с хорошей скоростью атаки.(Ставить на ловкость)]
+ENG[The subject is very useful. Sniper with a good attack speed.(Put on sleight)]",
+				"wraith_band":"Очень хороший предмет. Дает вам урон, HP, MP, скорость атаки.",
+				"monkey_king_bar":"RUS[Урон и атака без промохов.]
+ENG[Damage and no miss attack.]",
+				"butterfly":"RUS[Больше скорости, урона, скорости атаки.]
+ENG[More movement speed, damage, attack speed.]",
+				"greater_crit":"RUS[Очень большой урон.]
+ENG[Very big damage.]",
+				"lesser_crit":"RUS[Хороший предмет для улучшения урона.] ENG[Good item to imrove attack damage.]",
+				"invis_sword":"RUS[Очень полезная вещь. Она может спасти твою жизнь.]
+ENG[A very useful item. It can save your life.]",
+				"sange_and_yasha":"RUS[Хороший предмет.]
+ENG[Good item]",
+				"mjollnir":"RUS[Отличный способ повредить несколько героев.]
+ENG[A great way to damage several heroes.]",
+				"helm_of_the_dominator":"[RUS] Реген хп при атаках.
+ [ENG] Restores HP an attacs.",
+				"yasha":"RUS[Больше скорости, урона, скорости атаки.]
+ENG[More movement speed, damage, attack speed.]"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_headshot",
+			"2":"sniper_take_aim",
+			"3":"sniper_headshot",
+			"4":"sniper_take_aim",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"sniper_shrapnel",
+			"24":"sniper_shrapnel",
+			"25":"sniper_shrapnel"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"GreyShark.Troll Warlord",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"boots",
+				"poor_mans_shield"
+			],
+			"Mid Game":
+			[
+				"phase_boots",
+				"helm_of_the_dominator",
+				"invis_sword",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"butterfly",
+				"satanic"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_whirling_axes_ranged",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_fervor",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_fervor",
+			"9":"troll_warlord_fervor",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_berserkers_rage",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_berserkers_rage",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

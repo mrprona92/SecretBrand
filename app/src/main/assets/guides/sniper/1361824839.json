@@ -1,0 +1,118 @@
+{
+	"Hero":"sniper",
+	"Title":"Headshot! ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"slippers",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"phase_boots",
+				"invis_sword",
+				"tpscroll"
+			],
+			"Mid Game ":
+			[
+				"mask_of_madness",
+				"lesser_crit",
+				"yasha",
+				"tpscroll"
+			],
+			"Late Game ":
+			[
+				"greater_crit",
+				"mjollnir",
+				"manta",
+				"tpscroll"
+			],
+			"Situational Damage Item ":
+			[
+				"monkey_king_bar",
+				"butterfly",
+				"desolator",
+				"rapier"
+			],
+			"luxury":
+			[
+				"power_treads",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Extra agility and damage. Helps to build a wraith. ",
+				"branches":"Extra stats are always helpful and one of the most useful items to get at the start of every game. ",
+				"circlet":"Attribute bonus that is later built into a wraith. ",
+				"boots":"Early boots helps your low base movement speed. I used to go for a fast Lothar's but I find this works better. ",
+				"tango":"Getting two regen items are a must to be honest. You have low hp at the start of the game and need to regen a lot sometimes, especially when trying to harass enemy heroes. I tend to prefer x2 tangoes but a salve can be useful especially after a (hopefully failed) gank. ",
+				"tpscroll":"A TP is a must for EVERY game. Try and make sure you have one at ALL times. ",
+				"phase_boots":"Something a little different. Most people would tend to go for Tread Boots but Phase helps a lot early game with harass and escape, as well as easier last hitting. ",
+				"power_treads":"I used to get tread boots on Sniper - mostly for the attack speed and seeing as how squishy sniper is known to be. More beneficial in late game or if getting harassed a lot early game or going up against a strong mid lane. ",
+				"wraith_band":"An early wraith helps with stats and improving your early game potential for last hits and harass. ",
+				"black_king_bar":"As with any reason to get BKB it's to avoid getting stunned and nuked by the enemy team whilst you can either escape or promptly chew them up. Usually gotten in the late game, and only if struggling to avoid enemy stuns/disables and/or sheepstick. ",
+				"monkey_king_bar":"Getting MKB usually for evasion heroes or for the added true strike bonus if your up against butterfly agility heroes. Its mini bash works reasonably well with Sniper's headshot but you do get diminishing returns. However, it's also a great damage item with bonus damage on mini-bash. ",
+				"butterfly":"Great item to have. Bonuses attributed to your illusions as well. For ultimate carry potential definitely a must. ",
+				"greater_crit":"Great item for that extra dps and bonus critcal hits. Your manta illusions will not recieve the added damage but will be able to proc the critcial hits. ",
+				"manta":"An item that's quite important for Sniper, and helps increase dps and an additional escape mechanism. Works well with maelstrom and to proc critical hits with Deadulus. ",
+				"invis_sword":"Could be a situational item as it does depend on enemy team heroes, but it's a great escape mechanism even if it's just for the increased move speed. Don't forget the bonus damage. However, remember good teams will start using sentry/dust so be careful. ",
+				"mjollnir":"Attack speed and a handy active skill, and an upgrade for your Maelstrom. You can complete this before or after Daedalus, but the attack speed helps proc more critcal hits. ",
+				"maelstrom":"Again relatively low cost and helps a lot early to mid game with chain lighting procs. ",
+				"desolator":"An item I tend to now mostly get when on the defensive or against high armor heroes. One per team is sufficient so don't get if another player is going to. Even though Mjollnir and Desolator both are unique attack modifiers they will work together, except when Mjollnir procs. ",
+				"yasha":"Cheap and adds nice attack speed and move bonuses. ",
+				"mask_of_madness":"Lifesteal on sniper? Have seen it work well personally and useful when recovering between team fights or for jungling. Try not to get a MoM if you are going for Desolator or vice versa as the unique attack modifiers do not stack. ",
+				"ring_of_aquila":"Helps a little with armor and stats bonuses. Easy to make as you already have wraith band and helps with mana if you have been using your assassinate a little too much. You can sell it late mid game. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_take_aim",
+			"4":"sniper_headshot",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"attribute_bonus",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"sniper_shrapnel",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sniper_shrapnel":"Skill build is situational. Depends if you're looking to carry or need to push as well. To carry, I generally level up Shrapnel once at level 10 and then stats only until the end. However, to push Shrapnel is really good to have relatively early on. Does damage to towers. ",
+				"sniper_headshot":"Headshot provides extra damage bonus and chance to proc stuns. Max it second. ",
+				"sniper_take_aim":"Sniper is very squishy at the start and maxing range helps to last hit more safely and also hit towers earlier on once you hit level 5 without worrying about tower damage. Three points in Take Aim provides enough range to be outside tower range. ",
+				"sniper_assassinate":"Use for helping team to take down a hero or ideally best used for snagging low hp heroes running away. Can be used whilst you are harassing enemy hero in lane or when an ally is trying his best to take down an enemy hero who has med to low hp. ",
+				"attribute_bonus":"I prefer generally to get stats as early as I can at level 12 and upwards and tend to skip getting the rest of shrapnel until levels 23-25. Generally speaking I only level up shrapnel at level 10, but if you need to push more as a team onto towers than earlier shrapnel is better. "
+		}
+	}
+}

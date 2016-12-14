@@ -1,0 +1,145 @@
+{
+	"Hero":"tidehunter",
+	"Title":"Neviskio's Support In Depth Tidehunter Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"ward_observer",
+				"sobi_mask",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"blink",
+				"pipe",
+				"urn_of_shadows",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"smoke_of_deceit",
+				"ancient_janggo",
+				"gem",
+				"ward_sentry",
+				"dust",
+				"ghost",
+				"tranquil_boots",
+				"mekansm",
+				"force_staff",
+				"bracer",
+				"ring_of_basilius",
+				"soul_ring"
+			],
+			"Luxury & Worth mentioning items":
+			[
+				"refresher",
+				"shivas_guard",
+				"veil_of_discord",
+				"sheepstick",
+				"medallion_of_courage",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The core item of tide, also quite expensive considering we need to spam wards, maybe dusts, sentries.You can live without it most of the games, but if you're doing well this is the item to get.",
+				"branches":"The iron branch, the best investment you can make.The easiest mistake you can do is to not realize the power of stats in dota2, this item gives you:
+
+19 health, 0.03 health regen, 1/7th of armor, 1% attack speed, 13 mana, 0.04 mana per second, and 1 damage since it gives 1 of your primary attribute.",
+				"sobi_mask":"Get this if you have atleast 33 int, in that case is more regen than a ring of basilius.If you want you can make a basilius untill 33 int and then make tranquils with the items while keeping the mask for a urn, but it's a bit convoluted. Try and get some regen early in some shape!",
+				"boots":"Boots are a must get as soon as possible.If you get a firstblood or some assist gold or for some reasons you have the money early after upgrading the courier, get these first.Mobility is paramount especially on tide.",
+				"gem":"Do they have a clinkz or riki killing your team or just being a pain? This is one of the counters.Remember that if you die you lose it, you might want just to buy it and giving it to someone else since tide tends to be the one starting the battles and getting focused.",
+				"magic_stick":"You can buy this from the side shops in the longlanes where you should be with tide, if you're doing great you might get some other items first, it's especially good against spammy heroes like batrider.This is almost alwayss a must buy and upgrade.",
+				"magic_wand":"Upgrading the magic wand to save space, one of the best cost effective items.If you're not building one you're doing something wrong most of the games...no questions asked! The charges can give you enough mana to do a perfect ulti, and tide needs to be on the ball for the clutch ulti!",
+				"ghost":"Are you having huge troubles being alive with a strong autoattacking hero like phantom assassin or rikimaru or maybe naix? This makes you immune to autoattacks but you get 40% more magic damage, also some stats, a good pick if they are low on magic nukes and heavy on rightclick damage.",
+				"clarity":"Tide has low int and low int gain per level, you can't go around and spam his spells, especially early, you need to have some mana regen at the start and this is the best you can get untill you get 33 int(then a sobi mask is better).Get a couple and care that it will be stopped if you get hit.",
+				"flask":"This is your second part of regeneration, is stronger than tangoes but it will be dispelled if you get hit by anything that does more than 20 damage after reduction.Hp removal doesn't stop it, also, it stacks with tangoes heal but not with urn of shadows.",
+				"dust":"Another item to see invisible heroes, remember that is ineffective against heroes that can purge the effect like slark, or heroes that make a diffusal blade like riki.A bit cheaper than sentries but also a bit worse...a situational choice.",
+				"ward_observer":"Ideally if you've bought and upgraded courier someone else is buying wards, but still, you should be getting these as much as you can(remember they cost 150g a couple and they do go on restock for 6 minutes after you buy 2 sets, EVERYONE can afford 300g in 6 minutes.Don't be lazy!)",
+				"ward_sentry":"A temporary solution for invisible heroes, try to keep this in your inventory and when the invisible hero is trying to run or if you know that he is going to fight soon, drop one and be ready for some allchat fun...",
+				"tango":"Regeneration and stats is the base of early game dota, you need on any hero some regen, this is the best way to spend your money early without risking to get hit and lose your regen.You could buy 2 instead of a salve, but do remember that a salve gives much more HP.",
+				"courier":"Since Tide is mainly a support hero, you should be buying the courier for your team.If anyone bought it first, you definitely should buy a set of observer wards in place of the courier.Be sure to check the common warding spots!",
+				"tpscroll":"You need to be carrying one, better if 2 at ALL TIMES.It's the best dota2 item and yet people fail to use it, you WILL lose towers/raxes/heroes during ganks because you are not carrying one.There's no excuse it costs 2-3 last hits and maybe some passive gold, you HAVE to have one.No excuses.",
+				"bracer":"An early bracer could save you if you're having a bad time, also it builds into the drums which can be a really good item on tide.Consider it if someone has already a urn of shadows or si building one.",
+				"mekansm":"This is another fundamental item on a team, if no one else is doing one you have to bite the bullet and make one for the team.Good armor, saving heal but another mana costly item which isn't the best for tide, but every team needs a mekansm.Build buckler first always, armor is stronger for pushes.",
+				"vladmir":"If you built a basilius and your team is mostly melee and your carry could use this, you can do the tranquils&basilius switch by disassembling the items when you need, and later complete the vlad.Definitely not a good pickup for you, do it ONLY for the team.",
+				"flying_courier":"Unless your other support is doing this, you should be upgrading the flying courier as soon as possible.The best situation is to upgrade it with your first 220gold, should be before the 4th minute rune to help your mid with his bottle.",
+				"ring_of_basilius":"A good early mana and armor item, used mainly to push.You can disassemble it and play games with tranquil boots to have both effects with only one set of items, but it's not worth it most of the times.Don't have it active in the early stages, or your creeps wil push and you WILL GET GANKED!!",
+				"pipe":"Every team needs a mekansm and, if the enemies have strong magic aoe, a pipe.If someone tells you that your team does not need those they are probably wrong.Be mindfull of the range and the mana cost, try to activate it before they unload all the magic damage on your team.Build hood first!",
+				"urn_of_shadows":"Early game mana regen and survival, also a good heal or small dot, it helps a lot to get you ready to fight.",
+				"sheepstick":"Supports always make a nice use of the sheepstick, also gives a lot of needed stats for tide.Usually you should not build it, but remember that it's there and it can changed the game around!",
+				"force_staff":"An alternative to blink dagger, but quite underused, gives you some mana too which tide needs, I'd suggest to try it out in games when you can't reliably make a dagger maybe because you die often.Definitely consider it.",
+				"refresher":"Best late game item in any case.You'll still have mana issues but if you can manage the mana you have a double ulti which is fantastic.",
+				"shivas_guard":"Extra mana, extra armor, a strong counter to attack speed right click attackers, it's expensive but it's worth it.If you can start with the staff, more mana never hurts!",
+				"soul_ring":"Some people build soul ring on tide, rarely it might be a good pickup, but generally other items cover his mana needs.Only if you really CAN'T manage the mana and need to spam away.",
+				"arcane_boots":"Arcane boots for your team are the best pickup in most cases, do note that sometimes you might have a bad game and can't buy this later, if you die often delay this and check the situational items.",
+				"ancient_janggo":"Natural upgrade of bracer, good to use before teamfights or when sieging towers, this is situational because you might be short on money and have other priorities like a blink and pipe.Still one of the best stat items, try to get it in your games.",
+				"medallion_of_courage":"In some EXTREMELY rare cases, this item is good on tide.Gives you regen and armor, the active destroys roshan and low armor enemy heroes.Try it for alternative builds.",
+				"smoke_of_deceit":"If you're playing to get into high brackets you need to know this item.You should use it when the enemy team has plenty of wards and you need to gank someone without being seen. Try this if people always run from your ganks.Remember it dispells if you get near some hero or tower.",
+				"veil_of_discord":"An underused item since tide either wins with few items or just gets other things, this might be fun to use if you're having an ok game and don't want to farm bigger items, it's definitely better with more aoes though.",
+				"tranquil_boots":"An alternative of the arcanes if you're doing poorly.Gives good speed, regen and survivability, but it's a situational choice.Pick this if you need constant regen in lane because you're getting harassed on just doing poorly.You can disassemble it later and get arcanes anyway!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_anchor_smash",
+			"2":"tidehunter_kraken_shell",
+			"3":"tidehunter_anchor_smash",
+			"4":"tidehunter_gush",
+			"5":"tidehunter_anchor_smash",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_anchor_smash",
+			"8":"tidehunter_gush",
+			"9":"tidehunter_gush",
+			"10":"tidehunter_gush",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tidehunter_gush":"Get one point of gush by lvl 4 atleast, the slow is strong and the armor reduction early can get you kills.Try to use this first and then the anchor smash second since anchor does physical damage.Don't max it first, you don't have mana to use it more than once early!",
+				"tidehunter_kraken_shell":"One point early is nice and fine, rarely if ever you need more than one point.The weakest skill of tide in the early/mid game, but max it later since you will be team fighting and you need all the help you can get.",
+				"tidehunter_anchor_smash":"Max this one first, it costs low mana, does pretty good damage and makes last hits for the enemy harder.Has also a low cooldown.Tide does not have mana to support maxing gush first, this is definitely the better choice.",
+				"tidehunter_ravage":"Always get the ultimate when you can, this is one of the best in the game and it can change teamfights.Try to hit all the enemies since it's range is big.Best combo is blink/forcestaff into all of them and unleash the tentacles.Don't be afraid to use it on one or 2 guys early, but only early.",
+				"attribute_bonus":"Stats are always nice but tide needs his abilities.Some games you might get more by getting stats instead of the shell but only in VERY rare cases."
+		}
+	}
+}

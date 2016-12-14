@@ -1,0 +1,90 @@
+{
+	"Hero":"terrorblade",
+	"Title":"	ProGuide 	| Terrorblade  |  Soul Keeper",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"bracer",
+				"yasha",
+				"helm_of_the_dominator",
+				"lesser_crit"
+			],
+			"coreItems":
+			[
+				"sange_and_yasha",
+				"manta",
+				"satanic",
+				"butterfly",
+				"monkey_king_bar",
+				"greater_crit",
+				"heart"
+			],
+			"luxury":
+			[
+				"rapier",
+				"vanguard",
+				"sphere",
+				"skadi",
+				"black_king_bar",
+				"abyssal_blade",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"terrorblade_reflection",
+			"2":"terrorblade_metamorphosis",
+			"3":"terrorblade_reflection",
+			"4":"terrorblade_conjure_image",
+			"5":"terrorblade_metamorphosis",
+			"6":"terrorblade_sunder",
+			"7":"terrorblade_metamorphosis",
+			"8":"terrorblade_metamorphosis",
+			"9":"terrorblade_reflection",
+			"10":"terrorblade_reflection",
+			"11":"terrorblade_sunder",
+			"12":"terrorblade_conjure_image",
+			"13":"terrorblade_conjure_image",
+			"14":"terrorblade_conjure_image",
+			"15":"attribute_bonus",
+			"16":"terrorblade_sunder",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"terrorblade_reflection":"Замедлить врага никогда не будет лишним. С помощью этого скила мы с лёгкостью можем сделать фб, или же убежать от кого либо, а также иллюзия которая замедляет противника ещё и наносит урон равный 40% / 50% / 60% / 70% урона вашей цели.",
+				"terrorblade_conjure_image":"Этот скилл не очень полезен в начале, но с появлением итемов он очень полезен. Копия Terrorblade в лейте наносит существенный урон и к тому же, если её использовать во время Metamorphosis, то она тоже будет рэнджовой.	",
+				"terrorblade_metamorphosis":"Очень хороший спелл. Мы становимся не на долго рэнджовым героем, к тому же этот скил ещё и добавляет дамаг. Что может быть лучше для кери.",
+				"terrorblade_sunder":"Просто шикарный навык, спасающий практически в любой ситуации. При драке 1-1 особо не решит роли, а вот 1 против 2 или же 3 можно зажечь по полной, сделав трипл-килл. Также можно спасать почти мертвых союзников, если только вы уверены что с малым количеством здоровья осилите врагов.
+"
+		}
+	}
+}

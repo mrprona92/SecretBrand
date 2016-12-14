@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shackleshot",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Связывает цель с вражеским юнитом или деревом, находящимся позади. Если сзади цели нет дерева или юнита, то время оглушения уменьшается до 0,75 секунды.",
+        "notes": "Эта способность может связать двух противников, оглушая обоих.<br/>Связывает с вражеским юнитом или деревом позади цели, если расстояние между ними не превышает 525/500 единиц.<br/>Снаряд этой способности нельзя сбить с цели.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1.5/2.25/3/3.75</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/100/110/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Разнообразие умений владения луком у Windranger включает в себя трюк со стрелой и привязанной к ней веревкой, позволяющий остановить любую убегающую жертву.",
+        "hurl": "Windranger",
+        "name": "windrunner_shackleshot",
+        "youtube":"NZEnx0l_zJ0",
+        "id": 0
+    },
+    {
+        "dname": "Powershot",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Windranger заряжает свой лук в течение одной секунды, чтобы произвести один мощный выстрел, урон которого увеличивается по мере зарядки. Стрела наносит урон вражеским юнитам и разрушает деревья на своем пути. За каждого врага, в которого попадет стрела, ее урон будет снижен на 10%.",
+        "notes": "Уничтожает деревья в зоне действия способности.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">120/200/280/360</font></b>",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">2600</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/100/110/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 9",
+        "lore": "В ранние годы своих тренировок Лиралей научилась стрелять мощными стрелами, которые на пути к своей цели пробивают даже деревья.",
+        "hurl": "Windranger",
+        "name": "windrunner_powershot",
+        "youtube":"dBHEtbYmask",
+        "id": 1
+    },
+    {
+        "dname": "Windrun",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Увеличивает скорость передвижения и позволяет увернуться от всех физических атак, замедляя скорость передвижения у врагов поблизости.",
+        "notes": "Замедление будет действовать на врагов, невосприимчивых к заклинаниям.<br/>С помощью этой способности можно сбить с цели уже летящие в вас снаряды от атак.",
+        "dmg": "",
+        "attrib": "ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b><br/>УКЛОНЕНИЕ: <b><font color=\"#ffffff\">100%</font></b><br/>ЗАМЕДЛЕНИЕ ВРАГА: <b><font color=\"#ffffff\">8%/16%/24%/30%</font></b><br/>РАДИУС ЗАМЕДЛЕНИЯ ВРАГОВ: <b><font color=\"#ffffff\">300/300/300/300</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+        "lore": "Лиралей зачаровывает порывы ветра, и они отражают удары.",
+        "hurl": "Windranger",
+        "name": "windrunner_windrun",
+        "youtube":"XlNv2uF4l_k",
+        "id": 2
+    },
+    {
+        "dname": "Focus Fire",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Windranger направляет ветер, повышая свою скорость атаки по одному вражескому юниту или сооружению на 500, но теряя часть урона от атак. Дополнительный урон от эффектов предметов не уменьшается. Длится 20 секунд.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Можно применять на строения и врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">500</font></b><br/>СНИЖЕНИЕ УРОНА: <b><font color=\"#ffffff\">50%/40%/30%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">20</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">15/15/15</font></b><br/><font color=\"#6fe871\">СНИЖЕНИЕ УРОНА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">30%/15%/0%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/100/125<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60",
+        "lore": "Способность Лиралей обрушать на оппонентов шквал из стрел просто бесподобна — даже в ущерб точности.",
+        "hurl": "Windranger",
+        "name": "windrunner_focusfire",
+        "youtube":"jj7cWGyhj2o",
+        "id": 3
+    }
+]

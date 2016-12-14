@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Acid Spray",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Sprays high-pressure acid across a target area. Enemy units who step across the contaminated terrain take damage per second and have their armor reduced.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">625</font></b><br/>DURATION: <b><font color=\"#ffffff\">16</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">12/16/20/24</font></b><br/>ARMOR REDUCTION: <b><font color=\"#ffffff\">4/5/6/7</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 130/140/150/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 22",
+        "lore": "Using traditional Alchemy from the Darkbrew family, Razzil concocts an acid that dissolves even the toughest metals.",
+        "hurl": "Alchemist",
+        "name": "alchemist_acid_spray",
+        "youtube":"MUE1KNbho4Q",
+        "id": 0
+    },
+    {
+        "dname": "Unstable Concoction",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Alchemist brews up an unstable concoction that he can throw at an enemy hero, to stun and deal damage in an area around the explosion. The longer the concoction brews, the more damage it deals and the longer the stun. After 5 seconds, the brew reaches its maximum damage and stun time. However, after 5.5 seconds, the concoction will explode on Alchemist himself if not thrown.",
+        "notes": "Alchemist can move and act normally while brewing.<br/>A timer above Alchemist\u0027s head will indicate the remaining brew time. This timer is visible to enemies.<br/>You can deny yourself with this skill.<br/>Unstable Concoction cannot be disjointed.<br/>Once thrown, Unstable Concoction stops brewing.",
+        "dmg": "",
+        "attrib": "MAX STUN: <b><font color=\"#ffffff\">1.75/2.5/3.25/4</font></b><br/>MAX DAMAGE: <b><font color=\"#ffffff\">150/220/290/360</font></b><br/>EXPLOSION RADIUS: <b><font color=\"#ffffff\">175</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "A silver lining to the failure of turning a mountain into gold, this volatile solution has destructive potential.",
+        "hurl": "Alchemist",
+        "name": "alchemist_unstable_concoction",
+        "youtube":"12jG2U6LH6s",
+        "id": 1
+    },
+    {
+        "dname": "Greevil\u0027s Greed",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Alchemist synthesizes additional gold from his enemies and bounty runes. With each kill, Alchemist earns base bonus gold and extra bonus gold. If Alchemist kills another unit which yields gold within the next 30 seconds, an additional instance of Extra Bonus Gold is added to the total. Additionally, causes bounty runes to yield 4 times their normal gold.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RECENT KILL WINDOW: <b><font color=\"#ffffff\">30</font></b><br/>BASE BONUS GOLD: <b><font color=\"#ffffff\">6/8/10/12</font></b><br/>EXTRA BONUS GOLD: <b><font color=\"#ffffff\">3</font></b><br/>MAX BONUS GOLD PER KILL: <b><font color=\"#ffffff\">12/20/28/36</font></b>",
+        "cmb": "",
+        "lore": "While it is not a mountain, Razzil has mastered the conversion of smaller compounds to line his pockets.",
+        "hurl": "Alchemist",
+        "name": "alchemist_goblins_greed",
+        "youtube":"uHDQHquQk6E",
+        "id": 2
+    },
+    {
+        "dname": "Chemical Rage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Alchemist causes his Ogre to enter a chemically induced rage, reducing base attack cooldown and increasing movement speed and regeneration.",
+        "notes": "Has a 0.35 second transformation time, which can be used to dodge projectiles and stuns.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">25</font></b><br/>BASE ATTACK TIME: <b><font color=\"#ffffff\">1.4/1.2/1</font></b><br/>BONUS HEALTH REGEN: <b><font color=\"#ffffff\">50/75/100</font></b><br/>BONUS MANA REGEN: <b><font color=\"#ffffff\">3/7.5/12</font></b><br/>BONUS MOVE SPEED: <b><font color=\"#ffffff\">30/40/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/100/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 45",
+        "lore": "The brew Razzil gave to the Ogre during their prison bust has become a useful potion in the midst of combat.",
+        "hurl": "Alchemist",
+        "name": "alchemist_chemical_rage",
+        "youtube":"7SrgzbFp9Rw",
+        "id": 3
+    },
+    {
+        "dname": "Unstable Concoction Throw",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Throw it before it blows up!",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Alchemist",
+        "name": "alchemist_unstable_concoction_throw",
+        "id": 4
+    }
+]

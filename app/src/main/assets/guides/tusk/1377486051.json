@@ -1,0 +1,88 @@
+{
+	"Hero":"tusk",
+	"Title":" 이니시에이팅, 갱킹의 제왕, 얼음의 왕자 얼음 폭군! ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"orb_of_venom",
+				"quelling_blade",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"phase_boots",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"heart",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"assault",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"초반에 막타 또는 스킬과 평타 조합으로 킬을 획득하기 좋습니다.",
+				"phase_boots":"바다코끼리 펀치는 기본 공격력 수치를 기반으로 데미지가 상승하기 때문에 이 신발이 적합합니다. 추가로 추격과 도주에 이 장화가 최고입니다.",
+				"bracer":"힘 능력치와 데미지 상승력은 초반에 얼음폭군을 진정한 폭군으로 만듭니다. 지구력의 북을 위한 하위 아이템이기도 합니다.",
+				"assault":"후반부에 도입했다면, 모든 딜탱들의 로망인 돌격 흉갑을 사세요. 공격속도와 방어력 상승 오라는 아군들을 춤추게 합니다.",
+				"heart":"얼음 폭군은 최대한 스킬을 많이 사용 해주는 게 한타에서 역할이기 때문에 생존력이 좋을수록 좋습니다. 생존력 탱킹하면 타라스크입니다!",
+				"bfury":"바다코끼리 펀치를 광역 기술로 만들어주는 완소 아이템입니다. 추가 공격력과 다른 옵션도 좋습니다.",
+				"invis_sword":"자연의 예언자 같은 백도어를 하고 있는 영웅에게 조용히 다가가서 갱킹 할 때 아주 좋은 아이텝입니다. 도주할 때도 좋으며 공격속도와 공격력 상승은 꿀!맛!입니다.",
+				"orb_of_venom":"얼음폭군의 초반 킬 획득력은 어마어마합니다. 독사의 구슬은 도주하는 적을 추적하기에 아주 적합합니다.",
+				"ancient_janggo":"공격속도와 이동속도가 있어 추격과 팀파이트를 도와주는 지구력의 북. 아주 좋습니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_snowball",
+			"2":"tusk_ice_shards",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_frozen_sigil",
+			"9":"tusk_snowball",
+			"10":"tusk_snowball",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tusk_ice_shards":"얼음 파편은 상대방의 퇴로를 차단하여 절대적으로 고립시키는 잘 쓰기만 한다면 기절효과보다 더 좋은 기술입니다. 눈 뭉치 사용 후 대상에게 바로 써주시면 킬을 쉽게 획득하는 신비함을 보실 수 있습니다. 기본 기술 중에 데미지가 제일 준수한 편이기 때문에 무조건 먼저 마스터해주세요",
+				"tusk_snowball":"초반에 멀리 있는 적에게 빠른 속도로 다가가기 좋습니다. 모든 갱킹과 킬 찬스는 이 기술로 시작됩니다. 하지만 데미지와 레벨이 높아져도 기절 지속시간이 낮고 재사용 대기시간이 줄어들지 않아 두 번째로 마스터해줍니다.",
+				"tusk_frozen_sigil":"한타에서 파괴되지만 않으면 완벽한 기술입니다. 하지만 소규모 한타에서는 그렇게 큰 빛을 바라지 않으며 마스터를 해야지 효과가 있어 한타가 많이 일어나는 레벨 10 후부터 투자해주세요.",
+				"tusk_walrus_punch":"이 기술은 얼음폭군을 상징하는 대표적인 기술입니다. 단일 타겟 갱킹을 무조건 성공하게 해주는 괴물 같은 기술이며 기본 공격력이 올라갈수록 이 기술도 강력해집니다."
+		}
+	}
+}

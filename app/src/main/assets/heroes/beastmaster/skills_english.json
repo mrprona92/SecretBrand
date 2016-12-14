@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Wild Axes",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Beastmaster sends his axes flying and calls them home again, slicing through enemy units and trees along their path.  Each axe can hit an enemy once.",
+        "notes": "This ability hits Spell Immune units.<br/>This ability destroys trees.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">70/100/130/160</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">1300/1300/1300/1300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13",
+        "lore": "While learning to maneuver in nature alone, the Beastmaster also mastered the use of a pair of tomahawks, adept at cutting down trees as well as adversaries.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_wild_axes",
+        "youtube":"RfMTKPalQ_E",
+        "id": 0
+    },
+    {
+        "dname": "Call of the Wild: Hawk",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Beastmaster calls forth a watchful Hawk to scout the battlefield. At level 3 and beyond, the hawk can become invisible after being still for 4 seconds.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "HAWK HEALTH: <b><font color=\"#ffffff\">40/60/80/100</font></b><br/>HAWK MOVEMENT SPEED: <b><font color=\"#ffffff\">250/275/300/325</font></b><br/>HAWK DAY SIGHT RANGE: <b><font color=\"#ffffff\">700/1000/1300/1600</font></b><br/>HAWK NIGHT SIGHT RANGE: <b><font color=\"#ffffff\">700/800/900/1000</font></b><br/>HAWK DURATION: <b><font color=\"#ffffff\">60/60/60/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 15<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40",
+        "lore": "After befriending the strange beast of his childhood, Beastmaster has learned to call to animals in times of need.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_call_of_the_wild",
+        "youtube":"az1QugljYAA",
+        "id": 1
+    },
+    {
+        "dname": "Call of the Wild: Boar",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Beastmaster calls a powerful Boar to stalk the battlefield, capable of spitting poison at enemies to slow their movement and attack speed.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "BOAR HEALTH: <b><font color=\"#ffffff\">200/300/400/500</font></b><br/>BOAR ATTACK DAMAGE: <b><font color=\"#ffffff\">15/30/45/60</font></b><br/>BOAR MOVEMENT SLOW: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>BOAR ATTACK SLOW: <b><font color=\"#ffffff\">10/20/30/40</font></b><br/>BOAR POISON DURATION: <b><font color=\"#ffffff\">3</font></b><br/>BOAR DURATION: <b><font color=\"#ffffff\">60/60/60/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 15<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40",
+        "lore": "After befriending the strange beast of his childhood, Beastmaster has learned to call to animals in times of need.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_call_of_the_wild_boar",
+        "youtube":"dLViKx2MQd4",
+        "id": 2
+    },
+    {
+        "dname": "Inner Beast",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allies</font></b>",
+        "desc": "Untaps the inner fury of allies, passively increasing their attack speed.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">900</font></b><br/>BONUS ATTACK SPEED: <b><font color=\"#ffffff\">15/25/35/45</font></b>",
+        "cmb": "",
+        "lore": "Beastmaster\u0027s ability to incite the innate strength of animals was seen in the mauling of the king of Slom.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_inner_beast",
+        "youtube":"aC2jU2vrI8U",
+        "id": 3
+    },
+    {
+        "dname": "Primal Roar",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Beastmaster lets loose a deafening roar that stuns, and shoves open, a path to its target. All units in the path of the roar are damaged, while units shoved aside by the roar have their movement and attack speed slowed.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The stun will hit Spell Immune units. The damage will not.",
+        "dmg": "",
+        "attrib": "STUN DURATION: <b><font color=\"#ffffff\">3/3.5/4</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">200/250/300</font></b><br/>SHOUT WIDTH: <b><font color=\"#ffffff\">300</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">50%/50%/50%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">50/50/50</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">2/3/4</font></b><br/><font color=\"#6fe871\">SCEPTER CAST RANGE:</font></b> <b><font color=\"#ffffff\">950/950/950</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">45/45/45</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/175/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/75/70",
+        "lore": "The Beastmaster has learned to channel his primal instincts into an animalistic roar, causing devastation in the ranks of enemies.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_primal_roar",
+        "youtube":"mnHbT9GLIdU",
+        "id": 4
+    }
+]

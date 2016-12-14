@@ -1,0 +1,122 @@
+{
+	"Hero":"faceless_void",
+	"Title":" Сборка \"Не закрой куполом ближнего своего!\"",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"poor_mans_shield",
+				"ring_of_health",
+				"power_treads",
+				"hyperstone"
+			],
+			"Для середины игры":
+			[
+				"mjollnir",
+				"bfury",
+				"helm_of_the_dominator",
+				"lesser_crit"
+			],
+			"Для лейта":
+			[
+				"greater_crit",
+				"satanic",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"assault",
+				"heart",
+				"monkey_king_bar",
+				"butterfly",
+				"ultimate_scepter",
+				"mask_of_madness"
+			]
+		},
+		"ItemTooltips":
+		{
+				"claymore":"Начинаем собирать Батлфури с него.",
+				"quelling_blade":"Для лучшего добивания крипов.",
+				"travel_boots":"И так понятно...",
+				"hyperstone":"МоМ это конечно хорошо, но лишний урон по Войду нам не нужен. И стоит всего лишь на 200 больше. После покупки можно сразу идти фармить лес.",
+				"ring_of_health":"Любой хил когда-либо закончится и тут нам поможет это прекрасное колечко!",
+				"power_treads":"ПТ! Только ПТ!",
+				"hand_of_midas":"До 8 минуты! Используем по кд и она окупится минут через 20. В лейте продаем. Если с фармом все хорошо, можете не покупать.",
+				"poor_mans_shield":"Если против вас стоит рейнж герой и постоянно бьет вас.",
+				"ring_of_basilius":"Удел саппортов.",
+				"ultimate_scepter":"За эти деньги можно купить арты получше. Но в лейте можно.",
+				"refresher":"Это нам точно не нужно.",
+				"assault":"Отличный арт, если играем против Дазла, СФ'а. Вообщем, против тех, кто снижает нам броню. Плюс скорость атаки и хорошая помошь союзникам. Хорошо смотрится с тараской.",
+				"heart":"Собираем, если знаем, что придется впитать много дамага. Хороша против Сэндкинга или Ёрсшейкера.",
+				"black_king_bar":"Купол не вечен (2) и как только он закончится, в нас полетит всякая хрень.",
+				"monkey_king_bar":"Если против нас герой с уворотами.",
+				"butterfly":"Увороты бабочки стакаются с нашими, но только для простых атак. Годный арт, если против нас играют траксы, клинксы, виверы и т.д.",
+				"greater_crit":"Lvl up, Crystlalys!",
+				"bfury":"Под куполом он знает свое дело.",
+				"lesser_crit":"Криты, они и в Африке криты.",
+				"satanic":"Купол не вечен и у тут нам поможет вампиризм.",
+				"mjollnir":"Варим из гиперстоуна. Особенно (!), если против нас фура или энигма.",
+				"helm_of_the_dominator":"Вампиризм + не забывайте, что подконтрольные нам юниты могут действовать в куполе!",
+				"maelstrom":"Начинаем собирать Мьёльнир с него.",
+				"mask_of_madness":"Спорная вещь...Можно собрать в начале. С ней вы можете убить под куполом 2-3 героя, а дальше, из-за +30% урон по Войду, нам каюк. Зато дополнительная скорость поможет догнать/убежать. Вообщем, решайте сами.",
+				"ancient_janggo":"Удел саппортов.",
+				"abyssal_blade":"!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_backtrack",
+			"4":"faceless_void_time_walk",
+			"5":"faceless_void_backtrack",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_backtrack",
+			"8":"faceless_void_time_lock",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_time_lock",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_lock",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"Отличный скилл. Поможет нам ворваться в битву или убежать от ганга. Если вы догоняете противника, то блинкатся надо немного вперед героя. Это его хорошо замедлит и мы нанесем больше ударов",
+				"faceless_void_backtrack":"Уклоняется от любой атаки. ЛЮБОЙ! Будь это ульт Лины или Зевса. ",
+				"faceless_void_time_lock":"Баши Войда проходят независимо кого бьешь и какие эффекты на нём. Будь даже это Рошан с 100% резистом от магии и включеным БКБ.",
+				"faceless_void_chronosphere":"Вот он, ульт мечты! Замораживает любого бедолагу(и даже фонтан), которому не повезло в него попасть. Лишь непоколебимый курьер и подконтрольные нам юниты могут в нём передвигатся. Выберайте лучший момент для ультимейта и как только он настает смело блинкуйтесь и действуйте!"
+		}
+	}
+}

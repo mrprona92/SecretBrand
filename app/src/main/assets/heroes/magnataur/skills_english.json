@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shockwave",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Magnus sends out a wave of force, damaging enemy units in a line.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DISTANCE: <b><font color=\"#ffffff\">1150</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/90/90/90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10/9/8/7",
+        "lore": "Mt. Joerlak was a somewhat unstable mass, and Magnus has learned to channel its reverberations.",
+        "hurl": "Magnus",
+        "name": "magnataur_shockwave",
+        "youtube":"FP8R8T5_kbc",
+        "id": 0
+    },
+    {
+        "dname": "Empower",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Gives an allied unit bonus damage and cleave on attack.",
+        "notes": "The bonus damage is based only on base damage and damage from primary attributes.<br/>Cleave damage is reduced by armor type but not by armor value.<br/>Cleave damage goes through spell immunity.<br/>Ranged units cannot Cleave.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">40/40/40/40</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>CLEAVE DAMAGE: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>CLEAVE RADIUS: <b><font color=\"#ffffff\">200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/40/50/60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "With a deep bellow, Magnus displays his true power.",
+        "hurl": "Magnus",
+        "name": "magnataur_empower",
+        "youtube":"xjkhguSB_xY",
+        "id": 1
+    },
+    {
+        "dname": "Skewer",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Magnus rushes forward, goring enemy units on his massive tusk.  Heroes hit on the way will be dragged to the destination, then damaged and slowed.",
+        "notes": "Doesn\u0027t affect Spell Immune units.",
+        "dmg": "",
+        "attrib": "SPEED: <b><font color=\"#ffffff\">950</font></b><br/>DISTANCE: <b><font color=\"#ffffff\">750/900/1050/1200</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">40%/40%/40%/40%</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">2.5</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">70/140/210/280</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/80/80/80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30",
+        "lore": "Magnoceros horns are valuable in direct proportion to their danger to prospective merchants.",
+        "hurl": "Magnus",
+        "name": "magnataur_skewer",
+        "youtube":"8zXtB2Ip1w8",
+        "id": 2
+    },
+    {
+        "dname": "Reverse Polarity",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Magnus changes properties of matter, sucking all nearby enemies in front of him and stunning them with a powerful slam and dealing damage.",
+        "notes": "Disable and pull work through spell immunity.",
+        "dmg": "",
+        "attrib": "PULL RADIUS: <b><font color=\"#ffffff\">410</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">50/125/200</font></b><br/>HERO STUN DURATION: <b><font color=\"#ffffff\">2.25/3/3.75</font></b><br/>CREEP STUN DURATION: <b><font color=\"#ffffff\">3/4/5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/250/300<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/110/100",
+        "lore": "Magnus fights with the fury of the erupting Mt. Joerlak.",
+        "hurl": "Magnus",
+        "name": "magnataur_reverse_polarity",
+        "youtube":"PMBM_CbFlyM",
+        "id": 3
+    }
+]

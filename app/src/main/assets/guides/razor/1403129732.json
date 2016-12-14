@@ -1,0 +1,102 @@
+{
+	"Hero":"razor",
+	"Title":"GreyShark.Razor #2",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"circlet",
+				"branches"
+			],
+			"Early Game":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"vanguard",
+				"yasha"
+			],
+			"Mid Game":
+			[
+				"sange_and_yasha",
+				"desolator",
+				"greater_crit"
+			],
+			"Late Game":
+			[
+				"heart",
+				"butterfly"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"refresher",
+				"ultimate_scepter",
+				"assault",
+				"monkey_king_bar"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"На фаст аквилу",
+				"circlet":"На фаст аквилу",
+				"power_treads":"Разору не хватает АС, можно заменить на фейзы, но ПТ лучше",
+				"ultimate_scepter":"Улучшение для ульты + повышает нашу плотность",
+				"refresher":"После рефреша мы одновременно можем бить двумя ультами, то есть они стакаются, если захотели пофаниться или это нужно то собирайте",
+				"assault":"Вместо тараски если нужно уходить в броню и АС",
+				"heart":"В глубоком лейте нам понадобится очень много ХП.",
+				"black_king_bar":"Если много дизейблов то можно собрать после СиЯ.",
+				"vanguard":"Полезная штука для разора, хотя можно и без него обойтись, по началу даст плотности и повысит выживаемость",
+				"monkey_king_bar":"Если есть чуваки с бабочками или с уклонениями типо PA, Brewmaster то можно вместо даедалуса или дезолятра.",
+				"butterfly":"Госу арт для ловкачей, дает много урона, АС, уклонения и броню.",
+				"greater_crit":"У нас большой урон, и тем более нам нужны криты. Криты под тысячу. Лишними не будут.",
+				"sange_and_yasha":"Повышает скорость, дает всех нужных атрибутов, ловкости и силы, много урона и АС, и самое главное мы будет более плотные и имеем замедление",
+				"desolator":"В сумме с нашей ультой очень много минус армора и урона за свои деньги",
+				"yasha":"Потом апнем в СиЯ, много урона, АС, скорости.",
+				"ring_of_aquila":"Много статов, полезная аура для пуша и союзников, легче фармить и стоять на лайне по началу"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_static_link",
+			"2":"razor_unstable_current",
+			"3":"razor_static_link",
+			"4":"razor_plasma_field",
+			"5":"razor_static_link",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_static_link",
+			"8":"razor_plasma_field",
+			"9":"razor_plasma_field",
+			"10":"razor_plasma_field",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_unstable_current",
+			"13":"razor_unstable_current",
+			"14":"razor_unstable_current",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

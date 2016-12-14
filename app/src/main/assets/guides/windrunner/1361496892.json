@@ -1,0 +1,91 @@
+{
+	"Hero":"windrunner",
+	"Title":"Mayple's Offlane Windrunner Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"ring_of_protection",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"orchid",
+				"sphere",
+				"sheepstick",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"You don't want to waste valuable exp and potential gold by running back to base. Also grabbing this at the start leaves the courier open for the other lanes.",
+				"ward_observer":"Make sure to ward their pull camp so they can't bring the creep equilibrium near their tower.",
+				"tpscroll":"Always have these handy. I tend to keep at least 2 on me at all times.",
+				"phase_boots":"These are very important for the extra mobility and early last hit damage.",
+				"mekansm":"Buy this before the force staff if you are the dedicated builder otherwise skip this item.",
+				"sheepstick":"Build this if your team is very lacking with stuns and crowd control spells. This can be helpful to set up shackle shot as well.",
+				"orchid":"Orchid is a great item for the extra attack speed and especially for the mana regen. If you're being asked to semi-carry this item is a must.",
+				"force_staff":"Use this to set up shackle shot and to use as an extra escape. Windrunner becomes extremely hard to kill once this is built.",
+				"sphere":"If you need survivability or extra insurance then build this. Its especially useful if you are designated to hold a gem.",
+				"monkey_king_bar":"If you're at the point where you will need to build this item, chances are their carries are going to have some sort of evasion. This will counter that while giving you a nice damage and attack speed boost."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_shackleshot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_windrun",
+			"12":"windrunner_windrun",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"windrunner_focusfire",
+			"16":"windrunner_focusfire",
+			"17":"windrunner_focusfire",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Not the most stable of stuns but it can be very powerful if you latch 2 heroes together. Don't wait for the perfect shackle, just keep throwing them out there if it has a chance to latch.",
+				"windrunner_powershot":"If you get harassed hard in lane use powershot to last hit creeps or to harass their team back from a long distance. ",
+				"windrunner_windrun":"You need windrun at level 1. Avoid taking as much damage as possible so don't hesitate to activate it when trading hits with the other team.",
+				"windrunner_focusfire":"A fairly weak ability early on. Once you can get 2-3 ranks of it then its more worth it. Use this to push towers and if you get an orchid this can pump out a lot of damage quickly."
+		}
+	}
+}

@@ -1,0 +1,113 @@
+{
+	"Hero":"faceless_void",
+	"Title":"6.82 - Standard Faceless Void (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"stout_shield",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"maelstrom",
+				"ultimate_scepter",
+				"bfury",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"butterfly",
+				"mjollnir",
+				"greater_crit"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"hand_of_midas":"If going for a long game, get Midas; otherwise you may not necessarily need it to farm adequately.",
+				"poor_mans_shield":"Help with your last-hitting and preventing harassment with Poor Man's Shield ",
+				"ultimate_scepter":"Aghanim's is great for a coordinated team in which you want to push Faceless Void for early ganks and extended Chronospheres.",
+				"assault":"If your dodge and ultimate is not enough to keep rivaling carries down, Assault Cuirass should help dish out the damage more and increase your armour.",
+				"black_king_bar":"You can't snag everyone in Chronosphere and sometimes you have to enter fights without Chronosphere: Black King Bar is to prevent disables and keep you dishing out consistent damage.",
+				"monkey_king_bar":"Incredible damage and further destroy enemy carry heroes that have a lot of evasion like Phantom Assassin.",
+				"butterfly":"Dodge chance stacks with Butterfly's Evasion, giving Faceless Void an incredible amount of pseudo-invulnerability from attacks.
+
+Use Flutter to either escape from chasing heroes or to close the gap on foes who are fleeing so you don't have to waste your Time Walk!",
+				"greater_crit":"Waste less time in Chronosphere with Daedalus and rip as many foes as you can as soon as possible.",
+				"bfury":"Get Battle Fury if you intend to go for the long-haul farm. Get it if you can obtain it within 18 minutes of the game. Generally, it is good late-game where team-fights could go either way.",
+				"armlet":"A relatively safer pick, Armlet offers damage, survivability and speed that Faceless Void desperately needs during the mid-game.",
+				"mjollnir":"Mjollnir is a great item built from Maelstrom, typically made for farming quickly and dishing out damage to foes caught within your ultimate. The attack speed, damage and chained lightning effect are synergized with Faceless Void's ability.",
+				"maelstrom":"Maelstrom can be a bit easier to farm than Battlefury if you intend to farm for the long-haul. The damage, attack speed and chained lightning tear down waves of foes incredibly fast.",
+				"mask_of_madness":"Mask of Madness is the early to mid-game item you need to dash out the damage you want within the first few levels of your ultimate: Chronosphere."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_time_lock",
+			"4":"faceless_void_time_walk",
+			"5":"faceless_void_time_lock",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_lock",
+			"8":"faceless_void_time_lock",
+			"9":"faceless_void_backtrack",
+			"10":"faceless_void_time_walk",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_backtrack",
+			"14":"faceless_void_backtrack",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"Use Time Walk to escape ganks and attacks against you. Later on, you will use this ability to initiate with your Chronosphere.",
+				"faceless_void_backtrack":"Dodges ultimate abilities, physical attacks, everything. Prepare to frustrate enemies with this passive ability.",
+				"faceless_void_time_lock":"Deals twice as much damage in Chronosphere, justifying its early levels especially if you got Mask of Madness!",
+				"faceless_void_chronosphere":"Chronosphere affects allies and foes. So be careful when you use this and try and coordinate with your allies to avoid getting trapped inside. This sphere also affects towers.
+
+When in your ultimate, you gain incredible movement speed and can go through foes!"
+		}
+	}
+}

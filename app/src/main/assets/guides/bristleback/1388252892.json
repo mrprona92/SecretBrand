@@ -1,0 +1,79 @@
+{
+	"Hero":"bristleback",
+	"Title":"GreyShark.Bristleback",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"stout_shield",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_basilius",
+				"magic_wand",
+				"arcane_boots",
+				"vanguard",
+				"hood_of_defiance"
+			],
+			"Mid Game":
+			[
+				"blade_mail",
+				"assault"
+			],
+			"Late Game":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"medallion_of_courage",
+				"pipe"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_quill_spray",
+			"2":"bristleback_bristleback",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_bristleback",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_viscous_nasal_goo",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_viscous_nasal_goo",
+			"13":"bristleback_viscous_nasal_goo",
+			"14":"bristleback_viscous_nasal_goo",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

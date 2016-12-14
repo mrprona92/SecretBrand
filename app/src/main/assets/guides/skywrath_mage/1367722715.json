@@ -1,0 +1,70 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"From Tip to Tip my wings Soar!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"flask"
+			],
+			"Early Bird gets the Drow":
+			[
+				"void_stone",
+				"arcane_boots",
+				"ward_observer"
+			],
+			"Midgar":
+			[
+				"force_staff",
+				"rod_of_atos",
+				"bloodstone"
+			],
+			"Ride'n Dirty":
+			[
+				"shivas_guard",
+				"ethereal_blade",
+				"mekansm",
+				"ward_sentry",
+				"gem"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_concussive_shot",
+			"9":"skywrath_mage_ancient_seal",
+			"10":"skywrath_mage_concussive_shot",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_ancient_seal",
+			"13":"skywrath_mage_ancient_seal",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

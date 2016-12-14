@@ -1,0 +1,85 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"Spirit Breaker - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"Principio de Partida":
+			[
+				"urn_of_shadows",
+				"boots",
+				"magic_wand"
+			],
+			"Objetos Principales":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"black_king_bar"
+			],
+			"Final de la Partida":
+			[
+				"heart",
+				"assault",
+				"ultimate_scepter",
+				"mjollnir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Ponlas en Rojo",
+				"black_king_bar":"Si vas a saltar a mas de un enemigo o uno que te pueda stunear activalo nada mas llegar y a por el!!",
+				"mask_of_madness":"Activalo despues de llegar al enemigo con la Q para destrozarle rapidamente!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_charge_of_darkness",
+			"2":"spirit_breaker_greater_bash",
+			"3":"spirit_breaker_charge_of_darkness",
+			"4":"spirit_breaker_greater_bash",
+			"5":"spirit_breaker_charge_of_darkness",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_charge_of_darkness",
+			"8":"spirit_breaker_greater_bash",
+			"9":"spirit_breaker_greater_bash",
+			"10":"spirit_breaker_empowering_haste",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_empowering_haste",
+			"13":"spirit_breaker_empowering_haste",
+			"14":"spirit_breaker_empowering_haste",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spirit_breaker_charge_of_darkness":"Usalo para cargar a los enemigos que veas por el mapa. Tambien muy util para llegar rapido a linea desde base. Combinalo con la ultimate y activa la mascara de locura al llegar al objetivo.",
+				"spirit_breaker_greater_bash":"Te permite stunear a los enemigos de forma aleatoria.",
+				"spirit_breaker_nether_strike":"Cuando llegues con Q a tu objetivo, lanza la ultimate, activa la mascara de la locura (si tienes bkb tambien) y aniquilalos!"
+		}
+	}
+}

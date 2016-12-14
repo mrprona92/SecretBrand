@@ -1,0 +1,114 @@
+{
+	"Hero":"naga_siren",
+	"Title":"If Naga still has her 1.5 crit",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"quelling_blade",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"ring_of_regen",
+				"power_treads",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"diffusal_blade",
+				"manta",
+				"butterfly",
+				"heart"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"ancient_janggo",
+				"vanguard",
+				"sphere",
+				"orchid",
+				"sange_and_yasha",
+				"radiance",
+				"sheepstick",
+				"refresher",
+				"abyssal_blade",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"This was not necessary before. Now because of the super low base damage you won't regret buying it.",
+				"ring_of_regen":"You can stay on the lane much longer with this.",
+				"power_treads":"It should be better than Tranquil Boots if you can click it to the right colors in the right situations.",
+				"vladmir":"With this you don't need to go back and regen. +5 armor aura makes all your teammate tougher.",
+				"ring_of_basilius":"Enough mana regen for Naga before, can be made into Vladmir with Ring of Regen later.",
+				"orchid":"Net and silence basically equal to stunning an enemy for 5 seconds. Also you can use rip tide more often.",
+				"refresher":"Make your enemies sleep for 18 seconds in the base race situation.",
+				"manta":"Dodge and get rid of some spells. Provide significant damage output when an enemy is ensnared. Push a lane and even destroy structures when you're somewhere else. When possible, hide in the jungle and keep sending illusions to enemy base. ",
+				"yasha":"Instead of saving 1200 more for diffusal blade, Yasha makes your farm faster and deal more damage. Chasing and escape become much easier because your base movement speed is 400+.",
+				"diffusal_blade":"Diffusal blade should be made right after Yasha.
+When you have these 2 items and find an enemy alone, get close to it, hide in the shadow, use mirror image, come out suddenly with your illusions and ensnare the enemy. Sometimes you just need to throw the net ,get back, let the illusions do the rest.",
+				"ancient_janggo":"It doesn't do anything significant, but cost more than half of the diffusal blade.",
+				"abyssal_blade":"Super late game item. You can 1 vs 5 with it if you are lucky."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_mirror_image",
+			"2":"naga_siren_ensnare",
+			"3":"naga_siren_ensnare",
+			"4":"naga_siren_mirror_image",
+			"5":"naga_siren_ensnare",
+			"6":"naga_siren_mirror_image",
+			"7":"naga_siren_ensnare",
+			"8":"naga_siren_mirror_image",
+			"9":"naga_siren_song_of_the_siren",
+			"10":"naga_siren_rip_tide",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_rip_tide",
+			"13":"naga_siren_rip_tide",
+			"14":"naga_siren_rip_tide",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Dodge projectiles (Sven, Skeleton King, Pudge hook)
+Get rid of spells (Venomous Gale, Cold feet)
+Bait enemies' spells by sending one illusion in front of them and act like it is real.
+Farm in a lane that is dangerous.
+Scout anywhere you want.
+Rip tide works on illusions.",
+				"naga_siren_ensnare":"It reveals invisible heroes if they turn invisible after the net caught them.
+Heroes can't blink in net.(catch AM, QoP easily)
+Ghost form can get rid of the net. Use diffuse ASAP
+Any spells, items that need casting can be stoped by net, even the heroes have linken or in magic immune mode(BKB, repel)",
+				"naga_siren_song_of_the_siren":"How you use this spell shows how well you understand Naga. You can ruin or win the game with one song.
+Good teammates : Tide Hunter, Enigma, Kunkka, Disruptor, Shadow Fiend, Earth Shaker( don't fight against him), Magnus, Warlock
+"
+		}
+	}
+}

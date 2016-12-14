@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutMenu"
+    style="@style/Layout.FillWidth"
+    android:orientation="vertical"
+    android:clickable="true">
+    <TextView
+        android:id="@+id/lblTitle"
+        style="@style/SettingSection"
+        android:layout_gravity="center"
+        android:background="@drawable/selector_row_menu_item_gray"
+        android:drawableLeft="@drawable/ic_menu_quit"
+        android:drawablePadding="@dimen/padding_normal"
+        android:paddingBottom="@dimen/padding_normal"
+        android:paddingLeft="@dimen/padding_normal"
+        android:paddingRight="@dimen/padding_normal"
+        android:text="@string/menu_exit"
+        android:textColor="@color/ranking_row_bgr_tag_recommend" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.6dp"
+        android:background="@color/cmn_gray"
+        android:alpha="0.2"/>
+</LinearLayout>
+
+

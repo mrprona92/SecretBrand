@@ -1,0 +1,105 @@
+{
+	"Hero":"sven",
+	"Title":"Sven: The Home-Wrecker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"gauntlets",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"mask_of_madness",
+				"lesser_crit"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"abyssal_blade",
+				"heart",
+				"mjollnir",
+				"assault",
+				"blink",
+				"rapier",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"if you feel like you're running too much and can't get close to them!!",
+				"quelling_blade":"For faster farm. depends on the lane, you could switch this with a stout shield if you're against 2 range heroes or if you're confident enough with your last hitting skills",
+				"gauntlets":"str = more hp + dmg for sven. plus you can build this into a drum of endurance later on",
+				"branches":"It is VERY important to have at least 1 GG branch every game. ",
+				"tango":"go healthy",
+				"power_treads":"Power Treads is basically the boots for sven. since he needs attack speed to put out damage when in God Strength. he needs to be tanky as well so the hp bonus from Strength Power Treads is better than other boots",
+				"assault":"yea auras!",
+				"heart":"the very reason Heart of Tarrasque is taken by carries is that once they get low, they just back off a bit and in a few seconds, they'll be able to fight again with full hp.",
+				"black_king_bar":"This will complete sven's God mode. kinda like reaching nirvana",
+				"rapier":"rapier cuz why not?",
+				"monkey_king_bar":"if enemy team has a lot of evasion, get this.",
+				"greater_crit":"200% damage on ult X 240% crit damage = gg",
+				"lesser_crit":"crits are your best friend. everytime you crit with sven you should spin around your chair",
+				"satanic":"you can replace MoM with satanic if you need that extra HP,DMG, lifesteal",
+				"mjollnir":"item that gives the most attack speed. lightning shield is awesome too",
+				"mask_of_madness":"this item makes sven the monster that he is. REMINDER: although the 30% move speed and 100 attack speed bonus is tempting, it also makes you take in 30% more damage. so do keep in mind that once you activate this item, you shouldn't be taking in damage for the team especially in the early-mid game.",
+				"ancient_janggo":"the little movespeed and attack speed bonus gets you closer and will be able to put out more damage to the enemy once you throw that stun",
+				"abyssal_blade":"abyssal blade's active bash is very OP. goes through magic immunity making the enemy carry useless while you just laugh your ass off"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"attribute_bonus",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"sven_gods_strength",
+			"12":"sven_great_cleave",
+			"13":"sven_great_cleave",
+			"14":"sven_great_cleave",
+			"15":"sven_great_cleave",
+			"16":"sven_gods_strength",
+			"17":"sven_warcry",
+			"18":"sven_warcry",
+			"19":"sven_warcry",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"imba stun can't be disjointed. use it to initiate and yell \"HAMMER TIME\" whenever you throw it",
+				"sven_great_cleave":"while the cleave is great, stats would be better early since you need survivability because you don't have any escape mechanism. this skill will only be effective when you have your daedalus+ult+MoM activated",
+				"sven_warcry":"can even use to buff ally initiators to get near enemy. gotta get near them so you better press this for more armor and faster movement speed! gotta go!",
+				"sven_gods_strength":"GG skill. remember you want to stay alive when this is on! if you know you're gonna die, might as well try to fight them just to let them know you're not going down without a fight!"
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"Hero":"kunkka",
+	"Title":"One-Hit-Rampage ( Updated for 6.81! )",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"gauntlets",
+				"circlet",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"invis_sword",
+				"lesser_crit"
+			],
+			"coreItems":
+			[
+				"greater_crit"
+			],
+			"Damage Items":
+			[
+				"greater_crit",
+				"bfury",
+				"rapier",
+				"monkey_king_bar"
+			],
+			"Defensive Items":
+			[
+				"black_king_bar",
+				"assault",
+				"heart",
+				"blink",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you cant seem to get in close with a Shadow Blade ( When they have sentries or you cant pull a good Boat off) consider buying a Blink Dagger. It lets you pull of surprise Tidebringer Cleaves. It makes for some hilarious scenes when Blink in while you have X-marks the Spot on yourself.",
+				"gauntlets":"The gauntlet gives you HP and damage. Just what you need for a lane.",
+				"branches":"Just some more stats. Always try and spend all of your starting gold.",
+				"circlet":"I preffer getting a circlet instead of another gauntlet because of the ability to build it into a bracer and then into drums, if needed. Only go for drums if you are way behind your farm and you can't seem to get your core fast enough.",
+				"flask":"Basic regen. Use this only when you can use it to the fullest - when ever you are missing 400 HP or more.",
+				"tango":"Basic regen. Use these when you are missing just a couple of hp - 100-200. Also remember to pop a tango before you go into a fight, it might just save your life.",
+				"phase_boots":"Phase boots give you the most damage. Get them as soon as possible when on lane. They give you an easier time last hitting as well as harassing via Tidebringer.",
+				"assault":"Get this if the enemy physical damage carry is giving you problems. It provides a good aura that helps mostly your team as cleave already ignores all armor.",
+				"heart":"The longer you can stay alive the more Tidebringer hits you can apply to the enemies' face. Good for when the enemy has a balanced team - some spellcasters and a Physical Damage carry.",
+				"black_king_bar":"Great against teams with lots of nukes or stuns. If you need to stay in the fray and keep fighting after you use your initial Tidebringer hit and those pesky mages keep spamming you with spells.",
+				"sphere":"Linken's is a pretty well rounded defensive item. It blocks one spell every couple of seconds which may save your life. It also gives you stats and regen which you need. You might as well build it if you got a Perseverance during the early game, but you don't want a Battlefury.",
+				"rapier":"MANLY MODE KUNKKA.
+
+Put X-Marks the spot on yourself, activate Shadow Blade and hit a creep in front of the enemy team.
+
+Enjoy your Rampage.",
+				"monkey_king_bar":"Gives a couple more damage than a Daedalus, attack speed and is a bit cheaper. Get this if the enemy has evasion and you cant seem to kill them with splash.",
+				"greater_crit":"A Daedalus adds even more damage and increases the rate chance that you might crit. You can even stack them to get a higher chance to proc the crit (the crit itself does not stack!)",
+				"bfury":"A Battlefury is an OK item to go for if you can get it early. The problem is that you can go for it after you have your Phase Boots+Shadow Blade+Daedalus. Get it for the exta spash and damage, but know that BF's splash is way smaller than Tidebringer. Also good if you intend to farm mainly creeps.",
+				"lesser_crit":"The crits. Once you get this you can begin cleaving for half the enemies' HP. Combine this with the extra Shadow Blade damage and a good positioned Tidebringer hit and you will see magic happen. Get this after Shadowblade. The earlier you get these two items the better.",
+				"invis_sword":"Shadowblade can also be considered a Core Item. It adds 150 damage to your Tidebringer hit or provides you with an escape mechanism ( all depends on how you use it ). Get this item even if the enemy is buying detection or if they have a Bounty Hunter/Slardar on their team. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_x_marks_the_spot",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_x_marks_the_spot",
+			"9":"kunkka_torrent",
+			"10":"kunkka_torrent",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_torrent",
+			"13":"kunkka_x_marks_the_spot",
+			"14":"kunkka_x_marks_the_spot",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"Your Nuke-Stun-Slow. Hitting this can be a it tricky but practice makes perfect. A popular set up to this skill is Shadow Demon's Disruption. Do not use this unless you are going for a kill. Other stuns also work quite well. Get this on LVL1 if you intend to get First Blood.",
+				"kunkka_tidebringer":"Your bread and butter passive. It has a huge AoE and it is an amazing harassment tool. Remember that units hit by the splash of this skill take the full damage of your attacks, since cleave ignores armor. Get this LVL 1 if you have a passive lane or you are on mid.",
+				"kunkka_x_marks_the_spot":"A good utility skill. I suggest leveling this last, and even skipping it once for the sake of Stats. I take a level of stats instead of this on LVL 9 to increase your overall survivability and damage. You only need lvl 2 of this skill to be able to set up your Torrent. Take earlier if needed.",
+				"kunkka_ghostship":"A hard to hit, but amazing ultimate. It always travels a set distance so it can be tricky to land. You can also use it to apply the buff it has to you, even if you might not land the stun. Pulling off the Torrent + Ghostship combo will determine how well you can play Kunkka.",
+				"attribute_bonus":"Stats give you a bit of everything. Consider taking this on lvl 9 over X-Marks the Spot if you are NOT up againts slipery oponents - blinkers, people with Blink Dagger or Force Staff, etc. "
+		}
+	}
+}

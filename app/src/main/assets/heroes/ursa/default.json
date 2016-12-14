@@ -1,0 +1,43 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_ursa",
+	"Title":"Recommended items for Ursa",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"branches",
+			"branches",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"ring_of_basilius",
+			"orb_of_venom"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"magic_wand",
+			"vladmir",
+			"blink",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"black_king_bar",
+			"invis_sword",
+			"heart",
+			"sphere",
+			"blade_mail",
+			"sange_and_yasha",
+			"abyssal_blade",
+			"sheepstick",
+			"desolater"
+		]
+	}
+}

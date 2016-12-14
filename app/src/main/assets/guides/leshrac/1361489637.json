@@ -1,0 +1,95 @@
+{
+	"Hero":"leshrac",
+	"Title":"Fall by my Edict!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"mantle",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"null_talisman",
+				"boots",
+				"ward_observer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bloodstone",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"arcane_boots",
+				"pipe",
+				"mekansm",
+				"travel_boots",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Make sure at least one set of wards are up at any time. Remember that you only need to ward 1 rune to know where it is and keep the other ward for situational use.",
+				"courier":"Either courier or wards, both if you're feeling generous!",
+				"tpscroll":"As a support you should always be carrying a TP scroll so that you can rush to someone's aid. There is no excuse not to carry one (except if it's very late and you have farmed some Boots of Travel). ",
+				"phase_boots":"Phase boots are great for keeping up with people so that your Nova/Edict do more damage, note that Mana boots are also an option though.",
+				"sheepstick":"If you get one of these, you should have won the game by now.",
+				"ultimate_scepter":"The additional damage is really great and synergises well with a charged bloodstone.",
+				"rod_of_atos":"\"Underrated item\". But seriously, great on Leshrac as he needs the HP, Mana and a slow to keep someone in his Edict/Nova or just to land that easy stun."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_diabolic_edict",
+			"4":"leshrac_split_earth",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"attribute_bonus",
+			"10":"leshrac_pulse_nova",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_lightning_storm",
+			"14":"leshrac_lightning_storm",
+			"15":"leshrac_lightning_storm",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"His stun takes a long time to wind up and is ideally used just after someone else's stun runs out.",
+				"leshrac_diabolic_edict":"With the new cast time on this spell it is now much harder to chase with it, but if you catch anybody out on their own you are almost guaranteed a kill",
+				"leshrac_pulse_nova":"Earlier on you do not have the Mana or regen to sustain Nova for a long time, save it for mid-late game.",
+				"attribute_bonus":"\"Stats at level 9?!\" you gasp? Deal with it."
+		}
+	}
+}

@@ -1,0 +1,127 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"Smartchicken's Guide To Keeping The Light ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"mekansm",
+				"ward_observer",
+				"ultimate_scepter"
+			],
+			"late Game/luxury":
+			[
+				"rod_of_atos",
+				"cyclone",
+				"sheepstick",
+				"force_staff",
+				"pipe",
+				"veil_of_discord",
+				"shivas_guard",
+				"heavens_halberd"
+			],
+			"Other shit you need to buy from time to time":
+			[
+				"courier",
+				"flying_courier",
+				"dust",
+				"smoke_of_deceit",
+				"gem",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"This will be built into your booties and can be replaced with GG braches if you feel you will have a very safe lane",
+				"branches":"this is for your mechenism and gives nice bonus stats.",
+				"gem":"For Riki",
+				"flask":"Nice health regen that can be applied to allies",
+				"dust":"FUCK YOU BH AND YOUR OP CRITTING BULLSHIT HAVE SOME SAND",
+				"ward_observer":"get these all game every 6 minutes unless somelse is doing so also if you dont know what these are simply look up a guide and buy the courior instead",
+				"tango":"Nice health regen that can be given to allies",
+				"courier":"this is for if someoneelse bought wards",
+				"tpscroll":"For running away and racalling your teammares (note: not needed once you have boots of travel)",
+				"travel_boots":"These will make you into a racecar and let you GTFO if need be while also helping with split pushing and it combos nicly with your ulti",
+				"mekansm":"This will provide protection to team mates as well as a heal (note: do not get this if someelse on your team said they are getting this instead get the pipe)",
+				"flying_courier":"This is if the other support won't get it",
+				"pipe":"This will provide nice magic resistance to your team (note: only get this if someone on your team is getting mech or if the enemy team has lots of spell heavy heros ex. lich, warlock, etc)",
+				"headdress":"This will be built into your mech (note: if someone else says they are going for mech get the hood for the pipe)",
+				"sheepstick":"The almighty sheepstick is only to be gotten if you have INSANE farm and have nothing better to spend your cash on",
+				"cyclone":"this will remove enemy heros from fights for a few seconds as well as provide ivoneribillity from everything while cast on self (note: if cast on self you can't move cast spells or use items)",
+				"force_staff":"This will save your teammates asses when in trouble, save your ass when you're in trouble, and get the enemys into lots of trouble",
+				"ultimate_scepter":"This item allows you to split push pull back carrys and make people blind all without cooldown",
+				"shivas_guard":"This will provide a nice boost for team fights as well as make the other team think you are Crystal Maiden",
+				"hood_of_defiance":"This will be built into pipe (note: if someone said they are going for mech go pipe otherwise mech is best)",
+				"smoke_of_deceit":"For Smoke ganks or getting your team into the rosh pit safely",
+				"veil_of_discord":"This can be used to help add damadge to illuminate as well as buff the damage coming out of ally heros focused on spell damage such as Skywrath Mage, Pugna, and Mario's grandfather Zeus.",
+				"rod_of_atos":"This is great for catching fleeing heros",
+				"heavens_halberd":"For when the enemy has a 4 protect 1 going and you wanna poop all over their fun",
+				"tranquil_boots":"Sadly, these boots are no longer dissasebleable (spelling) BUT! they do now give TONS of health regen and armor for ye' old keeper"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_chakra_magic",
+			"6":"keeper_of_the_light_spirit_form",
+			"7":"keeper_of_the_light_illuminate",
+			"8":"keeper_of_the_light_illuminate",
+			"9":"keeper_of_the_light_chakra_magic",
+			"10":"keeper_of_the_light_mana_leak",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"This is your bread and butter fucker upper. Great for killing jungle camps, harassing lanes and unpushing",
+				"keeper_of_the_light_mana_leak":"This is great for of the enemy is hightailing it or if you want them to be forced to regen up mana. Also DO NOT forget that this works as a stun on things like the spirit bear",
+				"keeper_of_the_light_chakra_magic":"Use this to spam mana for you, your teamates and your most beloved carrys while having your opponents swear to their deity of choice that this game is broken.",
+				"keeper_of_the_light_recall":"You can use this abillity as a way to bring in a teammate that just respawned, just to save money for your carry, or to save a teammate in deap",
+				"keeper_of_the_light_blinding_light":"This abillity is downright AMAZING for teamfights and can be utilized for it's push 	",
+				"keeper_of_the_light_spirit_form":"This is to be used for saving carrys cash, getting teams out deap shit, and making the enemy miss every hit and yell at you in all chat",
+				"keeper_of_the_light_illuminate_end":"This just cancels your illuminate early and can be used as a last ditch effort to kill someone",
+				"keeper_of_the_light_spirit_form_illuminate":"Right now you have illuminate on crack, this will charge it self so you can help in a teamfight whilst still being an annoying prick",
+				"attribute_bonus":"Nothing special here just stats
+"
+		}
+	}
+}

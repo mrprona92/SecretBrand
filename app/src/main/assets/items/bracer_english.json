@@ -1,0 +1,19 @@
+{
+  "dotaId": "bracer",
+  "attrib": "+ 6 Strength<br/>+ 3 Agility<br/>+ 3 Intelligence<br/>+ 3 Damage",
+  "cd": false,
+  "components": [
+    "circlet",
+    "gauntlets"
+  ],
+  "qual": "common",
+  "notes": "",
+  "desc": "",
+  "dname": "Bracer",
+  "mc": false,
+  "img": "bracer_lg.png",
+  "lore": "The bracer is a common choice to toughen up defenses and increase longevity.",
+  "id": 73,
+  "created": true,
+  "cost": 525
+}

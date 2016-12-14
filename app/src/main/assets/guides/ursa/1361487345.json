@@ -1,0 +1,95 @@
+{
+	"Hero":"ursa",
+	"Title":"Fuzzy Wuzzy Returns",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"stout_shield",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"phase_boots",
+				"blink"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"abyssal_blade",
+				"orchid",
+				"heart",
+				"sange_and_yasha",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This is probably the most essential item on Ursa to establish his midgame dominance. It allows you to instantly close the distance between you and your target to apply your slow and your fury swipes to kill them. It is almost always better than a Shadowblade on Ursa for initiating. GANK!",
+				"ring_of_protection":"This ring will later be built into a \"Vladimir's Offering\" and provides cheap armour to jungle better.",
+				"stout_shield":"This item is essential as it allows you to tank the neutral creeps found in the jungle/forest.",
+				"branches":"GG branches are the best item in the game. Too bad we can't hold 1000 of them in our pockets. IT CAN BE SKIPPED TO GET FASTER TRANQUIL BOOTS.",
+				"flask":"Use this to heal a full 400 hp. Do not use until you have lost at least 400 hp. It is cancelled by almost any damage source so don't use it in combat.",
+				"phase_boots":"The \"Tranquil Boots\" you have can be disassembled (right click on them and hit disassemble) and the boot component can be used to make \"Phase Boots\". Phase boots provide good damage and more importantly have an active speed boost ability which allows you to stick to your targets more easily. ",
+				"vladmir":"The \"Tranquil Boots\" from earlier can be disassembled (right click on them and select disassemble) and the \"Ring of Protection\" and \"Ring of Regen\" can both be used to make \"Vladimir's Offering\". This item allows Ursa to solo Roshan as early as level 5. Use a \"Smoke of Deceit\" when entering his lair",
+				"orchid":"This item provides many stats that benefit Ursa. The attack damage and attack speed are not generally wasted. The mana regen and intelligence is great for his mana pool. The active silence comboes well with a blink + earthshock to kill your target.",
+				"heart":"Heart of Tarrasque allows you to take quite a bit of punishment as it greatly increases your health pool and also gives ridiculous amounts of regeneration out of combat. The health it provides synergizes with your ultimate well.",
+				"black_king_bar":"This item is generally never bad as it protects you from most crowd control spells and magic damage. It is great on Ursa as he can be easily kited, so if you are having trouble sticking to a target due to stuns or slows, this may be the solution.",
+				"sange_and_yasha":"A very situational item in the sense that it is generally outclassed by many other items of similar costs. It provides decent stats and passives but there are typically better items to buy. Can be disassembled later to build a Manta Style or Heaven's Halberd.",
+				"rod_of_atos":"Rod of Atos (Aui_2000 recommended) provides health which increases the damage you do with your ultimate and intelligence which helps Ursa deal with his sometimes intense mana problems. The active slow is also incredibly long range and comboes quite well with earthshock. Highly situational.  ",
+				"abyssal_blade":"This is generally a luxury item only due to its insane cost but can be quite effective on Ursa. It provides a lot of damage and some health but most importantly gives Ursa the ability to passively bash and apply an active bash for a high mana cost (be careful, Ursa is generally low on mana).",
+				"tranquil_boots":"Tranquil boots allow you to tank neutral creeps more efficiently. The high movement speed provided also allows you to attempt some early ganks."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ursa_fury_swipes",
+			"2":"ursa_overpower",
+			"3":"ursa_fury_swipes",
+			"4":"ursa_overpower",
+			"5":"ursa_fury_swipes",
+			"6":"ursa_enrage",
+			"7":"ursa_fury_swipes",
+			"8":"ursa_overpower",
+			"9":"ursa_overpower",
+			"10":"ursa_earthshock",
+			"11":"ursa_enrage",
+			"12":"ursa_earthshock",
+			"13":"ursa_earthshock",
+			"14":"ursa_earthshock",
+			"15":"attribute_bonus",
+			"16":"ursa_enrage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ursa_earthshock":"A powerful slow that is not very useful early game. Avoid leveling it until you are ready to gank.",
+				"ursa_overpower":"This skill gives Ursa max attack speed for a duration or set of attacks. It allows Ursa to quickly stack \"Fury Swipes\" on a target and means that you generally do not want to buy attack speed items.",
+				"ursa_fury_swipes":"This ability constantly applies a stack which progressively deals more and more damage. This is what allows you to solo Roshan early in the game and to melt heroes as if they were butter.",
+				"ursa_enrage":"Ursa's ultimate. Do not be afraid to spam this as it has a short cool down and COSTS 0 MANA. It gives him a current portion of his HP as damage for a mild duration. Try to use it whenever you can, but it is most effective when you have high current HP.",
+				"attribute_bonus":"Stats are amazing as they give you everything you want. However, they are not important enough on Ursa to level early (in most cases, the first rule of DOTA is that everything depends on the current game)"
+		}
+	}
+}

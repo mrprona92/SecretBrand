@@ -1,0 +1,37 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_night_stalker",
+  "Title": "Recommended items for Night Stalker",
+  "Items": {
+    "startingItems": [
+      "gauntlets",
+      "gauntlets",
+      "clarity",
+      "flask",
+      "tango"
+    ],
+    "earlyGame": [
+      "magic_stick",
+      "boots",
+      "urn_of_shadows"
+    ],
+    "coreItems": [
+      "magic_wand",
+      "phase_boots",
+      "vanguard",
+      "tpscroll"
+    ],
+    "luxury": [
+      "heart",
+      "assault",
+      "black_king_bar",
+      "ultimate_scepter",
+      "armlet",
+      "heavens_halberd",
+      "abyssal_blade",
+      "satanic",
+      "moon_shard",
+      "lotus_orb"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 55 Movement Speed<br/>+ 250 Mana<br/>MANA RESTORED: 135",
+  "cd": 55.0,
+  "components": [
+    "energy_booster",
+    "boots"
+  ],
+  "qual": "rare",
+  "notes": "Does not work on Meepo clones.",
+  "desc": "Active: Replenish Mana - Restores mana in an area around the hero.<br/><br/>Flat movement speed bonuses from multiple pairs of boots do not stack.",
+  "dname": "Arcane Boots",
+  "dotaId": "arcane_boots",
+  "mc": false,
+  "img": "arcane_boots_lg.png",
+  "lore": "Magi equipped with these boots are valued in battle.",
+  "id": 180,
+  "created": true,
+  "cost": 1350
+}

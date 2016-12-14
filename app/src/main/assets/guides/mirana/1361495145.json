@@ -1,0 +1,84 @@
+{
+	"Hero":"mirana",
+	"Title":"Mirana Semi Carry/Gank",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"diffusal_blade",
+				"manta"
+			],
+			"These items for when you get good farm":
+			[
+				"butterfly",
+				"mjollnir",
+				"greater_crit",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tango":"A healthy Mirana is a longer lasting Mirana",
+				"power_treads":"I like power treads because they can help Mirana to do that little extra damage or escape or cast another spell. Learning to switch between Str, Int, Agi boots will help her an incredible amount.",
+				"wraith_band":"Gives some extra stats and damage",
+				"manta":"Extra Miranas with diffusal is fun, removes debuffs and can do more damage.",
+				"diffusal_blade":"After I get Power Treads, going for Diffusal is key. It's great for slowing an enemy, debuffing them and destroying mana when ganking. It's also good to use when escaping as you can purge effects off yourself.",
+				"ring_of_aquila":"Good for the extra armour and regen buff"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_starfall",
+			"2":"mirana_leap",
+			"3":"mirana_arrow",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_invis",
+			"7":"mirana_starfall",
+			"8":"mirana_leap",
+			"9":"mirana_leap",
+			"10":"mirana_leap",
+			"11":"mirana_invis",
+			"12":"mirana_arrow",
+			"13":"mirana_arrow",
+			"14":"mirana_arrow",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"Does a lot of aoe damage and scales well early to mid game. Worth investing in first due to it's damage dropping off late game.",
+				"mirana_arrow":"One of the key things that makes Mirana... well Mirana. You only need one point in it early game, the stun stays the same. If you can land a good one, you'll get a good 5 second stun. Great for getting fleeing enemies or a long range initiation. ",
+				"mirana_leap":"Once you learn the facing of Mirana this spell is good for both initiation, running down enemies and/or escapes. Early levels you only need one point in it, it scales better during mid/late game for escapes and chase downs.",
+				"mirana_invis":"It's a good escape, but is a better initiation spell. Use this when no one on your team can be seen by the enemy and you can get the jump on the enemy. Also if you can learn good map awareness this is a good spell to help team mates escape. Very powerful ability."
+		}
+	}
+}

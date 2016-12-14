@@ -1,0 +1,103 @@
+{
+	"Hero":"earthshaker",
+	"Title":"Саппорт/Инициатор",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"clarity",
+				"clarity",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"refresher",
+				"veil_of_discord",
+				"pipe",
+				"heart",
+				"blade_mail",
+				"sheepstick",
+				"mekansm",
+				"shivas_guard"
+			],
+			"Others":
+			[
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Если кура имеется покупаем рецепт от Soul Ring",
+				"tpscroll":"Всегда носим с собой",
+				"mekansm":"Только одна на команду!",
+				"flying_courier":"Если кура до сих пор не апнута, то сделайте это наконец!",
+				"pipe":"Только одна на команду!",
+				"shivas_guard":"Только одна на команду!",
+				"soul_ring":"Позволяет нам не волноваться по поводу маны на Fissure",
+				"veil_of_discord":"Только одна на команду!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_enchant_totem",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_aftershock",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Основной скилл ES! Старайтесь им закрыть противника ограничивая ему пути отступления. Также с помощью Fissure вы можете помочь убегающим союзникам!",
+				"earthshaker_enchant_totem":"Оглушает противника, также следующий удар ES будет сильнее! Им можно забирать вышки и крипов ( если все совсем плохо с ласт хитами). Доп. урон основавается на базовом (белом) уроне!",
+				"earthshaker_echo_slam":"Чем больше противников (крипы тоже идут в счет) попало под наш ульт, тем больше урона мы нанесем!"
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"Purge's Guide to Support Ogre",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"Early Game( < 10 min)":
+			[
+				"boots",
+				"magic_wand",
+				"ward_observer",
+				"flying_courier",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"force_staff",
+				"mekansm",
+				"stout_shield",
+				"ultimate_scepter",
+				"ghost",
+				"gem",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Ogre is one of the few support heroes who is melee, so a stout shield goes a long way in the early game towards giving him survivability. Consider picking one up if you random!",
+				"gem":"If the enemy team has an invisible hero then a support should purchase the gem. This could be you!",
+				"magic_wand":"Magic Wand should be purchased on ALL support heroes! The hp and mana it gives is VERY cost effecient. If you're very poor, leave it at a magic stick until you finish Arcane boots!",
+				"ghost":"Ghost scepter is often a fantastic item to keep supports alive versus physical damage carries such as Anti Mage or Lifestealer. The bonus stats are really useful as well.",
+				"clarity":"Clarity Potions are imperative because Ogre Magi has a low int pool and requires on his casting to do damage!",
+				"ward_observer":"It's extremely useful for your mid hero if there are wards covering the map and spotting out rune spots. This also protects you against early ganks.",
+				"courier":"One of your support heroes should buy a Courier! If your allies don't, then you can buy ironwood branches instead.",
+				"tpscroll":"Support heroes need to always carry a tp so that they can support other lanes when dives or ganks happen.",
+				"mekansm":"Mek CAN be gotten but I wouldn't make it your main focus. DO NOT pick it up unless you have arcane boots, as you won't be able to support the mana costs!",
+				"flying_courier":"Flying courier should be purchased between the 2-4 minute mark by a support. Usually purchased BEFORE boots of speed.",
+				"urn_of_shadows":"Urn of Shadows is a great support item because kills will happen around you, and you can't easily afford hp regen items. Urn also provides you important hp and mana regen. Make sure there is only 1 urn per team though!",
+				"force_staff":"Force staff is an all around fantastic item on ANY support hero because you can use it to save allies and yourself, as well as get into position to disable enemies. The extra int and hp regen doesn't hurt either.",
+				"ultimate_scepter":"If you are building towards a major item, and you don't feel you need a force staff, Aghanims gives Ogre a SECOND fireblast nuke, which can give you a lot of damage potential if you get it before your opponents pick up their Black King Bars! This is arguably the best major item Ogre can get.",
+				"arcane_boots":"This is the most important item that Ogre Magi can purchase. Ogre's strength gain is one of the highest in the entire game and his int gain is quite low, which means he NEEDS an increased mana pool with mana regen. Once you buy Arcanes you should be set!",
+				"veil_of_discord":"Veil can be great for Ogre Magi because most of his damage is magic, and it gives him armor, hp regen, and more mana for spells! Very easy build up as well that can situationally be useful."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_bloodlust",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"Fireblast should be maxed first because it's the best nuke available for you. The damage if you multicast is fantastic and it's a very reliable disable.",
+				"ogre_magi_ignite":"Ignite is a great second nuke available to Ogre Magi that applys a slow and some damage. It should be used after fireblast to initiate damage on an opponent. With Multicast, it becomes aoe and should be used during teamfights as much as possible.",
+				"ogre_magi_bloodlust":"Bloodlust is a skill that allows your carries to carry harder in the mid-late game. Unfortunately, this skill is expensive to spam in the early game and as such isn't recommended(unless you are doing an early game pushing strat with a physical damage carry). It's a great skill to use late game!",
+				"ogre_magi_multicast":"Multi-cast should be gotten at all levels available because it allows you to get lucky and cast multiple fire blasts during teamfights. This can sometimes do insane amounts of damage to opponents. It also makes ignite do aoe, and bloodlust to sometimes cast on multiple heroes!"
+		}
+	}
+}

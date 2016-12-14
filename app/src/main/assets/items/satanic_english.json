@@ -1,0 +1,19 @@
+{
+  "dotaId": "satanic",
+  "id": 156,
+  "img": "satanic_lg.png",
+  "dname": "Satanic",
+  "qual": "artifact",
+  "cost": 5950,
+  "desc": "Active: Unholy Rage - Increases Lifesteal percentage to 200% for 4.0 seconds.<br/>Passive: Lifesteal - Heals the attacker for a percentage of attack damage dealt.<br/><br/>Satanic is a Unique Attack Modifier, and does not stack with other Unique Attack Modifier.",
+  "notes": "",
+  "attrib": "+ 20 Damage<br/>+ 25 Strength<br/>+ 5Armor<br/>LIFESTEAL: 25%<br/>UNHOLY RAGE LIFESTEAL: 200%<br/>UNHOLY RAGE DURATION: 4",
+  "mc": false,
+  "cd": 35,
+  "lore": "Immense power at the cost of your soul.",
+  "components": [
+    "reaver",
+    "helm_of_the_dominator"
+  ],
+  "created": true
+}

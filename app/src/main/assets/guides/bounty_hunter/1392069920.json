@@ -1,0 +1,96 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"GreyShark.Bounty Hunter #2",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"magic_wand",
+				"phase_boots",
+				"medallion_of_courage",
+				"vladmir"
+			],
+			"Mid Game":
+			[
+				"orchid",
+				"dagon"
+			],
+			"Late Game":
+			[
+				"desolator",
+				"butterfly"
+			],
+			"Situation":
+			[
+				"rapier",
+				"black_king_bar",
+				"assault"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"На фаст базилку",
+				"magic_wand":"Неплохой бонус к статам для начала ну и может спасти нас в трудную минуту.",
+				"phase_boots":"Скорость лишней не будет, тем более мы гангер, мы обязаны всех убивать, никого не отпускаем лоу-хп.",
+				"vladmir":"Неплохая аура для нас и союзников.",
+				"orchid":"Чувак под салом, замедлением от нашего крита, и минус армора от медальки врятли что то сделает, а если еще и сам заблудился или стоит фармит, то вобще забей...",
+				"dagon":"Чем сильнее наш прокаст, тем лучше, по этому можно и апать, если деньги позволяют.",
+				"assault":"Если голда есть почему бы и нет, броня, АС, минус армор врагам и аура союзникам...",
+				"black_king_bar":"Иногда можно позволить если очень много прокастеров у врагов",
+				"rapier":"Если игра идет хорошо то можно и рискнуть, с крита будут отьезжать почти все...",
+				"butterfly":"В глубоком лейте уклонения и такой буст к статам не помешает",
+				"desolator":"Огромный бонус к урону за такую сумму денег, минус армор, и в принцыпе единственный орб который нам больше всего подходит.",
+				"medallion_of_courage":"Очень дешево, дает реген мп, то есть по началу на прокаст нам всегда хватит, пасивный бонус к броне, ну и активка полезная, без манакоста, и внимание длительность и КД одинаковая,  а то есть минус армор с чуваков можно накидывать по кд."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_shuriken_toss",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_jinada",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_shuriken_toss",
+			"8":"bounty_hunter_wind_walk",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_jinada",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Carry Phantom Assassin",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"quelling_blade",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"helm_of_the_dominator",
+				"yasha",
+				"basher"
+			],
+			"Late Game":
+			[
+				"manta",
+				"satanic",
+				"abyssal_blade"
+			],
+			"Alternative":
+			[
+				"desolator",
+				"monkey_king_bar",
+				"vladmir",
+				"ancient_janggo",
+				"black_king_bar",
+				"ring_of_aquila"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Helps you late hit better and farm the jungle faster.",
+				"slippers":"Gives you more early damage.",
+				"boots":"Every hero needs boots to run faster.",
+				"flask":"Good HP regen when you are low.",
+				"tango":"HP regen fr when you get harassed.",
+				"phase_boots":"Gives good damage and allows you to chase better.",
+				"ring_of_health":"Gives good HP regen in lane. Builds into Battle Fury.",
+				"poor_mans_shield":"Gives some damage and will protect you from harass.",
+				"vladmir":"Good if you get a different UAM or others on your team benefit from the aura.",
+				"black_king_bar":"Allows you to kill everyone with out getting sunned.",
+				"monkey_king_bar":"Get this to counter evasion.",
+				"basher":"Good damage and lockdown.",
+				"bfury":"Allows you to farm the jungle and lanes very well. You will also cleave crits for more killing in team fights.",
+				"manta":"Provides illusions for extra damage and protection.",
+				"satanic":"Lots of lifesteal and HP.",
+				"helm_of_the_dominator":"Gives you lifesteal which, when combined with crits will heal you a lot.",
+				"desolator":"Gives you lots of damage, get it counter high armor enemies.",
+				"yasha":"Gives good early damage and move speed.",
+				"ancient_janggo":"Good early item for chasing and ganking.",
+				"abyssal_blade":"Gives you stuns and lots of damage.",
+				"ring_of_aquila":"Gives mana regeneration and agility in lane."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"A good slow and useful for last hitting in lane.",
+				"phantom_assassin_phantom_strike":"Allows you to chase and escape as well as hit very fast.",
+				"phantom_assassin_blur":"Keeps you from being hit and warns you of nearby enemies.",
+				"phantom_assassin_coup_de_grace":"Gives you tons of damage.",
+				"attribute_bonus":"Take these once you have to."
+		}
+	}
+}

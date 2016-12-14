@@ -1,0 +1,97 @@
+{
+	"Hero":"spectre",
+	"Title":"[DMX] Spectre (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_health",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"vanguard",
+				"magic_wand",
+				"diffusal_blade",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"radiance",
+				"manta",
+				"butterfly",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"greater_crit",
+				"blade_mail",
+				"sange_and_yasha",
+				"monkey_king_bar",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Prenez cette Quelling Blade à la place du Stout Shield si vous avez du mal à Last Hit"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_spectral_dagger",
+			"2":"spectre_dispersion",
+			"3":"spectre_spectral_dagger",
+			"4":"spectre_dispersion",
+			"5":"spectre_spectral_dagger",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_dispersion",
+			"9":"spectre_dispersion",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_desolate",
+			"13":"spectre_desolate",
+			"14":"spectre_desolate",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"Votre sort d'escape et votre seul contrôle, il vous permettra de fuir ou de rattraper un ennemi.",
+				"spectre_desolate":"Ce sort vous permettra de faire d'énormes dégâts à un héros isolé. De plus les illusions de votre ultimate en bénéficient également.",
+				"spectre_dispersion":"Ce sort vous permettra de mieux tanker en renvoyant un pourcentage des dommages.",
+				"spectre_haunt":"Ce sort vous permettra de farmer n'importe où sur la carte et de vous téléportez dans le teamfight aidant ainsi vos alliés."
+		}
+	}
+}

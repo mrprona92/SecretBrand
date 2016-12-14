@@ -1,0 +1,145 @@
+{
+	"Hero":"morphling",
+	"Title":"Hard Carry Morphling",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"Starting Items Extra":
+			[
+				"wraith_band",
+				"ring_of_protection",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"hand_of_midas",
+				"soul_ring",
+				"ring_of_aquila"
+			],
+			"Mid Game":
+			[
+				"ethereal_blade",
+				"skadi",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"manta",
+				"satanic",
+				"butterfly",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"sphere",
+				"monkey_king_bar",
+				"diffusal_blade",
+				"mjollnir",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Note: If the game looks relatively long, you can build Travels instead of Treads.
+
+Optional Early Game, Recommended Late Game.",
+				"power_treads":"Note: 'Boots of Travel' is an alternative if farming extremely well. If barely farming, opt for 'Tranquil Boots'.
+
+Recommended Item.",
+				"hand_of_midas":"Use Hand of Midas on the highest neutral creeps you can. You can continue to use Hand of Midas on higher level neutral camps after level 16 to gain attribute bonuses earlier.
+
+This item is recommended.",
+				"black_king_bar":"Buy when: Enemy Team has AOE Stuns or Single target Stuns / Disables.
+
+Highly Recommended.",
+				"sphere":"When to buy:
+
+When Enemy Team has: Disabling / Revealing / Stunning Ultimates
+
+Stun / Disabling Heroes: Batrider, Beastmaster, Bane, Pudge, Doom, Spirit Breaker.
+
+Revealing Heroes: Bounty Hunter, Slardar.
+
+Disabling Items: Orchid, Scythe of Vyce, Heaven's Halberd.",
+				"monkey_king_bar":"When to buy:
+
+Enemy Team has: Evasion Heroes or Evasion Items.
+
+Heroes: Phantom Assassin, Stealth Assassin, Brewmaster, Troll Warlord, Night Stalker, Keeper of the Light, Windrunner, Tinker.
+
+Items: Talisman of Evasion, Butterfly, Heavens Halberd.",
+				"manta":"Pushing power, teamfight confusion and movespeed.
+
+Recommended.",
+				"sange_and_yasha":"Buy when: You have 'Eye of Skadi'
+
+Reason: Alternative Skull Basher for Ranged Heroes. Slows Heroes double. Very effective.
+
+Not recommended for most situations.",
+				"skadi":"Provides all attributes. More HP/MP and attack damage / speed.
+
+Highly Recommended.",
+				"ethereal_blade":"Reason for Ethereal Blade: Participate in fights, while farming at the same time. Get kills instead of constant farming. Balance the equilibrium of team progression over end-game items.
+
+Highly Recommended.",
+				"soul_ring":"Replaces Linken's Sphere when: Linken's Sphere is not needed. Read Linken's sphere tooltip to know when to buy. Synergizes  with 'Tranqil Boots' to spam Waveform.
+
+Important Note: Morph into a lot of STR for A) Survivability and B) Early game flash farming with Waveform.
+
+Recommended.",
+				"ring_of_aquila":"Optional item when you have 'Soul Ring'.
+
+Optional.",
+				"tranquil_boots":"Note: 'Boots of Travel' is an alternative if farming extremely well. If barely farming, opt for these boots. 'Soul Ring' Synergizes with Tranqil Boots extremely well.
+
+Highly Recommended."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_waveform",
+			"2":"morphling_morph_str",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_replicate",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_morph_str",
+			"10":"morphling_adaptive_strike",
+			"11":"morphling_replicate",
+			"12":"morphling_adaptive_strike",
+			"13":"morphling_adaptive_strike",
+			"14":"morphling_adaptive_strike",
+			"15":"attribute_bonus",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"Hero":"death_prophet",
+	"Title":"Death Prophet Beef Nuke v6.78 updated",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"bottle",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bloodstone",
+				"heart",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"sheepstick",
+				"shivas_guard",
+				"assault",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Nice to have if you are laning against casters otherwise I'd skip to rush Bloodstone.",
+				"clarity":"Get two if in the side lane or if you are not rushing a bottle. Otherwise get none or one to play agressive so you are able to use your Crypt Swarm ability without worrying about mana costs.",
+				"bottle":"Only if middle or no one gets a bottle.",
+				"phase_boots":"Death Prophet faces some mobility issues despite having an okay movement speed. Not having unit collision while your ultimate is active is a great way to deal damage - especially while being chased down.
+
+Woe to the hero who tries to chase a Death Prophet with Exorcism cast.",
+				"sheepstick":"It is never not a good idea to have more disables on your team.",
+				"cyclone":"Synergies well with Exorcism when cast on yourself. It prevents heroes who can auto-attack you down while still having your ultimate chip away at the enemy team. Also grants wonderful movement speed that works well with your Phase Boots.",
+				"assault":"Armor reduction + your ultimate = sad enemy heroes.",
+				"heart":"Allows you to stay alive while your ultimate is active.",
+				"black_king_bar":"If you find yourself focused down by disables and stuns that prevent you from casting your ultimate, then this is a great item to have to stay safe while nuking down the enemies.",
+				"shivas_guard":"Nothing wrong with putting more AOE's on top of your AOEs. The added armor and Int is nice too.",
+				"bloodstone":"Ah, the beautiful Bloodstone... Solves all your mana problems and the charges when you get kills is very nice. With the 6.78 update, there is now an active which allows you to deny yourself while healing allies in the area.",
+				"arcane_boots":"Core to an early-aggressive Death Prophet play-style. Allows you to harass your opponents and push waves to check for runes or set up a lane.",
+				"ancient_janggo":"Good for movement speed which she needs.",
+				"rod_of_atos":"Good item to pick up as an alternative to Bloodstone after your Euls. Gives good HP and INT and the slow allows you to catch up to enemies you are chasing."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_witchcraft",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_witchcraft",
+			"5":"death_prophet_silence",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_carrion_swarm",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_carrion_swarm":"Wonderful early nuke spell with great range and damage. Max this out first.",
+				"death_prophet_silence":"Depending on who you are laning against, You might want to get a level of this either at 4 or 5 to prevent the other team from casting.",
+				"death_prophet_witchcraft":"Max this second as it makes your spells better at a lower mana cost.",
+				"death_prophet_exorcism":"Exorcism is a great AOE damage ultimate. It whittles down the enemy heroes who decide to stay within its radius and it is also a great way to push towers fast. Gives a great heal based on damage dealt upon return.
+
+Remember: This goes through BKB as it is physical damage."
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "centaur_double_edge",
+        "2": "centaur_hoof_stomp",
+        "3": "centaur_double_edge",
+        "4": "centaur_hoof_stomp",
+        "5": "centaur_double_edge",
+        "6": "centaur_stampede",
+        "7": "centaur_double_edge",
+        "8": "centaur_hoof_stomp",
+        "9": "centaur_return",
+        "10": "centaur_hoof_stomp",
+        "11": "centaur_stampede",
+        "12": "centaur_return",
+        "13": "centaur_return",
+        "14": "attribute_bonus",
+        "15": "centaur_return",
+        "16": "centaur_stampede",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "centaur_double_edge": "Очень сильный скилл несет много урона но при этом ранит и нас так что лучше использовать когда уверен что убьешь или же чтобы шугать вражеских героев на лайне",
+        "centaur_hoof_stomp": "Хороший стан но надо стоять почти в упор так что лучше купить блинк и не париться ",
+        "centaur_return": "Врожденный блейдмеил  зависит в основном от силы так что вкачивать его в начале игры нет смысла",
+        "centaur_stampede": "Ну а вот Stampede очень полезный скилл особенно в замесах дает 100% замедление(ну а так же можно использовать чтобы догнать врага ведь этот скилл действует на всех героев на карте так что использовать можно в любой момент)"
+    }
+}, "Hero": "centaur", "ItemBuild": {
+    "ItemTooltips": {
+        "gauntlets": "Из руки позже делаем урну",
+        "tranquil_boots": "Транквилы очень полезная вещь для Кента после использовании 2 скилла быстро восстановит здоровье",
+        "blade_mail": "Блейдмеил тоже не помешает при замесах прожимаем  и в бой(плюс пассив кента будет нести больше урона ну а так еще и даст немного брони ",
+        "hood_of_defiance": "Даст сопротивление к магии(ну и реген здоровья тоже)",
+        "ancient_janggo": "Барабаны Дают много плюсов например +9 ко всем характеристикам скорость атаки и передвижения)",
+        "blink": "Ну я думаю это понятно зачем)",
+        "heart": "Тараска даст огромный реген и плюс много силы что усиливает пассив и ульт",
+        "pipe": "Из худа делаем пайп",
+        "assault": "Кираса добавит нам брони скорость атаки и снижение брони врагов вобщем гуд итем",
+        "radiance": "Радик поможет всегда(правда долго копить на него)"
+    },
+    "Items": {
+        "Начальные Предметы": ["gauntlets", "gauntlets", "tango", "branches", "branches"],
+        "Для Ранней Игры": ["tranquil_boots", "urn_of_shadows"],
+        "Мид Гейм": ["blade_mail", "hood_of_defiance", "ancient_janggo"],
+        "Основные Предметы": ["assault", "blink", "heart", "radiance", "pipe"]
+    }
+}, "Title": "Warpath of Centaur"}

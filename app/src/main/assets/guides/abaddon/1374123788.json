@@ -1,0 +1,119 @@
+{
+	"Hero":"abaddon",
+	"Title":"Purge's Guide to Support Abaddon",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"flask",
+				"tango",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_stick",
+				"branches",
+				"tpscroll",
+				"ward_observer",
+				"ring_of_regen",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"magic_wand",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"force_staff",
+				"ancient_janggo",
+				"pipe",
+				"rod_of_atos",
+				"urn_of_shadows",
+				"heavens_halberd",
+				"shivas_guard",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Empty item slots should be filled with ironwood branches so that your hero has more hp, mp, and damage. ",
+				"ring_of_regen":"Ring of Regen can be purchased from the side shop so that you can get a bit of regen over time, and later build into a Mekanism.",
+				"magic_stick":"Magic stick should always be purchased from the side shop as a support hero because it will afford you burst hp and mp, which could make the difference between you killing or dying.",
+				"magic_wand":"Magic wand is a must have purchase on ANY tanky hero, and ANY support. The + stats, cheap cost, and potential lifesaving ability are too good to pass up.",
+				"clarity":"Since your hero is largely reliant on casting in the early game, it's nice to pick up an extra clarity potion for the laning stage.",
+				"flask":"It's good to purchase 1 salve and 1 tango so that you can recover from both types of harass(sustained and burst).",
+				"ward_observer":"Every team should start with Observer wards, and preferably one of them slightly covers a rune spot for vision.",
+				"tango":"Tango's are good to heal small amounts of damage and to juke through trees.",
+				"courier":"Every team needs a Courier at the start of the game. As 1 of hopefully 2 support heroes, one of you guys should purchase one.",
+				"tpscroll":"TP scrolls should be carried the entire game, but it's especially important to carry one as a support so you can tp support your allies when they get ganked.",
+				"mekansm":"Mekanism is a fantastic Abaddon item because it further increases his survivability and ability to heal allies. The + stats and + armor are also really useful for living longer.",
+				"vladmir":"Abaddon's items are quite situational for support play. Vlads is a nice build up after Mek so that you and your allies have bonus damage and armor. If I want to push easier, and make my squishy allies tankier to physical damage, I'll grab a vlads.",
+				"flying_courier":"One of the supports should purchase a flying courier upgrade before the 4 minute mark, usually earlier. Generally you spend your first 220 gold on the flying courier upgrade!",
+				"pipe":"Pipe can situationally be purchased if someone on your team hasn't picked it up and you need to tank magic damage, or push up hill into magic nukes.",
+				"urn_of_shadows":"Urn is a great pickup for any healing support hero because it does a lot more healing work than your spells do.
+
+The +hp and mana regen are also really useful for a gold strapped support hero.",
+				"sheepstick":"Sheepstick is another item that you probably shouldn't be able to afford, but if you have a ridiculous amount of money to spend, the disable can help you focus down enemy carries, and the mana regen ensures that you can cast endlessly for the rest of the game.",
+				"force_staff":"Force staff is a great item for saving allies from slows and stuns, and it can also help you escape and get closer to land your heals and shields on time. This item is useful pretty much every game. You can't go wrong with it.",
+				"shivas_guard":"Shivas Guard is not an item that will be easily purchased as a Support, but if you find yourself with a TON of cash, I recommend a Shivas to reduce enemy attack speed and to keep yourself very difficult to kill.",
+				"arcane_boots":"Arcane boots can be purchased when you have enough money, so that you can keep your carries and allied heroes full on mana, and so that you can cast more in teamfights.",
+				"ancient_janggo":"Drum of Endurance is a nice support item because it gives you a bit of everything that you need, including hp, mp, and movement speed. Make sure to use the charges in big teamfights!",
+				"rod_of_atos":"Rod of Atos is a bit of a peculiar item, but it will provide you with some fairly cheap disable(really good against kitable melee heroes), plus some great stats(hp and mana!). This would be a pretty rare pickup but it could situationally be really strong.",
+				"heavens_halberd":"Heaven's Halberd is a great tank and utility item that fits nice with Abaddon. It gives him +45 damage and 25% evasion, and the active helps you stop enemy heroes from attacking during crucial moments."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_death_coil",
+			"3":"abaddon_death_coil",
+			"4":"abaddon_aphotic_shield",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_death_coil",
+			"8":"abaddon_aphotic_shield",
+			"9":"abaddon_death_coil",
+			"10":"abaddon_frostmourne",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_frostmourne",
+			"13":"abaddon_frostmourne",
+			"14":"abaddon_frostmourne",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"Mist Coil is his basic nuke and healing spell. It costs you a moderate amount of hp to cast so I now like leveling Death Coil equally with Aphotic Shield. Death Coil has longer range, so it's sometimes better to max first.",
+				"abaddon_aphotic_shield":"Aphotic shield can help your allies tank damage. Most importantly, you can remove stuns and debuffs from your allies if you cast it on a stunned ally! Once it breaks, it does aoe damage around your shielded target.",
+				"abaddon_frostmourne":"Mist Coil increases the attack and movement speed of yourself and allies attacking the same target, which isn't something you do often in the early game as a support hero.",
+				"abaddon_borrowed_time":"Borrowed Time is a cool ulti that auto-activates below 400 hp and removes debuffs. When you take damage during its duration, you instead get healed the corresponding amount. Don't forget to cast Mist Coil during your ult so that you heal for the self damage amount.",
+				"attribute_bonus":"Stats are great. Get them when you have no other skills to pick up."
+		}
+	}
+}

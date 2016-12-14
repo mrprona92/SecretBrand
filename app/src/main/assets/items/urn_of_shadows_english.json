@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 50% Mana Regeneration<br/>+ 6 Strength<br/>URN HEAL: 400<br/>DURATION: 8<br/>URN DAMAGE: 150",
+  "cd": 7.0,
+  "components": [
+    "sobi_mask",
+    "gauntlets",
+    "gauntlets"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Gains charges every time an enemy hero dies within 1400 units.  Only the closest Urn to the dying hero will gain a charge.<br/>Active: Soul Release - Heals HP over time for friendly units, but deals damage over time for enemy units.  The healing effect is lost if the affected unit takes damage from an enemy hero or tower.",
+  "dname": "Urn of Shadows",
+  "dotaId": "urn_of_shadows",
+  "mc": false,
+  "img": "urn_of_shadows_lg.png",
+  "lore": "Contains the ashes of powerful demons.",
+  "id": 92,
+  "created": true,
+  "cost": 875
+}

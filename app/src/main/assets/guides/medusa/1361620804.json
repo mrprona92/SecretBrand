@@ -1,0 +1,77 @@
+{
+	"Hero":"medusa",
+	"Title":"F**king Snakes",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"circlet",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"sphere",
+				"manta",
+				"butterfly"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"bloodstone"
+			],
+			"Super Late Game":
+			[
+				"rapier",
+				"assault",
+				"mjollnir",
+				"skadi"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"medusa_mystic_snake",
+			"3":"medusa_mystic_snake",
+			"4":"attribute_bonus",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_mana_shield",
+			"9":"medusa_mana_shield",
+			"10":"medusa_split_shot",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_mana_shield",
+			"13":"medusa_mana_shield",
+			"14":"medusa_split_shot",
+			"15":"medusa_split_shot",
+			"16":"medusa_stone_gaze",
+			"17":"medusa_split_shot",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

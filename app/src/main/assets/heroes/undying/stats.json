@@ -1,0 +1,2 @@
+{
+    "roles": ["Durable", "Pusher", "Disabler", "Initiator"],"ID":28,"Patch":"6.79c","Name":"Undying","Alignment":1,"Movespeed":310,"MaxDmg":65,"MinDmg":57,"HP":568,"Mana":351,"HPRegen":0.25,"ManaRegen":0.01,"Armor":3.4,"Range":128,"ProjectileSpeed":0,"BaseStr":22,"BaseAgi":10,"BaseInt":27,"StrGain":2.1,"AgiGain":0.8,"IntGain":2.5,"PrimaryStat":0,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.3,"AttackSwing":0.3,"CastPoint":0.45,"CastSwing":0.51,"Turnrate":0.6,"Legs":2}

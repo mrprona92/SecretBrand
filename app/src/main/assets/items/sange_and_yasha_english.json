@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 16 Damage<br/>+ 16 Strength<br/>+ 16 Agility<br/>+ 16 Attack Speed<br/>+ 16% Movement Speed<br/>MAIM CHANCE: 16%<br/>SLOW: 32%",
+  "cd": false,
+  "components": [
+    "yasha",
+    "sange"
+  ],
+  "qual": "artifact",
+  "notes": "",
+  "desc": "Passive: Greater Maim - Gives a chance on attack to slow movement speed for 5 seconds.<br/><br/>Percentage based movement speed bonuses from multiple items do not stack.",
+  "dname": "Sange and Yasha",
+  "dotaId": "sange_and_yasha",
+  "mc": false,
+  "img": "sange_and_yasha_lg.png",
+  "lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+  "id": 154,
+  "created": true,
+  "cost": 4100
+}

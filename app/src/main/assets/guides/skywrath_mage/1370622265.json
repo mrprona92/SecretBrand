@@ -1,0 +1,73 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"GreyShark.Skywrath Mage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"ring_of_protection",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_basilius",
+				"magic_wand",
+				"arcane_boots",
+				"void_stone"
+			],
+			"Mid Game":
+			[
+				"cyclone",
+				"force_staff",
+				"rod_of_atos"
+			],
+			"Late Game":
+			[
+				"bloodstone",
+				"sheepstick"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_concussive_shot",
+			"9":"skywrath_mage_concussive_shot",
+			"10":"skywrath_mage_concussive_shot",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_ancient_seal",
+			"13":"skywrath_mage_ancient_seal",
+			"14":"skywrath_mage_ancient_seal",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

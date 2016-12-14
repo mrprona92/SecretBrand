@@ -1,0 +1,71 @@
+{
+	"Hero":"huskar",
+	"Title":"GreyShark.Huskar",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"power_treads",
+				"helm_of_the_dominator"
+			],
+			"Mid Game":
+			[
+				"armlet",
+				"black_king_bar",
+				"heavens_halberd"
+			],
+			"Late Game":
+			[
+				"heart",
+				"satanic",
+				"ultimate_scepter"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_burning_spear",
+			"4":"huskar_berserkers_blood",
+			"5":"huskar_burning_spear",
+			"6":"huskar_life_break",
+			"7":"huskar_burning_spear",
+			"8":"huskar_inner_vitality",
+			"9":"huskar_berserkers_blood",
+			"10":"huskar_berserkers_blood",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"Hero":"windrunner",
+	"Title":"Support like a boss (solo support)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"mantle",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"flying_courier",
+				"null_talisman",
+				"boots",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"force_staff",
+				"mekansm",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"orchid",
+				"cyclone",
+				"sphere",
+				"ward_observer",
+				"ward_sentry",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gem":"If there's an invisible enemy carry and you have someone tanky on your team, you can buy the gem for them.",
+				"ward_observer":"Don't stop warding.",
+				"ward_sentry":"Deward.",
+				"ring_of_basilius":"Turn this off if you don't want your lane pushed.",
+				"sheepstick":"Disables are your friend.",
+				"force_staff":"Use force staff to save yourself and allies.",
+				"sphere":"Not the best support item, but if your team is doing well and you have the farm, Linken's is an awesome Windrunner item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_shackleshot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_windrun",
+			"12":"windrunner_windrun",
+			"13":"windrunner_focusfire",
+			"14":"windrunner_focusfire",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Try to line the enemy hero up with trees. This skill is pretty useless if the shackle doesn't hit a tree or enemy unit.",
+				"windrunner_powershot":"Very powerful against heroes during the early game. Can use to push creeps back pretty effectively. Also destroys trees and gives vision.",
+				"windrunner_windrun":"Very good for escaping early ganks.",
+				"windrunner_focusfire":"You can get your ultimate earlier if you are pushing towers, but you should keep it level one if there are more skills to max."
+		}
+	}
+}

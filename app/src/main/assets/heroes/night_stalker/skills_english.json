@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Void",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Creates a damaging void that slows an enemy unit and deals damage.  Void also mini-stuns, interrupting channeling abilities. The slowing effect lasts longer at night.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">90/160/255/335</font></b>",
+        "attrib": "DAY DURATION: <b><font color=\"#ffffff\">2/2/2/2</font></b><br/>NIGHT DURATION: <b><font color=\"#ffffff\">4/4/4/4</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">50/50/50/50</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/90/100/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "Balanar creates a vortex of infinite night, tearing opponents violently into the eternal darkness that once was.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_void",
+        "youtube":"HPu40Ahpefw",
+        "id": 0
+    },
+    {
+        "dname": "Crippling Fear",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Night Stalker horrifies the target enemy Hero, causing it to miss attacks and become silenced.  The effect lasts longer at night.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAY DURATION: <b><font color=\"#ffffff\">3/3/3/3</font></b><br/>NIGHT DURATION: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>DAY CHANCE TO MISS: <b><font color=\"#ffffff\">10%/10%/10%/10%</font></b><br/>NIGHT CHANCE TO MISS: <b><font color=\"#ffffff\">50%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "A vision of the twisted maw of Balanar etches itself into the minds of the poor souls unlucky enough to cross his path.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_crippling_fear",
+        "youtube":"1i9z1rYqmZg",
+        "id": 1
+    },
+    {
+        "dname": "Hunter in the Night",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Night Stalker is in his element at night, attacking and moving with great swiftness.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "MOVE SPEED: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>ATTACK SPEED: <b><font color=\"#ffffff\">45/60/75/90</font></b>",
+        "cmb": "",
+        "lore": "The hunting prowess of Balanar improves as the night beckons.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_hunter_in_the_night",
+        "youtube":"S2Br_dswVZY",
+        "id": 2
+    },
+    {
+        "dname": "Darkness",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Night Stalker smothers the sun and summons instant darkness, so that he might use his powers at their fullest. While Darkness is in effect, enemy heroes, units, wards and buildings have their vision range reduced to 675. <br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">50</font></b><br/>ENEMY VISION RANGE: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 0/0/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 160/120/80",
+        "lore": "It is a humbling sight to see when the mightiest of warriors become afraid of the dark.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_darkness",
+        "youtube":"xuCoHHo_pJw",
+        "id": 3
+    }
+]

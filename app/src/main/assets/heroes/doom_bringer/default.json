@@ -1,0 +1,42 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_doom_bringer",
+	"Title":"Recommended items for Doom",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"stout_shield",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"ring_of_basilius"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"magic_wand",
+			"vladmir",
+			"ancient_janggo",
+			"tpscroll"
+        ],
+		
+		"luxury":[
+			"assault",
+			"shivas_guard",
+			"blink",
+			"invis_sword",
+			"heart",
+			"ultimate_scepter",
+			"refresher",
+			"heavens_halberd",
+			"radiance"
+		]
+	}
+}

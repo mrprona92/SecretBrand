@@ -1,0 +1,95 @@
+{
+	"Hero":"death_prophet",
+	"Title":"[DMX] Death Prophet (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"phase_boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"hood_of_defiance",
+				"vanguard",
+				"mekansm",
+				"power_treads",
+				"arcane_boots",
+				"pipe",
+				"radiance",
+				"ghost",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_witchcraft",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_silence",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_witchcraft",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_carrion_swarm":"Votre principal nuke. Il vous servira pour harass et push les creeps.",
+				"death_prophet_silence":"Un silence de zone très efficace, notamment durant les teamfights.",
+				"death_prophet_witchcraft":"Un passif qui boostera tous vos autres sorts.",
+				"death_prophet_exorcism":"Un ultimate qui vous rendra terrifiant lorsque vous l'activerez. N'hésitez pas à le lancer pour push les batiments plus vite."
+		}
+	}
+}

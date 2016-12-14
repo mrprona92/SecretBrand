@@ -1,0 +1,141 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"[6.82] Smexilicious as Crystal Maiden",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"gauntlets",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"urn_of_shadows",
+				"flying_courier",
+				"magic_stick",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Core Items ":
+			[
+				"tranquil_boots",
+				"phase_boots",
+				"magic_wand",
+				"blink",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"ghost",
+				"cyclone",
+				"mekansm",
+				"sheepstick",
+				"heavens_halberd",
+				"ultimate_scepter",
+				"pipe",
+				"black_king_bar",
+				"travel_boots"
+			],
+			"Optional Support Items":
+			[
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Either Blink Dagger or Force Staff, solves your mobility problems. Now manaless too!",
+				"gauntlets":"Early extra HP. Turn this into bracers or urns, depending on your teammates.",
+				"branches":"Stats, builds into Magic Wand later.",
+				"boots":"Need this early as Crystal Maiden is quite slow.",
+				"gem":"Same reason as sentries, but the best idea is to let someone else hold it, someone who can survive, for semi-long periods of time.",
+				"magic_stick":"Builds into Magic Wand later.
+",
+				"magic_wand":"Stick charges saves lives.",
+				"ghost":"If there are some heavy right-clickers, get this to escape. Good to use in conjunction with your ulti.",
+				"clarity":"Use Clarity when out of mana, before you start putting points into mana regen.",
+				"flask":"400 HP regen used for emergencies only.
+",
+				"dust":"Same reason as sentry, make sure they dont get away.",
+				"ward_observer":"Buy either courier or wards for your team in the beginning of the game as you are a support.
+Buy this on a regular basis, re-ward every 7 min.",
+				"ward_sentry":"If there is an invisible hero, buy these and plant them everywhere. Also, if the enemy has wards, deward them.",
+				"tango":"Early small HP regen. Might need to pool your mid or carry with 1 or 2 charges.",
+				"courier":"Buy a courier for your team, if there is already a courier, buy wards instead.",
+				"tpscroll":"Keep one around, TP when your teammates need you. Or if you run into trouble alone, hide and TP out.",
+				"travel_boots":"Late, late game. Not recommended until your teammates are going for the final pushes.",
+				"phase_boots":"For a more aggressive playing style. Don't buy multiple boots.",
+				"hand_of_midas":"Holla get money.",
+				"bracer":"Builds from Gauntlet, decide from Urn or this. Adds a little tankiness for early game, sell this at a later time.",
+				"mekansm":"Buy one if there isn't already one on your team.",
+				"flying_courier":"If your courier is not upgraded, do it.",
+				"pipe":"Buy one if there isn't already one on your team.",
+				"urn_of_shadows":"Builds from Gauntlet, decide to get Bracers or this. If one of your teammates bought or planning to buy one, buy bracer. Some extra health and some more mana regen. ",
+				"sheepstick":"Even more disables for you, plus some nice stats.",
+				"cyclone":"More speed more mana!",
+				"force_staff":"Either Blink Dagger or Force Staff, solves your mobility problems. Save teammates, initiate fights, chase enemies, or escape.",
+				"ultimate_scepter":"Makes your ultimate even smexier. If you think the game will last long enough for you to get this.",
+				"black_king_bar":"Gives you some extra tankiness and damage. If you believe you will be using your ultimate often, and you have extra gold, you should get this. Good to use in conjunction with your ulti.",
+				"rapier":"Why are you even looking at this item? Go back to your supporting.",
+				"invis_sword":"If you are too rich and you don't want to be a support hero, you can buy this.",
+				"ancient_janggo":"If none of your teammates got drums or they sold theirs, you can upgrade your bracers.",
+				"smoke_of_deceit":"Smoke ganks, if your team wants to do it, buy it.",
+				"heavens_halberd":"More disables and strength.",
+				"tranquil_boots":"A poor support's boots, movement speed and regeneration. Heals when not attacking or being attacked, so stay out of battle when you need to heal. Don't buy multiple boots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_frostbite",
+			"2":"crystal_maiden_crystal_nova",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_brilliance_aura",
+			"5":"crystal_maiden_frostbite",
+			"6":"crystal_maiden_crystal_nova",
+			"7":"crystal_maiden_crystal_nova",
+			"8":"crystal_maiden_brilliance_aura",
+			"9":"crystal_maiden_freezing_field",
+			"10":"crystal_maiden_crystal_nova",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_frostbite",
+			"13":"crystal_maiden_frostbite",
+			"14":"crystal_maiden_brilliance_aura",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Long range slow nuke, don't be afraid to secure kills with this.",
+				"crystal_maiden_frostbite":"This is a nice disable, easy first blood if combined correctly. Prevents enemy from attacking, blinking, and going invisible. Does not prevent Blink Strikes. Also can be used to jungle. ",
+				"crystal_maiden_brilliance_aura":"Amazing 5.0 mana regen for you and 2.5 mana regen for your teammates at max. If you are not getting any levels, one or two points in aura is enough. If you're skipping aura; you're playing wrong.",
+				"crystal_maiden_freezing_field":"Freezing field is a great AoE spell as long as no one stuns you instantly. The damage is often underestimated by many players. Skill this when the manacost is less than 60% of your mana pool.",
+				"attribute_bonus":"Get stats, get swag."
+		}
+	}
+}

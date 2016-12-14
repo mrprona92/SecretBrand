@@ -1,0 +1,106 @@
+{
+	"Hero":"disruptor",
+	"Title":"Support Disruptor",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"flask",
+				"tango",
+				"clarity",
+				"clarity",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"ancient_janggo",
+				"arcane_boots",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"force_staff"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"ward_observer"
+			],
+			"Alternative":
+			[
+				"necronomicon",
+				"pipe",
+				"rod_of_atos",
+				"cyclone",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Gives early HP. Build it into a bracer later.",
+				"ghost":"Buy this if you are being killed by physical damage.",
+				"clarity":"Gives you some extra Mana.",
+				"flask":"Good HP regen for when you are low.",
+				"ward_observer":"Every team needs wards.",
+				"tango":"Regens you a little bit to help counteract harass.",
+				"courier":"Every team needs a courier, if someone else buys one get wards instead.",
+				"mekansm":"Very good item that heals everyone when used.",
+				"flying_courier":"Upgrade the courier once you have some extra gold.",
+				"pipe":"Buy this if no one else does.",
+				"sheepstick":"Very good disable but expensive, do not worry if you can not afford it.",
+				"cyclone":"A good alternative to Scythe of Vyse since it is cheaper.",
+				"force_staff":"Allows you to escape and do other useful things with the active. Passive gives you good bonuses.",
+				"necronomicon":"Give you HP and Mana pool and summons strong units. Get it to push and against invisible enemies.",
+				"arcane_boots":"Provides Mana for everyone.",
+				"ancient_janggo":"Good aura for the team and good stats for you.",
+				"rod_of_atos":"Very good slow and gives you good HP."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_thunder_strike",
+			"2":"disruptor_glimpse",
+			"3":"disruptor_kinetic_field",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_glimpse",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_glimpse",
+			"8":"disruptor_kinetic_field",
+			"9":"disruptor_kinetic_field",
+			"10":"disruptor_kinetic_field",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_thunder_strike",
+			"13":"disruptor_thunder_strike",
+			"14":"disruptor_thunder_strike",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Good nuke at level 1 but not worth maxing.",
+				"disruptor_glimpse":"Allows you to keep enemies form running. Also useful for enemies who have just TPed into a fight.",
+				"disruptor_kinetic_field":"Use this to trap enemies. Later on you can use it to keep people in your Static Storm.",
+				"disruptor_static_storm":"Use this in team fights on as many enemies as possible.",
+				"attribute_bonus":"Take these when there is no other choice."
+		}
+	}
+}

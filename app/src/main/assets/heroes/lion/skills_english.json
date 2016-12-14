@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Earth Spike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Rock spikes burst from the earth along a straight path. Enemy units are hurled into the air, then are stunned and take damage when they fall.",
+        "notes": "The spikes move at 1600 units per second.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">80/140/200/260</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">1.02/1.52/2.02/2.52</font></b><br/>LENGTH: <b><font color=\"#ffffff\">825</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/120/145/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "The Demon Witch exercises his demonic covenant, opening a fissure from hell.",
+        "hurl": "Lion",
+        "name": "lion_impale",
+        "youtube":"IS20TjZpD2M",
+        "id": 0
+    },
+    {
+        "dname": "Hex",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Transforms an enemy unit into a harmless beast, with all special abilities disabled.",
+        "notes": "Instantly destroys illusions.<br/>The target will have a base movement speed of 100, but buffs granting maximum movement speed won\u0027t be disabled.<br/>Hex disables damage block and evasion.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">2.5/3/3.5/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/150/175/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/24/18/12",
+        "lore": "Lion is compelled to share his transfiguration, twisting the essence of those who oppose him.",
+        "hurl": "Lion",
+        "name": "lion_voodoo",
+        "youtube":"1H8xWP_19Lo",
+        "id": 1
+    },
+    {
+        "dname": "Mana Drain",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "CHANNELED - Absorbs the magical energies of a target enemy unit by taking mana from it every second.",
+        "notes": "Destroys illusions.",
+        "dmg": "",
+        "attrib": "CHANNEL TIME: <b><font color=\"#ffffff\">5</font></b><br/>MANA PER SECOND: <b><font color=\"#ffffff\">20/40/60/120</font></b><br/>BREAK DISTANCE: <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 10/10/10/10<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/15/10/5",
+        "lore": "Lesser magi are nothing more than a source of magical restoration for the Demon Witch.",
+        "hurl": "Lion",
+        "name": "lion_mana_drain",
+        "youtube":"jclbhiTM7aA",
+        "id": 2
+    },
+    {
+        "dname": "Finger of Death",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Rips at an enemy unit, trying to turn it inside-out. Deals massive damage.<br/>Upgradable with Aghanim\u0027s Scepter.",
+        "notes": "Finger of Death has a 0.25 delay before the damage is applied after the spell is cast, allowing certain abilities to avoid the damage.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">600/725/850</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">725/875/1025</font></b><br/><font color=\"#6fe871\">SCEPTER MANA COST:</font></b> <b><font color=\"#ffffff\">200/420/625</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">100/60/20</font></b><br/><font color=\"#6fe871\">SCEPTER AOE:</font></b> <b><font color=\"#ffffff\">200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/420/650<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 160/100/40",
+        "lore": "Lion\u0027s disfigured hand is also the source of his greatest power, capable of flooding victims with malefic force.",
+        "hurl": "Lion",
+        "name": "lion_finger_of_death",
+        "youtube":"PoS308yRk5c",
+        "id": 3
+    }
+]

@@ -1,0 +1,88 @@
+{
+	"Hero":"lycan",
+	"Title":"The Chitlens Guide to Lycanthrope",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"stout_shield",
+				"quelling_blade",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"vladmir",
+				"medallion_of_courage"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"basher"
+			],
+			"Situational/Late game Items":
+			[
+				"heart",
+				"assault",
+				"abyssal_blade",
+				"greater_crit",
+				"desolator",
+				"bfury",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Usually the best choice for Lycanthrope for the stat boost early on. ",
+				"vladmir":"Lifesteal. Always get lifesteal. ",
+				"assault":"Usually a good choice. Make those high armored enemies cry. ",
+				"heart":"Yummy healz",
+				"black_king_bar":"Build it if you think you need it. If you don't know what it does, you probably shouldn't be playing on a computer(since you're a potato)",
+				"greater_crit":"Crits, crits, crits.",
+				"basher":"Dat stun capability. If you haven't already, kill Rosh immediately after you finish basher. ",
+				"bfury":"CLEAVE!",
+				"desolator":"mmmmmm deso....",
+				"abyssal_blade":"If you've got more gold than a medieval pimp, upgrade your basher."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_howl",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_feral_impulse",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

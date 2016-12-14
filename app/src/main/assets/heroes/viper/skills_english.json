@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Poison Attack",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Auto-Cast, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Intensifies Viper\u0027s venom, adding an effect to his normal attack that slows attack and movement speed while dealing damage over time.<br/>Poison Attack is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+        "notes": "Successive casts don\u0027t increase slow or damage, but refresh the duration.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">2/2/2/2</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">10/16/22/28</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/20/20/20<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "The Netherdrake\u0027s inborn toxic breath quickly drains the vitality of its afflicted.",
+        "hurl": "Viper",
+        "name": "viper_poison_attack",
+        "youtube":"FWLMTu44daQ",
+        "id": 0
+    },
+    {
+        "dname": "Nethertoxin",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Nethertoxin causes Viper\u0027s normal attack to deal bonus damage to units based on how much health they are missing.  The bonus damage doubles for each 20% of health missing from the target.  Nethertoxin deals half damage to creeps and buildings.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "BASE BONUS DAMAGE: <b><font color=\"#ffffff\">2.5/5/7.5/10</font></b><br/>NON-HERO DAMAGE: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b><br/>MAX BONUS DAMAGE: <b><font color=\"#ffffff\">40/80/120/160</font></b>",
+        "cmb": "",
+        "lore": "Poison from the Nether Reaches turns wounds into fatalities, and fatigue into death.",
+        "hurl": "Viper",
+        "name": "viper_nethertoxin",
+        "youtube":"OH2fLJO993U",
+        "id": 1
+    },
+    {
+        "dname": "Corrosive Skin",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Viper exudes an infectious toxin that damages and slows any enemy that damages it in a 1400 radius. The acid exudate also increases Viper\u0027s resistance to magic.",
+        "notes": "Stacks multiplicatively with other magic damage resistance sources.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">4</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">10/15/20/25</font></b><br/>MAGIC RESISTANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">10/15/20/25</font></b><br/>MAX RANGE RADIUS: <b><font color=\"#ffffff\">1400</font></b>",
+        "cmb": "",
+        "lore": "It is not unusual for sword and shield alike to corrode in the very hands of those who attack the Netherdrake.",
+        "hurl": "Viper",
+        "name": "viper_corrosive_skin",
+        "youtube":"RGDVz0J6g2g",
+        "id": 2
+    },
+    {
+        "dname": "Viper Strike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Viper slows the targeted enemy unit\u0027s movement and attack speed while also dealing poison damage over time.  The slowing effect reduces over the duration of the poison.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Slow works on spell immune units.<br/>Units afflicted by Viper Strike can be denied when their HP drops below 25%.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">5.1/5.1/5.1</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">60/100/145</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">40%/60%/80%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">40/60/80</font></b><br/><font color=\"#6fe871\">SCEPTER MANA COST:</font></b> <b><font color=\"#ffffff\">125/125/125</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">12/12/12</font></b><br/><font color=\"#6fe871\">SCEPTER CAST RANGE:</font></b> <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/175/250<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/50/30",
+        "lore": "Once used to slay his sadistic summoner, the most powerful of Netherdrake infections spreads through the veins of those foolish enough to cross Viper.",
+        "hurl": "Viper",
+        "name": "viper_viper_strike",
+        "youtube":"109y0icISWw",
+        "id": 3
+    }
+]

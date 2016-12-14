@@ -1,0 +1,78 @@
+{
+	"Hero":"centaur",
+	"Title":"GreyShark.Centaur Warrunner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"stout_shield",
+				"branches"
+			],
+			"Early Game":
+			[
+				"tranquil_boots",
+				"vanguard",
+				"hood_of_defiance"
+			],
+			"Mid Game":
+			[
+				"blink",
+				"blade_mail",
+				"heart"
+			],
+			"Late Game":
+			[
+				"travel_boots",
+				"assault"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"dagon"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_double_edge",
+			"4":"centaur_return",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_hoof_stomp",
+			"10":"centaur_hoof_stomp",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

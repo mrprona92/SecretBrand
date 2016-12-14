@@ -1,0 +1,178 @@
+{
+	"Hero":"naga_siren",
+	"Title":"Slithice, the Naga Siren Guide by The Unforgiven",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"Early game for (Supp)":
+			[
+				"poor_mans_shield",
+				"magic_stick",
+				"medallion_of_courage",
+				"arcane_boots",
+				"ancient_janggo"
+			],
+			"Early game for (Carry)":
+			[
+				"magic_stick",
+				"power_treads",
+				"travel_boots",
+				"radiance"
+			],
+			"Core Items for (Supp)":
+			[
+				"heavens_halberd",
+				"diffusal_blade",
+				"blink"
+			],
+			"Core Items for (Carry)":
+			[
+				"heart",
+				"lesser_crit",
+				"manta"
+			],
+			"Situational Items (Supp)":
+			[
+				"assault",
+				"heart"
+			],
+			"Situational Items (Carry)":
+			[
+				"butterfly",
+				"greater_crit"
+			],
+			"Last Updated 09-08-2014		":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger will help you to initiate teamfights. Get this so you can initiate, run away from ganks or gank an enemy.",
+				"quelling_blade":"FOR CARRY NAGA ONLY.",
+				"stout_shield":"This Stout Shield helps you to block some damage. This shall be upgraded to Poor Man's Shield.
+",
+				"slippers":"These slippers of agility will help you to get some extra Agility. These shall be upgraded to wraith band.",
+				"circlet":"A simple circlet to add some more stats. Will be upgraded to wraith band.",
+				"boots":"The boots of speed shall only be acquired after getting the wraith band. This will help you pursuing your enemies and eventually getting some kills.",
+				"magic_stick":"Buy magic stick to get some health and mana back from nuker enemy heroes.",
+				"magic_wand":"If you need extra help with mana and/or health, use magic wand to counter enemy spells.
+",
+				"clarity":" Naga needs a lot of mana for her abilities especially during early game. Using a clarity will allow you to use more of her abilities during this period.
+",
+				"flask":"For early game survivability.",
+				"tango":"For early game survivability.",
+				"travel_boots":"Good alternative for experienced players with naga carry.
+These boots early/mid game will allow you to be annoying as hell due to your split push power.",
+				"power_treads":"Build these if you require more damage and attack speed instead of Split pushing power. You can always tread switch to other attributes as necessary.
+",
+				"poor_mans_shield":"Get Poor Man's Shield in the early game to avoid being harassed so hard.",
+				"wraith_band":"Get this for your status during early game. It will help you to get early kills and save you from being killed.
+",
+				"mekansm":" Get this only if none of your teammates are going for it.",
+				"vladmir":"Want Lifesteal instead of Vanguard? Then definitely get this!
+",
+				"pipe":" Get this only if none of your teammates are going for it.",
+				"urn_of_shadows":"Gathering Urn of Shadows' charges will provide you with extra HP regen and debuff enemies with magical DPS. You can also heal your allies. Get this only if none of your teammates are going for it.",
+				"sheepstick":"If your allies have both Assautl Cuirass and Shiva's then build Scythe. Another sheepstick is never too much.
+",
+				"orchid":"Orchid is a great item to gank escape heroes like Anti-Mage, Queen of Pain, Riki and so on.
+",
+				"assault":"As a support Naga you can become even more tanky and devastating with Assault Cuirass. It gives both you and your allies attack speed and armor and causes your enemies' armor to be debuffed.
+",
+				"heart":"Heart of Tarrasque will give you and your illusions the perfect tankiness. Get this as the last item (since you already have Vanguard) and buy Butterfly before this to get higher DPS and evasion.
+",
+				"black_king_bar":"If your enemy's team has too many disablers, Black King Bar will help against that. This item will provide you with more efficiency in teamfights since you will not be stunned by anything. However, your illusions WILL NOT benefit from Black King Bar.
+",
+				"shivas_guard":"Shiva's Guard is a great item to get if your team already has Assault Cuirass because it grants you a good armor bonus and attack speed debuff in its passive state. Its active ability works by slowing down your enemies located in your targeted AoE. Get this only if none of your teammates are going f",
+				"bloodstone":"Instead of Blink Dagger build this, This will give you constant mana Regen., constant health regen., mana and hp boost aswell as a bit of damage.",
+				"vanguard":"REPLACE THIS WITH POOR MAN'S SHIELD. Tankiness for Naga, she loves it.",
+				"monkey_king_bar":" Buy this only if the other team's carry is overfed and has evasion (Butterfly, Heaven's Halberd or hero evasion abilities).
+",
+				"radiance":"Radiance is the ultimate pushing item for naga. Your illusions benefit from the Radiance AoE damage, this teams, get the real naga to one lane, cast Mirror Image, and TP to another lane for a super efficient Split push.",
+				"butterfly":"Provides both you and your illusions with higher DPS, evasion and attack speed. Get this right after daedalus. Once you have this you have basically won the game. However, buy the talisman of evasion right after manta so you and your illusions will get evasion earlier.
+",
+				"greater_crit":"A great addition to your inventory - it does a LOT of damage and also gives you and your illusions a higher percentage of crit.
+",
+				"manta":"Manta style is one of the most perfect items for naga. Apart from giving you extra move speed plus epic stats, It gives you more illusions. Get this right after getting the core items.",
+				"lesser_crit":"Crits for naga Hurray! All your illusions do critical dmg. So it's a really good item for naga.",
+				"satanic":"Satanic is a good alternative for the Heart of Terrasque. Its insane 125% lifesteal will keep you alive no matter what during teamfights and your illusions will also benefit from the passive lifesteal. However, your illusions WILL NOT benefit from the 125% lifesteal from Satanic's active ability.
+",
+				"sange":"Sange makes you a little more tanky and adds a maim (slow) to Naga.
+",
+				"yasha":"Yasha will be the first item you will rush because you need that extra agility and moviment speed.  With this item you will become more of a damage dealer and a better ganker due to her moviement speed.",
+				"diffusal_blade":"Diffusal Blade is the perfect orb effect for Naga. Even as a support she can deal great amounts of damage and remove mana from enemies. You also have purge to remove debuffs and buffs from allies and enemies. Purge also helps to remove the effect of runes on enemies.
+",
+				"ethereal_blade":"Ethereal Blade is a good item if your team intends to do magical damage. Get this ONLY if your team depends on magical damage instead of physical damage.
+",
+				"arcane_boots":"Naga really needs mana. Therefore, arcane boots are a good choice to give both you and your teammates mana.
+",
+				"ancient_janggo":"This is a really good item to use for ganks/run from ganks. It gives stats, movement speed and attack speed when passive and when active it will add even more movement speed to allow you to run away from danger.
+",
+				"medallion_of_courage":"This item combined with your Riptide will turn you into a devastating ganker. Your item's armor reduction and your Riptide's armor reduction stack.
+",
+				"rod_of_atos":"Rod of Atos gives you a great intel boost and HP boost. Despite that, it also gives you a lot of ganking power.
+",
+				"abyssal_blade":"Naga needs a stun and Abyssal Blade will do the trick. It is extremely expensive but it is worth it if you need that little stun to destroy anyone who crosses Naga.
+",
+				"heavens_halberd":"Heaven's Halberd will help you to gank those right-click heroes with your carry. You will blink in, Ensnare, maim and if he tries to fight back you can just disarm him.
+",
+				"ring_of_aquila":"Provides extra armor regen, stats and mana regen. Perfect for early game kills/ganks.
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_rip_tide",
+			"2":"naga_siren_ensnare",
+			"3":"naga_siren_mirror_image",
+			"4":"naga_siren_rip_tide",
+			"5":"naga_siren_ensnare",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_mirror_image",
+			"8":"naga_siren_rip_tide",
+			"9":"naga_siren_ensnare",
+			"10":"naga_siren_rip_tide",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_ensnare",
+			"13":"naga_siren_mirror_image",
+			"14":"naga_siren_mirror_image",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Naga summons 3 illusions who are at your full control. They get more damaged than you and do less damage than you. However DON'T UNDERESTIMATE THEM, they are extremely deadly with the right items. Mirror image when perfectly timed will avoid stuns or other types of incoming damage.
+",
+				"naga_siren_ensnare":" Her net grows stronger with each level she gets by increasing the duration of the trap. This is one of her primary abilities. Invisible heroes caught by it will become visible when trapped, so use it against Riki, Phantom Lancer, etc.
+",
+				"naga_siren_rip_tide":"Damaging and armor melting waves. A great skill for Naga. Combine Ensnare, Mirror Image and Riptide and you basically have yourself a kill. All of your illusions do damage and armor reduction with Riptide. However THEY DON'T STACK ON THE SAME HERO.
+",
+				"naga_siren_song_of_the_siren":" One of the most annoying ultimates of all time. Great for initiating, saving and escaping. While the enemies are under the song of the siren THEY CANNOT BE HARMED BY ANYTHING"
+		}
+	}
+}

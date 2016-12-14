@@ -1,0 +1,102 @@
+{
+	"Hero":"terrorblade",
+	"Title":"\"I'm blind, not deaf!\" - A Terrorblade Guide [6.80]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"magic_wand",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"yasha",
+				"helm_of_the_dominator"
+			],
+			"THE DREAM":
+			[
+				"manta",
+				"skadi",
+				"satanic",
+				"greater_crit",
+				"butterfly",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"necronomicon",
+				"sheepstick",
+				"monkey_king_bar",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Helps with those pesky last-hits.",
+				"slippers":"You can get a Gauntlet of Strength instead if you're worried about survavibility in the early laning.",
+				"magic_wand":"Will save your life in many situations.",
+				"poor_mans_shield":"You can get a Ring of Aquila instead if your support doesn't build Basilius. It's up to you.",
+				"sheepstick":"If your team doesn't have any disables and if you've got the gold to afford it.",
+				"necronomicon":"If you want to assume a heavy-pushing role. This item and Manta Style makes tower melt like butter.",
+				"black_king_bar":"Terrorblade doesn't really have escape abilities or ways to cope with stuns, BKB is a great item if you face a disable-heavy team.",
+				"monkey_king_bar":"If you miss a lot of attacks or if you simply can afford it, get this.",
+				"butterfly":"Standard item for agility carries, this is the item slot you can replace by BKB / Hex / MKB if you feel like it.",
+				"greater_crit":"Makes you hit HARD.",
+				"manta":"Pop this preferably when you're under Metamorphosis. Great for teamfights & pushing towers.",
+				"sange_and_yasha":"Some people prefer that item over Manta, I don't recommend it for this build though.",
+				"satanic":"The best orb effect on Terrorblade, period. With this and Sunder you will never visit your fountain again.",
+				"skadi":"Skadi + Lifesteal stacks, which makes for an OP combo.",
+				"helm_of_the_dominator":"Lifesteal is arguably the best orb effect on TB. Component of a later Sanatic.",
+				"orb_of_venom":"This and Yasha will allow you to prevent anyone from running from you."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"terrorblade_reflection",
+			"2":"terrorblade_metamorphosis",
+			"3":"terrorblade_metamorphosis",
+			"4":"terrorblade_conjure_image",
+			"5":"terrorblade_metamorphosis",
+			"6":"terrorblade_sunder",
+			"7":"terrorblade_metamorphosis",
+			"8":"terrorblade_reflection",
+			"9":"terrorblade_reflection",
+			"10":"terrorblade_conjure_image",
+			"11":"terrorblade_sunder",
+			"12":"terrorblade_reflection",
+			"13":"terrorblade_conjure_image",
+			"14":"terrorblade_conjure_image",
+			"15":"attribute_bonus",
+			"16":"terrorblade_sunder",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

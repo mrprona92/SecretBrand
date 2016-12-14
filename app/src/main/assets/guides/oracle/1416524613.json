@@ -1,0 +1,102 @@
+{
+	"Hero":"oracle",
+	"Title":" 6.82 - Standard Oracle (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"mekansm",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"orchid",
+				"dagon"
+			],
+			"Extension Items":
+			[
+				"ethereal_blade",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last Update: 20/11/14":
+			[],
+			"See also: Middle Guide":
+			[]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Mekansm is an item you need to get fast as it immediately makes your team-fights and pushes so much stronger. Again, it helps your survivability and the heal is DOUBLED when used AFTER your ultimate: False's Promise. So be sure to use it on heroes who can dish out damage and dive for a kill.",
+				"urn_of_shadows":"Urn of Shadows alleviates Oracle's frail life and improves your mana regeneration so you can continue to harass and gank foes. The key importance of Urn is when you use your ultimate. Use Urn of Shadows to continue ganking. ALSO, use it during your ultimate: False Promise: to double the healing!",
+				"sheepstick":"Scythe of Vyse is the ultimate item for most magic users and Oracle is no exception. Open with Scythe of Vyse and pop off all your abilities that keep the foe burning and hurting.",
+				"orchid":"Orchid of Malevolence amplifies all your damage and takes advantage of your BAT (base-attack time) which is incredibly high. What's also key is that Orchid of Malevolence works wonders with your Fate's Edict in that it prevents foes from auto-attacking and casting any spells, dead meat.",
+				"cyclone":"Eul's Scepter of Divinity makes that floating sluggish Oracle into a slightly faster slug. The main interest of Eul's Scepter of Divinity is how it works in combination with your Q: Fortune's End, allowing you to keep the foe in place just in time to channel your Q: Fortune's End's immobilization.",
+				"force_staff":"Force Staff is due to the situation of Oracle. You want to neither be in the front of fights, but you also want to be near or around to pop your heals, channel abilities, etc. Exchange Eul's Scepter of Divinity for Force Staff if you get caught out a lot or the team is a very mobile one.",
+				"dagon":"Dagon is a unique item in which works great to finish off foes. Though typically not suggested, if playing alone or have a strong early lead, Dagon will further your kill-rate and in combination with your Purifying Flames then Fortune's End then Purifying Flames combination.",
+				"shivas_guard":"It's without question that Shiva's Guard is a great item to amplify your max mana, resistance to damage and the slow works wonders given you have only one crowd-control ability (Fortune's End, which has a 3-second channel). Another worthwhile pick-up for Oracle.",
+				"ethereal_blade":"With your high base-attack time (BAT) and the low cooldown of your abilities: Ethreal Blade shifts the heavy nuker of Oracle into a heavy damage-dealer via auto-attacks and massive range. Ethreal Blade is a nice bundle that is as versatile in situations as your abilities/hero."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"oracle_fortunes_end",
+			"2":"oracle_fates_edict",
+			"3":"oracle_purifying_flames",
+			"4":"oracle_purifying_flames",
+			"5":"oracle_purifying_flames",
+			"6":"oracle_false_promise",
+			"7":"oracle_purifying_flames",
+			"8":"oracle_fortunes_end",
+			"9":"oracle_fortunes_end",
+			"10":"oracle_fortunes_end",
+			"11":"oracle_false_promise",
+			"12":"oracle_fates_edict",
+			"13":"oracle_fates_edict",
+			"14":"oracle_fates_edict",
+			"15":"attribute_bonus",
+			"16":"oracle_false_promise",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"oracle_fortunes_end":"Fortune's End is both your initiating ability on foes (due to its immobilization) as well as a way to purge Purifying Flame on enemies. Be sure to use it after casting Purifying Flames in combination: Cast [E]-[E]-[Q]-[E] very fast to destroy enemies and purge the regen.CHANNEL DOESNT INCREASE DMG",
+				"oracle_fates_edict":"Fate's Edict is a great way to save allies from ganks from magic-users (especially if they have Ghost Scepter to prevent physical attacks) and a way to harass foes with your auto-attack as it amplifies damage AND prevents them from last-hitting! Use Fate's Edict then Purifying Flames to heal allies.",
+				"oracle_purifying_flames":"Purifying Flames is your bread and butter! Purifying Flames works in combination with Fortune's End.For enemies: [E]-[Q]. Fortune's End doesn't need to be channeled for the damage or immediate purge.For Allies: [W]-[E]. This lets you prevent the damage but apply the regeneration/heal",
+				"oracle_false_promise":"Use False Promise either just as a fight starts or to save an ally. Remember: all heals double after False Promise. So use all your abilities/items that can heal your invulnerable target as soon as possible! This ability is incredibly powerful when used right and taken advantage."
+		}
+	}
+}

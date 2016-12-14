@@ -1,0 +1,117 @@
+{
+	"Hero":"phantom_lancer",
+	"Title":"Nothing can stop our march! Updated 6.82b",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"flask",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"quelling_blade",
+				"boots",
+				"bottle",
+				"ring_of_aquila",
+				"poor_mans_shield",
+				"blade_of_alacrity"
+			],
+			"coreItems":
+			[
+				"diffusal_blade",
+				"manta",
+				"heart",
+				"power_treads"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"butterfly",
+				"rapier",
+				"radiance",
+				"travel_boots",
+				"ancient_janggo",
+				"ring_of_aquila",
+				"hand_of_midas",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Quelling blade for the extra last hitting damage. I find it nifty on PL and most safe lane carries if you have the inventory room. Should be purchased after Poor Man's Shield and maybe boots as well if being harassed heavily, or before if the lane feels like it will be easy.",
+				"ring_of_protection":"Ring of protection is needed for your early Ring of Basilius. Take this if you're going in the side lane. Grab a circlet if you're going middle if you want, or skip both and get a quicker bottle.",
+				"circlet":"You are an agility carry, thus low base hp. Getting early strength(or stats in general) is helpful for many reasons. This circlet will eventually upgrade into your bracer.",
+				"blade_of_alacrity":"The first piece of Diffusal blade which you will want to purchase.",
+				"bottle":"I usually either choose Bottle or Ring of Aquila to deal with my mana problems, sometimes both. Occasionally I will grab Drums of Endurance instead of Aquila.",
+				"tpscroll":"Always carry tp scrolls if you have the farm available. Any hero, any time.",
+				"travel_boots":"Extra split pushing/map presence.",
+				"power_treads":"If you want that extra attack speed late game and don't need boots of travels. I almost always take Boots of travels over power treads.",
+				"hand_of_midas":"Don't buy this unless you're really greedy and know what you're doing.",
+				"poor_mans_shield":"The best way to survive a harass heavy lane, and add cheap eHP for early fighting.",
+				"bracer":"Go ahead and finish up your bracer early on for the extra inventory space needed for town portal scrolls and diffusal blade parts.",
+				"heart":"Heart. The finishing move for phantom lancer. Once you get this item you are almost unkillable without detection and lockdown. If you've finished this you're probably going to win.",
+				"rapier":"Heh.",
+				"monkey_king_bar":"If your opponents have evasion or build a Talisman, Halberd, or Butterfly.",
+				"radiance":"Some players prefer to get radiance early if they're free farming. Diffusal 2 I think is a better choice but if you're farming so well that you can get radiance after diffusal 2 without being forced to team fight you could be in even better shape in the late mid game. This will delay heart.",
+				"butterfly":"Evasion... extra damage... expensive.",
+				"greater_crit":"Extra damage boost",
+				"manta":"Manta is your third core item. Manta is obviously amazing for the illusions for this hero allowing you to split push even better than before with third ability to instantly create an illusion(in this case multiple.) Movement speed, hp and damage are all extra bonuses from this item.",
+				"diffusal_blade":"Diffusal blade is your first core item. After you've completed treads, a mana regeneration item and maybe a Bracer/PMS, this should be immediately bought. Upgrade this when you run out of charges.",
+				"soul_ring":"If you feel the need, buy a soul ring for very early game to spam your spirit lance on the enemy heroes. With tranquils and soul ring you should have no problem regenerating HP against the toughest of lanes.",
+				"ancient_janggo":"Finishing up drums for extra mana, damage and hp but most specifically the movement speed. Combine this with the MS% from yasha/manta and you have an insanely fast moving carry dishing out lots of right click damage.",
+				"abyssal_blade":"For those games where you just need a stun.",
+				"ring_of_aquila":"I usually either choose Bottle or Ring of Aquila to deal with my mana problems, sometimes both. Occasionally I will grab Drums of Endurance instead of Aquila.",
+				"tranquil_boots":"These will allow you to stick around more in the lane attaining those crucial last hits, also hopefully eliminating fountain trips altogether. If you don't go tranquills you will find yourself unnecessarily buying regen."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_lancer_spirit_lance",
+			"2":"phantom_lancer_doppelwalk",
+			"3":"phantom_lancer_spirit_lance",
+			"4":"phantom_lancer_doppelwalk",
+			"5":"phantom_lancer_spirit_lance",
+			"6":"phantom_lancer_juxtapose",
+			"7":"phantom_lancer_spirit_lance",
+			"8":"phantom_lancer_doppelwalk",
+			"9":"phantom_lancer_doppelwalk",
+			"10":"phantom_lancer_phantom_edge",
+			"11":"phantom_lancer_juxtapose",
+			"12":"phantom_lancer_phantom_edge",
+			"13":"phantom_lancer_phantom_edge",
+			"14":"phantom_lancer_phantom_edge",
+			"15":"attribute_bonus",
+			"16":"phantom_lancer_juxtapose",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_lancer_spirit_lance":"Your bread and butter nuke. Max it first. Live it. Love it. Become one with the phantom lance.",
+				"phantom_lancer_doppelwalk":"Ninja vanish! What an upgrade from Dopplewalk... Max this second.",
+				"phantom_lancer_phantom_edge":"I feel like I'm playing Starcraft II with this change... This spell is great to level up, but isn't worth maxing before the other two. Maybe 1 point in it early on instead of this suggested build could work in some cases.",
+				"phantom_lancer_juxtapose":"Grab your ultimate when you can. PL isn't PL without it."
+		}
+	}
+}

@@ -1,0 +1,91 @@
+{
+	"Hero":"furion",
+	"Title":"Jungle+Push Furion Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"gloves"
+			],
+			"Middle game":
+			[
+				"power_treads",
+				"hand_of_midas"
+			],
+			"Late game":
+			[
+				"desolator",
+				"sheepstick",
+				"invis_sword"
+			],
+			"Situational":
+			[
+				"ultimate_scepter",
+				"orchid",
+				"necronomicon",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gloves":"Good attack speed, plus builds into Midas later.",
+				"clarity":"Early game mana regen, good stuff for jungling. And yeah, precise farming is important for Prophet, so do not get any wards or courier.",
+				"power_treads":"Speed, stats. Do not buy other boots under any circumstances.",
+				"hand_of_midas":"The key item for Natures Prophet. The trick is to get it AS SOON AS POSSIBLE, preferably before the 9 min. mark. Use on cooldown, if possible transmute big netural creeps. Does not work on mechanical units and ancients.",
+				"sheepstick":"Your guardian angel. Helps running away, ganking, controlling teamfights. Try using this on an enemy and then teleporting straight after.",
+				"orchid":"For teamfights and ganking. And, of course, excellent stats.",
+				"necronomicon":"Good pushing. Cast 10 small guys plus these two hobbits for ultimate pushing.",
+				"ultimate_scepter":"Get this if you need to deal with creeps. Overall the item buy order will be Midas-Power Threads-Desolator-Shadow Blade-Scythe-Aghanim or Oblivion or Necronomicon.",
+				"greater_crit":"If you feel yourself like a bourgeois, take this. Damage+crits.",
+				"invis_sword":"Essential for escaping. If you are getting ganked, use shadow blade and teleport.",
+				"desolator":"The best pushing item, get it after Midas. Helps destroying towers and barracks. When pushing barracks attack both of them so Desolator will take effect and creeps will do more damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_teleportation",
+			"5":"furion_sprout",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_force_of_nature",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"The killer and escaper. 5.25 sec cooldown easily lets you cast Sprout on yourself and then teleport away. When you cast Sprout on a hero, try then Nature Calling on the trees, this will give you additional stopping time and damage on heroes.    Furion does not gank till lvl six, so max it last.",
+				"furion_teleportation":"Your \"OH FUCK HOW DID THEY TAKE THE RACKS\" skill. Use it to teleport between lanes and effectively push, to escape enemy ganks, and go to base quickly. Teleport takes 3 seconds to cast, so be aware.",
+				"furion_force_of_nature":"Your pusher and jungler skill. Use sprouts to tank, not to damage. Prophet has little HP, so let the small guys do the job. Tank towers, tank creeps. Can be used as one minute rune wards, although not recommended. It takes 5 trees to spawn 5 Sprouts, so dont cast it on single standing trees.",
+				"furion_wrath_of_nature":"For distant creep killing. Low cooldown, big damage. Wrath gets only units in your field of vision, so use it when there is a lot of enemy units on the map.",
+				"attribute_bonus":"If you see this, that means youre rollin. Lategame is the best time for pushing towers, so do it now. Good luck!"
+		}
+	}
+}

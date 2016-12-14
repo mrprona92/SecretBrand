@@ -1,0 +1,84 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"ColtM_ Guide: Vengeful Spirit (support)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"branches",
+				"branches",
+				"ward_sentry",
+				"ward_observer",
+				"courier",
+				"flying_courier"
+			],
+			"Support Items":
+			[
+				"tpscroll",
+				"smoke_of_deceit",
+				"gem",
+				"ward_observer",
+				"ward_sentry",
+				"dust"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"tpscroll",
+				"bracer",
+				"magic_wand",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"Luxury Items":
+			[
+				"medallion_of_courage",
+				"urn_of_shadows",
+				"force_staff",
+				"mekansm",
+				"ultimate_scepter",
+				"pipe",
+				"ghost"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_command_aura",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_command_aura",
+			"9":"vengefulspirit_command_aura",
+			"10":"vengefulspirit_command_aura",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_wave_of_terror",
+			"13":"vengefulspirit_wave_of_terror",
+			"14":"vengefulspirit_wave_of_terror",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

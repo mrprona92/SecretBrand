@@ -1,0 +1,106 @@
+{
+	"Hero":"shredder",
+	"Title":"R1ZZR4CK as Initiator and Ganker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"pers",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"heart",
+				"blade_mail",
+				"shivas_guard",
+				"radiance",
+				"vanguard"
+			],
+			"Late Game":
+			[
+				"travel_boots",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"This one is propably the most important item ever if you play Rizzrack. After first skilling of your reactive armor, you will get HP as fast as the creeps hurt you, when you got a stout shield. Also good for Vanguard in Midgame",
+				"branches":"Two branches will give you some extra HP and mana which you will need in early game. If you randomed Rizzrack you can also get a circlet and a fast Bracer or Null Talisman after your boots",
+				"clarity":"Mana is damned essencially for Rizzrack because of his low-CD moves which are really nice. Get a clarity and be ready for one or two fast kills in early game",
+				"flask":"You cannot play without a salve at start because of being a melee hero with low HP.",
+				"tango":"Tangoes are not bad if you play against one or two ranged heroes on your lane. Buy them, even if you play against melee, you dont know whats going to happen",
+				"tpscroll":"Always carry a tp in late game. You will need it to get enemies and to defend your base.",
+				"travel_boots":"Remember that you splitted your Arcane Boots for the Bloodstone. Get BoT now. You will be the happiest man alive with teleportation and you dont have to buy so many TPs",
+				"pers":"You have to get this amazing item because of your low-cd moves and the slow mana regeneration. Also supports your Reactive Armor healing you even faster.",
+				"urn_of_shadows":"You can get an urn in early game, but only if noone else in your team gets one. But dont forget, bloodstone is your primary target!",
+				"heart":"You can buy a heart but please only do it if you have to be more tanky. Remember your health regeneration is relly high even without Heart because of your Reactive Armor and your Bloodstone.",
+				"shivas_guard":"Everything giving you Int and Armor is fantastic to play with but you have to decide on your own if your team needs Shivas Guard.",
+				"bloodstone":"This is YOUR core item.
+If you dont get it, Rizzrack is absolutely useless in every situation, you should focus getting this item as fast as you can.
+You also can use the Energy Booster from your Arcane Boots",
+				"vanguard":"Maybe also a good core item. Most users like the block which works great with Reactive Armor but also not really used in professional games.",
+				"blade_mail":"Great item because of additional armor and the active function to return damage. Use it against damagedealers and use Timber Chain to escape if necessary",
+				"radiance":"This item will provide AOE damage and farm as long as there are no mega-creeps, which are much less damaged by Radiance. ",
+				"arcane_boots":"I put Arcane Boot in the Basic Equip tab first but I just want to show you how ESSENCIALLY this item is. With the extra mana you can escape out of every fight or get some kills which your team could not get because your enemy is faster than you"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_reactive_armor",
+			"3":"shredder_whirling_death",
+			"4":"shredder_timber_chain",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_reactive_armor",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_whirling_death",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Use this skill in every useful situation and to harass in early game. Remember that the magic damage turns PURE when theres a tree in the radius",
+				"shredder_timber_chain":"THIS Skill should be the reason players take Rizzrack. It HAS TO be maxed first because of its amazing range of 1400, pure damage on the way and the cooldown. Great for escaping and getting kills",
+				"shredder_reactive_armor":"This skill will rescue your life 100000 times
+Most players prefer to increase whirling death at level 2 but you will be thankful while killing creeps or enemy heroes that you got one really nice skill that doesnt use your mana",
+				"shredder_chakram":"Your ultimate has AOE PURE damage which is really awesome. Also it slows all enemies inside the radius, use it to escape, in teamfights and to attack your enemies because of 8s CD. Additional, you can shredder down trees to chain to other trees that are otherwise blocked by them."
+		}
+	}
+}

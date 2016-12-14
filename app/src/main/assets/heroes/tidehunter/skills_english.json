@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Gush",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Summons a gush of water to damage an enemy unit, reducing their movement speed and armor.  Lasts 4 seconds.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">110/160/210/260</font></b>",
+        "attrib": "SLOW: <b><font color=\"#ffffff\">40%/40%/40%/40%</font></b><br/>ARMOR REDUCTION: <b><font color=\"#ffffff\">2/3/4/5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "During his championship of the Sunken Isles, Leviathan gained mastery over the open sea.",
+        "hurl": "Tidehunter",
+        "name": "tidehunter_gush",
+        "youtube":"68728IYAiok",
+        "id": 0
+    },
+    {
+        "dname": "Kraken Shell",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Creates a thick armor shell that blocks physical damage and removes negative buffs if received damage passes the threshold.<br/>Kraken Shell does not stack with items that provide Damage Block.",
+        "notes": "Only damage from player owned sources is counted towards buff removal.<br/>The counter will reset if no player owned damage is taken for 6 seconds.<br/>Kraken Shell removes most buffs, even if they are generally not purgable.",
+        "dmg": "",
+        "attrib": "DAMAGE BLOCK: <b><font color=\"#ffffff\">12/24/36/48</font></b><br/>DAMAGE THRESHOLD: <b><font color=\"#ffffff\">600/550/500/450</font></b>",
+        "cmb": "",
+        "lore": "Claddish navymen tell tales of a mighty sea-faring beast that suffered spear and sword but continued to lay waste to the fleet.",
+        "hurl": "Tidehunter",
+        "name": "tidehunter_kraken_shell",
+        "youtube":"mbIfRCkRM6g",
+        "id": 1
+    },
+    {
+        "dname": "Anchor Smash",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Tidehunter swings his mighty anchor to damage nearby enemies and reduce their attack damage.",
+        "notes": "Anchor Smash works on all Ancient creeps except for Roshan.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">75/125/175/225</font></b>",
+        "attrib": "DAMAGE REDUCTION: <b><font color=\"#ffffff\">45%/50%/55%/60%</font></b><br/>DURATION: <b><font color=\"#ffffff\">6/6/6/6</font></b><br/>RADIUS: <b><font color=\"#ffffff\">375</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/40/50/60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 7/6/5/4",
+        "lore": "Stolen from one of Admiral Kunkka\u0027s flagships, Leviathan\u0027s heavy anchor proves useful as a melee weapon.",
+        "hurl": "Tidehunter",
+        "name": "tidehunter_anchor_smash",
+        "youtube":"30uJcLr3ttA",
+        "id": 2
+    },
+    {
+        "dname": "Ravage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Slams the ground, causing tentacles to erupt in all directions, damaging and stunning all nearby enemy units.",
+        "notes": "Ravage will hit invisible units.<br/>Ravage waves move outwards at a speed of 775.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">200/290/380</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">1025</font></b><br/>DURATION: <b><font color=\"#ffffff\">2.02/2.32/2.77</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/225/325<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 150",
+        "lore": "Calling to the abyssal god Maelrawn has resulted in entire armadas being lost at sea.",
+        "hurl": "Tidehunter",
+        "name": "tidehunter_ravage",
+        "youtube":"BZBsiD9wuWQ",
+        "id": 3
+    }
+]

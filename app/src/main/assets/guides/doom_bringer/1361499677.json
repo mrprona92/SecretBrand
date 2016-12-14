@@ -1,0 +1,92 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"[DMX] Doom (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"vanguard",
+				"phase_boots",
+				"assault",
+				"radiance",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"heart",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"stout_shield",
+				"shivas_guard",
+				"blade_mail",
+				"ultimate_scepter"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_lvl_death",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_lvl_death",
+			"9":"doom_bringer_lvl_death",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_scorched_earth",
+			"13":"doom_bringer_scorched_earth",
+			"14":"doom_bringer_scorched_earth",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Le sort qui vous permettra d'engranger beaucoup d'argent durant toute la partie. Vous pouvez également récupérer les capacités des creeps neutres, alors n'hésitez pas !",
+				"doom_bringer_scorched_earth":"Ce sort vous permettra de fuir ou de rattraper votre cible facilement.",
+				"doom_bringer_lvl_death":"Un sort qui fait de bon dommages, par contre ne l'utilisez que sur un ennemi dont le level est adapté pour ne pas gâcher de mana.",
+				"doom_bringer_doom":"Le meilleur sort monocible du jeu, qui silence pendant un million d'années ! Lorsqu'un adversaire est doom, il ne peut ni utiliser de sort, ni utiliser d'objets. Profitez en pour le détruire !
+Attention, ce sort passe par dessus l'immunité magique mais est bloqué par linken sphère."
+		}
+	}
+}

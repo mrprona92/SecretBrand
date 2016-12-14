@@ -1,0 +1,94 @@
+{
+	"Hero":"queenofpain",
+	"Title":"[DMX] Queen Of Pain - Mid (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"sphere",
+				"black_king_bar",
+				"force_staff",
+				"orchid",
+				"dagon",
+				"monkey_king_bar",
+				"desolator",
+				"greater_crit",
+				"necronomicon",
+				"veil_of_discord",
+				"skadi"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_blink",
+			"2":"queenofpain_shadow_strike",
+			"3":"queenofpain_scream_of_pain",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_blink",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_shadow_strike",
+			"14":"queenofpain_shadow_strike",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Un bon sort pour harass et pour ralentir votre adversaire !",
+				"queenofpain_blink":"Votre sort d'escape, très puissant pour ganker rapidement sur toute la map.",
+				"queenofpain_scream_of_pain":"Un nuke AOE qui fait de bons dégâts, il sera votre source de dommages principale.",
+				"queenofpain_sonic_wave":"Un ultimate de zone qui peut vous permettre de gagner un teamfight si vous le placez sur la plupart des héros ennemis.
+Si vous avez l'aghanim's vous pourrez l'utiliser pour dépush des grosses vagues de creeps."
+		}
+	}
+}

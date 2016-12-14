@@ -1,0 +1,107 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"6.82 - Standard Dragon Knight (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"black_king_bar",
+				"maelstrom"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"helm_of_the_dominator",
+				"ancient_janggo",
+				"armlet"
+			],
+			"Extension Items":
+			[
+				"greater_crit",
+				"assault",
+				"heart",
+				"heavens_halberd"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"assault":"If you're finding yourself heavily focused by physical carries, you can swap Mjollnir with Assault Cuirass.",
+				"hood_of_defiance":"To increase your resistance against magic if the team are hard magic-hitters.",
+				"monkey_king_bar":"Physical carries that are evading or dodging your attacks can be squashed with Monkey King Bar.",
+				"armlet":"Armlet is a great item for Dragon Knight to give him some strength if the fights and games is starting to push towards a mid-game shift. Aim for Armlet if you're unsure about your capabilities as Dragon Knight.",
+				"invis_sword":"Use Shadow Blade to start ganking foes to maintain your map control giving you more freedom to farm after your initial tower early-game raid.",
+				"mjollnir":"This item offers the damage that you need while also providing further reason for enemies' not to attack you. Because of Dragon Knight's ultimate ability, he needs more damage output.",
+				"helm_of_the_dominator":"Helm of the Dominator offers the ability to control a creep. Select one that let's you stack and pull the Ancients camp. After several minutes of stacking, you can use your ultimate's splash damage to take out the massive stock for massive gold.",
+				"maelstrom":"We get this item for the farming capabilities and the extra damage that you need.
+
+After your initial rush to take down towers during your first level in your ultimate; you need to resume with the pace of the game. Maelstrom helps you keep lanes pushed and you farming.",
+				"soul_ring":"You want Soul Ring to use Breathe Fire as much as possible to farm and deal damage towards enemies.",
+				"ancient_janggo":"Get Drums of Endurance to chase or engage fights faster. The increased attack speed and movement speed will help Dragon Knight move in and out lanes and areas. Also good for the mid-game conclusion."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_tail",
+			"2":"dragon_knight_dragon_blood",
+			"3":"dragon_knight_breathe_fire",
+			"4":"dragon_knight_breathe_fire",
+			"5":"dragon_knight_breathe_fire",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_breathe_fire",
+			"8":"dragon_knight_dragon_blood",
+			"9":"dragon_knight_dragon_blood",
+			"10":"dragon_knight_dragon_blood",
+			"11":"dragon_knight_elder_dragon_form",
+			"12":"dragon_knight_dragon_tail",
+			"13":"dragon_knight_dragon_tail",
+			"14":"dragon_knight_dragon_tail",
+			"15":"attribute_bonus",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_breathe_fire":"Breathe Fire is your way to take down waves of creeps with rapid succession. Abuse this move with Soul Ring and let Dragon Blood regenerate your life.",
+				"dragon_knight_dragon_tail":"Dragon Tail's stun duration does not scale very well for its levels. Getting on in Dragon Tail is sufficient enough considering you need Breathe Fire and Dragon Blood to farm.",
+				"dragon_knight_dragon_blood":"The increased armor and life regeneration from Dragon Blood is immense. Be sure to get this ability early so you can take full advantage of Soul Ring.",
+				"dragon_knight_elder_dragon_form":"Use your ultimate take down towers and its splash damage to kill stacked ancient creeps. This is your early-game advantage, use it to coordinate fast tower destruction and earn more map power to your team."
+		}
+	}
+}

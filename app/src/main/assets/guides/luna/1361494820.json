@@ -1,0 +1,95 @@
+{
+	"Hero":"luna",
+	"Title":"Luna Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"black_king_bar",
+				"helm_of_the_dominator",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"manta",
+				"satanic",
+				"butterfly",
+				"greater_crit",
+				"monkey_king_bar",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"For your future Tranquil Boots.",
+				"heart":"In case you need more HP and don`t have a lot of damage in order to go for a Satanic, Heart is the right choice. You can get it straight after Manta/BKB.",
+				"black_king_bar":"Required in order to be able to right click people without being interrupted.",
+				"monkey_king_bar":"Daedalus adds more overall damage but MKB can help against those pesky evasion heroes (PA, Brewmaster, etc. or Butterfly carries).",
+				"butterfly":"Butterfly coupled with BKB makes you really hard to kill. Adds a bit of damage and attack speed too.",
+				"greater_crit":"If you need more damage :)",
+				"manta":"Manta for survivability and increased DPS. Can be replaced by Drums.",
+				"satanic":"If you feel you need more HP and have enough damage to benefit from the lifesteal, then go for it. Usually you want to get a damage dealing item first (to make full use of the lifesteal).",
+				"helm_of_the_dominator":"Think of Helm as your Midas in a way - if you are doing well, go for it and stack the ancients. If you are having a hard time, get the BKB first.",
+				"tranquil_boots":"Allows you to jungle and stay in lane."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lunar_blessing",
+			"2":"luna_lucent_beam",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_moon_glaive",
+			"9":"luna_moon_glaive",
+			"10":"luna_lunar_blessing",
+			"11":"luna_eclipse",
+			"12":"luna_lunar_blessing",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"luna_lucent_beam":"You need to max Lucent Beam asap as your ult depends on it. It is also a pretty strong nuke too. Get it on level 1 if your lane is going to be contested.",
+				"luna_moon_glaive":"It is not recommended getting this early as it pushes the lane which is generally bad. Get it around level 10 in order to jungle quicker.",
+				"luna_lunar_blessing":"Ideally you want to start with Lunar Blessing in order to increase your last hit power. Do not get it on level 1 if you expect your lane to be contested.",
+				"luna_eclipse":"Avoid using it when there are creeps around. Treat it like a Juggernaut ult - look for isolated targets."
+		}
+	}
+}

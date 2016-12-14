@@ -1,0 +1,97 @@
+{
+	"Hero":"night_stalker",
+	"Title":"The way night stalker should be played",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"branches",
+				"magic_stick"
+			],
+			"early/mid game":
+			[
+				"magic_wand",
+				"phase_boots",
+				"helm_of_the_dominator",
+				"basher"
+			],
+			"mid/late with good farm":
+			[
+				"heart",
+				"abyssal_blade",
+				"armlet",
+				"satanic",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"heavens_halberd",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"this will get you out of stickier situations than a 20 man bukakke.",
+				"tango":"these veggies give you essential micro nutrients and heal you. quality starting item.",
+				"phase_boots":"get this as fast as you can. +24 damage and once you are level 9 it gives you max move speed at night. whoa",
+				"heart":"damage bonus, huge health bonus, imbalanced regen bonus. Pure Tank.",
+				"black_king_bar":"a nice item to have when there is a lot of magical creatures and stun on the field.",
+				"rapier":"When you are peppering the angus harder than a you would a $5 lady boy from thailand, i suggest to invest in this.",
+				"greater_crit":"800+ crits? Sounds like pure damage.",
+				"basher":"+40 damage and a chance to stun? combined this with phase boots HoD early game, you are unstoppable. +93 damage with a .7 AS. ITS IMBALANCED AND PURE 100% DAMAGE.",
+				"armlet":"i like to get this after heart so you can have it permanently on. More AS more damage more HP. MORE DAMAGE........",
+				"satanic":"Imbalanced brood mother life steal, more HP, more damage............ PURE LIFESTEAL.",
+				"helm_of_the_dominator":"+20 damage and lifesteal. you make this into satanic later. i like to get this second after phase boots. ",
+				"abyssal_blade":"The cherry on top of your chadron sundae. +100 damage.... DO I NEED TO SAY HOW PURE THAT IS?",
+				"heavens_halberd":"The butterfly for strength heroes. QUALITY ITEM."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_hunter_in_the_night",
+			"3":"night_stalker_void",
+			"4":"night_stalker_crippling_fear",
+			"5":"night_stalker_void",
+			"6":"night_stalker_hunter_in_the_night",
+			"7":"night_stalker_void",
+			"8":"night_stalker_hunter_in_the_night",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_darkness",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"strong nuke. at level 7 you will be smashing everybody with the force of a 1000 manlets.",
+				"night_stalker_crippling_fear":"1 point in this will do until later. 5 second silence is more than enough for early/mid game.",
+				"night_stalker_hunter_in_the_night":"This is why night stalker is all about 110.4532777777% pure damage. when you max this you get max movement speed with phase boots. your Attack speed will be low to mid .7, you guys do the math. those items i suggested +.7 AS+ max move speed= Max Butt Plundering.",
+				"night_stalker_darkness":"its good to use to keep night time extended. i do not like to use it before level 11 though. some times you have to save some nubbys on your team from dying or escape death yourself.",
+				"attribute_bonus":"Chadron Approved."
+		}
+	}
+}

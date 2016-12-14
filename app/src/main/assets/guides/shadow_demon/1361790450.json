@@ -1,0 +1,105 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"Shadow Demon Mid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff"
+			],
+			"Alternative Core":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"necronomicon",
+				"sheepstick",
+				"mekansm",
+				"pipe",
+				"ghost",
+				"invis_sword",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Gives great mobility that can be used to catch opponents who are out of range or to escape. Makes Shadow Demon very slippery when combined with Force Staff.",
+				"boots":"Early move speed to secure runes.",
+				"magic_wand":"A Magic Wand can help against opponents who frequently use abilities against you. The Wand can be argued to be optional in some match-ups.",
+				"ghost":"A good defensive item if Shadow Demon is being focused by carries during team fights. Be careful of magic damage while you are in Ghost Form.",
+				"bottle":"The starting items allow you to have a Bottle delivered to you right before the two minute mark if you are able to get most of your last hits.",
+				"phase_boots":"Active allows you to check runes or gank lanes faster. Damage it provides helps you with last hits and denies.",
+				"mekansm":"If no one else on your team has one this is a great pick up. Active gives area of effect healing and armor buff which can decide a team fight.",
+				"pipe":"Active can save you and team mates from magic damage. The item itself give you substantial health regeneration and magic resistance.",
+				"sheepstick":"Active can disable a dangerous carry on their team. Item itself gives every stat that Shadow Demon could want.",
+				"force_staff":"Great tool for escaping or attacking. (Getting out of a dangerous opponent's range, pushing yourself to catch an enemy, etc.)",
+				"necronomicon":"Active adds pushing power while the item itself gives good stats to Shadow Demon. Note that LVL 3 Necronomicon gives an ally that can detect stealth and the ranged ally has a mana burn ability.",
+				"invis_sword":"The active can be used offensively or defensively. For example: engage on someone who is farming alone or push a tower hard and walk away when someone shows up. In both cases be careful of stealth detection.",
+				"arcane_boots":"Early game the active helps sustain your mana in lane. Later your allies benefit from the active as well.",
+				"ancient_janggo":"Good stats for you while giving a passive and active that benefits your team. Note that buying the recipe again will refresh the drum's charges if needed."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_shadow_poison",
+			"3":"shadow_demon_shadow_poison",
+			"4":"shadow_demon_soul_catcher",
+			"5":"shadow_demon_shadow_poison",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_shadow_poison",
+			"8":"shadow_demon_soul_catcher",
+			"9":"shadow_demon_soul_catcher",
+			"10":"shadow_demon_soul_catcher",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"Be careful not to disrupt your team using this skill at inopportune times.",
+				"shadow_demon_soul_catcher":"Note the spell targets a random unit in a circle. Try to catch a unit alone or at the edge of the circle. ",
+				"shadow_demon_shadow_poison":"This skill can be used to scout ahead since the projectile reveals the fog of war.",
+				"shadow_demon_shadow_poison_release":"Use if Soul Catcher will run out before Shadow Poison expires if the target might escape alive.",
+				"shadow_demon_demonic_purge":"While good for dealing damage and slowing a high priority target, remember this skill removes positive buffs. "
+		}
+	}
+}

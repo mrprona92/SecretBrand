@@ -1,0 +1,115 @@
+{
+	"Hero":"furion",
+	"Title":"6.82 - Standard Nature's Prophet (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"clarity",
+				"clarity"
+			],
+			"Core Items - Carry":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"maelstrom",
+				"desolator",
+				"mjollnir",
+				"greater_crit",
+				"sheepstick"
+			],
+			"Core Items - Pusher":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"invis_sword",
+				"mekansm",
+				"necronomicon",
+				"desolator"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"black_king_bar",
+				"orchid",
+				"monkey_king_bar"
+			],
+			"Last updated: 2/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"hand_of_midas":"Midas first before anything else to maximize your farming capabilities.",
+				"mekansm":"Pick this up if no other support will, this should help your pushing capabilities.",
+				"sheepstick":"Nature's Prophet range makes Scythe of Vyse a very good item; especially if you can get it early enough to still keep ganking. Also use it to prevent ganks for when you want to teleport away as the duration is long enough.",
+				"orchid":"Orchid Malevolence keeps enemies down and you dealing fast damage. An item to consider if the team is heavily-reliant on specific stuns or initiations.",
+				"dagon":"Teleport, Medallion, Dagon. Take out supports and heroes that are alone to snag easy kills and move your way up in terms of levels and gold.",
+				"necronomicon":"Level 3 Necromonic really let's Nature's Prophet catch invisible heroes thanks to its True Sight and maximizes his pushing capabilities with its minions and attack speed passive.",
+				"ultimate_scepter":"Aghanmin's increases farming capabilities and damage through your ultimate.",
+				"black_king_bar":"Black King Bar ensures you can dish out the damage without getting interrupted. Use it in tight situations and fights that you want to stay distanced from.",
+				"monkey_king_bar":"Monkey King Bar is specifically for evasion heroes and can sometimes be great if you want a little bit more attack speed for Nature's Prophet.
+
+Typically the damage is quite good as well, however Daedalus overshadows its potential.",
+				"invis_sword":"This is a good escape item for Nature's Prophet and should be heavily considered if unable to flee appropriately and/or constantly targeted during team fights.
+
+You remain invisible as you are using your ability: Teleport.",
+				"mjollnir":"Speed and farm. As a carry, you want to farm and push lanes while you do it. Maelstrom and subsequently; Mjollnir, let's you do just that.",
+				"maelstrom":"Maelstrom let's you push hard and farm just as hard. Maelstrom builds nicely into Mjollnir and gives the needed attack speed for Nature's Prophet.",
+				"desolator":"Desolator is great for team-fights and tearing down towers. Nature's Prophet has a naturally good attack speed as he levels up. All he needs is the damage to take advantage of it.",
+				"ethereal_blade":"Ethreal Blade with your Dagon is another gimmick combination that starts losing its value later on in the game; however, its stats let's Nature's Prophet transition into a damage-dealer or pusher.",
+				"medallion_of_courage":"Medallion gets you the jump on any unsuspecting foes and decrease their armor as you have the superior attack speed."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_teleportation",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"Sprout can be tricky to use properly in ganks, try to aim around the target rather than on him when selection where to cast Sprout.",
+				"furion_teleportation":"Use Teleportation often to go back to fountain or gank nearby weak foes. It's also great to use to split-push and can be activated even when you're invisible without breaking the invisibility. ",
+				"furion_force_of_nature":"Depending when you want to start pushing,  you can max levels in Nature's Call or you can only take three levels",
+				"furion_wrath_of_nature":"Use this ability to farm jungle creeps and weak creeps across the map. It may also hit fleeing enemy heroes, so good luck to you!
+
+This is also a great ability in team-fights and help counter-push."
+		}
+	}
+}

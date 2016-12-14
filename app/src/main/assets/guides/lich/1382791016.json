@@ -1,0 +1,78 @@
+{
+	"Hero":"lich",
+	"Title":"GreyShark.Lich",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"courier",
+				"branches"
+			],
+			"Early Game":
+			[
+				"magic_wand",
+				"tranquil_boots",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"force_staff"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"refresher",
+				"pipe"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_dark_ritual",
+			"6":"lich_chain_frost",
+			"7":"lich_dark_ritual",
+			"8":"lich_frost_armor",
+			"9":"lich_frost_nova",
+			"10":"lich_frost_nova",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Enfeeble",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ослабляет врага, снижая его физический урон. Действует 20 секунд.",
+        "notes": "Enfeeble нельзя развеять очищением.",
+        "dmg": "",
+        "attrib": "СНИЖЕНИЕ: <b><font color=\"#ffffff\">30/60/90/120</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 95/105/115/125<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Даже величайшие воины не могут устоять перед ужасом, нагоняемым Атропосом.",
+        "hurl": "Bane",
+        "name": "bane_enfeeble",
+        "youtube":"cSZQr6qFcnQ",
+        "id": 0
+    },
+    {
+        "dname": "Brain Sap",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Высасывает жизненную энергию врага, нанося ему урон и восстанавливая здоровье Bane.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">90/160/230/300</font></b>",
+        "attrib": "ЛЕЧЕНИЕ: <b><font color=\"#ffffff\">90/160/230/300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/125/150/175<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14",
+        "lore": "Атропос не знает большего счастья, чем пожинать плоды устрашения.",
+        "hurl": "Bane",
+        "name": "bane_brain_sap",
+        "youtube":"aO14tLgQXVo",
+        "id": 1
+    },
+    {
+        "dname": "Nightmare",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Погружает вражеского или дружественного героя в кошмарный сон, в котором тот получает урон каждую секунду. Если уснувший герой подвергнется атаке, он проснется, а атаковавший его юнит погрузится в сон вместо него. Спящая цель мгновенно просыпается при получении урона.",
+        "notes": "Nightmare наносит урон и союзникам, и самому герою — так можно добить союзника или самого себя.<br/>Любой источник урона, кроме этой способности, разбудит юнита, но эффект перенесется только при физических атаках.<br/>В первую секунду действия Nightmare цель заклинания неуязвима.<br/>Bane может пробудить себя от Nightmare.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">20/20/20/20</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">500/550/600/650</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 165/165/165/165<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/15/14/13",
+        "lore": "Умение, украденное у богини Никташи, погружает жертву в бренный сон.",
+        "hurl": "Bane",
+        "name": "bane_nightmare",
+        "youtube":"FExnzA0Pes4",
+        "id": 2
+    },
+    {
+        "dname": "Fiend's Grip",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — захватывает врага, в результате чего он застывает на месте и получает большой урон. Также из жертвы высасывается мана (количество зависит от ее максимального числа).<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Действует на невосприимчивых к магии юнитов, высасывая у них ману и выводя из строя, но не наносит им урона.",
+        "dmg": "",
+        "attrib": "ВЫСАСЫВАЕТ МАНЫ: <b><font color=\"#ffffff\">5%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5/5/5</font></b><br/>УРОН: <b><font color=\"#ffffff\">100/155/215</font></b><br/><font color=\"#6fe871\">ВЫСАСЫВАЕТ МАНЫ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">10%</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">7</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">155/215/270</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/300/400<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 100",
+        "lore": "Жертвы Атропоса растерзываются на куски созданиями из собственных кошмаров.",
+        "hurl": "Bane",
+        "name": "bane_fiends_grip",
+        "youtube":"GFDyNOUnLFw",
+        "id": 3
+    },
+    {
+        "dname": "Закончить Nightmare",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, переключаемая</font></b>",
+        "desc": "Заканчивает действие всех Nightmare.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Bane",
+        "name": "bane_nightmare_end",
+        "id": 4
+    }
+]

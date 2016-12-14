@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 10 Strength<br/>+ 26 Agility<br/>+ 10 Intelligence<br/>+ 15 Attack Speed<br/>+ 10% Movement Speed",
+  "cd": 50.0,
+  "components": [
+    "yasha",
+    "ultimate_orb"
+  ],
+  "qual": "epic",
+  "notes": "Has a 0.1 second cast time upon which you are invulnerable.Many effects are removed upon using Manta.",
+  "desc": "Active: Mirror Image - Creates 2 illusions of your hero that last 20 seconds.<br/><br/>Melee illusions deal 33% damage and take 250% bonus damage.  Ranged illusions deal 28% damage and take 300% bonus damage.<br/><br/>Percentage based movement speed bonuses from multiple items do not stack.",
+  "dname": "Manta Style",
+  "dotaId": "manta",
+  "mc": 165.0,
+  "img": "manta_lg.png",
+  "lore": "An axe made of reflective materials that causes confusion amongst enemy ranks.",
+  "id": 147,
+  "created": true,
+  "cost": 4950
+}

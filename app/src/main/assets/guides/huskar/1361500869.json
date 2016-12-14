@@ -1,0 +1,111 @@
+{
+	"Hero":"huskar",
+	"Title":"The Right-clicker Guide for Huskar.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"helm_of_iron_will"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"helm_of_the_dominator",
+				"black_king_bar"
+			],
+			"Luxury Items":
+			[
+				"monkey_king_bar",
+				"satanic",
+				"greater_crit",
+				"heart"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"mekansm",
+				"ultimate_scepter",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"helm_of_iron_will":"Gives you Armor and good Health Regen. You can buy 2 if you want, because you will turn them into an Armlet and a Dominator.",
+				"gauntlets":"Early extra Strenght for more HP and to hit harder.",
+				"branches":"Best item cost efficient for early stats. An Ironwood Branch ensures a Good Game.",
+				"boots":"Boots are a really important item on Huskar. Buy them on the Side Shop.",
+				"flask":"Dispels on damage, great consumable for fast healing.",
+				"tango":"Doesn't dispel on damage. Great consumable to slowly regain health while in battle.",
+				"power_treads":"This is definitely the first item you HAVE to get. ",
+				"mekansm":"No, I'm not joking. It is great if you want to help your team.",
+				"urn_of_shadows":"Great item choice if you plan on ganking or participating a lot in teamfights.",
+				"ultimate_scepter":"This item will improve your ultimate by greatly reducing the cooldown. It is a good item if you don't want to be just a killer but instead help your team to get the kills.",
+				"heart":"One of the best items for any hero. Lots of Strength, HP, and Health Regen, you couldn't ask for more!",
+				"black_king_bar":"If the enemy team has lots of disables, this item is a great choice that will let you not only use your ultimate without it's downside, but will also let you right click them to death.",
+				"monkey_king_bar":"Pretty damage cost efficient item, which will make you able to deal with pesky heroes with evasion.",
+				"greater_crit":"Critical strike!",
+				"armlet":"Great item for Huskar, with a little pratice using its active, you will be hard to kill.",
+				"satanic":"Make use of that Dominator of yours and turn it into a better item. Upon activation, you will get an insane Lifesteal boost for a few seconds.",
+				"helm_of_the_dominator":"One of the best items for Huskar. It will give you Lifesteal.",
+				"heavens_halberd":"If you aren't doing great and your team needs disables, buy it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_burning_spear",
+			"4":"huskar_berserkers_blood",
+			"5":"huskar_berserkers_blood",
+			"6":"huskar_life_break",
+			"7":"huskar_burning_spear",
+			"8":"huskar_berserkers_blood",
+			"9":"huskar_burning_spear",
+			"10":"huskar_inner_vitality",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"Heals more the more the target is wounded. It is great at late game, and not really good early game.",
+				"huskar_burning_spear":"Great for harassing/zoning/poking. It is a great skill early and mid game, not that useful late game. Remember to turn it off when you're on low health if you have lifesteal.",
+				"huskar_berserkers_blood":"The more wounded you are, the faster you will hit, and the more magic resist you will get.",
+				"huskar_life_break":"Great spell for taking out single enemies or to extract some of your Health to get more stacks on your passive.
+
+Despite people using it to initiate, ONLY do this if you're going against one. If you're in a teamfight, use this spell when you're half HP or lower, or else you will just kill yourself."
+		}
+	}
+}

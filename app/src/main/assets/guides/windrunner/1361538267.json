@@ -1,0 +1,140 @@
+{
+	"Hero":"windrunner",
+	"Title":"Jabbz' Guide to playing Windrunner as Semi-Carry/Ganker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"flask",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bracer"
+			],
+			"Mid Game":
+			[
+				"phase_boots",
+				"ring_of_health",
+				"orchid",
+				"helm_of_the_dominator",
+				"force_staff",
+				"ancient_janggo"
+			],
+			"Late Game":
+			[
+				"mjollnir",
+				"monkey_king_bar",
+				"satanic",
+				"black_king_bar",
+				"greater_crit",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"+2 To all attributes from the 2 Iron Branches generally helps you in Lane with harassing, Lasthitting and surviving. A Must-Have.",
+				"circlet":"Like the Iron Branches are the stats very important for the laning phase. Can Later be upgraded into a Drum if needed/wanted.",
+				"boots":"Some people skip Boots on Windrunner, since you can just use your Windrun. In this build you need to buy them to upgrade them into Phase Boots later on. Also helps alot in the laning stage.
+
+A must-have.
+",
+				"magic_wand":"One of the best items in the game. The Magic Wand will help you a lot in enemy ganks, in the normal laning stage and also when you are ganking yourself.
+
+A must-have.",
+				"flask":"Getting a life flask is also important in this build, as you need some fast regeneration after an enemy gank to be able to sustain in lane even after such ganks.",
+				"tango":"Getting 2 Tangopacks is very important in this build, as you try to harass the enemy as much as possible while still getting last hits which forces you to take some damage yourself. You will need the regeneration badly.",
+				"phase_boots":"Upgrade your standard boots into Phase Boots as fast as possible so you can harass like crazy and lasthit super easily. This item will make your laning stage much easier.
+
+A must-have.",
+				"ring_of_health":"Helps you to stay in lane against enemies who harass alot. Only get the ring of health if you can't stay on your lane because of harassment, since there is no real useful upgrade from this item but Linkin's Sphere. (which you will not get in this build)
+
+This is a situational item.",
+				"bracer":"You will need those extra HP points in lane, and the damage will also be very nice to have.
+The Bracer can be upgraded from your Circlet, and later into a Drum. 
+
+This is a situational item.",
+				"sheepstick":"No Need to explain.",
+				"orchid":"Rushing Orchid is the core of this build. The mana regen turns you into a powershot-spamming-machine, the intelligence gives you damage, the attackspeed makes you able to rightclick-carry later and the silence makes ganks so much easier!
+
+A must-have.",
+				"force_staff":"If you need mobility, get this item. If you plan on ganking a lot, get this item. If you plan on farming a lot on lane, don't get this item. It's as easy as that!
+
+This is a situational item.
+",
+				"black_king_bar":"If you need the magic immunity badly you can get a BKB. You should atleast have the \"Mid Game\" must-have items, before buying it.
+
+This is a situational item.",
+				"monkey_king_bar":"You can either get the MKB or Mjollnir first. When getting the MKB you should've atleast skilled your ultimate once, as the ministuns from MKB are able to continuely chainstun your target when using Focus Fire.
+
+A must-have.",
+				"greater_crit":"If you really want to make a ton of damage you should get Daedalus. The crits will trigger a lot when using your Ultimate, making your enemy die in a splitsecond.
+
+This is a situational item.",
+				"satanic":"If you bought a HotD you're now able to upgrade it into a Satanic. The huge lifesteal and HP bonus will make you tanky enough to survive most of the teamfights.
+
+This is a situational item.",
+				"mjollnir":"You can either get Mjollnir or MKB first. Combining the chainlightning abilty from the Maelstrom/Mjollnir with your ultimate deals a lot of damage.
+
+A must-have.
+",
+				"helm_of_the_dominator":"If you need the lifesteal badly go for it. Only get this item if you think the game will go on for a long time, as you will upgrade it into a Satanic later.
+
+This is a situational item.",
+				"ancient_janggo":"A very good overall item. This is situational, but a very good choice.
+
+This is a situational item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_focusfire",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"If you land a shackle on 2 enemy heroes in a teamfight or gank, you basicly won it. The long stun on 2 targets is very strong but needs some training to be used perfectly.",
+				"windrunner_powershot":"A very strong harassing and lasthitting tool. You can deal a big amount of damage from long range without getting in dangerous positions. Especially strong in the early-game/laning-phase.",
+				"windrunner_windrun":"This abilty will make you invincible to physical attacks (except from enemies with a 100% hit chance) and makes you super fast while slowing enemies nearby you. Use it to escape or engage.",
+				"windrunner_focusfire":"Gives maximum attack speed on a single target until you change target or the duration runs out. This build is therefore based on Items that trigger often from the high attackspeed, since your damage is reduced while using ultimate.",
+				"attribute_bonus":"Stats are not needed in the early-midgame as Windrunner. You can get them later."
+		}
+	}
+}

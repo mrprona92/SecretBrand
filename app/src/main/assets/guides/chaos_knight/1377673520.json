@@ -1,0 +1,91 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"운을 따라 4배의 강력함이 너에게 혼돈을 가지고 오리라. 혼돈 기사.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"circlet",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"quelling_blade",
+				"bracer",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"armlet",
+				"vladmir",
+				"basher"
+			],
+			"luxury":
+			[
+				"manta",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"막타를 더 쉽게 먹고 초반에 평타 딜링이 좀더 강력하기 위해 벌목 도끼를 구매합니다.",
+				"circlet":"모자른 능력치와 초반 추가 딜링을 위하여 전투 팔찌 하위 아이템을 삽니다.",
+				"power_treads":"공격속도와 힘 능력치가 붙은 이 아이템은 혼돈 기사에게 좋습니다.",
+				"bracer":"모자른 능력치와 초반 추가 딜링을 위하여 전투 팔찌.",
+				"vladmir":"좋은 흡혈효과와 추가 데미지 상승 효과는 궁극기 사용시 생성되는 분신들에게 아주 좋은 효과를 부여합니다.",
+				"heart":"힘 영웅인 혼돈 기사 다른 탱킹 영웅이 없다면 가주세요. 그리고 어차피 타라스크를 가면 분신들의 피가 엄청 안답니다.",
+				"basher":"분신을 포함한 4명의 혼돈의 기사가 해골 파쇄기를 들고 한 명을 두들겨 팬다고 상상해보세요. 100%로 1초에 한번 기절 효과를 먹습니다.",
+				"manta":"물론 만타 도끼의 분신은 좀 더 약하지만, 만타까지 쓰면 6명의 혼돈의 기사가 생성됩니다. 적군이라면 그 광경은 보고 싶지도 않습니다.",
+				"armlet":"궁극기 사용 전에 모르기디언의 완갑을 켜보세요 분신들이 완갑을 킨 상태로 능력치가 상승되어 등장합니다. 순간 딜링이 아주 많이 올라갑니다.",
+				"ancient_janggo":"좋은 능력치 상승과 분신들이 추가적인 공격속도와 이동속도를 얻기 위해 이 북은 필수적입니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_chaos_strike",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_phantasm",
+			"7":"chaos_knight_reality_rift",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_reality_rift",
+			"10":"chaos_knight_chaos_bolt",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"로또 기술이라 합니다. 4초의 기절이 걸리면 아싸! 1초가 걸리면 눈물. 최대 4초는 기술이 레벨 3일 때부터 적용되니 초반에 3만 찍어주고 현실의 군열을 먼저 마스터 해주세요!",
+				"chaos_knight_reality_rift":"혼돈의 기사에게서 당신은 절대 도망 갈 수 없습니다. 마스터 시 6초의 짧은 재사용 시간을 보유하고 있는 이 기술은 혼돈 기사를 무서운 사냥꾼으로 만들어 줍니다.",
+				"chaos_knight_chaos_strike":"10%의 확률 밖에 없지만 마스터시 300%의 치명타 피해량! 역시 로또 기사입니다. 크리가 뜨기만 한다면 엄청 아픕니다.",
+				"chaos_knight_phantasm":"다른 분신들과 다르게 100%의 피해를 주는 무서운 분신들. 잘 큰 혼돈 기사가 4명이 우르르 몰려온다면 헬입니다."
+		}
+	}
+}

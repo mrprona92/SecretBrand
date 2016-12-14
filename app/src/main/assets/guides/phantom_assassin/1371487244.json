@@ -1,0 +1,117 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Brawler Phantom Assassin",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"quelling_blade",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"ring_of_aquila"
+			],
+			"Early-Mid Game Core":
+			[
+				"medallion_of_courage",
+				"basher",
+				"tpscroll"
+			],
+			"Mid Game Options":
+			[
+				"vladmir",
+				"invis_sword",
+				"black_king_bar",
+				"desolator",
+				"sange_and_yasha",
+				"diffusal_blade",
+				"armlet"
+			],
+			"Late Game":
+			[
+				"abyssal_blade",
+				"monkey_king_bar",
+				"assault",
+				"rapier",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"For last hitting power.",
+				"ring_of_protection":"Turn it into Ring of Basilius in the lane by buying a Sage's Mask at the side shop.",
+				"flask":"Use it only when you are missing more than 400 health.",
+				"tango":"Basic regeneration.",
+				"tpscroll":"Always carry one of these to quickly join fights and move where most needed.",
+				"phase_boots":"Its +24 damage is vital for last hitting and allows stronger critical hits. The Phase ability is esential for better mobility for chasing and escaping.",
+				"poor_mans_shield":"The damage block is vital to negate harassment and the +6 Agility improves last hitting,",
+				"vladmir":"With this item and Medallion, you can solo Roshan easily. If you have the chance, buy a Smoke of Deceit to sneak in and go for it. The level, gold and Aegis will greatly increase your advantage.",
+				"ring_of_basilius":"Turn it off if you don't want your creep wave to push. You need the mana regeneration for Dagger spam and the +6 damage improves last hitting.",
+				"assault":"Get it if you have enough damage and need attack speed or if the enemy has Monkey King Bar. The armor will reduce incoming physical damage.",
+				"black_king_bar":"Get this if you are facing heavy magic damage and/or disables.",
+				"rapier":"Get it if you are still balling out of control or if you are on the back foot and need a final desperate fight to go your way.",
+				"monkey_king_bar":"Get it versus Butterfly carriers to counter them.",
+				"basher":"One of the better items for a brawler PA, since it provides a bash to sneak more hits in, extra damage and some HP. It later upgrades into Abyssal Blade.",
+				"armlet":"Armlet toggling is safer for PA, due to Blur's evasion. It's cheap, it has good damage, armor and attack speed and the Armlet toggling helps you survive much longer on low health.",
+				"invis_sword":"The extra damage and attack speed benefit her, The invisibility is also very good for initiating ganks and escaping from sticky situations. Nobody expects a Shadow Blade Mortred.",
+				"sange_and_yasha":"Provides everything a combat oriented PA needs. More health, damage, attack speed and movement speed. It's one of my personal favorite go-to items as PA.",
+				"satanic":"It doesn't give you much damage, but it makes you hard to kill.",
+				"desolator":"+60 damage and -7 armor make your attacks and crits hurt much more than usual. The -armor effect stacks with the one from Medallion, up to a grand total of -13 armor.",
+				"diffusal_blade":"Useful versus heroes with annoying buffs that can be purged, like Dark Seer's Surge, Omni's Repel and Warlock's Golem. The extra stats and mana burn aren't bad either.",
+				"ancient_janggo":"You get this mainly if you are behind. The extra HP and mobility help you fight better. The extra mana and damage are useful side bonuses.",
+				"medallion_of_courage":"The -6 armor debuff makes the target take a lot more damage from your physical hits and critical strikes. Use the Medallion on whoever you want to focus.",
+				"abyssal_blade":"The upgrade for Basher. Better crits, guaranteed stun, but very expensive. Get it if you are balling out of control.",
+				"ring_of_aquila":"First finish the Ring of Basilius at the side shop. Then complete RoA. The extra stats from the Wraith Band increase your damage and HP, making you a better early game brawler."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_blur",
+			"4":"phantom_assassin_stifling_dagger",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Max it out so you can spam it in lane and get last hits from far away and also for the slow, so targets have a lesser chance of escaping you.",
+				"phantom_assassin_phantom_strike":"Use it to chase and blink to allies to escape danger. You can also farm faster with the bonus attack speed, if you can spare the mana.",
+				"phantom_assassin_blur":"One level of it is usually enough until later in the game. 20% evasion is a pretty decent number for one skill point.",
+				"phantom_assassin_coup_de_grace":"Level it up whenever possible. No explaining required.",
+				"attribute_bonus":"No explaining required."
+		}
+	}
+}

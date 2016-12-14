@@ -1,0 +1,90 @@
+{
+	"Hero":"beastmaster",
+	"Title":"Rexxar the Beastmaster (semi-carry)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"clarity",
+				"flask"
+			],
+			"Mid game core":
+			[
+				"boots",
+				"soul_ring",
+				"magic_wand",
+				"tpscroll",
+				"power_treads",
+				"phase_boots"
+			],
+			"Mid game options":
+			[
+				"ultimate_scepter",
+				"blink",
+				"ancient_janggo",
+				"force_staff",
+				"medallion_of_courage",
+				"blade_mail",
+				"cyclone",
+				"necronomicon",
+				"gem"
+			],
+			"Late game options":
+			[
+				"travel_boots",
+				"sheepstick",
+				"orchid",
+				"heart",
+				"assault"
+			],
+			"if you wont":
+			[
+				"hand_of_midas",
+				"invis_sword",
+				"sphere"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_wild_axes",
+			"4":"beastmaster_call_of_the_wild",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

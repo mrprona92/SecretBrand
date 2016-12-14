@@ -1,0 +1,82 @@
+{
+	"Hero":"broodmother",
+	"Title":"Broodmother Jungle Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_regen",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"vladmir"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"orchid",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"butterfly",
+				"greater_crit",
+				"monkey_king_bar",
+				"basher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_regen":"To keep you kicking in the jungle and for your fast Soul Ring.",
+				"tango":"To survive the first smaller creep camps.",
+				"power_treads":"Health and attack speed to increase your frontline capabilities.",
+				"vladmir":"Survivability and pushing power for your spiderlings and the whole team!",
+				"orchid":"Damage, attack speed and a useful silence to win most one versus one battles. Also a replacement for the Soul Ring.",
+				"black_king_bar":"Useful in every teamfight, more health, damage and magic immunity to change the tide of battle.",
+				"monkey_king_bar":"UNAVOIDABLE DAMAGE!",
+				"butterfly":"Two words: MOAR DAMAGE!",
+				"greater_crit":"EVEN MOAR DAMAGE!",
+				"basher":"A personal favourite of mine, to stop those pesky snacks from defending all together. Goes through magic immunity.",
+				"soul_ring":"Endless mana, since you regenerate a lot of health with this Ring and your Nets."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"broodmother_spawn_spiderlings",
+			"2":"broodmother_spin_web",
+			"3":"broodmother_spawn_spiderlings",
+			"4":"broodmother_spin_web",
+			"5":"broodmother_spawn_spiderlings",
+			"6":"broodmother_insatiable_hunger",
+			"7":"broodmother_spawn_spiderlings",
+			"8":"broodmother_spin_web",
+			"9":"broodmother_incapacitating_bite",
+			"10":"broodmother_spin_web",
+			"11":"broodmother_insatiable_hunger",
+			"12":"broodmother_incapacitating_bite",
+			"13":"broodmother_incapacitating_bite",
+			"14":"broodmother_incapacitating_bite",
+			"15":"attribute_bonus",
+			"16":"broodmother_insatiable_hunger",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

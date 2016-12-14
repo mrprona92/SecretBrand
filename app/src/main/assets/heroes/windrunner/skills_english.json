@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shackleshot",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Shackles the target to an enemy unit or tree in a line directly behind it.  If no unit or tree is present, the stun duration is reduced to 0.75.",
+        "notes": "This spell can shackle two enemies together, stunning them both.<br/>Can shackle the target to an enemy unit or tree at most 525/500 behind it.<br/>Shackleshot cannot be disjointed.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "SHACKLE DURATION: <b><font color=\"#ffffff\">1.5/2.25/3/3.75</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/100/110/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "Windranger\u0027s variety of bow skills includes an arrow with thick ropes attached to encumber any escaping target.",
+        "hurl": "Windranger",
+        "name": "windrunner_shackleshot",
+        "youtube":"NZEnx0l_zJ0",
+        "id": 0
+    },
+    {
+        "dname": "Powershot",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Windranger charges her bow for up to 1 second for a single powerful shot, which deals more damage the longer it is charged. The arrow damages enemies and destroys trees along its path. For each enemy that Powershot hits, its damage is reduced by 10%.",
+        "notes": "Powershot will destroy trees in its area of effect.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">120/200/280/360</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">2600</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/100/110/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 9",
+        "lore": "During her early years of training, Lyralei learned to fire powerful arrows that cleaved even trees to reach their targets.",
+        "hurl": "Windranger",
+        "name": "windrunner_powershot",
+        "youtube":"dBHEtbYmask",
+        "id": 1
+    },
+    {
+        "dname": "Windrun",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Increases movement speed and adds evasion from all physical attacks, while slowing movement of nearby enemies.",
+        "notes": "The slow will affect enemies with spell immunity.<br/>Activating Windrun will evade incoming projectiles.",
+        "dmg": "",
+        "attrib": "MOVE SPEED BONUS: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b><br/>EVASION: <b><font color=\"#ffffff\">100%</font></b><br/>ENEMY SLOW: <b><font color=\"#ffffff\">8%/16%/24%/30%</font></b><br/>ENEMY SLOW RADIUS: <b><font color=\"#ffffff\">300/300/300/300</font></b><br/>DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15",
+        "lore": "Lyralei enchants gusts of winds to fight incoming attacks.",
+        "hurl": "Windranger",
+        "name": "windrunner_windrun",
+        "youtube":"XlNv2uF4l_k",
+        "id": 2
+    },
+    {
+        "dname": "Focus Fire",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Windranger channels the wind to gain 500 additional attack speed against a single enemy unit or structure, though with reductions to her attack damage.  Extra damage from secondary item effects is not reduced.  Lasts 20 seconds.<br/>Upgradable with Aghanim\u0027s Scepter.",
+        "notes": "Can target buildings and Spell Immune units.",
+        "dmg": "",
+        "attrib": "BONUS ATTACK SPEED: <b><font color=\"#ffffff\">500</font></b><br/>DAMAGE REDUCTION: <b><font color=\"#ffffff\">50%/40%/30%</font></b><br/>DURATION: <b><font color=\"#ffffff\">20</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">15/15/15</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE REDUCTION:</font></b> <b><font color=\"#ffffff\">30%/15%/0%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/100/125<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60",
+        "lore": "Lyralei\u0027s ability to bombard opponents with a flurry of arrows is unparalleled - even at the expense of accuracy.",
+        "hurl": "Windranger",
+        "name": "windrunner_focusfire",
+        "youtube":"jj7cWGyhj2o",
+        "id": 3
+    }
+]

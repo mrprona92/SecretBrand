@@ -1,0 +1,19 @@
+{
+  "dotaId": "sphere",
+  "id": 123,
+  "img": "sphere_lg.png",
+  "dname": "Linken's Sphere",
+  "qual": "epic",
+  "cost": 5175,
+  "desc": "Passive: Spellblock - Blocks most targeted spells once every 16.0 seconds.<br/>Active: Transfer Spellblock - Temporarily removes Spellblock from the item's owner and transfers it to an allied unit.",
+  "notes": "",
+  "attrib": "+ 15 All Attributes<br/>+ 6 HP Regeneration<br/>+ 150% Mana Regeneration<br/>+ 10 Damage",
+  "mc": false,
+  "cd": 16,
+  "lore": "This magical sphere once protected one of the most famous heroes in history.",
+  "components": [
+    "ultimate_orb",
+    "pers"
+  ],
+  "created": true
+}

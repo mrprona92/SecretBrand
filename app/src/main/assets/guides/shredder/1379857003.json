@@ -1,0 +1,120 @@
+{
+	"Hero":"shredder",
+	"Title":";3Timbersaw RU/ENG",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield"
+			],
+			"Speed and stick, Скорость и магич. палкa":
+			[
+				"boots",
+				"magic_stick"
+			],
+			"Wand stick and mana, Wand Stick и прочие":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"void_stone",
+				"ring_of_health",
+				"pers",
+				"point_booster",
+				"energy_booster",
+				"vitality_booster"
+			],
+			"Required items, Обезательные предметы":
+			[
+				"bloodstone",
+				"heart",
+				"assault",
+				"pipe",
+				"shivas_guard"
+			],
+			"Against powerful carry, Heroes against powerful spell with low cooldown, Предметы против мощных керри.":
+			[
+				"sheepstick",
+				"black_king_bar",
+				"ghost",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"It will look good with a third magic. Хороший блок, к тому же отлично смотрится со второй магией.",
+				"branches":"For survival. A bit of mana and HP. Помогает выжить, т.к добовляет немного Хп и маны.",
+				"boots":"Run away when you need to. Не плохая скорость передвижения, к тому же можно уйьт от врагов.",
+				"magic_stick":"Rescues and mana. Восполение маны и хп в крит. случаях.",
+				"magic_wand":"Saves at critical moments. Сохранение жизни в крит. случае.",
+				"ghost":"Saves from spells and attacks from. Против ударов мощных керри.",
+				"flask":"On emergency. На крайний случай.",
+				"tango":"For initial treatment, because the third magic will not cure us quickly. Для отхиливание на лайне.",
+				"ring_of_health":"After Void Stone gather perseverans. Собирем Perseverence.",
+				"void_stone":"Take a flat bench void stone, ring ofhealth we do not first take, since we have a third magic. Мы берем Void stone потому что нам нужна быстро восполять ману, к тому же у нас есть 3 магия для отхиливания.",
+				"energy_booster":"Mana we will as usual be missed so we get the energy booster. Нам понадобится обьем маны, поэтому берем эту вещь.",
+				"point_booster":"It's better than Vitality Booster and energy booster. Мы берем Point booster потому что это energy booster и vitality booster вместе взятые.",
+				"vitality_booster":"A bit HP. Собираем BloodStone и идем убивать.",
+				"pers":"Replenishment mana regeneration and good HP. Восполение маны и Хп достаточно быстро.",
+				"pipe":"Against powerful spells with low cooldown. Против мощных магии с низким восстоновлениям.",
+				"sheepstick":"Transform, and the onset of action. Парализовать противника, чтобы действовать.",
+				"assault":"A powerful armor. Высокая броня.",
+				"heart":"Most of HP regeneration. Большой хп рег. , и обьем хп.",
+				"black_king_bar":"Heroes against powerful spells with low cooldown. Анти-магия.",
+				"shivas_guard":"Go away, and just a useful thing. Хорошое замедление, просто действуй.",
+				"bloodstone":"Once collected bloodstone, we begin to brutally kill. Обезательный предмет для нашего тимбера, т.к как большой мана рег. и хп рег. , и обьем маны и хп.",
+				"invis_sword":"To go with a smaller HP. Можно уйти или с инициировать бой.",
+				"arcane_boots":"Mana. Восполение и обьем маны."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_reactive_armor",
+			"3":"shredder_timber_chain",
+			"4":"shredder_whirling_death",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Magic together with the second magic does good physical damage.  Хороший урон, магия совместна со второй магией.",
+				"shredder_timber_chain":"Leave, a good cause damage. Можно слинять, или же залететь в толпу, чтобы начать действовать.",
+				"shredder_reactive_armor":"good regeneration. Хорошая рег. хп.",
+				"shredder_chakram":"Magic magic together with the second and third. does good physical damage.",
+				"attribute_bonus":"Mana, armor and HP. Мощный физ. урон, совсместна со второй и первой магией."
+		}
+	}
+}

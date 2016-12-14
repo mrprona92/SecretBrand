@@ -1,0 +1,102 @@
+{
+	"Hero":"disruptor",
+	"Title":"[DMX] Disruptor (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"courier",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"ward_observer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"mekansm",
+				"force_staff",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"orchid",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"blink",
+				"cyclone",
+				"necronomicon",
+				"ghost",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"cyclone":"Très pratique pour placer votre combo sur un héros isolé."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_thunder_strike",
+			"2":"disruptor_kinetic_field",
+			"3":"disruptor_thunder_strike",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_thunder_strike",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_thunder_strike",
+			"8":"disruptor_kinetic_field",
+			"9":"disruptor_kinetic_field",
+			"10":"disruptor_kinetic_field",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_glimpse",
+			"13":"disruptor_glimpse",
+			"14":"disruptor_glimpse",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Votre principal nuke.
+A utiliser pour harass si vous avez beaucoup de regen mana.
+Le sort donne la vision sur sa cible.",
+				"disruptor_glimpse":"Un très bon sort qui permet de renvoyer vos ennemis de là où ils viennent !
+A utiliser sur les héros qui viennent de tp pour les renvoyer à la base",
+				"disruptor_kinetic_field":"Une barrière qui est très utile en teamfight pour placer son ultimate et les sorts de vos alliés.
+Attention cependant, il y a un délai qui rend le sort difficile à placer.",
+				"disruptor_static_storm":"Un très bon ultimate de zone qui fait de bons dégâts AOE tout en silençant vos adversaires.
+A utiliser pendant les teamfights sur le plus de héros possible."
+		}
+	}
+}

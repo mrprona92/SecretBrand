@@ -1,0 +1,129 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Necro Standard build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"mantle"
+			],
+			"First 20 min":
+			[
+				"arcane_boots",
+				"mekansm",
+				"bottle"
+			],
+			"Core":
+			[
+				"phase_boots",
+				"bloodstone",
+				"shivas_guard",
+				"heart",
+				"ultimate_scepter",
+				"rod_of_atos"
+			],
+			"Situational":
+			[
+				"pipe",
+				"force_staff",
+				"necronomicon",
+				"courier",
+				"ward_observer",
+				"ward_sentry",
+				"invis_sword",
+				"ghost",
+				"sheepstick",
+				"black_king_bar",
+				"veil_of_discord",
+				"orchid"
+			],
+			"Luxury/Endgame":
+			[
+				"dagon",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"Some Mana at the beginning!",
+				"branches":"Stats!",
+				"ghost":"If u got focused by enemy carrys",
+				"bottle":"Only MIDLANE!",
+				"ward_observer":"Supporter?",
+				"ward_sentry":"When u got Necrobook u dont need to buy it anymore.",
+				"tango":"Some regen ! On lane get 2 tango!",
+				"courier":"Supporter?",
+				"travel_boots":"Your endgame boots!",
+				"phase_boots":"U need actually good positioning!",
+				"mekansm":"really core Item!",
+				"pipe":"Pipe is a really good item for teamfights and one of an important survivability for you...when you are support its core!",
+				"orchid":"For storm... etc!",
+				"force_staff":"Get this for mobility!",
+				"dagon":"Q + Dagon + Ult..!",
+				"necronomicon":"The most underrated item! Gives u 2 Creeps, that deal Nice dmg, True vision and mana burn on enemy Heros, but when they kill the (red) necrofighter they get tons of damage! and the costs are not even high...",
+				"ultimate_scepter":"For Getting down enemy heros faster(really good for champions that are durable and get stronger as lower their healt is->Huskar etc..)",
+				"heart":"Your main tankyness-Item!",
+				"black_king_bar":"I hope u know what it is...!",
+				"shivas_guard":"Slowing down enemy attacks! and Actually really good armor",
+				"bloodstone":"No more mana Problems!",
+				"invis_sword":"Pubstomp :D",
+				"arcane_boots":"Split it later into bloodstone and phaseboots!",
+				"veil_of_discord":"When enemys have Pipe its helpful!",
+				"rod_of_atos":"really nice for slowing down, underrated by most people!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_heartstopper_aura",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_sadist",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"Ur Main Damage and harassment...Also heals nice, but dont Focus on that, get mekansm!
+Max it  first!",
+				"necrolyte_heartstopper_aura":"Early harassment and Anti regeneration! Get this at lvl 2 and max this at last!",
+				"necrolyte_sadist":"Oh a kill, oh 600 mana!
+Actually u got not only that buff when u kill Enemys(heros and creeps) u actually get it when u denie! so try out to lasthit and denie for getting ur mana pool up!",
+				"necrolyte_reapers_scythe":"That makes Necro a fucker!
+When u see low enemys, unimportant if they can go invis or not, u will deal damage and the stun is also ncie 2 for breaking tp´s...
+YOUR STUN GOES TROUGH BKB BUT NOT THEN DMG!
+get this at lvl 6 11 16!"
+		}
+	}
+}

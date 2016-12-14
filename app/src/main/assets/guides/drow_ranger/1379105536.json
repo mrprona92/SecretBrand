@@ -1,0 +1,116 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"Drow - DPS Carry w/ Slow(6.82)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"wraith_band"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"lesser_crit",
+				"yasha"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"manta",
+				"butterfly"
+			],
+			"luxury":
+			[
+				"magic_wand",
+				"lifesteal",
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"satanic",
+				"monkey_king_bar",
+				"invis_sword",
+				"ring_of_aquila",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Bought for extra damage to make last hits easier to get. Swap for Iron Branch if you don't plan on buying Wraith Band.",
+				"branches":"Buy for stats.",
+				"lifesteal":"Lifesteal works very well on Drow because of her huge damage. Buy early for the ability to jungle(if your lane didn't go well) or buy later for a huge boost in survivabilty(after you have massive damage.)",
+				"boots":"Very important. Speed to help when chasing down people and builds into your treads. Always buy these early, before anything else.",
+				"magic_wand":"Very good item but not always needed. Depends on your lane.",
+				"flask":"Use when to heal large amount after getting rushed or something.",
+				"tango":"Use to keep your already low health close to max. Buy 1 if you feel safe in your lane. I prefer to get 2. Allows me to be more aggressive without worrying about HP.",
+				"travel_boots":"Good in the very late game. Usually sell Treads and buy these after you have a full inventory.",
+				"power_treads":"Always get these. Please. Switch to agi when farming and str when trying to get kills.",
+				"wraith_band":"Good cheap early damage. Get before level 6 or not worth it. Only buy 1.",
+				"black_king_bar":"Only get if necessary - against CC heavy teams. Otherwise a waste of money.",
+				"monkey_king_bar":"Good for damage and because of the bash chance. Highly recommended against any enemies with evasion.",
+				"butterfly":"Very good item on Drow. She can use the extra damage + attack speed and the evasion helps her survive much better. The new active is also helpful. Buy after Daedalus and Manta.",
+				"greater_crit":"Massive damage boost and crit potential. Makes you hit very hard. Get every time.",
+				"manta":"I would get after Daedalus. All around good stat booster and the illusions can be used to help escape or used for extra damage in fight or pushing.",
+				"lesser_crit":"Get for pure damage and crits. Crits with her already high damage can be quite scary. ",
+				"invis_sword":"Not as strong since the cooldown nerf. Still a decent item but its main use is escape. A yasha or crystalys will usually help more.",
+				"satanic":"Very good item for survivability but other items are better to get first. Get as a last item if you already have bought Helm of the Dominator.",
+				"helm_of_the_dominator":"If you bought Morbid you should buy this. ",
+				"yasha":"Can be gotten before Crystalys. I find the extra damage from Crystalys more useful.",
+				"mask_of_madness":"Same notes as HotD but I don't like this as much. The attack speed boost is good but Drow is squishy and the extra damage on you isn't nice.",
+				"ring_of_aquila":"If you're pushing a lot it is worth upgrading your Wraith Band into this. Otherwise not really."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_wave_of_silence",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_trueshot",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_wave_of_silence",
+			"9":"drow_ranger_wave_of_silence",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_wave_of_silence",
+			"13":"drow_ranger_trueshot",
+			"14":"drow_ranger_trueshot",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Drows main ability. 60% slow on lvl 4 is deadly because almost no one can escape. Use for harass in lane because it won't draw the creep agro towards you.",
+				"drow_ranger_wave_of_silence":"Very important skill because of the knockback effect. Great for pushing away enemies to keep your ulti active and the silence is just great. Doesn't act as a stun, however, so it can't cancel TP's. Knockback effect is stronger the closer they are to you.",
+				"drow_ranger_trueshot":"Good overall damage boost. Really shines late game. Use the active when pushing towers/racks or to just push lanes in general.",
+				"drow_ranger_marksmanship":"Until this Drow sucks. Go gank after this with frost arrows + slience. Or farm. Your choice. "
+		}
+	}
+}

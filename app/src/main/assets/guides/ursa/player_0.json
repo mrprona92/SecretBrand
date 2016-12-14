@@ -1,0 +1,51 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "ursa_earthshock",
+        "2": "ursa_fury_swipes",
+        "3": "ursa_earthshock",
+        "4": "ursa_overpower",
+        "5": "ursa_fury_swipes",
+        "6": "ursa_enrage",
+        "7": "ursa_earthshock",
+        "8": "ursa_overpower",
+        "9": "ursa_fury_swipes",
+        "10": "ursa_overpower",
+        "11": "ursa_enrage",
+        "12": "ursa_earthshock",
+        "13": "ursa_fury_swipes",
+        "14": "ursa_overpower",
+        "15": "attribute_bonus",
+        "16": "ursa_enrage",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "ursa_earthshock": "Отличное замедление,но не на 1 уровне.",
+        "ursa_fury_swipes": "Поможет вам разорвать врага еще быстрее.Отлично сочетается с Vladimir\u0027s offering и вторым скиллом.",
+        "ursa_enrage": "Добавляет большое кол-во урона,зависящее от вашего максимального здоровья.",
+        "ursa_overpower": "Божественный скилл,позволяющий рвать на куски наших врагов.Эффективно на начальных уровнях."
+    }
+}, "Hero": "ursa", "ItemBuild": {
+    "ItemTooltips": {
+        "aegis": "С вами не так легко расправиться,если кто-то из ваших врагов решился так подумать.",
+        "abyssal_blade": "Их мучениям не будет конца.",
+        "vladmir": "Вещь,которая сделает вас богоподобным.Без неё вам нет дороги к Рошану.",
+        "heart": "Делает вас более живучим.Ульта становится лучше.",
+        "phase_boots": "Для того,чтобы догнать трясущегося от страха противника и разодрать его на куски.",
+        "rapier": "Пора уже закончить это.",
+        "bfury": "Пусть друзья вашей жертвы тоже почувствуют ваш гнев."
+    },
+    "Items": {
+        "Начальная стадия": ["slippers", "stout_shield", "tango"],
+        "Ранняя стадия игры": ["poor_mans_shield", "blades_of_attack", "ring_of_protection", "ring_of_regen"],
+        "Основные предметы": ["vladmir", "phase_boots", "poor_mans_shield", "aegis"],
+        "Было бы неплохо": ["heart", "abyssal_blade", "rapier", "bfury"]
+    }
+}, "Title": "Ursa is strong(line)(rus)"}

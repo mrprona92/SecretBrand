@@ -1,0 +1,124 @@
+{
+	"Hero":"bane",
+	"Title":"6.82 - Standard Bane (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"courier",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"arcane_boots",
+				"black_king_bar"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"blink",
+				"mekansm",
+				"ultimate_scepter",
+				"necronomicon"
+			],
+			"Extension Items":
+			[
+				"force_staff",
+				"sheepstick",
+				"rod_of_atos"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink is to help you gank on unsuspecting heroes with your Nightmare ability. It's a little harder to get than Force Staff, but just as great, if not better.",
+				"ghost":"This item is to help you be able to channel Fiend's Grip without being interrupted. Pop it before channeling your abilities to avoid physical heroes from targeting you.",
+				"flask":"Make sure to buy the recipe for Soul Ring if you have the gold.",
+				"mekansm":"Mekansm is a nice item but not something Bane likes to go for given his range for his ultimate and desire to stay in the back of the fight. Good for times when no one else wants to get it.",
+				"urn_of_shadows":"An early Urn of Shadows keeps Bane alive and healing his allies. The extra health and mana regeneration is great for a Bane who wants to snag some early coordinated kills.",
+				"cyclone":"Extra movement speed and a good disable that can be the deciding factor to your life or death of an enemy.",
+				"force_staff":"Use force staff to unsuspectingly initiate on single opponents. Also great as an escape as Bane's movement is abysmal.",
+				"necronomicon":"Use Necronomicon minions to target and kill enemies under Fiend's Grip. Upgrade to level 3 if your team contains any stealth heroes.",
+				"ultimate_scepter":"Aghanim's Scepter lets you safely cast your ultimate without fear of carries targeting you specifically. Be sure to keep at a safe distance as you fire away all your abilities then ultimate.
+
+With Aghanim's physical attacks become Nightmare'd automatically letting you target the stunner safely.",
+				"black_king_bar":"Black King Bar let's you pop your ultimate without fear of others interrupting you with stuns or disables. Be wary that others may jump you with auto-attacks if your positioning is very poor. So don't think this makes you automatically safe.",
+				"soul_ring":"Use Soul Ring in combination with Brain Sap to maintain your health and to deal immense damage to your opponent's.
+
+Buy the recipe for this item at the start.",
+				"rod_of_atos":"Provides a nice glob of health, more intelligence and is a good item when in a pinch with Bane. Rod of Atos has an incredible range letting you open with it at ease."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_nightmare",
+			"2":"bane_brain_sap",
+			"3":"bane_brain_sap",
+			"4":"bane_nightmare",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_brain_sap",
+			"8":"bane_enfeeble",
+			"9":"bane_enfeeble",
+			"10":"bane_enfeeble",
+			"11":"bane_fiends_grip",
+			"12":"bane_enfeeble",
+			"13":"bane_nightmare",
+			"14":"bane_nightmare",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bane_enfeeble":"Enfeeble physical heros to really weaken their striking power. Great to diminish a physical carry's impact in fights.",
+				"bane_brain_sap":"Nightmare then Brain Sap whittles down foes. Use Brain Sap to regain life or to nuke down foes who are trying to scurry away.",
+				"bane_nightmare":"Be wary of using nightmare on the right heroes, not the ones the team is targeting but those that may cause trouble for the team. You can use nightmare on yourself to avoid being targeted by physical heroes.
+
+Nightmare ends when an ability is cast on the target. Use it to set up skillshot abilities.",
+				"bane_fiends_grip":"Use your ultimate after using nightmare on another hero. Players can target and hurt the hero you are using Fiend's Grip on, so make sure to tell them so.",
+				"bane_nightmare_end":"Brush your teeth."
+		}
+	}
+}

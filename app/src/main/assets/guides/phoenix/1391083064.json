@@ -1,0 +1,120 @@
+{
+	"Hero":"phoenix",
+	"Title":"(RUS) 6.80 UNREAL MIDDLE PHOENIX by SuperFen	 							",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"tranquil_boots",
+				"ring_of_regen"
+			],
+			"ОБЯЗАТЕЛЬНО":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"Carry	 build					":
+			[
+				"radiance",
+				"assault",
+				"black_king_bar"
+			],
+			"Support build":
+			[
+				"mekansm",
+				"pipe",
+				"heavens_halberd"
+			],
+			"Для обоих классов":
+			[
+				"refresher",
+				"veil_of_discord",
+				"blade_mail",
+				"necronomicon",
+				"medallion_of_courage",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Перчатки необходимы для будущей урны
+",
+				"ring_of_regen":"+ Реген хп",
+				"flask":"Все по стандарту",
+				"tango":"Все по стандарту",
+				"urn_of_shadows":"Почти все скиллы затрачивают ХП. Поэтому хп нам надо много и его надо быстро восстанавливать. Поэтому урна подходит для этого.",
+				"sheepstick":"Догонять пачанов, не умерших во время замеса",
+				"necronomicon":"Некры отлично защитят вас от противников, когда вы ультуете.",
+				"refresher":"2 раза юзнуть ульту! Но, как всегда это бывает, ульта юзается в замесе лишь один раз, т.к. игроки сыпятся уже после первой.",
+				"assault":"+скорость к атаке",
+				"heart":"Эта вещь и для саппорта сгодится и для керри, т.к. тераска дает нам ХП и реген ХП.	",
+				"black_king_bar":"Идеально в замесах.",
+				"shivas_guard":"Врываемся, юзаем шиву, юзаем ульт - пачаны пытаются убежать от радиуса действия ульты, но тут кокон взрывается и рампага.",
+				"blade_mail":"Т.к. Феникс  стренджовый перс, то ему можно собирать БМ.",
+				"radiance":"Когда мы ультуем - пачаны горят.
+Когда у нас радик - пачаны горят.
+Когда у нас все вместе - пачаны на фонтане.",
+				"veil_of_discord":"Юзаем на толпу + блинк + ультуем = +25% дамага",
+				"heavens_halberd":"Хорошо в замесе сцапать одного жирного, пока не прибежит твоя тима.",
+				"tranquil_boots":"Эти тапки дают нам скорость передвижения + реген хп, что немаловажно."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_fire_spirits",
+			"4":"phoenix_sun_ray",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_sun_ray",
+			"9":"phoenix_sun_ray",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_icarus_dive",
+			"13":"phoenix_icarus_dive",
+			"14":"phoenix_icarus_dive",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Скил заменяет Фениксу блинк, но если вас коцают - вы все равно можете юзать его, в отличии от блинка. Одно но: КД большой.	",
+				"phoenix_fire_spirits":"Можно лечить себя и союзника. Можно убивать как и противников, так и ластхитить  крипов.",
+				"phoenix_sun_ray":"Служит для добивания драпающих противников и для хила союзников. Но если у ваших врагов либо инвиз, либо блинк - победить их Вам не удастся.",
+				"phoenix_supernova":"В начале ульта в радиусе 1000 просто поджигает наших врагов, потом, когда кокон раскрывается мы дамаг, стан и ПОЛНОЕ МП И ХП, а так же скиллы без кд, но не предметы! Контрится хорошими персами, у которых скорость атаки большая и иллюзиями.",
+				"phoenix_launch_fire_spirit":"Пускает шарики",
+				"phoenix_icarus_dive_stop":"Останавливается, если вы летите, юзнув Икарус Дайв",
+				"phoenix_sun_ray_stop":"Прекращает действие СанРея",
+				"phoenix_sun_ray_toggle_move":"Двигается по санрею"
+		}
+	}
+}

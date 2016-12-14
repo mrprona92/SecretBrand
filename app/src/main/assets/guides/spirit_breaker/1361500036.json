@@ -1,0 +1,88 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"[DMX] Spirit Breaker (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"mask_of_madness",
+				"power_treads",
+				"black_king_bar",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"vanguard",
+				"sange_and_yasha",
+				"mjollnir"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_charge_of_darkness",
+			"2":"spirit_breaker_greater_bash",
+			"3":"spirit_breaker_charge_of_darkness",
+			"4":"spirit_breaker_greater_bash",
+			"5":"spirit_breaker_charge_of_darkness",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_charge_of_darkness",
+			"8":"spirit_breaker_greater_bash",
+			"9":"spirit_breaker_greater_bash",
+			"10":"spirit_breaker_empowering_haste",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_empowering_haste",
+			"13":"spirit_breaker_empowering_haste",
+			"14":"spirit_breaker_empowering_haste",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spirit_breaker_charge_of_darkness":"Un sort très utile pour ganker depuis n'importe où sur la carte. Votre vitesse de déplacement sera énorme donc n'hésitez pas à l'utiliser sur un creep pour revenir sur votre lane plus rapidement. Vous pouvez aussi l'utilisez pour fuir en chargeant une cible à l'autre bout de la map.",
+				"spirit_breaker_empowering_haste":"Un passif qui donnera de la movespeed à toute votre équipe, ce qui est toujours très pratique.",
+				"spirit_breaker_greater_bash":"Un bash qui fera en plus reculer votre adversaire. Il vous permet d'avoir un bon bonus de dommages lorsque vous auto-attaquez.",
+				"spirit_breaker_nether_strike":"Un très bon ultimate qui stun votre cible et lui inflige un coup surpuissant. Avec l'ultimate, votre ultimate sera AOE."
+		}
+	}
+}

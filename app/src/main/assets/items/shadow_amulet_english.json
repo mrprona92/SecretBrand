@@ -1,0 +1,15 @@
+{
+  "attrib": "+ 20 Attack Speed",
+  "cd": "10 (0 if used on self)",
+  "qual": "false",
+  "notes": "",
+  "desc": "Active: Fade - Grants invisibility to you or target allied hero over 1.5 seconds. Moving breaks the invisibility. There is no cooldown when using this item on yourself.",
+  "dname": "Shadow Amulet",
+  "dotaId": "shadow_amulet",
+  "mc": false,
+  "img": "shadow_amulet_lg.png",
+  "lore": "",
+  "id": 215,
+  "created": false,
+  "cost": 1400
+}

@@ -1,0 +1,67 @@
+{
+	"Hero":"treant",
+	"Title":"Treant Protector Bot/Top",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"robe"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"energy_booster",
+				"lifesteal",
+				"mask_of_madness"
+			],
+			"Next Items":
+			[
+				"relic",
+				"radiance"
+			],
+			"Late Items":
+			[
+				"heart",
+				"refresher",
+				"heavens_halberd"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_leech_seed",
+			"2":"treant_living_armor",
+			"3":"treant_leech_seed",
+			"4":"treant_living_armor",
+			"5":"treant_leech_seed",
+			"6":"treant_overgrowth",
+			"7":"treant_leech_seed",
+			"8":"treant_living_armor",
+			"9":"treant_living_armor",
+			"10":"treant_natures_guise",
+			"11":"treant_overgrowth",
+			"12":"treant_natures_guise",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

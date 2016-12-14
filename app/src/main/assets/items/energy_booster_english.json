@@ -1,0 +1,16 @@
+{
+  "dotaId": "energy_booster",
+  "id": 59,
+  "img": "energy_booster_lg.png",
+  "dname": "Energy Booster",
+  "qual": "secret_shop",
+  "cost": 900,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 250 Mana",
+  "mc": false,
+  "cd": false,
+  "lore": "This lapis gemstone is commonly added to the collection of wizards seeking to improve their presence in combat.",
+  "components": null,
+  "created": false
+}

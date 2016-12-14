@@ -1,0 +1,118 @@
+{
+	"Hero":"windrunner",
+	"Title":"Run like the Wind!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"flask",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"force_staff",
+				"ring_of_basilius"
+			],
+			"Late Game Items":
+			[
+				"orchid",
+				"rapier",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"smoke_of_deceit",
+				"ward_sentry",
+				"black_king_bar"
+			],
+			"Luxury Items":
+			[
+				"mjollnir",
+				"invis_sword",
+				"manta",
+				"ultimate_scepter",
+				"greater_crit",
+				"rod_of_atos",
+				"satanic",
+				"bloodstone",
+				"assault",
+				"monkey_king_bar",
+				"sheepstick",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Only the ring is needed for now, as you can complete your ring of basillius at the side shop. You can fully upgrade it if you are going the mid lane.",
+				"magic_stick":"Buy a Magic Stick only if the enemy team has multiple casters, especially in your lane.",
+				"bottle":"Bottle if you're roaming alot or simply going mid. Completely optional.",
+				"ward_observer":"Ward up if no one else is. Visionary dominance is the key to any good Dota game.",
+				"ward_sentry":"Counters wards. Counters invisibility. Counters counters counters. Don't waste too much money on this though, or else a gem might be more... financial.",
+				"courier":"Buy the courier if you must, and if no other stupid support is buying it.",
+				"tpscroll":"The Trusty Tp. Take it or leave it.",
+				"phase_boots":"The best boots for Windrunner as it combo-es well with her third skill. It provides top-notch movement speed and unit-walkthrough, and damage.",
+				"null_talisman":"Buy this if you aren't getting much farm and need the extra stats.",
+				"ring_of_basilius":"Provides you with great mana regen and physical armour. Both of which you need.",
+				"sheepstick":"Extra disable. Priceless.",
+				"orchid":"Grants you excellent mana regen, attack speed and damage. Furthermore granting you a beautiful silence to counter any annoying caster and providing 25% extra damage to your silenced target.",
+				"force_staff":"Finding it hard to get into a fight, or run away from one? Buy the FORCE STAFF now! You can push yourself! On ledges! To Roshan! To the enemy fountain! You can even push your friends! And enemies! Push them to victory! Push them to failure! Push!!!",
+				"dagon":"Kill Secure.",
+				"ultimate_scepter":"Only get this if you want the extra survivability, otherwise other items would be preferred over this.",
+				"assault":"Many carries on your team? On the enemy team? Buy the all new assault cuirass! Ass at the front, and ass at the back",
+				"black_king_bar":"Stuns. Purchase during early-mid game to achieve maximum effectiveness",
+				"bloodstone":"Support for the Win!",
+				"sphere":"Get this over an orchid if you're enemies spells are only mostly targetting spells. Also get this if you're finding it hard to survive; if this is the case, buy the ultimate orb first and try to stay out of hostile territory until you've done so.",
+				"monkey_king_bar":"Enemies have evasion? Get a new pet Monkey! - King Bar. Its damage works perfectly with your ultimate, especially when it mini-stuns with an extra 100 damage (:",
+				"greater_crit":"Crits! Want to deal 1.5k damage? Buy crits! Like to 1 hit K.O? Buy crits now! Daedelus - your best friend",
+				"manta":"Increases DPS, movement speed, attack speed. Excellent late game item.",
+				"invis_sword":"Want to Pub-Stomp? Get this EVERY game!",
+				"satanic":"Need to out-carry your enemy? Or to simply live? Get teh Satanic",
+				"mjollnir":"Excellent mid-late game item. Works wonders with your ultimate.",
+				"smoke_of_deceit":"Underestimated item. When enemy wards are up. Smoke up.",
+				"rod_of_atos":"Interesting item to purchase. A neat slow and hp boost."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_windrun",
+			"9":"windrunner_focusfire",
+			"10":"windrunner_shackleshot",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_shackleshot",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"Hero":"sven",
+	"Title":"Sven Baby is here (The Cary that can Bounce Back)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"helm_of_the_dominator",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"mask_of_madness",
+				"armlet",
+				"power_treads",
+				"black_king_bar",
+				"lesser_crit"
+			],
+			"Endgame Items":
+			[
+				"mask_of_madness",
+				"armlet",
+				"power_treads",
+				"black_king_bar",
+				"greater_crit"
+			],
+			"Other Items":
+			[
+				"blink",
+				"assault",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is key on Sven when you are having issues being kited by enemys untill your spells are down. Blink makes it so that you can quickly close distance.",
+				"black_king_bar":"Usualy you should get this if you are being ganked and locked down, if not, get the Crystalys first and then build BkB.",
+				"lesser_crit":"Hitting a Crit as Sven is almost an auto win. One single crit can win a team fight.",
+				"armlet":"Use the Helm of Iron Will from the disasempled HotD to build into your Armlet. This is an item that will give you more attack speed and strength that will help you hit even harder.",
+				"helm_of_the_dominator":"For the HotD, you want to get the Helm of Iron Will first for the extra health regen. This will allow you to stay in lane so that you can keep farming and getting exp.",
+				"mask_of_madness":"Inorder to build this, you want to disassemple the Helm of the Dominator and then buy the Mask of Madness recipe."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_great_cleave",
+			"4":"sven_warcry",
+			"5":"sven_great_cleave",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_warcry",
+			"9":"sven_great_cleave",
+			"10":"sven_storm_bolt",
+			"11":"sven_gods_strength",
+			"12":"sven_storm_bolt",
+			"13":"sven_warcry",
+			"14":"sven_great_cleave",
+			"15":"attribute_bonus",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"It is important to get your stun first so that you can use it as an escape tool when you get jumped.",
+				"sven_great_cleave":"While not always skilled up early, the cleave will make Sven do more damage in team fights early in the game so that you can shut down the other team.",
+				"sven_warcry":"The movement speed and armor from Warcry makes it a very important skill to pick up.",
+				"sven_gods_strength":"Always get your ult for it is the reason that Sven is a good hero."
+		}
+	}
+}

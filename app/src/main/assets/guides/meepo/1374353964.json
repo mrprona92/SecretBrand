@@ -1,0 +1,102 @@
+{
+	"Hero":"meepo",
+	"Title":"Complete Itemization of meepo & standard skill build: By Rat",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"quelling_blade",
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"ward_observer",
+				"orb_of_venom",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"tpscroll",
+				"power_treads",
+				"smoke_of_deceit",
+				"dust"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"blink",
+				"travel_boots",
+				"reaver",
+				"eagle",
+				"ultimate_orb",
+				"sheepstick",
+				"ethereal_blade",
+				"skadi",
+				"assault",
+				"heart",
+				"vladmir"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"errbudy get up, its time to slam now. we got a real jam going down",
+				"quelling_blade":"Your feeling terrible at everything and cant last hit worth a shit.",
+				"ring_of_protection":"Get this if you plan to finish treads fast as fuck",
+				"stout_shield":"Great to keep you not dead early on in heavy right click lanes",
+				"branches":"Meh gg branches",
+				"ogre_axe":"The first of your aghanims",
+				"blade_of_alacrity":"OOMF",
+				"staff_of_wizardry":"Dude this is not worht the bag space, get to finish aghanims tho",
+				"ultimate_orb":"Dude stats are good and you can build this into scythe or SKADOO BABY",
+				"gem":"Fuck everything you cant see, and their mom.",
+				"flask":"My lane is painful",
+				"dust":"Look for shadow blades & sucure this even if other people are carrying.",
+				"bottle":"So I hear you want to mid lane meepo.",
+				"ward_observer":"You can spend some of that dosh on map awareness to yknow",
+				"ward_sentry":"Uhm... dont buy these unless you need to deward hard or brood is being a cunt",
+				"tango":"Get regen dude",
+				"tpscroll":"Carry this or you are a fat gold hoarder who isnt trying to win.",
+				"travel_boots":"Meepo evolves into Mapo, you now have complete and total map control.",
+				"eagle":"Heavy right click focus on the other team and from you.",
+				"reaver":"Fuck spells, get health, make money, attract bitches.",
+				"point_booster":"*cough* meepos dont share point booster *cough* baddie get last. jk you can go point booster first, but its hard to get at a time that does not impact your farm.",
+				"power_treads":"THE POWER DUDE",
+				"hand_of_midas":"Didn't miss a single last hit in the first 5 minutes of game?",
+				"poor_mans_shield":"More early power?",
+				"mekansm":"Let treebeard get this, meepo is a carry dude.",
+				"vladmir":"Missing on your team and you want early rosh presence.",
+				"ring_of_basilius":"If you think you are going to build a vlads go ahead and finish one of these in lane, otherwise stick to tranqs.",
+				"pipe":"Magic sucks, antimage was right all along.",
+				"sheepstick":"FUCK CARRIES AND YOUR TEAM SUX",
+				"dagon":"Trololololol",
+				"ultimate_scepter":"RUSH THIS BITCH RIGHT HERE",
+				"assault":"well if no one else gets it... and you have the cash... and the other carry or carries dont have downs and look like hobos...",
+				"heart":"Meh",
+				"rapier":"Trololololol",
+				"manta":"Idk know what you would do with this but the stats are nice and you can blink to illusions lol...",
+				"armlet":"End the game in the next 5 minutes with this or its a waste of gold, build only after heart unless you are mad micro god.",
+				"invis_sword":"Trololololol",
+				"skadi":"Ermagerd has to much moneyz",
+				"diffusal_blade":"Omniknight is ruining your day.",
+				"ethereal_blade":"How did you even press all the other 30 keys? use to disable hard right clickers & fuck their day",
+				"orb_of_venom":"A very nice touch to ganking power early in the game.",
+				"ancient_janggo":"If you can't really farm and need to group early build this for your team if needed.",
+				"smoke_of_deceit":"Rosh is a had ass.",
+				"veil_of_discord":"SLAM BAM THANKYOU MAAM",
+				"tranquil_boots":"Hang in there man"
+		}
+	}
+}

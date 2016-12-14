@@ -1,0 +1,99 @@
+{
+	"Hero":"chen",
+	"Title":"Chen, the motherfucker [updated 10.28.13]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"flying_courier",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"ultimate_scepter",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"pipe",
+				"cyclone",
+				"force_staff",
+				"ghost",
+				"travel_boots",
+				"urn_of_shadows",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Upgrade it into mek.",
+				"ward_observer":"ward everything and everywhere. wanna know how to ward? go play LOL, then come here",
+				"ward_sentry":"sentry for destroying anti-pull wards",
+				"courier":"1st item u need to buy. seriously, just buy it",
+				"mekansm":"heal-heal-heal... The main item, actually. If things going ok on the map, mek must be ready in 15 minutes til the game starts.",
+				"flying_courier":"upgrade courier when its possible. That will help you teamates and bla bla bla.",
+				"ultimate_scepter":"Maybe its not so cool item for you, cuz it cost too much. And its true. But (!) Im playing a really loooong time, and i can say that if you have an aghanim, bloody, scepter, its 99% you won the game.",
+				"arcane_boots":"Only arcane boots and nothing else. Not only your main creep (Chen) needs mana for his skills. Your bro's need it too. Centaurs, goblins, satyrs, whatever"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_holy_persuasion",
+			"4":"chen_test_of_faith",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"no need to max that skill at the beginning. test of faith is much better. but on the late game pentience is really good because of slow",
+				"chen_test_of_faith":"1) one of the best nukes, i guess. 200-400 pure dmg to enemy's ass is very annoying.
+",
+				"chen_test_of_faith_teleport":"2) you can save your buddies by sending them back to home
+3) dont forget about delay. use it wiser. (on lvl 4 its 3 seconds) ",
+				"chen_hand_of_god":"global heal. but dont forget about delay, again. its like 0,7-1 sec. so use it before someone dies. "
+		}
+	}
+}

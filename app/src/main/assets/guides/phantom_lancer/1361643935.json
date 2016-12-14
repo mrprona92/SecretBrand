@@ -1,0 +1,117 @@
+{
+	"Hero":"phantom_lancer",
+	"Title":"6.82 - Standard Phantom Lancer (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"magic_wand",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"diffusal_blade",
+				"manta"
+			],
+			"Purchase Level 2":
+			[
+				"diffusal_blade"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"abyssal_blade",
+				"heart",
+				"butterfly",
+				"greater_crit"
+			],
+			"Last updated: 29/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"This is to build into Tranquil Boots",
+				"branches":"To help with last-hitting and your mana problems early game.",
+				"vladmir":"Contribute early to team-fights and engagements with Vladmir's Offering. Overall, a nice item to consider upgrading from Ring of Basilius given its lifesteal for your hero and illusions.",
+				"ring_of_basilius":"Early Mana Regeneration and contribution towards early-game pushes on towers makes Ring of Basilius a good pick-up early-game for Phantom Lancer.",
+				"heart":"With more life comes more hits for your illusions and thus; more illusions. Heart is generally the preferred item after your core items as it gives you much more survivability and your illusions last a bit longer to create more.",
+				"monkey_king_bar":"Damage doesn't work on your illusions, but the True Strike is what you want to take down evasion heroes.",
+				"butterfly":"Evasion makes Phantom Lancer unstoppable and his illusions as well. It will force enemies to get Monkey King Bar as well as items to tear down the amount of illusions who will have and the agility to create more illusions.",
+				"greater_crit":"Critical Strike works with your illusions, the additional damage does not.",
+				"manta":"Manta Style is your first item as it is a great lead after Yasha and to build towards your Fighting items: Diffusal/Heart.
+
+Manta style is also good for pushing lanes and farming without you needing to be there as these illusions do activate your ultimate.",
+				"diffusal_blade":"Diffusal Blade's mana burn works with Illusions created by you. Use the purge to remove any Dust of Appearance on you or to destroy Warlock's summons. Otherwise, it is a good slow to keep the illusions on your foe and create even more of an army.
+
+Situational: Get level 2 when you run out of charges",
+				"soul_ring":"Depending on your lane and your reliance on Phantom Lance, you may not necessarily need Soul Ring. If passive and safe on farming gold, then do not get Soul Ring.",
+				"ancient_janggo":"Sometimes we cannot reach those bigger items needed such as Heart of Tarrasque and Manta Style, this is a good bridging item in the meantime.",
+				"abyssal_blade":"Abyssal Blade keeps your foes down for you continually create illusions and destroy them. Abyssal Blade let's you initiate, stun then completely burn their mana before they know what's up. ",
+				"tranquil_boots":"Use Soul Ring to harass your opponent with Spirit Lance and follow it up with Tranquil Boots' heal."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_lancer_spirit_lance",
+			"2":"phantom_lancer_doppelwalk",
+			"3":"phantom_lancer_spirit_lance",
+			"4":"phantom_lancer_phantom_edge",
+			"5":"phantom_lancer_spirit_lance",
+			"6":"phantom_lancer_juxtapose",
+			"7":"phantom_lancer_spirit_lance",
+			"8":"phantom_lancer_phantom_edge",
+			"9":"phantom_lancer_phantom_edge",
+			"10":"phantom_lancer_phantom_edge",
+			"11":"phantom_lancer_juxtapose",
+			"12":"phantom_lancer_doppelwalk",
+			"13":"phantom_lancer_doppelwalk",
+			"14":"phantom_lancer_doppelwalk",
+			"15":"attribute_bonus",
+			"16":"phantom_lancer_juxtapose",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_lancer_spirit_lance":"Phantom Lance is your harassment tool and later on, your way of making sure your opponent's cannot leave. It offers a slow, creates an illusion at your target and is your basic nuke.",
+				"phantom_lancer_doppelwalk":"Doppelganger is your dodge tool and escape as well as your initiation when following-up with Phantom Rush. Make sure to spam it as it costs moderate amount of mana and can give you a jumpstart with your ultimate: Juxtapose.",
+				"phantom_lancer_phantom_edge":"Phantom Rush is a great way to chase down enemies early in the game as it is incredibly fast and useful. However, only use it in combination with teammates who can follow-up with your charge. Phantom Lance into Charge is a terrific combo if you're sure for the kill.",
+				"phantom_lancer_juxtapose":"Juxtapose works great with your ability: Doppelganger. This can also be used to jump-start your farming in the jungle while you're in-between ganking heroes who are caught out of position: so feel free to start working down camps for fast gold."
+		}
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"Public Gyro Ez-mode",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"black_king_bar",
+				"invis_sword",
+				"butterfly",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"sphere",
+				"satanic",
+				"mjollnir",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Since Gyro is ranged im always that much closer to safety, so boots are mostly for chasing this early in the game. That's why I usually dont pick them up until after Ring of Aquila. But again, depending on my opponents I might just go for boots earlier aswell if i feel the extra speed is crucial.",
+				"tango":"Some regen with the spare money to keep myself at a reasonable health level.",
+				"power_treads":"Threads because the extra health is nice and the attack speed increase is good too.",
+				"poor_mans_shield":"The shield provides a small increase in damage and gives some helpful mitigation against harassing and creeps. Sometimes I pick this up before I upgrade to Ring of Aquila but it really depends on what you're up against on the lane and how much they harass.",
+				"ring_of_basilius":"I start with a Ring of Basilius for the little extra manaregen which lets me use abilities a little more often. And the 2 armor really helps lowering harassment damage on me.",
+				"black_king_bar":"Can be picked up if you feel like they always disable you in teamfights making you basically useless.",
+				"sphere":"To avoid the occasional stun and get a helpful increase of all stats I usually pick this up as a 6th item replacing the Shield. The regen is also very helpful.",
+				"butterfly":"Butterly is usually the last item I have time to pick up before the game ends. Butterly is a pretty obvious choice for most agility based heroes including Gyro.",
+				"greater_crit":"Crystalys/Daedalus gives a great increase in damage for flak cannon spamming as well as crit which is really useful in fights.",
+				"manta":"A great combination of survability and offensive potential. The extra speed is really good aswell for chasing and escaping.",
+				"invis_sword":"In public games people dont buy that much dust and sentry wards, so a Shadow Blade is really useful. When I get the Shadow Blade I switch my Threads to agility as I no longer need the extra health to stay alive when I can safely retreat invisible. This is really great for solo farming/pushing lanes.",
+				"satanic":"If you feel you need extra survability and beat someone in an all out auto-attack duel. This is what you want.",
+				"mjollnir":"If you feel like you dont need more survability and want to equip yourself with a pair of machine guns. A Mjollnir is what you're looking for. Should be replacing Ring of Aquila or Shield.",
+				"ring_of_aquila":"Upgrading my Ring of Basilius into a Ring of Aquila is cheap and gives a nice increase to my damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_flak_cannon",
+			"2":"gyrocopter_homing_missile",
+			"3":"gyrocopter_homing_missile",
+			"4":"gyrocopter_rocket_barrage",
+			"5":"gyrocopter_homing_missile",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_homing_missile",
+			"8":"gyrocopter_rocket_barrage",
+			"9":"gyrocopter_rocket_barrage",
+			"10":"gyrocopter_rocket_barrage",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_flak_cannon",
+			"13":"gyrocopter_flak_cannon",
+			"14":"gyrocopter_flak_cannon",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

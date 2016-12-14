@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_broodmother",
+	"Title":"Recommended items for Broodmother",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"clarity",
+			"branches",
+			"branches",
+			"ring_of_protection"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"soul_ring",
+			"ring_of_basilius"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"vladmir",
+			"orchid"
+		],
+		
+		"luxury":[
+			"black_king_bar",
+			"manta",
+			"butterfly",
+			"monkey_king_bar",
+			"assault",
+			"radiance",
+			"heart",
+			"necronomicon_3"
+		]
+	}
+}

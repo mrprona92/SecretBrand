@@ -1,0 +1,92 @@
+{
+	"Hero":"invoker",
+	"Title":"6.79 Русский гайд на Инвокера ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"mantle",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"null_talisman"
+			],
+			"Core Items(Что-нибудь одно,на выбор)":
+			[
+				"force_staff",
+				"necronomicon",
+				"cyclone"
+			],
+			"После Core Items":
+			[
+				"ultimate_scepter",
+				"travel_boots",
+				"blink",
+				"refresher",
+				"rapier"
+			],
+			"Если вас убили до  6 минуты ":
+			[
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Для повышения мобильности",
+				"mantle":"Манта апгрейдится в талисман",
+				"branches":"Покупаем три веточки  для добивания крипочков,позже апгрейдим в стики",
+				"boots":"Сначала покупаем сапог,потом стики и талисман. Сапог апгрейдим уже после аганима в травела",
+				"tango":"Классика :D",
+				"cyclone":"Собирается для связки Циклон+Санстрайк",
+				"force_staff":"Я бы предпочел собирать стафф для мобильности.",
+				"ultimate_scepter":"Must have на Инвокере ,собираем сразу после Core Items ,потом уже  на выбор",
+				"refresher":"Что может быть лучше двух прокастов Инвокера?",
+				"rapier":":D"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_quas",
+			"5":"invoker_exort",
+			"6":"invoker_exort",
+			"7":"invoker_quas",
+			"8":"invoker_exort",
+			"9":"invoker_wex",
+			"10":"invoker_quas",
+			"11":"invoker_invoke",
+			"12":"invoker_invoke",
+			"13":"invoker_exort",
+			"14":"invoker_exort",
+			"15":"invoker_exort",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_wex",
+			"21":"invoker_wex",
+			"22":"invoker_wex",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		}
+	}
+}

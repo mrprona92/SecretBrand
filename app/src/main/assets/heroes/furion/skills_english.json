@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Sprout",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b>",
+        "desc": "Sprouts a ring of trees around a unit, trapping it in place.",
+        "notes": "Sprout can be cast on any unit, or the ground.<br/>Trees created by Sprout have the same interactions with abilities as regular trees.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">625/700/775/850</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/120/140/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 11/10/9/8",
+        "lore": "Verdant overgrowth is a common ailment reported by Nature\u0027s Prophet\u0027s attackers.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_sprout",
+        "youtube":"IKC9k4noGgI",
+        "id": 0
+    },
+    {
+        "dname": "Teleportation",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b>",
+        "desc": "Teleports to any point on the map.",
+        "notes": "Teleport takes 3 seconds to cast.<br/>Mana and cooldown take effect when the cast is completed.  Nature\u0027s Prophet will not use any mana or waste the cooldown if the spell is interrupted while casting.<br/>When the cast begins, an effect is created at the target location, which is visible to allies and enemies.",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/40/30/20",
+        "lore": "The Prophet keeps his sentinel over the forest, protecting it when in need.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_teleportation",
+        "youtube":"4Z6E1mANiYY",
+        "id": 1
+    },
+    {
+        "dname": "Nature\u0027s Call",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b>",
+        "desc": "Converts an area of trees into Treants. Treants have 550 health and deal 22-28 damage.",
+        "notes": "Nature\u0027s Call can only create as many treants as there are trees in the target area.",
+        "dmg": "",
+        "attrib": "TREANT COUNT: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>TREANT DURATION: <b><font color=\"#ffffff\">60/60/60/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 160/160/160/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 37",
+        "lore": "Verodicia bestowed the Prophet with the ability to summon the Treant Guard, a mythical sentient army of the wild.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_force_of_nature",
+        "youtube":"h-4uJF0-P6w",
+        "id": 2
+    },
+    {
+        "dname": "Wrath of Nature",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Damaging energy bounces around the map, striking enemies close to the cast point that are in vision. Each enemy hit beyond the first adds damage.<br/>Upgradable with Aghanim\u0027s Scepter.",
+        "notes": "Wrath of Nature will not hit units out of vision.<br/>Can be cast through the minimap; the nearest valid target will be selected.",
+        "dmg": "",
+        "attrib": "MAX TARGETS: <b><font color=\"#ffffff\">16/16/16</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">140/180/225</font></b><br/>DAMAGE ADDITION PER BOUNCE: <b><font color=\"#ffffff\">7%</font></b><br/><font color=\"#6fe871\">SCEPTER MAX TARGETS:</font></b> <b><font color=\"#ffffff\">18/18/18</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">155/210/275</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/225/275<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/75/60",
+        "lore": "Nature\u0027s Prophet calls Verodicia\u0027s fury to strike down those who might ravage the wilderness.",
+        "hurl": "Natures_Prophet",
+        "name": "furion_wrath_of_nature",
+        "youtube":"gqPn_GVmLDY",
+        "id": 3
+    }
+]

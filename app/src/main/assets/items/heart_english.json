@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 40 Strength<br/>+ 300 Health<br/>HEALTH RESTORED: 2%",
+  "cd": 6.0,
+  "components": [
+    "reaver",
+    "vitality_booster"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Passive: Health Regeneration - Restores a percentage of max health per second. <br/><br/>This ability is disabled if damage is taken from an enemy Hero or Roshan within the last 4 seconds if your hero is melee or 6 seconds if your hero is ranged.",
+  "dname": "Heart of Tarrasque",
+  "dotaId": "heart",
+  "mc": false,
+  "img": "heart_lg.png",
+  "lore": "Preserved heart of an extinct monster, it bolsters the bearer\u0027s fortitude.",
+  "id": 114,
+  "created": true,
+  "cost": 5500
+}

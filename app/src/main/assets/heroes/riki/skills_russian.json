@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Smoke Screen",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бросает дымовую бомбу, замедляя скорость передвижения и поворота вражеских юнитов в зоне охвата, не позволяя им колдовать и заставляя их промахиваться в большинстве случаев.",
+        "notes": "Не запрещает использовать предметы.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">250/275/300/325</font></b><br/>ШАНС ПРОМАХА: <b><font color=\"#ffffff\">40%/50%/60%/70%</font></b><br/>ЗАМЕДЛЕНИЕ ПОВОРОТА: <b><font color=\"#ffffff\">30%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/80/85/90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 11",
+        "lore": "С момента побега после предательства Riki пересмотрел ценность обычной дымовой завесы, сбивающей противников с толку.",
+        "hurl": "Riki",
+        "name": "riki_smoke_screen",
+        "youtube":"s6qBkIfSEd4",
+        "id": 0
+    },
+    {
+        "dname": "Permanent Invisibility",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Riki скрывается в тени, становясь невидимым и получая дополнительную регенерацию здоровья. Невидимость сбрасывается, если Riki ударит врага или будет обезмолвлен.",
+        "notes": "Пока ваш герой невидим, он не будет атаковать автоматически.",
+        "dmg": "",
+        "attrib": "ЗАДЕРЖКА ДО НЕВИДИМОСТИ: <b><font color=\"#ffffff\">8/6/4/2</font></b><br/>РЕГЕНЕРАЦИЯ ЗДОРОВЬЯ В НЕВИДИМОСТИ: <b><font color=\"#ffffff\">4/5/6/7</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8/6/4/2",
+        "lore": "Рикимару идет за тобой.",
+        "hurl": "Riki",
+        "name": "riki_permanent_invisibility",
+        "youtube":"Mtmn28XX-NM",
+        "id": 1
+    },
+    {
+        "dname": "Backstab",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Если Riki атакует со спины, то он наносит дополнительный урон, зависящий от его текущей ловкости.",
+        "notes": "Ваши иллюзии проигрывают анимацию этой способности, но при этом не наносят дополнительного урона.<br/>От дополнительного урона невозможно увернуться.",
+        "dmg": "",
+        "attrib": "МНОЖ. УРОНА ЛОВК.: <b><font color=\"#ffffff\">0.5/0.75/1/1.25</font></b>",
+        "cmb": "",
+        "lore": "Скрытный убийца предпочитает грязные приемчики, специализируясь на атаках в спину.",
+        "hurl": "Riki",
+        "name": "riki_backstab",
+        "youtube":"7-23pjRKsno",
+        "id": 2
+    },
+    {
+        "dname": "Blink Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Телепортируется за спину выбранного юнита и наносит дополнительный урон, если это вражеский юнит. Каждые 35 секунд восстанавливается по одному заряду способности.",
+        "notes": "Ваша первая атака после использования этой способности будет нанесена со спины.<br/>Урон от способности наносится до следующей атаки.<br/>Эту способность можно использовать на союзниках — они не получат никакого урона.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ: <b><font color=\"#ffffff\">800</font></b><br/>ДОП. УРОН: <b><font color=\"#ffffff\">40/70/100</font></b><br/>МАКС. ЗАРЯДОВ: <b><font color=\"#ffffff\">4/5/6</font></b><br/>ВРЕМЯ ВОССТАНОВЛЕНИЯ ЗАРЯДА: <b><font color=\"#ffffff\">35</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 40",
+        "lore": "Проворность скрытного убийцы не даст сбежать никому.",
+        "hurl": "Riki",
+        "name": "riki_blink_strike",
+        "youtube":"fdacdcXVqYc",
+        "id": 3
+    }
+]

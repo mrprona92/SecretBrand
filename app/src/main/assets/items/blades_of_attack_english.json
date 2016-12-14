@@ -1,0 +1,16 @@
+{
+  "dotaId": "blades_of_attack",
+  "id": 2,
+  "img": "blades_of_attack_lg.png",
+  "dname": "Blades of Attack",
+  "qual": "component",
+  "cost": 420,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 9 Damage",
+  "mc": false,
+  "cd": false,
+  "lore": "The damage of these small, concealable blades should not be underestimated.",
+  "components": null,
+  "created": false
+}

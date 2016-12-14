@@ -1,0 +1,47 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "night_stalker_void",
+        "2": "night_stalker_crippling_fear",
+        "3": "night_stalker_void",
+        "4": "night_stalker_hunter_in_the_night",
+        "5": "night_stalker_void",
+        "6": "night_stalker_hunter_in_the_night",
+        "7": "night_stalker_void",
+        "8": "night_stalker_darkness",
+        "9": "night_stalker_crippling_fear",
+        "10": "night_stalker_hunter_in_the_night",
+        "11": "night_stalker_darkness",
+        "12": "night_stalker_hunter_in_the_night",
+        "13": "night_stalker_crippling_fear",
+        "14": "night_stalker_crippling_fear",
+        "15": "attribute_bonus",
+        "16": "night_stalker_darkness",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "night_stalker_darkness": "можно халявно продлить ночь, а с аганимом помогает не терять обзор ночью",
+        "night_stalker_void": "отличный урон в начале игры. также можно использовать для ластхита крипов, если вас пресуют, так как жрет не много маны"
+    }
+}, "Hero": "night_stalker", "ItemBuild": {
+    "ItemTooltips": {
+        "urn_of_shadows": "может спасти вам жизнь, так как не теряет действие при ударах.",
+        "blink": "удвоить шансы на спасение и килл",
+        "vanguard": "сделает вашего героя более жирным",
+        "bottle": "очень удобный Реген, можно использовать для ускоренного пополнения здоровья в фонтане",
+        "branches": "можно схитрить и купить всего 2 веточки для того, чтобы быстрее взять ботл"
+    },
+    "Items": {
+        "начальный закуп": ["branches", "branches", "flask"],
+        "ранняя стадия": ["bottle", "urn_of_shadows", "boots", "stout_shield"],
+        "лэйт": ["power_treads", "vanguard", "blink", "vitality_booster"],
+        "концовка": ["black_king_bar", "greater_crit", "ultimate_scepter", "assault", "travel_boots", "heart"]
+    }
+}, "Title": "РУССКИЙ ГАЙД ОТ Ripper(mid)"}

@@ -1,0 +1,75 @@
+{
+	"Hero":"slardar",
+	"Title":"Neth`s Godlike Slardar",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"quelling_blade",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar",
+				"assault",
+				"desolator"
+			],
+			"luxury":
+			[
+				"magic_wand",
+				"vanguard",
+				"vladmir"
+			],
+			"Very Late Carry Slardar":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_bash",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_sprint",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_sprint",
+			"10":"slardar_sprint",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_bash",
+			"13":"slardar_bash",
+			"14":"slardar_bash",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

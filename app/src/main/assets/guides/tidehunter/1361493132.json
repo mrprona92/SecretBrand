@@ -1,0 +1,75 @@
+{
+	"Hero":"tidehunter",
+	"Title":"Play Tidehunter? Win Build.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"tango",
+				"ward_observer",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"arcane_boots",
+				"ward_sentry",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"blink",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"refresher",
+				"shivas_guard",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"`Dagger First!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_kraken_shell",
+			"3":"tidehunter_gush",
+			"4":"tidehunter_anchor_smash",
+			"5":"tidehunter_gush",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_gush",
+			"8":"tidehunter_anchor_smash",
+			"9":"tidehunter_anchor_smash",
+			"10":"tidehunter_anchor_smash",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"Hero":"slardar",
+	"Title":"Slardar crushing",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"Early game.":
+			[
+				"boots",
+				"helm_of_iron_will",
+				"magic_wand"
+			],
+			"Get after core items.":
+			[
+				"power_treads",
+				"armlet",
+				"blink",
+				"black_king_bar"
+			],
+			"Good items for late game.":
+			[
+				"assault",
+				"heart",
+				"desolator",
+				"heavens_halberd",
+				"greater_crit",
+				"satanic"
+			],
+			"Situational":
+			[
+				"vanguard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Amazing item to catch people.",
+				"stout_shield":"Aborbs alot of damage in lane. Can upgrade later into a vanguard.",
+				"branches":"Cheap way to boost your laning phase stats, upgrade later into magic wand.",
+				"magic_wand":"Always good to a have, will save you alot.",
+				"flask":"Regen is always good in lane.",
+				"tango":"Regen is always good in lane.",
+				"ring_of_health":"Try to purchase this asap from the sideshop. It will give you great lane sustain.",
+				"power_treads":"Gives amazing stats for slardar, attack speed, damage, and health.",
+				"black_king_bar":"You will want the magic immunity to get bash, and smash the best you can during fights.",
+				"vanguard":"Buy vanguard if enemy team has a good amount of basic attack damage.",
+				"hood_of_defiance":"Replace vanguard if the enemy team has alot of magic damage.Allows you to shrug off magic damage and smash those wizards. Can upgrade later to pipe of insight.",
+				"armlet":"Lots of damage, lots of health, overall just a great item. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_sprint",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_bash",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_sprint",
+			"10":"slardar_sprint",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_bash",
+			"13":"slardar_bash",
+			"14":"slardar_bash",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Very usefull early and mid game. You will always be able to run people down, or escape. Just be carefull because you will take extra damage.",
+				"slardar_slithereen_crush":"Great damage and stun, always max this first.",
+				"slardar_bash":"This allows you to wreck people.",
+				"slardar_amplify_damage":"This is why slardar is a monster. Amazing negative armor, helps everyone on the team. Also great against invis heroes."
+		}
+	}
+}

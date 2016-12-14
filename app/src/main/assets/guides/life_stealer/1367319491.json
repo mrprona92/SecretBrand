@@ -1,0 +1,85 @@
+{
+	"Hero":"life_stealer",
+	"Title":"Lifestealer (Jungla) - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"gloves",
+				"hand_of_midas",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"basher",
+				"hyperstone"
+			],
+			"luxury":
+			[
+				"assault",
+				"mjollnir",
+				"desolator",
+				"abyssal_blade",
+				"ancient_janggo",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Ponlas en el color rojo.",
+				"hand_of_midas":"Intenta sacarlo antes de los 7 minutos aprox. Si no ve a completar las botas",
+				"armlet":"Activalo cuando entres a atacar a un enemigo. Tambien puedes usarlo para salvarte si te queda poca vida porque te da un subidon inicial de vida. Recuerda que no te puede llegar a matar!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_feast",
+			"2":"life_stealer_open_wounds",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_rage",
+			"5":"life_stealer_feast",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_feast",
+			"8":"life_stealer_rage",
+			"9":"life_stealer_rage",
+			"10":"life_stealer_rage",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_open_wounds",
+			"13":"life_stealer_open_wounds",
+			"14":"life_stealer_open_wounds",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"life_stealer_rage":"Es como un BKB pero \"gratis\". Usalo con cabeza. Lo normal es lanzarlo cuando vas a una teamfight o a por algun heroe. Te puede salvar tambien cuando estas escapando con poca vida, por ejemplo para evitar un stun que te lancen.",
+				"life_stealer_feast":"Te permite junglear porque te regenera vida. En 1vs1 ayuda muchisimo porque ellos a veces no recuerdan que tu te curas mientras intercambias golpes con el enemigo. Tambien recuerda usarlo en la jungla para curarte en lugar de volver a base.",
+				"life_stealer_open_wounds":"Muy util para ir a gankear a la linea cuando estas en la jungla. Evita que se escapen tus enemigos principalmente. Lanzalo y a por el con la Q activada.",
+				"life_stealer_infest":"Te metes dentro de creeps (aliados y enemigos!!) o heroes aliados. Muy util para meterte dentro de el que inicia la batalla, para escapar dentro de un creep, etc. ademas puedes usarlo cuando un aliado vaya a transportarse, etc y asi tienes viaje gratis :D"
+		}
+	}
+}

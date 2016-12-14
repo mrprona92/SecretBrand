@@ -1,0 +1,44 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_abaddon",
+  "Title": "Recommended items for Abaddon",
+  "Items": {
+    "startingItems": [
+      "tango",
+      "flask",
+      "clarity",
+      "branches",
+      "branches",
+      "branches",
+      "courier"
+    ],
+    "earlyGame": [
+      "boots",
+      "magic_stick",
+      "ring_of_basilius"
+    ],
+    "coreItems": [
+      "tranquil_boots",
+      "magic_wand",
+      "soul_ring",
+      "mekansm",
+      "ward_observer",
+      "tpscroll"
+    ],
+    "luxury": [
+      "vladmir",
+      "pipe",
+      "ancient_janggo",
+      "radiance",
+      "assault",
+      "necronomicon_3",
+      "ultimate_scepter",
+      "heart",
+      "sheep",
+      "flying_courier",
+      "guardian_greaves",
+      "glimmer_cape",
+      "solar_crest"
+    ]
+  }
+}

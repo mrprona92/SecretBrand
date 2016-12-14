@@ -1,0 +1,114 @@
+{
+	"Hero":"batrider",
+	"Title":"Basic Batrider Build - Updated for 6.79!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"blink",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"ward_observer",
+				"void_stone",
+				"force_staff",
+				"mekansm",
+				"pipe",
+				"black_king_bar"
+			],
+			"Luxury Items":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This item makes you a game changer. You will blink on top of an enemy hero, use Flaming Lasso on them, and drag them back to your team. This will usually guarantee a kill.",
+				"branches":"Circlet and Branches gives you more stats than any other starting build. The three branches will build into your wand; the circlet will build into your bracer.",
+				"circlet":"Circlet and Branches gives you more stats than any other starting build. You will build the Circlet into a Bracer.",
+				"boots":"There are no obviously ideal upgraded boots, so in most cases you will do fine with keeping plain boots for most of the game. You should prioritize your core Blink Dagger and Drums over upgrading boots.",
+				"magic_wand":"Magic Wand is an overpowered item that you should buy on every hero, every game.",
+				"flask":"Standard starting regen.",
+				"ward_observer":"If the supports on your team aren't buying wards, you should do it. Especially once you have your blink dagger, having wards up is more important than getting your situational or luxury items.",
+				"tango":"Standard starting regen.",
+				"travel_boots":"Once you've filled up all your item slots, you should go ahead and replace your Tranquil Boots with these.",
+				"void_stone":"If you have mana problems. buy one of these babies. Batrider's Intelligence is high enough that this should solve your problems.",
+				"power_treads":"An alternative upgraded boots to Tranquils, Power Treads, which you will generally leave on Strength, will give you some decent extra HP. You also use tread switching, switching to Intellgience treads before casting your spells, to extend your mana pool. However it's a little too pricy.",
+				"bracer":"Your job is to dive in and isolate a hero to kill; you need HP to survive the job. The Bracer is the quickest thing that will give you that.",
+				"mekansm":"If no one on your team is buying one, pick up a Mekansm. Be wary of the mana cost of using it.",
+				"pipe":"If no one else on your team is buying a Pipe, you should get one. Turn this bad boy on right before you jump in and start a team fight and you can't lose.",
+				"sheepstick":"Your Flaming Lasso doesn't give you enough disabling power? Pick up a Scythe of Vyse. This is also a good item to give you extra HP and mana. Buy the Ultimate Orb first.",
+				"force_staff":"This is an item with great versatility and will give you even more mobility atop your Blink Dagger. You can use it after you use Flaming Lasso on someone and drag them with you.",
+				"black_king_bar":"If you find yourself dying quickly in team fights to magic al abilites but already have Pipe, Black King Bar is the only solution. ",
+				"shivas_guard":"If survivability is a problem and the enemy is killing you by hitting you rather than using spells, spring for this baby. Remember to use her when you jump into the middle of the enemy team.",
+				"mask_of_madness":"You're not buying this for the attack speed, you're getting it purely for the move speed boost. If you're trying to drag an enemy to your team using Flaming Lasso and Force Staff isn't enough, this can make you even faster.",
+				"ancient_janggo":"This item is great. It will help with some of your mana problems and make you an even faster in ambushes and dragging enemy heroes.",
+				"tranquil_boots":"Tranquil boots were buffed in 6.79 such that they are the perfect boots for Batrider. They give you fast movement speed and very high regeneration while running around between ganks. The armor is nice, too. Just remember you lose the bonus move speed when you take damage, so start fights carefully!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_sticky_napalm",
+			"2":"batrider_firefly",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_firefly",
+			"5":"batrider_firefly",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_firefly",
+			"8":"batrider_sticky_napalm",
+			"9":"batrider_sticky_napalm",
+			"10":"batrider_flamebreak",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_flamebreak",
+			"13":"batrider_flamebreak",
+			"14":"batrider_flamebreak",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":" You can cast Sticky Napalm and stack it enemy units. Every time you stack it, it slows them and amplifies your damage. If they let you stack it on them 5+ times, you are essentially guaranteed a kill. You'll need to use this against creeps in the lane to get last hits because of your low damage.",
+				"batrider_flamebreak":"This ability has a powerful knockback that works at all ranks. The nuke is quite good, but we don't have the mana to use it frequently until later in the game. For this build we will skip this skill entirely until level 10; once you're experienced with mana management on Batrider you can try earlier",
+				"batrider_firefly":"Firefly is the ability that makes your hero. Early game, once you have several stacks of Sticky Napalm you can Firefly atop an enemy and kill them very, very quickly. In team fights your ability to blanket the enemy team with Firefly and Napalm gives you lots of damage.  ",
+				"batrider_flaming_lasso":"Use this ability to gank and get kills early on. In team fights, use it to have a guaranteed disable on the enemy's most important hero. It goes through magic immunity. You can use it to drag opponents up cliffs. Just remember you can't attack while using it! ",
+				"attribute_bonus":"Nothing special about Batrider and stats."
+		}
+	}
+}

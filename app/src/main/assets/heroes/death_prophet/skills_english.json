@@ -1,0 +1,57 @@
+[
+    {
+        "dname": "Crypt Swarm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Sends a swarm of winged beasts to savage enemy units in front of Death Prophet.",
+        "notes": "Can hit units up to 1110 range away.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">810/810/810/810</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 105/120/140/165<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "Krobelus\u0027 many trips to the grave gather a flock of the damned.",
+        "hurl": "Death_Prophet",
+        "name": "death_prophet_carrion_swarm",
+        "youtube":"z_uGWWazyqg",
+        "id": 0
+    },
+    {
+        "dname": "Silence",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Prevents enemy units in a target area from casting spells.",
+        "notes": "Doesn\u0027t prevent usage of items.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">425</font></b><br/>DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/80/80/80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15",
+        "lore": "Peering into the veil of her opponent\u0027s demise, Krobelus sees a silent future.",
+        "hurl": "Death_Prophet",
+        "name": "death_prophet_silence",
+        "youtube":"eLBBXHVFYgU",
+        "id": 1
+    },
+    {
+        "dname": "Witchcraft",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Increases the potency of Death Prophet\u0027s spells, while providing a passive movement speed boost.  Reduces mana costs and cooldowns of Crypt Swarm and Silence, and adds additional spirits to Exorcism.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "MOVEMENT SPEED: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>MANA COST DECREASE: <b><font color=\"#ffffff\">10/15/20/25</font></b><br/>COOLDOWN DECREASE: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>ADDED EXORCISM SPIRITS: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "",
+        "lore": "With each death, Krobelus adds necromantic power to her repertoire.",
+        "hurl": "Death_Prophet",
+        "name": "death_prophet_witchcraft",
+        "id": 2
+    },
+    {
+        "dname": "Exorcism",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Unleashes evil spirits to drain the life of nearby enemy units and structures. At the end of the spell\u0027s duration, Death Prophet is healed in proportion to the damage dealt.  Lasts 30 seconds.",
+        "notes": "Radius represents the area in which the spirits will acquire targets around Death Prophet.<br/>Spirit damage isn\u0027t reduced by damage block abilities.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">700/700/700</font></b><br/>SPIRITS: <b><font color=\"#ffffff\">6/13/21</font></b><br/>LIFE DRAIN: <b><font color=\"#ffffff\">25%/25%/25%</font></b><br/>SPIRIT DAMAGE: <b><font color=\"#ffffff\">55/55/55</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/300/400<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 145",
+        "lore": "Over time, the banshee remnants of her previous lives return to haunt the present.",
+        "hurl": "Death_Prophet",
+        "name": "death_prophet_exorcism",
+        "youtube":"UpxNoiCXx1g",
+        "id": 3
+    }
+]

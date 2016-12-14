@@ -1,0 +1,112 @@
+{
+	"Hero":"earthshaker",
+	"Title":"Purge's Guide to Support Earthshaker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"tpscroll",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"force_staff",
+				"soul_ring",
+				"ghost",
+				"shivas_guard",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger turns Earthshaker from an okay support to a support hero with major teamfight presence! If your opponents get a little too grouped up, your chain stun combo can really wreck fights and turn battles! Very few support heroes have this kind of damage capability!",
+				"boots":"Boots are necessariy for escaping ganks, and getting into position faster.",
+				"magic_stick":"Generally stick to magic stick in the early game because it's not worth spending the extra money to upgrade before you get arcanes, as arcanes does so much for earthshaker!",
+				"magic_wand":"You can finish your magic wand after you get arcane boots, or you can wait until after blink dagger. This is preference.",
+				"ghost":"If you are against a Lifestealer or other magic immune physical damage dealer, the Ghost Scepter is a MUCH needed item since you're quite easy to kill if you can't stun them.",
+				"clarity":"Clarity potions ARE THE MOST IMPORTANT STARTING ITEM FOR EARTHSHAKER!
+
+If you do not get clarity potions, you will throw 1 nuke, and you will be out of mana. If you are out of mana, you become a useless hero! Get at least 2 clarity potions!",
+				"ward_observer":"Usually your 2nd support hero will purchase either the observers or the courier. If you only have to buy 1, I recommend getting an extra salve and clarity potion for the start of the game.",
+				"ward_sentry":"You might be purchasing further support items if you have your blink dagger.",
+				"courier":"At least 1 support hero should purchase a courier!",
+				"tpscroll":"Always carry a TP scroll to make sure that your opponent doesn't have a tactical advantage over you, and so you can support allies!",
+				"force_staff":"Force staff is a great follow up after blink dagger because it allows you to ideally escape after you blink initiate, or initiate if you take damage and can't blink.",
+				"ultimate_scepter":"If you somehow get extremely rich and you want more damage, aghanihm's scepter increases your ulti damage in an aoe, doing 2 sources of echo per enemy hero. The extra stats and hp is also nice.",
+				"refresher":"This is the most luxury item that Earthshaker can get as you could hypothetically do 2 full stun combos as earthshaker and absolutely wreck face in a teamfight.",
+				"shivas_guard":"Shivas Guard is an extremely situational luxury item that makes you tankier while giving you further int pool. Generally the int is a bit wasted because you should have arcane boots, but you can blink initiate and use shivas to do further aoe damage, and some slow to boot!",
+				"soul_ring":"Soul Ring can be an item substitute for Arcane boots, but I only find this useful because you can get it at 800 gold instead of the 1450 it takes to get arcane boots. In the long run, Arcane boots is better, but Soul Ring can be fun sometimes.",
+				"arcane_boots":"Arcane boots covers EarthShaker's mana needs! He has a low int gain for a hero that relies entirely on spells to be useful, so it's important to get your arcane boots as soon as possible!",
+				"veil_of_discord":"This is a situational teamfight item that can be gotten after blink, as most of Earthshaker's damage is magical. It's a little difficult to apply before some of your spells, but the armor, regen, and extra int are a nice bonus to your skillset."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_enchant_totem",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_aftershock",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Fissure is the most important ability you have. The fissure range is HUGE which makes Earthshaker the best early game initiating and counter-initiating support! Try to land the stun on as many enemy heroes as possible, and look for early fissure blocks!",
+				"earthshaker_enchant_totem":"Enchant Totem is gotten a bit later(though you could argue lv. 3 if you want) because it is only really useful with Aftershock in the early game. When you cast enchant totem with aftershock, you do an aoe stun and buff up your physical damage. This should be stacked after fissure if possible!",
+				"earthshaker_aftershock":"Aftershock allows all of your other spells to do an aoe stun + damage around you. This skill is very important for chain stunning with echo, enchant, and fissure!",
+				"earthshaker_echo_slam":"Echo Slam, when used properly, allows Earthshacker to do massive aoe damage. Try to save it for when you are close to creeps, or lots of heroes are bunched up, as it will increase the total damage done. Use it early game for an extra stun with aftershock and try to set up kills!",
+				"attribute_bonus":"Stats are gotten at normal increments, but if you really don't want extra levels of enchant totem, you can put them off."
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "dotaId": "javelin",
+  "id": 7,
+  "img": "javelin_lg.png",
+  "dname": "Javelin",
+  "qual": "component",
+  "cost": 1500,
+  "desc": "Пассивная: Pierce — дает шанс нанести дополнительный урон при каждой атаке.",
+  "notes": "",
+  "attrib": "+ 21 УРОНА<br/>ШАНС ПРОНЗИТЬ: 20%<br/>ПРОНЗАЮЩИЙ УРОН: 40",
+  "mc": false,
+  "cd": false,
+  "lore": "На удивление типичное копье, которым иногда можно пробить вражескую броню.",
+  "components": null,
+  "created": false
+}

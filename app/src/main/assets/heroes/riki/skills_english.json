@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Smoke Screen",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Throws down a smoke bomb, silencing enemies, causing causing them to miss most attacks, as well as slowing movement and turn speed.",
+        "notes": "Doesn\u0027t prevent the use of active items.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">250/275/300/325</font></b><br/>MISS RATE: <b><font color=\"#ffffff\">40%/50%/60%/70%</font></b><br/>TURN SLOW: <b><font color=\"#ffffff\">30%</font></b><br/>DURATION: <b><font color=\"#ffffff\">6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/80/85/90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 11",
+        "lore": "Since his escape during the night of his betrayal, Riki has valued the use of a simple smoke screen to confuse his opponents.",
+        "hurl": "Riki",
+        "name": "riki_smoke_screen",
+        "youtube":"s6qBkIfSEd4",
+        "id": 0
+    },
+    {
+        "dname": "Permanent Invisibility",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Riki fades into the shadows, becoming invisible and gaining additional health regeneration.  If Riki attacks an enemy or is silenced, Riki will become visible.",
+        "notes": "Riki won\u0027t auto attack enemies while invisible.",
+        "dmg": "",
+        "attrib": "FADE DELAY: <b><font color=\"#ffffff\">8/6/4/2</font></b><br/>INVIS HEALTH REGEN: <b><font color=\"#ffffff\">4/5/6/7</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8/6/4/2",
+        "lore": "Riki comes for you.",
+        "hurl": "Riki",
+        "name": "riki_permanent_invisibility",
+        "youtube":"Mtmn28XX-NM",
+        "id": 1
+    },
+    {
+        "dname": "Backstab",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "If Riki attacks from behind, bonus damage is applied based on his current agility.",
+        "notes": "Illusions of Riki will play Backstab animations, but not deal any bonus damage.<br/>Bonus damage from Backstab can\u0027t be evaded.",
+        "dmg": "",
+        "attrib": "AGI DAMAGE MULT: <b><font color=\"#ffffff\">0.5/0.75/1/1.25</font></b>",
+        "cmb": "",
+        "lore": "The Stealth Assassin is not afraid to fight dirty, and specializes in attacking his opponents from behind.",
+        "hurl": "Riki",
+        "name": "riki_backstab",
+        "youtube":"7-23pjRKsno",
+        "id": 2
+    },
+    {
+        "dname": "Blink Strike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Teleports behind the target unit, striking for bonus damage if it is an enemy. Blink Strike charges restore every 35 seconds.",
+        "notes": "Riki\u0027s first attack after Blink Strike will be a backstab.<br/>Blink Strike\u0027s damage is dealt before the next attack.<br/>You can Blink Strike to allies, but no damage is dealt.",
+        "dmg": "",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">800</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">40/70/100</font></b><br/>MAX CHARGES: <b><font color=\"#ffffff\">4/5/6</font></b><br/>CHARGE RESTORE TIME: <b><font color=\"#ffffff\">35</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 40",
+        "lore": "The Stealth Assassin\u0027s agile movement makes him impossible to escape.",
+        "hurl": "Riki",
+        "name": "riki_blink_strike",
+        "youtube":"fdacdcXVqYc",
+        "id": 3
+    }
+]

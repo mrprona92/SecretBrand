@@ -1,0 +1,119 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Solo mid utility teamfight (updated for 6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"bottle",
+				"blink",
+				"ultimate_scepter",
+				"tpscroll",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"gem",
+				"ancient_janggo",
+				"radiance",
+				"vladmir",
+				"necronomicon",
+				"assault",
+				"shivas_guard",
+				"sheepstick",
+				"heavens_halberd",
+				"black_king_bar",
+				"hand_of_midas",
+				"force_staff"
+			],
+			"Situational Part 2":
+			[
+				"orchid",
+				"sphere",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Helps clap, split initiation a lot. Sometimes worth getting before arcane. Once you have aghas, blink, clap, split, clap provides a lot of burst damage, and if you can throw beer on an enemy carry beforehand, all the better.",
+				"gem":"As a quite tanky initiating hero, you are a natural gem carrier. The truesight carries through split, which can help in teamfights vs heroes like weaver that tend to move around invis a lot during fights.",
+				"hand_of_midas":"While brew seems like a good midas hero due to his dependence on both XP and gold, it's rarely worth the delay to blink. If you know you aren't going to need to initiate for a while, it can be nice, but if you aren't playing aggressive midgame, you probably should have picked a different mid.",
+				"vladmir":"Very good if you have a melee carry. The bonus armour is nice at all times, and as it now stacks with AC, if you get both, that tanks you and your team up significantly.",
+				"sheepstick":"Good for any utility hero or initiator, especially those that go blink such as brew. Conveniently solves brew's mana difficulties as well.",
+				"orchid":"Situationally good on any utility hero. Get if there is one hero on the opposing team that you really HAVE to silence in fights and you don't think you'll be able to get a sheepstick in time.",
+				"force_staff":"Can be gotten in the place of blink. Much worse for initiation than blink, but in rare circumstances where you badly need a Forcestaff (getting wrecked by Ursa or something) and don't have enough for both, it can work semi-okay. Generally don't get both, it delays aghs too much.",
+				"necronomicon":"Necro book is situationally good on any utility hero for pushing and teamfight. Keep in mind that the warriors have a BAT of 1.0 so assault cuirass makes them even scarier than usual.",
+				"ultimate_scepter":"Makes the brewlings gain a huge amount of additional power. The evasion on fire helps a lot as he is your primary damage dealer, and additional burst damage on earth helps kill people and keep them from running away in skirmishes. Throwing beer on the enemy carry with wind is also hugely useful.",
+				"refresher":"Theoretically seems like a reasonable choice for splitting twice in a row, but the mana demands are very high. \"Rejected\" may be too strong a word, but refresher is something you really have to think about before buying on brew.",
+				"assault":"Really nice aura carries through split and makes the team tougher and attack faster. Now that it stacks with vlads, consider getting both late game for the extra armor. The armour and attack speed makes the brewmaster himself much stronger.",
+				"heart":"Only get heart if your brewlings have lost effectiveness or for some other reason you're forced to fight in brewmaster form a lot and need the extra tank.",
+				"black_king_bar":"Like Halberd, split makes BKB very situational, but some games require it.",
+				"shivas_guard":"Permanently solves brew's mana issues, decent added teamfight, and tanks him up nicely.",
+				"sphere":"Nice for a more reliable initiation, helps with mana concerns. Fairly expensive though, so not always worth the trouble.",
+				"radiance":"The aura carries through split, but it's usually not worth getting unless you're dominating hard",
+				"bfury":"You're not a hard carry. Brew can scale decently as a right clicker, but once you split, most items are irrelevant. The sustain isn't particularly useful when you have bottle, you won't make much use of the cleave, and the damage isn't cost effective.",
+				"arcane_boots":"Mostly fixes brews mana issues.",
+				"ancient_janggo":"Drums helps Brew's mana issues and the mobility is nice. Good item for any utility hero.",
+				"heavens_halberd":"Not the greatest on brew since you can't use it during split, but the active can be handy and it provides decent hp for tankiness (the evasions stack helps a bit too). Very situational, but worth considering if your team needs one and nobody else can realistically get it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_brawler",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_haze",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_drunken_haze":"Often worth getting an early level to mess up an enemy's last hitting or limit the impact of some carries (void for instance). Can make some mid matchups much easier - beer at level 1/2 will make an SF's life a living hell for instance. Consider at level 4 if you're facing strong right-clickers.",
+				"brewmaster_drunken_brawler":"Guaranteed crit is very nice for ganking with blink dagger. In effect, it gives you an additional small single target physical damage nuke, which can be quite useful especially early game when the Brewmaster should be significantly outlevelling most heros."
+		}
+	}
+}

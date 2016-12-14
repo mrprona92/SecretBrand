@@ -1,0 +1,118 @@
+{
+	"Hero":"venomancer",
+	"Title":"Cpt.Rage : Venomancer full support (Position 5)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"boots",
+				"magic_wand",
+				"smoke_of_deceit",
+				"flying_courier",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"ward_observer",
+				"arcane_boots",
+				"bracer"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"cyclone",
+				"sheepstick",
+				"heavens_halberd",
+				"ghost",
+				"ultimate_scepter",
+				"force_staff",
+				"rod_of_atos"
+			],
+			"Rejected":
+			[
+				"ring_of_aquila",
+				"invis_sword",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"If you are having problems with right click carries",
+				"clarity":"Clarity is required to gank or get lane kills early on. as venmous gale is an expensive level one skill",
+				"ward_observer":"Always go for level 1 wards even if u have to buy both wards and courier. Contiune warding troughout the game, buy about 1 stack ever 6 min",
+				"courier":"Always go for a courier if nobody else is getting it.",
+				"bracer":"Venomancer is very squishy and bracers is a cheap effective way to get hit points. Skip this if you are doing very well",
+				"mekansm":"A good item on venomancer if you can get it early enough (before 25 min)",
+				"flying_courier":"Use your first 220 gold to upgrade courier if no one have already done so",
+				"urn_of_shadows":"Good item if you get some early kills",
+				"sheepstick":"Late game hex is always good if you get enough farm",
+				"cyclone":"Flat movement speed helps venomancers low base movement speed",
+				"force_staff":"Can be used to land good ulties or simply counter heroes like ursa, riki or naix.",
+				"ultimate_scepter":"Good damage increase if you get early farm or kills",
+				"manta":"Venomancer is not a carry...",
+				"invis_sword":"If you find it hard to land an ultimate force staff or blink dagger is better. Venomancer will not benefit from the damage and attack speed",
+				"arcane_boots":"If there is enough arcanes on the team tranquil or threads can be used instead.",
+				"ancient_janggo":"Get if you already have bracers and nobody on the team have drums",
+				"smoke_of_deceit":"Venomancer is an excellent ganker. Smoke is only needed in higher skilled games where people buy wards.",
+				"rod_of_atos":"A good choice of you skipped the arcane boots and still need some extra hp. Can be very effective against enemies that can easily be kited",
+				"heavens_halberd":"Late game survivability and good against right click carries. Disarm works even if target use bkb after being affected",
+				"ring_of_aquila":"Basi ring can be good in some situations, but get a bracer instead of the wraithband "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_poison_sting",
+			"9":"venomancer_venomous_gale",
+			"10":"venomancer_venomous_gale",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_venomous_gale",
+			"13":"venomancer_poison_sting",
+			"14":"venomancer_poison_sting",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"One of the best level one skills in the game'. Slow does not increase so it is ok to keep it at level one.",
+				"venomancer_poison_sting":"Great for harassment, skill one early level, two if the enemy team have templar assassin, as level one will not tick off refraction charges.",
+				"venomancer_plague_ward":"Great scouting tool, use all the time everywhere",
+				"venomancer_poison_nova":"Good ulti, hit as many as possible in a team fight and your job is done.",
+				"attribute_bonus":"Sometimes stats can be leveled after wards instead of venomous gale and poison sting. Especially if you are struggling to stay alive."
+		}
+	}
+}

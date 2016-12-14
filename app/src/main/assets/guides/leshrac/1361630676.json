@@ -1,0 +1,101 @@
+{
+	"Hero":"leshrac",
+	"Title":"Support in action",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"gauntlets",
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"magic_wand",
+				"urn_of_shadows",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"flying_courier",
+				"ancient_janggo",
+				"ultimate_scepter",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Increase your health",
+				"branches":"Increases regen",
+				"boots":"Required item for every hero",
+				"magic_stick":"Restore your HP and mana after fights",
+				"magic_wand":"Survival item",
+				"clarity":"Leshrac need mana so much",
+				"ward_observer":"Extra vision",
+				"courier":"Most needed item in every game",
+				"phase_boots":"Awesome movement speed",
+				"bracer":"Great survival item",
+				"mekansm":"Express healing",
+				"flying_courier":"Don't forget to upgrade your courier!",
+				"pipe":"Alternative for Mekansm",
+				"urn_of_shadows":"Great item in massive fights",
+				"ultimate_scepter":"Upgrade your ulti",
+				"ancient_janggo":"Greatest movement speed increaser"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_lightning_storm",
+			"2":"leshrac_split_earth",
+			"3":"leshrac_lightning_storm",
+			"4":"leshrac_diabolic_edict",
+			"5":"leshrac_split_earth",
+			"6":"leshrac_diabolic_edict",
+			"7":"leshrac_split_earth",
+			"8":"leshrac_lightning_storm",
+			"9":"leshrac_split_earth",
+			"10":"leshrac_diabolic_edict",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_diabolic_edict",
+			"14":"leshrac_pulse_nova",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Great disabling spell. Also can be used for farm",
+				"leshrac_diabolic_edict":"Use it to farm, harass or break towers",
+				"leshrac_lightning_storm":"This spell helps you farm or finish low HP enemy",
+				"leshrac_pulse_nova":"Great harass spell, but much depends from mana. I recommend to use it with great mana reserve, can be useless on early game",
+				"attribute_bonus":"Upgrade yourself!"
+		}
+	}
+}

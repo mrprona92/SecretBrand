@@ -1,0 +1,72 @@
+{
+	"Hero":"faceless_void",
+	"Title":"GreyShark.Faceless Void #1",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"lifesteal",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"mjollnir",
+				"greater_crit",
+				"helm_of_the_dominator"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"assault",
+				"satanic"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_time_walk",
+			"4":"faceless_void_backtrack",
+			"5":"faceless_void_time_lock",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_walk",
+			"8":"faceless_void_backtrack",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_time_walk",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_backtrack",
+			"13":"faceless_void_time_lock",
+			"14":"faceless_void_time_lock",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

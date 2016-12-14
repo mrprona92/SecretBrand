@@ -1,0 +1,139 @@
+{
+	"Hero":"invoker",
+	"Title":"6.81 Kz - xvi_7's Quas-Exort Invoker.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"flask"
+			],
+			"Early Game (Purchase Order)":
+			[
+				"ring_of_basilius",
+				"boots",
+				"magic_stick",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"force_staff",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"blink",
+				"refresher",
+				"orchid",
+				"cyclone",
+				"skadi",
+				"shivas_guard",
+				"ultimate_scepter",
+				"sheepstick",
+				"black_king_bar",
+				"necronomicon",
+				"sphere"
+			],
+			"Late Game":
+			[
+				"travel_boots",
+				"ultimate_scepter",
+				"force_staff",
+				"refresher",
+				"skadi",
+				"sheepstick"
+			],
+			"Item to Avoid":
+			[
+				"bottle"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"More mobility, why not?",
+				"ring_of_protection":"For bonus armor and be build to Basillus later.",
+				"mantle":"Extra intellegent for last hitting, you can consider buying circlets. Also build into Talisman later.",
+				"branches":"Best item in game.",
+				"magic_wand":"I couldn't explain how this item is very important.",
+				"flask":"I might choose this over tango because quas passive regen is kinda imba, and if you get nuked, this will heal you faster, also cheaper.",
+				"bottle":"THIS IS EXTREMLY SITUATIONAL ITEMS.
+1st. It will delay every single core item
+2nd. You dont really need mana & hp regen.
+3rd. Your moving speed without wex wont help controling rune
+4th. Stay at your lane.",
+				"tango":"You dont really need Salve since you have quas regen, so 1 tango is enough.",
+				"tpscroll":"ALWAYS carry this item, if your team got ganked or you cant escape a gank, go tp out.",
+				"phase_boots":"More movement speed for the slow invoker also bonus damage, if you have a good farm, Boots Of Travel on 16 - 20 mins mark is better.",
+				"hand_of_midas":"You should get Boots Of Speed before getting this item, build this on 6-9 minutes mark. Dont rush if you couldnt make one, it will delay your core items.",
+				"null_talisman":"Extra stats never dissapointing. Choose between 3 GGbranch + mantle and this",
+				"ring_of_basilius":"Extra early mana regen + bonus armor (works on forgespirit).",
+				"sheepstick":"A very good item on invoker, a superb disable for the team, and pretty good mana regen.",
+				"orchid":"A huge item on invoker, especially if you could grab it under 20 min. Naix, Auntie Mage, Queen Of Pain and another skill dependent hero hates this item.",
+				"cyclone":"Eul, Sunstrike, Meteor, Deafening Blast 1 shot kill! Cheap disabler, also gives you decent mana regen and survivability (while your invoke is cd or going to ghost walk, evade an arrow, kunkka ship)",
+				"force_staff":"This item could save you from ganks or initiating. It also could save your team mates.",
+				"necronomicon":"This imba book could be the gamechange.",
+				"ultimate_scepter":"2 Seconds Cooldown and Reduce Mana to 0, Perfect item for Invoker. CHOOSE WISELY going straight aghanim or rushing hex for extra disable.",
+				"refresher":"Get this in late game, if enemy doesnt have much magic immune and resistance.",
+				"assault":"Bonus armor for you, and your allies, also minus armor for the enemy which are great. But consider making this if your enemy team have dazzle, shadow fiend, or elder titan, AND IF your carry/team mates doesnt make one.",
+				"black_king_bar":"Too many disablers? Getting killed before you could use spells? Get this A.S.A.P",
+				"shivas_guard":"I love the AOE Slow and the active slow, it really helps many teamfights, srlsy, believe me.",
+				"sphere":"If your enemy team have doom or beast master, feel free to get this item, I dont really recommend  this item since you're not really the one who gonna start the fight. Nice regen and stats too.",
+				"skadi":"You can get this on late game or if enemy team got magic immune / resistance. Good bonus attribute and HP which gives you more survivability.",
+				"rod_of_atos":"+ HP, Int, Cripple Slow = Imba. But consider getting your another core items than this, get this if you think you have extra money and SLOT."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_quas",
+			"5":"invoker_exort",
+			"6":"invoker_exort",
+			"7":"invoker_quas",
+			"8":"invoker_exort",
+			"9":"invoker_quas",
+			"10":"invoker_wex",
+			"11":"invoker_invoke",
+			"12":"invoker_exort",
+			"13":"invoker_invoke",
+			"14":"invoker_exort",
+			"15":"invoker_exort",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_wex",
+			"21":"invoker_wex",
+			"22":"invoker_wex",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_cold_snap":"This is your main skill in early game, harrash your opponent with this skill, a combo with forge spirits or chaos meteor works perfectly againts any hero.",
+				"invoker_ghost_walk":"A ghost walk could be used to escape, or suicide. Slow movement speed, but also could be use to slow enemy down while your enemy team trying to chase em down.",
+				"invoker_tornado":"A super mid game disable, a great counter initiaton, it also debuff enemy heroes, such drums, empower, etc. Tornado, Meteor, Daefening Blast is your main crowd control combo.",
+				"invoker_emp":"Use this in late game, annoy enemy heroes by burning their mana, it also drain the mana for you.",
+				"invoker_alacrity":"Use alacrity on forge spirit, or your team's carry. With lv 4 Quas, forge spirit outrange towers, using this on forge spirit will gives a nice damage on tower.",
+				"invoker_chaos_meteor":"Deadly yet hard to land, this is your main skill at team fight, use cold snap or tornado to make sure this will land on your enemy's face. Using Daefening Blast after Chaos Meteor will give your enemies a nightmare.",
+				"invoker_sun_strike":"Your main ganking skill, Invoker doesn't need to leave lane to ganks, with this global nuke. Hard to land, need some practice, you can use this to make sure enemy hero dies while he run, or stunned.",
+				"invoker_forge_spirit":"You'll have 2 spirits with 4 quas and 4 exort, always spawn these 2 spirits before team war or ganking, also whie pushing towers. You can also use forge spirit to help laning or controling runes.",
+				"invoker_ice_wall":"Ice Wall, another annoying aoe skill. Lanaya also hate this since a level 3 exort could break Refraction every single second.",
+				"invoker_deafening_blast":"Use this after meteor, or saving your team mate, a great disarm while your carry finish enemy team. "
+		}
+	}
+}

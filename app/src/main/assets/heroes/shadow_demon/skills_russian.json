@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Disruption",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ненадолго изгоняет цель из этого мира. После возвращения создаются две иллюзии изгнанного героя, переходящие под ваш контроль.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ИЗГНАНИЯ: <b><font color=\"#ffffff\">2.5/2.5/2.5/2.5</font></b><br/>ВРЕМЯ ЖИЗНИ ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>УРОН ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>УРОН ПО ИЛЛЮЗИЯМ: <b><font color=\"#ffffff\">150%/150%/150%/150%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 25/22/19/16",
+        "lore": "Боль от обмана приходит не тогда, когда он случается, а когда о нем узнают.",
+        "hurl": "Shadow_Demon",
+        "name": "shadow_demon_disruption",
+        "youtube":"W2-DkeB2RiE",
+        "id": 0
+    },
+    {
+        "dname": "Soul Catcher",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Случайный враг в области действия попадает под воздействие проклятия, которое значительно увеличивает весь получаемый им урон. Герои, находящиеся под действием способности Disruption, всё равно могут стать целью заклинания.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УСИЛЕНИЕ УРОНА: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">450/450/450/450</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">12/12/12/12</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/60/70/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13",
+        "lore": "Попытки сопротивляться порабощению Shadow Demon в большинстве случаев ни к чему не приводят.",
+        "hurl": "Shadow_Demon",
+        "name": "shadow_demon_soul_catcher",
+        "youtube":"Yssy_fTDqGo",
+        "id": 1
+    },
+    {
+        "dname": "Shadow Poison",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Наносит урон при попадании по прямой и отравляет врагов. Первые пять повторных применений по той же цели увеличивают урон от яда до 1/2/4/8/16 раз от базового, за последующие добавляется по 50 урона. Этот накопленный урон наносится по окончании действия Shadow Poison или при использовании дополнительной способности Release Poison.",
+        "notes": "Действует на юнитов под эффектом от Disruption.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">50/50/50/50</font></b>",
+        "attrib": "БАЗОВЫЙ УРОН: <b><font color=\"#ffffff\">20/35/50/65</font></b><br/>КОЛИЧЕСТВО НЕЛИНЕЙНЫХ НАКОПЛЕНИЙ: <b><font color=\"#ffffff\">5</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">190</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10/10/10/10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 40<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 2.75",
+        "lore": "Всё сильнее растущее влияние Shadow Demon может погубить даже самых стойких и честных героев.",
+        "hurl": "Shadow_Demon",
+        "name": "shadow_demon_shadow_poison",
+        "youtube":"XMIJwFcSAuM",
+        "id": 2
+    },
+    {
+        "dname": "Shadow Poison Release",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Выпускает яд, нанося урон всем зараженным врагам. Юниты, изгнанные Disruption, могут получать урон от Shadow Poison.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1",
+        "lore": "",
+        "hurl": "Shadow_Demon",
+        "name": "shadow_demon_shadow_poison_release",
+        "youtube":"-v8vJdePA-k",
+        "id": 3
+    },
+    {
+        "dname": "Demonic Purge",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Очищает цель, снимая с нее все положительные эффекты и замедляя на время действия заклинания. Скорость передвижения цели постепенно возрастает, полностью восстанавливаясь к окончанию заклинания. По окончании действия цель получает урон. Эффект заклинания сработает на врагов, изгнанных способностью Disruption.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Замедляет врагов, невосприимчивых к заклинаниям.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">200/300/400</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5/5/5</font></b><br/><font color=\"#6fe871\">ВРЕМЯ ВОССТАНОВЛЕНИЯ ЗАРЯДА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">40</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/200/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50",
+        "lore": "Когда последователь теряет всякую ценность, Shadow Demon лишает его статуса… и жизни.",
+        "hurl": "Shadow_Demon",
+        "name": "shadow_demon_demonic_purge",
+        "youtube":"nP4Hyx9hbjw",
+        "id": 4
+    }
+]

@@ -1,0 +1,134 @@
+{
+	"Hero":"treant",
+	"Title":"[6.82] Half-serious Pubstomp Guide to Treant by rtwfm",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"courier",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"ring_of_basilius",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"mekansm",
+				"blink",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"assault",
+				"heavens_halberd",
+				"orchid",
+				"ultimate_scepter"
+			],
+			"Too much gold?":
+			[
+				"pipe",
+				"radiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"You need good positioning to use your R. You are a tardy treant. You need a blink! :D",
+				"ring_of_protection":"So much health, so low armor...
+For your future Basilius Ring.",
+				"gauntlets":"For your future Bracer.",
+				"branches":"One can never have too many branches.",
+				"boots":"Run, Treant! Run!",
+				"ward_observer":"This is serious, man.
+You need wards, your team need wards.
+SO YOU BUY WARDS.",
+				"ward_sentry":"This is serious, man.
+You need wards, your team need wards.
+SO YOU BUY WARDS.",
+				"tango":"Just some regen, you should spam your E on allies and turrets, so you should use tango on you.
+I'm sure that our tree friends understand.",
+				"courier":"So you are a Treant. Treants love Nature. So what about giving some love to this poor little fella?",
+				"bracer":"For your future Drum of Endurance.",
+				"mekansm":"Your team requires your protection!
+More armor, more regen and a healing ability.
+What else you may desire?",
+				"ring_of_basilius":"You want to use your W while spamming your E? So you need mana regen.
+For your future Mekansm.",
+				"pipe":"You protect that which cannot protect itself. But what protects you? Tank yourself and give to your whole team a magic shield!",
+				"orchid":"Look at that annoying freak with a chainsaw! He keeps jumping here and there destroying all our loved trees! Against casters like him bloom this flower from your branches and there will be one less lumberjack.",
+				"ultimate_scepter":"Unlimited and eternal wards for free! Very situational.",
+				"assault":"GIMME MORE ARMOR! GIMME MORE ATTACK SPEED!",
+				"shivas_guard":"Let your enemies taste our slowness.",
+				"radiance":"You like to stalk your enemies? Do some damage in the meanwhile. But pay attention to not burn any tree!",
+				"arcane_boots":"Man, at this point of the game you need mana, seriously.",
+				"ancient_janggo":"Trees are not so good with motion, you know.
+This will help a bit!
+You can replenish the charges by purchasing another recipe!",
+				"heavens_halberd":"Let's say that the enemy team has a farmed carry. This thing will shut him down for 3 - 4.5 seconds.
+Oh, and I mentioned that your ultimate has the same effect, too? He will do nothing for up to 9 seconds.
+They will give a little respect for the forest, after this."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_living_armor",
+			"2":"treant_leech_seed",
+			"3":"treant_living_armor",
+			"4":"treant_leech_seed",
+			"5":"treant_leech_seed",
+			"6":"treant_overgrowth",
+			"7":"treant_living_armor",
+			"8":"treant_leech_seed",
+			"9":"treant_living_armor",
+			"10":"treant_natures_guise",
+			"11":"treant_overgrowth",
+			"12":"treant_natures_guise",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"Hmm. Where's a tree when you need one?
+You will ask yourself this frequently. This skill let you stalk your enemies, gank them, push lanes and escape safely. It's not that usefull into the lane phase, take it later. Remember that invisibility will break if you move more than 375 away from a tree.",
+				"treant_leech_seed":"Nature is not always kind.
+And this spell show your enemies that this is true. Coordinate with your ally to gank, this ability will grant you healing and will slow the enemy while doing some damage. Deals a maximum of 67/135/202/270 damage, considering 25% Magic Resistance.",
+				"treant_living_armor":"You will spam this a lot. It has a global range, so you can spam it through the minimap to your allies in different lanes and to our loved turrets (Sorry, TOWERS).
+Blocks up to 80/200/360/560 damage and/or heals up to 60/105/150/195.
+Save the cheerlead...emh, the towers, save the world.",
+				"treant_overgrowth":"This is a MUST in teamfight.
+Your enemies will be rooted in place and will not be able to attack for 3/4/4.5 seconds. It's a huge advantage for your team, go invisible and then use it to initiate any teambattle.
+P.S.
+PA can still move around with Phantom Strike!",
+				"attribute_bonus":"Riki was here!"
+		}
+	}
+}

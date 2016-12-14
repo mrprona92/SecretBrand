@@ -1,0 +1,19 @@
+{
+  "dotaId": "headdress",
+  "id": 94,
+  "img": "headdress_lg.png",
+  "dname": "Headdress",
+  "qual": "rare",
+  "cost": 600,
+  "desc": "Passive: Regeneration Aura - Restores health to allies in a 900 unit radius.<br/><br/>Multiple instances of Regeneration Aura do not stack.",
+  "notes": "",
+  "attrib": "+ 2 All Attributes<br/>AURA HEALTH REGEN: 3<br/>AURA REGEN RADIUS: 900",
+  "mc": false,
+  "cd": false,
+  "lore": "Creates a soothing aura that restores allies in battle.",
+  "components": [
+    "ring_of_regen",
+    "branches"
+  ],
+  "created": true
+}

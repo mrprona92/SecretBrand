@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Strafe",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Clinkz начинает вести заградительный огонь. Значительно увеличивает скорость атаки на короткое время.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/6/8/10</font></b><br/>ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">130</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/90/90/90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 45/40/35/30",
+        "lore": "Трудно сказать, вызвано ли мерцание вокруг костяного лучника теплом его раскаленного сердца или скоростью, с которой он достает стрелы из колчана.",
+        "hurl": "Clinkz",
+        "name": "clinkz_strafe",
+        "youtube":"6ZXx_EB7RqA",
+        "id": 0
+    },
+    {
+        "dname": "Searing Arrows",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Наполняет стрелы Clinkz огнем, позволяя наносить дополнительный урон.",
+        "notes": "Наносит урон строениям.<br/>Дополнительный урон напрямую добавляется к вашему физическому урону.",
+        "dmg": "",
+        "attrib": "ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">30/40/50/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 10<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Clinkz поджигает стрелы своей огненной сущностью, что придает им поистине разрушительную мощь.",
+        "hurl": "Clinkz",
+        "name": "clinkz_searing_arrows",
+        "youtube":"jYysnmhcZ7Y",
+        "id": 1
+    },
+    {
+        "dname": "Skeleton Walk",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Clinkz незаметно передвигается сквозь юнитов, пока не нанесет удар или не использует способность.",
+        "notes": "Не прерывает прочтение заклинаний.<br/>Уход в невидимость занимает 0,6 секунды.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">20/25/30/35</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">11%/22%/33%/44%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/75/75/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/19/18/17",
+        "lore": "Вспышка огня, клубы дыма — и костяного лучника не видать.",
+        "hurl": "Clinkz",
+        "name": "clinkz_wind_walk",
+        "youtube":"zr56m_VHdCU",
+        "id": 2
+    },
+    {
+        "dname": "Death Pact",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">юнитов</font></b>",
+        "desc": "Clinkz пожирает душу союзного или вражеского крипа, увеличивая свои максимальное здоровье и урон в процентном соотношении от текущего здоровья жертвы.",
+        "notes": "Если цель заклинания — враг, то вы получите за него обычные опыт и золото.<br/>Увеличивает текущий и максимальный запас здоровья.<br/>По окончании действия заклинания максимальный уровень здоровья становится обычным, но текущее здоровье при этом не меняется.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">35</font></b><br/>ПРИОБРЕТЕННОЕ ЗДОРОВЬЕ: <b><font color=\"#ffffff\">50%/65%/80%</font></b><br/>ПРИОБРЕТЕННЫЙ УРОН: <b><font color=\"#ffffff\">5%/6.5%/8%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 45/35/25",
+        "lore": "Связь жизни и смерти стала частью Clinkz, и теперь его старые кости требуют принести в жертву низших существ.",
+        "hurl": "Clinkz",
+        "name": "clinkz_death_pact",
+        "youtube":"fS5fKvleNro",
+        "id": 3
+    }
+]

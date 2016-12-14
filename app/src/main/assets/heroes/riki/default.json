@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_riki",
+	"Title":"Recommended items for Riki",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"slippers",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"poor_mans_shield"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"magic_wand",
+			"diffusal_blade",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"butterfly",
+			"ancient_janggo",
+			"vanguard",
+			"black_king_bar",
+			"sange_and_yasha",
+			"abyssal_blade"
+		]
+	}
+}

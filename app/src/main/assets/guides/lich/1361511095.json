@@ -1,0 +1,119 @@
+{
+	"Hero":"lich",
+	"Title":"6.82 - Hard Support Lich",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"courier",
+				"ward_observer",
+				"gauntlets",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"flying_courier",
+				"bracer",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"mekansm",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"veil_of_discord",
+				"necronomicon",
+				"ancient_janggo",
+				"ghost",
+				"force_staff"
+			],
+			"Luxury Items":
+			[
+				"sheepstick",
+				"orchid",
+				"shivas_guard"
+			],
+			"Situational Support Items":
+			[
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Doubles your starting armor and lets you make tranquils in lane. Get this if you didn't get both Wards and Courier.",
+				"gauntlets":"An extra 57 health and builds into Bracer.",
+				"boots":"Get these as soon as possible.",
+				"ghost":"If you're getting taken down by enemy right-clickers, buy either this or force staff as soon as possible.",
+				"ward_observer":"Buy either this or courier, buy both if you're the only support.",
+				"ward_sentry":"Counter-warding is great for rune control, ganking, and keeping your pull camps safe. Only get these if it's likely the enemy is warding or the enemy team has an invis hero.",
+				"tango":"Great for early regen and helps with pulling camps for lane control.",
+				"courier":"Buy either this or wards, buy both if you're the only support.",
+				"bracer":"Health, mana, and damage. Keeps you alive and helps you deny.",
+				"mekansm":"Unless someone else is already going Mek, get this quickly, it makes a big difference in team-fights.",
+				"flying_courier":"Upgrade this early, especially if it's being used heavily.",
+				"sheepstick":"Great for shutting down an enemy carry in a team-fight, but it can be very hard to get the gold for a Mystic Staff, especially if you are the only support.",
+				"orchid":"Can be a slightly easier to build alternative to Scythe. Makes your right-click somewhat fearsome and the extra mana/mana regen removes your dependency on creeps, allowing you to roam and push better.",
+				"force_staff":"A useful escape mechanism. Can also force enemies out of position.",
+				"necronomicon":"Team-fight damage, pushing power, and invisibility detection at level 3. (Good against invis heroes and for de-warding.)",
+				"ultimate_scepter":"A great item if the enemy team has poor positioning or you have good ally crowd control to make sure Chain Frost lands as many hits as possible.",
+				"shivas_guard":"A lot more mana, a lot more tankiness, and both the passive and active are great for team-fights.",
+				"ancient_janggo":"If no one else goes Drums, upgrade your bracer.",
+				"veil_of_discord":"A cheaper alternative to Aghanim's. Especially good if your team has other heavy sources of magic damage.",
+				"tranquil_boots":"The boots of choice for most supports."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_dark_ritual",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_frost_nova",
+			"9":"lich_frost_armor",
+			"10":"lich_dark_ritual",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Spammable harass/nuke with a decent slow. Remember your primary target takes both Damage and Area Damage.",
+				"lich_frost_armor":"Can be taken early, but often isn't worth it until team-fights become more prevalent. As of 6.81 it affects towers.",
+				"lich_dark_ritual":"Deny creeps whenever you need to pull your lane back or boost your mana. Remember that sacrifice shares XP between both friendly and enemy heroes.",
+				"lich_chain_frost":"Watch for clustered enemies with no nearby creeps. Don't be too cautious! Chain Frost can cause enemies to scatter into disarray and will break channeling on the first target."
+		}
+	}
+}

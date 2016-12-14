@@ -1,0 +1,49 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "tinker_laser",
+        "2": "tinker_heat_seeking_missile",
+        "3": "tinker_laser",
+        "4": "tinker_heat_seeking_missile",
+        "5": "tinker_laser",
+        "6": "tinker_heat_seeking_missile",
+        "7": "tinker_laser",
+        "8": "tinker_heat_seeking_missile",
+        "9": "tinker_rearm",
+        "10": "tinker_march_of_the_machines",
+        "11": "tinker_rearm",
+        "12": "tinker_march_of_the_machines",
+        "13": "tinker_march_of_the_machines",
+        "14": "tinker_march_of_the_machines",
+        "15": "attribute_bonus",
+        "16": "tinker_rearm",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "tinker_rearm": "ульту прокачивать после приобретения тревелов"
+    }
+}, "Hero": "tinker", "ItemBuild": {
+    "ItemTooltips": {
+        "sphere": "если в тиме врага много маг урона",
+        "dagon_5": "апаем до 5лвла ПОСЛЕ сборки етериала",
+        "null_talisman": "в дальнейшем пригодится для сборки дагона",
+        "dagon": "доп маг урон не помешает",
+        "travel_boots": "с ним и реармом становимся просто супер-ганкером",
+        "bottle": "не раз выручит",
+        "ethereal_blade": "ну просто супер вещь, осторожнее в замесах, ведь с ним получаем доп маг урон"
+    },
+    "Items": {
+        "начальный закуп": ["tango", "flask", "clarity", "clarity", "mantle"],
+        "ранняя игра": ["bottle", "boots", "null_talisman"],
+        "основа": ["travel_boots", "dagon"],
+        "лейт": ["dagon_5", "ethereal_blade"],
+        "по ситуации": ["blink", "soul_ring", "sphere"]
+    }
+}, "Title": "тинкер - ганкер "}

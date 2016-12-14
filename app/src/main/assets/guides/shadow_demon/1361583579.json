@@ -1,0 +1,114 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"6.82 - Standard Shadow Demon (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"arcane_boots",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"mekansm",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support hero, be sure to buy a courier or wards.",
+				"courier":"As a support hero, be sure to buy a courier or wards.",
+				"mekansm":"Because of Shadow Demon's utility without needing items, Mekansm tends to be a priority for him to get. Other heroes may want to get this instead, so it is situational to how your team is composed.",
+				"urn_of_shadows":"Roam hard with Shadow Demon and take advantage of your Urn of Shadows. Urn of Shadows will keep you regenerating a bit of mana and healing allies all throughout the game.",
+				"cyclone":"The extra movement speed helps with Shadow Demon's weak maneuverability and also offers further disables for him to help with ganks.",
+				"force_staff":"Improve your ganking capabilities with Force Staff. The extra regeneration is much desired by Shadow Demon and keeps him on the move and in the right position for his ranged abilities.",
+				"ultimate_scepter":"Remove buffs from enemies and completely cripple nearly half of a team in a short amount of period. Aghanim's could be crucial and a great purge for buffed enemies from heroes like Ogre Magi or Magnus.",
+				"shivas_guard":"Shiva's Guard is to help bolster Shadow Demon's weak armour. The extra active ability is just a nice addition."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_soul_catcher",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_soul_catcher",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_soul_catcher",
+			"8":"shadow_demon_shadow_poison",
+			"9":"shadow_demon_shadow_poison",
+			"10":"shadow_demon_shadow_poison",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"Only one in Disruption for the disability, you have other abilities that are much more useful.
+
+Use Disruption to time AOE stuns and skill shots. Can also be used on damage-dealing allies like Anti-Mage or Gyrocopter for further strength in team-fights!",
+				"shadow_demon_soul_catcher":"Soul Catcher is your strongest skill during the lane phase. Be sure to use it in ganks, it is randomized between those within the AOE, so try to avoid getting creeps within the area-of-effect shot! It's debuff is very strong throughout the game!",
+				"shadow_demon_shadow_poison":"Harass constantly with Shadow Poison and don't forget to release to really weaken your foes. Try to stack 2 or 3 times to really deal some significant damage.",
+				"shadow_demon_demonic_purge":"Use this ability after someone has buffed themselves to fully negate their power and strength. It is a good slow, but should be used to rid enemies' of their strength!"
+		}
+	}
+}

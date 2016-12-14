@@ -1,0 +1,101 @@
+{
+	"Hero":"viper",
+	"Title":"[DMX] Viper (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"ring_of_aquila",
+				"magic_wand",
+				"power_treads",
+				"vanguard",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"manta",
+				"black_king_bar",
+				"ultimate_scepter",
+				"butterfly",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"invis_sword",
+				"monkey_king_bar",
+				"orchid",
+				"hood_of_defiance",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"pipe":"Si l'équipe ennemie dispose de beaucoup de sorts AOE, pipe est un bon choix.",
+				"vanguard":"Viper a besoin de tanker. Car son passif lui donne énormément de dégâts.",
+				"monkey_king_bar":"Faites Monkey King Bar afin de maximiser votre dps.",
+				"invis_sword":"shadow blade est un très bon item d'escape et fonctionne bien dans les parties de bas-moyen niveau. Attention quand même aux adversaires qui pourraient vous révéler."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_nethertoxin",
+			"3":"viper_nethertoxin",
+			"4":"viper_poison_attack",
+			"5":"viper_nethertoxin",
+			"6":"viper_viper_strike",
+			"7":"viper_poison_attack",
+			"8":"viper_nethertoxin",
+			"9":"viper_poison_attack",
+			"10":"viper_corrosive_skin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"Très bon sort pour harass sans prendre l'aggro des creeps. Il vous permet également de pourchasser une cible très aisément.",
+				"viper_nethertoxin":"Un passif des plus intéressant qui vous permettra de last hit facilement. Fonctionne sur les TOURS !",
+				"viper_corrosive_skin":"Ce passif vous permettra de mieux résister lorsque que le carry adverse vous focusera.",
+				"viper_viper_strike":"Un très bon ultimate qui ralentira énormément la vitesse de déplacement de votre adversaire. S'il n'a pas de tp vous pourrez très certainement le tuer.
+Fonctionne sur l'immunité magique."
+		}
+	}
+}

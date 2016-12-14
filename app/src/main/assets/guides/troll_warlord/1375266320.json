@@ -1,0 +1,110 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"Troll War (Jungle) Rus by Kuben",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"lifesteal",
+				"ring_of_basilius",
+				"boots"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"lesser_crit",
+				"power_treads"
+			],
+			"Для поздней игры":
+			[
+				"monkey_king_bar",
+				"vanguard",
+				"skadi",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"satanic",
+				"assault",
+				"sange_and_yasha",
+				"radiance",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Просто необxoдим, в начальной стадии игры! Дополнительный урон позваляет быстрее и больше нафармить на лайне, что в свою очередь даёт возможность быстрее уйти в лес (Иногда уже с вампиркой)! Я примерно ухожу с 3 лвла в лес.",
+				"stout_shield":"Щиток нужен нам как и топорик, особенно блочит урон от нейтральных крипов, а значит мы можем дольше фармить в лесу(Даже если нет вампирки)!",
+				"lifesteal":"Ну про вампирку я думаю смысла говорить нету!",
+				"boots":"Боты нужны дабы нам быстрее бегать и быстрее всё фармить!",
+				"tango":"Тангусик поможет нам и на лайне, и на фарме!",
+				"power_treads":"Про боты я уже объяснял, почему птхи? ТОЛЩЕ БУДЕМ!",
+				"vladmir":"Владимир. Просто Влад!",
+				"ring_of_basilius":"Колечко, даст малый реген, и является одним из компанентов к Bладимиру!",
+				"assault":"С Кирасой такой же случай что и с Молотом, даёт скорость и бронь. Подойдёт так же и для леса, и для лайна.",
+				"sphere":"Линка нужна в крайних случаях, когда в вас часто прилетают ульты, одной меньше будет=) ",
+				"vanguard":"Щит даст нам реген, блок дамага, и немного ПОТОЛСТЕЕМ!",
+				"monkey_king_bar":"МКБ добавить нам неплохой дамаг, и ещё и баши, с учётом что у нас есть и свои от первой способности!",
+				"radiance":"Радик будет неплохой помошью, особенно в крупных замесах.",
+				"greater_crit":"Криты нам необходимы, поскольку скорость у нас большая, да и домаг с ними будет более весомым! А ТЕПЕРЬ ЕЩЁ ВЕСОМЕЙ!",
+				"lesser_crit":"Криты нам необходимы, поскольку скорость у нас большая, да и домаг с ними будет более весомым!",
+				"sange_and_yasha":"Саша и Яша могут быть полезны если вас часто срывают с фарма в лесу, на деф лайна.",
+				"satanic":"Многие скажут нахуй Влада, и соберут Доминатора. Да здесь по вкусу, но лично я после 9 лвл забываю про дальные топоры ибо они не нужны. А Доминатор перекрывает Глаз=(",
+				"mjollnir":"Молот сомнительное удовольствие, но всё же даёт нам ещё скорости, и пасивный шанс удара молнией, подойдёт и для фарм в лесуа и для лайна!",
+				"skadi":"Так как у нас нет уникума, ибо Влад сочитаетсся с ними, берём глаз, +20 ко всем параметрам, и замедление. Хер кто, от такого троляна убежит=)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_fervor",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_berserkers_rage",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_fervor",
+			"8":"troll_warlord_berserkers_rage",
+			"9":"troll_warlord_whirling_axes_ranged",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_whirling_axes_ranged",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_fervor",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"Дальние топоры нужны для, начального фарма, или сборки троля в сапа (Я такое видел, и было давольно не плохо, но сука пиздец смешно).",
+				"troll_warlord_whirling_axes_ranged":"Враг пытается съебаться? А НЕХУЯ ПОДОБНОГО!!! Этот скил замедлит + домаг, может даже добьёшь(Такие случаи, не редкость).",
+				"troll_warlord_whirling_axes_melee":"В замесе или при пвп 1 на 1, очень нужная штука, несёт дамаг + враги мисят.",
+				"troll_warlord_fervor":"Пасива просто создана для фарма, скорость как у ракеты, особенно если дерёшься один на один.",
+				"troll_warlord_battle_trance":"Ульта. В ЛЮБОЙ НЕ ПОНЯТНОЙ СИТУАЦИИ УЛЬТУЙ, или когда тебя попросят.=) Скорость тоже космическая, и Роша падает примерно за 40 сек."
+		}
+	}
+}

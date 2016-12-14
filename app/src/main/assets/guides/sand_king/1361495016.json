@@ -1,0 +1,112 @@
+{
+	"Hero":"sand_king",
+	"Title":"Sand King the Swag King",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"urn_of_shadows",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"tpscroll",
+				"arcane_boots",
+				"blink"
+			],
+			"Situational/Luxury":
+			[
+				"ultimate_scepter",
+				"black_king_bar",
+				"necronomicon",
+				"shivas_guard",
+				"veil_of_discord",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This is an absolute must as Sand King. Without your blink dagger you are next to nothing. Not only does it  allow for that amazing ultimate initiation power, but it is in general good for picking off stragglers thinking they might lurk away in the background. Also jukes.",
+				"gauntlets":"Some extra strength gives you a bit more survivability and will later on be built into an urn of shadows.",
+				"branches":"GG-branches es numero uno. They provide some good early stats and will be used for a magic wand later on.",
+				"boots":"An early boots of speed is important on Sand King. If you are doing your job correctly you should be roaming for kills, and the extra movespeed is important to get in close enough for a burrow strike on early levels.",
+				"magic_wand":"As a melee initiator you will most likely be right in the middle of it gathering up some charges on this sucker. As Sand King does not have the highest mana pool, the charges on your magic wand might very well save your life, or help you end someones else's for that matter.",
+				"clarity":"Sand King is quite mana reliant, and as such a clarity potion or two will probably come in handy.",
+				"tango":"This should be self-explanatory.",
+				"courier":"In 90% of pubs you will probably end up being the 2nd support. Deal with it. If you are doing it right you'll earn back that gold with your amazing tailswag in no time.",
+				"tpscroll":"As Sand King you should always try to carry a teleport scroll. With proper awareness you should be able to punish the other team very hard if they overextend, and we don't say no to some extra killgold as Sand King.",
+				"urn_of_shadows":"As a roaming ganker and initiator, getting urn charges should be no problem. An urn is always good to have and might very well be the difference between life and death.
+
+If there is already an urn on your team you can go bracers instead.",
+				"necronomicon":"A necronomicon is almost always useful. One of the most overpowered pubstrategies in the world of DOTA 2 is mass necrobook. It provides good single target damage and nice pushing power. If you don't know what to get, buy a necro.",
+				"ultimate_scepter":"If you feel like it is going well and you got the money for it, the aghanims scepter is definetly a good item of choice. It gives good stats, increases the number of pulses and most importantly lowers the cooldown significantly.",
+				"black_king_bar":"The Black King Bar allows you to channel up your ultimate uninterrupted in the midst of battle, thus removing the whole problem with proper positioning and blink cooldowns.",
+				"shivas_guard":"The movement slow synergizes well with your ultimate, and some extra mana and survivability never hurts. ",
+				"arcane_boots":"Sand King suffers from a low mana pool, and as such you should usually be looking at getting arcane boots.",
+				"ancient_janggo":"That movement speed is very useful as a roamer and a drums is always good to have on a team.",
+				"veil_of_discord":"For the maximum amount of damage you can buy veil of discord. It gives a higher damage bonus than that of Aghanims scepter, and will also make your teams abilities more effective. This is especially good if your team is already very magic damage reliant."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_sand_storm",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_sand_storm",
+			"9":"sandking_sand_storm",
+			"10":"attribute_bonus",
+			"11":"sandking_epicenter",
+			"12":"sandking_caustic_finale",
+			"13":"sandking_caustic_finale",
+			"14":"sandking_caustic_finale",
+			"15":"sandking_caustic_finale",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sandking_burrowstrike":"The first ability to max. Remember that this can be used to disjoint projetiles.
+
+Units hit by burrowstrike will fly 0.52 seconds before the stun is actually applied, thus effectively making it a 2.69 seconds stun. ",
+				"sandking_sand_storm":"If you are quick on your paws, this can also be used to dodge stuns and projectiles. The invisibility delay is also very good for juking coupled with the burrowstrike.
+The damage of Sand Storm is somewhat underrated, as it at level 3/4 will usually deal more damage than if you were to auto attack.",
+				"sandking_caustic_finale":"An incredibly underrated ability. In this build I have chosen not to skill it early as this build is focused mainly on ganking. If you were to sololane SK against another melee hero this would be the skill to go.
+ Lets you push lanes very fast.",
+				"sandking_epicenter":"An incredibly high impact AOE damagedealer and slow that will leave your enemy literally shaken. The slow also goes through BKB, but the damage does not. Even if you die the pulses will keep going at the location of your death, thus letting you juke/suicide if the moment presents itself.",
+				"attribute_bonus":"Some early stats might be useful if you find yourself without enough mana to be useful, but usually we leave stats for last."
+		}
+	}
+}

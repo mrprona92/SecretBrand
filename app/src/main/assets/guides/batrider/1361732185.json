@@ -1,0 +1,117 @@
+{
+	"Hero":"batrider",
+	"Title":"6.82 - Standard Batrider (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"rod_of_atos",
+				"sphere"
+			],
+			"Extension Items":
+			[
+				"black_king_bar",
+				"travel_boots",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink to gank your opponent and then Flaming Lasso and activate Firefly.",
+				"branches":"Branches are to help alleviate some of the last-hitting difficulty due to Batrider's weak attack damage.
+",
+				"boots":"Generally Batrider doesn't take advantage of any boots. Tranquil is accepted, but in general; you won't need anything beyond standard boots.",
+				"travel_boots":"Late into the game, Batrider will want a pair of boots that will let him push other lanes, jump on foes relatively fast and be able to maneuver quickly with Firefly.",
+				"phase_boots":"Due to his weak attack damage, phase boots become a valid item to consider given the extra damage and increase speed needed during the early stages.",
+				"cyclone":"Keep foes in place to better initiate on them or to single out a specific enemy for further pounding.",
+				"force_staff":"Go farther and faster with this Force Staff. You're using Blink Dagger to reach your opponent, but you want Force Staff to bring the opponent back with you via Flaming Lasso.",
+				"black_king_bar":"Prevent your people disrupting your initiation with Black King Bar. This is an item that can really give you favour as you are heavily relied on for initiation.",
+				"sphere":"Both great for yourself or your allies, Linken's Sphere is becoming a widely accepted for its stats and Spell Block ability.",
+				"arcane_boots":"Though not always necessary, best bought after blink dagger and before Force Staff (to take advantage of Tranquil's disassemble for the Ring of Regeneration).",
+				"rod_of_atos":"Rod of Atos can be an item great for in a pinch where someone is known for fleeing quite fast and away and the range for Rod of Atos makes ganking much easier.",
+				"tranquil_boots":"The extra movement speed and added regeneration effect is great for a roaming Batrider during the early levels."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_sticky_napalm",
+			"2":"batrider_firefly",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_flamebreak",
+			"5":"batrider_sticky_napalm",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_sticky_napalm",
+			"8":"batrider_firefly",
+			"9":"batrider_firefly",
+			"10":"batrider_firefly",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_flamebreak",
+			"13":"batrider_flamebreak",
+			"14":"batrider_flamebreak",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":"Use the low cooldown and cheap mana cost to harass your opponent in lane. Follow this up with regular attacks and watch how fast your opponent will feel incapable in-lane.",
+				"batrider_flamebreak":"Great farming tool in the late-game, however Flamebreak works quite well to prevent foes from running, pushing off cliffs and keeping them with AOE damage.",
+				"batrider_firefly":"Use Firefly to escape or to cause trouble in team-fights. Once activated, you can go over hills, through trees and into team-fights with this.
+
+Firefly works best after using Flaming Lasso as the opponent will take damage in any direction you take him.",
+				"batrider_flaming_lasso":"Wrangle them and activate Firefly. Its range is quite short, so be sure to be very close to your opponent before trying to activate it."
+		}
+	}
+}

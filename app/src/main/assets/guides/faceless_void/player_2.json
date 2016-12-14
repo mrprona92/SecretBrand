@@ -1,0 +1,54 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "faceless_void_time_walk",
+        "2": "faceless_void_time_lock",
+        "3": "faceless_void_backtrack",
+        "4": "faceless_void_time_lock",
+        "5": "faceless_void_time_lock",
+        "6": "faceless_void_chronosphere",
+        "7": "faceless_void_time_lock",
+        "8": "faceless_void_backtrack",
+        "9": "attribute_bonus",
+        "10": "faceless_void_backtrack",
+        "11": "faceless_void_chronosphere",
+        "12": "faceless_void_time_walk",
+        "13": "faceless_void_backtrack",
+        "14": "faceless_void_time_walk",
+        "15": "attribute_bonus",
+        "16": "faceless_void_chronosphere",
+        "17": "faceless_void_time_walk",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "faceless_void_chronosphere": "наш основной скил. ставим купол по 2-5 врагам и нарезаем",
+        "faceless_void_time_walk": "замена дагеру для инициации",
+        "faceless_void_time_lock": "неслабый дамаг во время купола(к нему нужен предмет на скорость атаки:пт,мом,гипер камень)",
+        "faceless_void_backtrack": "уклон от любых атак позвояющий выживать"
+    }
+}, "Hero": "faceless_void", "ItemBuild": {
+    "ItemTooltips": {
+        "greater_crit": "отличный урон и криты",
+        "power_treads": "Скорость атаки + статы (во время купола ставим на ловкость а так на силу)",
+        "tango": "нужный реген",
+        "assault": "скорость атауки и броня",
+        "ultimate_scepter": "купол дольше кд меньше + статы хп и мана",
+        "lesser_crit": "криты во время купола очень неплохие. в лейте грейдим до дедалуса",
+        "quelling_blade": "для добивания крипов",
+        "satanic": "отжор  броня и немало хп",
+        "stout_shield": "для выдерживание хараса",
+        "hyperstone": "нужный ас",
+        "mjollnir": "куча ас,урона и молнии, которые помогают в куполе и в лесу"
+    },
+    "Items": {
+        "начало": ["tango", "quelling_blade", "stout_shield"],
+        "середина": ["power_treads", "lesser_crit", "hyperstone"],
+        "конец": ["greater_crit", "satanic", "ultimate_scepter", "mjollnir"]
+    }
+}, "Title": "Гайд от Сталина"}

@@ -1,0 +1,146 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Purge's Guide to Support Venge",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"branches",
+				"tpscroll",
+				"ward_observer",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"magic_wand",
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll",
+				"urn_of_shadows"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"ancient_janggo",
+				"mekansm",
+				"force_staff",
+				"ghost",
+				"heavens_halberd",
+				"ultimate_scepter",
+				"rod_of_atos",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger now works on Venge, and can be used to swap then blink back to safety, essentially accomplishing the same thing that Batrider can with a blink.
+
+As a support I find this as a very situational item since swap is already so good by itself.",
+				"branches":"Ironwood branches should be purchased to fill a support heroes' inventory in the early game if you have extra money. It's very cost effecient stats!",
+				"boots":"Boots should be picked up relatively fast as a support hero, but make sure that you purchase the flying courier first!",
+				"magic_stick":"Magic stick is generally picked up after your boots of speed, or if you are versus a trilane, before your boots.
+
+The burst hp and mana can sometimes save you in the early game, and it's a very easy way to get free mana in lane.",
+				"magic_wand":"A completed magic wand is the most cost effecient item you can purchase as a support hero because with only a couple wand charges, it gives you more hp than a bracer, and might make the difference in having enough mana for a nuke.",
+				"ghost":"Ghost scepter is a must have item in some situations, primarily in the mid-late game against major physical damage dealers.
+
+If you can become impossible to kill for 4 seconds, it can buy you time to escape, or waste your enemy carries' BkB, it can give your team a big advantage during teamfights.",
+				"clarity":"At least 1 clarity potion is needed for a support hero, espetially any agility or strength hero who has a more limited mana pool.
+
+You NEED to have enough mana to throw a few stuns, or your hero will be less useful in lane.",
+				"flask":"Salve should be used when you're missing at least 300 hp, and you don't plan to take damage for 10 seconds.",
+				"ward_observer":"Every team should have observer wards at the start of the game. You should place at least 1 of these at Rune to help your solo mid hero control mid, and the other should be placed to protect your carry.",
+				"ward_sentry":"As a support hero, you should be purchasing Sentry Wards to help detect invisible heroes and to deward.",
+				"tango":"It's smart to pick up both a Tango and Salve so that you have regen to cover small harass and burst damage.",
+				"courier":"All teams should have an animal courier, and as a support hero, you should be purchasing it.",
+				"tpscroll":"It's very important to carry a TP scroll as a support hero so that you can cover your allies in case they get dived in the early game.",
+				"power_treads":"I really like treads on Venge because it gives some good dps(in combination with wave of terror and her damage aura), and because you can also tread switch to get more out of your mana pool.
+
+Most importantly, it makes you tankier than any other boots choice.",
+				"mekansm":"Mekanism can sometimes be picked up on Venge instead of another hero, but generally I recommend focusing on other items, since Mek only becomes extremely useful at the end of the 2300 gold.
+
+That farm is quite a bit for a hard support who should be buying wards or ganking instead of farming.",
+				"flying_courier":"Flying courier should be purchased by a support hero with their first 220 gold.",
+				"force_staff":"Force staff is a wonderful pickup for any support hero because you can use it for both ganking, saving stunned allies, and positioning your hero better. The +int and +regen are nice on top of that.",
+				"ultimate_scepter":"Aghanihm's can be a great pickup on venge because of the survivability it brings you, and the reduced cooldown on your ultimate. It also lets you ulti neutrals and creeps to position yourself better and escape.",
+				"ancient_janggo":"Drum of Endurance is a great item because it's an easy build up from a bracer, so if you're having a rough game or want more hp, pick up a bracer, and later turn it into a drum when you get more money.
+
+Make sure to use the drum charges in teamfights for the MS and AS bonus!",
+				"medallion_of_courage":"Medallion is a great item to pick up because the -armor stacks with Venge's Wave of Terror. This allows you to quickly kill roshan, and burst down single heroes.
+
+I recommend picking up either an Urn of Shadows or a Medallion to supply you with some cheap mana regen.",
+				"rod_of_atos":"I've never built a Rod of Atos on Venge, but you could pick it up for the hp and utility, but generally I think that the +25 int is a bit wasted.",
+				"heavens_halberd":"Heaven's Halberd is situationally a great pick up on a farmed support hero because it gives you hp, some evasion, and an active that can disarm an enemy carry and prevent them from attacking for a few seconds.
+
+It's unlikely that you'll have enough farm to buy this item, but it's an option.",
+				"tranquil_boots":"Tranquil boots are great because they keep your hp at full, and give you pretty amazing movement speed for initiating(very important to close the swap distance on venge!)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_wave_of_terror",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_wave_of_terror",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_command_aura",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Magic missle is a nice disable and nuke that is great against lots of heroes and situations, but primarily its reliability, and how useful it is in the early game.
+
+This is generally maxed first to increase your burst damage, and to increase the stun duration.",
+				"vengefulspirit_wave_of_terror":"Wave of Terror is your pushing, and burst ability. It does a small amount of damage in a wave, but most importantly, provides vision and reduces your opponents armor.
+
+It should be casted immediately after your stun so that you can maximize the damage being done to a solo target or team.",
+				"vengefulspirit_command_aura":"Vengeance Aura can be skilled earlier in exchange for Wave of Terror levels, but I generally like to either take 1 point early, or leave it unskilled until lv. 10.
+
+It increases the damage of yourself, your creeps, and your allies by a moderate amount.",
+				"vengefulspirit_nether_swap":"Swap is a very powerful ability that can be used to swap your hero with an opponent or ally. This goes through Magic Immunity, and is generally used to force an opponent out of position.
+
+Follow your swap up with a stun, and your allies will usually pile onto the enemy hero.",
+				"attribute_bonus":"Get stats when you have nothing else to get!"
+		}
+	}
+}

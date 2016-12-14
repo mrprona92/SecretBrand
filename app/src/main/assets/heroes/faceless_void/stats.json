@@ -1,0 +1,2 @@
+{
+    "roles": ["Carry", "Initiator", "Disabler", "Escape"],"ID":50,"Patch":"6.81","Name":"Faceless Void","Alignment":1,"Movespeed":300,"MaxDmg":64,"MinDmg":58,"HP":587,"Mana":195,"HPRegen":0.25,"ManaRegen":0.01,"Armor":3.94,"Range":128,"ProjectileSpeed":0,"BaseStr":23,"BaseAgi":23,"BaseInt":15,"StrGain":1.6,"AgiGain":2.65,"IntGain":1.5,"PrimaryStat":1,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.5,"AttackSwing":0.56,"CastPoint":0.35,"CastSwing":0.51,"Turnrate":1,"Legs":2}

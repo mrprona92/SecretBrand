@@ -1,0 +1,103 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"Solo Middle Gyrocopter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"yasha",
+				"black_king_bar",
+				"manta"
+			],
+			"Luxury Items":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"satanic"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"ultimate_scepter",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"When in doubt, branches are always a great option. They're by far the most cost effective way to boost your stats, and you are able to combine the three branches into a magic wand later in the game. The reason we do not spend all of our starting gold is so we can acquire a faster bottle.",
+				"boots":"Movement speed is essential to every hero. Get these after you pick up your bottle.",
+				"magic_wand":"This item is optional. If you feel like you're having a great start, you don't need to bother. If you're breaking even in the lane or struggling, its a wise idea to pick up a magic wand. You already have three branches and the instant HP/Mana this can restore can be a lifesaver.",
+				"bottle":"An essential item for almost any hero that is going to be in the mid lane. It allows you to have a constant source of regeneration, as well as save runes for critical moments.",
+				"tango":"These will provide you with enough regeneration to last in the lane until you are able to afford your bottle. The reason we do not spend all of our starting gold is so we can acquire a faster bottle.",
+				"phase_boots":"Phase boots are a great choice on Gyrocopter. Not only is the bonus damage nice, but the active ability of Phase Boots allows you to stay on top of an enemy and pummel them with Rocket Barrage.",
+				"ultimate_scepter":"Worth noting as it gives Gyrocopter's ultimate global range. That being said, the damage increase Aghanim's provides to Gyrocopter's ultimate is negligible (+75 damage). Only consider this item against elusive split-pushing heroes such as Nature's Prophet.",
+				"black_king_bar":"A key item to boost your survivability. Gyrocopter is a very easy hero to kill, so a BKB is a must have. Pick one of these up after your Yasha but before you complete Manta Style. NOTE: if you are struggling, buy BKB before Yasha.",
+				"rapier":"While normally considered a joke item, Divine Rapier is actually a viable pickup for Gyrocopter. The damage from Divine Rapier affects his Flak Cannon, so picking up this item can allow Gyrocopter to completely destroy a team-fight before the enemy is able to react. BUY THIS ITEM AT YOUR OWN RISK!!!",
+				"monkey_king_bar":"Either MKB or Daedalus is a good choice. Though MKB should take priority if the enemy team has a hero with evasion. ALSO NOTE: MKB eliminates the uphill miss chance.",
+				"greater_crit":"Either MKB or Daedalus is a good choice. Though MKB should take priority if the enemy team has a hero with evasion. ALSO NOTE: MKB eliminates the uphill miss chance.",
+				"manta":"Manta Style further increases your damage output. The activated ability can allow you to escape a dangerous situation or increase your damage output when team-fighting or pushing.",
+				"invis_sword":"This item provides you with an immense amount of ganking and escape utility, but it is easily countered. Definitely consider buying this item early if you have a good start and the enemy team has lots of fragile heroes that you can pick off with a surprise Rocket Barrage.",
+				"satanic":"Provides a good amount of survivability after you have acquired your damage items. NOTE: the extra attacks from Flak Cannon do not trigger lifesteal effects.",
+				"yasha":"Yasha provides a lot of valuable stats for Gyrocopter. The agility and attack speed will boost your auto attack damage and the bonus movement speed allows you to chase opponents with Rocket Barrage even more effectively."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_rocket_barrage",
+			"2":"gyrocopter_flak_cannon",
+			"3":"gyrocopter_homing_missile",
+			"4":"gyrocopter_rocket_barrage",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_flak_cannon",
+			"9":"gyrocopter_flak_cannon",
+			"10":"gyrocopter_flak_cannon",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_homing_missile",
+			"13":"gyrocopter_homing_missile",
+			"14":"gyrocopter_homing_missile",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"gyrocopter_rocket_barrage":"Rocket Barrage does an insane amount of damage to nearby targets. At max rank, Rocket Barrage will do up to 690 damage to a single target. Make sure to use this spell when a hero is isolated to prevent creeps from absorbing some of the damage from Rocket Barrage.",
+				"gyrocopter_homing_missile":"This spell can allow you to scare heroes or zone them out of the lane. Don't be afraid to chase heroes alongside your missile. As soon as the missile hits its target, you will be able to unload a Rocket Barrage on them. NOTE: the damage scales with distance traveled but the stun duration doesn't.",
+				"gyrocopter_flak_cannon":"An early point of Flak Cannon is picked up  to allow for easy and free harassment in the lane as well as clearing out a creep wave to pick up a rune. This spell can be maxed out before Rocket Barrage if you're in a lane where you think you'll be unable to secure a kill with Rocket Barrage.",
+				"gyrocopter_call_down":"Call Down should be picked up as soon as its available. It is a very powerful team-fight spell. Long range AoE nuke + slow with a low cooldown. Call Down's only weakness is that it takes a while for the spell to land.",
+				"attribute_bonus":"While stats are generally picked up after maxing your other skills, you can pick up stats earlier in place of the latter 3 ranks of Homing Missile. Do this if you feel like you need more survivability, or if you feel the extra damage from ranking up your rocket is unnecessary."
+		}
+	}
+}

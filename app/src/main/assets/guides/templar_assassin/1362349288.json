@@ -1,0 +1,95 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Templar Assassin Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"blink"
+			],
+			"luxury":
+			[
+				"desolator",
+				"black_king_bar",
+				"greater_crit",
+				"heart",
+				"assault",
+				"butterfly",
+				"ancient_janggo",
+				"manta",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A must have item. Without it, TA has a very hard time killing enemies as they just run away. Put your Refraction up, slow an enemy with a trap, blink in next to them and then Meld and hit them. Proceed to smack them until they are dead. Rinse and repeat.",
+				"tango":"Save up your gold for a quicker Bottle (given you are going mid).",
+				"phase_boots":"Phase Boots give you extra damage and improve your chasing abilities. Power Treads should also be considered as they boost your HP and give you a bit of attack speed which TA lacks due to the items she typically buys.",
+				"assault":"The -armor on enemies can make even the toughest tanks look like Wisp. AC combined with Meld and Desolator take away 19 armor off your targets. OUCH!",
+				"heart":"Very useful if you need the extra HP.",
+				"black_king_bar":"You are always close and personal with the enemies and usually initiate for the team. Make sure you don`t just straight up die when you do so.",
+				"greater_crit":"Crits with the extra damage from Refraction hurt... A LOT!",
+				"desolator":"The armor reduction stacks with your Meld, resulting in a total of -14 armor. This allows you to practically 3 shot most people mid game.",
+				"ancient_janggo":"If you don't feel a blink is a good choice, you can go the movement speed build with Drums and Manta/S&Y."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_refraction",
+			"2":"templar_assassin_psi_blades",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"The ability that makes TA one of the strongest 1v1 heroes in the game. It gives you 6 instances of damage and a shield which blocks the next 6 instances of damage (separate from the extra damage).",
+				"templar_assassin_meld":"Lasts forever, try attacking right after you Meld. It is your \"nuke\" if you will. Stuns and silences don`t stop Meld as it is not a channeling ability.",
+				"templar_assassin_psi_blades":"Turns your melee-like range to a respectable 380. The spill damage is great. Mastering how to last hit and harass at the same time is the key to playing a great TA - just try to hit the creeps when enemy heroes are behind them.",
+				"templar_assassin_trap":"Try to avoid using this ability as it has a cast animation.",
+				"templar_assassin_psionic_trap":"In general you will be playing mid. Put traps on both rune spots and one on the enemy high ground ledge at mid next to the river. Try to detonate the traps manually (click on the trap and press Q) and not use TA`s Trap ability as it has a cast animation which slows you down."
+		}
+	}
+}

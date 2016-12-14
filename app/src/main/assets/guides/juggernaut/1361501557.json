@@ -1,0 +1,96 @@
+{
+	"Hero":"juggernaut",
+	"Title":"[DMX] Juggernaut (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"branches",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"bfury",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"desolator",
+				"black_king_bar",
+				"butterfly",
+				"ultimate_scepter",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"vladmir",
+				"sange_and_yasha",
+				"power_treads"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Si vous préférez avoir quelques stats supplémentaires.",
+				"vladmir":"Un lifesteal pourra être très utile, et l'aura de vladimir se cumule avec votre desolator.",
+				"black_king_bar":"Votre Bladefury vous permet d'éviter les sorts, mais vous ne pourrez plus attaquer, ce qui est embâtant pour un carry. Préférez donc une BKB en fin de partie pour laisser parler votre dps !",
+				"sange_and_yasha":"Sange et Yasha est un très bon item si vous n'êtes pas très bien dans la partie car il vous permet de tanker et d'infliger plus de dommages."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"juggernaut_healing_ward",
+			"3":"juggernaut_blade_fury",
+			"4":"juggernaut_blade_dance",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_healing_ward",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_healing_ward",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Le sort qui infligera d'énormes dégâts en début de game. Plus tard dans la partie servez vous en défensivement. N'oubliez pas que vous pouvez utiliser des items pendant ce sort. (vous pouvez tp).",
+				"juggernaut_healing_ward":"Une ward qui vous régénérera énormément, à utiliser pour ne pas back à la fontaine au début. En fin de game utilisez la pendant les teamfight, le roshan et les push pour aider toute votre équipe.",
+				"juggernaut_blade_dance":"Un sort de critique très bon pour juggernaut qui lui dispense d'acheter une daedalus.",
+				"juggernaut_omni_slash":"Un ultimate extrêmement puissant contre une cible unique, qui risque bien souvent de la One shot. Attention cependant à ne pas utiliser votre ultimate lorsqu'il y a trop de creeps pour ne pas perdre de dégâts."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Sprint",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Slardar moves significantly faster, but takes bonus damage.",
+        "notes": "Activating this skill doesn\u0027t interrupt channeling abilities.",
+        "dmg": "",
+        "attrib": "ADDITIONAL DAMAGE: <b><font color=\"#ffffff\">15%</font></b><br/>BONUS SPEED: <b><font color=\"#ffffff\">20%/28%/36%/44%</font></b><br/>DURATION: <b><font color=\"#ffffff\">16</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 23",
+        "lore": "As Slardar has made the transition from the Deeps, it has been necessary to use his powerful tail for sprinting instead of swimming.",
+        "hurl": "Slardar",
+        "name": "slardar_sprint",
+        "youtube":"IIpt3UM9-dE",
+        "id": 0
+    },
+    {
+        "dname": "Slithereen Crush",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Slams the ground, stunning and damaging nearby enemy land units.  After the stun, the affected units are slowed.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">75/125/175/225</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">350</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">20%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">20</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">2</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">1.6/1.9/2.2/2.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/95/105/115<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "A swift crush of might and water breaks even the toughest of defenses.",
+        "hurl": "Slardar",
+        "name": "slardar_slithereen_crush",
+        "youtube":"AhBhn-UWcOM",
+        "id": 1
+    },
+    {
+        "dname": "Bash",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Grants a chance that an attack will do bonus damage and stun an enemy.  The duration is doubled against creeps.",
+        "notes": "Stun works on Spell Immune units.<br/>Does not stack with Skull Basher.",
+        "dmg": "",
+        "attrib": "CHANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">60/80/100/120</font></b><br/>DURATION: <b><font color=\"#ffffff\">1</font></b>",
+        "cmb": "",
+        "lore": "Thieves of the wealth of the Deep Ones meet the brutality of the Slithereen Guard in melee combat.",
+        "hurl": "Slardar",
+        "name": "slardar_bash",
+        "youtube":"fxLD4HlBk8g",
+        "id": 2
+    },
+    {
+        "dname": "Amplify Damage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Reduces enemy armor to amplify physical damage and provides True Sight of the targeted unit, revealing invisibility.",
+        "notes": "Gives True Sight and shared vision of the target.<br/>Works on Spell Immune units.",
+        "dmg": "",
+        "attrib": "ARMOR REDUCTION: <b><font color=\"#ffffff\">10/15/20</font></b><br/>DURATION: <b><font color=\"#ffffff\">25/25/25</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 25/25/25<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5",
+        "lore": "Slardar\u0027s lure-light reveals even the most hidden of opponents, as well as their vulnerabilities.",
+        "hurl": "Slardar",
+        "name": "slardar_amplify_damage",
+        "youtube":"wNlSGTlfxOY",
+        "id": 3
+    }
+]

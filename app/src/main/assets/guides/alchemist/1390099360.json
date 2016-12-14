@@ -1,0 +1,169 @@
+{
+	"Hero":"alchemist",
+	"Title":"Support Alchemist - The Golden Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Introduction to Alchemy":
+			[
+				"magic_wand",
+				"ring_of_basilius",
+				"boots",
+				"medallion_of_courage",
+				"smoke_of_deceit",
+				"blink",
+				"force_staff",
+				"mekansm",
+				"power_treads",
+				"arcane_boots"
+			],
+			"Advanced Alchemy":
+			[
+				"vladmir",
+				"ancient_janggo",
+				"assault",
+				"heavens_halberd"
+			],
+			"Questionable Science":
+			[
+				"urn_of_shadows",
+				"sheepstick",
+				"cyclone",
+				"gem",
+				"necronomicon",
+				"pipe",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Dammit Jim, I'm a scientist, not a soldier!":
+			[
+				"flying_courier",
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"With the several second wind-up time of your stun, using Blink to get in close/enough to accurately hit the target at the optimum moment can make for some excellent initiations. Ideal for the roaming support, even at its cost.",
+				"branches":"Basic stats, basic helpfulness. ",
+				"boots":"Everyone needs a pair of boots. Alchemist's innate tankiness means that upgrading them immediately isn't necessary as other items will be more beneficial for what you're trying to achieve. ",
+				"gem":"Alchemist's tankiness, especially with some of the recommended items listed previously, I believe make him a good gem carrier in games with stealthed opponenets. Also used for dewarding.
+
+Especially good if you're a roaming support.",
+				"magic_wand":"Generally a good idea for a support, even if the enemies don't have too many spells. You can make money up fairly quickly once you're level 10, so you can afford to get the wand over the stick.
+
+Alternatively, just get the stick and 2 branches at the start, turning them into items to build Mek.",
+				"clarity":"Your mana regen early on will be quite weak in most situations. To keep up harrass or those stuns, you'll need one at some point.",
+				"flask":"Anti-death item. Use it to not die, or to stop an ally from dying.",
+				"dust":"Necessary for revealing stealthed heroes on the go and as such, is obvioulsy situational to your opponents' line-up.",
+				"ward_observer":"Vision! Good for camp blocking, rune coverage and seeing where you aren't! (If your other support has bought these, buy the courier.)",
+				"ward_sentry":"Used in-lane against stealthed heroes and for dewarding. For dewarding, make sure to place this in an area where you already have good vision, but do be aware that as a melee hero, you won't necessarily be able to deward if an enemy's ward is on a ledge.",
+				"tango":"One for me, one for me, maybe one for your lane's carry. Who knows? But you need them.",
+				"courier":"Someone needs to buy the courier, why not you? (If the other support has already bought this, buy some wards)",
+				"tpscroll":"Always carry a TP scroll. ALWAYS. Good for escaping to your fountain to heal, or to shore up a lane that needs help. Always carry a TP scroll on you!
+
+Purchaseable from the fountain and side shops.",
+				"travel_boots":"This late game item removes the need to carry teleport scrolls with you, effectively taking their spot. When you're in a desperate situation and need to return to base after a quick push, or you need to quickly support a lane, this is a go-to item.",
+				"power_treads":"If you want to be a little more offensive/tanky, these are your boots of preference.",
+				"mekansm":"Given your role, especially as a roaming support, Mek is a great item. The caveat is that you already require expensive items, so having the other support pick this up may be preferable to ensure you have one in a reasonable time frame.
+
+With strong farm try to get this after Blink.",
+				"vladmir":"The general stats will obviously be welcome, as well as helping for pushing which you can already do quite well with Acid Spray and your ultimate. It also frees up space on a carry.
+
+Make sure no-one else is building this first!",
+				"flying_courier":"Not purchaseable until 3 minutes in, try and organise with your other support who gets the second set of wards. Whoever doesn't or won't be will be getting this.",
+				"buckler":"Necessary component for Mekanism. Will be useful in early team fights.",
+				"ring_of_basilius":"Whilst good for early pushing if your line-up demands it, having the mana regen is needed early game. As a roaming support, Urn of Shadows may be preferable.
+
+Will later build into a Vlads, but do make sure no-one else is building this already.",
+				"pipe":"If you're going up against a team of heavy magic users and you're orientating yourself as a harder support, Pipe will be a good pick-up for its cast of reducing magic damage.",
+				"urn_of_shadows":"Gives you your primary stat and some mana regen, making this is a pretty useful early pick-up necessary if you're roaming and going for ganks, but make sure no-one else has this (most likely your mid).
+
+A good alternative to Ring of Basilius early on, if you have the gold for it.",
+				"headdress":"Keeps your lane healthy and builds into Mek. Just make sure no-one else on your team is building this first.
+
+",
+				"sheepstick":"Provides fantastic crowd control utility, if required, on top of your stun, as well as some good stats. As you can get farm quickly, you'll probably get it over any other support on your team.",
+				"cyclone":"I like to think of Eul's as the poor-man's Scythe, either getting you or an enemy out of a fight. The mana regen is welcome and the movement bonus should help from missing stuns from fleeing targets when close-by.",
+				"force_staff":"Great support utility for helping with positioning, providing an additional means of initiating with your stun if Blink isn't useable.
+
+Should farm be a problem in your game, consider this an alternative to Blink (not just an addition). If farm is 
+ going well, you can delay getting this after Mek.",
+				"necronomicon":"If your team is going for a hard push strategy, Necronomicon seems like an obvious choice. The stats are pretty good for you and the summoned units having True Sight doesn't hurt either. Otherwise, hard to recommend over some of the other items.",
+				"assault":"Couples really well with Acid Spray and Medallion if you still have that, this is great if you're going more offensive in your support role. By the time you start building this, you'll have Greevil's Greed so should be able to build it moderately quickly.
+
+Make sure a carry isn't building first!",
+				"shivas_guard":"I think AC is vastly preferable, as the intelligence gain is mostly wasted on you (although, say goodbye to having mana problems!) but it is still a good item. If you are going or have AC, I don't see much need for this, but should still be considered.",
+				"arcane_boots":"If your team is lacking wider mana regen and you're intending on going as a harder support, you'll want these boots for your ogre's feet.",
+				"ancient_janggo":"Beat the drums, go faster. It actually aligns quite well with your ult for incredible attack speed, as well as providing some nice base stats.
+
+Make sure that no-one is building this first though!",
+				"medallion_of_courage":"Doubles up with your Acid Spray for armour removal, whilst also providing much desired armour and mana regen. Great when roaming.
+
+Be sure to activate before your acid and stun, as they'll gain the benefit from the armour reduction.",
+				"smoke_of_deceit":"The combination of smoke with a ranged stun provides fantastic early game initiation, just be careful of any enemy True Sight.",
+				"heavens_halberd":"Whilst the stats are great for the more offensive support and the evasion is tasty too, you're really grabbing this for the disarm. You'll be getting this later on in the game as the opponents' hard carry starts to deal those hard blows."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_acid_spray",
+			"3":"alchemist_unstable_concoction",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_unstable_concoction",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_acid_spray",
+			"8":"alchemist_unstable_concoction",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_goblins_greed",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_goblins_greed",
+			"13":"alchemist_goblins_greed",
+			"14":"alchemist_goblins_greed",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Great for harrassment in the laning stage and keeping enemy melee carries from staying around to try and last hit. Be sure to place around/behind towers when attacking and in front of when defending.
+
+Very important during team fights too with the armour reduction.",
+				"alchemist_unstable_concoction":"Good for setting up kills or running away from kill attempts. You want to release it as late as possible (after 5 seconds), otherwise make sure you don't hit yourself!",
+				"alchemist_goblins_greed":"You won't be needing this early on as hopefully your lane's carry should be getting the last hits, but by the time you've maxed out your two main abilities, you can use this to get a serious farm advantage over other supports.",
+				"alchemist_chemical_rage":"Whilst not necessary for supporting in an obvious way, activating this before a team fight will keep you up, allow you to do moderate damage and at the very least give you increased mana regen to keep your stuns and acid going.
+
+Useful for farming once you have Greevil's Greed."
+		}
+	}
+}

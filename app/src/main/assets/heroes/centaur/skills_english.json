@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Hoof Stomp",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Slams the ground, stunning and damaging nearby enemy units.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">315</font></b><br/>STUN DURATION <b><font color=\"#ffffff\">2/2.25/2.5/2.75</font></b><br/>STOMP DAMAGE: <b><font color=\"#ffffff\">100/150/200/250</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13",
+        "lore": "When the mighty hoof of the Warrunner touches soil, the tremors are felt far and wide.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_hoof_stomp",
+        "youtube":"FuWaTlMJwjM",
+        "id": 0
+    },
+    {
+        "dname": "Double Edge",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Centaur strikes a mighty blow at melee range, damaging both himself and a small area around the target.  Centaur cannot die from Double Edge.",
+        "notes": "Double Edge deals magic type damage to both the targets and himself.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">175/250/325/400</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 0/0/0/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "In the spurs of combat, Bradwarden\u0027s vicious strikes sometimes cause self-inflicted collateral damage.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_double_edge",
+        "youtube":"PsHWOHEq5-Q",
+        "id": 1
+    },
+    {
+        "dname": "Return",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Centaur counters every attack, damaging the attacker based on a percentage of Centaur\u0027s strength.",
+        "notes": "Return triggers when the attack hits.<br/>Return deals damage to towers.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">16/18/20/22</font></b><br/>STRENGTH BONUS DAMAGE: <b><font color=\"#ffffff\">26%/34%/42%/50%</font></b>",
+        "cmb": "",
+        "lore": "Bradwarden has no need to parry his opponent\u0027s attacks; his armor-like hide does it for him.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_return",
+        "youtube":"b0obuqv_n5I",
+        "id": 2
+    },
+    {
+        "dname": "Stampede",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Centaur leads all allies into a vicious charge causing them to move through units at max speed and stop any enemy units they trample. Trampled enemies take damage based on Centaur Warrunner\u0027s strength. Each enemy can be trampled once.<br/>Upgradable with Aghanim\u0027s Scepter.",
+        "notes": "Doesn\u0027t affect Spell Immune units.",
+        "dmg": "",
+        "attrib": "STAMPEDE DURATION: <b><font color=\"#ffffff\">3.75</font></b><br/>STRENGTH MULTIPLIER DAMAGE: <b><font color=\"#ffffff\">1/2/3</font></b><br/>STOP DURATION: <b><font color=\"#ffffff\">1.5</font></b><br/>TRAMPLE RADIUS: <b><font color=\"#ffffff\">105</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE REDUCTION:</font></b> <b><font color=\"#ffffff\">60%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/75/60",
+        "lore": "The great belt of Omexe, which labels Bradwarden as the greatest warrior of his kind, incites his fellow gladiators to follow him into barbarous combat.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_stampede",
+        "youtube":"QTuJyXRa1DI",
+        "id": 3
+    }
+]

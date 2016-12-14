@@ -1,0 +1,38 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_drow_ranger",
+	"Title":"Recommended items for Drow Ranger",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"slippers",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"invis_sword",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"manta",
+			"butterfly",
+			"greater_crit",
+			"black_king_bar",
+			"satanic"
+		]
+	}
+}

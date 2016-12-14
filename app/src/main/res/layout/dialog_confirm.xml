@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.FillWidthHeight.Vertical"
+    android:layout_gravity="center"
+    android:background="@color/cmn_transparent">
+
+    <RelativeLayout
+        style="@style/Layout.FillWidth"
+        android:background="@drawable/bg_rounded_white_border"
+        android:padding="@dimen/padding_small">
+
+        <LinearLayout
+            android:id="@+id/layoutTop"
+            style="@style/Layout.FillWidth.Vertical">
+
+            <TextView
+                android:id="@+id/lblTitle"
+                style="@style/Text.Normal.Dark"
+                android:layout_marginTop="@dimen/padding_medium"
+                android:gravity="center"
+                android:text="@string/app_name"
+                android:textSize="@dimen/text_normal" />
+
+            <TextView
+                android:id="@+id/lblMessage"
+                style="@style/Layout.FillWidth"
+                android:layout_margin="@dimen/padding_big"
+                android:gravity="center_horizontal"
+                android:text="@string/menu_exit"
+                android:textColor="@color/cmn_text_dark"
+                android:textSize="@dimen/text_normal" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/layoutButton"
+            style="@style/Layout.WrapWidthHeight"
+            android:layout_below="@+id/layoutTop"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/padding_medium">
+
+            <Button
+                android:id="@+id/btnActionCancel"
+                style="@style/Button.Dialog"
+                android:layout_height="@dimen/btn_height_medium"
+                android:layout_marginRight="@dimen/padding_big"
+                android:background="@drawable/bg_common_round_grey_lighter"
+                android:layout_width="110dp"
+                android:text="CANCEL"
+                android:textColor="@color/cmn_text_black" />
+
+            <Button
+                android:id="@+id/btnSettle"
+                style="@style/Button.Dialog.Green"
+                android:layout_height="@dimen/btn_height_medium"
+                android:layout_marginLeft="@dimen/padding_big"
+                android:layout_width="110dp"
+                android:text="OK" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

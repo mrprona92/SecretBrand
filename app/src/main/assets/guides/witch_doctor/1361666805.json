@@ -1,0 +1,117 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"6.82 - Standard Witch Doctor (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"black_king_bar"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"ghost",
+				"force_staff"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"refresher"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Your pseudo-Black King Bar. Avoid Physical Carries targeting you by casting Ghost Scepter before you channel your ultimate ability.",
+				"ward_observer":"Pick up a courier or wards as part of a Support's expected roles.",
+				"courier":"Pick up a courier or wards as part of a Support's expected roles.",
+				"mekansm":"Consider picking this up if no other support isn't getting it.",
+				"urn_of_shadows":"If you're ganking and needing that early-game edge for the team. Urn of Shadows will give that advantage.",
+				"sheepstick":"Open up with your disable before stunning them and using Maledict. Scythe of Vyse is your final frontier of intelligence items.",
+				"force_staff":"The movement speed might be needed to get in or out of sticky situations when your team is not too good at disabling during teamfights.",
+				"ultimate_scepter":"Aghanim's Scepter makes your Death Ward even more powerful, bouncing off enemies and dealing much more damage simultaneously to all foes around!",
+				"refresher":"Refresher's Orb resets your stuns, crowd-control items and ultimate. Be sure to use them all before channeling your Death Ward, ultimate ability.",
+				"black_king_bar":"Avoid getting disrupted while you cast your spell by getting Black King Bar.",
+				"shivas_guard":"Create more survivability for Wtich Doctor and keep foes slowed as your Aghanim's Scepter'd ultimate, Death Ward, connects them with damage.",
+				"ancient_janggo":"Drums of Endurance is situationally nice if your team are major team-fighters and gankers. Get Drums of Endurance especially if you need the survivability."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_voodoo_restoration",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_voodoo_restoration",
+			"9":"witch_doctor_voodoo_restoration",
+			"10":"witch_doctor_voodoo_restoration",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_maledict",
+			"13":"witch_doctor_maledict",
+			"14":"witch_doctor_maledict",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"Great stun and can also be used on creeps to eventually reach an enemy in the back should you be unable to reach him. Open with this ability before Maledict and your ultimate: Death Ward.",
+				"witch_doctor_voodoo_restoration":"Voodoo Restoration has an incredible heal during the early parts of the game. It's true that the mana demand for it is quite high, however it can be mean life or death in ganks and with your team.",
+				"witch_doctor_maledict":"Make sure to cast Maledict on stunned heroes or just before you cast your ult in order to maximize the amount of damage you can do. Maledict is a great ability, but has a high mana cost for an otherwise small mana pool during the early levels of Witch Doctor.",
+				"witch_doctor_death_ward":"Death Ward is a channeling ability, be wary that you are vulnerable when casting this. Items like Black King Bar, Shadow Blade and Ghost Scepter can prevent this channeling from being disrupted. You can control the Death Ward when casting it to focus on a specific target."
+		}
+	}
+}

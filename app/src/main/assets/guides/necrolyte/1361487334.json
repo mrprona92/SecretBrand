@@ -1,0 +1,114 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Sirot's Carry Necrolyte Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"mekansm",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"mekansm",
+				"rod_of_atos",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"shivas_guard",
+				"heart",
+				"sheepstick"
+			],
+			"Rejected":
+			[
+				"bloodstone",
+				"ultimate_scepter"
+			],
+			"Alternatives":
+			[
+				"arcane_boots",
+				"phase_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Most cost-efficient way to boost your attributes and conveniently, you will need 5 of them to finish the Magic Wand and Mekansm recipes.",
+				"boots":"Necrolyte is incredibly slow at 290 movement speed. You will want to remedy that as soon as possible.",
+				"magic_wand":"Always useful. Often you will get it before Mekansm just to reduce the number of branches in your inventory.",
+				"tango":"Get two sets of Tangos to survive early game lane harassment. ",
+				"tpscroll":"Always carry one.",
+				"phase_boots":"Phase Boots are a viable alternative to Power Treads, and I go back-and-forth between which type of boots I prefer. Ultimately it is a decision based on your personal preferences.",
+				"power_treads":"Improves Necrolyte's survivability or reduces his mana problems (depending on usage) in addition to increasing his attack speed while you will end up using quite often like it or not.",
+				"mekansm":"You will want to rush this as soon as possible and it'll your main way to contribute to team fights in the early game. It boosts your attributes and gives armor, which you booth need. If someone else is going for a Mekansm on your team, then rushing for the Rod of Atos is a good alternative.",
+				"sheepstick":"If the strength of the enemy team is centered around one hero (carry or otherwise), it is often smarter to get an additional disable over an item that boosts your survivability.",
+				"ultimate_scepter":"REJECTED. You'll get better value from a Veil of Discord. ",
+				"heart":"Heart of Tarrasque is a great alternative to Shiva's if the enemy team does more magical damage than physical. ",
+				"black_king_bar":"If the opposing team has a lot of disable or burst damage, you will need magic immunity to stay relevant. Black King Bar boosts your health and right-click damage as an added bonus.",
+				"shivas_guard":"Get this over Heart if the enemy team has a large amount of physical damage. It may seem redundant, but having to access to two slows from Rod of Atos and Shiva's Guard ends up being more useful than you initially would think. Boosts your right-click damage as well!",
+				"bloodstone":"REJECTED. While it may seem useful to have unlimited mana, Sadist and Rod of Atos provide you enough mana to deal with any encounter. It is simply overkill and there better ways to spend your money. You could replace Rod of Atos with Soul Booster, but you lose the powerful slow and the damage bonus.",
+				"arcane_boots":"There will be times when you will be forced to lane with another carry and be forced to act as support. In these situations you'll want to build Arcane Boots since they will be the cheapest way to contribute to the team and fix your crippling mana issues. ",
+				"ancient_janggo":"Easy to build and provides a sizable boost to all your attributes. The aura and active ability is just a bonus, but will help you push towers and move around in battle.",
+				"rod_of_atos":"The prefect item for Necrolyte. Increases you health, reduces your mana problems, increases your right-click damage and gives you access to a long-range 60% slow that can used to kill runners or escape a bad situation."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_sadist",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_heartstopper_aura",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"Avoid using this ability during lane phase as long as possible. You should strive to always have a full mana bar just in case you enter a team fight situation. Once Sadist is higher level and you have more items, you can begin to use this ability more liberally. ",
+				"necrolyte_heartstopper_aura":"It is a viable alternative to put a single point in this at level 1 and slightly delaying Sadist as a result if you are in the top or bottom lane against two or more enemy heroes. Otherwise you better off putting points in Sadist.",
+				"necrolyte_sadist":"Never run out of mana again! This ability makes Necrolyte a surprisingly decent (not excellent, mind you) mid lane hero as well.",
+				"necrolyte_reapers_scythe":"A terrible ultimate until it is rank 3, but you will still want it for the 1.5 second stun and the meager amount of damage it does at ranks 1 and 2. It is better than nothing. Note that the stun goes through magic immunity."
+		}
+	}
+}

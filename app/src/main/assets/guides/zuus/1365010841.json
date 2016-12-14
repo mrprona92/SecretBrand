@@ -1,0 +1,106 @@
+{
+	"Hero":"zuus",
+	"Title":"Purge's Guide to Solo Zeus",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"bottle",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"bottle",
+				"magic_wand",
+				"force_staff",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"refresher",
+				"ghost",
+				"rod_of_atos",
+				"cyclone",
+				"black_king_bar",
+				"veil_of_discord",
+				"shivas_guard",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink is sometimes a better choice than Force Staff because it has a lower cooldown, and gives you way more offensive potential.",
+				"magic_wand":"Just about every hero who casts spells or is squishy in any way NEEDS a wand!",
+				"ghost":"You will situationally need a Ghost Scepter against heroes like Lifestealer, Phantom Assassin, or Phantom Lancer because it protects you against physical damage, and makes you more tanky.",
+				"bottle":"You rush a bottle off of the 3 ironwood starting build, then get boots wand, and eventually arcane.",
+				"tpscroll":"Any mid hero should carry a tp so that you can support your allies in side lanes if they get dived on! Make sure to gank, and don't always run through river to do it.",
+				"sheepstick":"Sheep is extremely luxury as you're often build Agha or refresher on Zeus, but if you are lacking disables, it's a great pick up against a hard carry that you are having trouble with!",
+				"cyclone":"Euls can sometimes be used on Zues because the mana regen is good, the +ms is amazing, and you can cyclone yourself to dodge stuns, remove silence, and offensively disable an annoying hero. I will generally prioritize other items over euls though.",
+				"force_staff":"I almost always grabe force staff after arcane boots because the survivability it provides is a needed thing for squishy Zeus. You don't want him to be a glass cannon, you want him to be a stone cannon. It also gives you more int and regen, which you need!",
+				"ultimate_scepter":"I hesitated to put Aghanihms in the Core section because it's quite expensive, and it's more luxury, but I think it's the must get item for Zeus, as his ulti was recently buffed. This does 600 whopping damage to the entire enemy team in a teamfight at lv. 16! It also gives lots of stats!",
+				"refresher":"After you get Aghanihms, Refresher is an easy follow up to the build, so that you can do 1200 magic damage to all enemy players. Refresher is seriously good on this hero.",
+				"black_king_bar":"You will situationally need a Black King Bar against heroes like Pugna or Anti Mage to prevent mana drain or damage reflection! You might need one vs a hero like Silencer too!",
+				"shivas_guard":"If your opponents have a bunch of physical burst damage, shivas reduces their attack speed, makes you harder to kill, and also provies you with more mana and an aoe slow.",
+				"arcane_boots":"Arcane boots are a must because Zeus needs a mana pool to be able to dish out damage and not be empty immediately. Arcanes should be gotten after wand and bottle.",
+				"veil_of_discord":"Veil is a fantastic Zeus item as it increases all of the damage that you do! It also gives you much needed armor, and even more mana pool. I often get it after Aghanihms. Make sure to use it before you start casting though.",
+				"rod_of_atos":"Rod of Atos gets buffed with every patch, and the item is becoming very strong. The Rod would allow zues more HP, more mana pool, and a soft disable that has a VERY low cooldown, and amazing range."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Chain Lightning should be used as your last hitting tool in the early game because your animation is terrible and short ranged. Make sure to only use it on last hits that you are outside of range for! If your enemy is not around, you should save mana and right click.",
+				"zuus_lightning_bolt":"Lightning Bolt provides both a hefty nuke, a mini stun, and true sight around the nuked target! It should be the first maxed skill, though in a very weird order. Keep an eye on its cooldown during teamfights, as you should be casting it often!",
+				"zuus_static_field":"An early static field is picked up because it increases the damage dealt with every cast without requiring mana. It's very cost effecient to pick a single level up, and max it after bolt!",
+				"zuus_thundergods_wrath":"Thundergod's Wraith should be used at the start of the teamfight(before BKB's are used) or sometimes during ganks to add extra damage to a kill! If your allies are also bursting down a hero, the Zeus ulti can help snag kills too. It has a pretty low cooldown at 90 seconds, so don't be afraid to use!"
+		}
+	}
+}

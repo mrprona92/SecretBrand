@@ -1,0 +1,71 @@
+{
+	"Hero":"queenofpain",
+	"Title":"GreyShark.Queen Of Pain",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game ":
+			[
+				"bottle",
+				"magic_wand",
+				"orb_of_venom",
+				"power_treads",
+				"pers"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"sphere"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"skadi",
+				"shivas_guard"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_blink",
+			"2":"queenofpain_shadow_strike",
+			"3":"queenofpain_scream_of_pain",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_blink",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_shadow_strike",
+			"14":"queenofpain_shadow_strike",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

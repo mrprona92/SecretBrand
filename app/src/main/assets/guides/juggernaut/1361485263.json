@@ -1,0 +1,100 @@
+{
+	"Hero":"juggernaut",
+	"Title":"Racecar Juggernaut Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"ancient_janggo",
+				"yasha",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"desolator",
+				"butterfly"
+			],
+			"luxury":
+			[
+				"bfury",
+				"invis_sword",
+				"ultimate_scepter",
+				"travel_boots",
+				"heavens_halberd",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"late game BoTs are always good",
+				"phase_boots":"The basic component of the race car build!",
+				"poor_mans_shield":"Pro mans shield, very nice early game item",
+				"ultimate_scepter":"You may want to pick up an Aghanim If you need to burst someone down quickly",
+				"bfury":"If you are getting complete free farm, it does not hurt to pick up a fast battlefury.",
+				"manta":"Gives survivability, stats and is a nice item on juggernaut",
+				"invis_sword":"Situational lothars edge. You may want to get it if the situation favors it. For example, if no one on your team can initiate well, you should pick this up.",
+				"sange_and_yasha":"If you don't like keeping a mere yasha, SnY is also a good choice as it makes chasing eaiser with maim, and your fast movement speed.",
+				"desolator":"The ideal orb for this build, you will hit like a truck with desolator.",
+				"yasha":"Yasha for the movement speed and more stats, hopefully you can obtain this by ~12minutes",
+				"ancient_janggo":"Gives you extra ms and early game stats",
+				"heavens_halberd":"If they have a hard hitter like a naix or drow ranger, Heaven's halberd is a good choice."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"attribute_bonus",
+			"3":"juggernaut_blade_fury",
+			"4":"attribute_bonus",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_healing_ward",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_blade_dance",
+			"13":"juggernaut_blade_dance",
+			"14":"juggernaut_healing_ward",
+			"15":"juggernaut_healing_ward",
+			"16":"juggernaut_omni_slash",
+			"17":"juggernaut_healing_ward",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"For this build, it is recommended to go spin/stats until level 5. If you do this, you will have more stats, which means you can spin more in team fights. It is your main damage source early game.
+
+Tip: You can attack while spinning if the target is immune to magic. (Buildings included.)",
+				"juggernaut_healing_ward":"Healing ward is good early at level 9 so that you and your team can push. It is not really required to level up until later because this build mostly focuses on chasing down people and being an unstoppable juggernaut.",
+				"juggernaut_blade_dance":"There is no need to get Critical strike early because it is unreliable, and the spin is consistent, and reliable damage. This is why you neglect the crit, and put points into stats so that you can spin more in early team fights.",
+				"juggernaut_omni_slash":"Not much to say here, just remember to use this when there are minimal creeps around. Heroes like Mirana can disjoint this skill with leap/fog abuse. Be careful when using your ultimate.",
+				"attribute_bonus":"Stats early is just so that you can spin more in teamfights and have more sustain in lane."
+		}
+	}
+}

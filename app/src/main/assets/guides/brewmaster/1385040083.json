@@ -1,0 +1,109 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Kega!!! - Guía para Brewmaster en español",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"gauntlets",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"magic_wand",
+				"boots",
+				"stout_shield"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"power_treads",
+				"basher",
+				"vanguard",
+				"assault"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"abyssal_blade",
+				"vladmir",
+				"hood_of_defiance",
+				"bfury",
+				"blade_mail",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Dado que vamos a poner a Brewmaster en la senda media, este objeto es útil para acabar rápidamente con las oleadas de creeps",
+				"stout_shield":"El escudo te ayudará a resistir mejor las oleadas de creeps y los ataques de héroes enemigos.",
+				"gauntlets":"Un bono de fuerza barato, y componente del Brazalete",
+				"branches":"Necesarias para la Varita mágica, y proporcionan un pequeño bono al inicio del juego que es bastante de agradecer",
+				"boots":"Las botas son básicas para cualquier personaje de DOTA 2",
+				"magic_wand":"Relativamente barata y rápida de hacer, te proporcionará una regeneración de maná y vida que te salvará la vida en más de una ocasión. Pierde efectividad en el late game, así que es mejor venderla entonces para hacer espacio a otros objetos.",
+				"tango":"Para curar esos daños iniciales",
+				"power_treads":"Centradas en Fuerza para más daño y vida. Debería ser el primer objeto en conseguir.",
+				"bracer":"Un buen bono a fuerza bastante barato de conseguir, y que además es un componente para el Tambor de la Resistencia",
+				"vladmir":"Proporciona un aura de robo de vida que hará que Brewmaster y sus aliados aguanten más en una lucha de equipo, pero ten en cuenta que este aura no es acumulable con la de la Coraza de Asalto. Si quieres adquirir este objeto, sustituye la Coraza por la Malla de Cuchillas.",
+				"ultimate_scepter":"Añade habilidades extra a los elementales de la ulti, la más importante, la de Camorrista Borracho a Fuego, que lo vuelve mucho más letal cuando lo lancemos contra un héroe del enemigo. Tierra recibe Palmada Atronadora, que también es ideal si queremos manternelo en el centro de una lucha de equipo.",
+				"assault":"Es un objeto caro, pero otorga una gran protección y además proporciona un aura brutal para las luchas de equipo",
+				"heart":"El objeto definitivo para un héroe cuya función es resistir. Puedes usarlo en el lugar de Vanguardia, pero es mucho más caro.",
+				"vanguard":"Aumenta la probabilidad de bloqueo y otorga vida y regeneración extra, indispensable para todo héroe cuya función sea aguantar.",
+				"blade_mail":"Es una alternativa más barata a la Coraza de Asalto. No proporciona aura, pero devolverá el daño que te hagan. Es mejor combinarla con la Ofrenda de Vladimir.",
+				"hood_of_defiance":"Proporciona resistencia a hechizos y regeneración a Brewmaster, aumentendo su potencial de tanqueo.",
+				"basher":"El Golpetazo añade potencia incapacitadora a Brewmaster, lo que puede resultar definitivo en una lucha de equipo.",
+				"bfury":"Proporciona un ataque en área, ideal para acabar rápidamente con oleadas de creeps y para las luchas de equipo",
+				"ancient_janggo":"Otorga una poderosa aura a los aliados de Brewmaster, lo que potencia su función de iniciador.",
+				"abyssal_blade":"Si tienes suficiente oro, es recomendable mejorar el Aplastacraneos a este arma, que dará más potencia incapacitadora a Brewmaster"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_brawler",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_drunken_brawler",
+			"8":"brewmaster_thunder_clap",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_haze",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"Esta habilidad será la principal arma de Brewmaster contra las oleadas de creeps. Asegurate de usarla cuando puedas matar a mas creeps de un golpe para ganar la mayor cantidad de oro. También hara mucho daño en las luchas de equipo.",
+				"brewmaster_drunken_haze":"Esta habilidad solo es útil contra héroes, así que como al principio mantendremos a Brewmaster como presionador en la senda media, podemos prescindir de ella hasta que pasemos al papel de iniciador, para usarla contra el héroe enemigo con más capacidad para hacer daño con ataques normales.",
+				"brewmaster_drunken_brawler":"Es una habilidad pasiva muy potente, que proporciona buenos bonos en combate cuerpo a cuerpo, tan útiles contra creeps como contra héroes enemigos.",
+				"brewmaster_primal_split":"Esta habilidad convierte a Brewmaster en un excelente iniciador, ya que le permite empezar una lucha de equipo sin riesgo de morir el primero. Lo mejor es lanzar a Fuego contra un héroe potente, mantener a Tormenta atrás usando Tornado, y meter a Tierra donde mas dura sea la acción."
+		}
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"Hero":"faceless_void",
+	"Title":"Late game Carry build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"pers",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"mask_of_madness",
+				"power_treads"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"quelling_blade",
+				"satanic",
+				"black_king_bar",
+				"butterfly",
+				"assault",
+				"mjollnir",
+				"monkey_king_bar",
+				"travel_boots",
+				"manta",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"When u are laning easily or jungling.",
+				"stout_shield":"If ur enemies cant lane good, u may buy quarreling
+blade instead.",
+				"boots":"Avoid early gank",
+				"magic_stick":"Avoid early gank.",
+				"travel_boots":"U always need TP.",
+				"power_treads":"Stats are useful.",
+				"hand_of_midas":"If u get a lot of money within first 5 min. U may build this first. It can bring u extra golds and XPs.",
+				"pers":"Good for laning.",
+				"assault":"Good for ur DPS and survival.",
+				"black_king_bar":"When they have too many stun abilties, u should have BKB.",
+				"monkey_king_bar":"If ur enemies buy butterfly, u may try it.",
+				"butterfly":"Evation is good! 25+30% evation!",
+				"greater_crit":"Still a good carry's item.",
+				"bfury":"Good for farming.",
+				"manta":"Good for aligety heroes. Stats and illusions can increase ur DPS, also good for survival.",
+				"satanic":"Sell mask and buy santanic at last.",
+				"mjollnir":"Good for DPS and farming.",
+				"mask_of_madness":"For attack speed. Also u can activate it while jungling."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_time_lock",
+			"4":"faceless_void_time_walk",
+			"5":"faceless_void_backtrack",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_lock",
+			"8":"faceless_void_time_lock",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_backtrack",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_backtrack",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

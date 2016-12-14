@@ -1,0 +1,114 @@
+{
+	"Hero":"rubick",
+	"Title":"Support Rubick on a side lane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"branches",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"ring_of_basilius",
+				"urn_of_shadows",
+				"medallion_of_courage",
+				"phase_boots",
+				"ancient_janggo",
+				"ghost",
+				"blink",
+				"cyclone"
+			],
+			"Luxury Items":
+			[
+				"travel_boots",
+				"rod_of_atos",
+				"pipe",
+				"shivas_guard",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A Blink Dagger makes you more mobile. Buy it if you manage to steal a big area-of-effect nuke.",
+				"ghost":"Buy this item if the enemy carry keeps targeting you.",
+				"ward_observer":"Pick Wards whenever possible.",
+				"courier":"Buy a Courier if nobody bought it.
+
+Other options: Observer Ward.",
+				"travel_boots":"If you are your team's main pusher, buy these Boots.",
+				"phase_boots":"Buy Phase Boots instead of Arcane Boots if you need more mobility and you already have other ways to replenish your mana pool.",
+				"bracer":"Makes you more durable, and gives good stats.
+
+Other options: Urn of Shadows, Medallion of Courage.",
+				"mekansm":"Buy a Mekansm if nobody is going to buy it. Its heal is great in every situation.",
+				"ring_of_basilius":"Ring of Basilius solves your early mana problems. If you can't manage your mana pool, this item can be really worth the price.",
+				"pipe":"The magic resistance from the Pipe stacks with your aura. Use it against a team with many nukers.",
+				"urn_of_shadows":"Urn of Shadows can be bought instead of a Bracer if you want to gank often, and nobody has got one in your team.",
+				"sheepstick":"Great stats, great mana regeneration, great disable. It costs a lot, but it's worth the price!",
+				"cyclone":"This item solves all of your mana problems. Its active ability can be used to save allies or to temporarily remove an enemy from the battlefield.",
+				"force_staff":"A Force Staff makes you more mobile and can be used to save teammates.",
+				"shivas_guard":"Perfect against carries, or to initiate a battle. The aura and the armor, along with its active ability, make you almost unkillable by auto-attackers.",
+				"arcane_boots":"Buy Arcane Boots if your team needs more mana, or if you want to spam your spells.
+
+Other options: Phase Boots.",
+				"ancient_janggo":"If you think you need more health and mana, upgrade your bracer into a Drum of Endurance.",
+				"medallion_of_courage":"Pick a Medallion of Courage instead of a Bracer if your lane partner can deal a lot of physical damage in the early game.",
+				"rod_of_atos":"Rod of Atos is perfect if you need more health and an ability to make ganks easier."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

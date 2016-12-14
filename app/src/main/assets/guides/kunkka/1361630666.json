@@ -1,0 +1,110 @@
+{
+	"Hero":"kunkka",
+	"Title":"6.82 - Standard Kunkka (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand"
+			],
+			"Initiation Item":
+			[
+				"invis_sword",
+				"blink"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"ancient_janggo",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"greater_crit",
+				"greater_crit",
+				"assault",
+				"heart"
+			],
+			"The Titanic's Best Friend":
+			[
+				"rapier"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Choose Shadow Blade or Blink Dagger depending on your style of play. Shadow Blade costs mana in which Kunkka is always in desperate need of, but the extra damage from attacking when invisible is appreciated. However, if your combo is the more central focus of your line-up: then Blink Dagger.",
+				"assault":"Great team item that really helps Kunkka's armor problems. Usually Kunkka is not the main item, so the aura this offers is pretty amazing for everyone.",
+				"black_king_bar":"Usually, you won't need it when you're bursting down foes, but this is always something to consider if the game is against you throughout the fight.",
+				"rapier":"Break in case of icebergs.",
+				"greater_crit":"More damage, more chance to critical and a lot more critical damage. This item is perfect for your goal to burst down an enemy in as few hits as possible.
+
+More Daedalus is not a bad thing as you want to burst down foes in one hit.",
+				"invis_sword":"Choose Shadow Blade or Blink Dagger depending on your style of play. Shadow Blade costs mana in which Kunkka is always in desperate need of, but the extra damage from attacking when invisible is appreciated. However, if your combo is the more central focus of your line-up: then Blink Dagger.",
+				"ancient_janggo":"Drums of Endurance helps you stay alive while also offering a bit more mana to be able to pull off your combination. If you're having trouble stay in matches, this should help."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_x_marks_the_spot",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_x_marks_the_spot",
+			"9":"kunkka_torrent",
+			"10":"kunkka_torrent",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_torrent",
+			"13":"kunkka_x_marks_the_spot",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"kunkka_x_marks_the_spot"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"Torrent has a casting delay, so be sure to account for that when aiming. It synergies with X Marks The Spot where you can set up with X Marks the Spot then place your Torrent at where the opponent will return.",
+				"kunkka_tidebringer":"Your bread and butter to push lanes, farm and spread the love-damage in team-fights. Be sure to max this first and watch your enemies in the lane back off as the spread damage has quite the range.",
+				"kunkka_x_marks_the_spot":"X Marks the Spot can work defensively or offensively. Use it to bring foes back to their original spot, similar to Glimpse with Disruptor.  We keep it at two levels because it means you can cast all your other abilities right after without missing!
+
+Also works on Allies and yourself for more time!",
+				"kunkka_ghostship":"Remember that it does also give bonus movement speed to allies and double health while also stunning enemies.
+
+Remember that the boat goes a bit further than where you intend it to go, so account for the extra unintended range."
+		}
+	}
+}

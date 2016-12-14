@@ -1,0 +1,115 @@
+{
+	"Hero":"alchemist",
+	"Title":"Alchemist Annihilation",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"invis_sword"
+			],
+			"Aggresive Situational Items.":
+			[
+				"mjollnir",
+				"abyssal_blade",
+				"monkey_king_bar",
+				"greater_crit",
+				"desolator",
+				"medallion_of_courage"
+			],
+			"Defensive Situational Items.":
+			[
+				"assault",
+				"armlet",
+				"black_king_bar",
+				"heart",
+				"heavens_halberd",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Provides a decent amount of armour which Alchemist lacks and can be used to build Tranquil boots or Ring of Basilius depending on whether you are trying to farm a lane or push.",
+				"stout_shield":"Early survivability",
+				"magic_wand":"Always a handy item that could save your life or give you the boost of health and mana to snatch a hero kill.",
+				"tango":"Remember to use a tango before a fight because the extra regen could end up saving your life.",
+				"power_treads":"Provids extra attack speed ,especially if you had to skip the midas,along with a nice health boost.",
+				"hand_of_midas":"IMPORTANT:
+Only buy this item if you are able to farm it before the first 10 minutes OR if you are behind on levels and are given space to farm in the jungle/in a lane.Always use it on the creep that gives the most experience until you're high enough level.Preferably around at least level 17.",
+				"assault":"A great item for Alchemist since he lacks armour and is a great If the enemy team has an Assualt cuirass so that you may counter their negative armour aura.",
+				"heart":"If against a heavy spelll damage team and Black King Bar isn't cutting it,Heart is a your next best bet.",
+				"black_king_bar":"For teams with a lot of magic damage or a lot of stuns/disables.
+If it comes to the late game,you have used  the Black King Bar more than a few times and you have maxed out your other items,you can sell the Item and buy another Black King Bar to reset the spell immunity duration back to 10 seconds.",
+				"monkey_king_bar":"Provides A LOT of damage when you allready have good attack speed and is great to counter heroes with evasion like Phantom Assasin or items like that use Talisman of evasion.",
+				"greater_crit":"When you hit fast but lack the damage,Daedalus is a great choice to sovlve that problem with a few lucky crits.",
+				"manta":"Can be used to remove silences in a pinch and adds that extra bit of pushing power.",
+				"armlet":"Provides armour,attack speed and damage which Alchemist requires.Since Chemical Rage provides a massive amount of regen,it works very well with Armlet. A couple of well timed toggles and you could also change the way a fight could go.",
+				"invis_sword":"Provides more a safety net when farming up and helps land your stun at max duration for easy solo kills.Remember that opening up with an auto attack while invisible will deal more damage BUT it is  not worth running out of time and stunning yourself with Unstabe Concoction.",
+				"mjollnir":"Provides an Insane amount of attack speed and boosts farming power insanely.",
+				"desolator":"Great for tower pushing and works well with other heroes that reduce armour.",
+				"medallion_of_courage":"-armour to help with killing heroes and provides a nice amount of mana regen.",
+				"abyssal_blade":"With Alchemist's huge amount attack speed ,you will be able to lock down enemy heroes with ease with this and REMEMBER that the USE can stun a hero even through Magic immunity like BKB.",
+				"heavens_halberd":"Ideal for locking down an enemy hero that does a lot of auto attack damage.",
+				"tranquil_boots":"Provides early survivability in lane and can be disassembled mid game for Power Treads if needed or  Boots of Travel in the late game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_goblins_greed",
+			"3":"alchemist_unstable_concoction",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_unstable_concoction",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_unstable_concoction",
+			"8":"alchemist_goblins_greed",
+			"9":"alchemist_goblins_greed",
+			"10":"alchemist_goblins_greed",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_acid_spray",
+			"13":"alchemist_acid_spray",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Excelent for pushing ,team fights and for solo killing an enemy hero with a lot of armour.",
+				"alchemist_unstable_concoction":"Using Unstable Concoction then Shadow Blade after can set up some easy kills on heroes and make it much easier to land the stun before it explodes in your face.",
+				"alchemist_goblins_greed":"Try to keep your downtime low when farming to use this ability to its maximum effectiveness.",
+				"alchemist_chemical_rage":"Excelent for fights and for just getting your health back up while escaping or farming.",
+				"alchemist_unstable_concoction_throw":"This selected build assumes that you have a lane that is farmable,where you can rack up quite a few creep kills and XP,BUT if that is not the case,leveling Acid Spray over Greevil's Greed is highly recomended."
+		}
+	}
+}

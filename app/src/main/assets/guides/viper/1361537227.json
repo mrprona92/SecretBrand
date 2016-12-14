@@ -1,0 +1,79 @@
+{
+	"Hero":"viper",
+	"Title":"The Malicious Intent",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"wraith_band",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword"
+			],
+			"Situational Defensive":
+			[
+				"vanguard",
+				"heart",
+				"butterfly"
+			],
+			"Situational Offensive":
+			[
+				"ultimate_scepter",
+				"monkey_king_bar",
+				"greater_crit",
+				"manta"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_nethertoxin",
+			"3":"viper_poison_attack",
+			"4":"viper_nethertoxin",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_nethertoxin",
+			"8":"viper_nethertoxin",
+			"9":"viper_poison_attack",
+			"10":"viper_corrosive_skin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

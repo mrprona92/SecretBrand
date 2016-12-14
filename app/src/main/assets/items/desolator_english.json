@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 50 Damage<br/>ARMOR REDUCTION: 7",
+  "cd": false,
+  "components": [
+    "mithril_hammer",
+    "mithril_hammer"
+  ],
+  "qual": "artifact",
+  "notes": "Armor reduction works on buildings.",
+  "desc": "Passive: Corruption - Your attacks reduce target\u0027s armor for 15 seconds.<br/><br/>Desolator is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+  "dname": "Desolator",
+  "dotaId": "desolator",
+  "mc": false,
+  "img": "desolator_lg.png",
+  "lore": "A wicked weapon, used in torturing political criminals.",
+  "id": 168,
+  "created": true,
+  "cost": 3500
+}

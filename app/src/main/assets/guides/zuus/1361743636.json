@@ -1,0 +1,117 @@
+{
+	"Hero":"zuus",
+	"Title":"Dynamite Zeus Nuker & Support Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"circlet",
+				"mantle",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"1 Common CORE Items":
+			[
+				"null_talisman",
+				"magic_wand",
+				"sobi_mask",
+				"boots",
+				"arcane_boots",
+				"ghost"
+			],
+			"2.1 PRIMARY Nuker Build":
+			[
+				"soul_ring",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"2.2 Secondary Support Build ":
+			[
+				"headdress",
+				"mekansm",
+				"bloodstone"
+			],
+			"2.3 Tertiary Support OBuild ":
+			[
+				"cyclone",
+				"veil_of_discord"
+			],
+			"3 Common END Items":
+			[
+				"dagon",
+				"sheepstick",
+				"shivas_guard",
+				"force_staff",
+				"blink",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Better mobility, not really recommended though. Unless you know what you`re doing",
+				"magic_wand":"Optional. It`s generally a worthy item on almost every situation/game. The only exception is when laning against heroes that use active abilities rarely or not at all; for example Snper, Drow, Skeleton King, Spirit Breaker.",
+				"ghost":"For escaping/survivability. After you use it you can still cast spells on your enemies! ",
+				"headdress":"Buy Headdress before Ghost Scepter or Arcane",
+				"sheepstick":"Excellent item, excellent disable. Pick this over Shiva if max one enemy attacks you melee, otherwise Shiva might be better.",
+				"cyclone":"Buy Eul Scepter before Ghost Scepter",
+				"force_staff":"Good items to help your team outmaneuver your enemy, to escape, to chase, to gank in one item.",
+				"dagon":"Good item choice for end game, especially for the Nuker Build.
+For Support Builds, pick this if CC is not a problem and so you need to focus on dealing more damage.
+",
+				"ultimate_scepter":"Start with point booster",
+				"shivas_guard":"Grants nice survivability against melee heroes. Best item against (lots of) illusions.
+Works well in synergy with Ghost Scepter",
+				"invis_sword":"If no one on your item use invisibility, neither by items or abilities, you can then buy SB for both escaping, scouting and positioning yourself during teamfights.",
+				"soul_ring":"Upgrade Sage Mask to Soul Ring before picking Arcane Boots"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_lightning_bolt",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_arc_lightning",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Pick this ability AT LEVEL 2 if you are going to engage early teamfights.
+Use it to get last hit on creeps, when would be impossible to get last-hit using auto attack. You main method for last hitting should remain auto attack!",
+				"zuus_lightning_bolt":"Main nuke, with the best ratio damage for mana. Use this only to slowly deplete enemy heroes health if mana is not enoguh.
+REMEMBER: this ability mini stun the target, interrupting any magi channeling, town scroll included, and giving TRUE SIGHT in a 900 radius! (last 3 seconds)",
+				"zuus_static_field":"Remember that you have to be 1000 feet close to the enemies to get this to work. For comparison Zeus ranged auto attack works at 450, and tower range of attack is 800.
+It always works on any target of Lighting Arc and Bolt since since these abilities have a 700 range.",
+				"zuus_thundergods_wrath":"Dont spam it as soon as avaiable!!! That`s a very common mistake... a very bad one. Instead always save it for the next (big) teamfight you are gonna face."
+		}
+	}
+}

@@ -1,0 +1,2859 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wraith King! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5c/Wraith_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bow to your king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Wraith_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " King am I of all the wraiths. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Wraith_spawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s Wraith King, not Rage King! Arrgh... ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Wraith_spawn_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beginning the Battle",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The wraith war begins! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Wraith_battlebegins_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Comes now the King of Wraiths! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Wraith_battlebegins_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027ve never known war unless you\u0027ve warred with a Wraith! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Wraith_battlebegins_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027LL HELP MY WEAK AND PUNY ALLIES WHERE I CAN. (3% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Wraith_ally_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " We are in agreement. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Wraith_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By my decree. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c3/Wraith_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wise counsel. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e6/Wraith_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As you advise. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Wraith_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll consider it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1d/Wraith_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By any measure. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Wraith_move_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your king moves of his own accord. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Wraith_move_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So what if I swagger? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Wraith_move_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Death is my bitch. (1% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c2/Wraith_move_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Who\u0027s in charge here? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Wraith_move_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " War is torn. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/14/Wraith_move_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " There are wraiths among you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Wraith_move_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Behold the Wraith! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Wraith_move_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wraiths, your king is here! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Wraith_move_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tis I! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0e/Wraith_move_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I walk among you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Wraith_move_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Prostrate yourself. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Wraith_move_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Keep your thoughts to yourself. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Wraith_move_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You are in my presence. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b6/Wraith_move_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m always at my best. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Wraith_move_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tis your honor. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Wraith_move_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Questionable. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f9/Wraith_move_22.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What are you afraid of? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Wraith_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bow before me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Wraith_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Take a knee, peasant. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Wraith_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Who dares look upon the wraith? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Wraith_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come, let\u0027s be about it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Wraith_attack_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Submit to the Wraith King\u0027s rule! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Wraith_attack_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By my crown. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/83/Wraith_attack_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Be not timid. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Wraith_attack_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " At my word! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Wraith_attack_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Be about it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b6/Wraith_attack_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Go to! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Wraith_attack_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fall upon them! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Wraith_attack_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Behold your king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bd/Wraith_attack_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Obey me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Wraith_attack_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am your liege. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Wraith_attack_15.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Behold your king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Wraith_cast_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The wrath of a wraith! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Wraith_cast_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Flee while you can! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Wraith_cast_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Wraithfire Blast",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All to ashes! (15% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Wraith_ability_hellfire_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "After First Reincarnation",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your king incarnates! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Wraith_ability_incarn1_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "After Second Reincarnation",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My second incarnation! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Wraith_ability_incarn1_06.mp3"
+      }
+    ]
+  },
+  {
+    "name": "After Third Reincarnation",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Third time\u0027s a curse! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Wraith_ability_incarn1_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tis the third reign of the Wraith King! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Wraith_ability_incarn1_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Using Reincarnation Without Any Nearby Allies",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Guys? Guys?! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fc/Wraith_ability_incarn2_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This is gonna hurt. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Wraith_ability_incarn2_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I don\u0027t like where this is going. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Wraith_ability_incarn2_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " But I\u0027m the king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Wraith_ability_incarn2_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A prince no longer. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Wraith_level_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Behold, my reach extends. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5b/Wraith_level_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " King me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Wraith_level_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My next coronation. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Wraith_level_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A king\u0027s ascension. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/26/Wraith_level_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Soon perhaps I\u0027ll choose a queen. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Wraith_level_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s a king thing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Wraith_level_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Now, this is truly the game of kings. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2e/Wraith_level_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m your once and future thing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Wraith_level_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Wraith_level_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Wraith_level_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fc/Wraith_level_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh he he he he! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Wraith_level_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh he he he! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Wraith_level_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Submit! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Wraith_ability_mortalstrike_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Another subject for the Wraith King! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Wraith_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You come to a bad end. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Wraith_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I merely release the wraith within! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Wraith_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your flesh falls, your spirit bows to me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Wraith_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Prostrate yourself! Oh good, you did. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Wraith_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Very well, I accept your surrender. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Wraith_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " An acceptable show of loyalty. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Wraith_kill_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll take that as a compliment. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Wraith_kill_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Was that some sort of misguided tribute? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Wraith_kill_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Don\u0027t question it. Just let it roll over you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Wraith_kill_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Deal with it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/80/Wraith_kill_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Consider yourself quashed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Wraith_kill_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Now for your co-conspirators. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Wraith_kill_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nipped that coup in the bud. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Wraith_kill_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I decree you deceased. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ce/Wraith_kill_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha hah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Wraith_kill_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Lord have mercy? I think not. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Wraith_kill_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Wraith_kill_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Wraith_kill_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Wraith_kill_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Wraith_kill_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Wraith_kill_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh he he he. Heh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Wraith_kill_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm hm hm hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Wraith_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm hm ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Wraith_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ho ho ho ho ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Wraith_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Wraith_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ho ho! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Wraith_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Wraith_laugh_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Wraith_laugh_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Wraith_laugh_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wah ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/84/Wraith_laugh_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Rival",
+    "responses": [
+      {
+        "heroes": [
+          "sand_king"
+        ],
+        "items": [],
+        "title": " What sort of king was that? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Wraith_rival_01.mp3"
+      },
+      {
+        "heroes": [
+          "queenofpain"
+        ],
+        "items": [],
+        "title": " My queen. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Wraith_rival_02.mp3"
+      },
+      {
+        "heroes": [
+          "queenofpain"
+        ],
+        "items": [],
+        "title": " Oh Queen of Pain, I still can\u0027t feel your touch. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Wraith_rival_03.mp3"
+      },
+      {
+        "heroes": [
+          "queenofpain"
+        ],
+        "items": [],
+        "title": " I would that you had joined me as my queen. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f8/Wraith_rival_04.mp3"
+      },
+      {
+        "heroes": [
+          "undying"
+        ],
+        "items": [],
+        "title": " Undying, they called you. That\u0027s a laugh. Aha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Wraith_rival_05.mp3"
+      },
+      {
+        "heroes": [
+          "warlock"
+        ],
+        "items": [],
+        "title": " You\u0027ll make a better subject than anything in your book. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8c/Wraith_rival_06.mp3"
+      },
+      {
+        "heroes": [
+          "weaver"
+        ],
+        "items": [],
+        "title": " You dared raise a hand, or whatever that is, against your king? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Wraith_rival_07.mp3"
+      },
+      {
+        "heroes": [
+          "death_prophet"
+        ],
+        "items": [],
+        "title": " Your spirits have abandoned you to join my wraiths. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Wraith_rival_08.mp3"
+      },
+      {
+        "heroes": [
+          "shadow_shaman"
+        ],
+        "items": [],
+        "title": " Your shades guided you to my kingdom. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Wraith_rival_09.mp3"
+      },
+      {
+        "heroes": [
+          "ember_spirit"
+        ],
+        "items": [],
+        "title": " That ember was easily snuffed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Wraith_rival_10.mp3"
+      },
+      {
+        "heroes": [
+          "phoenix"
+        ],
+        "items": [],
+        "title": " From ashes reborn. I know the feeling. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Wraith_rival_11.mp3"
+      },
+      {
+        "heroes": [
+          "doom_bringer"
+        ],
+        "items": [],
+        "title": " Sorry, Doom, I was a great admirer of your work. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d1/Wraith_rival_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Underlord. Your title is worthless here. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Wraith_rival_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Go back and guard your arcs. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Wraith_rival_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " And you call yourself a lord. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Wraith_rival_15.mp3"
+      },
+      {
+        "heroes": [
+          "troll_warlord"
+        ],
+        "items": [],
+        "title": " Lord of what land were you again? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Wraith_rival_16.mp3"
+      },
+      {
+        "heroes": [
+          "abaddon"
+        ],
+        "items": [],
+        "title": " Was that some sort of lord? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Wraith_rival_17.mp3"
+      },
+      {
+        "heroes": [
+          "dragon_knight"
+        ],
+        "items": [],
+        "title": " Funny, I don\u0027t remember knighting that one. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c7/Wraith_rival_18.mp3"
+      },
+      {
+        "heroes": [
+          "legion_commander"
+        ],
+        "items": [],
+        "title": " You should know better than to oppose a king. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Wraith_rival_19.mp3"
+      },
+      {
+        "heroes": [
+          "elder_titan"
+        ],
+        "items": [],
+        "title": " Even titans must bend the knee. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Wraith_rival_20.mp3"
+      },
+      {
+        "heroes": [
+          "skywrath_mage"
+        ],
+        "items": [],
+        "title": " Court mage? More like court jester. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Wraith_rival_21.mp3"
+      },
+      {
+        "heroes": [
+          "earth_spirit"
+        ],
+        "items": [],
+        "title": " Your spirit was too lowly to stand before a king. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Wraith_rival_22.mp3"
+      },
+      {
+        "heroes": [
+          "oracle"
+        ],
+        "items": [],
+        "title": " No amount of foresight could have prepared you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Wraith_rival_23.mp3"
+      },
+      {
+        "heroes": [
+          "terrorblade"
+        ],
+        "items": [],
+        "title": " You were a poor pretender to my throne. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e6/Wraith_rival_24.mp3"
+      },
+      {
+        "heroes": [
+          "winter_wyvern"
+        ],
+        "items": [],
+        "title": " You are here out of season, Winter Wyvern. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Wraith_rival_25.mp3"
+      },
+      {
+        "heroes": [
+          "techies"
+        ],
+        "items": [],
+        "title": " I could not tolerate such an explosive presence in my kingdom. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Wraith_rival_26.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Meeting an ally",
+    "responses": [
+      {
+        "heroes": [
+          "pudge"
+        ],
+        "items": [],
+        "title": " Well met, man of meat. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Wraith_ally_02.mp3"
+      },
+      {
+        "heroes": [
+          "death_prophet"
+        ],
+        "items": [],
+        "title": " Come and whisper your prophecies beside my throne. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Wraith_ally_03.mp3"
+      },
+      {
+        "heroes": [
+          "sand_king"
+        ],
+        "items": [],
+        "title": " Let us align our kingdoms, oh Sandy One. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Wraith_ally_04.mp3"
+      },
+      {
+        "heroes": [
+          "queenofpain"
+        ],
+        "items": [],
+        "title": " I regret that as a wraith I can no longer feel pain. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Wraith_ally_05.mp3"
+      },
+      {
+        "heroes": [
+          "undying"
+        ],
+        "items": [],
+        "title": " Undying! Sympatico! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Wraith_ally_06.mp3"
+      },
+      {
+        "heroes": [
+          "life_stealer"
+        ],
+        "items": [],
+        "title": " Lifestealer, if you ever feel like serving a different master, let me know. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Wraith_ally_07.mp3"
+      },
+      {
+        "heroes": [
+          "windrunner"
+        ],
+        "items": [],
+        "title": " What brings you to these wraithly woods, Windranger? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Wraith_ally_08.mp3"
+      },
+      {
+        "heroes": [
+          "earth_spirit"
+        ],
+        "items": [],
+        "title": " I welcome the Spirit of Earth, though I\u0027ll not be buried in it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Wraith_ally_09.mp3"
+      },
+      {
+        "heroes": [
+          "phoenix"
+        ],
+        "items": [],
+        "title": " Ah, Phoenix, one who knows what it\u0027s like to fall and rise again. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8b/Wraith_ally_10.mp3"
+      },
+      {
+        "heroes": [
+          "terrorblade"
+        ],
+        "items": [],
+        "title": " Will you dedicate your blade to my service, oh Terrifying One? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Wraith_ally_11.mp3"
+      },
+      {
+        "heroes": [
+          "oracle"
+        ],
+        "items": [],
+        "title": " Oracle, you must have foreseen that your future lies with me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Wraith_ally_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, I\u0027ve been looking for you. I hereby assign you Lordship of the Abyss! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Wraith_ally_13.mp3"
+      },
+      {
+        "heroes": [
+          "chaos_knight"
+        ],
+        "items": [],
+        "title": " I dub thee Chaos Knight! How\u0027s that for a name? Not bad, eh? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Wraith_ally_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Give to your king. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Wraith_ability_mortalstrike_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I want it all! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Wraith_ability_mortalstrike_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll take that! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Wraith_ability_mortalstrike_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mine to claim. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Wraith_ability_mortalstrike_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your king requires. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/79/Wraith_ability_mortalstrike_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A fine fealty. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Wraith_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Good day, peasant. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Wraith_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Even wraiths have coffers. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Wraith_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the treasury. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Wraith_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Another paltry offering. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Wraith_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Die, peasant. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Wraith_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Every coin counts. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Wraith_lasthit_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your life is spent. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/25/Wraith_lasthit_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll make wraiths of you all. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Wraith_lasthit_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Obey. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Wraith_lasthit_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fealty! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Wraith_lasthit_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A fine show of obedience. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Wraith_lasthit_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Don\u0027t get up. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Wraith_lasthit_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Did I give you permission to fall? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Wraith_lasthit_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " How comes a wraith to die? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Wraith_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Wraith King uncrowned! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cc/Wraith_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My reign in ruins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7c/Wraith_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dig my grave and I\u0027ll put you in it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Wraith_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I left no heirs! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Wraith_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I should have chosen a queen! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Wraith_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Who will lead my kingdom now? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Wraith_death_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This makes no sense. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Wraith_death_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My throne grows cold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Wraith_death_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Death by decrees. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Wraith_death_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So this is how it ends? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Wraith_death_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The age of kings has ended. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Wraith_death_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come now! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a3/Wraith_death_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Good grief! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Wraith_death_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Treason! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/51/Wraith_death_24.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Such disrespect! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cc/Wraith_death_25.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wait! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Wraith_death_26.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " But--but! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Wraith_death_27.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You rat! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Wraith_death_28.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/86/Wraith_death_29.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Wraith_death_30.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dead again. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Wraith_death_31.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wait! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Wraith_death_36.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " But--but--but I--! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/42/Wraith_death_37.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uhhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Wraith_death_38.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh uh uh uh ah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Wraith_death_39.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh... ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Wraith_death_40.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/85/Wraith_death_long_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Who\u0027s idea was that? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Wraith_death_long_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Execute all my advisors! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Wraith_death_long_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I need better counsel! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Wraith_death_long_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Good thing I\u0027m already a wraith! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Wraith_death_long_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That was my last raw nerve! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/23/Wraith_death_long_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This is regicide! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Wraith_death_long_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " There\u0027s been a coup! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Wraith_death_long_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Overthrown! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Wraith_death_long_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I don\u0027t believe this. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Wraith_death_long_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Poor timing! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Wraith_death_long_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Too soon. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Wraith_death_long_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No resurrection? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Wraith_death_long_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Rebirth out of reach! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Wraith_death_long_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What sort of king am I? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Wraith_death_long_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll be right back. Wait? What? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Wraith_death_long_17.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Using Reincarnation or Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Death has no grip on me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Wraith_death_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Wraith_death_32.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Wraith_death_33.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Wraith_death_34.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Wraith_death_35.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Best death yet! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Wraith_fastres_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh, the irony is rich! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Wraith_fastres_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am legend! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/64/Wraith_fastres_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Still I rise! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Wraith_ability_incarn1_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The wraith is deathless. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Wraith_ability_incarn1_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You can\u0027t kill a king who\u0027s dead! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Wraith_ability_incarn1_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your once and future king is crowned! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Wraith_ability_incarn1_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I rise again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Wraith_ability_incarn1_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Back again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Wraith_death_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fresh from the grave! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Wraith_death_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Now it\u0027s someone else\u0027s turn to die. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Wraith_death_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The wraith returns! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Wraith_death_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bow to your king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Wraith_death_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tis I! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/15/Wraith_death_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Once more, with screaming! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Wraith_death_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Wraith_death_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Flesh and bone. Both are a hindrance. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Wraith_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Long live the Wraith King! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Wraith_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Wraith King reigns again. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/92/Wraith_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That was a brief interregnum. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Wraith_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My subjects will be glad to hear my voice. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c5/Wraith_respawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I have dreamed of this day. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Wraith_respawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What is a kingdom without a king? Just dom. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Wraith_respawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll not be so easily dispatched. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Wraith_respawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Alert the heralds. I\u0027m back! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Wraith_respawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Issue a proclamation. The Wraith King\u0027s throne is occupied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Wraith_respawn_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The kingdom\u0027s gone to hell while I was away. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Wraith_respawn_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rare",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My kingdom is in every way improved beyond whatever it was before. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Wraith_rare_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Purer than flesh, stronger than bone, imperishable is the essence of the wraith. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Wraith_rare_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I scarce recall the kingdom of my first coronation. The wraith flame has consumed those memories. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Wraith_rare_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The ossuaries of the first regime have all been clothed in flesh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/69/Wraith_rare_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The first kingdom seems like a fever dream now--a place of clattering bone white trees and towers. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Wraith_rare_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I miss my bones. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Wraith_rare_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Where once was bone, wraith flesh as far as the eye can see. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Wraith_rare_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No bones about it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Wraith_rare_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A wondrous prize! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Wraith_purch_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027d empty every treasury for this. Even my own. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Wraith_purch_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Very nice. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Wraith_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Wraith_scepter_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " What\u0027s a king without his scepter? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Wraith_scepter_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink Dagger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/06/Wraith_blink_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Blink Dagger! Heh heh. Surprise, your King is here! Heh. Oh, this will be glorious. (3% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Wraith_blink_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "armlet"
+        ],
+        "title": " I claim the armlet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Wraith_items_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "armlet"
+        ],
+        "title": " I NOW HAVE ALL THE SEXY. (1% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c1/Wraith_items_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "armlet"
+        ],
+        "title": " Armlet of Mordiggian. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Wraith_items_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "black_king_bar"
+        ],
+        "title": " Black King Bar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Wraith_items_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "black_king_bar"
+        ],
+        "title": " Wraith King Bar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/88/Wraith_items_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "vladmir"
+        ],
+        "title": " Vladmir\u0027s Offering! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Wraith_items_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "assault"
+        ],
+        "title": " Assault Cuirass! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Wraith_items_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "bfury"
+        ],
+        "title": " Battlefury! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Wraith_items_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "heart"
+        ],
+        "title": " Heart of Tarrasque! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Wraith_items_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "satanic"
+        ],
+        "title": " Satanic! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Wraith_items_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "radiance"
+        ],
+        "title": " Radiance! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Wraith_items_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier"
+        ],
+        "title": " Divine Rapier! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Wraith_items_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "refresher"
+        ],
+        "title": " Refresher Orb! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Wraith_items_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "heavens_halberd"
+        ],
+        "title": " Heaven\u0027s Halberd! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Wraith_items_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "desolator"
+        ],
+        "title": " Desolator! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Wraith_items_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "force_staff"
+        ],
+        "title": " Force Staff! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Wraith_items_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier",
+          "refresher"
+        ],
+        "title": "It's the three Rs--Refresher, Rapier, and Wraith! (10% chance when having Refresher Orb)",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Wraith_items_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier",
+          "refresher"
+        ],
+        "title": " Oh, Rapier. NOW YOUR KING IS BALLING OUT OF CONTROL! (5% chance when having Refresher Orb)",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ae/Wraith_items_18.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am a patient king. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Wraith_bottle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The wraith can wait. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Wraith_bottle_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Wraith_deny_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Wraith_deny_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No no no. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Wraith_deny_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Wraith_deny_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tut tut! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Wraith_deny_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh no. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/92/Wraith_deny_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Never. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Wraith_deny_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Tis not your time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Wraith_deny_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Wraith_deny_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " In the name of the king. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Wraith_deny_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Wraith_deny_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4d/Wraith_deny_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As I will it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Wraith_deny_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5f/Wraith_deny_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bad peasant. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/79/Wraith_deny_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Wraith_deny_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ooh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Wraith_deny_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No no no. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f1/Wraith_deny_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Wraith_deny_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Wraith_deny_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Wraith_deny_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Never! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7d/Wraith_deny_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Wraith_deny_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mine! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7d/Wraith_deny_24.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/55/Wraith_deny_25.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Wraith_deny_26.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh he he he! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5b/Wraith_deny_27.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Wraith_deny_28.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Wraith_deny_29.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Wraith_deny_30.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nooo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Wraith_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defeated! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Wraith_lose_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Has any king ever had a shorter reign? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Wraith_lose_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeah-heh-heh-hes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Wraith_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Victory! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/64/Wraith_win_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Welcome to all my new subjects. Now let\u0027s get to know each other. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Wraith_win_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a1/Wraith_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As if I needed more of this. But I\u0027ll take it. (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Wraith_immort_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/67/Wraith_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste in everything but judgment. (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ef/Wraith_haste_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Wraith_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Crown me twice, shame on you! (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Wraith_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Wraith_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Even a wraith must seek renewal. (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c2/Wraith_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/69/Wraith_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " We\u0027ll lead as three kings! (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/26/Wraith_illus_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Wraith_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your king unseen. (25% chance) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Wraith_invis_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the treasury. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Wraith_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4d/Wraith_deny_12.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Wraith_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5b/Wraith_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Wraith_notyet_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Wraith_notyet_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Wraith_notyet_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Wraith_notyet_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Wraith_notyet_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0e/Wraith_notyet_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Wraith_notyet_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Wraith_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Wraith_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Wraith_nomana_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Wraith_nomana_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Wraith_nomana_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Wraith_nomana_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Wraith_nomana_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Wraith_nomana_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Wraith_nomana_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You have done the kingdom a service. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4d/Wraith_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your king thanks you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Wraith_thanks_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " We are grateful. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Wraith_thanks_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thank you, peasant. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Wraith_thanks_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Drawing First Blood",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " First Blood! I\u0027ve still got it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Wraith_firstblood_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It is only right that First Blood should go to your king! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/55/Wraith_firstblood_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming Under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m under attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/26/Wraith_underattack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Wraith_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ooh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Wraith_pain_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Wraith_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ow! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/42/Wraith_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oof! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Wraith_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b7/Wraith_pain_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/37/Wraith_pain_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Wraith_pain_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Wraith_pain_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Wraith_pain_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Wraith_pain_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s as certain as my choice of heir, this one is in the bag. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Wraith_inthebag_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shitty Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shitty wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Wraith_shiwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Crummy Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Crummy wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f8/Wraith_crumwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Calling a Missing Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing top! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Wraith_lanemissing_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing middle! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Wraith_lanemissing_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing bottom! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Wraith_lanemissing_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Common Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I believe I have a storeroom full of these. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Wraith_item_common_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding an Uncommon Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You can buy a lot of allies with one of these. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Wraith_item_moderate_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Rare Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This will be a jewel in my already sparkling crown. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Wraith_item_rare_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Wraith_anger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Aaaah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Wraith_anger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grr. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Wraith_anger_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Wraith_anger_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mmmh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Wraith_anger_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Wraith_anger_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fc/Wraith_anger_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Wraith_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Wraith_happy_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Wraith_happy_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh heh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Wraith_happy_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ooh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c2/Wraith_happy_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/64/Wraith_happy_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Wraith_happy_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Wraith_happy_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hmm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Wraith_happy_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uhah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Wraith_happy_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm hm hm hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Wraith_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm hm ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Wraith_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ho ho ho ho ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Wraith_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Wraith_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh ho ho! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Wraith_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Wraith_laugh_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Wraith_laugh_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Wraith_laugh_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wah ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/84/Wraith_laugh_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Grunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Wraith_grunts_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Wraith_grunts_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Wraith_grunts_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Wraith_grunts_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Wraith_grunts_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Wraith_grunts_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Wraith_grunts_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/25/Wraith_grunts_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Wraith_grunts_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Wraith_grunts_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ae/Wraith_grunts_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Long Death",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Would it not please you to cut me down? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Wraith_death_long_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come at me, I beg you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Wraith_death_long_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Do your worst, I\u0027ll not resist. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Wraith_death_long_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027ll have no trouble beating me down, dog. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e1/Wraith_death_long_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I dare you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Wraith_death_long_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Just try me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Wraith_death_long_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kill me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/db/Wraith_death_long_24.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Come on and kill me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Wraith_death_long_25.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Do us a favor and put me out of my misery. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Wraith_death_long_26.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m at your mercy. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Wraith_death_long_27.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I dare you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Wraith_death_long_28.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kill me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Wraith_death_long_29.mp3"
+      }
+    ]
+  }
+]

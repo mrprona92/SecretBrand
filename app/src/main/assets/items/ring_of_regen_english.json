@@ -1,0 +1,15 @@
+{
+  "dotaId": "ring_of_regen",
+  "attrib": "+ 2 HP Regeneration",
+  "cd": false,
+  "qual": "component",
+  "notes": "Ring of Regen is shareable.",
+  "desc": "",
+  "dname": "Ring of Regen",
+  "mc": false,
+  "img": "ring_of_regen_lg.png",
+  "lore": "This ring is considered a good luck charm among the Gnomes.",
+  "id": 27,
+  "created": false,
+  "cost": 350
+}

@@ -1,0 +1,19 @@
+{
+  "dotaId": "bracer",
+  "attrib": "+ 6 к силе<br/>+ 3 к ловкости<br/>+ 3 к интеллекту<br/>+ 3 к урону",
+  "cd": false,
+  "components": [
+    "circlet",
+    "gauntlets"
+  ],
+  "qual": "common",
+  "notes": "",
+  "desc": "",
+  "dname": "Bracer",
+  "mc": false,
+  "img": "bracer_lg.png",
+  "lore": "Наручи — типичный выбор для укрепления защиты и продления жизни в бою.",
+  "id": 73,
+  "created": true,
+  "cost": 525
+}

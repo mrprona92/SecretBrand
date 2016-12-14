@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Sprint",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Slardar двигается значительно быстрее, но получает больше урона.",
+        "notes": "Использование этой способности не прервет прочтение другой.",
+        "dmg": "",
+        "attrib": "ДОП. УРОН: <b><font color=\"#ffffff\">15%</font></b><br/>ДОП. СКОРОСТЬ: <b><font color=\"#ffffff\">20%/28%/36%/44%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">16</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 23",
+        "lore": "Когда Slardar только вышел из глубин, ему приходилось использовать свой хвост для бега.",
+        "hurl": "Slardar",
+        "name": "slardar_sprint",
+        "youtube":"IIpt3UM9-dE",
+        "id": 0
+    },
+    {
+        "dname": "Slithereen Crush",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бьет по земле, оглушая ближайших вражеских наземных юнитов и нанося им урон. После оглушения юниты замедляются.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">75/125/175/225</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">350</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">20</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">2</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.6/1.9/2.2/2.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/95/105/115<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8",
+        "lore": "Мощь воды вкупе с ее быстротой пробьет даже самую сильную защиту.",
+        "hurl": "Slardar",
+        "name": "slardar_slithereen_crush",
+        "youtube":"AhBhn-UWcOM",
+        "id": 1
+    },
+    {
+        "dname": "Bash",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Атаки получают шанс нанести дополнительный урон и оглушить врага. При атаке крипов длительность оглушения удваивается.",
+        "notes": "Оглушает врагов, невосприимчивых к заклинаниям.<br/>Не складывается с эффектом от артефакта Skull Basher.",
+        "dmg": "",
+        "attrib": "ШАНС: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">60/80/100/120</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1</font></b>",
+        "cmb": "",
+        "lore": "Любой, кто осмелится посягнуть на сокровища Глубоководных, встретится лицом к лицу с беспощадным слизеринским стражем.",
+        "hurl": "Slardar",
+        "name": "slardar_bash",
+        "youtube":"fxLD4HlBk8g",
+        "id": 2
+    },
+    {
+        "dname": "Amplify Damage",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Уменьшает сопротивляемость врага физическому урону и применяет True Sight к указанному юниту, раскрывая его невидимость.",
+        "notes": "Делает цель видимой для всех ваших союзников.<br/>Действует на врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">10/15/20</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">25/25/25</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 25/25/25<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 5",
+        "lore": "Slardar использует светлячков, чтобы раскрыть как самых потаенных противников, так и их слабости.",
+        "hurl": "Slardar",
+        "name": "slardar_amplify_damage",
+        "youtube":"wNlSGTlfxOY",
+        "id": 3
+    }
+]

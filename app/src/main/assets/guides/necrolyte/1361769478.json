@@ -1,0 +1,124 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Surviving Pubs With: Rotund'Jere",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"gauntlets",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"sobi_mask",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows"
+			],
+			"Luxury Items":
+			[
+				"sheepstick",
+				"blade_mail",
+				"heart",
+				"veil_of_discord",
+				"bloodstone",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"ancient_janggo",
+				"pipe",
+				"black_king_bar",
+				"shivas_guard",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Buy two of these at the start if courier has already been purchased by someone else.",
+				"branches":"Have more than one empty space in your inventory? Buy a Branch. Trust me on this.",
+				"sobi_mask":"Gives much needed early game mana regen and will be built into Urn later.",
+				"boots":"Necrolyte isn't the fastest hero in the game, and he needs to be able to keep up with enemies to slap them with endless Death Pulses. These should probably be your first purchase once you hit the lane.",
+				"magic_stick":"Can be upgraded to Magic Wand or left as is.",
+				"flask":"Try to only use your Salve if you're actually missing 400 hp or if you're near ~30% hp. Using it any earlier would be a waste.",
+				"tango":"Do not underestimate the usefulness of Tangoes. Learn the paths in the woods and use these to cut your way through them when necessary. Smart use of these can save your hide.",
+				"courier":"While this build is geared towards a semi-carry role rather than support, if no one else has purchased courier it's your job to pick one up.",
+				"tpscroll":"Always carry at least 1 TP Scroll in your inventory at all times. Games are won and lost by TP Scrolls. Do not fear the TP Scroll. Embrace the TP Scroll.",
+				"travel_boots":"An alternate choice to Phase Boots if you think you can farm the 2000 gold recipe while running around with regular boots.",
+				"phase_boots":"If you disassemble your Arcane Boots, you're going to need a replacement. Phase Boots allow you to weave in and out of combat without worrying about having your path blocked by other units.",
+				"mekansm":"If your team is refusing to let you farm or if you're unable to find any, pick this up after Arcane Boots instead of a Bloodstone.",
+				"flying_courier":"Can be purchased after 3 minutes. If no one else has upgraded the courier by 5 minutes, it's your job to upgrade it.",
+				"pipe":"A fantastic item for increasing the survivability of you and your team. Consider picking it up after Arcane Boots if you're against a team with a lot of magic damage and no one else has grabbed it.",
+				"urn_of_shadows":"Urn gives good early mana regen and buffs up your HP in addition to giving another source of healing and damage.",
+				"sheepstick":"One of the best disabling items in the game and gives you all the stats you need, the only problem is that the components are very expensive.",
+				"ultimate_scepter":"Recently buffed to cause your ult to disable buyback for a target when killed by it. Still hard to justify buying for the price, but can be picked up if you're dealing with an extremely farmed hero that needs to be taken out of the fight.",
+				"heart":"If you weren't unkillable before, you're definitely unkillable now.",
+				"black_king_bar":"There aren't many disables that go through BKB. With this, your Death Pulses will be practically unstoppable.",
+				"shivas_guard":"A great item for teamfights and a good counter to enemy carry heroes.",
+				"bloodstone":"Allows you to spam Death Pulse off cooldown regardless of if you're killing anything or not in addition to providing a wide array of bonuses.",
+				"blade_mail":"If the enemy team has wised up and is trying to focus you in fights, pick this up and watch them kill themselves trying to take you down.",
+				"soul_booster":"Get Soul Booster first over Perseverance if you build Bloodstone because the bonus HP and Mana from Soul Booster is more important than the 10 damage, 1 extra hp/s and 25% extra mana regen you'd get from Perseverance.",
+				"arcane_boots":"These boots are invaluable to any hero that uses a lot of mana. You can disassemble these to make a Soul Booster if you're going to pick up Bloodstone.",
+				"ancient_janggo":"If someone else has already grabbed Urn before you could, sell a Gauntlet and build a Bracer into this. Extremely cheap item with great stats and a good aura.",
+				"veil_of_discord":"Half the price of Scepter and gives almost the same amount of damage amp to your ult as well as increasing all other magic damage.",
+				"rod_of_atos":"Gives a good amount of Int and HP for the price along with a very powerful slow, but not exactly the best item to be picking up."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_sadist",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_heartstopper_aura",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"This is your bread and butter, but at level 1 the efficiency is awful. Try to only use it in emergencies until it's at least level 2 or 3. Once you have the mana pool to support it, spam the shit out of this every time it's off cooldown.",
+				"necrolyte_heartstopper_aura":"An early point in this will push the lane very slightly, but it will also slowly drain the health of the enemy heroes without having to do anything. The earlier you get this, the more damage it'll do in the long run.",
+				"necrolyte_sadist":"Denying units will trigger this passive, so keep your eyes on your own creeps as well as the enemy's while laning.",
+				"necrolyte_reapers_scythe":"This will kill any enemy below 23 / 31 / 40% max health if they have no extra magic resistance (31 / 40 / 47% with scepter). Magic Immunity will block the damage but not the 1.5 second stun."
+		}
+	}
+}

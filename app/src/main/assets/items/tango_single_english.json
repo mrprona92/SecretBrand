@@ -1,0 +1,16 @@
+{
+  "dotaId": "tango_single",
+  "id": 241,
+  "img": "tango_single_lg.png",
+  "dname": "Tango (Shared)",
+  "qual": "consumable",
+  "cost": 30,
+  "desc": "Use: Eat Tree or Ward - Consume a tree or ward to restore health over time.  Eating a ward provides more healing.  Eat cast range is increased when targetting wards.",
+  "notes": "",
+  "attrib": "EAT TREE HEALTH RESTORED: 115<br/>EAT WARD HEALTH RESTORED: 230<br/>EAT WARD CAST RANGE: 450<br/>HEAL DURATION: 16",
+  "mc": false,
+  "cd": 60,
+  "lore": "Om nom nom.",
+  "components": null,
+  "created": false
+}

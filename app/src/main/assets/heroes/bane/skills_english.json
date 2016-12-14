@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Enfeeble",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Weakens an enemy unit, reducing its physical damage.  Lasts 20 seconds.",
+        "notes": "Enfeeble cannot be purged.",
+        "dmg": "",
+        "attrib": "REDUCTION: <b><font color=\"#ffffff\">30/60/90/120</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 95/105/115/125<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "Even the mightiest of warriors crumble before the terror of Atropos.",
+        "hurl": "Bane",
+        "name": "bane_enfeeble",
+        "youtube":"cSZQr6qFcnQ",
+        "id": 0
+    },
+    {
+        "dname": "Brain Sap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Feasts on the vital energies of an enemy unit, healing Bane and dealing damage.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">90/160/230/300</font></b>",
+        "attrib": "HEAL AMOUNT: <b><font color=\"#ffffff\">90/160/230/300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/125/150/175<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14",
+        "lore": "Atropos finds no greater pleasure than to harvest the fear he creates.",
+        "hurl": "Bane",
+        "name": "bane_brain_sap",
+        "youtube":"aO14tLgQXVo",
+        "id": 1
+    },
+    {
+        "dname": "Nightmare",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Puts the target enemy or friendly Hero to sleep and deals damage per second.  Sleeping units are awakened when attacked, but the Nightmare passes to the attacking unit.  The nightmared unit instantly wakes up if it takes damage.",
+        "notes": "Nightmare deals damage to allies and himself, so it can be used to deny heroes or himself.<br/>Any source of damage except Nightmare will awaken the unit, but only physical attacks cause the Nightmare to be transferred.<br/>In the first second of Nightmare, the unit is invulnerable.<br/>Bane can wake himself up from Nightmare.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">20/20/20/20</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">500/550/600/650</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 165/165/165/165<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16/15/14/13",
+        "lore": "A stolen prowess from the goddess Nyctasha is to put his prey into forever sleep.",
+        "hurl": "Bane",
+        "name": "bane_nightmare",
+        "youtube":"FExnzA0Pes4",
+        "id": 2
+    },
+    {
+        "dname": "Fiend\u0027s Grip",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "CHANNELED - Grips an enemy unit, disabling it and causing heavy damage over time, while stealing mana every second based on the unit\u0027s maximum mana.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Fiend\u0027s Grip will disable and drain mana from Spell Immune units, but not damage them.",
+        "dmg": "",
+        "attrib": "MANA DRAIN: <b><font color=\"#ffffff\">5%</font></b><br/>DURATION: <b><font color=\"#ffffff\">5/5/5</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">100/155/215</font></b><br/><font color=\"#6fe871\">SCEPTER MANA DRAIN:</font></b> <b><font color=\"#ffffff\">10%</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">7</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">155/215/270</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/300/400<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 100",
+        "lore": "Victims of Atropos are frequently torn apart by vivid conjurations of their own nightmares.",
+        "hurl": "Bane",
+        "name": "bane_fiends_grip",
+        "youtube":"GFDyNOUnLFw",
+        "id": 3
+    },
+    {
+        "dname": "Nightmare End",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Toggle</font></b>",
+        "desc": "Ends all ongoing Nightmares.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Bane",
+        "name": "bane_nightmare_end",
+        "id": 4
+    }
+]

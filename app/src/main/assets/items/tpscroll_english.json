@@ -1,0 +1,16 @@
+{
+  "dotaId": "tpscroll",
+  "id": 46,
+  "img": "tpscroll_lg.png",
+  "dname": "Town Portal Scroll",
+  "qual": "consumable",
+  "cost": 100,
+  "desc": "Use: Teleport - Teleports you to a target friendly building. Double-click to teleport to your team's base fountain.",
+  "notes": "If multiple heroes teleport to the same location in succession, the channeling time will be increased for each successive hero.",
+  "attrib": "",
+  "mc": 75,
+  "cd": 70,
+  "lore": "",
+  "components": null,
+  "created": false
+}

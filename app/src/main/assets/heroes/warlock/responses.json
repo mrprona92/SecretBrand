@@ -1,0 +1,1596 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Warlock! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Warl_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You summon the Summoner? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Warl_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A new chapter in my Black Grimoire. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Warl_spawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I come and I command. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Warl_spawn_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beginning the Battle",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Darkness stalks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Warl_cast_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I go. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Warl_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Warl_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Indubitably. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Warl_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Warl_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Warl_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Indeed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Warl_move_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Indeed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Warl_move_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I command it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Warl_move_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Avowed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Warl_move_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By the power of Gorroth. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Warl_move_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hear my word. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Warl_move_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Summoned forth. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Warl_move_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fear me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Warl_move_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " At my command. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Warl_move_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Warl_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gather, darkness! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Warl_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Chaos crush you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Warl_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By my demon staff! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Warl_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fiends take you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Warl_attack_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " From the shadows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Warl_attack_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your soul to crush. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e6/Warl_attack_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sworn of shadows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Warl_attack_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dark litany. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Warl_attack_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Astride the night! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bd/Warl_attack_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pitched battle! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Warl_attack_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My flame lights your trail. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Warl_cast_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Prepare yourself. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a1/Warl_cast_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Upheaval",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Unhallowed ground. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Warl_ability_upheav_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Encircling dark. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Warl_ability_upheav_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The gyre of evil takes you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Warl_ability_upheav_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Darkness heals you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Warl_ability_upheav_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Chaotic Offering",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8b/Warl_ability_reign_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Arise! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Warl_ability_reign_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Chaos comes at my command! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cb/Warl_ability_reign_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I command you: Go forth! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/92/Warl_ability_reign_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Chaos minion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Warl_ability_reign_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Chaos, come! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Warl_ability_reign_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Let chaos reign! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Warl_ability_reign_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Chaotic Offering with Aghanim\u0027s Scepter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double demon. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Warl_doubdemon_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Warl_doubdemon_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Warl_doubdemon_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Warl_doubdemon_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Can you believe this? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Warl_doubdemon_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c7/Warl_doubdemon_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Have you ever seen this many demons? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Warl_doubdemon_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Shadow Word",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sha sha karakas! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Warl_incant_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Zan karabos! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Warl_incant_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kor karamord! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Warl_incant_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kar kor! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/83/Warl_incant_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Zan! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Warl_incant_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kor! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Warl_incant_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Morakan! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Warl_incant_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mordakar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Warl_incant_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mardakaramon! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Warl_incant_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Karabos karakas! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/73/Warl_incant_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So sah zan! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Warl_incant_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Woa! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Warl_incant_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mor tor cheea! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Warl_incant_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ka mor dor cheea! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Warl_incant_14.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ka ra ka! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Warl_incant_15.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ko! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Warl_incant_16.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sha sha karakas shon! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Warl_incant_17.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Zan korobos kor koramord! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Warl_incant_18.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kar korzon! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Warl_incant_19.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Kor mordakar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Warl_incant_20.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Guah nakor! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Warl_incant_21.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mordaka! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5f/Warl_incant_22.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Karaka zan! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Warl_incant_23.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sha sha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Warl_incant_24.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Karabos kor koramond! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Warl_incant_25.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The coals brighten. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Warl_level_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The smoke thickens. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Warl_level_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Power pour into me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Warl_level_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Fiends, hear my voice: Ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Warl_level_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mwa ha ha ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/14/Warl_level_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Warl_level_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Warl_level_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " New words of power! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Warl_level_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My brazier smoulders! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Warl_level_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " More pages for my Black Grimoire! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ea/Warl_level_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ashes into ashes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/98/Warl_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Smoked. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Warl_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Burnt offerings. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/83/Warl_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " To the Darkest Vale with you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Warl_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I feed you to my fiends. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Warl_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Consort with shadows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Warl_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Another name in my grimoire. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dc/Warl_kill_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Go feed my demon spawn. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Warl_kill_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027re but a blot in the Black Grimoire. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Warl_kill_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027re fiend-food now. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Warl_kill_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027re of no account in my ledger. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Warl_kill_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Warl_kill_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0d/Warl_kill_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Warl_kill_14.mp3"
+      }
+    ]
+  },
+  {
+    "name": "When Warlock\u0027s Golem is Purged with a Diffusal Blade",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Damnable Diffusal Blade! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Warl_defusal_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You defused my demon! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Warl_defusal_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Curse that blade! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/69/Warl_defusal_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Really? You just did that? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Warl_defusal_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Curse that blade! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Warl_defusal_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Under pain of death. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Warl_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pipsqueak. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e6/Warl_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Cry havoc. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Warl_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My dominion. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Warl_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wretch. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Warl_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Warl_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Minion. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Warl_lasthit_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nooooo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Warl_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My fiends will avenge me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Warl_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The word…is silence. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Warl_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All in ashes… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Warl_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Spawn of shadows… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Warl_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Embers…going…dark… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Warl_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My ashes grow cold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Warl_death_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My words of power go unheard. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b7/Warl_death_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027ve torn a page from my grimoire… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7c/Warl_death_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My fiends will bring me back. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/53/Warl_death_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Just for that, I\u0027m unfiending you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Warl_death_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shadows encircle you… ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Warl_death_12.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Death has no command over me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Warl_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Prepare yourselves. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d1/Warl_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I step from the shadows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b6/Warl_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The shadow passes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Warl_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A new page in my Book of Shadows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Warl_respawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A new fire from the embers. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fa/Warl_respawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Dark interval. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Warl_respawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Twill be night for all soon enough. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Warl_respawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The fiends will welcome me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/53/Warl_respawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My grimoire opens again to a new page. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Warl_respawn_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bloodied but unbowed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Warl_respawn_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rare",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh creatures of chaos who come as I command, hear my voice cry down from dark eternities! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Warl_rare_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Best Fiends Forever! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7c/Warl_rare_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The last word of power, ever receding. The final page, ever unwritten. I have devoured all the grammaries this world has to offer. Now I write my own grimoire. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Warl_rare_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I have waited long and long. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Warl_purch_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Worth the price. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Warl_purch_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Now my enemies pay. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Warl_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Warl_scepter_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Noble scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Warl_scepter_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "refresher"
+        ],
+        "title": " Ah, refresher. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Warl_refresh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier"
+        ],
+        "title": " Divine Rapier! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Warl_rapier_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier"
+        ],
+        "title": " Divine Rapier? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c6/Warl_rapier_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier"
+        ],
+        "title": " Sssss…Divine Rapier? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Warl_rapier_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "rapier"
+        ],
+        "title": " Rapier? Really? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Warl_rapier_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Saved for later. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f8/Warl_bottle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Behind the spirit glass. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Warl_bottle_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Into the bottle. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4f/Warl_bottle_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Warl_deny_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Warl_deny_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You shall not. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/84/Warl_deny_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/98/Warl_deny_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Warl_deny_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Warl_deny_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You\u0027ll receive no gold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Warl_deny_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm mm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Warl_deny_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm hm hm hm hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c7/Warl_deny_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Warl_deny_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/15/Warl_deny_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm hm hm hm! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Warl_deny_12.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Using Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Warl_laugh_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nooooo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Warl_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defeated! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Warl_lose_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Many will wear the widow\u0027s weaves. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Warl_lose_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! Ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Warl_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Victory! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Warl_win_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A victory duly recorded! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Warl_win_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The victors write the grimoires of history! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Warl_win_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Warl_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Like my grimoire, I will live forever. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Warl_immort_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Warl_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Swift as the runes are written. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Warl_haste_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b0/Warl_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double meaning. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/85/Warl_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Warl_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Make do and mend. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Warl_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/51/Warl_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Written in triplicate. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Warl_illus_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Warl_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Written with invisible ink. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Warl_invis_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Warl_lasthit_06.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Warl_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Warl_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Warl_notyet_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Warl_notyet_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Warl_notyet_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Warl_notyet_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Warl_notyet_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5c/Warl_notyet_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Warl_notyet_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Warl_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Warl_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Warl_nomana_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Warl_nomana_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Warl_nomana_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2d/Warl_nomana_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Warl_nomana_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Warl_nomana_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0d/Warl_nomana_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Warl_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3b/Warl_thanks_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Drawing First Blood",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " First Blood. Ha ha ha ha ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1c/Warl_firstblood_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming Under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m under attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Warl_underattack_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My friends, I\u0027m calling it: It’s in the bag! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Warl_inthebag_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pain",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Warl_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Warl_pain_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Warl_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Warl_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Warl_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Warl_pain_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Warl_pain_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Warl_pain_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Warl_anger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hoo. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Warl_anger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Warl_anger_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huuh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Warl_anger_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hehewww. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Warl_anger_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Warl_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Warl_happy_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Warl_happy_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sss, ah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Warl_happy_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Mm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/14/Warl_happy_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/db/Warl_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho ho ho ho ho ho ho. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Warl_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Warl_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho ha ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Warl_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ho ho ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0d/Warl_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ho ha ha ha ha ha ha ha ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Warl_laugh_06.mp3"
+      }
+    ]
+  }
+]

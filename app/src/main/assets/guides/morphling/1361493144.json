@@ -1,0 +1,129 @@
+{
+	"Hero":"morphling",
+	"Title":"SHOTGUN",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"Get Boots first":
+			[
+				"boots",
+				"tpscroll"
+			],
+			"Then farm these on lane":
+			[
+				"ethereal_blade",
+				"power_treads"
+			],
+			"Core":
+			[
+				"manta",
+				"butterfly",
+				"skadi"
+			],
+			"Situational":
+			[
+				"satanic",
+				"sphere",
+				"black_king_bar",
+				"bottle",
+				"travel_boots",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Get a bottle right before boots if you're going middle lane!",
+				"tpscroll":"By always carrying a TP scroll you can easily Waveform into trees to escape a gank, or you can use the TP to farm more effectively.",
+				"travel_boots":"If you're in late game and have excessive gold, TP boots is a great way to push and get around the map.",
+				"power_treads":"Keeping your boots on Agility is smart because if you are in dire need of health, you can quickly switch the boots to Strength with just one click on them.",
+				"black_king_bar":"Black King Bar (BKB) is a great if not mandatory buy if you are up against a team with AOE stuns/disables.
+
+You won't deal any damage at all if you are dead or stunned.",
+				"sphere":"A Linken's Sphere is a great buy if you face a lot of single target disables (Shadow Shaman, Lion etc.).",
+				"monkey_king_bar":"Great if the enemy heroes buy Butterfly or have a Phantom Assasin.",
+				"butterfly":"Butterfly is a truly awesome item for Morphling.
+
+It gives you a ton of damage while also giving you Evasion against the other teams carries.",
+				"manta":"Manta gives you great health, damage and mana.
+
+Remember that it can be used to purge certain debuffs (Urn, slows etc.)!",
+				"satanic":"When you have a lot of health and damage in late game and still need that extra ounce of survivability, Satanic is the way to go.
+
+Use it when you are low on health, but not too late so that you die before you have a chance to get a shot off.
+
+Lifesteal works with Eye of Skadi!",
+				"skadi":"Provides Morphling with great survivability and a powerful slow.
+
+Gives you a nice all-stat bonus which results in a modest damage bonus.",
+				"ethereal_blade":"The Ethereal Blade is crucial to the SHOTGUN build for Morphling.
+
+It is used in quick combination with Adaptive Strike (W) for massive magic damage.
+
+Use the Ethereal Blade first, then immediately Adaptive Strike, and a Waveform (Q) to finish your foe off."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_morph_str",
+			"2":"morphling_waveform",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_adaptive_strike",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_replicate",
+			"10":"morphling_adaptive_strike",
+			"11":"morphling_adaptive_strike",
+			"12":"morphling_adaptive_strike",
+			"13":"morphling_morph_str",
+			"14":"morphling_replicate",
+			"15":"attribute_bonus",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"morphling_adaptive_strike":"SHOTGUN: Ethereal Blade + Adaptive Strike + Waveform.
+
+*more info on SHOTGUN combo on Ethereal Blade
+
+If you have amazing farm and expect to get your Ethereal Blade before level 13, prioritize maxing out Adaptive Strike before Morph.",
+				"morphling_morph_agi":"The higher Agility you have, the more damage the SHOTGUN combo will do.",
+				"morphling_morph_str":"Morph so that you have about 1000-1200 health at all times.
+
+Morph can be used while you are stunned! So make sure to morph Strength like crazy if you are in a delicate situation.",
+				"morphling_replicate":"When farming, use your ultimate on any hero and move the illusion that's created to ancients, base or make it follow an ally. This way you can farm effictively, or use it to tp to an ally in danger.
+
+Having set up your ultimate before you initiate a SHOTGUN is a great way to escape!",
+				"morphling_morph_replicate":"When farming, use your ultimate on any hero and move the illusion that's created to ancients, base or make it follow an ally. This way you can farm effictively, or use it to tp to an ally in danger.
+
+Having set up your ultimate before you initiate a SHOTGUN is a great way to escape!"
+		}
+	}
+}

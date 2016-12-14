@@ -1,0 +1,117 @@
+{
+	"Hero":"abaddon",
+	"Title":"Offensive support Abaddon",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_wand",
+				"ward_observer",
+				"ring_of_regen",
+				"tpscroll",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ancient_janggo",
+				"heavens_halberd"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"heart",
+				"pipe",
+				"vladmir",
+				"phase_boots",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Iron branches Are amazing, Just 50g for 3 stat boosts, You can use this to build into headress.",
+				"ring_of_regen":"Buy this at the side shop to build into a headress for mek.",
+				"boots":"Everyone needs brown boots! Buy them from the side shop.",
+				"magic_stick":"Should be purchesed from the side shop!",
+				"magic_wand":"Wand is very useless Agaisnt casters but even if they dont have any Major casters Its still an amazing item that saves your life :D",
+				"flask":"Salve is awesome to quickly regain 400 HP after you have been fighting the enemy",
+				"ward_observer":"Buy the courier or wards as you are support, only buy both if your the only support on your team :)
+
+Make sure wards are always on cooldown and being placed on the map, ward vision can decide games.",
+				"tango":"Tangos are great for healing up a short amount of HP after beung harrased",
+				"courier":"Buy the courier or wards as you are support, only buy both if your the only support on your team :)",
+				"tpscroll":"As support you should always carry a tp scroll to help your allies with ganks attacking and defending",
+				"phase_boots":"For if you feel that your too slow and need that extra amount of damage",
+				"mekansm":"The best teamfight item in the game, a 250 AOE heal is amazing and can change the tide of battle easily.",
+				"vladmir":"Vlads is good for when you need the extra armour and need to push, the lifesteal will keep your allies alive for longer in fights and will also help with jungling and taking roshan.",
+				"flying_courier":"Get this before 10 mins at least if you still dont have flying by 10 mins you will have a disadvantage",
+				"pipe":"Pipe is perfext, loads of regen and magic resistance and great vs magic damage, get this if your ally is making a mek",
+				"urn_of_shadows":"Urn is great becauseit gives you a nice little stat boost whilst giving you a chance to heal yourself or allies and also can be used on enemies to deal short damage to them, the passive regen it adds is also very good for your mana issues. - Get this if you are ganking alot.",
+				"headdress":"Upgrade your ring of regen and branch into this , Builds into mek/pipe",
+				"assault":"This gives you alot of attack speed and armour which is great with your passive, as well as giving an aura of both to your team and a degen to your opponents.",
+				"heart":"If you have alot of spare money (you shouldnt) then get a heart its a tanking item which adds high regen alot of health and alot of extra damage",
+				"arcane_boots":"These will keep your mana pool full :D",
+				"ancient_janggo":"I love drums, Great stats, Amazing passive speed and an active for even more speed, Use this in team fights  or when running away.",
+				"heavens_halberd":"I personally think that this is a very good item on abaddon, gives you very good damage and a nice amount of health while passivly llowing you to slow your target for 4 seconds and have a chance to evade attacks overall a great item for abaddon"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_death_coil",
+			"3":"abaddon_death_coil",
+			"4":"abaddon_aphotic_shield",
+			"5":"abaddon_death_coil",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_death_coil",
+			"8":"abaddon_aphotic_shield",
+			"9":"abaddon_aphotic_shield",
+			"10":"abaddon_frostmourne",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_frostmourne",
+			"13":"abaddon_frostmourne",
+			"14":"abaddon_frostmourne",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"This is a decent nuke and healing spell it has a nice low cooldown which can help keep allies alive in teamfights and can also snag enemy heros that try to run away from you. Good for harrasing at the beggining aswell.",
+				"abaddon_aphotic_shield":"Aphotic shield is a great way for youself or an ally to tank some damage and when the shield does get destoyed it will burst out all the damage in a short radius which is useful for dealing damage to farms, creeps or even the nearby enemy hero",
+				"abaddon_frostmourne":"Curse of Avernus is pretty good passive for later on in the game when your team are focusing down units, it will slow them down so they cant run away as easy and it will also buff up your allies when they attack the slowed target this is useful for chasing and in teamfights.",
+				"abaddon_borrowed_time":"Borrowed Time is an amazing skill, that automactically activates when you go under 400 HP, it removes debuffs and makes it so that when you take damage the damage taken heals you so dont forget to Mist coil to get that extra 125 heal from the damge you take upon yourself. This ability will save you.",
+				"attribute_bonus":"Yay! Stats! Upgrade your stats when all of your abilitys are maxed!!
+"
+		}
+	}
+}

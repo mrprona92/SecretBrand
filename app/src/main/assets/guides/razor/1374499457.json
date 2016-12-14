@@ -1,0 +1,70 @@
+{
+	"Hero":"razor",
+	"Title":"GreyShark.Razor",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"phase_boots",
+				"yasha",
+				"black_king_bar"
+			],
+			"Mid Game":
+			[
+				"manta",
+				"greater_crit"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_static_link",
+			"2":"razor_unstable_current",
+			"3":"razor_static_link",
+			"4":"razor_plasma_field",
+			"5":"razor_static_link",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_static_link",
+			"8":"razor_plasma_field",
+			"9":"razor_plasma_field",
+			"10":"razor_plasma_field",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_unstable_current",
+			"13":"razor_unstable_current",
+			"14":"razor_unstable_current",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

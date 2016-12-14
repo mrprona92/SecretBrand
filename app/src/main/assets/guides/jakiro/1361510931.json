@@ -1,0 +1,104 @@
+{
+	"Hero":"jakiro",
+	"Title":"[DMX] Jakiro (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"pipe",
+				"ultimate_scepter",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Sans titre":
+			[
+				"ring_of_basilius",
+				"urn_of_shadows",
+				"power_treads",
+				"cyclone",
+				"force_staff",
+				"blink",
+				"veil_of_discord",
+				"ghost",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_dual_breath",
+			"2":"jakiro_ice_path",
+			"3":"jakiro_dual_breath",
+			"4":"jakiro_ice_path",
+			"5":"jakiro_dual_breath",
+			"6":"jakiro_macropyre",
+			"7":"jakiro_dual_breath",
+			"8":"jakiro_ice_path",
+			"9":"jakiro_ice_path",
+			"10":"jakiro_liquid_fire",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_dual_breath":"Très bon sort pour harass. Il vous permet aussi de ralentir vos ennemis afin de placer plus facilement vos autres sorts.",
+				"jakiro_ice_path":"Un stun de zone très efficace, mais attention il possède un petit temps d'incantation ce qui le rend assez difficile à placer.",
+				"jakiro_liquid_fire":"Un bon passif pour harass et parfait pour pusher les tours car il réduira la vitesse d'attaque de ces dernières.",
+				"jakiro_macropyre":"Un très bon ultimate de zone qui inflige d'énormes dégâts, il est assez long à placer donc essayez de le combiner avec d'autres contrôles."
+		}
+	}
+}

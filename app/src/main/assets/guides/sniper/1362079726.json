@@ -1,0 +1,98 @@
+{
+	"Hero":"sniper",
+	"Title":"[Sniper-Carry-Good Damage]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"circlet",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"boots",
+				"magic_wand",
+				"wraith_band"
+			],
+			"Objetos Principales(1)":
+			[
+				"power_treads",
+				"invis_sword",
+				"lesser_crit",
+				"yasha"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"monkey_king_bar",
+				"butterfly",
+				"greater_crit",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Good initial item to get a bit more damage and a better way to make Last Hit. Later be Wraith Band==Buen item inicial para obtener un poco mas de daño y una mejor manera para hacer Last Hit. Mas tarde sera Wraith Band.",
+				"branches":"A little more extra stats. Later be Wand of Magic==Una pequeña cantidad de stats extra. Mas tarde sera Wand Of Magic.
+",
+				"circlet":"Good initial item to get a bit more damage and a better way to make Last Hit. Later be Wraith Band==Buen item inicial para obtener un poco mas de daño y una mejor manera para hacer Last Hit. Mas tarde sera Wraith Band.",
+				"boots":"Super basic Item not much to say about it==Item super basico no hay mucho que decir al respecto.
+",
+				"magic_wand":"A very useful item. It can save your life==Un item muy util, puede salvarte la vida.",
+				"tango":"To regenerate HP and keep attacking without risk of losing regeneration by an enemy attack
+(Optional= Healing Salve)==Para regenerar HP y quedarse atacando sin riesgos de perder la regeneracion por un ataque enemigo.
+(Opcional=Healing Salve)",
+				"power_treads":"Item very useful. Sniper with good attack speed is excellent==Item muy util. Francotirador con buena velocidad de ataque es excelente.",
+				"wraith_band":"Very good item. You get Damage / Life / Mana / Attack Speed==Muy buen item, obtienes Daño / Vida / Mana / Velocidad de ataque.",
+				"monkey_king_bar":"Damage damage AND NO MISS ATTACK!!!==Daño daño y no errar ataques",
+				"butterfly":"Just a harmless butterfly :IfYouKnowWhatIMean:==Solo una inofensiva mariposa :IfYouKnowWhatIMean:",
+				"greater_crit":"DAMAGE DAMAGE DAMAGE!!!!=DAÑO DAÑO DAÑO",
+				"lesser_crit":"Good item to improve attack damage==Buen item para mejorar el daño al atacar.",
+				"invis_sword":"Good survival. But watch this item against Bounty Hunter Track (Example) is more like a waste of money. Buy it depending on enemy heroes==Buena supervivencia. pero cuidado este item contra Bounty Hunter Track (ejemplo) es mas como una perdida de dinero. Comprarlo depende de los heroes enemigos.",
+				"mjollnir":"A great way to damage several heroes==Una gran forma de dañar a varios heroes.",
+				"yasha":"More movement speed / damage / attack speed. Later Sange and Yasha==Mas velocidad de movimiento / daño / Velocidad de ataque. Despues Sange and Yasha."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_headshot",
+			"2":"sniper_take_aim",
+			"3":"sniper_headshot",
+			"4":"sniper_take_aim",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_headshot",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"sniper_shrapnel",
+			"24":"sniper_shrapnel",
+			"25":"sniper_shrapnel"
+		}
+	}
+}

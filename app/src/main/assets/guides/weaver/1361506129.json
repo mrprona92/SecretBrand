@@ -1,0 +1,121 @@
+{
+	"Hero":"weaver",
+	"Title":"Clever Catchy Title #swag early weaver",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"magic_stick",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"ring_of_aquila",
+				"power_treads",
+				"lesser_crit",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"radiance",
+				"monkey_king_bar",
+				"skadi",
+				"pipe",
+				"butterfly",
+				"sphere",
+				"gem",
+				"manta"
+			],
+			"Final Build Example":
+			[
+				"travel_boots",
+				"greater_crit",
+				"skadi",
+				"monkey_king_bar",
+				"butterfly",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Builds into ring of basilus and helps prevent early harass.",
+				"branches":"Builds into magic wand.",
+				"boots":"Provides much needed move speed. Needed on every hero. ",
+				"gem":"If you want to deward their sentries and you are having a really good game. ",
+				"magic_stick":"Builds into magic wand.",
+				"magic_wand":"Very important item on almost all heroes to counter ability harass. Good use in conunction with ult to avoid ganks. ",
+				"flask":"Use when you have more than 400 health missing to avoid wasting it. If you have less than 400 health missing and need to stay in the lane use your tangos.",
+				"tango":"Good for when you are being harassed in the lane and need a little bit of regen to stay in it.",
+				"tpscroll":"Always carry one of these to escape. If the enemy doesnt have a stun you can use this to easily escape a gank. E.g instead of running away from blood seeker when ruptured just use the scroll to teleport back to base as blood seeker has no stuns to interrupt this.",
+				"power_treads":"Good movement speed and stats. Remember to keep this on agility when you need the damage and on strength when you need the bonus health.",
+				"ring_of_basilius":"Provides good base mana regen for shukuchi and also some neat other stats.",
+				"pipe":"A very good survivability item. I believe that this is better than a vanguard as it actually helps your team out and provides better reduction of burst damage which could disrupt your ultimate timing. ",
+				"sphere":"Very situational but a good pick up versus a doom or something with a nasty targeted silence or stun.",
+				"monkey_king_bar":"Good for heroes with evasion and/or butterfly. ",
+				"radiance":"Good damage and AoE burn goes nice with shukuchi.",
+				"butterfly":"Good damage and evasion for attack based heroes that dont have a monkey king bar. ",
+				"greater_crit":"Upgrades crystalis. MOAR CRIT IS GOOD!!!",
+				"lesser_crit":"A good early damage item. I prefer this over radiance as unless you are snowballing really good or farming hard and not really helping your team out it is hard to farm the 3.8k for the relic for newer players. ",
+				"skadi":"A decent attack modifer effect. The slow greatly helps with chasing down enemies.",
+				"ring_of_aquila":"Upgraded basi ring for more stats. This can be skipped if you are going well. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"weaver_geminate_attack",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_geminate_attack",
+			"9":"weaver_geminate_attack",
+			"10":"weaver_the_swarm",
+			"11":"weaver_time_lapse",
+			"12":"weaver_the_swarm",
+			"13":"weaver_the_swarm",
+			"14":"weaver_the_swarm",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"A decent team fight spell however it is fairly weak in the early game as the enemies can just attack it off as they run back. Use it in teamfights and try to get it on as many enemies as possible as they will be too distracted by the team fight to attack the bugs on them. ",
+				"weaver_shukuchi":"Makes you move very fast and go invisible. Use this to harass the enemy by running through them and then back behind your creeps so that you aren't out of position. ",
+				"weaver_geminate_attack":"Doubles your attack. Try and use this in combination with your invisibility for even greater harass. Auto attack out of invisibility when your invisibility is about to end after you have run through them. ",
+				"weaver_time_lapse":"Always pay attention to how much health you had 5 seconds earlier so that you can go back in time if your health drops too low or if you need to change positions.",
+				"attribute_bonus":"Only get stats when you are forced too. "
+		}
+	}
+}

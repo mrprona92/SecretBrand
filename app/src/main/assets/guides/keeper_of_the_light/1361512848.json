@@ -1,0 +1,100 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"[DMX] Keeper Of The Light (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"magic_stick",
+				"ward_observer",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"mekansm",
+				"ancient_janggo",
+				"ward_observer"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"necronomicon",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"force_staff",
+				"cyclone",
+				"pipe",
+				"veil_of_discord",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_illuminate",
+			"4":"keeper_of_the_light_chakra_magic",
+			"5":"keeper_of_the_light_chakra_magic",
+			"6":"keeper_of_the_light_spirit_form",
+			"7":"keeper_of_the_light_illuminate",
+			"8":"keeper_of_the_light_chakra_magic",
+			"9":"keeper_of_the_light_illuminate",
+			"10":"keeper_of_the_light_mana_leak",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"Votre principal nuke. Ce sort fait d'énormes dégâts si vous le charger longtemps, il vous faudra donc vous cacher idéalement pour toucher vos adversaires sans qu'ils n'esquivent le sort.
+En fin de partie servez vous de ce sort pour push et dépush.",
+				"keeper_of_the_light_mana_leak":"Un très bon sort qui permet de vider le mana d'une cible s'il bouge. A utiliser sur les mages adverses.",
+				"keeper_of_the_light_chakra_magic":"Le seul sort qui permet de rendre du mana dans Dota, utilisez le dès qu'il est disponible sur vous ou sur votre partenaire de lane.",
+				"keeper_of_the_light_recall":"Attention l'allié ne doit pas prendre de dégâts sinon ce sort sera annulé.",
+				"keeper_of_the_light_blinding_light":"Très pratique pour temporiser lors des teamfights.",
+				"keeper_of_the_light_spirit_form":"Un ultimate qui vous permet d'iader votre team en teamfight et de ramener un allié à l'autre bout de la carte !",
+				"keeper_of_the_light_illuminate_end":"Vous permet de relacher illuminate avant la fin du chargement."
+		}
+	}
+}

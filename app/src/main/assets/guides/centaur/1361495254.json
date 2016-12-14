@@ -1,0 +1,75 @@
+{
+	"Hero":"centaur",
+	"Title":"SUNSfan's Guide to being a BEAST of BURDEN",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"hood_of_defiance"
+			],
+			"coreItems":
+			[
+				"blink",
+				"radiance",
+				"heart"
+			],
+			"luxury":
+			[
+				"blade_mail",
+				"ethereal_blade",
+				"rapier"
+			],
+			"For Monkeys":
+			[
+				"monkey_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_double_edge",
+			"4":"centaur_return",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_hoof_stomp",
+			"10":"centaur_hoof_stomp",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

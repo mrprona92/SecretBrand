@@ -1,0 +1,93 @@
+{
+	"Hero":"lion",
+	"Title":"GreyShark.Lion",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"courier",
+				"branches"
+			],
+			"Early Game":
+			[
+				"tranquil_boots",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"veil_of_discord"
+			],
+			"Late Game":
+			[
+				"refresher",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"ethereal_blade",
+				"dagon",
+				"orchid",
+				"force_staff"
+			],
+			"https://www.youtube.com/user/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"На фаст транквилы, сразу покупаем через боковую лавку.",
+				"mekansm":"Фиксим проблему с броней, получаем огромный плюс к выживаемости нам и нашей тиме, и не забываем что лион это САППОРТ.",
+				"orchid":"Много статов, сало, и небольшое увеличение урона по цели.",
+				"force_staff":"Проще ворваться в замес, убежать от ганга, засейвить союзника или толкнуть противника, и так далее. Почему бы и нет ?",
+				"dagon":"Не очень приветствую этот арт на лионе, но если есть деньги то можно собрать, но только после аганима и меки !",
+				"ultimate_scepter":"КД ульты 20 сек, урон по области и еще больше ДМГ + дает очень много атрибутов. Нужная штука.",
+				"refresher":"Одна ульта хорошо, а две лучше ! Также очень много статов.",
+				"shivas_guard":"Увеличивает наш прокаст, очень много брони и интеллекта, с рефрешером вообще шикарно !",
+				"ethereal_blade":"Если вам нужно вливать максимальный прокаст в какую то определенную цель, то можно собрать, реально имба !",
+				"veil_of_discord":"Очень много статов для саппорта, и самое главное дебафф по области который уменьшает маг. резист, ульта будет бить еще больнее.",
+				"tranquil_boots":"Арканы нам не нужны, так как у нас есть тритий скилл, ПТ нам тоже не подходят, нам не нужен АС, а вот с транквилами мы фиксим проблему с броней, и имеем очень большой пассивный реген ХП, тем самым мы получаем очень сильный реген МП и ХП, не нужно бегать на базу."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_voodoo",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_mana_drain",
+			"9":"lion_mana_drain",
+			"10":"lion_mana_drain",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_voodoo",
+			"14":"lion_voodoo",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

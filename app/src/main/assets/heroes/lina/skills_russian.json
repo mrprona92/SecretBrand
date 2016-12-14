@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Dragon Slave",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Lina призывает дыхание дракона, сжигающее всех врагов на своем пути.",
+        "notes": "Задевает врагов на расстоянии до 1225 единиц.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">110/180/250/320</font></b>",
+        "attrib": "",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/115/130/145<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8.50",
+        "lore": "Борясь со скукой в выжженных пустошах Мизрула, Lina научилась управлять огненным дыханием дракона пустынь.",
+        "hurl": "Lina",
+        "name": "lina_dragon_slave",
+        "youtube":"2BShtaRLhhQ",
+        "id": 0
+    },
+    {
+        "dname": "Light Strike Array",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Призывает столб пламени, который сокрушает и оглушает врагов.",
+        "notes": "Уничтожает деревья в зоне действия способности.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">120/160/200/240</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">225</font></b><br/>ЗАДЕРЖКА: <b><font color=\"#ffffff\">0.5</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.6/1.9/2.2/2.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/110/120/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 7",
+        "lore": "Lina управляет энергией Солнца, заставляя воздух воспламеняться по ее воле.",
+        "hurl": "Lina",
+        "name": "lina_light_strike_array",
+        "youtube":"RBxhLSGnDig",
+        "id": 1
+    },
+    {
+        "dname": "Fiery Soul",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Дает бонус к скорости атаки и передвижения всякий раз, когда Lina использует заклинание. Бонусы накапливаются. Действует 10 секунд.",
+        "notes": "Применение любой другой способности обновляет время действия этой.<br/>Использование предметов не активирует эту способность.",
+        "dmg": "",
+        "attrib": "ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">40/55/70/85</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">5%/6%/7%/8%</font></b><br/>МАКС. ЭФФЕКТОВ: <b><font color=\"#ffffff\">3</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "",
+        "lore": "В танцующих языках огня Lina раскрывает присущий ей игривый характер, высвобождая свое внутреннее пламя.",
+        "hurl": "Lina",
+        "name": "lina_fiery_soul",
+        "youtube":"6R6-qq2PkIo",
+        "id": 2
+    },
+    {
+        "dname": "Laguna Blade",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выпускает разряд молнии в одного врага, нанося сокрушительный урон.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Между прочтением заклинания и нанесением урона есть задержка в 0,25 секунды, что позволяет избежать урона с помощью некоторых способностей.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">450/675/950</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 280/420/680<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/60/50",
+        "lore": "Воздух вокруг Lina становится таким горячим, что он обжигает молнией любого врага, подошедшего слишком близко.",
+        "hurl": "Lina",
+        "name": "lina_laguna_blade",
+        "youtube":"HbhoCPFse_c",
+        "id": 3
+    }
+]

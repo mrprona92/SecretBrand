@@ -1,0 +1,86 @@
+{
+	"Hero":"elder_titan",
+	"Title":"Mid fight[RU]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"circlet",
+				"gauntlets"
+			],
+			"До 10 минут":
+			[
+				"bracer",
+				"magic_wand",
+				"power_treads",
+				"blades_of_attack"
+			],
+			"До 30 минут":
+			[
+				"hyperstone",
+				"lesser_crit",
+				"armlet",
+				"chainmail",
+				"basher"
+			],
+			"До 45+ минут":
+			[
+				"assault",
+				"greater_crit",
+				"heart"
+			],
+			"luxury":
+			[
+				"veil_of_discord"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_natural_order",
+			"2":"elder_titan_ancestral_spirit",
+			"3":"elder_titan_echo_stomp",
+			"4":"elder_titan_natural_order",
+			"5":"elder_titan_natural_order",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_natural_order",
+			"8":"elder_titan_ancestral_spirit",
+			"9":"elder_titan_ancestral_spirit",
+			"10":"elder_titan_ancestral_spirit",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_echo_stomp",
+			"13":"elder_titan_echo_stomp",
+			"14":"elder_titan_echo_stomp",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"Данный скил даст время убежать союзникам,если на вас напали вражеские герои",
+				"elder_titan_ancestral_spirit":"Данный скил может помочь в ганге быстрых персов,если они убегают с лоу хп",
+				"elder_titan_natural_order":"Данный скил очень полезен для пвп 1 на 1 и поможет добить героев после использования ульты",
+				"elder_titan_earth_splitter":"Масс ульт+3-ий скил+2-ой скил, будет -5"
+		}
+	}
+}

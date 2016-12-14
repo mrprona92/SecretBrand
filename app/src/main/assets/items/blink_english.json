@@ -1,0 +1,16 @@
+{
+  "dotaId": "blink",
+  "id": 1,
+  "img": "blink_lg.png",
+  "dname": "Blink Dagger",
+  "qual": "component",
+  "cost": 2250,
+  "desc": "Active: Blink - Teleport to a target point up to 1200 units away.  If damage is taken, Blink Dagger cannot be used for 3.0 seconds.",
+  "notes": "Self-casting will cause you to teleport in the direction of your team\u0027s fountain.<br/>If you used Blink to teleport to a distance over the maximum range, you\u0027ll be teleported 4/5 of the maximum range instead.",
+  "attrib": "",
+  "mc": false,
+  "cd": 12,
+  "lore": "The fabled dagger used by the fastest assassin ever to walk the lands.",
+  "components": null,
+  "created": false
+}

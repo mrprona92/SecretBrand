@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Time Walk",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Rushes to a target location while slowing the movement of all enemies along its path for 3 seconds.",
+        "notes": "Faceless Void is invulnerable while using Time Walk.",
+        "dmg": "",
+        "attrib": "MOVEMENT SLOW: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>RANGE: <b><font color=\"#ffffff\">700/900/1100/1300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 19/17/15/13",
+        "lore": "Darkterror tears a hole in time, passing through Claszureme, and appearing back in an instant.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_time_walk",
+        "youtube":"S0rGy8SU5wM",
+        "id": 0
+    },
+    {
+        "dname": "Backtrack",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Faceless Void dodges damage by jumping backward in time, eluding both physical and magical attacks.",
+        "notes": "Abilities that grant True Strike don\u0027t work against Backtrack.",
+        "dmg": "",
+        "attrib": "DODGE CHANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b>",
+        "cmb": "",
+        "lore": "Darkterror sees what has yet to be seen.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_backtrack",
+        "youtube":"CUVqXuRDxOc",
+        "id": 1
+    },
+    {
+        "dname": "Time Lock",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Adds the chance for an attack to lock an enemy unit in time, stunning it and dealing bonus damage.",
+        "notes": "Stun works on Spell Immune units.<br/>Does not stack with Skull Basher.<br/>Deals twice as much damage if the unit is in Chronosphere.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">1</font></b><br/>CHANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">40/50/60/70</font></b>",
+        "cmb": "",
+        "lore": "The strike of the Faceless Void lands with dimension shifting force.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_time_lock",
+        "youtube":"xYXHpdTOWLA",
+        "id": 2
+    },
+    {
+        "dname": "Chronosphere",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Creates a blister in spacetime, trapping all units caught in its sphere of influence and causes you to move very quickly inside it.  Only Faceless Void and any units he controls are unaffected.  Invisible units in the sphere will be revealed.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Pauses all units and buildings, friendly or enemy, except those owned by Faceless Void.<br/>Faceless Void is never affected by Chronospheres with any owner.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">425</font></b><br/>DURATION: <b><font color=\"#ffffff\">4/4.5/5</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">4/5/6</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">60/60/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/225/300<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 130/115/100",
+        "lore": "When a rift opens to Claszureme, all poor souls caught within will likely never return.",
+        "hurl": "Faceless_Void",
+        "name": "faceless_void_chronosphere",
+        "youtube":"vGJ7FLM7uJg",
+        "id": 3
+    }
+]

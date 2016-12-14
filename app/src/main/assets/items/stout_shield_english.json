@@ -1,0 +1,16 @@
+{
+  "dotaId": "stout_shield",
+  "id": 182,
+  "img": "stout_shield_lg.png",
+  "dname": "Stout Shield",
+  "qual": "component",
+  "cost": 200,
+  "desc": "Passive: Damage Block - Gives a chance to block damage based on whether the equipped hero is melee or ranged.",
+  "notes": "Multiple sources of damage block don\u0027t stack.",
+  "attrib": "MELEE DAMAGE BLOCK: 16<br/>RANGED DAMAGE BLOCK: 8<br/>BLOCK CHANCE: 50%",
+  "mc": false,
+  "cd": false,
+  "lore": "One man\u0027s wine barrel bottom is another man\u0027s shield.",
+  "components": null,
+  "created": false
+}

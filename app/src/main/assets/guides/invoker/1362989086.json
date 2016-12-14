@@ -1,0 +1,89 @@
+{
+	"Hero":"invoker",
+	"Title":"Invokerism - The Controller",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"blades_of_attack",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"sobi_mask",
+				"void_stone"
+			],
+			"coreItems":
+			[
+				"cyclone",
+				"rod_of_atos",
+				"force_staff"
+			],
+			"Late game core items":
+			[
+				"sheepstick",
+				"orchid"
+			],
+			"Situational":
+			[
+				"ultimate_scepter",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Positioning at all costs? This is for you. Although with some extra effort you usually don't need it.",
+				"cyclone":"Best used combined with Ice Wall and Emp",
+				"force_staff":"Best used combined with Ice Wall.",
+				"ultimate_scepter":"If you're rich enough and the game goes late, purchase it.",
+				"rod_of_atos":"Best used combined with EMP"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_quas",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_wex",
+			"5":"invoker_wex",
+			"6":"invoker_wex",
+			"7":"invoker_invoke",
+			"8":"invoker_quas",
+			"9":"invoker_wex",
+			"10":"invoker_exort",
+			"11":"invoker_quas",
+			"12":"invoker_invoke",
+			"13":"invoker_wex",
+			"14":"invoker_wex",
+			"15":"invoker_wex",
+			"16":"invoker_quas",
+			"17":"invoker_invoke",
+			"18":"invoker_quas",
+			"19":"invoker_quas",
+			"20":"invoker_exort",
+			"21":"invoker_exort",
+			"22":"invoker_exort",
+			"23":"invoker_exort",
+			"24":"invoker_exort",
+			"25":"invoker_exort"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_cold_snap":"Your best friend. Low cooldown high damage, lots of interrupting.",
+				"invoker_ghost_walk":"While used for escaping, in this build ghost walk can be used for slowing down enemies when your allies are closing in.",
+				"invoker_tornado":"Your best long range disable, effective used before ice wall or EMP",
+				"invoker_ice_wall":"Teamfight changing spell, enemies without BKB will stay in their place forever. Ensures escaping as well when in narrow areas."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Death Pulse",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Necrophos releases a wave of death around him, dealing damage to enemy units and healing allied units.",
+        "notes": "Death Pulse can\u0027t be disjointed.<br/>Can heal Spell Immune units.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">75/125/200/275</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">475</font></b><br/>HEAL: <b><font color=\"#ffffff\">70/90/110/130</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/145/165/185<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8/7/6/5",
+        "lore": "Combining his monk heritage with his newfound affinity for plague has a menacing result.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_death_pulse",
+        "youtube":"T0DSPAolJJI",
+        "id": 0
+    },
+    {
+        "dname": "Heartstopper Aura",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Necrophos stills the hearts of his opponents, causing nearby enemy units to lose a percentage of their max health over time.",
+        "notes": "Damage won\u0027t disable items like Blink Dagger.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">1200</font></b><br/>HEALTH DECAY: <b><font color=\"#ffffff\">0.6%/0.9%/1.2%/1.5%</font></b>",
+        "cmb": "",
+        "lore": "Those who come within a short distance of Necrophos can feel pestilence and plague in the air.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_heartstopper_aura",
+        "youtube":"CBznxq8uUJM",
+        "id": 1
+    },
+    {
+        "dname": "Sadist",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Necrophos gains hp and mana regeneration for every unit he kills. Hero kills grant 10x the regen bonus.",
+        "notes": "Sadist is also triggered by denies.<br/>Stacks independently with itself.",
+        "dmg": "",
+        "attrib": "MANA REGEN: <b><font color=\"#ffffff\">2/4/6/10</font></b><br/>HP REGEN: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>DURATION: <b><font color=\"#ffffff\">6</font></b>",
+        "cmb": "",
+        "lore": "Poor souls who succumb to Rotund\u0027jere\u0027s plagues are recycled for future use.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_sadist",
+        "youtube":"SMMewm8ck-w",
+        "id": 2
+    },
+    {
+        "dname": "Reaper\u0027s Scythe",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Stuns the target enemy hero, then deals damage based on how much life it is missing. Heroes killed by Reaper\u0027s Scythe will have 30 seconds added to their respawn timer. Any kill under this effect is credited to Necrophos.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Damage is dealt at the end of the stun.<br/>The stun goes through spell immunity, but not the damage.",
+        "dmg": "",
+        "attrib": "DAMAGE PER MISSING HP: <b><font color=\"#ffffff\">0.4/0.6/0.9</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">1.5/1.5/1.5</font></b><br/><font color=\"#6fe871\">SCEPTER MANA COST:</font></b> <b><font color=\"#ffffff\">150/340/500</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">70</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE PER MISSING HP:</font></b> <b><font color=\"#ffffff\">0.6/0.9/1.2</font></b><br/>ADDED RESPAWN TIME: <b><font color=\"#ffffff\">30</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/340/500<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/85/70",
+        "lore": "The amount of death and suffering in the air increases the power of Necrophos\u0027s plague magic.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_reapers_scythe",
+        "youtube":"q-yTpAiBoFM",
+        "id": 3
+    }
+]

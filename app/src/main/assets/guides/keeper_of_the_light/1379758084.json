@@ -1,0 +1,93 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"KOTL GIVE ME MANA (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"ward_observer",
+				"courier",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"force_staff",
+				"cyclone",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"rod_of_atos",
+				"veil_of_discord",
+				"urn_of_shadows",
+				"bloodstone",
+				"heavens_halberd",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Из этого делаем транквилы",
+				"ward_observer":"Обязательно!!",
+				"courier":"если кто то купил до вас, тогда у вас в запасе 150 голда",
+				"headdress":"Наша будущая мека",
+				"sheepstick":"Ну я надеюсь тут все ясно",
+				"cyclone":"Еул помогает вашему илюминейту достигнуть своей цели, или же вывести из строя любого вражеского героя",
+				"force_staff":"Сейвай себя и всех остальных",
+				"veil_of_discord":"Больше демеджа",
+				"heavens_halberd":"Если против вас есть злостные райткликеры",
+				"tranquil_boots":"очень полезный арт на ранних этапах игры, особенно если вас сильно бьют"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_chakra_magic",
+			"6":"keeper_of_the_light_spirit_form",
+			"7":"keeper_of_the_light_chakra_magic",
+			"8":"keeper_of_the_light_illuminate",
+			"9":"keeper_of_the_light_illuminate",
+			"10":"keeper_of_the_light_mana_leak",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_mana_leak":"можно качнуть 1 раз вместо илюминейта ",
+				"keeper_of_the_light_spirit_form":"если нет нужды качать ульт, тогда просто забейте на него "
+		}
+	}
+}

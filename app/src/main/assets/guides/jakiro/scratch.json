@@ -1,0 +1,104 @@
+{
+	"Hero":"jakiro",
+	"Title":"Jakiro - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"mekansm",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"sheepstick",
+				"ultimate_scepter",
+				"shivas_guard",
+				"pipe",
+				"cyclone",
+				"blink",
+				"urn_of_shadows",
+				"veil_of_discord",
+				"ghost",
+				"travel_boots"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Siempre tiene que haber wards en el mapa!",
+				"courier":"Si alguien compra courier, tu compra wards!!",
+				"tpscroll":"Lleva un tp encima en todo momento!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_ice_path",
+			"2":"jakiro_dual_breath",
+			"3":"jakiro_dual_breath",
+			"4":"jakiro_ice_path",
+			"5":"jakiro_dual_breath",
+			"6":"jakiro_macropyre",
+			"7":"jakiro_dual_breath",
+			"8":"jakiro_ice_path",
+			"9":"jakiro_ice_path",
+			"10":"jakiro_liquid_fire",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_dual_breath":"Muy buen ataque de area para harassear, pushear lineas y usar despues del Ice Path.",
+				"jakiro_ice_path":"Uno de los stuns de area mas potentes del juego. Intenta colocarlo para stunear a la mayor cantidad de enemigos posible. Genial para teamfights por su bajo coste en mana y poco cooldown.",
+				"jakiro_macropyre":"Una ultimate de area muy buena que hace dmg a lo largo del tiempo. Orientado a teamfights junto a su dual breath y ice path."
+		}
+	}
+}

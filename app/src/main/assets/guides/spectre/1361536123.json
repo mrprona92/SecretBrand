@@ -1,0 +1,132 @@
+{
+	"Hero":"spectre",
+	"Title":"Spectre guide for a difficult lane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"vitality_booster",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"diffusal_blade",
+				"heart",
+				"manta"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"rapier",
+				"assault",
+				"vladmir",
+				"heavens_halberd",
+				"black_king_bar",
+				"gem",
+				"satanic"
+			],
+			"Do not get!":
+			[
+				"invis_sword",
+				"vanguard",
+				"sange_and_yasha",
+				"mjollnir",
+				"bfury",
+				"radiance"
+			],
+			"Baller":
+			[
+				"refresher",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"If you have troubles with last-hitting then start with a quelling blade instead, but for laning phase overall, stout shield is better.",
+				"branches":"Good game brances. They guarantee a good game.",
+				"gem":"You are really tanky and hard to kill so it`s a good idea for you to carry the gem, but only if you have room for it.",
+				"magic_wand":"Argueably the best item in the game. Combined with spectres poor manapool its a must-have.",
+				"flask":"In most cases you want to have one of these in the beginning.",
+				"tango":"Trees are delicious!",
+				"vitality_booster":"It gives spectre much needed survivability in early game. Why not vanguard? Tranquil boots give sufficient regen and leaving regen aside, completing a venguard will only give 20 extra damage block and 10% increased chance of doing so which is not worth the 875 gold needed to finish it.",
+				"vladmir":"Lifestal that stacks with diffusal. nuff said.
+",
+				"refresher":"You can use 2x ultimate, and it`s a ton of fun + even more confusion for the enemy but remember that it`s a baller item and not actually too viable.",
+				"assault":"A very good item for the entire team, If nobody else is getting one, then you should consider getting it yourself.",
+				"heart":"You already have a vitality booster, so making a heart out of it is a must. It has great synergy with dispersion and it makes your illusions much more annoying as they are way harder to kill.",
+				"black_king_bar":"Generally not a good item on Spectre but if you really cant get around it then just get it.",
+				"vanguard":"Just a vitality booster is enough. Waste of money  and delay`s heart.",
+				"rapier":"If you are about to win, or are behind and need that extra push to win, then this si the item to go for.",
+				"monkey_king_bar":"If the opposing team has a Windrunner, Brewmaster or their carry is getting a butterfly, then it`s a must-have.",
+				"radiance":"This is a guide for a bad lane, meaning that you are not having the best time and you are not getting freefarm so you won`t have a very early radiance and radiance on spectre is good only if you get it very early, preferrably before 20 min mark, also decent before 25 min mark, not worth it later on.",
+				"greater_crit":"Good all-around damage item and illusions benefit from the crit.",
+				"bfury":"Battlefury is very similar to radiance in the sence that you should only(there are exeptions but I wont get into those) get it as a first big item, because they both are mainly for farming. If you are doing well wnough to consider a battlefury, then get a radiance instead.",
+				"manta":"With the buffs your illusions(diffusal and heart) have and them being strong on spectre already(dispersion, desolate and them benefiting from the spectral dagger`s trail) it`s only good to get even more.",
+				"invis_sword":"Both attackspeed and damage are not shared with illusions. Illusions only benefit from stats, some auras and a few other things.",
+				"satanic":"May prove a good substitute for diffusal in the very very late game.",
+				"mjollnir":"Doesnt benefit your ultimate in any way.",
+				"diffusal_blade":"It boosts spectre`s ultimate a lot since mana burn is the only orb effect that`s shared with illusions. It also gives an excellent active that can be used to catch escaping enemies, purging negative effects off yourself and much more.",
+				"rod_of_atos":"A fun little item if you are doing good since it lets you hit people more. Also gives health which is much needed on spectre.",
+				"heavens_halberd":"In case your team needs one but nobody else is likly to get it.",
+				"tranquil_boots":"Gives you much needed sustainability on lane and much more resistant to harrassment. Makes you less likely to get bullied out of the lane or killed."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_spectral_dagger",
+			"2":"spectre_desolate",
+			"3":"spectre_desolate",
+			"4":"spectre_spectral_dagger",
+			"5":"spectre_desolate",
+			"6":"spectre_haunt",
+			"7":"spectre_desolate",
+			"8":"spectre_spectral_dagger",
+			"9":"spectre_spectral_dagger",
+			"10":"spectre_dispersion",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_dispersion",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"If you target a hero, then you will always hit just the single target but when targeting ground, it`s possible to hit multiple heroes. If you are being ganked then just target ground on impassable terrain and run away or teleport out from there.",
+				"spectre_desolate":"A very powerful ability and not to be underestimated. Useful both early and late game and since all your illusions use it too, it`s even more powerful.",
+				"spectre_dispersion":"Not too useful early game, but it scales very well to the late game, granting extra survival and damage.",
+				"spectre_reality":"What it says.",
+				"spectre_haunt":"Hold it for teamfights, escaping or picking off heroes that escape on their last health.
+Remember: If you use it as you are being ganked and reality to another enemy elswhere on the map and run away from him immediately then it also makes for a decent excape machanism.",
+				"attribute_bonus":"No reason to get stats any earlier then level 15."
+		}
+	}
+}

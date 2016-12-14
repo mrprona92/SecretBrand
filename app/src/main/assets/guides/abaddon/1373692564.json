@@ -1,0 +1,114 @@
+{
+	"Hero":"abaddon",
+	"Title":"Arthas Menethil",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"magic_stick",
+				"tango"
+			],
+			"1.Early Game":
+			[
+				"magic_wand",
+				"phase_boots",
+				"mask_of_madness"
+			],
+			"2.Core":
+			[
+				"basher",
+				"vladmir",
+				"sange_and_yasha"
+			],
+			"3.Replace Magic Wand":
+			[
+				"assault"
+			],
+			"4.GG upgrade":
+			[
+				"abyssal_blade"
+			],
+			"Situational Support Items":
+			[
+				"soul_ring",
+				"urn_of_shadows",
+				"mekansm"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"The item is used early game for a cheap boost of attributes and it is then made into a Magic Wand",
+				"magic_stick":"Gains 1 charge every time a visible enemy in a 1200 radius uses an active ability.
+Certain abilities, such as Ability Modifiers (Frost Arrow, Poison Attack, etc.), Pudge's Rot, Invoker's Reagents and item abilities, will not add a charge.",
+				"magic_wand":"This allows you to get a quick burst of healing in dire situations, or to use one last ability in a fight. Even during the midgame, when the boost is less noticeable, a Magic Wand can still save your life if you're in danger.
+The Magic Wand makes an excellent item against heroes that spam abilities ",
+				"clarity":"It takes time to restore mana, so don't use it in the middle of combat. Clarity potions can also be used on allies, allowing you to quickly pick up a hero that's low on mana.
+Stacks with itself in inventory.",
+				"tango":"Tangos are popular in the early game because of their ability to restore a small amount of health at very little cost and with low risk. Despite healing slower than the Healing Salve, it makes up for it in cost-efficiency and charges.",
+				"phase_boots":"Using items or abilities cancels Phase.
+Activating this item will not break channeling abilities.
+Activating this Item will allow you to walk through Shadow Shaman's Serpent Wards.",
+				"mekansm":"Mekansm if you are frequently teamfighting. When your ultimate is off cooldown, a quick burst heal may mean the difference between life and death.",
+				"vladmir":"Vladmir's Offering is a solid item on Abaddon, no matter what role he takes. Take it if you or someone else on your team is having survivability issues.",
+				"urn_of_shadows":"Urn of Shadows vastly increases Abaddon's healing ability, as well as providing a DoT single-target ability.",
+				"assault":"Positive armor aura fully stacks with positive armor auras from other items.
+The armor reduction also works against buildings and Roshan.",
+				"sange_and_yasha":"Can be disassembled. The movement speed bonus does not stack with Yasha, Sange and Yasha, or Manta Style.",
+				"mask_of_madness":"Due to his ultimate Abaddon is one of the few heroes that can dive towers even in early stages of the game, to add with his ability to chase down heroes you may also want to purchase a Mask of Madness as the extra damage Abaddon takes from activating it will not matter because of Borrowed Time.",
+				"soul_ring":"Soul Ring greatly improves the Hero's mana management issues wherever they are encountered. Be warned, however, that the damage is counted as the HP removal type, which does not trigger Aphotic Shield nor Borrowed Time.",
+				"abyssal_blade":"Stun is physical, illusions cannot bash."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_frostmourne",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_frostmourne",
+			"5":"abaddon_death_coil",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_frostmourne",
+			"8":"abaddon_aphotic_shield",
+			"9":"abaddon_frostmourne",
+			"10":"abaddon_aphotic_shield",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_death_coil",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"abaddon_death_coil",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"abaddon_death_coil",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"The damage to Abaddon is pure damage.
+Self-damage from Mist Coil can burst Aphotic Shield just as any other kind of damage.
+Abaddon can deny himself with this ability.",
+				"abaddon_aphotic_shield":"Remember that Aphotic Shield can remove stuns and slows from its target, you can use this to save your allies from many certain death situations. Casting Aphotic Shield upon the same target before its duration has ended will automatically detonate the shield before reapplying another.",
+				"abaddon_frostmourne":"Curse of Avernus can have defensive uses as well, such as hitting an enemy that is chasing your ally to slow them down. You can also use this to save yourself as well under certain circumstances as hitting your target will reduce their movement speed by 20% while give you a 15% movement speed buff. ",
+				"abaddon_borrowed_time":"Abaddon is a very durable hero due to his unique ultimate, Borrowed Time, however do not let this fool you into diving enemies where retreating is the better option."
+		}
+	}
+}

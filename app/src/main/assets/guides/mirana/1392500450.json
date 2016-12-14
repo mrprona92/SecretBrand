@@ -1,0 +1,106 @@
+{
+	"Hero":"mirana",
+	"Title":"GreyShark.Mirana",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_aquila",
+				"bottle",
+				"medallion_of_courage",
+				"phase_boots"
+			],
+			"Mid Game":
+			[
+				"ancient_janggo",
+				"orchid",
+				"desolator"
+			],
+			"Late Game":
+			[
+				"sheepstick"
+			],
+			"Situation":
+			[
+				"soul_ring",
+				"travel_boots",
+				"diffusal_blade",
+				"black_king_bar",
+				"blink",
+				"greater_crit"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Для более выгодной позиции для стрелы",
+				"magic_wand":"Ветки продавать жалко, а стики пригодятся",
+				"bottle":"Для роуминга и гангов",
+				"travel_boots":"Вместо фейзов если фарм идет хорошо, или в глубоком лейте, мирана нелплохо пушит",
+				"phase_boots":"Можно и ПТ сделать, но иногда чтобы нормально кинуть стрелу или догнать противника, нужной двигаться чуть быстрее или пройти сквозь крипов, в основном покупаем ради крипов, они часто мешают...",
+				"sheepstick":"С хексом будет гораздо проще убивать, тем более в лейте, очень полезная штука.",
+				"orchid":"Мирана это гангер, имея сало, постоянный реген мп, и еще бонус дамаг мы станем еще смертоноснее...",
+				"black_king_bar":"Почему бы и нет, если много дизейблов",
+				"butterfly":"Ну а как же без неё )))",
+				"greater_crit":"Урон лишним не будет, тем более для мираны, у неё с этим проблемы",
+				"manta":"Ближе к концу мид гейма мы превращаемся в керри, манта хороший арт если уметь им пользоватся, но даже если не уметь он дает не мало статов))",
+				"mjollnir":"Сплеш, АС, немного урона, всё что нам нужно !",
+				"skadi":"Для плотности и полезной пассивки",
+				"desolator":"Много ДМГ + минус армор",
+				"yasha":"Для начала покупаем для МС и статов, потом апнем в манту",
+				"diffusal_blade":"Вместо дезоля, если нужен выжег МП",
+				"soul_ring":"Для роуминга или если вам не хватает мп",
+				"ancient_janggo":"Хороший арт, поможет с инициировать, убежать, ну и банально дает много статов + аура",
+				"medallion_of_courage":"Решает проблемы с МП и броней + гораздо легче гангать",
+				"ring_of_aquila":"Нам нехватает брони и маны, аквила это пофиксит + аура для пуша и союзников"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_arrow",
+			"2":"mirana_leap",
+			"3":"mirana_arrow",
+			"4":"mirana_starfall",
+			"5":"mirana_arrow",
+			"6":"mirana_invis",
+			"7":"mirana_arrow",
+			"8":"mirana_starfall",
+			"9":"mirana_starfall",
+			"10":"mirana_starfall",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

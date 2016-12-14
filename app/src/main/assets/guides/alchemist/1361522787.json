@@ -1,0 +1,121 @@
+{
+	"Hero":"alchemist",
+	"Title":"GPM",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"In lane, early":
+			[
+				"quelling_blade",
+				"boots",
+				"ring_of_health",
+				"blades_of_attack",
+				"blades_of_attack"
+			],
+			"Main attackspeed/damage":
+			[
+				"phase_boots",
+				"mjollnir",
+				"heart",
+				"abyssal_blade",
+				"assault",
+				"black_king_bar"
+			],
+			"SITUATIONAL":
+			[
+				"vladmir",
+				"desolator",
+				"armlet",
+				"invis_sword",
+				"greater_crit",
+				"radiance",
+				"travel_boots",
+				"monkey_king_bar",
+				"butterfly",
+				"satanic",
+				"vanguard",
+				"rapier"
+			],
+			"Farming items":
+			[
+				"hand_of_midas",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blades_of_attack":"In lane extra damage, builds into phase boots. DO NOT GET TREADS.",
+				"quelling_blade":"If you are a slobbering nerd with gravy on your fingers and you can't last hit to save your soul, GET THIS. noob.",
+				"stout_shield":"To survive harass in lane while you prioritise farm",
+				"boots":"Pretty self explanitory.. Noobs",
+				"flask":"Insatiable source of good regen. noob.",
+				"tango":"Shit form of regen.",
+				"phase_boots":"You will already have huge attackspeed from your ulti and other items, so a burst in MS and the extra damage is always helpful.",
+				"ring_of_health":"Get this in lane, as early as possible for regen. If you get lvl 6 quickly, that can be your form of regen, so in that case prioritise phase boots.",
+				"hand_of_midas":"Attack speed and gold farming ability.",
+				"vladmir":"Great item if you need the lifesteal, as it give you damage, you can get another orb effect, AND it really helps your team damage wise, and for melee they also get lifesteal.",
+				"assault":"This will help your team, hinder your enemy, and give you attackspeed and armour. GET THIS.",
+				"heart":"Get this for the tankiness if needed, great item.",
+				"black_king_bar":"SITUATIONAL - get if there is a substantial amount of stuns on the other team",
+				"vanguard":"Highly advise against this item, you can spend your gold on much better items.",
+				"rapier":"PUB STOMP ROLL THE NOOBS",
+				"monkey_king_bar":"Get if the other team has evade heroes. (Void, PA etc.)",
+				"radiance":"If you are pub stomping - this with your acid spray is amazing.",
+				"butterfly":"VERY situational - if you need evasion (highly unlikely) and extra attack speed (also arbirtary).",
+				"greater_crit":"Amazing item mid-late game, with your attack speed you will be pumping out the damage from the crits. ",
+				"bfury":"Splash damage, damage, and regen. I forgot the damage. DON'T GET THIS ITEM - it's for noob pubbies who can't alc properly.",
+				"armlet":"Great for early to mid game, sell for late game.",
+				"invis_sword":"If you want to gank often, get this, charge up your stun, go invis, then burst the enemy",
+				"satanic":"Amazing late game with your attack speed in teamfights, you will heal to full basically, and the str bonus from the reaver is always a plus.",
+				"mjollnir":"This is also a farming item, it boosts your attackspeed, gives damage, and it clears creepwaves.",
+				"desolator":"Really strong item, you will melt heroes with this. Not as efficient with such a high attack speed, but if situationally viable (High armour on enemies), by all means go for it.",
+				"abyssal_blade":"Because of your high attackspeed, you will be bashing very frequently. Upgrade to abyssal for the extra stun in teamfights."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_goblins_greed",
+			"2":"alchemist_unstable_concoction",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_acid_spray",
+			"8":"alchemist_acid_spray",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_goblins_greed",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_unstable_concoction",
+			"13":"alchemist_unstable_concoction",
+			"14":"alchemist_unstable_concoction",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

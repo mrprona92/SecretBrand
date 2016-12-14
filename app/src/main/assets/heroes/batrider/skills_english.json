@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Sticky Napalm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Drenches an area in sticky oil, amplifying damage from Batrider\u0027s attacks and abilities and slowing the movement speed and turn rate of enemies in the area.  Additional casts of Sticky Napalm continue to increase damage, up to 10 stacks.  The extra damage is halved against creeps.",
+        "notes": "All damage from Batrider gets amplified, except for Radiance and Orb of Venom.",
+        "dmg": "",
+        "attrib": "EXTRA DAMAGE: <b><font color=\"#ffffff\">10/15/20/25</font></b><br/>RADIUS: <b><font color=\"#ffffff\">375/375/375/375</font></b><br/>DURATION: <b><font color=\"#ffffff\">8/8/8/8</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">3%/5%/7%/9%</font></b><br/>TURN RATE SLOW: <b><font color=\"#ffffff\">70%/70%/70%/70%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/20/20/20<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 3",
+        "lore": "It\u0027s not uncommon to hear the Rider cackle while he increases the flammability of his opponents.",
+        "hurl": "Batrider",
+        "name": "batrider_sticky_napalm",
+        "youtube":"jru8juajIig",
+        "id": 0
+    },
+    {
+        "dname": "Flamebreak",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Hurls an explosive cocktail that explodes when it reaches the target location, knocking back, briefly stunning, and dealing damage over time to enemies in the area.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAMAGE PER SECOND: <b><font color=\"#ffffff\">50</font></b><br/>BURN DURATION: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>TOTAL DAMAGE: <b><font color=\"#ffffff\">50/100/150/200</font></b><br/>RADIUS: <b><font color=\"#ffffff\">375/375/375/375</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14",
+        "lore": "A molotov cocktail is the weapon of choice for Batrider.",
+        "hurl": "Batrider",
+        "name": "batrider_flamebreak",
+        "youtube":"uQuU3UPz4lE",
+        "id": 1
+    },
+    {
+        "dname": "Firefly",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Batrider takes to the skies, laying down a trail of flames from the air.  The fire damages any enemies it touches, and destroys trees below Batrider. While flying, Batrider gains unobstructed movement and vision.",
+        "notes": "During this the Batrider can fly above units, trees and impassable terrain.<br/>If duration ends when above impassable terrain, the Batrider can get stuck.<br/>The trail persists through Batrider\u0027s death.",
+        "dmg": "",
+        "attrib": "DAMAGE PER SECOND: <b><font color=\"#ffffff\">10/30/50/70</font></b><br/>RADIUS: <b><font color=\"#ffffff\">200/200/200/200</font></b><br/>DURATION: <b><font color=\"#ffffff\">18/18/18/18</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40",
+        "lore": "When an enemy escapes into the Yama Raskav Jungle, most would cut through the brush to find the fugitive.  Batrider just chooses to destroy the jungle along with his foes.",
+        "hurl": "Batrider",
+        "name": "batrider_firefly",
+        "youtube":"X4vRNtSfFwE",
+        "id": 2
+    },
+    {
+        "dname": "Flaming Lasso",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Lassoes an enemy and drags them in Batrider\u0027s wake.  Victims cannot be dragged over impassable terrain. Dragged units cannot move, attack, or use abilities.  Teleporting or blinking will break the lasso.",
+        "notes": "Killing the target or the Batrider will break the lasso before its expiration.<br/>If Batrider moves more than 400 units in 0.05 seconds the lasso breaks.<br/>Disable works on Spell Immune units.<br/>Batrider cannot attack while using Flaming Lasso.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">3/3.5/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 225<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/75/60",
+        "lore": "Few dare to ask to ride on the bat, as Batrider gives them free of charge.",
+        "hurl": "Batrider",
+        "name": "batrider_flaming_lasso",
+        "youtube":"Fem29nDrc04",
+        "id": 3
+    }
+]

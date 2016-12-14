@@ -1,0 +1,150 @@
+{
+	"Hero":"venomancer",
+	"Title":"Neviskio's Pusher Support Venomancer Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"ward_observer",
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"tpscroll",
+				"smoke_of_deceit"
+			],
+			"coreItems":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll",
+				"smoke_of_deceit",
+				"arcane_boots",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ring_of_basilius",
+				"magic_wand",
+				"urn_of_shadows",
+				"necronomicon",
+				"tranquil_boots",
+				"ghost",
+				"gem",
+				"dust",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"ethereal_blade"
+			],
+			"Luxury Items":
+			[
+				"veil_of_discord",
+				"ultimate_scepter",
+				"force_staff",
+				"rod_of_atos",
+				"pipe",
+				"cyclone",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"The iron branch, the best investment you can make.The easiest mistake you can do is to not realize the power of stats in dota2, this item gives you:
+
+19 health, 0.03 health regen, 1/7th of armor, 1% attack speed, 13 mana, 0.04 mana per second, and 1 damage since it gives 1 of your primary attribute.",
+				"boots":"Veno is quite sluggish as a hero, you need to get some movement speed since you rely on supporting and ganking people effectively.You can't do that well if they run faster...",
+				"gem":"Gem is a good pickup against invisible heroes but for the love of god DON'T CARRY IT YOURSELF, usually you are too squishy and have no real escape, give it to someone stronger.",
+				"magic_stick":"Magic stick is a good choice for the clutch mana and heal that can save the day on many heroes.Get it from the sideshop since you should be sidelaning anyway!",
+				"magic_wand":"Sometimes you might not want to upgrade the stick into a wand.Since as venomancer your iron branches will be used in a mekansm unless you are doing extremely well you WILL be short on cash.Make this only if really rich.",
+				"ghost":"This is the ultimate counter to rightclick heroes like ursa and others.Gives good stats, but care that you take 40% more magic damage when you activate it! cost is a bit high but you should be able to get it if you do ok.",
+				"clarity":"Venomancer likes to set up kills with the lvl 1 gale which has a 50% slow, and if rightfully going for a pushing build, he has to spam the wards.This requires some good mana regen and generally two clarities help much more than hoping to get a quick basilius or sobi, especially with his pitiful int.",
+				"flask":"This is your second part of regeneration, is stronger than tangoes but it will be dispelled if you get hit by anything that does more than 20 damage after reduction.Hp removal doesn't stop it, also,
+
+it stacks with tangoes heal but not with urn of shadows.
+",
+				"dust":"A counter to invisible heroes, usually I prefer sentries, but still a good one.",
+				"ward_observer":"You are a support hero, you need to ward the map as much as possible. Veno is really item independant that could easily go naked with only wards and lvl 1 boots and still do fine, also 2 sets of wards are 300g EVERY 6 MINUTES.You can afford that.",
+				"ward_sentry":"As a support you should be buying sentries to deward and to kill the annoying invisible heroes.It will repay itself easily since it costs 200g for 2 wards, and a single kill saved on your team(or one done to a rikimaru) is more than 250 gold alone.If you count assists and everything is WORTH IT.",
+				"tango":"Regeneration and stats is the base of early game dota, you need on any hero some regen, this is the best way to spend your money early without risking to get hit and lose your regen.You could buy 2
+
+instead of a salve, but do remember that a salve gives much more HP.",
+				"courier":"As a support you should be buying courier.If someone already did or wants to buy one, you should get a set of wards.You should NEVER go out of the base as venomancer without a courier or wards.No excuses.",
+				"tpscroll":"You need to be carrying one, better if 2 at ALL TIMES.It's the best dota2 item and yet people fail to use it, you WILL lose towers/raxes/heroes during ganks because you are not carrying one.There's
+
+no excuse it costs 2-3 last hits and maybe some passive gold, you HAVE to have one.No excuses.",
+				"mekansm":"Mekansm is a must, you should definitely try and rush one as soon as possible since later in the game it loses power.Always make buckler first for the bonus armor for pushing since it is the whole point of the build.",
+				"flying_courier":"You should upgrade the courier with the first 220 gold you get, especially if mid can get a quick bottle a rune control the 2nd minute rune.At worst atleast do it before the 4th minute.If you got courier and wards, ask the second support to upgrade it.",
+				"ring_of_basilius":"If your sidelane partner is desperate for mana you can buy this, but it will slow down your other items.It's a strong item to push and you can do some tranquil boots/basilius disassemble tricks if you really want.Generally skippable if you can manage the mana.",
+				"pipe":"The other must have of any team besides mekansm.You should try and make this one in the cases of heavy nuking heroes against you.It's definitely better to stavy alive than having an aghanim but being unable to fight because you get nuked in 3 spells.Bonus help for the team.",
+				"urn_of_shadows":"You're a ganking hero, if you plan to go around with a friend ganking people from behind and no one else is building one, this can be a good item.It could potentially be argued that it can substitute mekansm in that case, but I don't agree.Better idea would be to have this AND mek on another hero.",
+				"sheepstick":"Hex is always good on any hero that can use the stats.You usually can't build this due to having better choices and being more of an aoe teamfight hero, but I definitely use it when I get super rich.Usually when you get this you're already winning though...",
+				"cyclone":"Eul is a good disable, gives plenty of mana and movement speed, you can get some good positioning with it and do some good stuff like dodging sniper's ult.I still like others more but you might find this a good idea.",
+				"force_staff":"A cheap man escape mechanism or initiation for the nova.A good pickup if you can find the gold without stealing the farm from the carries.This is definitely better than a shadowblade if you can play it right.",
+				"necronomicon":"Necro especially lvl 3, gives you much needed stats, and it's a strong pushing item which happens to counter invisible heroes, which are a pain for supports.The price is ok, you will rarely build it since you can do better things, but it's a solid option.",
+				"ultimate_scepter":"Aghanim makes your ulti scary in teamfights, it's the first choice of any serious venomancer that is devoted to supporting a team that needs that extra kick to win fights.Expensive but worth it, start with the point booster or ogre club for better survival.",
+				"ethereal_blade":"So you have a ghost scepter and a lot of money...maybe you're stomping and not going for a super serious game? This is the choice for having some fun and nuking people hard.Other items are better for sure, but still, might get used sometimes...",
+				"arcane_boots":"Arcane boots are the boots of choice, mana for you and the team, try and buy them with towers kills or assist gold.",
+				"ancient_janggo":"Doing poorly and need to build a bracer early? Don't sell it, make drums for better pushes! A good team item.",
+				"medallion_of_courage":"Mana regen and armor, a good item for you but definitely not important as others.Can be good for quick roshan strats or maybe if you have armor issues against heavy -armor teams.",
+				"smoke_of_deceit":"If you want to play to get to very high levels, you need to be trying to do smoke ganks. Venomancer is really strong at ganking since he can slow to 50% a hero easily, and with a friendly stun after the slow ends you almost surely kill someone early.Try it.",
+				"veil_of_discord":"This item is underused and could be core on veno, if he had a bit more ways to farm without stealing from the carry.If you have a couple of aoe heroes besides of veno and maybe some single target nukes from the other heroes, this is better than aghanim.Good stats too.",
+				"rod_of_atos":"An underused item, this definitely could become core on veno on other less full supportive builds.You need the hp so the vitality booster first is a must.Some swear for the casual vit booster, but I daresay that if you buy one might as well make an atos.The slow is huge and good stats for veno.",
+				"tranquil_boots":"Getting harassed so hard you can't build anything? A wand and tranquils will carry you to the later stages of the came when you can disassemble them and hopefully do something better."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_poison_sting",
+			"9":"venomancer_poison_sting",
+			"10":"venomancer_poison_sting",
+			"11":"venomancer_venomous_gale",
+			"12":"venomancer_poison_nova",
+			"13":"venomancer_venomous_gale",
+			"14":"venomancer_venomous_gale",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"This is usually skilled only at level 1 for the 50% slow.It's a good skill but yet, the others are more used for solid builds.Max it last unless they are farming your wards and your team doesn't want to push.",
+				"venomancer_poison_sting":"This can be maxed first if the other team is farming your wards which give gold, or if your team isn't going for a pure pushing strategy.This makes your harass unbelievably strong.In lane don't go for last hits, hit heroes and run, they will burn regen before you, and be force back.Maybe killed.",
+				"venomancer_plague_ward":"I decided to go for maxed wards expecting you to use this build for a HEAVY pushing strategy.Wards can do many things, defending, pushing, vision just spam them if the enemy isn't going to farm them, or if you plan to push early.Also be carefull for magic wand, they give free charges to the enemy.",
+				"venomancer_poison_nova":"A strong teamfight ulti.It can't kill people without another dot but it will wear them down, try to hit as many as you can, and to position in a place where you can hit all the enemies without dieing.Aghanim makes it MUCH stronger if you can.If you're dieing atleast try to use this, since cd is ok.",
+				"attribute_bonus":"Just don't get stats early, you need your other abilities maxed before."
+		}
+	}
+}

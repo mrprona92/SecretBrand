@@ -1,0 +1,82 @@
+{
+	"Hero":"lone_druid",
+	"Title":"Carry-killer bear",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"For Druid (Early)":
+			[
+				"power_treads",
+				"magic_wand",
+				"hand_of_midas"
+			],
+			"For Bear (Early)":
+			[
+				"stout_shield",
+				"orb_of_venom",
+				"hand_of_midas",
+				"phase_boots"
+			],
+			"For Druid (Late game)":
+			[
+				"power_treads",
+				"hand_of_midas",
+				"abyssal_blade",
+				"butterfly",
+				"greater_crit"
+			],
+			"For Bear (Late game)":
+			[
+				"phase_boots",
+				"hand_of_midas",
+				"basher",
+				"mjollnir",
+				"assault",
+				"monkey_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_synergy",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

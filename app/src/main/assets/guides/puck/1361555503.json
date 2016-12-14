@@ -1,0 +1,102 @@
+{
+	"Hero":"puck",
+	"Title":"6.82 - Standard Puck (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"blink",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"ghost",
+				"cyclone",
+				"sphere",
+				"dagon"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Use this item to initiate or to flee in combination with phase shift. The length of Phase Shift should be sufficient for Blink Dagger to finish its cooldown.",
+				"ghost":"Especially useful to avoid being targeted by physical carries, a great item to delay death until your Illusory Orb is off cooldown.",
+				"flask":"We are only picking up a Healing Salve and Tangos to help survive in lane to rush for our bottle.",
+				"tango":"We are only picking up a Healing Salve and Tangos to help survive in lane to rush for our bottle.",
+				"mekansm":"Given how few items Puck needs, Mekansm should be a priority on your list to get. Puck is in the middle of fights and can definitely use Mekansm to all her allies safely.",
+				"sheepstick":"Scythe of Vyse just adds to the arsenal of Puck's disabling abilities and keeps key carries down and disabled so your team can take them out immediately.",
+				"cyclone":"The extra movement speed and disable can be especially if good if you're finding the team lack disabling abilities. It can also serve a similar use like Ghost Scepter in delaying attacks until you can escape with Illusory Orb.",
+				"dagon":"Dagon can make the output of damage of your team overall much better. Though it has a small window to which it can be complementary for a team, Dagon has a place if your team is seriously emphasizing ganks and quick damage.",
+				"ultimate_scepter":"You need this as soon as possible as enemy heroes start picking up Black King Bar. The upgrade to your ultimate, Dream Coil, is too good to pass up and definitely makes Puck a fierce initiator.",
+				"shivas_guard":"Further dismiss physical carries with Shiva's Guard. The way Puck initiates makes Shiva's Guard also ideal given your positioning in team fights.",
+				"sphere":"With Linken's Sphere ability to transfer it's Spellblock, this makes the item relatively useful, especially to further support heroes that need it and the stats are welcomed by Puck."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_phase_shift",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"Use this item either as an escape or an initiation. It can also serve as a last-hitting mechanism if you find trouble in last-hitting during the early stage pre-bottle.",
+				"puck_waning_rift":"Follow your ultimate Dream Coil with this ability to fully silence your foes. Then follow it up with your ultimate to both keep your foes still and silenced.",
+				"puck_phase_shift":"Phase Shift can be used to dodge incoming abilities from enemies such as Sven's stun. Additionally, at max level, Phase Shift can be used in combination with Blink Dagger to get away from your opponents. ",
+				"puck_ethereal_jaunt":"Phase Shift can be used to dodge incoming abilities from enemies such as Sven's stun. Additionally, at max level, Phase Shift can be used in combination with Blink Dagger to get away from your opponents.",
+				"puck_dream_coil":"This is your best ability to initiate with. Be sure to use this in combination with your other abilities or if you're chasing a fleeing enemy and need to keep them still."
+		}
+	}
+}

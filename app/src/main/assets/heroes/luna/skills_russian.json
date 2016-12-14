@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Lucent Beam",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Luna направляет сконцентрированный луч лунной энергии во врага, нанося урон и оглушая его.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">0.6/0.6/0.6/0.6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/100/110/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6",
+        "lore": "Селемине поражает тех, кто вторгается в Серебристый лес.",
+        "hurl": "Luna",
+        "name": "luna_lucent_beam",
+        "youtube":"ALMg8aRf7Xs",
+        "id": 0
+    },
+    {
+        "dname": "Moon Glaive",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Позволяет атакам Luna отскакивать на врагов рядом с основной целью. Каждый следующий отскок наносит меньше урона.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">500</font></b><br/>ОТСКОКОВ: <b><font color=\"#ffffff\">1/2/3/6</font></b><br/>СНИЖЕНИЕ УРОНА: <b><font color=\"#ffffff\">35%</font></b>",
+        "cmb": "",
+        "lore": "Аккуратно заостренные клинки Luna в форме бумеранга рассекают ряды противников.",
+        "hurl": "Luna",
+        "name": "luna_moon_glaive",
+        "youtube":"7TCPl446TcI",
+        "id": 1
+    },
+    {
+        "dname": "Lunar Blessing",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Повышает урон, наносимый окружающими союзными героями, также наделяя Luna улучшенным ночным зрением.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">900/900/900/900</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">14/22/30/38</font></b><br/>ДОП. ОБЗОР НОЧЬЮ: <b><font color=\"#ffffff\">1000/1000/1000/1000</font></b>",
+        "cmb": "",
+        "lore": "Богиня луны благоволит своим последователям.",
+        "hurl": "Luna",
+        "name": "luna_lunar_blessing",
+        "youtube":"1tKapRx4crk",
+        "id": 2
+    },
+    {
+        "dname": "Eclipse",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Призывает несколько Lucent Beams, которые бьют врагов рядом с Luna, основываясь на уровне первой способности. Любая цель не может получить больше определенного количества ударов. Также способность на 10 секунд превращает день в ночь.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Eclipse не будет работать, если способность Lucent Beam не изучена.<br/>Действие заклинания прекратится, если ваш герой умрет.<br/>Lucent Beams от Eclipse не оглушают.<br/>Не нанесет урона невидимым юнитам.",
+        "dmg": "",
+        "attrib": "ЛУЧЕЙ: <b><font color=\"#ffffff\">5/8/11</font></b><br/>МАКС. УДАРОВ ПО ЮНИТУ: <b><font color=\"#ffffff\">5</font></b><br/>ЗАДЕРЖКА МЕЖДУ ЛУЧАМИ: <b><font color=\"#ffffff\">0.6/0.6/0.6</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">675/675/675</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2.4/4.2/6</font></b><br/><font color=\"#6fe871\">УДАРОВ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">6/10/14</font></b><br/><font color=\"#6fe871\">МАКС. УДАРОВ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">6/10/14</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">3/5.4/7.8</font></b><br/><font color=\"#6fe871\">ДАЛЬНОСТЬ ПРИМЕНЕНИЯ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">2500</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/200/250<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 160/150/140",
+        "lore": "При особой необходимости Селемине сама нисходит в мир, затмевая свет и надежды противников.",
+        "hurl": "Luna",
+        "name": "luna_eclipse",
+        "youtube":"pQKRK9KN5-U",
+        "id": 3
+    }
+]

@@ -1,0 +1,41 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_templar_assassin",
+	"Title":"Recommended items for Templar Assassin",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"tango",
+			"flask",
+			"clarity",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"bottle",
+			"magic_stick"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"magic_wand",
+			"blink",
+			"desolator",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"black_king_bar",
+			"assault",
+			"heart",
+			"butterfly",
+			"manta",
+			"greater_crit"
+		]
+	}
+}

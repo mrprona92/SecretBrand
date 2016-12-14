@@ -1,0 +1,85 @@
+{
+	"Hero":"zuus",
+	"Title":"Thunder Cannon",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"urn_of_shadows",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"ultimate_scepter",
+				"refresher"
+			],
+			"luxury":
+			[
+				"tranquil_boots",
+				"ward_observer",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"The extra step.",
+				"magic_stick":"Mana in a stick.",
+				"ghost":"YOU CANT HIT ME!!!!",
+				"bottle":"Mana in a bottle.",
+				"ward_observer":"Rune control. Anti-ganks too!",
+				"travel_boots":"Omnipresence, he is a god after all.",
+				"urn_of_shadows":"All-in-one vase.",
+				"ultimate_scepter":"Zeus's favorite staff.",
+				"refresher":"What is better than one ult? Two ults!",
+				"tranquil_boots":"When broke, get cheap gear."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_arc_lightning",
+			"9":"zuus_arc_lightning",
+			"10":"zuus_arc_lightning",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_static_field",
+			"13":"zuus_static_field",
+			"14":"zuus_static_field",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

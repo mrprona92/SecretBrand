@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_phantom_lancer",
+	"Title":"Recommended items for Phantom Lancer",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"ring_of_protection",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"magic_wand",
+			"diffusal_blade",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"vanguard",
+			"radiance",
+			"manta",
+			"heart",
+			"butterfly",
+			"sange_and_yasha",
+			"greater_crit"
+		]
+	}
+}

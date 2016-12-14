@@ -1,0 +1,82 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Phantom Assasino build + randomed build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"slippers",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"pers",
+				"phase_boots",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"sange_and_yasha",
+				"vladmir"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"desolator",
+				"abyssal_blade",
+				"rapier",
+				"satanic",
+				"invis_sword",
+				"bfury"
+			],
+			"Starting items when randomed":
+			[
+				"ring_of_health"
+			]
+		},
+		"ItemTooltips":
+		{
+				"poor_mans_shield":"Dont buy when randomed",
+				"desolator":"Great for high burst damage"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_blur",
+			"4":"phantom_assassin_phantom_strike",
+			"5":"phantom_assassin_blur",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_phantom_strike",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_blur",
+			"10":"phantom_assassin_blur",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_stifling_dagger",
+			"13":"phantom_assassin_stifling_dagger",
+			"14":"phantom_assassin_stifling_dagger",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

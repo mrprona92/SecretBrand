@@ -1,0 +1,85 @@
+{
+	"Hero":"tiny",
+	"Title":"GG's Guide To A Rock Hard Tiny",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"circlet",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"assault",
+				"heart",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger will allow you to initiate a battle, pursue an escaping hero or just surprise a lone enemy hero by blinking next to him and performing a Toss + Avalanche Como.",
+				"boots":"Getting this early in the game will allow you to get close enough for a Toss + Avalanche Combo that can instantly kill a lone enemy.",
+				"magic_wand":"Even though it gets useless in late games, it can save your life early on when faced with nuker heroes.",
+				"bracer":"The bonus stats allow you to survive longer and have enough mana for you very costly spells.",
+				"ultimate_scepter":"Due to his large amount of damage received by his Ultimate, Aghanim Scepter allows you to grow a tree in one hand and splash that damage to all nearby enemies. Combined with the Hyperstone or Assault Cuirass later on allows you to quickly deal a huge amount of damage to all enemy heroes.",
+				"assault":"After putting points in your ultimate, you gain a large amount of damage but your attack speed decreases significantly. That why it is recommended to put just 1 point in your ultimate after maxing out Toss and Avalanche and putting the rest after buying the Hyperstone or Assault Cuirass.",
+				"heart":"Most builds for Tiny are based on initiation and damage deal. Heart of Tarasque will allow you to have a huge HP regeneration and increase your survivability in combat.",
+				"black_king_bar":"If the enemy team has a lot of nukers or stunners, after initiating a team fight Tiny will most likely die. The Black King Bar allows you to evade most enemy spells and help your team loger in a fight.",
+				"arcane_boots":"Due to the high mana cost of his skills, Arcane Boots is a must for tiny."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tiny_avalanche",
+			"2":"tiny_toss",
+			"3":"tiny_avalanche",
+			"4":"tiny_toss",
+			"5":"tiny_avalanche",
+			"6":"tiny_toss",
+			"7":"tiny_avalanche",
+			"8":"tiny_toss",
+			"9":"tiny_craggy_exterior",
+			"10":"tiny_grow",
+			"11":"tiny_craggy_exterior",
+			"12":"tiny_craggy_exterior",
+			"13":"tiny_craggy_exterior",
+			"14":"tiny_grow",
+			"15":"attribute_bonus",
+			"16":"tiny_grow",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

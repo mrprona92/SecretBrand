@@ -1,0 +1,16 @@
+{
+  "dotaId": "quarterstaff",
+  "id": 10,
+  "img": "quarterstaff_lg.png",
+  "dname": "Quarterstaff",
+  "qual": "component",
+  "cost": 875,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 10 Damage<br/>+ 10 Attack Speed",
+  "mc": false,
+  "cd": false,
+  "lore": "A basic staff that allows you to strike quickly.",
+  "components": null,
+  "created": false
+}

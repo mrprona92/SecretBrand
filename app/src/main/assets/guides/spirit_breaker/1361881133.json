@@ -1,0 +1,138 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"Dynamite Spirit Breaker - Master Ganker Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"belt_of_strength",
+				"branches",
+				"tango"
+			],
+			"Early Items":
+			[
+				"magic_stick",
+				"power_treads"
+			],
+			"Core Mid Game Items":
+			[
+				"armlet",
+				"urn_of_shadows",
+				"mask_of_madness"
+			],
+			"Situational Defensive Items":
+			[
+				"black_king_bar",
+				"blade_mail",
+				"heavens_halberd"
+			],
+			"Core Late Item":
+			[
+				"lesser_crit",
+				"greater_crit"
+			],
+			"End Game Items (pick 1/2)":
+			[
+				"monkey_king_bar",
+				"mjollnir",
+				"assault",
+				"ultimate_scepter",
+				"heart",
+				"invis_sword"
+			],
+			"Situational Consumable":
+			[
+				"dust",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Buy base boots as first piece, and dont wait too long to buy them.
+Since the only thing you can buy at the sideshop is Magic Stick, you might buy base boots after that... and then Gloves of Haste, getting Power Treads earlier.",
+				"magic_stick":"Suggested. In rare cases you could skip this item if enemies are using few active abilities. Otherwise take it and if you want upgrade to Magic Wand; best moment to do so is after completing Urn, before MoM.
+Sell later when you need the slot for more powerful items",
+				"dust":"(TAKE) Against INVISIBLE HEROES, like Riki, Dust is the item for you!
+Charge stun invisible targets, but dont make them reveal. So the solution is to use Dust instatly before you hit them! Dust in fact doesnt interrupt Charge, same as MoM and ShadowBlade and teleport (double_click only)",
+				"tpscroll":"Situational. It can be used to restore your health&mana, by going back to the fountain (and then charging back). So as u need, buy one from the side shop.
+Once you start charging around though, it might be handy to bring one with you, to get you out of dangerous situations. Your call..",
+				"power_treads":"CORE ITEM!",
+				"ring_of_basilius":"Good mana regen for a cheap price, plus some armor that`s always useful.
+I like this better than Urn, since it`s cheaper and gives better stats: lifesteal is usually enough to replete your health.
+Suggested item to buy when magic stick/wand is skipped.",
+				"urn_of_shadows":"Optional, but highly adviced. It gives both health and mana regeneration, plus some stats. Its ability can heal you and also your teammates! Can be used in an offensive way to finish off running enemies. Price is low enough.
+Since first kill gives 2 charges, try to use them all, all the time!",
+				"ultimate_scepter":"BALANCED Late item. Mediocre item that improve the Nether Strike ultimate, making NS hit an area around the initial target (250 radius), and reducing the cooldown to just 20 seconds.
+The AOE improvement might be of help against lumped/clotted enemies (especially with illusions in play). ",
+				"assault":"BALANCED Late Item, with focus on SUPPORT (aura). Great attack speed bonus plus armor reduction that increase damage by alot (~30%). The armor bonus is also good. Aura Radius is 900. TAKE if yours/enemy damage is primary physical (armor is used) and if the aura benefit your team.",
+				"heart":"Minor Late Item with focus on SURVIVAL. The damage is good but not great, the health regen is useful but not exactly essential (u already have Urn, Lifesteal and Wand). But It lets you having Armlet always on without any worries.
+AC is generally preferable instead",
+				"black_king_bar":"MUST HAVE ITEM against magic stunners/disablers & nukers that cause or can cause big troubles to you. Most of the time you will need this!
+Activate the item when facing multiple enemies and generally after joining/initiating a big teamfight. Takes 6th slot.",
+				"blade_mail":"DEFENSIVE SITUATIONAL Item. TAKE IF you are having TROUBLES taking too much damage. It grants good bonus damage (potentially huge with return ability) and good survival. Works well with MoM.
+TAKE AGAINST HEAVY HITTERS like URSA, DROW, etc..  generally if u`re BEHIND, no need otherwise.",
+				"rapier":"Powerful but very risky item. You need to be extra careful with it, a won game could easily become a loss if the enemy gets their hands on it.
+On the other hand it could used to get a victory out of a desperate game!",
+				"monkey_king_bar":"OFFENSIVE Late Item. Focus on 1vs1. A must item to have against hero with evasion (by Butterfly or by innate abilities). ",
+				"greater_crit":"Just the best DPS item of the whole game. ",
+				"armlet":"DO NOT shut it off in the middle of a fight! Deactivate only when the fight is over. Besides that, use it in every fight. Eventually with also MoM active, when the circumstances are carefully right (read MoM description).",
+				"mjollnir":"OFFENSIVE Late Item. Focus on 1 vs many.
+The active shields a unit, not necessarily you. When this shielded unit is damaged, there is a chance that lightning will strike the source of the damage and 2 nearby enemies (200 damage).
+The passive is Chain Lighting and hits up to 8 targe.",
+				"helm_of_the_dominator":"If you decide to take Satanic instead of MoM. (upgrade to Satanic later, after BKB and daedalous)",
+				"desolator":"Instead of Mask of Madness and lifesteal. You need HoT thought for the health",
+				"mask_of_madness":"Active-Berserk> Wait until enemies have blown their abilities, are disabled themselves, and/or are solo/in small groups. Or till you use BKB.
+Good for chasing and finishing off running lone enemy, and for quickly eliminating creeps (restoring health in the process, lifesteal).
+Usable for escaping 2",
+				"heavens_halberd":"SITUATIONAL DEFENSIVE Item. It`s a more expensive Alternative than Blade Mail (dont pick both). TAKE IF YOU HAVE TROUBLES, with enemies dealing too much (auto attack based) damage to you. The items has slow, evasion, disarm... extremely good item against hard carries like ursa&drow, but not cheap."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_charge_of_darkness",
+			"2":"spirit_breaker_greater_bash",
+			"3":"spirit_breaker_greater_bash",
+			"4":"spirit_breaker_empowering_haste",
+			"5":"spirit_breaker_greater_bash",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_greater_bash",
+			"8":"spirit_breaker_empowering_haste",
+			"9":"spirit_breaker_charge_of_darkness",
+			"10":"spirit_breaker_charge_of_darkness",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_charge_of_darkness",
+			"13":"spirit_breaker_empowering_haste",
+			"14":"spirit_breaker_empowering_haste",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spirit_breaker_charge_of_darkness":"One point early allow you to get first kill very easily and to also switch from lane to lane relatively fast.
+Remember that while charging all the enemy units passed through will be hit by a Greater Bash!",
+				"spirit_breaker_empowering_haste":"SP base movement speed is 290. WIth Power Treads is 345ms, with also 1 point of Haste is 365ms, +2 points 379ms, +3p 393ms, +4p 407ms. Generally the enemies use the range 340-370.
+You can also use MoM active which gets you to 510ms, close to the max ms of 522.",
+				"spirit_breaker_greater_bash":"The damage is increased by the movement speed bonus of boots, by the ability Empowering Haste and by the active Berserk of Mask Of Madness.
+On enemy heroes the damage ranges from 102, with maxed bash and standard boots, to 153, with maxed bash maxed haste power treads and MoM ability activated.",
+				"spirit_breaker_nether_strike":"You can use it to finish off escaping enemy heroes, to block them from escaping or finally to stun-lock one enemy if you are 1vs1.
+If you are lucky enough it`s in fact possible to stun-lock someone for 7 or more seconds! (initial charge plus a lucky grater bash plus nether strike plus another gs)"
+		}
+	}
+}

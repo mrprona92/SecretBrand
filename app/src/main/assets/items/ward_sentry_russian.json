@@ -1,0 +1,16 @@
+{
+  "dotaId": "ward_sentry",
+  "id": 43,
+  "img": "ward_sentry_lg.png",
+  "dname": "Sentry Ward",
+  "qual": "consumable",
+  "cost": 200,
+  "desc": "Использование: устанавливает Sentry Ward, невидимого стража, который имеет способность True Sight, раскрывающую невидимых юнитов в близлежащей местности. Действует 4 мин.<br/><br/>Чтобы передать один Sentry Ward союзному герою, удерживайте клавишу Ctrl.",
+  "notes": "",
+  "attrib": "ДАЛЬНОСТЬ TRUE SIGHT: 850<br/>ДЛИТЕЛЬНОСТЬ (В МИНУТАХ): 4",
+  "mc": false,
+  "cd": 1,
+  "lore": "Вид растения, которое когда-то росло в саду трусливого короля.",
+  "components": null,
+  "created": false
+}

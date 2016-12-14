@@ -1,0 +1,126 @@
+{
+	"Hero":"bane",
+	"Title":"Support Bane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"ward_sentry",
+				"magic_stick",
+				"boots",
+				"dust",
+				"ward_observer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"soul_ring"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"gem",
+				"pipe",
+				"mekansm",
+				"blink",
+				"force_staff",
+				"ghost",
+				"necronomicon"
+			],
+			"Luxury Items":
+			[
+				"travel_boots",
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is a fantastic item to buy if the enemy has a very evasive hero that you wish to gank, such as an Anti-Mage or Queen of Pain.  Also this item lets you have much more room for creative positioning and teamfight initiation.",
+				"branches":"Branches make for good stats and as long as you have extra money in your starting build and an extra item slot you should buy them.",
+				"boots":"Make sure to buy boots when you can, it will keep you alive when the enemy carries are getting more active and mobile.  Make it a priority to get these as they can build into Arcane Boots which you will much need come the midgame.",
+				"gem":"Buy a gem for the lategame if you wish to exert map control and counter all of their wards, also the perfect counter to heroes like Riki or Bounty Hunter.",
+				"magic_stick":"A magic stick is extremely helpful in lane when you are very low on money, but very mana dependent.  The active ability on this item can keep you alive and fighting.",
+				"magic_wand":"A magic wand combines your branches and the active ability of your magic stick.  One of the most efficient items that a support can buy to tank up.",
+				"ghost":"Ghost scepter is a counter item for if your enemy team's carries are able to burst you down with their right-clicks.  Buy it towards the lategame if you wish you survive teamfights.",
+				"clarity":"Bane is one of the most mana hungry heroes in the game, so in this build I advise buying 3 clarities to start to guarantee that you can cast your nightmare and brain sap in a gank.",
+				"dust":"Buy dust if you are helping in a gank against either a Bounty Hunter, Broodmother, or other invis hero, don't let them waste your time by not getting dust!",
+				"ward_observer":"If you are playing a support Bane, it is your job to be buying the wards.  Place them in the correct places to give your mid rune vision, spot ganks on your babysat carry, and overall control the map.",
+				"ward_sentry":"Buy sentries if you must force a Broodmother or Bounty Hunter out of lane or kill them, or if you know where the enemy has warded.  It is also a good idea to place these preemptively in lanes once a hero like Riki or Nyx Assassin hit level 6.",
+				"tango":"Bane can get health from his enemies through bane sap so leverage that and Bane's above average starting health to keep yourself healthy rather than over-purchasing regen.",
+				"courier":"As a support it is your job to buy the courier, you will make good use of it, and your teammates will thank you for it!",
+				"tpscroll":"A TP scroll can save your life or those of your allies, if the enemy is diving one of your allies you can easily teleport and nightmare the enemy to save your ally or turn around the kill.  Never get caught without one.",
+				"travel_boots":"Boots of Travel are a fantastic lategame item, buy them if you need to use another item slot and have to get rid of your tp scrolls.",
+				"mekansm":"Mekansm is a necessary part to winning just about any game you play and especially so if you wish to teamfight and push early.  Buy it if no one on your team can.",
+				"flying_courier":"Supports must also buy the courier upgrade.  Your team will need it, so do not be stingy!",
+				"pipe":"Buy a pipe if you are facing very powerful nuking heroes like a Zeus or Queen of Pain.  However, prioritize the Mekansm over this if your team does not yet have one.",
+				"sheepstick":"Scythe of Vyse is one of the most powerful items in the game.  If your spells are not enough to disable the enemy team, get this in the lategame to end the game decisively.",
+				"force_staff":"Buy a Force Staff if you need to be able to get away from ganking heroes like Nyx Assassin or Riki, or even if you want an alternative to the Blink Dagger.",
+				"necronomicon":"Necronomicon is an item that allows you to do more damage to the enemy you are Fiend's Gripping while you are still channeling.  Also, at the 3rd level it gives truesight for those pesky gankers.  Overall and awesome, though expensive, item.",
+				"ultimate_scepter":"Buy this item if you need an even longer disable for the pesky enemy carry, HOWEVER only purchase after having a BKB  for an uninterrupted channel.",
+				"black_king_bar":"BKB is an effective way for you to get your ultimate ability, Fiend's Grip, off to its full duration.  Pick this up if you absolutely need to keep their carry in control such as an Anti-Mage, Queen of Pain, or other fed and mobile carry.",
+				"shivas_guard":"Shivas Guard is a good item for teamfight control and a powerful AoE nuke.  However, it is largely a luxury item.",
+				"soul_ring":"Soul ring is a useful alternative to Arcane Boots, so long as you are able to monitor your health total.  Brain sap will give you all your health back as soon as you activate soul ring, so make sure to!  Can be bought in conjunction with arcane boots as well.",
+				"arcane_boots":"Buy Arcane Boots, your allies will appreciate the mana and you need it as a hero.  However, if you cannot finish your mana boots you can also see the soul ring for a different source of mana, or if you are particularly rich, buy both."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_brain_sap",
+			"2":"bane_nightmare",
+			"3":"bane_brain_sap",
+			"4":"bane_enfeeble",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_brain_sap",
+			"8":"bane_enfeeble",
+			"9":"bane_enfeeble",
+			"10":"bane_enfeeble",
+			"11":"bane_fiends_grip",
+			"12":"bane_nightmare",
+			"13":"bane_nightmare",
+			"14":"bane_nightmare",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bane_enfeeble":"Enfeeble is an extremely underrated ability and I suggest maxing it second because if you can use it on the enemy carry they will hit like a baby kitten.",
+				"bane_brain_sap":"Brain Sap is a powerful nuke that does pure damage and heals you for the exact amount that it deals.  Always max it first as not only does it scale very well it also makes you extremely survivable.",
+				"bane_nightmare":"Nightmare is a powerful disable, but unreliable.  Not only that but the scaling only increases it by one second per level.  Take it early, and max it over getting stats, but put level in it last.",
+				"bane_fiends_grip":"Fiend's Grip is an extremely powerful disable that also drains mana while it is used.  Once you hit level 6 you can roam around the map and get kills every time this spell is off cooldown and no enemy around can disable it.  Make use of Bane once you hit 6 and your allies will love you.",
+				"attribute_bonus":"Stats are stats, Bane would rather have all his spells maxed out than get levels of stats."
+		}
+	}
+}

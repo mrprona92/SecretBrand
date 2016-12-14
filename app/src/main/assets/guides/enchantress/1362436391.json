@@ -1,0 +1,75 @@
+{
+	"Hero":"enchantress",
+	"Title":"DE3me Semi-Carry Ench",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"assault",
+				"heart"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"ancient_janggo",
+				"shivas_guard",
+				"sphere",
+				"sheepstick",
+				"rod_of_atos",
+				"heavens_halberd",
+				"blade_mail"
+			],
+			"Slow Game":
+			[
+				"hand_of_midas"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_natures_attendants",
+			"4":"attribute_bonus",
+			"5":"attribute_bonus",
+			"6":"enchantress_impetus",
+			"7":"enchantress_natures_attendants",
+			"8":"enchantress_natures_attendants",
+			"9":"enchantress_untouchable",
+			"10":"attribute_bonus",
+			"11":"enchantress_impetus",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"enchantress_untouchable",
+			"21":"enchantress_untouchable",
+			"22":"enchantress_untouchable",
+			"23":"enchantress_enchant",
+			"24":"enchantress_enchant",
+			"25":"enchantress_enchant"
+		}
+	}
+}

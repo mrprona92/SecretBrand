@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Void",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает разрушительный вакуум, который замедляет вражеского юнита и наносит урон. Ночью замедление длится дольше. Способность кратковременно оглушает врага, прерывая используемые заклинания.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">90/160/255/335</font></b>",
+        "attrib": "ПРОДОЛЖИТЕЛЬНОСТЬ ДНЕМ: <b><font color=\"#ffffff\">2/2/2/2</font></b><br/>ПРОДОЛЖИТЕЛЬНОСТЬ НОЧЬЮ: <b><font color=\"#ffffff\">4/4/4/4</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">50/50/50/50</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8",
+        "lore": "Баланар яростно погружает врагов в воронку когда-то вечной тьмы.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_void",
+        "youtube":"HPu40Ahpefw",
+        "id": 0
+    },
+    {
+        "dname": "Crippling Fear",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Night Stalker вселяет ужас во вражеского героя, что заставляет его промахиваться и запрещает ему произносить заклинания. Ночью эффект длится дольше.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ПРОДОЛЖИТЕЛЬНОСТЬ ДНЕМ: <b><font color=\"#ffffff\">3/3/3/3</font></b><br/>ПРОДОЛЖИТЕЛЬНОСТЬ НОЧЬЮ: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>ШАНС ПРОМАХНУТЬСЯ ДНЕМ: <b><font color=\"#ffffff\">10%/10%/10%/10%</font></b><br/>ШАНС ПРОМАХНУТЬСЯ НОЧЬЮ: <b><font color=\"#ffffff\">50%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Искаженная пасть Баланара навсегда останется в памяти тех несчастных, кто осмелился перейти ему дорогу.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_crippling_fear",
+        "youtube":"1i9z1rYqmZg",
+        "id": 1
+    },
+    {
+        "dname": "Hunter in the Night",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Ночью Night Stalker — как рыба в воде: атакует и передвигается с еще большей скоростью.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">45/60/75/90</font></b>",
+        "cmb": "",
+        "lore": "Охотничье мастерство Баланара возрастает с наступлением ночи.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_hunter_in_the_night",
+        "youtube":"S2Br_dswVZY",
+        "id": 2
+    },
+    {
+        "dname": "Darkness",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Night Stalker подавляет солнечный свет, создавая непроглядную тьму, в которой он раскрывает свои силы в полной мере. При использовании снижает радиус обзора вражеских героев, юнитов, вардов и зданий до 675.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">50</font></b><br/>РАДИУС ОБЗОРА ПРОТИВНИКОВ: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 160/120/80",
+        "lore": "Жалкое зрелище, когда сильнейшие из воинов начинают бояться темноты.",
+        "hurl": "Night_Stalker",
+        "name": "night_stalker_darkness",
+        "youtube":"xuCoHHo_pJw",
+        "id": 3
+    }
+]

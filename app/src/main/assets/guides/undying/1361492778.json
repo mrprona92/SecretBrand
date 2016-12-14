@@ -1,0 +1,92 @@
+{
+	"Hero":"undying",
+	"Title":"Undy = Team-fight winner ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"Lane Phase":
+			[
+				"boots",
+				"urn_of_shadows",
+				"stout_shield",
+				"orb_of_venom"
+			],
+			"Just-Roam-&-Gank Phase":
+			[
+				"arcane_boots",
+				"vanguard",
+				"blade_mail"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"pipe",
+				"assault",
+				"heavens_halberd",
+				"sange_and_yasha",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"vladmir":"Depends on who are the carriers on your team. They might thanks that you get this for them.",
+				"pipe":"Against a magic-based team you need to be capable to endure more time.",
+				"urn_of_shadows":"Both supportive and offensive uses are useful.",
+				"blade_mail":"No one wants to hit you with your ultimate and this turned on. Return DMG + Amplify",
+				"arcane_boots":"You cant get out of mana, never!",
+				"orb_of_venom":"Excellent for ganking. Tower slow + venom slow makes an easy gank.",
+				"heavens_halberd":"Perfect for disable a right-click carry with high damage, and also the evasion helps you to stay more in the fight."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_tombstone",
+			"2":"undying_decay",
+			"3":"undying_tombstone",
+			"4":"undying_soul_rip",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_tombstone",
+			"8":"undying_decay",
+			"9":"undying_soul_rip",
+			"10":"undying_decay",
+			"11":"undying_flesh_golem",
+			"12":"undying_decay",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Its the second priority because each level it lowers the cooldown, so we can steal more and more STR. Less STR = Less HP = Easier to kill, and for some heroes, Less HP = Less DMG",
+				"undying_soul_rip":"Remember to use it to heal allies, mostly when there is a crowd of creeps or heroes. Bigger crowd = Bigger heal",
+				"undying_tombstone":"Use it when the fight initiates, not before because the other team will run away and make you waste it. Place it in the right spot because the more time its working, the more chances you have to win the team fight",
+				"undying_flesh_golem":"Iniciate all the fights with this skill, this will heal you up, slow enemies near you and amplify the DMG they get. Will help a lot used with Decay to make you a incredible tank."
+		}
+	}
+}

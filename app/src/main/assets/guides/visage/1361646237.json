@@ -1,0 +1,104 @@
+{
+	"Hero":"visage",
+	"Title":"Visage Mid Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"blades_of_attack",
+				"branches",
+				"tango"
+			],
+			"Really Early Game":
+			[
+				"bottle"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"blades_of_attack",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Optional early game":
+			[
+				"ring_of_basilius"
+			],
+			"Core items":
+			[
+				"ultimate_scepter"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"skadi",
+				"assault",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blades_of_attack":"Need the blades of attack to do the extra damage   so you can lasthit to get the bottle as fast as possible.",
+				"boots":"Try to get all the early game items together so you don't hog the courier to much",
+				"bottle":"As fast as possible.",
+				"tpscroll":"Always carry tps to gank, always good to have.",
+				"travel_boots":"Great late game item, lets you teleport anywhere on the maps ( thanks to the familars, since you can teleport to them with boots of travel )",
+				"ring_of_basilius":"Adds armor to your familars, and can help you last hit with the extra damage.
+I do not get it all the time but it is a really good item on visage, highly recommand but skippable item.",
+				"ultimate_scepter":"The best item on visage in my opinion, let's you have a third familar which is goddamn amazing.
+
+Get Point booster first.
+then ogre club.
+then staff of wizardry.
+then blade of alacrity.",
+				"skadi":"Great item that makes you tankier and slow the enemies."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_gravekeepers_cloak",
+			"2":"visage_grave_chill",
+			"3":"visage_soul_assumption",
+			"4":"visage_soul_assumption",
+			"5":"visage_soul_assumption",
+			"6":"visage_summon_familiars",
+			"7":"visage_soul_assumption",
+			"8":"visage_grave_chill",
+			"9":"visage_grave_chill",
+			"10":"visage_grave_chill",
+			"11":"visage_summon_familiars",
+			"12":"visage_gravekeepers_cloak",
+			"13":"visage_gravekeepers_cloak",
+			"14":"visage_gravekeepers_cloak",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"visage_grave_chill":"Good slow that can help you rune control in the lane, you can get this at level 1 if you you're going to do a level 1 gank.",
+				"visage_soul_assumption":"An amawing spell damage spell. But you need to make sure you know how to use it cause you cant waste a lot of mana if you don't know how to use it ( more yellow boxes that are filled, more damage this spell is gonna do )",
+				"visage_gravekeepers_cloak":"Great spell that makes you tanky. you should get this instead of grave chill at 8-9-10 if you against somebody who got good spell power ( like rocket Tinker), cause this spell gives you good magic resistance.",
+				"visage_summon_familiars":"DO NOT FEED THESE, they give 100 gold each.
+If used correctly they will kill any hero really easy.
+They have extremely high magic resistance (96.25%) but very low physical resistance, so be carefull against physical spells or pure damage spells.
+Also helps to have rune control "
+		}
+	}
+}

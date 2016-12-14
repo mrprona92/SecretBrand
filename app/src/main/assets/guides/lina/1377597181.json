@@ -1,0 +1,95 @@
+{
+	"Hero":"lina",
+	"Title":"Burn",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"circlet",
+				"mantle",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"null_talisman",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"bloodstone"
+			],
+			"Интелект":
+			[
+				"sheepstick",
+				"dagon",
+				"shivas_guard"
+			],
+			"Bots":
+			[
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Все те же \"Травалы\". Помогут уйти от неприятеля порталом либо же просто бегом .",
+				"phase_boots":"Довольно быстрый сапог и добавит немного урона.",
+				"null_talisman":"Понадобится для дагона.",
+				"sheepstick":"Все тот же интелект и \"зверушка\".",
+				"dagon":"Нужная \"Лине\" вещь, во первых добавит интелекта, во вторых это как ее вторая ульта (постепенно покупаем до дагона последнего лвл).",
+				"ultimate_scepter":"Аганим\" заметно увеличит мощность ульты, просто необходимый итем.
+",
+				"shivas_guard":"Инткелект и 200 урона в определенном радиусе.",
+				"bloodstone":"Блудстоун\" увеличит ваше хп и ману, а так же их реген."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_light_strike_array",
+			"4":"lina_dragon_slave",
+			"5":"lina_fiery_soul",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_fiery_soul",
+			"10":"lina_dragon_slave",
+			"11":"lina_laguna_blade",
+			"12":"lina_light_strike_array",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lina_dragon_slave":"Выпускает огненую волну в указаную точку и наносит достаточно много урона.",
+				"lina_light_strike_array":"Стан направленный на точку. Очень выгоден так как можно застанить всех противников разом.",
+				"lina_fiery_soul":"Ускоряет вашу скорость атаки при использовании скилов.",
+				"lina_laguna_blade":" Ульта \"Лины\" с \"Аганимом\" выносит 1250 урона. Я думаю вы сами поняли да ?
+",
+				"attribute_bonus":"Все те же статы, тут разберетесь сами ок ?)"
+		}
+	}
+}

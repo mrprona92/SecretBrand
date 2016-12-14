@@ -1,0 +1,100 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Action Game / Hero Killing / Phantom Assasin",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"stout_shield",
+				"slippers",
+				"branches"
+			],
+			"Boots (one of, ofc :D)":
+			[
+				"phase_boots",
+				"power_treads"
+			],
+			"Lifesteal (One of)":
+			[
+				"helm_of_the_dominator",
+				"mask_of_madness",
+				"vladmir",
+				"lifesteal"
+			],
+			"Core items (One of)":
+			[
+				"bfury",
+				"basher"
+			],
+			"Situation items":
+			[
+				"armlet",
+				"monkey_king_bar",
+				"abyssal_blade",
+				"satanic",
+				"assault",
+				"heart",
+				"rapier",
+				"black_king_bar",
+				"invis_sword",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Nice item when don't take your passive-evasion",
+				"slippers":"Just +agility",
+				"branches":"+stats",
+				"lifesteal":"Just lifesteal. Good choice when you need lifesteal and nothing more,.",
+				"clarity":"Sometimes we need mana on dagger/blink",
+				"tango":"Eat it after kill =]",
+				"phase_boots":"When you have advantage on lane, you buy it and kill all MAP, +24 damage and +ms when you running for kill makes you best killer EU.",
+				"power_treads":"You can take it when you need someHPs. In general, item let you good stats.",
+				"vladmir":"A lot of good item. Working on team, let you armor, mp+hp regen, lifesteal",
+				"basher":"Nice for kills ",
+				"bfury":"I said in description - i don't like this item. For example take situation: you farming bf and end it in 14 mins, on enemy SafeLane void or jugger too take it - you will lose. That just my opinion, if you know - you can take it.",
+				"helm_of_the_dominator":"Lifesteal is nice choice for mortred. With her creets and lifesteal we can living in fight very long, so make you as good teamfighter.",
+				"mask_of_madness":"I guess, this is only situation item. You should know when you can buy this, cause for it -you will take +30 extra damage. For example: MoM turn on, you walking to fight and lina kill you from one laguna blade. Not nice, agree."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_phantom_strike",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_blur",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

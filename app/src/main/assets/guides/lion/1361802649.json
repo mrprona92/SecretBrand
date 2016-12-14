@@ -1,0 +1,90 @@
+{
+	"Hero":"lion",
+	"Title":"Noil",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"circlet",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"staff_of_wizardry",
+				"ring_of_regen",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"ultimate_scepter",
+				"mekansm",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"orchid",
+				"rod_of_atos",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"circlet":"Starting item for more attribute power",
+				"staff_of_wizardry":"One part for Aghanims Scepter",
+				"ring_of_regen":"Optional, it better if you play aggressive and need to take Tranquil Boots",
+				"boots":"Moving faster",
+				"courier":"Support item",
+				"travel_boots":"A replacement for Tranquil Boots",
+				"null_talisman":"Optional. For those who think they have enough money to get extra attributes",
+				"mekansm":"For those who like to go support",
+				"sheepstick":"Like Aghanims Scepter a very good item for Lion. Not really recommended to combine with Orchi Malevolence",
+				"orchid":"For those who like damage more than being all prepared on attributes. Not recommended to combine with Scythe of Wise.",
+				"ultimate_scepter":"Come on. Who would waive this item?",
+				"blade_mail":"Very optional. For those who mean to destroy the whole game",
+				"rod_of_atos":"Optional, but good for low lifes like Lion",
+				"tranquil_boots":"Recommended, but optional if you like to go on Boots of Travel"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_mana_drain",
+			"3":"lion_impale",
+			"4":"lion_voodoo",
+			"5":"lion_mana_drain",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_voodoo",
+			"9":"lion_impale",
+			"10":"lion_mana_drain",
+			"11":"lion_finger_of_death",
+			"12":"lion_mana_drain",
+			"13":"attribute_bonus",
+			"14":"lion_voodoo",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"lion_voodoo",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

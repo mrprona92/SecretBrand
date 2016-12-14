@@ -1,0 +1,100 @@
+{
+	"Hero":"life_stealer",
+	"Title":"Lifestealer Jungling Guide [6.81]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"basher",
+				"maelstrom"
+			],
+			"luxury":
+			[
+				"abyssal_blade",
+				"mjollnir",
+				"heart",
+				"assault",
+				"monkey_king_bar",
+				"greater_crit",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"You do more damage to creeps.",
+				"stout_shield":"You take less damage from creeps and hero's",
+				"tango":"This for helping you stay alive while killing medium - large camps.",
+				"travel_boots":"A TP scroll eating up your slot? Get these to replace your boots and free up that 1 slot for another big item!",
+				"phase_boots":"Get this for your boots.",
+				"hand_of_midas":"Get the gloves of haste ASAP then receipe",
+				"assault":"Gives you nice armor and attack speed for you and your teammates. -5 Armor on enemy and buildings. Sweet",
+				"heart":"Gives you a load of health and a good amount of damage.",
+				"monkey_king_bar":"Enemy got evasion? Or just want some nice damage,attack speed and a mini bash? This is your man.",
+				"greater_crit":"Crits + Damage? Good lord.",
+				"basher":"I would normally go for this first but maelstrom or this first is fine.",
+				"armlet":"This is the item you wanna go after Phase Boots",
+				"mjollnir":"More attackspeed/dmg? This is your man.",
+				"maelstrom":"Go for this or the Skull Basher first, I would go for the Skull Basher first.",
+				"abyssal_blade":"This gives you a lockdown and some time for you to kill them "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_feast",
+			"2":"life_stealer_rage",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_open_wounds",
+			"5":"life_stealer_rage",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_rage",
+			"8":"life_stealer_rage",
+			"9":"life_stealer_open_wounds",
+			"10":"life_stealer_open_wounds",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_open_wounds",
+			"13":"life_stealer_feast",
+			"14":"life_stealer_feast",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"life_stealer_rage":"Allows you to kill faster and escape when somebody comes and disturbs your farm.",
+				"life_stealer_feast":"Allows you to get life when you do damage.",
+				"life_stealer_open_wounds":"Slows down the enemy or gives you a huge health lifesteal back when you're doing damage.",
+				"life_stealer_infest":"You can enter into a big creep and come out causing him to die and back to full hp!",
+				"life_stealer_consume":"SUPRISE MOTHERFUCKERS",
+				"attribute_bonus":"yeah.. stats.."
+		}
+	}
+}

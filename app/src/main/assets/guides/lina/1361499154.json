@@ -1,0 +1,115 @@
+{
+	"Hero":"lina",
+	"Title":"Semi-carry Lina",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"magic_wand",
+				"phase_boots",
+				"pers"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"desolator"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"sphere",
+				"pipe",
+				"travel_boots",
+				"heart",
+				"sheepstick",
+				"force_staff"
+			],
+			"Misc":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"gem",
+				"smoke_of_deceit",
+				"dust",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"For the Bracer.",
+				"branches":"For the Magic Wand.",
+				"gem":"Buy it if team needs it or ask a team mate to do it, but I don't recommend that you carry it.",
+				"magic_wand":"Very useful until you need the inventory space.",
+				"dust":"If you're dealing with stealth heroes is better to go with gem. Get wards instead if you're on laning phase. Only here for easy access.",
+				"ward_observer":"If you need vision.",
+				"ward_sentry":"For those nasty stealth lovers.",
+				"tpscroll":"Always useful.",
+				"travel_boots":"If games gets too long sell Phase Boots and get these.",
+				"phase_boots":"Great for faster movement and escape.",
+				"pers":"Perseverance first for the Bloodstone.",
+				"bracer":"Good for early game, sell when you need inventory space.",
+				"flying_courier":"If no one buys it in the mean time. Or if you have surplus gold.",
+				"pipe":"Spell resistance, also helps on team fights.",
+				"sheepstick":"Get this for control if necessary.",
+				"force_staff":"Might need this for certain heroes.",
+				"heart":"If you need to survive more.",
+				"bloodstone":"Crucial item, plenty of regeneration to spam spells, faster re-spawn times, faster experience and reduced loss of gold.
+
+After Perseverance get Point Booster first. ",
+				"sphere":"Get this to block nasty ultimate's, more regeneration.",
+				"greater_crit":"Increases your right click damage, no need to get the full Daedalus you can just get Crystalys. With core items plus this you should be able to destroy most heroes on 1vs1 fights.",
+				"desolator":"Right clicking like a truck.",
+				"smoke_of_deceit":"For team ganks."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_fiery_soul",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_fiery_soul",
+			"9":"lina_fiery_soul",
+			"10":"lina_light_strike_array",
+			"11":"lina_laguna_blade",
+			"12":"lina_fiery_soul",
+			"13":"lina_light_strike_array",
+			"14":"lina_light_strike_array",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

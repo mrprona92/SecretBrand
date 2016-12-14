@@ -1,0 +1,20 @@
+{
+  "dotaId": "sheepstick",
+  "id": 96,
+  "img": "sheepstick_lg.png",
+  "dname": "Scythe of Vyse",
+  "qual": "rare",
+  "cost": 5675,
+  "desc": "Active: Hex - Turns a target unit into a harmless critter for 3.5 seconds. Instantly destroys illusions.",
+  "notes": "The target will have a base movement speed of 140, but buffs granting maximum movement speed won't be disabled.<br/>Hex disables damage block and evasion.",
+  "attrib": "+ 10 Strength<br/>+ 10 Agility<br/>+ 35 Intelligence<br/>+ 150% Mana Regeneration<br/>HEX DURATION: 3.5",
+  "mc": 100,
+  "cd": 35,
+  "lore": "The most guarded relic among the cult of Vyse, it is the most coveted weapon among magi.",
+  "components": [
+    "mystic_staff",
+    "ultimate_orb",
+    "void_stone"
+  ],
+  "created": true
+}

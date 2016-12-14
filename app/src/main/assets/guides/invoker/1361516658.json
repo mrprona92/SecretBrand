@@ -1,0 +1,105 @@
+{
+	"Hero":"invoker",
+	"Title":"Movespeed Wex/Quas Invoker (Ganker/Disabler)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"blades_of_attack",
+				"flask",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"bracer",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"force_staff",
+				"sheepstick",
+				"skadi",
+				"travel_boots"
+			],
+			"All Random Starting Items":
+			[
+				"gauntlets",
+				"blades_of_attack",
+				"flask",
+				"clarity",
+				"clarity"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blades_of_attack":"Because you don't get Exort early, the Blades help supplement your disgustingly low starting attack damage and help you get the last hits you need to build the early core.",
+				"gauntlets":"A first step toward your bracer is a good use of the bonus gold in All Random games.",
+				"branches":"A branch is a great way to spend the last bit of your early gold for a small boost in stats. It's a good investment, even if you have to destroy it or sell it later to make room for a TP scroll or other items.",
+				"sobi_mask":"The extra bit of mana regen from the Sage's Mask is significant enough to allow for lane dominance and/or ganking mobility without visits to the fountain to recharge.",
+				"clarity":"Bonus mana regen in the early game when you have empty slots? Yes, please!",
+				"flask":"A Salve works great for burst health regeneration at the start since you get constant health regeneration from the early levels in Quas. A set of Tangoes is another good option to start with. Choosing between the two can come down to who you may be laning against in the mid lane.",
+				"tango":"Tangoes are a great alternative to the Salve if your enemy in mid is harassing very heavily, but you do not need to stay at max health to avoid a gank.",
+				"travel_boots":"Boots of Travel will max out your movespeed and allow the global awareness that is needed in a late-running game.",
+				"phase_boots":"Phase Boots provide a huge boost to your auto attack damage so you aren't missing out on last hits and the harass damage. Additionally, the extra movespeed helps when hunting runes and moving quickly between the lanes to gank.",
+				"bracer":"Combined with the early skill points in Quas, a Bracer provides a substantial amount of health for early skirmishing and tower diving when necessary. Also a prerequisite to the Drum of Endurance.",
+				"sheepstick":"More mana regen than could ever be needed and a fantastic use that stacks very nicely with Invoker's other spells to help disable an entire team, the Scythe is always a great choice.",
+				"cyclone":"Staying consistent with the movespeed theme of this build, Eul's Scepter increase movespeed and grants a large amount of mana regen that Invoker needs to be effective. In addition, the active use has many offensive options as well as applications to increase survivability.",
+				"force_staff":"The stats on Force Staff are nice, but the endless possibilities of the active use make this item a near-essential piece to any Invoker build.",
+				"ultimate_scepter":"While the reduced cooldown for Invoke is fantastic, the best part of the Aghanim's Scepter upgrade is the elimination of any mana cost. To make use of Invoker's versatility, the ability to quickly switch between spells without emptying your mana pool is necessary.",
+				"skadi":"Great stats. Extremely useful orb effect. Extremely late-game luxury.",
+				"ancient_janggo":"The aura effect is significant enough that every team should have a Drum. The stats provided from a Drum surpass that of an Ultimate Orb in the same slot  Additionally, the movespeed provided in this build combined with Wex points gives near-max movespeed."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_quas",
+			"2":"invoker_invoke",
+			"3":"invoker_wex",
+			"4":"invoker_quas",
+			"5":"invoker_wex",
+			"6":"invoker_wex",
+			"7":"invoker_invoke",
+			"8":"invoker_wex",
+			"9":"invoker_wex",
+			"10":"invoker_quas",
+			"11":"invoker_wex",
+			"12":"invoker_invoke",
+			"13":"invoker_wex",
+			"14":"invoker_exort",
+			"15":"invoker_quas",
+			"16":"invoker_quas",
+			"17":"invoker_invoke",
+			"18":"invoker_quas",
+			"19":"invoker_quas",
+			"20":"invoker_exort",
+			"21":"invoker_exort",
+			"22":"invoker_exort",
+			"23":"invoker_exort",
+			"24":"invoker_exort",
+			"25":"invoker_exort"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_quas":"Use your Cold Snap early to harass and gank. Whenever not at full health, keep some Quas orbs up to boost your health regen.",
+				"invoker_wex":"Maxing Wex early makes ganking much easier because of the increased movespeed. Your last hitting will also improve when combined with the attack damage you are getting from your items. Combine Tornado followed by Cold Snap for early ganks and kills.",
+				"invoker_exort":"You can always grab some Exort earlier in the build if you really need the extra damage or the availability of the additional spells early.",
+				"invoker_invoke":"Always level it whenever you can!"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "attrib": "+ 9 к регенерации здоровья<br/>+ 30% к сопротивлению магии",
+  "cd": false,
+  "components": [
+    "ring_of_health",
+    "cloak",
+    "ring_of_regen",
+    "ring_of_regen"
+  ],
+  "qual": "epic",
+  "notes": "Сочетается с другими непредметными источниками сопротивления магии.",
+  "desc": "Различные типы защиты от заклинаний с помощью предметов не суммируются.",
+  "dname": "Hood of Defiance",
+  "dotaId": "hood_of_defiance",
+  "mc": false,
+  "img": "hood_of_defiance_lg.png",
+  "lore": "Покрытый мехом головной убор, который ограждает владельца от разрушительного воздействия магии.",
+  "id": 131,
+  "created": true,
+  "cost": 2125
+}

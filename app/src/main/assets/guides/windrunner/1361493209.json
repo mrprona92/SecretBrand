@@ -1,0 +1,92 @@
+{
+	"Hero":"windrunner",
+	"Title":"Windrunner Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"ward_observer",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"magic_wand",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"orchid",
+				"sheepstick",
+				"cyclone",
+				"rod_of_atos",
+				"mekansm"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"In order to finish off a Basilius from the side shop.",
+				"ward_observer":"To block the enemy pull camp and/or ward the rune spot.",
+				"phase_boots":"Or if you prefer the extra HP, you can get Power Treads instead.",
+				"mekansm":"If no one on your team is getting it, consider buying it. You are a utility hero after all :)",
+				"sheepstick":"Great item if you are having a good game and have lots of money.",
+				"orchid":"If you feel you need to do a bit more damage with your attacks or you need the silence. It comes in nice and cheap.",
+				"cyclone":"Relatively cheap item which increases your mana regen by a lot and allows you to land a perfect Powershot.",
+				"force_staff":"Core item as you need to be able to position yourself for Shackleshot, also chase and escape. Could be replaced by a Blink Dagger.",
+				"rod_of_atos":"If you need some extra HP."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_windrun",
+			"12":"windrunner_windrun",
+			"13":"attribute_bonus",
+			"14":"windrunner_focusfire",
+			"15":"windrunner_focusfire",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"If you are in fear you might get killed early, grab a point in this at level 2, rather than waiting until 4. It hinders your damage output however, as you will have a lower level in your Powershot until level 4.",
+				"windrunner_powershot":"Your only nuke, should be maxed asap. It is also a defensive mechanism - you can use it to get last hits and harass from afar without endangering yourself.",
+				"windrunner_windrun":"Primary escape, should get it first in 99% of the games.",
+				"windrunner_focusfire":"Mainly useful late game and to destroy towers. Early points in it are a waste most of the time."
+		}
+	}
+}

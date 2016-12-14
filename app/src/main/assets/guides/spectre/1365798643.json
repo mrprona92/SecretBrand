@@ -1,0 +1,92 @@
+{
+	"Hero":"spectre",
+	"Title":"Spectre - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Radiance Rapido":
+			[
+				"boots",
+				"radiance",
+				"phase_boots"
+			],
+			"Si tardas en hacer Radiance":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"diffusal_blade"
+			],
+			"Partida avanzada":
+			[
+				"butterfly",
+				"manta",
+				"heart"
+			],
+			"Situacionales":
+			[
+				"assault",
+				"black_king_bar",
+				"vladmir",
+				"monkey_king_bar",
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"radiance":"Intentar sacarlo antes del minuto 20 aprox. Si no ve a por la Hoja Difusora."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_dispersion",
+			"2":"spectre_spectral_dagger",
+			"3":"spectre_dispersion",
+			"4":"spectre_spectral_dagger",
+			"5":"spectre_dispersion",
+			"6":"spectre_haunt",
+			"7":"spectre_dispersion",
+			"8":"spectre_spectral_dagger",
+			"9":"spectre_spectral_dagger",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_desolate",
+			"13":"spectre_desolate",
+			"14":"spectre_desolate",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"Usarlo cuando marcas el heroe que quieres matar (si esta escapando le haras que no pueda ir tan rapido). MUY util para escapar a traves de arboles o barrancos si te estan atacando o persiguiendo.",
+				"spectre_desolate":"Te permitira gankear a heroes solos. Especialmente util cuando usas tu ulti y vas a por un heroe que no tenga aliados cerca.",
+				"spectre_dispersion":"Refleja ataques a los enemigos.",
+				"spectre_haunt":"Crea una ilusion junto a cada enemigo que puedes convertir en ti para ir rapidamente. Genial para teamfights y para escapar incluso. Con el randiance todas tus ilusiones tienen aura de fuego, lo que es muy bestia."
+		}
+	}
+}

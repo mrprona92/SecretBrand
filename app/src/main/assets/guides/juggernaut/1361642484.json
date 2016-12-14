@@ -1,0 +1,111 @@
+{
+	"Hero":"juggernaut",
+	"Title":"6.82 - Standard Juggernaut (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"magic_wand"
+			],
+			"Core Items - Carry":
+			[
+				"phase_boots",
+				"bfury",
+				"desolator"
+			],
+			"Core Items - Aghanim's":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"sange_and_yasha"
+			],
+			"Extension Items":
+			[
+				"abyssal_blade",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Pick this up if having trouble last-hitting/farming.",
+				"ultimate_scepter":"Aghanmin's  on Juggernaut is not too bad. It makes your Omnislash ability incredibly powerful and to last a long time, keeping you out of the way of damage, but also dealing a ton of damage to opponent's around you.",
+				"black_king_bar":"Typically good if you are going for Pure Carry to avoid being disabled or hexed.",
+				"butterfly":"Butterfly makes you an incredibly auto-attack with insane dodge and stronger critical strikes. Be sure to use Flutter to engage foes who can flee easily or to run away from ganking teams!",
+				"bfury":"This item is used for farming. Get it as soon as possible. It works great with your critical effect and damage.",
+				"sange_and_yasha":"A good substitute if you can't reach for bigger items.",
+				"desolator":"In combination with Battle Fury, you'll be destroying teams incredibly fast.",
+				"ancient_janggo":"Drums of Endurance with Phase Boots gives you incredible speed and last-hitting strength to farm your Aghanim's Scepter fast at a minimal cost.",
+				"abyssal_blade":"Keep enemies down and disabled with Abyssal Blade (and Basher). Abyssal Blade gives Juggernaut even more damage and tears down rivaling carries who are also competing to carry their team.",
+				"tranquil_boots":"If getting harassed heavily, Tranquil boots may be your fix."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"attribute_bonus",
+			"3":"juggernaut_blade_fury",
+			"4":"juggernaut_healing_ward",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_healing_ward",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_healing_ward",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_blade_dance",
+			"15":"juggernaut_blade_dance",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Try to avoid abusing this ability to try and snag early kills unless confident with your ally. Blade Fury also serves as a nice escape for you as no one can stun or disrupt you during the sequence. If ganked: Use Blade Fury and follow it up with a TP scroll.",
+				"juggernaut_healing_ward":"Don't underestimate Healing Ward. It is an incredible ability that can make your team incredibly safe. If not destroyed, the heal from Healing Ward would heal them for 6% of their max health (Heart of Tarrasque is only 2%)
+
+At the start, use it to keep in the lane.",
+				"juggernaut_omni_slash":"Try to avoid using this when near creeps or units. Omnislash does immense damage and can kill most frail heroes if used only on him/her. Omnislash also has a ministun so make use of that to cancel channeling spells.",
+				"attribute_bonus":"Stats are obtained to help with his last-hitting/farm and increase his mana pool slightly."
+		}
+	}
+}

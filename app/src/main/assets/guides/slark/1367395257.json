@@ -1,0 +1,74 @@
+{
+	"Hero":"slark",
+	"Title":"GreyShark.Slark",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"magic_stick",
+				"ring_of_protection",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_basilius",
+				"boots",
+				"magic_wand"
+			],
+			"Mid Game":
+			[
+				"power_treads",
+				"orb_of_venom",
+				"yasha",
+				"basher",
+				"vladmir"
+			],
+			"Late Game":
+			[
+				"sange_and_yasha",
+				"skadi",
+				"butterfly",
+				"abyssal_blade"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_essence_shift",
+			"3":"slark_pounce",
+			"4":"slark_dark_pact",
+			"5":"slark_pounce",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_dark_pact",
+			"9":"slark_dark_pact",
+			"10":"slark_dark_pact",
+			"11":"slark_shadow_dance",
+			"12":"slark_essence_shift",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Berserker's Rage",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, переключаемая</font></b>",
+        "desc": "Позволяет троллю использовать свои метательные топоры в ближнем бою. При этом повышается наносимый героем урон, его скорость атаки и передвижения, он получает дополнительное здоровье, броню и шанс оглушить цель при атаке. Berserker's Rage также изменяет свойства способности Whirling Axes.",
+        "notes": "Оглушение действует на врагов, невосприимчивых к заклинаниям.<br/>Не складывается с эффектом от артефакта Skull Basher.<br/>Перезарядка Manta Style будет зависеть от того, в какой форме Troll Warlord находился во время использования предмета.",
+        "dmg": "",
+        "attrib": "ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10/20/30/40</font></b><br/>ЗАДЕРЖКА ПЕРЕД АТАКОЙ: <b><font color=\"#ffffff\">1.55</font></b><br/>ДОП. ЗДОРОВЬЕ: <b><font color=\"#ffffff\">100</font></b><br/>ДОП. БРОНЯ: <b><font color=\"#ffffff\">3</font></b><br/>ШАНС ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">10%</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">0.8/1.2/1.6/2</font></b><br/>УРОН ОТ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">20/30/40/50</font></b>",
+        "cmb": "",
+        "lore": "У Troll Warlord нескончаема как злоба, так и топоры.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_berserkers_rage",
+        "youtube":"5hm9QkwMsuk",
+        "id": 0
+    },
+    {
+        "dname": "Whirling Axes (дальний бой)",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Тролль бросает пять топоров веером на расстояние 900, замедляя врагов и нанося им урон.",
+        "notes": "Доступна только при дальней атаке.<br/>Обе способности перезаряжаются независимо.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">75</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">3/3.75/4.5/5.25</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">30%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/19/18/17",
+        "lore": "Лишь ненависть может дать силы так смертоносно вращать топоры.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_whirling_axes_ranged",
+        "youtube":"pqe5QcZDAEE",
+        "id": 1
+    },
+    {
+        "dname": "Whirling Axes (ближний бой)",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Troll вращает два топора вокруг себя в небольшом радиусе действия, нанося урон вражеским существам и заставляя их промахиваться во время атак.",
+        "notes": "Доступна только в ближнем бою.<br/>Обе способности перезаряжаются независимо.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">75/125/175/225</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">450</font></b><br/>ДЛИТЕЛЬНОСТЬ ПРОМАХОВ: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>ШАНС ПРОМАХА: <b><font color=\"#ffffff\">60%</font></b><br/>ДЛИТЕЛЬНОСТЬ ВРАЩЕНИЯ: <b><font color=\"#ffffff\">3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_whirling_axes_melee",
+        "youtube":"x9u8gk8vczg",
+        "id": 2
+    },
+    {
+        "dname": "Fervor",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Каждый последующий удар по одной и той же цели увеличивает скорость атаки тролля. Если тролль сменит цель, бонус обнулится.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "МАКС. КОЛ-ВО: <b><font color=\"#ffffff\">4</font></b><br/>СКОРОСТИ АТАКИ ЗА УДАР: <b><font color=\"#ffffff\">16/22/28/34</font></b>",
+        "cmb": "",
+        "lore": "Если не удалось в первый раз — бей, бей еще.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_fervor",
+        "youtube":"Ba5LZHZaAts",
+        "id": 3
+    },
+    {
+        "dname": "Battle Trance",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Присутствие тролля на поле битвы повышает скорость атаки героя и всех его союзников. ",
+        "notes": "Не действует на иллюзии.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5</font></b><br/>СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">60/120/180</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/75/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30",
+        "lore": "Всплеск адреналина, вызванный чистой злобой, ускорит твои лезвия.",
+        "hurl": "Troll_Warlord",
+        "name": "troll_warlord_battle_trance",
+        "youtube":"YLDwkaESv9U",
+        "id": 4
+    }
+]

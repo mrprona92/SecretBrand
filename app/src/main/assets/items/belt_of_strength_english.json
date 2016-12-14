@@ -1,0 +1,16 @@
+{
+  "dotaId": "belt_of_strength",
+  "id": 17,
+  "img": "belt_of_strength_lg.png",
+  "dname": "Belt of Strength",
+  "qual": "component",
+  "cost": 450,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 6 Strength",
+  "mc": false,
+  "cd": false,
+  "lore": "A valued accessory for improving vitality.",
+  "components": null,
+  "created": false
+}

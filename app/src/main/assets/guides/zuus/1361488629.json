@@ -1,0 +1,107 @@
+{
+	"Hero":"zuus",
+	"Title":"Electric Dwarf!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"gauntlets",
+				"circlet"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"bracer",
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"Late Game ":
+			[
+				"refresher",
+				"sheepstick",
+				"veil_of_discord",
+				"ethereal_blade",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"All good pubstars know the value of some twigs.",
+				"boots":"You're going to need these, but try to get your bottle first. Boots can come once you're comfortable sitting in the lane, dealing consistent harass damage and tanking their harass with a bottle.",
+				"magic_wand":"Really handy for getting out of sticky situations. Try to let it build up, it caps out at 15 charges. You can use on Zeus to get that one last nuke that does surprisingly large damage.",
+				"clarity":"Clarities ensure you can get those precious last hits in the lane with your chain lightning.Spam that electric!
+
+If the enemy has a magic wand, consider not spamming electric as much because it charges their wand up.",
+				"flask":"A refreshing salve. This stuff is the bomb, but don't get hit while drinking it, you'll lose its benefits. Seriously this stuff is like crack.",
+				"bottle":"Bottles are vital if you're mid, but even on the outer lanes it provides a consistent source of replenishment. ",
+				"tango":"In case you take gradual harass, you should tango up so you can mitigate the damage. ",
+				"bracer":"These things are optional, but get as many as you need. If they have a hero who seems to take you out too fast, a bracer will add precious seconds to their attack, letting your team react and you get more spells out.",
+				"sheepstick":"If they have a carry who needs disabling, a hex is good. However, Zeus does not handle a scythe of vyse well, as he lacks mobility. Consider letting your team farm instead of you once you get refresher aghs.",
+				"force_staff":"Force is a defensive item on Zeus. He shouldn't need to chase, he should be able to use the ulti to pick of stragglers. If you get force, it's best to save it for escaping because someone else on your team should be initiating.",
+				"ultimate_scepter":"Aghs is fantastic, it adds about 200 damage to the ulti, which is an extra 1000 to everyone on the map. It's strong, and it can half the health of their supports if you get it early. Even late game, this item makes Zeus' ultimate relevant.",
+				"refresher":"Refresher to use the ultimate twice in a row. That's a lot of damage which hits everyone on the map. A lot. Like 600 to every enemy, twice. That's what, 6000 damage. ",
+				"blade_mail":"Zeus has surprisingly high strength gain, so blademail can make hitting you very painful. At this point, you throw out all your spells, and then throw yourself into the middle of the fight with blademail on, hoping to deal as much damage as possible. It works well, but you probably die. ",
+				"ethereal_blade":"This pumps your nuke damage into the stratosphere, but it costs a lot. You should also be using it on enemy carries who hate being unable to attack. ",
+				"arcane_boots":"Arcanes let you spam all day err' day. If you have KotL, Outworld Devourer, or Crystal Maiden, you don't need these as much because they'll pump you full of mana. ",
+				"veil_of_discord":"Veil adds magic damage, and all of Zeus' abilities do magic damage. You can get this before you get aghs if you want, but it's not going to do much if you're using the ulti to hit someone across the map. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"This is great in lane, and after the laning phase turns fairly bad. It's a low damage but very spammable spell, but you should aim to use your other spells to kill heroes if you're strapped for time. Use it to farm and push lanes though, it's not bad at that.",
+				"zuus_lightning_bolt":"Bread and butter nuke, but it ministuns and gives full vision of the target for 3 seconds. If they're about to go to juketown or invis, use this to get vision and your team will thank you. It does very high damage, so you can generally outburst a lot of other heroes early on.",
+				"zuus_static_field":"This makes spamming your spells even more effective. Early game it's not high damage, but it's free damage. It costs you nothing extra to have this passive going on, and if the enemy has high health, this can actually do more damage than your ultimate does. ",
+				"zuus_thundergods_wrath":"Early game, use this once the enemy goes below 150 to net a kill. This accounts for magic resistance. In teamfights, use it before you die and you've done all you can really. It reveals all enemy heroes on the map, without question, but won't damage invisible heroes, only shows where they are.",
+				"attribute_bonus":"You can opt for stats instead of more chain lightning levels, but realistically the extra damage from chain lightning being leveled will always be more valuable than stats. If you really need +38 health, by all means go for it, but rarely is this going to make a difference."
+		}
+	}
+}

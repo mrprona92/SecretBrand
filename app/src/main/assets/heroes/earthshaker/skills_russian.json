@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Fissure",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Герой бьет по земле своим громадным тотемом, оставляя перед собой непроходимую каменную борозду, оглушая врагов и нанося им урон.",
+        "notes": "Крипы будут ждать, пока борозда исчезнет. Они не будут пытаться обойти ее.<br/>Linken's Sphere не блокирует эту способность.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">125/175/225/275</font></b>",
+        "attrib": "ДЛИНА БОРОЗДЫ: <b><font color=\"#ffffff\">1400</font></b><br/>ДЛИТЕЛЬНОСТЬ БОРОЗДЫ: <b><font color=\"#ffffff\">8</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/140/155/170<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+        "lore": "Силой земли нишианский тотем раскалывает поверхность до ядра планеты.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_fissure",
+        "youtube":"vTbNwc5Tqwc",
+        "id": 0
+    },
+    {
+        "dname": "Enchant Totem",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Заряжает тотем, увеличивая урон следующей атаки.",
+        "notes": "Дополнительный урон подсчитывается на основе базового урона и основной характеристики.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "ДОП. УРОН: <b><font color=\"#ffffff\">100%/200%/300%/400%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">14/14/14/14</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/30/40/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 5",
+        "lore": "Неукротимая мощь Рейгора способна крушить горы.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_enchant_totem",
+        "youtube":"OkSsLAN7mbk",
+        "id": 1
+    },
+    {
+        "dname": "Aftershock",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "При использовании героем любой способности сотрясает землю, нанося урон врагам поблизости и оглушая их.",
+        "notes": "Использование предметов не активирует Aftershock.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">50/75/100/125</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">300</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">0.6/0.9/1.2/1.5</font></b>",
+        "cmb": "",
+        "lore": "Земля содрогается от могучих шагов Рейгора.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_aftershock",
+        "youtube":"2xcM8xccDIs",
+        "id": 2
+    },
+    {
+        "dname": "Echo Slam",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "По земле распространяются ударные волны, наносящие урон врагам. Каждое попадание по врагу создает волновое эхо, которое наносит урон ближайшим врагам.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Не наносит урон юнитам в призрачной форме (например, под действием Ghost Form).<br/>Юниты получат урон от созданного ими же эха.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">160/210/270</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">575</font></b><br/>УРОН ОТ ЭХА: <b><font color=\"#ffffff\">40/55/70</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 145/205/265<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/130/110",
+        "lore": "Одним хлопком Рейгор разламывает тектонические плиты, скручивает горы и сминает недругов.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_echo_slam",
+        "youtube":"1_C9UkV-27s",
+        "id": 3
+    }
+]

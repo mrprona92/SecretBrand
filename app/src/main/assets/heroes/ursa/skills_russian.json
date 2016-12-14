@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Earthshock",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ursa бьет о землю, нанося урон всем вражеским юнитам неподалеку и замедляя их на 4 секунды.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">90/140/190/240</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">385</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">25%/35%/45%/55%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/75/75/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6",
+        "lore": "Как земля содрогается под весом его могучих медвежьих шагов, так и противники начинают дрожать при его виде.",
+        "hurl": "Ursa",
+        "name": "ursa_earthshock",
+        "youtube":"hfR3yMqVxYU",
+        "id": 0
+    },
+    {
+        "dname": "Overpower",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Используя свой боевой опыт, Ursa увеличивает скорость атаки на несколько следующих атак.",
+        "notes": "Не убирается предметом Black King Bar.",
+        "dmg": "",
+        "attrib": "АТАК: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">400/400/400/400</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 45/55/65/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Внушительный размер Ursa обманчив — он чрезвычайно ловок.",
+        "hurl": "Ursa",
+        "name": "ursa_overpower",
+        "youtube":"lCatLtA-JFk",
+        "id": 1
+    },
+    {
+        "dname": "Fury Swipes",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Когти Ursa с каждой атакой все глубже впиваются в плоть врага, нанося увеличенный урон с каждой последующей атакой. Дополнительный урон будет потерян, если цель не будет атакована в течение 15 секунд.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ВРЕМЯ ДЕЙСТВИЯ: <b><font color=\"#ffffff\">15</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА (ROSHAN): <b><font color=\"#ffffff\">6</font></b><br/>УРОНА ЗА АТАКУ: <b><font color=\"#ffffff\">15/20/25/30</font></b>",
+        "cmb": "",
+        "lore": "В природе раненые редко выживают после атак голодных хищников.",
+        "hurl": "Ursa",
+        "name": "ursa_fury_swipes",
+        "youtube":"7VvTKb4Tb7Q",
+        "id": 2
+    },
+    {
+        "dname": "Enrage",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Ursa впадает в ярость, увеличивая урон от Fury Swipes и получая на 80% меньше урона. Снимает все негативные эффекты.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "МНОЖИТЕЛЬ FURY SWIPES: <b><font color=\"#ffffff\">1.5/2/2.5</font></b><br/>СНИЖЕНИЕ УРОНА: <b><font color=\"#ffffff\">80%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/45/40",
+        "lore": "Ульфсаар отдается своему древнему духу, приобретая невиданную свирепость.",
+        "hurl": "Ursa",
+        "name": "ursa_enrage",
+        "youtube":"TzY-5jQIFmg",
+        "id": 3
+    }
+]

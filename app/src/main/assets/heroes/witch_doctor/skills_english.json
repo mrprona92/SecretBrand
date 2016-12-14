@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Paralyzing Cask",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Launches a cask of paralyzing powder that ricochets between enemy units, stunning and damaging those it hits.",
+        "notes": "Targets can be hit multiple times, as long as another unit is struck in between the bounces.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">75/100/125/150</font></b>",
+        "attrib": "HERO STUN DURATION: <b><font color=\"#ffffff\">1/1/1/1</font></b><br/>CREEP STUN DURATION: <b><font color=\"#ffffff\">5/5/5/5</font></b><br/>HERO DAMAGE: <b><font color=\"#ffffff\">50/50/50/50</font></b><br/>BOUNCES: <b><font color=\"#ffffff\">2/4/6/8</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/120/130/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/18/16/14",
+        "lore": "The Witch Doctor recycles the bones of fallen friends and foes, using the powder as part of his arsenal of charms and alchemy.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_paralyzing_cask",
+        "youtube":"GcM3eChjrms",
+        "id": 0
+    },
+    {
+        "dname": "Voodoo Restoration",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Toggle</font></b>",
+        "desc": "Witch Doctor focuses his magic to heal nearby allied units.",
+        "notes": "Healing is done in 0.33 second intervals.<br/>Can heal Spell Immune units.",
+        "dmg": "",
+        "attrib": "MANA PER SEC: <b><font color=\"#ffffff\">8/12/16/20</font></b><br/>RADIUS: <b><font color=\"#ffffff\">500</font></b><br/>HEAL: <b><font color=\"#ffffff\">16/24/32/40</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/30/40/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "Zharvakko\u0027s hocus pocus is not limited only to hexxing his opponents and is quite adept at curing ailments.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_voodoo_restoration",
+        "youtube":"yBY5jmY0iR4",
+        "id": 1
+    },
+    {
+        "dname": "Maledict",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Curses all enemy Heroes in a small area, causing them to take a set amount of damage each second, as well as bursts of damage every 4 seconds based on how much health they have lost since the curse began.",
+        "notes": "If an affected hero\u0027s health has increased above the amount they had when Maledict was cast, the burst damage will be 0.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">5/10/15/20</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">180</font></b><br/>DURATION: <b><font color=\"#ffffff\">12</font></b><br/>LOST HEALTH BURST DAMAGE: <b><font color=\"#ffffff\">16%/24%/32%/40%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20",
+        "lore": "Certain voodoo magics can make an enemy regret engaging the Witch Doctor.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_maledict",
+        "youtube":"9upNFFHTnPA",
+        "id": 2
+    },
+    {
+        "dname": "Death Ward",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "CHANNELED - Summons a deadly ward to attack enemy heroes.  The Death Ward has attack range of 700, and attacks every .22 seconds.  Level 3 Death Ward bounces once. Lasts 8 seconds.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The Death Ward is invulnerable, and is only destroyed if Witch Doctor is interrupted or its duration expires.<br/>The Death Ward can be controlled, and made to attack a specific target.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">60/90/120</font></b><br/>BOUNCES: <b><font color=\"#ffffff\">0/0/1</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">90/120/150</font></b><br/>SCEPTER BOUNCES: <b><font color=\"#ffffff\">4/4/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/200/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 80",
+        "lore": "Witch Doctor performs a ritualistic dance, one that haunts the dreams of those who live to recount it.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_death_ward",
+        "youtube":"tEl6x3-pYuc",
+        "id": 3
+    }
+]

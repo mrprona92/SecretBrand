@@ -1,0 +1,15 @@
+{
+  "dotaId": "ring_of_health",
+  "attrib": "+ 5 HP Regeneration",
+  "cd": false,
+  "qual": "component",
+  "notes": "Ring of Health is shareable.",
+  "desc": "",
+  "dname": "Ring of Health",
+  "mc": false,
+  "img": "ring_of_health_lg.png",
+  "lore": "A shiny ring found beneath a fat halfling\u0027s corpse.",
+  "id": 56,
+  "created": false,
+  "cost": 875
+}

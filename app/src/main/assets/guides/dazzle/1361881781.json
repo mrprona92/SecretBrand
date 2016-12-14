@@ -1,0 +1,81 @@
+{
+	"Hero":"dazzle",
+	"Title":"Learn2DotA2 Dazzle hard support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"tango",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"pipe",
+				"ward_sentry"
+			],
+			"In case you forgot":
+			[
+				"ward_observer"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Either the courier or wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shadow_wave",
+			"2":"dazzle_shallow_grave",
+			"3":"dazzle_shadow_wave",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_shadow_wave",
+			"6":"dazzle_poison_touch",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_poison_touch",
+			"9":"dazzle_shallow_grave",
+			"10":"dazzle_weave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_poison_touch",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

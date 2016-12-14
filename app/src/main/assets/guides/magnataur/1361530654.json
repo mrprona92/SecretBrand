@@ -1,0 +1,116 @@
+{
+	"Hero":"magnataur",
+	"Title":"Magnus, The King of the Middle",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"Core":
+			[
+				"arcane_boots",
+				"power_treads",
+				"blink",
+				"tpscroll",
+				"smoke_of_deceit"
+			],
+			"Caster/Support Build":
+			[
+				"ancient_janggo",
+				"force_staff",
+				"refresher",
+				"black_king_bar",
+				"shivas_guard"
+			],
+			"Carry Build":
+			[
+				"mask_of_madness",
+				"greater_crit",
+				"black_king_bar",
+				"assault",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This item is perfect for Magnus. It allows him to initiate even wihout the use of his skewer, and also allows him to catch enemies out of position with ease.",
+				"stout_shield":"This allows you to reduce the amount of damage you take in the offlane, meaning you can leech xp for much longer.",
+				"branches":"Very cost efficient stat item that gives extra health, mana and damage for very cheap.",
+				"boots":"Boots allow you to contest runes easily and reduces the time that it takes to return to mid after a successful gank.",
+				"magic_wand":"Always good for an extra burst of health or mana, which can help you secure a kill or survive a gank.",
+				"bottle":"This will solve many of your early game mana problems, and will allow you to keep up with ranged mids in terms of last-hits and harass.
+",
+				"tango":"Regen, because you will most likely get damaged before you can farm up your bottle. If your supports are willing, try get some shared tangos instead, so as to get your Blink Dagger earlier.",
+				"tpscroll":"Always carry a TP scroll or 2. They can allow you to escape from ganks and help get to a fight somewhere else. Also good for bypassing wards when ganking.",
+				"travel_boots":"Get these later in the game once you have managed to fill your inventory and no longer have space for TP Scrolls.",
+				"power_treads":"With the increase to his intelligence in recent patches, it's actually quite viable to go Treads instead of Arcanes. Remember to switch to Intelligence if casting spells, and switch to Agility when using your bottle, so as to get a higher efficiency from it.",
+				"force_staff":"Buy this when you're getting stunned a lot, or if you really need that extra bit of mobility during ganks and fights. Also provides a decent amount of mana.",
+				"refresher":"Ah, the mighty Refresher Orb. If you have enough mana, this allows you to output 7.5 seconds of stun that goes through Magic Immunity. This WILL drain your mana however.",
+				"assault":"Gives very nice permanent attack speed, allows you to take more hits, and makes you kill your enemies faster. A solid purchase once you have finished other items.",
+				"black_king_bar":"No matter which build, BKB is a fantastic item. It allows you to get your spells off and reduces the number of spells which can hit you. Remember, using BKB removes Empower and does not allow you to recast it on yourself.",
+				"shivas_guard":"This item really alleviates the mana issues associated with Refresher and also gives you some nice tankability, allowing you to take more hits during a fight. The active is fantastic as well.",
+				"greater_crit":"Combined with Empower and Mask of Madness, your damage output is insane, meaning you can destroy tesm in little more than a few seconds.",
+				"bfury":"It may seem redundant, but if you have BKB, this item is actually a fantastic choice, as it allows you to still cleave enemy foes. Even if you don`t have BKB, you will end up with a very nice amount of area damage from your attacks.",
+				"mask_of_madness":"What may seem like a bad item, can be effectively used on Magnus. Because he can disable enemies for a large amount of time, He can use this for a boost in DPS which will help kill anyone caught in his ult before it runs out.",
+				"arcane_boots":"These are generally the best boots for a non-carry Magnus, as they allow you to keep using Shockwave for harass, and they almost guarantee you will have the mana for your combo.",
+				"ancient_janggo":"These give fantastic stats for the price, and also gives you an edge when chasing or fleeing.",
+				"smoke_of_deceit":"100 gold for an item that allows your ganks to bypass wards and get the jump on enemy heroes. A definitely worthwhile investment."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"magnataur_empower",
+			"2":"magnataur_shockwave",
+			"3":"magnataur_skewer",
+			"4":"magnataur_shockwave",
+			"5":"magnataur_shockwave",
+			"6":"magnataur_reverse_polarity",
+			"7":"magnataur_shockwave",
+			"8":"magnataur_skewer",
+			"9":"magnataur_skewer",
+			"10":"magnataur_skewer",
+			"11":"magnataur_reverse_polarity",
+			"12":"magnataur_empower",
+			"13":"magnataur_empower",
+			"14":"magnataur_empower",
+			"15":"attribute_bonus",
+			"16":"magnataur_reverse_polarity",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"magnataur_shockwave":"A fantastic spell, it allows you to harass and last-hit from a long range. Try and use it when you will be able to get at least one last-hit, along with damage on the enemy hero(es).",
+				"magnataur_empower":"Take a level of this at 1 to provide extra damage so as to last-hit better versus higher-damage heroes. Later in the game, prioritize this on your carries, though keep it off cooldown if against a Rubick, just so you can prevent him from stealing Reverse Polarity by using it straight afterwards.",
+				"magnataur_skewer":"Use this to try and get early game tower-pulls for easy kills, or use it to escape ganks. Once you have Blink Dagger, you can use that in combination with this to blink behind enemies and skewer them into your team, allowing effective pick-offs.",
+				"magnataur_reverse_polarity":"A very powerful teamfight ult. Don`t be afraid to use it even if you can`t find a good opportuinity to get those 4+ person ults. Use it to secure kills, even singular ones in early game.",
+				"attribute_bonus":"For when you lack the abilities to level."
+		}
+	}
+}

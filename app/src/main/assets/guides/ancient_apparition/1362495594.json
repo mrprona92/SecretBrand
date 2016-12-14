@@ -1,0 +1,108 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"Ancient Apparition - Support Disabler Build Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"ring_of_regen",
+				"boots"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"urn_of_shadows",
+				"cyclone",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"ghost",
+				"force_staff",
+				"orb_of_venom",
+				"dagon"
+			],
+			"Advanced Items":
+			[
+				"ultimate_scepter",
+				"skadi"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sobi_mask":"Get Sage's Mask as early as possible, it will help you regen your Mana.",
+				"ghost":"Makes you invulnerable to physical attacks for 4 seconds but increases taken magical damage. Careful, don't activate if there is a potential for recieving spell damage.",
+				"ward_observer":"While pushing, place the Observer Ward in key places so you would know if you are being ganked. If the enemy team has junglers, place it in their jungle so your team could gank, also can be placed in your jungle to protect junglers in your team.",
+				"urn_of_shadows":"Use to heal 400 HP and to deal 150 damage.",
+				"cyclone":"Disables a target for 2.5 seconds.
+Can be used 1.5 seconds after casting COLD FEET, making the enemy freeze upon landing. The combo can be continued by casting ICE VORTEX and ICE BLAST. Also can be used to disable key role enemies as well as saving yourself.
+",
+				"force_staff":"Pushes a target to the direction it is looking at.
+Optional item, should be bought only if the enemy team has annoying disablers and slowers. In that case it can save you and your team mates.",
+				"dagon":"Should be bought only if you constantly gank with your team mates.
+Shoots brust damage, upgradable.
+As a support, use your dagon to assist your team during fights. Don't wait to last hit a kill.",
+				"ultimate_scepter":"Awesome for Mid Late game team fights. Can be bought when the enemy team has heros/spells/items that regenerate HP points.",
+				"skadi":"Grants alot of Stats, HP and Mana points. Passively slows enemy's movement and attack speed. Very useful against overfarmed, movement and attack speed dependant heros.",
+				"orb_of_venom":"Optional item, attack to slow enemies. Can be used while casting COLD FEED and Eul's combo."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_chilling_touch",
+			"3":"ancient_apparition_cold_feet",
+			"4":"ancient_apparition_chilling_touch",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_ice_vortex",
+			"8":"ancient_apparition_cold_feet",
+			"9":"ancient_apparition_chilling_touch",
+			"10":"ancient_apparition_chilling_touch",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_ice_vortex",
+			"13":"ancient_apparition_ice_vortex",
+			"14":"ancient_apparition_ice_vortex",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ancient_apparition_cold_feet":"Damages the enemy over time, freezes after 4 seconds if stayed in range.
+Should be casted in static fights, combining Eul's Scepter of Divinity.",
+				"ancient_apparition_ice_vortex":"Should be casted to slow enemies' movement speed in dynamic fights and decrease their magical resistance in static fights. Also provides vision.",
+				"ancient_apparition_chilling_touch":"Gives bonus physical damage for several attacks.
+One of the best spells at Early game fights. 
+If you intend to fight, cast it as early as possible.",
+				"ancient_apparition_ice_blast":"Shoots an ice ball. If hits or goes through an enemy, does over time damage, cancelling all regenerations for the duration. Enemies caught in blast radius recieve blast damage.
+Targeting with ICE BLAST is tricky. Try to predict where the enemy will go, considering the ICE BLAST's flying speed.",
+				"ancient_apparition_ice_blast_release":"If you aim far ahead, use to stop the ICE BLAST and make it explode in that area. If you aim at the closest distance away from you, very quickly press twice on ICE BLAST."
+		}
+	}
+}

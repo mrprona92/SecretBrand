@@ -1,0 +1,100 @@
+{
+	"Hero":"slark",
+	"Title":"Na'Vi XBOCT Slark Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"yasha"
+			],
+			"luxury":
+			[
+				"basher",
+				"hyperstone",
+				"mjollnir",
+				"heart",
+				"manta",
+				"skadi"
+			],
+			"Победа 100%":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Помогут стоять на миде (мид за сларка очень важная штука)",
+				"branches":"Брэнчи очень полезная штука",
+				"boots":"потом сапог закупаем",
+				"magic_wand":"ну и бранчи закупаем",
+				"bottle":"Боттл закупаем 1ст айтем",
+				"phase_boots":"Не буду обьяснять, просто посмотрите игры ХВОСТ-а сларком",
+				"hyperstone":"можем взять и не грейдить пока не будет все остальное заполненно",
+				"bracer":"а тут уже браслетики берем",
+				"heart":"сердце тараски даст оч. много хп
+",
+				"rapier":"Короче крипов бьешь бьешь, потом людей бьешь бьешь, и побеждаешь!",
+				"basher":"берем после яши, но вообще порядок дело ваше",
+				"manta":"прыжок дарт пакт и манта - враг в ахуе",
+				"mjollnir":"а можем сделать мьеленир",
+				"skadi":"ХВОСТ редко ее собирает, и я тоже редко, не очень полезная",
+				"yasha":"можно переварить в манту",
+				"ancient_janggo":"всегда их собирал и буду собирать"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_essence_shift",
+			"3":"slark_dark_pact",
+			"4":"slark_pounce",
+			"5":"slark_essence_shift",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_dark_pact",
+			"9":"slark_essence_shift",
+			"10":"slark_pounce",
+			"11":"slark_shadow_dance",
+			"12":"slark_essence_shift",
+			"13":"slark_dark_pact",
+			"14":"slark_dark_pact",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

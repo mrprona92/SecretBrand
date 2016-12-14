@@ -1,0 +1,113 @@
+{
+	"Hero":"rattletrap",
+	"Title":"Purge's Guide to Offlane Clockwerk",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"magic_stick",
+				"bottle",
+				"tpscroll",
+				"chainmail"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"tpscroll",
+				"magic_wand",
+				"bottle",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"pipe",
+				"ghost",
+				"force_staff",
+				"blade_mail",
+				"black_king_bar",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"chainmail":"The chainmail can either be built into a Mek or it can be made into a blademail, depending on how your game is going.",
+				"stout_shield":"Early stout shield is absolutely important on Clockwerk because he will take harass and you need to reduce the damage done to you when diving enemy heroes.",
+				"boots":"Sometimes it's hard to farm Arcane boots AND tank items as an offlane Clock, so I decided to keep Arcane(or treads) out of the Early Game section, but feel free to get Arcane boots before the Buckler. It comes down to personal preference.",
+				"magic_wand":"You WILL have spells casted on you, so having a wand will give you a bigger buffer and chance to survive your teamfights.",
+				"ghost":"Ghost scepter is sometimes needed while playing aggressive against heavy physical burst heroes like Lifestealer, Anti Mage, or Ursa.",
+				"flask":"You want to diversify your regen because sometimes you'll take light harass and other times you'll almost die.",
+				"bottle":"Bottle can often be really useful in the offlane, but you might be better off skipping bottle and going for Arcane + headdress first since bottle crowing is more difficult now.",
+				"tango":"It can be quite nice to buy extra regen like 2 tangos in the offlane because the enemy supports will harass you quite often.",
+				"tpscroll":"Always carry a TP scroll!",
+				"power_treads":"With some experimentation, I feel that treads is by far the best boots on Clockwerk now because it gives you a bit of extra mana for more casting(or mek usage if needed) and you can stay on strength for more survivability as well.",
+				"mekansm":"Mek is not necessarily a MUST HAVE item(you just need a tank item) but this one also supports your team and makes you quite a bit harder to kill after initiating.",
+				"buckler":"Buckler is pretty good survivability for the early game since it gives you +7 armor with the active. You build this into Mekanism later.",
+				"pipe":"Pipe can situationally be useful on Clock because it helps his team push and to teamfight. Generally there are better pipe heroes on your team since clock often flys into battle first and wants to pipe his team, but it can be gotten.",
+				"force_staff":"Force Staff can be great because it allows you to initiate and trap your allies and then retreat out from the cogs, effectively stunning them in place. It can also help you close the short gap to land cogs without having to use your ulti!",
+				"ultimate_scepter":"Aghanim's is REALLY GOOD on Clockwerk because it puts his ulti to a really low cooldown! This allows Clock to initiate multiple times in a fight, which really increases his strength.
+
+The stats he gets out of the item itself are also really useful!",
+				"black_king_bar":"Black King Bar can be very useful against magic burst opponents, or heroes who have a lot of disables.",
+				"blade_mail":"Often times you'll find yourself in close proximity to enemy heroes, and it can sometimes be useful to have a blademail in these cases so that you can reflect some of the damage that the Ursa, etc. do to you.",
+				"arcane_boots":"Arcane boots or treads are often the best choice for Clock as they ensure his mana pool will be large enough to teamfight at all cases. If you use treads, make sure to tread switch to int to have enough mana when casting.",
+				"heavens_halberd":"Heaven's Halberd is a great item that scales well into the late game because Evasion will make you MUCH tankier, and the active is great against enemy carries to reduce their damage output."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_power_cogs",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_battery_assault",
+			"4":"rattletrap_rocket_flare",
+			"5":"rattletrap_battery_assault",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_battery_assault",
+			"8":"rattletrap_rocket_flare",
+			"9":"rattletrap_rocket_flare",
+			"10":"rattletrap_rocket_flare",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_power_cogs",
+			"14":"rattletrap_power_cogs",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rattletrap_battery_assault":"Clock's build depends heavily on the matchup, but Battery Assault is a seriously high damage spell that is good at setting up solo kills. Use it against enemy heroes when no creeps are around, and after you are cogged in with an opponent. I will always max this by level 7 or 8.",
+				"rattletrap_power_cogs":"Cogs are REALLY strong right now because they allow you to zone out your opponents and possibly drain their mana. Use it at level 1 to block some of your creeps in to prevent the offlane from pushing!
+
+In the mid game, cog yourself in with your opponents so that you can do battery assault damage.",
+				"rattletrap_rocket_flare":"Rocket Flare seems like a low damage ability, but it's quite easy to land on entire pushes and enemy teams. If you are more interested in slowing pushes or doing ranged damage, maxing this first is the better choice, but it will limit your solo killing potential. I generally max this second.",
+				"rattletrap_hookshot":"Hookshot is your coolest and arguably best ability because it allows you to instantly intitiate on weak supports and hopfeully kill them at the start of the fight. After hookshot, quickly use battery assault and cogs to trap them in with you and secure the kill!",
+				"attribute_bonus":"Stats are good. Clockwerk likes having more hp, mana, and armor."
+		}
+	}
+}

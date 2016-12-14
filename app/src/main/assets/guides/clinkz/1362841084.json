@@ -1,0 +1,98 @@
+{
+	"Hero":"clinkz",
+	"Title":"[6.82] Победоносная сборка на Clinkz'а",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"oblivion_staff"
+			],
+			"coreItems":
+			[
+				"orchid",
+				"power_treads",
+				"desolator",
+				"greater_crit",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"butterfly",
+				"rapier"
+			],
+			"03/10/2014":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Если игра идет довольно хорошо и у вас к моменту покупки тапка есть 1-2 убийства - то можно попробовать отложить покупку PT  и собрать быстрый орчид",
+				"tango":"Позволяет укусить дерево",
+				"power_treads":"Только ловкость! Больше скорости атаки, больше брони и больше урона. ",
+				"oblivion_staff":"Составляющая часть орчида",
+				"wraith_band":"Даст нам хорошую возможность  больно бить врага на начальных уровнях",
+				"ring_of_basilius":"Если Вам  достаточно маны - можно обойтись и без базилы. Да и наличие ее у Вашего напарника по линии тоже способствует ее отстствию :)",
+				"orchid":"Orchid Malevolence замечательно собирать на 10-13 минуте, не плохо до 18 минуты,  после 20 - это уже плоховато",
+				"black_king_bar":"Поможет вам защитится от кастеров (магов)",
+				"rapier":"Для феерического завершения",
+				"monkey_king_bar":"Против Butterfly, Phantom Assassin, и т.п.",
+				"butterfly":"Если Вас атакуют преимущественно ПКМ",
+				"greater_crit":"В любой  непонятной ситуации собирай даедалус)	",
+				"desolator":"Как показал опыт - все, что меняется, все к лучшему. (6.82) Дезолятор нужен сразу после Orchid Malevolence'а"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_wind_walk",
+			"2":"clinkz_searing_arrows",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_strafe",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_wind_walk",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_wind_walk",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_strafe",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"Скорострел. ",
+				"clinkz_searing_arrows":"Применяется для добивания крипов и лишения фарма соперников. Делать это нужно всякий раз, когда соперник приблежается к припам",
+				"clinkz_wind_walk":"Желательно конечно прокачать первым делом, но если вы уверенны в себе - то можно начать со стрел, как это делаю я :)",
+				"clinkz_death_pact":"Прокачивать ОБЯЗАТЕЛЬНО!!! Это не безполезная способность, это способность позволяющая преобрести достаточно большое колл-во здоровья и не малое колл-во урона",
+				"attribute_bonus":"И на конец плючики"
+		}
+	}
+}

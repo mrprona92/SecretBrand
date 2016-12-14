@@ -1,0 +1,101 @@
+{
+	"Hero":"medusa",
+	"Title":"Medusa - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"quelling_blade",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"ring_of_health",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"pers"
+			],
+			"Final de Partida":
+			[
+				"sphere",
+				"manta",
+				"butterfly",
+				"skadi",
+				"maelstrom",
+				"travel_boots",
+				"rapier",
+				"greater_crit",
+				"black_king_bar",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Para crear luego el Anillo de Basilus",
+				"tpscroll":"Lleva siempre un tp encima!",
+				"travel_boots":"Al final de la partida si te sobra el dinero puedes comprar esto y asi no necesitar un slot del inventario para tp.",
+				"ring_of_health":"Te permite mantenerte en linea mas tiempo cumpliendo tu objetivo, farmear.",
+				"power_treads":"Threads are probably the best option,they give the perfect mix of survivability and damage per second.",
+				"ring_of_basilius":"Dejalo apagado para no pushear la linea.",
+				"sphere":"Te ayuda a evitar ganks sobre ti, te da regen de atributos, etc. Recuerda que desde el parche 6.79 se lo puedes \"pasar\" a un aliado.",
+				"rapier":"Es un item de late game. No lo compres al principio nunca. Medusa es uno de los mejores heroes para comprar un rapier porque tienes linkens, eres muy tanke y hace mucho daño (puedes hacer 300 de daño a muchos heroes a la vez!!).",
+				"butterfly":"Te da evasion, mucha agilidad, etc. Con este item ya eres MUY peligroso.",
+				"manta":"DPS y te hace mas durable y peligroso.",
+				"satanic":"You can get a satanic instead of a Skadi/rapier, its not my favorite choice  but the lifesteal makes you great at 1v1s.",
+				"skadi":"Si no te gusta comprar linkens puedes rushear el Ojo de Skadi."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"medusa_mystic_snake",
+			"3":"medusa_mystic_snake",
+			"4":"attribute_bonus",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_mana_shield",
+			"9":"medusa_mana_shield",
+			"10":"medusa_mana_shield",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_mana_shield",
+			"13":"medusa_split_shot",
+			"14":"medusa_split_shot",
+			"15":"medusa_split_shot",
+			"16":"medusa_stone_gaze",
+			"17":"medusa_split_shot",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"medusa_split_shot":"Al principio no lo subes porque necesitas tener items y nivel para hacer daño. Te permite destrozar luego en teamfights, farmear y pushear.",
+				"medusa_mystic_snake":"Maxea esto primero. Intenta que de a los creeps antes de enemigos para hacer máximo daño.",
+				"medusa_mana_shield":"Te hace ser super tanke en late game. Al principio no te interesa porque deberias estar en la safe lane protegido y quieres el maná para tu W.",
+				"medusa_stone_gaze":"Te da control sobre las teamfights. Destruyes ilusiones (naga, chaos knight, phantom lancer), te permite escapar de ganks, etc. Si tus enemigos te miran los vas a destrozar cuando tengas items.",
+				"attribute_bonus":"Lo subimos antes para ganar stats para usar más la W y te permite ser mas dificil de matar al principio."
+		}
+	}
+}

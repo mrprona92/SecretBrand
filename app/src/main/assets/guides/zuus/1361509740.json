@@ -1,0 +1,86 @@
+{
+	"Hero":"zuus",
+	"Title":"[DMX] Zeus (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_stick",
+				"boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"blink",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"refresher",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"force_staff"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Utilisez ce sort pour harass et last hit au début de la partie.",
+				"zuus_lightning_bolt":"Votre principal nuke, spammez le au mid pour mettre mal votre opposant !",
+				"zuus_static_field":"Un très bon passif qui vous permet d'infliger de très bon dégâts, même en late game.",
+				"zuus_thundergods_wrath":"Un ultimate global qui vous permet de faire de gros dégâts en teamfight ou de finir un fuyard hors de portée de vos alliés."
+		}
+	}
+}

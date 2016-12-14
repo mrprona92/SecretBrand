@@ -1,0 +1,59 @@
+[
+    {
+        "dname": "Mana Break",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Burns an opponent\u0027s mana on each attack.  Mana Break deals 60% of the mana burned as damage to the target.<br/>Mana Break is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+        "notes": "Mana Burn is blocked by spell immunity.<br/>You can lifeleech the damage dealt by this skill with a Lifesteal aura.",
+        "dmg": "",
+        "attrib": "MANA BURNED PER HIT: <b><font color=\"#ffffff\">28/40/52/64</font></b>",
+        "cmb": "",
+        "lore": "A modified technique of the Turstarkuri monks\u0027 peaceful ways is to turn magical energies on their owner.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_mana_break",
+        "youtube":"5n9dPC349Lw",
+        "id": 0
+    },
+    {
+
+        "dname": "Blink",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b>",
+        "desc": "Short distance teleportation that allows Anti-Mage to move in and out of combat.",
+        "notes": "You can use Blink to dodge incoming projectiles.",
+        "dmg": "",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">1000/1075/1150/1150</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/60/60/60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/9/7/5",
+        "lore": "In his encounter with the Dead Gods, Anti-Mage learned the value of being elusive.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_blink",
+        "youtube":"HCJe7ilCyXo",
+        "id": 1
+    },
+    {
+        "dname": "Spell Shield",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Increases Anti-Mage\u0027s resistance to magic damage.",
+        "notes": "Stacks multiplicatively with other spell resistance sources.",
+        "dmg": "",
+        "attrib": "RESISTANCE: <b><font color=\"#ffffff\">26%/34%/42%/50%</font></b>",
+        "cmb": "",
+        "lore": "Years of meditation and obsession with revenge have hardened Anti-Mage\u0027s skin against mystical opponents.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_spell_shield",
+        "youtube":"pQ6OlMLiA-A",
+        "id": 2
+    },
+    {
+        "dname": "Mana Void",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "For each point of mana missing by the target unit, damage is dealt to it and surrounding enemies.  The main target is also mini-stunned.",
+        "notes": "The stun passes through spell immunity.<br/>Damage is calculated based on the primary target\u0027s mana, but applied to all enemies within the area of effect.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">0.6/0.85/1.1</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">0.1/0.2/0.3</font></b><br/>RADIUS: <b><font color=\"#ffffff\">500</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/200/275<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 70",
+        "lore": "After bringing enemies to their knees, Anti-Mage punishes them for their use of the arcane arts.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_mana_void",
+        "youtube":"qi1_xFE6nBI",
+        "id": 3
+    }
+]

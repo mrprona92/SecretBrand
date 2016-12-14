@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar xmlns:support="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        support:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        support:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/half_view_padding"
+            android:paddingRight="@dimen/half_view_padding">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="256dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/view_padding" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Set"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/view_padding"
+                android:text="текст" />
+
+            <TextView
+                android:id="@+id/prices"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"
+                android:textColor="@color/quality_customized" />
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/view_padding"
+                android:text="Description"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/set_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="@dimen/view_padding"
+                android:text="@string/part_of_set" />
+
+            <LinearLayout
+                android:id="@+id/set"
+                android:layout_width="@dimen/hero_row_width"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/half_view_padding"
+                android:paddingRight="@dimen/half_view_padding"
+                android:paddingTop="@dimen/half_view_padding">
+
+                <ImageView
+                    android:id="@+id/set_img"
+                    android:layout_width="@dimen/hero_row_width"
+                    android:layout_height="@dimen/hero_row_height"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/default_img" />
+
+                <TextView
+                    android:id="@+id/set_name"
+                    android:layout_width="@dimen/hero_row_text_width"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:lines="2"
+                    android:text="Bundle set"
+                    android:textSize="@dimen/hero_row_textSize"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <com.badr.infodota.base.view.FlowLayout
+                android:id="@+id/flow_set"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

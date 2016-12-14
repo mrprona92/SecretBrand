@@ -1,0 +1,98 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"Solo Mid Gankrocopoter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ring_of_aquila",
+				"ancient_janggo",
+				"magic_wand",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"orchid",
+				"black_king_bar",
+				"greater_crit",
+				"butterfly",
+				"monkey_king_bar",
+				"rapier",
+				"mask_of_madness",
+				"satanic",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Every hero needs boots. Get these after bottle, however. Boots + Bottle is all you need to gank an exposed sidelane. ",
+				"magic_stick":"You will be surprised how much an early magic stick will save your ass as Gyro. He is in the front of every fight and is up close and personal in the early game. You need survivability items. ",
+				"magic_wand":"Upgrading magic stick is necessary on Gyro I think. The stats are not at all wasted, and the extra 5 charges come in handy. ",
+				"bottle":"Bottle gives Gyro all the regen he needs, and is a great ganking item. With rune control, Gyro can be an unstoppable ganking machine. ",
+				"tango":"You need regen, but not so much since you will be rushing bottle. If you prefer, a salve will do here too. ",
+				"phase_boots":"Why phase boots? For two main reasons. First of all, they will allow you to move around the map faster and give you added chase: this synergizes with your rocket barrage. The second reason is they will give you the maximum burst damage. A right click with phase + shadowblade ambush will hurt. ",
+				"wraith_band":"Gyro does not have high enough base damage to do well in lane, especially in a 1v1 situation. I would always get a wraith band to remedy this, and it will be made into a RoA later. ",
+				"orchid":"Orchid lets you pretend to be a Clinkz. Sneak up on somebody in the jungle with Shadowblade, silence them, unleash all of your cooldowns, and watch them melt. A fun item, but isn't the best for teamfights. So I would call this more situational than the other items on this list. ",
+				"black_king_bar":"BKB lets Gyro just unleash himself without worrying about how squishy he is. I will usually get this after my  first big damage item, but its fine to get it right after Shadowblade, especially if you are feeling the pressure. ",
+				"rapier":"Rapier is not a troll item on Gyro at all. You can use it to push an already heavy advantage, or recover from a huge deficit. Many games are simply decided by a BKB + Rapier Gyrocopter, you can wipe whole teams with 3-4 flak cannon shots. Just be safe. ",
+				"monkey_king_bar":"MKB; a safe man's rapier. MKB allows Gyro to dish out insane damage, and it is more consistent than Daedalus. However, it gives next to no survivability, so be sure not do get caught in a bad position if you rush this item before BKB. ",
+				"butterfly":"Butterfly is the best way to maximize the value you get from your farm on agility heroes, and Gyro is no exception. This is still a 6K item, but rushing it after Shadowblade can pay off. If you are looking for pure damage, however, MKB might be better. ",
+				"greater_crit":"Daedalus gives you amazing teamfight damage. There is really nothing else to say about it. In the words of Sven, \"This is going to be absurd\". Flak Cannon is even better than Great Cleave, too. ",
+				"manta":"Manta Style gives Gyro everything he needs, Stats, movement speed, and a good psuedo-escape mechanism. Manta is always a safe item, and picking up a quick Yasha even before or in place of a Shadowblade can even be optimal. ",
+				"invis_sword":"Gyro is a postion dependent hero, and Shadowblade will solve this problem. The ambush also gives you some great burst, and can be used in conjunction with Flak Cannon. ",
+				"satanic":"HotD and by extension Satanic are a much safer option than MoM. If you get HotD, STACK ANCIENTS. Gyro can take ancient stacks extremely fast with Flak Cannon, and this will maximize his farm. ",
+				"mask_of_madness":"Mask of Madness is not just a pubstomping item. However, Gyro is very fragile, so it is a risky item. The movement speed is useful on Gyro, and the DPS boost is great. If you feel the enemy team is lacking in burst or lockdown, this could be a good orb choice. ",
+				"ancient_janggo":"As I said earlier, Gyro needs to be somewhat tanky. He also needs to be fast. This item solves both those problems, and is great for your team too. ",
+				"ring_of_aquila":"RoA is made because Gyro can benefit from the armor and we already have a wraith band. The lane control RoA gives Gyro will allow him to go for more runes with the lane pushing, and the mana regen is nice. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_rocket_barrage",
+			"2":"gyrocopter_homing_missile",
+			"3":"gyrocopter_rocket_barrage",
+			"4":"gyrocopter_flak_cannon",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_homing_missile",
+			"9":"gyrocopter_flak_cannon",
+			"10":"gyrocopter_flak_cannon",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_flak_cannon",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"gyrocopter_homing_missile",
+			"25":"gyrocopter_homing_missile"
+		}
+	}
+}

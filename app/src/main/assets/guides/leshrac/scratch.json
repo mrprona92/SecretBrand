@@ -1,0 +1,105 @@
+{
+	"Hero":"leshrac",
+	"Title":"Leshrac - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"gauntlets",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"bracer",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"point_booster",
+				"soul_booster"
+			],
+			"luxury":
+			[
+				"bloodstone",
+				"black_king_bar",
+				"sheepstick",
+				"travel_boots",
+				"ultimate_scepter",
+				"ghost",
+				"shivas_guard",
+				"ancient_janggo"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll",
+				"smoke_of_deceit",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Siempre tiene que haber vision en el mapa!",
+				"courier":"Si alguien compra courier tu compra wards!!!",
+				"tpscroll":"Siempre lleva un tp encima!!",
+				"travel_boots":"Si la partida te va bien y tienes oro suficiente puede ser una opcion sacar estas botas cuando ya has creado la Piedra de sangre y tienes botas normales.",
+				"black_king_bar":"Si tienen muchos disables quizas te interese para poder usar tus hechizos.",
+				"bloodstone":"Es un gran item que te permite usar tus hechizos constantemente y que tiene muy buena sinergia con tu ultimate. Ademas lo haces ayudandote de los objetos de las botas que ya tenias.",
+				"soul_booster":"Hazlo a patir del objeto de mana de las arcanas!! (desmonta las botas arcanas)",
+				"arcane_boots":"Muy buenas botas para arreglar el problema inicial de mana de Leshrac y para ayudar a tu equipo. Luego separa las botas para hacer la Bloodstone!!!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_split_earth",
+			"4":"leshrac_diabolic_edict",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"leshrac_pulse_nova",
+			"10":"attribute_bonus",
+			"11":"leshrac_pulse_nova",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"leshrac_lightning_storm",
+			"23":"leshrac_lightning_storm",
+			"24":"leshrac_lightning_storm",
+			"25":"leshrac_lightning_storm"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Muy buen stun si consigues combinarlo con otros de tu equipo. Puede dar muchas kills en la primera fase.",
+				"leshrac_diabolic_edict":"Muy bueno para el 1vs1, para derribar torres, etc",
+				"leshrac_lightning_storm":"Rayo que hace dmg a varios enemigos. No es mucho pero es efectivo.",
+				"leshrac_pulse_nova":"Al principo no tienes mana por eso la subes un poco mas tarde. Es muy buena ulti si tienes mana necesario. Tambien puedes farmear lanes enteras de creeps en pocos segundos."
+		}
+	}
+}

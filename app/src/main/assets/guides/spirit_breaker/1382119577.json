@@ -1,0 +1,76 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"Ганкер бара",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"belt_of_strength",
+				"tango"
+			],
+			"Для ранней игры (5-15 мн)":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"armlet"
+			],
+			"Кери сборка":
+			[
+				"lesser_crit",
+				"greater_crit",
+				"black_king_bar"
+			],
+			"Деф Сборка":
+			[
+				"assault",
+				"heart",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"mjollnir",
+				"rapier",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_charge_of_darkness",
+			"2":"spirit_breaker_greater_bash",
+			"3":"spirit_breaker_empowering_haste",
+			"4":"spirit_breaker_greater_bash",
+			"5":"spirit_breaker_greater_bash",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_empowering_haste",
+			"8":"spirit_breaker_empowering_haste",
+			"9":"spirit_breaker_empowering_haste",
+			"10":"spirit_breaker_greater_bash",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_charge_of_darkness",
+			"13":"spirit_breaker_charge_of_darkness",
+			"14":"spirit_breaker_charge_of_darkness",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

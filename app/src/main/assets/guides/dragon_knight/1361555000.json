@@ -1,0 +1,102 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"Dragon Knight, Doing it Right",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"magic_wand",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"helm_of_the_dominator",
+				"armlet",
+				"mjollnir",
+				"assault",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"heart",
+				"monkey_king_bar",
+				"blade_mail",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Last Hits!",
+				"branches":"GG BRANCHES",
+				"boots":"Everyone needs brown boots!",
+				"magic_wand":"Wand is a great item, especially if you're standing up to a lot of spell harass in lane. Wand charges can turn the tides of battle at early levels, or even just keep you alive long enough to escape.",
+				"tango":"Regen!",
+				"power_treads":"Treads provide attack speed and base stats! Pretty self explanatory.",
+				"assault":"Buying an Assault Cuirass is a great way to help your team while helping yourself. The attack speed and positive armor bonuses will help you destroy your enemies while the negative armor bonuses for your enemies will help you kill them faster!",
+				"heart":"If you feel you need more health to take on your enemies, buying a heart is never a bad idea.",
+				"black_king_bar":"Buying a BKB is never a bad idea on any hero, especially if the enemy team has a lot of stuns or high damage nukes.",
+				"blade_mail":"If you're trying to go toe-to-toe with an enemy carry who is taking you out fast in fights, a blademail will slow them down and can give you the upper-hand in a pinch.",
+				"monkey_king_bar":"An MKB is a must against heroes that have any sort of evasion, whether its built in or if they farmed up a butterfly or halberd.",
+				"armlet":"Armlet is a great item for beefy strength heroes such as Dragon Knight. All of the bonuses provide Dragon Knight with the ability to hit enemies even harder. Armlet toggling is also a skill worth using to your advantage. Turn it on before a team fight and go to town on your enemies!",
+				"satanic":"A satanic is great for its massive lifesteal bonuses. When you get into a fight, just activate it and the enemy team will suddenly find it much harder to take you out.",
+				"mjollnir":"Attack speed and lightning! You can never go wrong when buying a Mjollnir. Use the activatible when heading into a team fight to get a little bit of extra damage off when you're being attacked.",
+				"helm_of_the_dominator":"Lifesteal is a fantastic orb effect for obvious reasons but dominator comes with a bonus. Take control of a creep from the jungle (I prefer a troll or a satyr) and use it to stack ancient camps that you can destroy quickly with your splash damage attacks in dragon form.",
+				"soul_ring":"I like soul ring on DK because his health regen from Dragon Blood allows him to use this item with absolutely no penalty. Use soul ring then instantly use your flame breath to farm or harass your in-lane enemies at no mana cost to you!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_tail",
+			"2":"dragon_knight_dragon_blood",
+			"3":"dragon_knight_dragon_blood",
+			"4":"dragon_knight_breathe_fire",
+			"5":"dragon_knight_dragon_blood",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_dragon_blood",
+			"8":"dragon_knight_breathe_fire",
+			"9":"dragon_knight_breathe_fire",
+			"10":"dragon_knight_breathe_fire",
+			"11":"dragon_knight_elder_dragon_form",
+			"12":"dragon_knight_dragon_tail",
+			"13":"dragon_knight_dragon_tail",
+			"14":"attribute_bonus",
+			"15":"dragon_knight_dragon_tail",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_breathe_fire":"Flame breath is a great harassing tool when used in conjunction with your soul ring.",
+				"dragon_knight_dragon_tail":"This stun is powerful, indeed, and even becomes ranged when you're in dragon form!",
+				"dragon_knight_dragon_blood":"Dragon Blood gives you a lot of bonus armor and health regen. This ability is the core of this Dragon Knight build.",
+				"dragon_knight_elder_dragon_form":"Dragon form is Dragon Knight's bread and butter. You become a ranged hero for 60 seconds and your stun turns into a ranged stun. Your DOT in green form does damage over time. Red dragon form was updated in 6.78 to inclue the DOT from green dragon form. Blue dragon has a very strong slow.",
+				"attribute_bonus":"Cause stats are always nice, right?"
+		}
+	}
+}

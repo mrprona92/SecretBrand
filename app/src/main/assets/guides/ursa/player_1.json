@@ -1,0 +1,45 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "ursa_fury_swipes",
+        "2": "ursa_overpower",
+        "3": "ursa_fury_swipes",
+        "4": "ursa_overpower",
+        "5": "ursa_earthshock",
+        "6": "ursa_enrage",
+        "7": "ursa_fury_swipes",
+        "8": "ursa_overpower",
+        "9": "ursa_fury_swipes",
+        "10": "ursa_overpower",
+        "11": "ursa_enrage",
+        "12": "ursa_earthshock",
+        "13": "ursa_earthshock",
+        "14": "ursa_earthshock",
+        "15": "attribute_bonus",
+        "16": "ursa_enrage",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    }
+}, "Hero": "ursa", "ItemBuild": {
+    "ItemTooltips": {
+        "greater_crit": "Со 2 скиллом криты будет литеть часто, что позволит убить с пару тычек",
+        "vladmir": "ренген хп, сразу когда собрали идём на рошу, можно купить бутылку хп на всякий случай ",
+        "heart": "хп, дополнительный урон за ульту",
+        "basher": "С нашей скоростью атаки со 2 скиллом стан будет часто \n",
+        "blink": "Позволит быстро переместиться пративнику за спину! кинуть 1 скилл, 2 скилл и ульт!! или же убижать",
+        "tango": "чучуть отхилиться когда стоим на лайне ",
+        "ring_of_basilius": "Быстрое собирание владимирки",
+        "phase_boots": "догонять противников, убигать! "
+    },
+    "Items": {
+        "начало": ["ring_of_basilius", "tango", "boots"],
+        "середина": ["vladmir", "phase_boots", "blink", "aegis"],
+        "конец": ["basher", "lesser_crit", "heart", "greater_crit", "abyssal_blade", "aegis", "cheese"]
+    }
+}, "Title": "Гайд на урсу "}

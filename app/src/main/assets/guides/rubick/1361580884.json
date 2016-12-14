@@ -1,0 +1,114 @@
+{
+	"Hero":"rubick",
+	"Title":"6.82 - Standard Rubick (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"ghost",
+				"rod_of_atos"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is your initiation. Force Staff is to retreat or further chase. They offer Rubick the maneuverability he needs to roam and gank throughout the game.",
+				"ghost":"Ghost Scepter can prove to be your saving grace if targeted by physical carries the majority of the time. Stay safe with ghost scepter and rely on your spells to disable and damage foes.",
+				"bottle":"When roaming as Rubick, given your reliable disable, Bottle can make it easier to keep your mana replenished as you move around the board. It all depends if the opportunity to roam is available or you'll have to be more passive.",
+				"courier":"As a support, it is expected to buy Wards or the Courier, be sure to buy whichever is appropriate.",
+				"mekansm":"Snag this if no other support hero is getting it.",
+				"force_staff":"Force Staff is to help you flee or engage an unsuspecting enemy. Force Staff allows you to get in close for your ultimate and/or escape after successfully using your ultimate to steal someone else's ability.",
+				"ultimate_scepter":"Aghanim's Scepter on Rubick is an insane upgrade that lowers the cooldown, increase the range to an incredible distance and adds the Aghanim's Scepter version of its stolen ability even if the opponent doesn't have it.",
+				"bloodstone":"Disassemble Arcane boots to hasten the process of snagging Bloodstone.",
+				"ancient_janggo":"Drums of Endurance helps with your lack of maneuverability and offers extra survivability for a weak Rubick."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_telekinesis",
+			"9":"rubick_telekinesis",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_null_field",
+			"14":"rubick_null_field",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Don't forget that Telekinesis also slams the foe down, stunning nearby enemies. You can aim where the foe lands by pressing Q again in another location. You can shift them closer to your allies or push them away to stun foes.",
+				"rubick_fade_bolt":"Fade Bolt reduces damage coming from enemies, so be sure to use it before team fights. It is your nuking ability and has a relatively lower cooldown.",
+				"rubick_spell_steal":"Be sure to snag the ultimate ability from initators to counteract their initiation. Additionally, the duration to hold the stolen ability is very long, so you can cast it and steal another ability using the same ultimate: Spell Steal. Aghanim's Scepter makes Rubick an insane caster."
+		}
+	}
+}

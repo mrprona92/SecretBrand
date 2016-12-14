@@ -1,0 +1,79 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Uncle Benz Guide to CRIT EVERTIM",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"pers"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"bfury",
+				"vladmir",
+				"desolator",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"basher",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_coup_de_grace":"DIS TEH MOST IMPORTANT ABILITY! U HAVE 15% CHANCE TO CRIT SO EVERY 6TH HIT IS A CRIT!
+TEH SECRET IS, TO NOT CRIT WHILE FARMING, SO YOU CAN CRIT ON HEROES!!! IF YOU LEARN HOW TO NOT CRIT ON CREEPS FOR 600 HITS, YOUR NEXT 100 HITS ON HEROES WILL BE CRITICULZ!!!!!"
+		}
+	}
+}

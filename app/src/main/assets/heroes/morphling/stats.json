@@ -1,0 +1,2 @@
+{
+    "roles": ["Carry", "Escape", "Initiator", "Nuker"],"ID":34,"Patch":"6.79c","Name":"Morphling","Alignment":0,"Movespeed":285,"MaxDmg":41,"MinDmg":32,"HP":511,"Mana":221,"HPRegen":0.25,"ManaRegen":0.01,"Armor":0.66,"Range":350,"ProjectileSpeed":1300,"BaseStr":19,"BaseAgi":24,"BaseInt":17,"StrGain":2,"AgiGain":3,"IntGain":1.5,"PrimaryStat":1,"BaseAttackTime":1.6,"DayVision":1800,"NightVision":800,"AttackPoint":0.5,"AttackSwing":0.5,"CastPoint":0.25,"CastSwing":0.51,"Turnrate":0.6,"Legs":0}

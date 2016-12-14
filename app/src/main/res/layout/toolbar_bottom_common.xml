@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.FillWidthHeight"
+    android:layout_height="@dimen/toolbar_bottom_height"
+    android:animateLayoutChanges="true"
+    android:background="@color/cmn_white"
+    android:weightSum="4">
+
+    <LinearLayout
+        android:id="@+id/tabHero"
+        style="@style/Layout.FillWidthHeight.Weight.Center"
+        android:layout_marginRight="@dimen/padding_min"
+        android:background="#FFD14337">
+
+        <TextView
+            android:id="@+id/lblTabHero"
+            style="@style/TextView.Tabbar"
+            android:drawableTop="@drawable/ic_tab1_hero"
+            android:text="@string/tab_hero" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tabConterPick"
+        style="@style/Layout.FillWidthHeight.Weight.Center"
+        android:layout_marginRight="@dimen/padding_min"
+        android:background="@color/tabbar_normal">
+
+        <TextView
+            android:id="@+id/lblTabCounterPick"
+            style="@style/TextView.Tabbar"
+            android:drawableTop="@drawable/ic_tab2_counterpick"
+            android:text="@string/tab_counter_pick" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tabQuiz"
+        style="@style/Layout.FillWidthHeight.Weight.Center"
+        android:layout_marginRight="@dimen/padding_min"
+        android:background="@color/tabbar_normal">
+
+        <TextView
+            android:id="@+id/lblTabQuiz"
+            style="@style/TextView.Tabbar"
+            android:drawableTop="@drawable/ic_tab3_quiz"
+            android:text="@string/tab_quiz" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tabMenu"
+        style="@style/Layout.FillWidthHeight.Weight.Center"
+        android:background="@color/tabbar_normal">
+
+        <TextView
+            android:id="@+id/lblTabMenu"
+            style="@style/TextView.Tabbar"
+            android:drawableTop="@drawable/ic_tab4_menu"
+            android:text="@string/tab_menu" />
+    </LinearLayout>
+</LinearLayout>

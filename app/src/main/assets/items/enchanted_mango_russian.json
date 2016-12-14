@@ -1,0 +1,16 @@
+{
+  "attrib": "+ 1 к регенерации здоровья<br/>ВОССТАНОВЛЕНИЕ МАНЫ: 150",
+  "cd": false,
+  "components": null,
+  "qual": "consumable",
+  "notes": "",
+  "desc": "Использование: съедает манго, мгновенно восстанавливая 150 маны. Можно скормить союзнику.",
+  "dname": "Enchanted Mango",
+  "dotaId":"enchanted_mango",
+  "mc": false,
+  "img": "enchanted_mango_lg.png",
+  "lore": "Любимый амфибиями горько-сладкий плод с острова Джиди.",
+  "id": 216,
+  "created": false,
+  "cost": 150
+}

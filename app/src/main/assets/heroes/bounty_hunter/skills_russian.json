@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shuriken Toss",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Запускает смертельный сюрикен во вражеского юнита, нанося урон и оглушая цель. Сюрикен будет отскакивать между помеченными способностью Track юнитами, которые находятся в радиусе 1200 друг от друга.",
+        "notes": "Прерывает прочтение заклинаний.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">150/225/300/375</font></b><br/>ДАЛЬНОСТЬ ОТСКОКА С TRACK: <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/130/140/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Сюрикен может быть и мал, но поразительно точные броски Гондара способны нанести огромный урон.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_shuriken_toss",
+        "youtube":"THFY7EAD7HY",
+        "id": 0
+    },
+    {
+        "dname": "Jinada",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Bounty Hunter тщательно продумывает следующую атаку, гарантированно делая ее критической и сокрушительной для врага.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "КРИТИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">150%/175%/200%/225%</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">25%/25%/25%/25%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">25/25/25/25</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/3/3/3</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/10/8/6",
+        "lore": "Шепча на свои верные клинки заклинание, которому его научил Сорук, Гондар целится в важные связки и сухожилия, чтобы обезвредить своих врагов.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_jinada",
+        "youtube":"JVqW1Gyi5FM",
+        "id": 1
+    },
+    {
+        "dname": "Shadow Walk",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Bounty Hunter становится невидимым и получает возможность проходить сквозь крипов и героев до тех пор, пока он не нанесет удар или не использует способность. Если он выходит из невидимости, атакуя, то эта атака нанесет дополнительный урон.",
+        "notes": "Не прерывает прочтение заклинаний.<br/>Дополнительный урон наносится отдельно и не учитывается при подсчете урона от Jinada.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">20/25/30/35</font></b><br/>ВРЕМЯ ДО НЕВИДИМОСТИ: <b><font color=\"#ffffff\">1/0.75/0.5/0.25</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">30/60/90/120</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+        "lore": "Придворные шуты, присутствовавшие во время убийства короля Гоффа, смогли увидеть лишь танцующую тень.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_wind_walk",
+        "youtube":"A1pTdYaSDo0",
+        "id": 2
+    },
+    {
+        "dname": "Track",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Отслеживает вражеского героя, раскрывая его невидимость и показывая количество золота у него, а также увеличивает скорость передвижения союзников около цели. Если цель умирает, Bounty Hunter и ближайшие дружественные герои получают добычу в виде золота.",
+        "notes": "Герой получит дополнительное золото вне зависимости от того, как умерла цель этого заклинания.<br/>Делает цель видимой для всех ваших союзников и разделяет ее поле зрения с вами.<br/>Метка этой способности видна только союзникам.<br/>Союзники, получающие дополнительную скорость от этой способности, получат дополнительное золото в случае смерти цели.<br/>Дополнительное золото идет в надежный запас.",
+        "dmg": "",
+        "attrib": "РАДИУС СКОРОСТИ: <b><font color=\"#ffffff\">900/900/900</font></b><br/>ДОП. СКОРОСТЬ: <b><font color=\"#ffffff\">20%/20%/20%</font></b><br/>ДОП. ЗОЛОТО СЕБЕ: <b><font color=\"#ffffff\">200/275/350</font></b><br/>ДОП. ЗОЛОТА СОЮЗНИКАМ: <b><font color=\"#ffffff\">50/100/150</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">30/30/30</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 4",
+        "lore": "Благодаря развитым зрению и обонянию удары Гондора имеют высокий шанс на успех.",
+        "hurl": "Bounty_Hunter",
+        "name": "bounty_hunter_track",
+        "youtube":"QUR30zbpNDs",
+        "id": 3
+    }
+]

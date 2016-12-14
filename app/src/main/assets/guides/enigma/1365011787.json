@@ -1,0 +1,117 @@
+{
+	"Hero":"enigma",
+	"Title":"Purge's Guide to Jungling Enigma",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"branches",
+				"boots",
+				"buckler",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"soul_ring",
+				"boots",
+				"magic_stick",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"blink",
+				"power_treads",
+				"medallion_of_courage",
+				"ghost",
+				"force_staff",
+				"sphere",
+				"sheepstick",
+				"ultimate_scepter",
+				"necronomicon",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"I DO NOT recommend rushing blink dagger before Mekansm, which is why I don't have it in the Core section. It should be gotten AFTER Mek. If you take damage before you prepare to black hole, YOU DIE. If you get jumped on, YOU DIE. It is great on enigma but it is better against bad players generally.",
+				"branches":"2 ironwood branches are picked up to build into mekansm later! They provide 26 mana and 38 hp, which is surely worth getting for a mere 100 gold!",
+				"boots":"I think Brown boots are the best for Enigma because you shouldn't need an upgrade. A wand and soul ring is enough mana, so you don't need arcanes. If you upgrade boots, I'd recommend Power Treads for extra hp. Extra hp means more time and opportunity to black hole!",
+				"magic_stick":"Magic Stick is an inexpensive way to keep your hp up, and provide extra mana for a much needed black hole or other spell!",
+				"ghost":"Ghost Scepter can be very useful against enemy carries that only do physical damage.",
+				"clarity":"You need clarity potions to afford the hefty 170 mana cost per eidolon in the jungle! Regardless, he is one of the fastest jungle farmers in the game and is very self sufficient.",
+				"tango":"You don't need to build a tango, but it covers any missed hp from ganks or jungling mistakes that you might have. I recommend getting 1, or a salve.",
+				"courier":"Enigma doesn't need much farm to start the game off, so either buying obs ward or a courier for your team if a great help!",
+				"power_treads":"I like Power treads because of the extra hp it provides. 190 hp is more chance to black hole before you die, and players will group around low hp heroes to try to stop the black hole from coming out.",
+				"mekansm":"Enigma is so good at jungling that he can easily and reliably farm a Mekansm. It provides natural regen to counteract losses from soul ring, gives you stronger push and team support, and often times provides you enough tank to eat a few nukes and still Black Hole immediately afterwards.",
+				"buckler":"I like finishing a buckler before a headdress because of  the extra survivability and pushing power that it provides! If you are low hp and being harassed, however, I'd recommend the headdress first.",
+				"force_staff":"Force staff gives you a second initiation option on Blink if you want it. You can use it to escape if needed.",
+				"necronomicon":"Necro 3 is really good right now, and you can summon the necros then block hole, and likely kill most solo targets because the necros do incredible damage. The item itself gives good hp and mana as well.",
+				"ultimate_scepter":"This is less of a serious item, as blink/linkens/bkb is more useful, but if you are very farmed or are skipping mek or something, you can grab an aghs to increase your survivability, and make your black hole do more damage. I don't think this item is very viable, but you can purchase it.",
+				"refresher":"If you are ready to troll, you can purchase a refresher orb and ulti more often. I don't recommend holing 2 times in one fight. You're probably better off black holing, then refreshing for the next fight.",
+				"black_king_bar":"From your Core items, you should either be building a Black King bar to prevent being stunned while black hole-ing, or a Blink to try for 5 man hole initiations. Against worse players, I recommend a Blink. Against good players I recommend BKB, as their position is usually better.",
+				"sphere":"Linkens can be a good pickup against either a Vengeful Spirit(as swap goes through BkB) or a Doom(because BkB won't stop it).",
+				"soul_ring":"Soul Ring is just about absolutely necessary for Enigma. It gives you 150 mana of the 170 needed to cast Demonic Conversion in the jungle, and should be used just about every time you cast a spell! I do NOT recommend Arcane Boots over soul ring, as you get a lot more mana over time out of the Ring!",
+				"medallion_of_courage":"Medallion can be used to take early roshans so it is sometimes useful. I find that it takes a very long time to do solo though, and Enigma quickly runs out of item slots so I don't like grabbing it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_demonic_conversion",
+			"8":"enigma_malefice",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"attribute_bonus",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"enigma_midnight_pulse",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_malefice":"I used to max Malefice first, but the extra gank potential is usually not worth it over Demonic Conversion. The idea is that SOMETIMES you would get a kill out of it, but Demonic Conversion will ALWAYS help you farm faster and take towers!",
+				"enigma_demonic_conversion":"Demonic Conversion is arguably Enigma's best skill as it gives you insane jungle farming potential, and if you can double eidolons on a push, you can very easily take undefended towers in 1-2 waves. If you double eidolons as well, you can easily kill enemies with a Black Hole!",
+				"enigma_midnight_pulse":"I sometimes delay getting Midnight Pulse levels as its difficult to drop before Black Hole, and the extra stat levels can help keep Enigma alive long enough to Black Hole. However, the skill is great for holding back high ground pushes on raxes, and also clearing trees to find hiding enemies!",
+				"enigma_black_hole":"Black Hole is one of the best teamfight ultimates in the game because it allows you to possibly disable 5 enemy players(regardless of magic immunity) for 4 seconds. Early game it should be used to get solo kills, and mid-late it should be used to make plays in teamfights.",
+				"attribute_bonus":"I sometimes like getting stat levels on Enigma before finishing Midnight Pulse, as Midnight pulse doesn't scale that fantastic, and the extra hp is very valuable to Enigma!"
+		}
+	}
+}

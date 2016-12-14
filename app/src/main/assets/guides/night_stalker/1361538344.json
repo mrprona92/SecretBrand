@@ -1,0 +1,90 @@
+{
+	"Hero":"night_stalker",
+	"Title":"Nighty Night Stalker (Ortada baslamak icin duzenlenmistir.)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"vanguard",
+				"basher"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"armlet",
+				"assault",
+				"abyssal_blade",
+				"heart",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Oyuna ortada baslayacagimizdan, ilk gece oldugunda hizli bir sekilde dusmani oldurmekte ayakkabi kacinilmaz.",
+				"phase_boots":"Oyun basi esyalari biter bitmez almamizin sart oldugu ilk esyamiz. Faz modunu kullanarak oyundaki en yuksek hiza (522) erisebilir, creeplere takilmadan hedefimize hizlica saldirabiliriz. Keza kacarken de isimize yarayacak.",
+				"ring_of_health":"Vanguard alana kadar bize saglik yenileme saglayacak en onemli esyamiz.",
+				"urn_of_shadows":"Ganklarken gerekirse kule dibine girdigimizden, oyunun erken asamalarinda yuksek miktarda can kaybederiz. Hedefimizi daha kolay oldurmemize veya kaybettigimiz yuksek miktarda sagligi geri kazanmamizda cok kritik bir esya.",
+				"assault":"Dostlarimiza ve kendimize verecegimiz yuksek atak hizi ve zirh, ganklarda skull basher ile birlesince rakibin korkulu ruyasi olur.",
+				"heart":"Tanklamak isteyenlerin en buyuk yardimcisi, saglik puanina doyuran esyamiz. Yuksek saglik puaninizla olmek bilmezsiniz.",
+				"black_king_bar":"Rakibin iyi nukerlari ve stun herolari varsa, bu esya kacinilmaz en buyuk dostumuz olacaktir. Yalniz bazi herolarin oldugu ganklara disaridan girmek cok daha iyidir. Orn; Magnus, Faceless Void.",
+				"vanguard":"Oyunun ilk 20 dakikasinda takimimiz icin tank olmamizi saglayacak esyamiz. Ganklara korkmadan girmemizi ve hizimizi kullanarak gerekirse olmeden cikmamizi saglayacaktir.",
+				"basher":"Aksi bir durumda hedefimizin kactigini varsayalim. Bu esya ile gece veya gunduz avimizi kacirmadan ara stunlar ile kule dibine gidemeden oldurebiliriz. Verecegi ekstra hasari da gozardi etmemek gerekir.",
+				"armlet":"Vanguard ile elde ettigimiz saglik yetmedi, tanklayamiyoruz, Heart of Tarrasque alacak paramiz da yok henuz. Bu esya ile kazanacaginiz bir kumari oynayip hem yuksek saglik ve hasar, hem de atak hizi elde ederiz. Acil durumlarda acip kapatarak yuksek sagligimizi koruruz.",
+				"abyssal_blade":"Skull basher etkisinin devami ile elde ettigimiz 100 hasar, atacagimiz bir pencede dusuk saglikli oyunculari direk ganka girmeden kesmeye ve rakip takimi kacmaya zorlar.",
+				"heavens_halberd":"Rakibi sakatlama ve size yapilan saldirilara miss ekleyerek size buyuk bir defans, rakibe de sansa bagli slow verir. Gece vakti basher ile bu esya teke tekte adam kacirmamanizi saglar."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_hunter_in_the_night",
+			"2":"night_stalker_void",
+			"3":"night_stalker_hunter_in_the_night",
+			"4":"night_stalker_void",
+			"5":"night_stalker_hunter_in_the_night",
+			"6":"night_stalker_void",
+			"7":"night_stalker_hunter_in_the_night",
+			"8":"night_stalker_void",
+			"9":"night_stalker_darkness",
+			"10":"night_stalker_crippling_fear",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

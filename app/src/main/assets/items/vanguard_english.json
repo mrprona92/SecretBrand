@@ -1,0 +1,20 @@
+{
+  "dotaId": "vanguard",
+  "id": 125,
+  "img": "vanguard_lg.png",
+  "dname": "Vanguard",
+  "qual": "epic",
+  "cost": 2175,
+  "desc": "Passive: Damage Block - Gives the wielder a chance to block damage from each incoming attack based on whether the equipped hero is melee or ranged.",
+  "notes": "Multiple sources of damage block don't stack.",
+  "attrib": "+ 250 Health<br/>+ 6 HP Regeneration<br/>BLOCK CHANCE: 75%<br/>BLOCK DAMAGE MELEE: 40<br/>BLOCK DAMAGE RANGED: 20",
+  "mc": false,
+  "cd": false,
+  "lore": "A powerful shield that defends its wielder from even the most vicious of attacks.",
+  "components": [
+    "ring_of_health",
+    "vitality_booster",
+    "stout_shield"
+  ],
+  "created": true
+}

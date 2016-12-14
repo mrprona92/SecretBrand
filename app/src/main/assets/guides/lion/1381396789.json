@@ -1,0 +1,95 @@
+{
+	"Hero":"lion",
+	"Title":"Procast &lt;3 (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"staff_of_wizardry"
+			],
+			"coreItems":
+			[
+				"dagon",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"mekansm",
+				"ghost",
+				"force_staff",
+				"orchid",
+				"ward_sentry",
+				"dust",
+				"refresher",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Даже самый толстый не устоит от прокаста под этой штукой",
+				"dust":"Никто не скроется x2",
+				"ward_sentry":"Никто не скроется",
+				"travel_boots":"Всегда успеем пофармить или убить кого помягче",
+				"null_talisman":"Неплохой бонус к атаке с руки и хп в начале игры",
+				"mekansm":"Слабые нотки саппорта в билде",
+				"orchid":"Против мягких магов самое то",
+				"force_staff":"Убежать или догнать поможет",
+				"dagon":"Качаем до 5 лвла, прокаст, сученьки",
+				"ultimate_scepter":"После 5 лвла дагона можно и ульт подкачать+хп и мана",
+				"veil_of_discord":"Врагам больнее на 25%",
+				"tranquil_boots":"С вкаченным 3им скиллом мп не проблема, а во время фарма хп часто бывает проблемой"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_mana_drain",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_mana_drain",
+			"9":"lion_voodoo",
+			"10":"lion_mana_drain",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_voodoo",
+			"14":"lion_voodoo",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"На ранних лвлах доставайте противника этим скиллом, если качать вместе с 3им, то можно не хило мешать качу чужому кэрри",
+				"lion_voodoo":"Не стоит качать, если вас не сильно обижают, если же обижают, можно вкачать на 1 лвл",
+				"lion_mana_drain":"Ваша бесконечная мана, сосите везде и всегда, у крипов и героев. Также отлично можно лишать чужих героев маны связкой 1скилл-3скилл",
+				"lion_finger_of_death":"1скил-ульт-2скил-дагон, и так всегда, никто не убежит, если враги не эскейперы, можно и без 2 скила обойтись"
+		}
+	}
+}

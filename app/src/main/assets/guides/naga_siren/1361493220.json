@@ -1,0 +1,118 @@
+{
+	"Hero":"naga_siren",
+	"Title":"YSo6y's guide to Slithice, the Naga Siren",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"ring_of_protection",
+				"tango",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"tranquil_boots",
+				"poor_mans_shield",
+				"quelling_blade",
+				"soul_ring",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"radiance",
+				"diffusal_blade",
+				"vitality_booster",
+				"yasha"
+			],
+			"Slutspelsföremål":
+			[
+				"heart",
+				"manta"
+			],
+			"luxury":
+			[
+				"rapier",
+				"assault",
+				"sphere",
+				"greater_crit",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Get for easy last hitting.",
+				"ring_of_protection":"Builds into Tranquil's or Ring of Basilius later on.",
+				"stout_shield":"Get if you will be taking lots of harassment. Builds into PMS later on.",
+				"branches":"Get as many Branches you can. Builds into Magic Wand later on.",
+				"magic_wand":"Awesome all-around item.",
+				"tango":"Only need 1 pair since you'll be rushing Tranquil's.",
+				"vitality_booster":"Passive Vitality Booster just to boost your HP, builds into a Heart later on.",
+				"hand_of_midas":"If you have really good farm consider this item, try to get it at about 4-7 minutes. Gives you fast farm, remember to use it asap.",
+				"poor_mans_shield":"Get 2 Slippers of Agility from the sideshops.",
+				"assault":"Could be good in some cases, if not somebody else is getting it. + Armor and Attack Speed to you and your team, and - Armor to the enemy team.",
+				"heart":"Get a Heart as the Tank Endgame item. Makes your illusion's really hard to kill.",
+				"sphere":"Could be good in some cases. Gives great stats and whatnot though, so not a bad item to get.",
+				"rapier":"Only get it if you know what you're doing.",
+				"radiance":"If you got a Midas early, try to go for a Radiance early also. Gives you really good farming capabilites and teamfight presence.",
+				"butterfly":"Get a Butterfly for Evasion and extra Tankiness.",
+				"greater_crit":"Get a Crit for extra damage.",
+				"manta":"Manta for mass illusion's, also benefits greatly from your Diffusal Blade. Gives you awesome stats.",
+				"yasha":"Yasha for MS and Attack Speed. Get this after Diff+Vit Booster or Radiance+Vit Booster. Builds into a Manta later on.",
+				"diffusal_blade":"If you didnt get a Midas you should probably go for the Diffusal Blade, it's really easy to get kills with and the stats help you + you gain Mana Burn on your illusion's.",
+				"soul_ring":"Get a Soul Ring so you can spam your spells, be sure to use your Tranquil's at the same time.",
+				"tranquil_boots":"Get Boots + Ring of Regen from the sideshops."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_ensnare",
+			"2":"naga_siren_rip_tide",
+			"3":"naga_siren_rip_tide",
+			"4":"naga_siren_ensnare",
+			"5":"naga_siren_rip_tide",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_rip_tide",
+			"8":"naga_siren_mirror_image",
+			"9":"naga_siren_mirror_image",
+			"10":"naga_siren_mirror_image",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_mirror_image",
+			"13":"naga_siren_ensnare",
+			"14":"naga_siren_ensnare",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Awesome spell, synergizes godly with Diffusal Blade, Radiance and Manta.
+
+Also makes it very easy for you to farm, as you can farm in lane the same time you're farming the jungle with Illusion's. 
+
+Also makes pushing very easy once you get Radiance.",
+				"naga_siren_ensnare":"Such a good spell. Ensnare which goes through BKB, makes you very scary in lane if you have a good lane partner with a follow-up stun.",
+				"naga_siren_rip_tide":"Also an awesome spell. Does lots of damage and reduces Armor, makes you and everyone around you hit the target like an absolute truck, also it's AoE and it works with your illusions, so farming jungle/lanes gets even easier.",
+				"naga_siren_song_of_the_siren":"Song of the Siren is an absolutely amazing spell. Makes everyone caught in it go to sleep, which makes them invulnerable and cannot be attacked, you can set up huge combos starting with this spell.
+
+Also it's very short cooldown and has a huge range so you can dodge ganks very easily."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Mist Coil",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Abaddon releases a coil of deathly mist that can damage an enemy unit or heal a friendly unit at the cost of some of Abaddon\u0027s health.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "SELF DAMAGE: <b><font color=\"#ffffff\">75/100/125/150</font></b><br/>DAMAGE/HEAL: <b><font color=\"#ffffff\">100/150/200/250</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/60/70/80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5",
+        "lore": "A mysterious vapor from the Font of Avernus now infuses the breath of Abaddon, who releases it at will.",
+        "hurl": "Abaddon",
+        "name": "abaddon_death_coil",
+        "youtube":"stcWsFoEfag",
+        "id": 0
+    },
+    {
+        "dname": "Aphotic Shield",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Summons dark energies around an ally unit, creating a shield that absorbs a set amount of damage before expiring. When the shield is destroyed it will burst and deal damage equal to the amount it could absorb to an area around it. Removes certain types of negative buffs and stuns on cast.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">15</font></b><br/>MAX DAMAGE ABSORBED: <b><font color=\"#ffffff\">110/140/170/200</font></b><br/>BURST RADIUS: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/105/110/115<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/10/8/6",
+        "lore": "The powers of the black mist rise to absorb attacks like the black mist absorbs light.",
+        "hurl": "Abaddon",
+        "name": "abaddon_aphotic_shield",
+        "youtube":"AUZPOPV0FiU",
+        "id": 1
+    },
+    {
+        "dname": "Curse of Avernus",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Abaddon strikes an enemy with chilling curse on each attack, causing all units who attack the slowed enemy to gain increased movement speed, along with faster attack speed, for a limited time.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DEBUFF DURATION: <b><font color=\"#ffffff\">2.5</font></b><br/>BUFF DURATION: <b><font color=\"#ffffff\">4.5</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>MOVE SPEED BONUS: <b><font color=\"#ffffff\">15%</font></b><br/>ATTACK SPEED BONUS: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "",
+        "lore": "The curse that slows an enemy, speeds an ally.",
+        "hurl": "Abaddon",
+        "name": "abaddon_frostmourne",
+        "youtube":"83iU74QhxWw",
+        "id": 2
+    },
+    {
+        "dname": "Borrowed Time",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "When activated, all damage dealt to you will heal instead of harm. Most negative buffs will also be removed. If the ability is not on cooldown, it will passively activate if your hitpoints drop below 400.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Borrowed Time can be activated while Abaddon is disabled, but not while silenced.",
+        "dmg": "",
+        "attrib": "HP THRESHOLD: <b><font color=\"#ffffff\">400</font></b><br/>DURATION: <b><font color=\"#ffffff\">4/5/6</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">5/6/7</font></b><br/><font color=\"#6fe871\">REDIRECT RANGE:</font></b> <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 0/0/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/50/40",
+        "lore": "The most unnatural of all the gifts of the Font of Avernus, this power defies mortal understanding.  What should hurt, instead heals; and what should kill gives strength anew.",
+        "hurl": "Abaddon",
+        "name": "abaddon_borrowed_time",
+        "youtube":"9J7CPbAg9dU",
+        "id": 3
+    }
+]

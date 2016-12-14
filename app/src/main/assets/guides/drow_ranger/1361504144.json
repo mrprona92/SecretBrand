@@ -1,0 +1,90 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"The You Can't Go Wrong Drow Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"wraith_band",
+				"wraith_band"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"lesser_crit",
+				"manta"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"butterfly",
+				"monkey_king_bar"
+			],
+			"Late Game Full Build":
+			[
+				"power_treads",
+				"invis_sword",
+				"manta",
+				"greater_crit",
+				"butterfly",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"wraith_band":"For Last Hitting before 6 and also some extra HP.",
+				"black_king_bar":"Obviously against heavy CC teams",
+				"rapier":"WHY THE HELL NOT?",
+				"monkey_king_bar":"Against Windrunner, PA, Brewmaster and anyone that has a Butterfly or that you think is going to get one",
+				"butterfly":"Against auto attackers! "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_silence",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_silence",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_silence",
+			"9":"drow_ranger_silence",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_trueshot",
+			"13":"drow_ranger_trueshot",
+			"14":"drow_ranger_trueshot",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

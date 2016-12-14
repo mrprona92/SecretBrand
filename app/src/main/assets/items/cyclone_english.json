@@ -1,0 +1,20 @@
+{
+  "dotaId": "cyclone",
+  "id": 100,
+  "img": "cyclone_lg.png",
+  "dname": "Eul's Scepter of Divinity",
+  "qual": "rare",
+  "cost": 2850,
+  "desc": "Active: Cyclone - Sweeps a target unit up into cyclone, making them invulnerable for 2.5 seconds. Cyclone can be cast on yourself. Enemy units take 50 magical damage upon landing.",
+  "notes": "You cannot cyclone allies.<br/>Cyclones cast on yourself go through spell immunity.<br/>Cyclone can purge some buffs and debuffs.",
+  "attrib": "+ 10 Intelligence<br/>+ 150% Mana Regeneration<br/>+ 40 Movement Speed<br/>CYCLONE DURATION: 2.5",
+  "mc": 175,
+  "cd": 23,
+  "lore": "A mysterious scepter passed down through the ages, its disruptive winds can be used for good or evil.",
+  "components": [
+    "sobi_mask",
+    "staff_of_wizardry",
+    "void_stone"
+  ],
+  "created": true
+}

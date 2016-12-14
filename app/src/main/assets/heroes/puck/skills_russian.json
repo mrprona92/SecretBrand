@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Illusory Orb",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Puck запускает волшебный шар, летящий по прямой и поражающий всех противников на своем пути. Puck может в любой момент телепортироваться к шару с помощью Ethereal Jaunt.",
+        "notes": "Во время полета сферы вы получаете обзор местности, над которой он летит.<br/>Применение Jaunt сбивает снаряды с цели.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">70/140/210/280</font></b>",
+        "attrib": "РАССТОЯНИЕ: <b><font color=\"#ffffff\">1800/1800/1800/1800</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/150/150/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Волшебный дракончик обожает вводить врагов в замешательство, исчезая и появляясь там, где его никто не ожидает.",
+        "hurl": "Puck",
+        "name": "puck_illusory_orb",
+        "youtube":"St6DymTgpjc",
+        "id": 0
+    },
+    {
+        "dname": "Waning Rift",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Puck распыляет волшебный порошок, наносящий урон и запрещающий использовать магию всем врагам поблизости.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/160/220/280</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">400/400/400/400</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">0.75/1.5/2.25/3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/110/120/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16",
+        "lore": "Puck с шаловливой улыбкой распыляет волшебный порошок, нарушающий магический поток.",
+        "hurl": "Puck",
+        "name": "puck_waning_rift",
+        "youtube":"kM91nc9KFzg",
+        "id": 1
+    },
+    {
+        "dname": "Phase Shift",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, прерываемая</font></b>",
+        "desc": "Puck ненадолго смещается в другое измерение, защищающее от любых атак.",
+        "notes": "Через вашего героя нельзя пройти, даже если он под действием этой способности.<br/>Любой приказ прекратит действие этой способности.<br/>Во время действия этой способности вы не получаете урона.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">0.75/1.5/2.25/3.25</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6",
+        "lore": "С едкой подколкой и вспышкой Puck возвращается в иное, родное для этого существа измерение.",
+        "hurl": "Puck",
+        "name": "puck_phase_shift",
+        "youtube":"fQM9lmdO3a4",
+        "id": 2
+    },
+    {
+        "dname": "Ethereal Jaunt",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Телепортирует Puck к летящему шару.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Puck",
+        "name": "puck_ethereal_jaunt",
+        "youtube":"lh-wFZu85N0",
+        "id": 3
+    },
+    {
+        "dname": "Dream Coil",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает нестабильную магическую спираль, цепляющуюся за вражеских героев, оглушающую их на 0,5 секунды и наносящую урон. Если противник растягивает спираль, отойдя слишком далеко, то она рвется, оглушая его и нанося ему дополнительный урон.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ПРИВЯЗИ: <b><font color=\"#ffffff\">6/6/6</font></b><br/>НАЧАЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">100/150/200</font></b><br/>РАДИУС РАЗРУШЕНИЯ: <b><font color=\"#ffffff\">600/600/600</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ РАЗРЫВОМ: <b><font color=\"#ffffff\">1.5/2.25/3</font></b><br/>УРОН ПРИ РАЗРЫВЕ: <b><font color=\"#ffffff\">100/150/200</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ ПРИВЯЗИ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">8</font></b><br/><font color=\"#6fe871\">УРОН ПРИ РАЗРЫВЕ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">200/250/300</font></b><br/><font color=\"#6fe871\">ОГЛУШЕНИЕ РАЗРЫВОМ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">1.5/3/4.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/150/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 85",
+        "lore": "Волшебный дракончик сеет смятение в рядах врагов, заставляя вживую узреть свою смертность.",
+        "hurl": "Puck",
+        "name": "puck_dream_coil",
+        "youtube":"DyAcAYncwXE",
+        "id": 4
+    }
+]

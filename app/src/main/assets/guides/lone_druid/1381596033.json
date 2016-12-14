@@ -1,0 +1,108 @@
+{
+	"Hero":"lone_druid",
+	"Title":"GreyShark.Lone Druid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"radiance",
+				"orb_of_venom"
+			],
+			"Mid Game":
+			[
+				"phase_boots",
+				"power_treads",
+				"vladmir",
+				"mjollnir",
+				"basher",
+				"basher"
+			],
+			"Late Game":
+			[
+				"assault",
+				"greater_crit",
+				"abyssal_blade",
+				"heart",
+				"butterfly",
+				"skadi"
+			],
+			"Situation":
+			[
+				"pipe",
+				"black_king_bar"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Spirit Bear",
+				"stout_shield":"Spirit Bear",
+				"flask":"Spirit Bear",
+				"phase_boots":"Lone Druid",
+				"power_treads":"Spirit Bear",
+				"hand_of_midas":"Lone Druid",
+				"vladmir":"Lone Druid",
+				"assault":"Spirit Bear",
+				"heart":"Lone Druid",
+				"radiance":"Spirit Bear
+",
+				"butterfly":"Lone Druid",
+				"greater_crit":"Lone Druid",
+				"basher":"Spirit Bear and Lone Druid",
+				"mjollnir":"Spirit Bear",
+				"skadi":"Spirit Bear
+",
+				"orb_of_venom":"Spirit Bear
+",
+				"abyssal_blade":"Spirit Bear and Lone Druid
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_synergy",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

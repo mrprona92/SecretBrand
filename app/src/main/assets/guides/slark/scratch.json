@@ -1,0 +1,98 @@
+{
+	"Hero":"slark",
+	"Title":"Slark (Scratch)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"circlet",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"yasha",
+				"power_treads",
+				"orb_of_venom",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"skadi",
+				"butterfly",
+				"vladmir",
+				"black_king_bar",
+				"abyssal_blade",
+				"orchid",
+				"mjollnir",
+				"monkey_king_bar",
+				"manta",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Upgrade your boots to this before running out of space. An extra slot is not worth going without a TP scroll.",
+				"power_treads":"Generally first built item following Bracer.",
+				"vladmir":"Best bought by someone else. But a healthy contribution to your team and your own killing capacity. Typically an item you are looking at when you don't have much money to spend and bigger items seem too far off.",
+				"orchid":"Typically next item to be built after core. A sage's mask can be bought before core is done to help with mana and built into this later.",
+				"monkey_king_bar":"In case of evasion on the enemy team, primarily.",
+				"manta":"A very late game upgrade to Yasha, to be built as you run out of room. Other items will typically have priority.",
+				"skadi":"In most situations, upgrade Orb of Venom to this following Orchid Malevolence. Helps weaken opposing carries as is your specialty and the slow plus your own speed ensures kills. The stats also compensate for your horrendous stat gain.",
+				"yasha":"Last \"core\" item to be built. Can be completed well before 20 minutes, at which point you should roam, gank, and accrue as many kills as possible.",
+				"orb_of_venom":"Pick up at your convenience anytime after Bracer and Boots are bought. You can also start with one if you have random gold.",
+				"ancient_janggo":"Build this before the Yasha. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_essence_shift",
+			"3":"slark_dark_pact",
+			"4":"slark_pounce",
+			"5":"slark_pounce",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_essence_shift",
+			"9":"slark_dark_pact",
+			"10":"slark_dark_pact",
+			"11":"slark_shadow_dance",
+			"12":"slark_dark_pact",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slark_dark_pact":"The first point will give you the capacity to remove debuffs as good as any level of the skill. After Pounce is maxed you can prioritize Essence Shift and Dark Pact however you prefer. But skilling this for damage will encourage you to use it more, keep an eye on mana.",
+				"slark_pounce":"Premiere ganking ability, max as early as possible. You may not use Dark Pact every gank, but you will almost certainly use Pounce every gank.",
+				"slark_essence_shift":"At 8+ you can prioritize Dark Pact and Essence Shift however you see fit for your situation. However, two in essence shift typically covers most fights."
+		}
+	}
+}

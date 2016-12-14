@@ -1,0 +1,190 @@
+{
+	"Hero":"mirana",
+	"Title":"Advance Mirana Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches"
+			],
+			"Early/Mid Game Items":
+			[
+				"magic_wand",
+				"boots",
+				"ring_of_aquila",
+				"tpscroll",
+				"bottle",
+				"ancient_janggo"
+			],
+			"Mid/Late Game Core Items":
+			[
+				"power_treads",
+				"phase_boots",
+				"maelstrom",
+				"manta",
+				"butterfly",
+				"desolator",
+				"greater_crit",
+				"mjollnir",
+				"sphere"
+			],
+			"Situational Late Game Items":
+			[
+				"black_king_bar",
+				"assault",
+				"mekansm",
+				"diffusal_blade",
+				"monkey_king_bar",
+				"orchid",
+				"travel_boots",
+				"shivas_guard",
+				"skadi"
+			],
+			"Very Situational ":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"courier",
+				"flying_courier",
+				"dust",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"You can get this or not. (Optional, That is for you to decide) ",
+				"bottle":"Best Item for Mirana. Especially in middle lane.
+Also check for runes or else this item will be useless.
+&quot;Ah fresh mead&quot;",
+				"tpscroll":"Must have item. Always carry a town scroll, Always.",
+				"phase_boots":"Adds Chasing power and gives you good damage.",
+				"power_treads":"Good for Survivability and thread switching mana and strength.",
+				"mekansm":"Very situational, get this if theres no one going to buy it.
+&quot;Bravery is half the victory.&quot;",
+				"pipe":"Can't say much about this Item. But pretty Much a tank should carry this since you're so squishy in teamfights.",
+				"orchid":"Good item against casters.
+Punish the witches!",
+				"assault":"Wanna bring your team to glory! Get this one.
+&quot;When men meet foes in fight, better is stout heart than sharp sword.&quot;",
+				"black_king_bar":"A must have item, get this as fast as you can!
+
+A viking warriors true weapon.",
+				"shivas_guard":"Recommended for Support Mirana. \"Ärmor of the Frost Giants!\"
+
+Steps to execute:
+1.Leap
+2.Starfall
+3.Activate Shiva's Guard
+",
+				"sphere":"Offers great survivability and mana regen for Mirana.
+
+Only get this: 
+
+1. \"21-25\" minutes mark or else dont even bother.
+2. Mana Issues and you can land fair \"accurate\" arrows.
+3. If theres a lot of skill type heroes who will pin you down in teamfghts at start.",
+				"monkey_king_bar":"DAMAGE! and true strike.
+
+ &quot;Never cheat your master.&quot;",
+				"butterfly":"The best item for any agility heroes.
+&quot;Alone is strong&quot;
+",
+				"greater_crit":"Surprise your enemies with this deadly item.
+&quot;Let another's wounds be your warning&quot;",
+				"manta":"Important item that confuse your enemies, destroy towers fast, removes buffs (like stun, silence, spells).
+
+&quot;What is hidden in snow, is revealed at thaw.&quot;",
+				"sange_and_yasha":"Adds strength gain and agility gain.",
+				"mjollnir":"Get this after you obtain one of the following situational items, Feel the wrath of valhalla!!!",
+				"maelstrom":"An important core item for Mirana, provides good farm, damage in teamfights and attack speed.
+
+&quot;A Vikings Best Friend&quot;",
+				"desolator":"Best with Mjolinir.
+
+Fear the reckoning of those you have wronged.
+Behold Desolator!",
+				"yasha":"I might consider this to be your next core item, if your trying to build Manta after or before Maelstrom. &quot;One mind, any weapon.&quot;",
+				"diffusal_blade":"Want to slow enemies and land your arrows, this is it.
+&quot;Slow and sure.&quot;",
+				"ancient_janggo":"Useful in teamfights, gives you more HP and attack speed.
+&quot;Many a friend is poor help indeed, in times of need.&quot;",
+				"ring_of_aquila":"You can get this if you want, Very useful in early/mid game. (Optional)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_starfall",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_arrow",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_invis",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"Viking Starfall:
+
+A great nuke that can be used in team fights and farming later in the game. 
+Most of the times in team fights, you'll want to try to get within melee range (if your brave enough) of your target so that your Starfall has another chance to strike them for half damage. So glorious. ",
+				"mirana_arrow":"Viking Sacred Arrow:
+
+Mirana's glorious signature skill, Sacred Arrow has the potential to be the longest single-target stun in the game. With a bit of &quot;practice&quot;, it can be one of the greatest ganking skills.
+Such a Yenius Skill. 
+
+&quot;Sacred Arrow should not always be used as an initiation tool.&quot; ",
+				"mirana_leap":"Viking Leap:
+
+The leap of faith, nothing much to say about this skill, but most of the time leap is better left as an escape and chasing mechanism -- rarely one for initiation.
+
+Or can be useful for dodging skills like: 
+
+1. Pudge's annoying hook. 
+2. Sniper's Ultimate 
+And more! ",
+				"mirana_invis":"Viking Moonlight Shadow
+
+1.If Leap is on cool-down 
+2.Saving a useful ally 
+3.Positioning your team for a clash
+4.Covering channeling heroes 
+5.Scouting for a possible team fight. 
+(I don't recommend this)
+6.Avoid wards (Like, Roshan)
+
+You can get this skill at level 6 - IF NEEDED",
+				"attribute_bonus":"Stats. It's Stats! Come on!"
+		}
+	}
+}

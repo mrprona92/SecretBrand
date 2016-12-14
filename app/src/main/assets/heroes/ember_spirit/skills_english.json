@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Searing Chains",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Ember Spirit unleashes fiery bolas that wrap around nearby enemies, anchoring them in place and dealing damage each second.",
+        "notes": "Targets are chosen randomly around Xin.<br/>Does not affect Spell Immune or invisible units.<br/>Interrupts channeling spells.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">1/2/2/3</font></b><br/>RADIUS: <b><font color=\"#ffffff\">400</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">80/60/120/100</font></b><br/>TOTAL DAMAGE: <b><font color=\"#ffffff\">80/120/240/300</font></b><br/>UNIT COUNT: <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14/12/10/8",
+        "lore": "Xin\u0027s harshest lessons often employed the use of red-hot chains.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_searing_chains",
+        "youtube":"ca7UulcBAjs",
+        "id": 0
+    },
+    {
+        "dname": "Sleight of Fist",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Ember Spirit dashes around with blazing speed, attacking all enemies in the targeted area of effect, then returning to his start location.  Deals bonus damage to heroes, and less damage to creeps.",
+        "notes": "Targets are determined when the spell is cast.<br/>A regular attack is done to each target every 0.2 seconds.<br/>Any attack modifier that Xin has (such as Critical Strike, Bash, Cleave, or Orb effects) will be applied normally on these attacks.<br/>Abilities and items can be used while Sleight of Fist is active.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">250/350/450/550</font></b><br/>BONUS HERO DAMAGE: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>ATTACK INTERVAL: <b><font color=\"#ffffff\">0.2</font></b><br/>CREEP DAMAGE PENALTY: <b><font color=\"#ffffff\">50%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/22/14/6",
+        "lore": "The studied warrior must whip and weave through its enemies, burning each without pause.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_sleight_of_fist",
+        "youtube":"IwgpZwTKjco",
+        "id": 1
+    },
+    {
+        "dname": "Flame Guard",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Ember Spirit surrounds himself with a ring of fire that consumes incoming magic damage, leaving him unharmed.  Flame Guard deals damage per second in an area around Ember Spirit while Flame Guard is active.  If the shield is broken, the damage is also lost.",
+        "notes": "Magic damage reduction is calculated before any reductions.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">8/12/16/20</font></b><br/>RADIUS: <b><font color=\"#ffffff\">400</font></b><br/>MAGIC ABSORB: <b><font color=\"#ffffff\">50/200/350/500</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">30/40/50/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/90/100/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 35",
+        "lore": "An enemy should never be allowed to approach without difficulty.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_flame_guard",
+        "youtube":"zw9G68rgHt0",
+        "id": 2
+    },
+    {
+        "dname": "Activate Fire Remnant",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Select the Fire Remnant to arrive at.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "With blazing speed does a spirit fly!",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_activate_fire_remnant",
+        "youtube":"BmnxTs3P5Tg",
+        "id": 3
+    },
+    {
+        "dname": "Fire Remnant",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Ember Spirit generates Fire Remnant charges every 35 seconds, with a max of 3 charges.  Releasing a charge sends a Fire Remnant that runs to the target location at 2.5x Ember Spirit\u0027s speed.  Using Activate Fire Remnant, Ember Spirit can dash out to his Remnants, exploding them for area of effect damage.  The targeted Remnant will be arrived at last.",
+        "notes": "Starts with 3 charges (maximum).<br/>Fire Remnants move to where you targeted them at 2.5x your speed.",
+        "dmg": "",
+        "attrib": "MAX CHARGES: <b><font color=\"#ffffff\">3</font></b><br/>CHARGE RESTORE TIME: <b><font color=\"#ffffff\">35</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">100/150/200</font></b><br/>RADIUS: <b><font color=\"#ffffff\">450</font></b><br/>DURATION: <b><font color=\"#ffffff\">45</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "By the spirit\u0027s power are Xin\u0027s teachings spread anew.",
+        "hurl": "Ember_Spirit",
+        "name": "ember_spirit_fire_remnant",
+        "youtube":"PbXcv1MG-go",
+        "id": 4
+    }
+]

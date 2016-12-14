@@ -1,0 +1,98 @@
+{
+	"Hero":"lion",
+	"Title":"Win middle, win game.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"ring_of_regen",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"null_talisman",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"dagon",
+				"blink"
+			],
+			"luxury":
+			[
+				"ghost",
+				"ethereal_blade",
+				"travel_boots",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger lets you initiate easily as well as line up multiple heroes for your stun.",
+				"ring_of_protection":"Part of Tranqs.",
+				"branches":"Optional, get this if you plan to get a wand.",
+				"ring_of_regen":"Part of Tranqs.",
+				"magic_wand":"Optional",
+				"ghost":"Good for fighting enemies that are heavy right clickers. Skeleton King, Lycan, PA, TA, Sniper, etc. Not being hit will allow you to blink away.",
+				"tpscroll":"Always carry a TP.",
+				"travel_boots":"Can't go wrong.",
+				"null_talisman":"Part of Dagon.",
+				"sheepstick":"If you're stupidly farmed and already have a dagon 5 + eth blade.",
+				"dagon":"Get the first level of dagon, then get a blink dagger before maxing out the dagon to 5.",
+				"ethereal_blade":"Get this if you have way too much gold.",
+				"tranquil_boots":"Tranqs will allow you to sustain your health easily with mana drain as well as help travel the map for ganks/initiation."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_mana_drain",
+			"3":"lion_mana_drain",
+			"4":"lion_impale",
+			"5":"lion_mana_drain",
+			"6":"lion_finger_of_death",
+			"7":"lion_mana_drain",
+			"8":"lion_impale",
+			"9":"lion_impale",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_voodoo",
+			"14":"lion_voodoo",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"Use this to set up for your mana drain while laning as well as to disrupt enemy last hits while getting your own.
+
+Notes: Try to stun multiple heroes with one cast, and you can ground-target this for a bit of extra distance.",
+				"lion_mana_drain":"With recent range buffs this will effectively prevent almost anyone from getting too close to the creep wave in early laning phase, mid and late game it can be used to disable certain heroes (tide, enig, etc) with low mana pools/high mana costs.
+
+Notes: Kills illusions, good morphling counter.",
+				"lion_finger_of_death":"It's good to keep track of exactly how much damage you're capable of, take whatever magical damage you do total and multiply it by .75 (assuming they have no magic resistance items).
+
+For example, with Lvl2 Impale and Lvl1 Finger you'll do 547 damage after base magic armor."
+		}
+	}
+}

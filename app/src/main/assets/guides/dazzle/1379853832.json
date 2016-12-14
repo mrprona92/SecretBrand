@@ -1,0 +1,101 @@
+{
+	"Hero":"dazzle",
+	"Title":"Heal master ili \"ebat, ya jivoi\"",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"courier",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"tpscroll",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"mekansm",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem"
+			],
+			"По ситуации (not fun)":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"cyclone",
+				"force_staff"
+			],
+			"По ситуации (fun)":
+			[
+				"desolator",
+				"greater_crit",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"pizdataya veto4ka dlya pizdatih sapportov",
+				"clarity":"Кларити много не бывает. Возьми себе и поделись с братюней",
+				"flask":"Если совсем уж пиздец, посылаем нахуй своего керри и спасаемся сами, жрем фласочку)",
+				"tango":"Тунгусик должен ты сожрать, чтоб манну сразу не просрать (на хил)",
+				"courier":"Если ты не пидорас, купи курочку за раз. И апнуть не забудь",
+				"tpscroll":"СЬЯБЫВАЕМ СЬЯБЫВАЕМ",
+				"flying_courier":"Да-да, апнуть не забудь",
+				"sheepstick":"Хекс пекс фекс нахуй",
+				"cyclone":"Если ты бомжара и на хекс не хватает - ветерок отлично зайдет против таких пидоров как хускар",
+				"dagon":"В любой непонятной ситуации собирай ДАГОООООН",
+				"ultimate_scepter":"Ебать.. Я когда первый раз собрал аганим, я охерел от радиуса ульты ) Фановская шмотка, но не столь важна как тот-же хекс",
+				"greater_crit":"Критулички, критулички ",
+				"desolator":"Dazzle из клана Дезун с Дезолятором! ЗБС"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shadow_wave",
+			"2":"dazzle_shallow_grave",
+			"3":"dazzle_shadow_wave",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_shadow_wave",
+			"6":"dazzle_poison_touch",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_shallow_grave",
+			"9":"dazzle_weave",
+			"10":"dazzle_poison_touch",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_poison_touch",
+			"14":"dazzle_shallow_grave",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"Hero":"viper",
+	"Title":"A sensible approach to Viper",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"sobi_mask",
+				"tpscroll"
+			],
+			"Core Build":
+			[
+				"mekansm",
+				"ring_of_aquila",
+				"phase_boots",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"heavens_halberd",
+				"manta",
+				"black_king_bar",
+				"monkey_king_bar",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Allows you to trade slightly more effectively in lane.",
+				"branches":"Cheap stats, always very useful early in the game to give you a slight edge in lane. Save 2 of these to later build into your Mekanism.",
+				"sobi_mask":"Should solve most early mana problems and will be used to complete your Ring of Basilius once you can afford mekanism.",
+				"flask":"More gold efficient health restoration for when you take considerable damage. Regen stops you from having to return to base.",
+				"tango":"Whenever you are missing 100 health, you almost always want to tango when you get the chance. Staying healthy can be the difference between dying and not dying.",
+				"tpscroll":"From around level 6 and onwards, always carry a TP. Being able to TP to a side-lane when your ally is being tower-dived is extremely powerful and important!",
+				"phase_boots":"You could also get treads or arcane boots. Phase gives you more mobility though, useful for chasing, running and positioning in team fights.",
+				"mekansm":"Use the Ring of Regen from your Tranquil Boots when making this. Why Mekanism? Viper does a lot of damage without damage items. And the fact is he doesn`t scale greatly with agility. This allows to him to be a huge benefit to his team as well as becoming more durable.",
+				"pipe":"If you judge the enemy line-up to have a very considerable amount of AOE magical damage and no one else on your team can/will get a pipe. Then you should, consider getting it even before your agha against heavy magical AOE teams, it can win fights.",
+				"ultimate_scepter":"This item makes Viper a very scary ganker throughout the game as it gives a huge boost to the range of his ultimate. Also the low cooldown helps to ensure you can have this up on their carry as much as possible. Turning him into quite an effective anti-carry hero.",
+				"black_king_bar":"If you`re unable to do anything in team fights due to being stunned, nuked down or silenced then a BKB is always a good item, on almost any hero.",
+				"monkey_king_bar":"Useful against carries with evasion or windrunner if you`re having a hard time killing her later on. Note that this doesn`t work on Void`s Backtrack.",
+				"manta":"Situational, manta dispells silences, most slows and can be used to dodge certain projectiles. It gives you a nice movespeed bonus and the images can make use of your nethertoxin passive too. Definitely the route to go if you feel you need more surviability from certain spells or a dps boost.",
+				"heavens_halberd":"Helps beef up Viper`s hp pool, and with the magic resistance from his passive and the physical evasion from this, gives you a large amount of `effective hp`. Not to mention this increases your ability as an `anti-carry` even more with its disarming active.",
+				"ring_of_aquila":"Gives you some minor mana regen as well as some nice stats, just a matter of making the most out of 1 slot. Use the Sobi Mask and the Ring of Protection from your Tranquil Boots to make this.",
+				"tranquil_boots":"Tranquils are very strong in the laning phase and mean you`ll probably never have to return to base to regen. You`ll be disassembling this soon and using the parts to make your Ring of Basilius and your Mekanism."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_nethertoxin",
+			"3":"viper_nethertoxin",
+			"4":"viper_poison_attack",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_nethertoxin",
+			"8":"viper_nethertoxin",
+			"9":"viper_poison_attack",
+			"10":"viper_corrosive_skin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"This is why viper is so feared in lane, it`s an `Orb` meaning a modification of your normal attack. When you use it on the enemy it doesn`t draw creep agro. It also slows movespeed and attack speed so enemies will have a very hard time both running away from you and trading with you.",
+				"viper_nethertoxin":"This is what gives Viper such huge single-target dps without items. The more HP they are missing, the harder you will hit. In the early game this passive makes viper very scary.",
+				"viper_corrosive_skin":"A good passive. The magic resistance is very helpful and the rest helps you to become a less appealing target to enemy right clickers. With this and your `Q` you can kite heroes even in the mid-late game providing they have no magic immunity.",
+				"viper_viper_strike":"The most important feature of his ultimate is that the effects ignore magic immunity. The attack speed and movement speed slows will persist through bkb. The damage won`t but that doesn`t matter. Can really shut down a carry when this is up. Just run from them/kite them until their bkb has worn off."
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_disruptor",
+	"Title":"Recommended items for Disruptor",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"clarity",
+			"branches",
+			"branches",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"arcane_boots",
+			"magic_wand",
+			"mekansm",
+			"ward_observer",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"blink",
+			"force_staff",
+			"shivas_guard",
+			"pipe",
+			"necronomicon_3",
+			"veil_of_discord",
+			"flying_courier"
+		]
+	}
+}

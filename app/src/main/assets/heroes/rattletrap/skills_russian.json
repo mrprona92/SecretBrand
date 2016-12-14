@@ -1,0 +1,58 @@
+[
+  {
+    "dname": "Battery Assault",
+    "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+    "desc": "Производит выстрел высокомощной шрапнелью в случайных ближайших юнитов, нанося незначительный магический урон и ненадолго оглушая.",
+    "notes": "Наносит урон каждые 0,7 секунды.<br/>Продолжает действовать, даже если ваш герой выведен из строя.<br/>Всего урона: 320/640/960/1280",
+    "dmg": "УРОНА: <b><font color=\"#ffffff\">20/40/60/80</font></b>",
+    "attrib": "РАДИУС: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10.5/10.5/10.5/10.5</font></b><br/>ИНТЕРВАЛ: <b><font color=\"#ffffff\">0.7/0.7/0.7/0.7</font></b>",
+    "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/75/75/75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 32/28/24/20",
+    "lore": "Некоторые устройства Развалюхи не работают так, как надо, так что их подрыв неплох для нападения.",
+    "hurl": "Clockwerk",
+    "name": "rattletrap_battery_assault",
+    "youtube": "5P3Dk2VzVVo",
+    "id": 0
+  },
+  {
+    "dname": "Power Cogs",
+    "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+    "desc": "Создает барьер из заряженных шестерней вокруг Clockwerk, захватывая в ловушку всех ближайших юнитов. Враги вне ловушки, пытаясь дотронуться до шестеренок, будут отбрасываться назад, теряя здоровье и ману. Нанесшие удар шестерни отключаются. Враги могут уничтожить шестерню, самому Clockwerk на это требуется один удар.",
+    "notes": "Шестерни отталкивают невидимых врагов.",
+    "dmg": "",
+    "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>СЖИГАНИЕ МАНЫ/ЗДОРОВЬЯ: <b><font color=\"#ffffff\">80/120/160/200</font></b><br/>ТРЕБУЕТСЯ АТАК: <b><font color=\"#ffffff\">2/2/2/3</font></b>",
+    "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/60/70/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+    "lore": "Clockwerk очень горд за одно из своих лучших изобретений — силовые шестерни — хотя иногда соратники им не рады.",
+    "hurl": "Clockwerk",
+    "name": "rattletrap_power_cogs",
+    "youtube": "rzTnmYGoJXA",
+    "id": 1
+  },
+  {
+    "dname": "Rocket Flare",
+    "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+    "desc": "Выпускает сигнальную ракету в любую точку карты. Ракета взрывается в указанной зоне, нанося урон противникам и давая обзор данной зоны в течение 10 секунд.",
+    "notes": "",
+    "dmg": "УРОНА: <b><font color=\"#ffffff\">80/120/160/200</font></b>",
+    "attrib": "РАДИУС: <b><font color=\"#ffffff\">575/575/575/575</font></b>",
+    "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/18/16/14",
+    "lore": "Со временем праздничное представление превратилось в полезное орудие для разведки и бомбардировки.",
+    "hurl": "Clockwerk",
+    "name": "rattletrap_rocket_flare",
+    "youtube": "etHgBKQTjEE",
+    "id": 2
+  },
+  {
+    "dname": "Hookshot",
+    "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+    "desc": "Быстро запускает захват в указанном направлении. Если крюк попадает в живое существо, Clockwerk запускает себя в цель, оглушая ее и нанося урон. Любые враги, с которыми Clockwerk сталкивается по пути, получают урон и оглушение.<br/>Улучшается с Aghanim's Scepter.",
+    "notes": "С помощью этой способности можно запустить себя в союзника, но он не получит урон и не будет оглушен.<br/>Оглушение проходит сквозь невосприимчивость к заклинаниям, а урон — нет.",
+    "dmg": "",
+    "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1/1.5/2</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">2000/2500/3000</font></b><br/>УРОН: <b><font color=\"#ffffff\">100/200/300</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">12/12/12</font></b>",
+    "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/150/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/55/40",
+    "lore": "Несмотря на свою громоздкость, Hookshot способен отправить неуклюжую броню Clockwerk в полет.",
+    "hurl": "Clockwerk",
+    "name": "rattletrap_hookshot",
+    "youtube": "fbAceDpaO2s",
+    "id": 3
+  }
+]

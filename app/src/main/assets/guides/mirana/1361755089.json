@@ -1,0 +1,80 @@
+{
+	"Hero":"mirana",
+	"Title":"Semi Carry Mirana",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"bracer",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"mjollnir"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"skadi",
+				"satanic",
+				"greater_crit",
+				"butterfly"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_arrow",
+			"2":"mirana_starfall",
+			"3":"mirana_starfall",
+			"4":"mirana_leap",
+			"5":"mirana_starfall",
+			"6":"mirana_invis",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_arrow",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"Mirana's bread and butter skill, great for nuking or harassing.  Try to isolate an enemy hero so the secondary starfall hits them as well.",
+				"mirana_arrow":"Somewhat risky usage of mana compared to Starfall, be careful about wasting a lot of mana on missed arrows.  Potentially amazing for setups.",
+				"mirana_invis":"Use this to initiate or during teamfights so low hp allies can escape."
+		}
+	}
+}

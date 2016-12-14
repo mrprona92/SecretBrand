@@ -1,0 +1,84 @@
+{
+	"Hero":"obsidian_destroyer",
+	"Title":"The Harbinger Comes - Carry build by Nri",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"tango",
+				"mantle",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"bottle"
+			],
+			"Mid Game":
+			[
+				"force_staff",
+				"rod_of_atos",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"orchid",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Get this if you're going solo mid",
+				"mekansm":"Mek isn't just a support item! OD can use it to tank up and get some much needed hp sustain.",
+				"sheepstick":"Get either this or Orchid Malevolence",
+				"orchid":"Get either this or Scythe of Vyse"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"obsidian_destroyer_astral_imprisonment",
+			"2":"obsidian_destroyer_essence_aura",
+			"3":"obsidian_destroyer_astral_imprisonment",
+			"4":"obsidian_destroyer_essence_aura",
+			"5":"obsidian_destroyer_arcane_orb",
+			"6":"obsidian_destroyer_sanity_eclipse",
+			"7":"obsidian_destroyer_essence_aura",
+			"8":"obsidian_destroyer_essence_aura",
+			"9":"obsidian_destroyer_astral_imprisonment",
+			"10":"obsidian_destroyer_astral_imprisonment",
+			"11":"obsidian_destroyer_sanity_eclipse",
+			"12":"obsidian_destroyer_arcane_orb",
+			"13":"obsidian_destroyer_arcane_orb",
+			"14":"obsidian_destroyer_arcane_orb",
+			"15":"attribute_bonus",
+			"16":"obsidian_destroyer_sanity_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

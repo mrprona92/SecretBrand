@@ -1,0 +1,144 @@
+{
+	"Hero":"lion",
+	"Title":"Purge's Guide to Lion Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"tpscroll",
+				"ward_observer",
+				"gauntlets",
+				"branches"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"urn_of_shadows",
+				"ward_sentry",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"arcane_boots",
+				"force_staff",
+				"blink",
+				"ghost",
+				"ancient_janggo",
+				"mekansm",
+				"gem",
+				"rod_of_atos",
+				"cloak",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger is sometimes a core Lion item(such as in a mid lane), but as a support, I don't recommend purchasing it unless you are far ahead, as a support.
+
+I usually will grab force staff over blink dagger, and I especially recommend this at lower skill levels, as Force is more defensive.",
+				"gauntlets":"I put a gauntlet in the early game because you can either build into an Urn or a Bracer with it. I prefer Urn myself, for the heal, and the fact that it gives the same +hp, albeit for a little more gold.",
+				"branches":"Each ironwood branch gives 19 hp, 13 mana, 1 damage and a little armor and attack speed! That can sometimes be the difference in surviving or not!
+",
+				"boots":"Lion is a pretty slow hero, so extra movement speed from boots is important for positioning. Make sure to buy these from the side shop if you can so that you don't waste the courier!",
+				"gem":"Support heroes often purchase gem as a counter against invisible heroes when you're ahead. If done right, it completely prevents enemy invis heroes from snowballing at all, and usually makes them pretty useless.
+
+Only purchase this if your teamfights are going ok, and you won't lose immediately!",
+				"cloak":"Cloak is sometimes a very cost effecient item to grab as a support hero if the enemy mid or carry has a large amount of magic burst damage(like Morphling or Luna).",
+				"magic_stick":"Magic stick is sometimes picked up from the sideshop before boots, but most times after. It gives much needed mana and hp burst in the lane, and oftentimes will let you outplay your opponent and produce kills!
+
+Magic stick is a MUST on support heroes! ",
+				"magic_wand":"Eventually upgrade your magic stick to a magic wand so that you can have more charges, as well as a bit extra stats. I build magic wand on every support hero I play, because it is so cost effecient.",
+				"ghost":"Ghost scepter is on the list of situational items for ALL support heroes because you often will have a large farm discrepency between yourself and enemy carries.
+
+Use ghost to buy yourself 4 seconds to stay alive versus enemy carries and it will make a big difference in fights!",
+				"clarity":"Almost all supports need clarity potions to be able to cast spells. Lion is an int hero so he has a lot more mana pool, but 50 gold on a clarity potion won't hurt!",
+				"flask":"You should have 1 salve and 1 tango to try and keep yourself alive and in lane as much as possible to help your carry!",
+				"ward_observer":"Every team should have at least 1 observer ward that has vision on a rune at the start of the game, or your mid will be at a disadvantage. Make sure to have at least 1 ward on the map at all times, especially at night!",
+				"ward_sentry":"It is your job as a support hero to purchase sentry wards for your team. At lower levels, don't worry about counterwarding as much, but if they have invis gankers, you NEED to have sentry wards to counter those heroes.
+
+If the enemy has a Rikimaru, Nyx assassin, or Bounty Hunter, buy these!",
+				"tango":"You will take harassment and damage as a support hero, so I recommend having 1 tango + 1 salve for the laning stage! Even if you don't use this, you can keep it until midgame, or give it to your carry.",
+				"courier":"All teams need a courier, and as a support hero, you should generally be the one to purchase it! If someone else buys before you, spend more money on stats, or pick up sentry wards instead!",
+				"tpscroll":"It is crucial that you carry a tp scroll as a support hero, in case your allies get dived under towers at various parts of the map. You can't be everywhere at once, but TP scrolls help you get a little closer to that.",
+				"power_treads":"Some will disagree with my choice of power treads on Lion, but with proper tread switching, it scales well into the late game, and gives Lion some much needed damage from right click.
+
+It also allows him much more hp and survivability than picking up Arcane boots.",
+				"mekansm":"I generally thjink building mek on Lion is a mistake because his mana costs are so high, but if no one on your team is building one, you can sometimes be the right hero to get it.
+
+If you do build mek, I recommend getting arcane boots so that your mana pool can better handle casting your spells+mek.",
+				"urn_of_shadows":"I really like Urn on 4th or 5th position supports if no one else is getting it because it allows you to stay in combat longer.
+
+It costs more than a bracer, but it gives more survivability, and the mana regen is also very nice.",
+				"force_staff":"Force staff is one of the best items to purchase on support heroes because it allows you to position yourself, escape, or save allies.
+
+The extra intelligence and regen is helpful as well. If you are doing really well, get a blink. If you are doing ok or are behind, get force.",
+				"ultimate_scepter":"As a support hero it's unlikely that you'll get enough money to build an Aghanihms. It's also important to point out that the payoff of that 4100 gold doesn't much hit you until you finish the item, so generally I will grab a force staff for a cheap ~2200 instead, but you CAN get aghanihms!",
+				"arcane_boots":"The only time I would buy Arcanes on Lion, is if I'm either doing extremely well, or if my allies REALLY need some arcane boots because they are strength casters that have mana problems.
+
+I would much prefer to purchase treads so that my survivability and attack speed are ok.",
+				"ancient_janggo":"Ghost scepter is on the list of situational items for ALL support heroes because you often will have a large farm discrepency between yourself and enemy carries.
+
+Use ghost to buy yourself 4 seconds to stay alive versus enemy carries and it will make a big difference in fights!",
+				"rod_of_atos":"I hesitated to add this to Situational items, but the +hp that it gives with its utility is pretty good to counter fast moving heroes like Nightstalker or Spectre, or easily kited ones like Ursa and Skeleton King. I would generally get Force over Rod of Atos, but it's a possibility."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_voodoo",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_mana_drain",
+			"9":"lion_voodoo",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_mana_drain",
+			"14":"lion_mana_drain",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"Earth Spike is a great stun that has the reliability of a single target nuke, while still having aoe! Once you become experienced with the skill, I recommend ground targeting so that you can hit multiple heroes with it, as aoe stuns are EXTREMELY powerful in teamfights.
+
+Max this first for damage!",
+				"lion_voodoo":"Hex is a great single target disable that does fun things like removes radiance burn and evasion. It also has an instant cast time, so generally this is best for initiating over Earth Spike. Try to not cast this unless you are saving lives or getting kills, though, because of mana and cooldown.",
+				"lion_mana_drain":"You can get 2 levels of mana drain in the early game if you want to drain an offlane hero, or have more mana in between nukes for harass, but generally it's quite important to get at least 1 in hex for the extra disable. I will get maxium 2 mana drain before going back to finish hex.",
+				"lion_finger_of_death":"Finger of Death is an impressively strong single target nuke with a huge cooldown. It should be used to burst down important heroes like carries and mids in combonation with your Earth Spike. Make sure to only use it when you are sure you can kill! ",
+				"attribute_bonus":"You can get attributes instead of Mana Drain if you get Arcane boots, but generally I think you should get mana drain in the late game and focus on more hp items with your gold."
+		}
+	}
+}

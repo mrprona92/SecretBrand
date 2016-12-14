@@ -1,0 +1,115 @@
+{
+	"Hero":"faceless_void",
+	"Title":"Supercarry Faceless Void",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"slippers",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"hand_of_midas",
+				"power_treads"
+			],
+			"Core":
+			[
+				"mask_of_madness",
+				"maelstrom",
+				"tpscroll"
+			],
+			"Situational Mid Game":
+			[
+				"mjollnir",
+				"black_king_bar"
+			],
+			"Situational Late Game":
+			[
+				"greater_crit",
+				"butterfly",
+				"monkey_king_bar",
+				"ultimate_scepter",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"This item allows you to easily last hit even under your tower. It also helps you clear neutral camps faster later on. Keep it until you have your Maelstrom.",
+				"slippers":"Convert this into a Poor Man's Shield either as soon as possible if you are harassed, or after you finish Hand of Midas if you have freefarm.",
+				"branches":"Filler starting items. They grant more HP, mana and last hitting power. If constantly harassed via spells, turn them into a Magic Wand, otherwise sell them later to open up inventory slots.",
+				"flask":"Reserve source of regeneration. Use it when no enemies are around and when you are missing at least 400 HP to quickly rejoin the lane and farm.",
+				"tango":"Stable source of regeneration for sustaining harrassment and creep attacks.",
+				"tpscroll":"Although not exactly a core item, you will always need to have one of these in your inventory so you can quickly join a fight, farm a lane or go to base. If you have Boots of Travel, stop buying these.",
+				"travel_boots":"Boots of Travel are gotten last, after you have farmed all your other items. They will replace your Power Treads and you will no longer need to carry a teleport scroll.",
+				"ring_of_health":"This is the first component of Battle Fury that you will get. It can be gotten at the side shop and provides constant regeneration for uninterrupted farming. Get it after Power Treads unless you are under heavy harassment.",
+				"power_treads":"Power Treads are needed to boost Void's attack speed. Switch them to Agility mode when farming. Switch them to Strength mode when fighting enemies. Switch them to Intelligence before casting a spell to save mana.",
+				"hand_of_midas":"Try to get it in the first 6-9 mins. If you can't, don't go for it.
+Focus on last hitting.
+Use it on the nearest creep when it's off cooldown for maximum profit.
+Use it on big neutral creeps to level up faster.
+Sell it at full inventory to free a slot.",
+				"poor_mans_shield":"Buy this at the side shop. Get it as soon as possible to block a good chunk of damage and burn through your consumables at a slower rate.",
+				"ultimate_scepter":"Get this item if you have enough DPS items and are looking for some survivability. Your Chronosphere will last up to 6 seconds and will only have a 60 second cooldown, meaning you can use it more often and with greater success. You will also have more HP, which means more Backtracks.",
+				"black_king_bar":"Get and use this in fights if the enemy team has many nukes or if multiple enemies can disable you before or during Chronosphere.",
+				"monkey_king_bar":"Only get this if you are facing heroes that cause your attacks to miss, like Brewmaster or Troll.",
+				"butterfly":"Get this item if you need more DPS as well as survivability to physical damage. Butterfly's evasion stacks with Backtrack. Always start with Talisman of Evasion first when building towards a Butterfly to get the evasion as soon as possible.",
+				"greater_crit":"Aquiring Daedalus will allow you to get solo multikills in Chronosphere. The damage combined with your massive attack speed should allow you to kill at least 2-3 people in 1 Chrono. Get this if survivability isn't a problem.",
+				"mjollnir":"The natural upgrade of Maelstrom. Mjollnir's Chain Lightning attack modifier stacks with lifesteal. It only disables lifesteal on attacks where Chain Lightning occurs. Use Static Charge for more AoE DPS.",
+				"maelstrom":"With the buffs to Maelstrom, you farm as fast as if you has a Battlefury. The lightning damage is very significant, especially if you have activated your Mask of Madness. Do not worry, you will still lifesteal on every attack that doesn't trigger the chain lightning.",
+				"mask_of_madness":"Getting an early Mask of Madness allows you to easily solo kill people using Chronosphere. It also allows you to farm the lanes and the jungle much faster."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_time_lock",
+			"3":"faceless_void_backtrack",
+			"4":"faceless_void_time_lock",
+			"5":"faceless_void_time_lock",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_lock",
+			"8":"faceless_void_backtrack",
+			"9":"faceless_void_backtrack",
+			"10":"faceless_void_backtrack",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"This is a Blink that slows. While Time Walking, you ignore incoming projectiles and take no damage.
+Early game, save it for escaping or securing kills, because it has a high mana cost. Later, use it to travel quickly on your farming routes and land good Chronospheres.
+Always get Time Walk at level 1",
+				"faceless_void_backtrack":"Backtrack gives you a chance to ignore the damage of an attack, but never negates other effects like stuns or slows. The more HP you have, the more damage you will backtrack, therefore this should be leveled later in the game.
+Backtrack does not get disabled by MkB and stacks with evasion items.",
+				"faceless_void_time_lock":"Time Lock is a bash and a DPS booster. Max it first in order to kill creeps faster and increase your chances of landing kills early in the game. Units bashed during Chronosphere take double damage from the bash, which severely boosts your early DPS. Time Lock does no damage to magic immune units.",
+				"faceless_void_chronosphere":"The best disable in the game. Stuns everything except Void and units he may have. Ignores magic immunity. Evasion and invisibility don't work inside it. It has a long duration, large AoE and relatively short cooldown. It also freezes allies, so place it very carefully. Get it whenever you can.",
+				"attribute_bonus":"Get stats only after you maxed your other skills, since they are more useful to you."
+		}
+	}
+}

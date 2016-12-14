@@ -1,0 +1,108 @@
+{
+	"Hero":"beastmaster",
+	"Title":"Master of Beasts",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"bracer",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"necronomicon",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"vanguard",
+				"pipe",
+				"heart",
+				"vladmir",
+				"ultimate_scepter"
+			],
+			"Mid Lane start into early bottle":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Depending on who you are laning against, and the enemies team comp, (If they have alot of usable abilties rather than passives) a wand can be a great addition to any champion in regards to healing and mana returns.  ",
+				"power_treads":"Extra health from power treads (and the damage bonus) works extremely well on BM.",
+				"mekansm":"A must have on BM, the armour bonus and heal will make him incredibly tanky and will provide great support for your team. ",
+				"vladmir":"BM`s attack speed aura works well with this item. Take if extra armour required on team, will benefit an auto attack champ aswell with the lifesteal. ",
+				"pipe":"Great against a magic heavy team, the regen will also come in handy. ",
+				"urn_of_shadows":"Provides much needed early sustain and heals allow you to be very tanky early on. ",
+				"necronomicon":"Fantastic item, provides str, and int (mana is an issue on BM) and the minions will add so much to a BM.
+
+At lvl 3 provides mana drain, attack speed aura (stacking with BM`s abilities), true sight, true damage (if one of the minions is killed). Great for pushing towers and extra dps alongside boar.",
+				"ultimate_scepter":"Awesome item if you have the money and space, should only be built though if you have exhausted other posibilities. ",
+				"heart":"Provided you are very farmed a heart is a fantastic addition for BM, making him tankier and hit harder. ",
+				"vanguard":"Great against a psychical heavy team, good for regen aswell. ",
+				"monkey_king_bar":"Fast attack speed makes this item deadly in BMs hands. ",
+				"ancient_janggo":"Great aura item and will make you extra tanky. The speed boost will give great engage and escape potential aswell."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_inner_beast",
+			"3":"beastmaster_wild_axes",
+			"4":"beastmaster_call_of_the_wild",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_inner_beast",
+			"10":"beastmaster_call_of_the_wild",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_call_of_the_wild",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"Axes early game give BM much needed poke and ranged damage, with a starting mana bar you can throw two sets of axes, but each axe can hit twice on each enemy if thrown with precision.
+Great push/anti push move. Late game should be used to poke and clear waves.",
+				"beastmaster_call_of_the_wild":"Eagle provides great scouting possibilities and if you struggle with micro having it hover above lair, or having it follow you (giving you increased vision) gives you an easy managable use for the ability.
+
+Boar provides much needed range damage and a DoT to BM arsenal. ",
+				"beastmaster_inner_beast":"BM tails off late game but this gives him potential in most team comps, and your carries will love you.",
+				"beastmaster_primal_roar":"Fantastic engage, stunning key targets in team fights and pushing both creeps and enemy players away from the target of the shout (providing some space to engage). The push time could be considered a mini stun or in the least distruption, where as the shouts main stun can be a great interrupt. "
+		}
+	}
+}

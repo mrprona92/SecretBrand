@@ -1,0 +1,129 @@
+{
+	"Hero":"windrunner",
+	"Title":"Speedrunner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"flask",
+				"ward_observer",
+				"branches",
+				"branches"
+			],
+			"Early Items":
+			[
+				"magic_stick",
+				"sobi_mask",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"medallion_of_courage",
+				"phase_boots",
+				"force_staff"
+			],
+			"Lategame Items":
+			[
+				"cyclone",
+				"blink",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The Blink Dagger is a fantastic positioning (and sometimes escape) tool, and it really helps you setup those perfect shackles.
+
+If you decide to purchase this before Eul's Scepter (which I do pretty frequently), consider buying the Scepter's Void Stone first to help boost your lategame mana supply.",
+				"branches":"You're going to eventually turn this into a wand.",
+				"sobi_mask":"This will give you 50% boosted mana regeneration, which really helps (especially past level 7 or so). It's up to you to choose whether you want to buy this before Boots of Speed or not.
+
+Remember you can purchase this at the sidelane shop.",
+				"boots":"Boots are necessary on practically every hero in the game. When in doubt buy it before the sage's mask, but if you think you can get away with it buy it after.
+
+Remember you can purchase this at the sidelane shop.",
+				"magic_stick":"Skip the early magic stick if you're up against enemy heroes that don't use spells much (like Sniper).
+
+Otherwise it's the first item I get, and I rush it fast with my first few last hits.
+
+Remember you can purchase it from the sidelane shop.",
+				"magic_wand":"The Magic Wand is a really great item, giving you a lot of cheap stats and letting you leach extra regeneration by hanging around big fights. Build this every game, it really helps.",
+				"clarity":"You have a bit of extra starting gold left over after buying these items. Consider spending the rest on clarities for yourself or pooling them on allies who could use the mana.",
+				"ward_observer":"Get wards if you're heading out to lane in either top or bottom in the early game. Place one ward in the jungle to help prevent ganks. If you're going bot you can use the same ward to also spy on the bottom rune spot.",
+				"travel_boots":"If you have money left over, turn your Phase Boots into a Boots of Travel.",
+				"phase_boots":"If you trade hits with enemies a lot, end up generally low after constant teamfights and tend to head back to base frequently I'd recommend you buy Tranquil Boots rather than Phase Boots.
+
+Remember to keep using the Phase Boots active, it'll speed up your transit everywhere.
+
+Sideshop purchaseable.",
+				"cyclone":"Eul's Scepter is a cheap sheepstick replacement that will give you a lot more mana regeneration, an extra way to save yourself (putting yourself into a tornado) and a lot more passive movement speed.
+
+It's up to you as to whether you want to buy this before your blink dagger or after.",
+				"force_staff":"Force Staff is the ultimate core item on Windrunner and once you purchase it you're practically immortal.
+
+Remember that you can save your allies with it too, and pull enemies out of position as well!",
+				"ancient_janggo":"If you stumble in the early game, buy a Bracer. Bracers give you a lot of cheap tankiness and stats. Later you turn that Bracer into a Drums of Endurace: which gives you fantastic cost efficient stats and an amazing movement speed aura.
+
+Remember to use the active charges on this for MORE speed!",
+				"medallion_of_courage":"Medallion of Courage is an absolutely amazing item on Windrunner. It passively gives you 30% resistance to physical damage, and you can turn that armor into a 30% physical damage amplification debuff on an enemy target. Combine it with Windrun to nullify the damage amplification on yourself!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_focusfire",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"The ministun is great for cancelling channels but you want to try to get a good double shackle every fight, or at the very least a single hero shackled.
+
+Remember that you can use shackleshot on a creep to shackle enemy heroes behind it; works great on ranged creeps during the laning phase.",
+				"windrunner_powershot":"Max this skill first. Don't harass with it until it's at least level 2, otherwise it's mana inefficient.
+
+Remember that you can cancel it early to fire it with reduced damage. When sniping fleeing targets, draw a line across where they're going to run and cancel it as they cross it.",
+				"windrunner_windrun":"I'd recommend saving up your first skill point because you may want to level up shackleshot (to save an ally) or powershot (to secure a kill) in many level 1 firstblood attempt scenarios.
+
+Still, Windrun is the skill you're going to level first almost every game. Don't forget that it slows enemies.",
+				"windrunner_focusfire":"Your ultimate amplifies your physical dps by an extra 150% at level 1, so you may want to get a point in this at level 6 if you think you're going to roam around ganking early.
+
+Your kill sequence is: shackle, medallion's active, then focus fire the target to death."
+		}
+	}
+}

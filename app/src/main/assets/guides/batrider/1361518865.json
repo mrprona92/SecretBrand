@@ -1,0 +1,92 @@
+{
+	"Hero":"batrider",
+	"Title":"[DMX] Batrider - Solo Lane (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"blink",
+				"vanguard",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"force_staff",
+				"cyclone",
+				"sphere",
+				"hood_of_defiance",
+				"pipe",
+				"bloodstone"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_firefly",
+			"2":"batrider_sticky_napalm",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_flamebreak",
+			"5":"batrider_sticky_napalm",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_sticky_napalm",
+			"8":"batrider_firefly",
+			"9":"batrider_firefly",
+			"10":"batrider_firefly",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_flamebreak",
+			"13":"batrider_flamebreak",
+			"14":"batrider_flamebreak",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":"Un sort qui mettra une pression extrême à vos ennemis en les ralentissant drastiquement et vous permettant d'infliger de gros dégâts bonus avec vos attaques.",
+				"batrider_flamebreak":"Un bon sort pour bump vos adversaires dans la direction que vous voulez. Il vous faudra cependant avoir une bonne visée !",
+				"batrider_firefly":"Votre sort d'escape qui fera aussi de gros dégâts si les ennemis vous suivent.",
+				"batrider_flaming_lasso":"Un très bon sort monocible, par contre vous ne pourrez plus attaquez quand vous utiliserez votre lasso."
+		}
+	}
+}

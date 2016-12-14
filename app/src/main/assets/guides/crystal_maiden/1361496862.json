@@ -1,0 +1,123 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Frostbite/Aura Crystal Maiden",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"clarity",
+				"clarity",
+				"courier",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"magic_wand",
+				"tranquil_boots",
+				"bracer",
+				"ward_observer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"pipe",
+				"force_staff"
+			],
+			"Support Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			],
+			"luxury":
+			[
+				"ghost",
+				"cyclone",
+				"blink",
+				"ultimate_scepter",
+				"ancient_janggo",
+				"heavens_halberd",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Great for positioning, escape, and for getting into a good, high ground spot you can rain damage down from.",
+				"gauntlets":"These eventually build into bracers.",
+				"branches":"Has some of the best stat efficiency for gold usage in the game, and builds into the wonderful magic wand.",
+				"magic_wand":"A great item to pick up some additional lane regeneration and some extra stat points.",
+				"ghost":"Useful if the enemy team is a large cadre of right-clicking attackers.  If you are invulnerable to damage and they are attacking you, it means more time for your teammates to lay waste to them.",
+				"clarity":"Use these when harassing with your carry to get them farmed up.  Be careful not to kill any of your own creeps!",
+				"dust":"Useful to reveal enemy heroes that are invisible.  Should use this in response to a hero going invisible, so as to reveal their presence and allow the team to conclude a fight against them with a kill, rather than an enemy escape.  These pay for themselves.",
+				"ward_observer":"Every 5 minutes you want to have two wards out, either at runes, in your woods  if you're on the defensive, and their woods if you're on the offensive.  If you can get some more, great, but in general 2 should be out as a general rule.",
+				"ward_sentry":"Use these to manage against invisible heroes in locations of high contention, and to anticipate team fights.  Additionally useful for de-warding against the enemy team.",
+				"tango":"For in between your harassing of the enemy characters.",
+				"courier":"If someone already bought a courier, get wards.",
+				"tpscroll":"Always have one or two of these on you.  It is crucial Crystal Maiden always gets to fights early and often.",
+				"bracer":"Two of these should get Crystal Maiden up to a survivable level, where she can participate in a team fight without being too easy of pickings.",
+				"mekansm":"Check your teammates.  If someone else is building Mekansm, build a Pipe of Insight instead.  Ask early.  you want to hang back if you have one of these, so you can step in and use it after your team has taken some damage, but before the fight is in full swing.",
+				"flying_courier":"Try to get this done by the 3 minute mark.  It should be one of your first purchases, unless another teammate has bought it by then.  Let them know you're buying it.",
+				"pipe":"Build this to prevent magic damage in a team fight.  Use it once the team is committed to a fight, ideally before the big nukes go off.  If you're not sure, ask your initiator on your team to let you know when the fight is going to start.",
+				"cyclone":"A good disable and great stats for Crystal Maiden.",
+				"force_staff":"Use this to push yourself away from enemies, save your allies, and throw your opponents out into dangerous positions.",
+				"ultimate_scepter":"Great accompaniment late game to go with your blink dagger for an even nastier ultimate attack.",
+				"black_king_bar":"Terrific for Crystal Maiden survivability, and allows her to get her disables and ultimate off without any external penalty.",
+				"ancient_janggo":"Build this if someone has Pipe of Insight, someone else has Mekansm, and no one has Drums.  Honestly though, you should have Pipe or Mekansm instead.",
+				"smoke_of_deceit":"Helpful for setting up a team gank through the enemy woods/in the river/down a lane/through to Roshan.  Let your team know you've bought this and where to group up, with both a verbal request and a ping.",
+				"heavens_halberd":"Useful to prevent enemies with heavy melee attacks from being effective in combat, and vastly improves Crystal Maiden's survivability.",
+				"tranquil_boots":"Use these early and often to get your health topped off.  Every little bit of health Crystal Maiden can preserve is crucial."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_crystal_nova",
+			"2":"crystal_maiden_frostbite",
+			"3":"crystal_maiden_frostbite",
+			"4":"crystal_maiden_brilliance_aura",
+			"5":"crystal_maiden_frostbite",
+			"6":"crystal_maiden_brilliance_aura",
+			"7":"crystal_maiden_frostbite",
+			"8":"crystal_maiden_crystal_nova",
+			"9":"crystal_maiden_crystal_nova",
+			"10":"crystal_maiden_freezing_field",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_crystal_nova",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"crystal_maiden_brilliance_aura",
+			"25":"crystal_maiden_brilliance_aura"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Use this to 1) slow the enemy so they are in range of frost bite and 2) to slow the enemy and allow multiple hits of harassment.",
+				"crystal_maiden_frostbite":"This is a great root and damage output, one that you will want to help your teammates finish off your foe.",
+				"crystal_maiden_brilliance_aura":"The more casters on your team, the better this is.  This global effect works wonders in allowing more harassment and better topped off heroes for team fights.  Later on, this extra 0.5 mana per second is marginal, and stats are more useful to Crystal Maiden.",
+				"crystal_maiden_freezing_field":"A good ultimate, but be sure to have enough hit points before you start using it.  If you have Pipe of Insight or Mekansm, make sure you use it before channeling your 7 second area of effect spell.",
+				"attribute_bonus":"Stats are better to get at level 14 and level 15, through to the end of the game."
+		}
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"Hero":"kunkka",
+	"Title":"Hard Carry Boatguy",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"lesser_crit"
+			],
+			"Late Game":
+			[
+				"heart",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"satanic",
+				"bfury",
+				"black_king_bar",
+				"abyssal_blade",
+				"heavens_halberd",
+				"monkey_king_bar",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"You're a melee hero. You are most likely gonna need this.",
+				"branches":"GG Branch. GG.",
+				"clarity":"Just in case you want to throw out some torrent spam.",
+				"flask":"More regen. Use it when you are very low and a tango just won't cut it.",
+				"bottle":"Don't get this at start. The point of getting less regen is to have a little bit of extra money toward bottle in the first 2 minutes of the game. Once you get it, bottle runes and gank side lanes. If you can get a guarnateed stun, follow up with torrent and boat, and you got easy kills.",
+				"tango":"Regen. Get it.",
+				"phase_boots":"Extra damage is nice for Tidebringer and the phase lets you catch up to enemies or get in and out of a creep wave to get a cleave off.",
+				"bracer":"Never hurts to get one of these. Builds nicely into drums if you decide to go that route.",
+				"heart":"This item is amazing on Kunkka. Once you get it, never turn off your armlet. You get extra damage, HP, and insane regen. You will last through entire teamfights ensuring you do maximum damage with your cleave. After this item, finish Daed.",
+				"black_king_bar":"Sometimes there are just too many stuns to deal with. Get this if you feel like everyone is focusing you in teamfights.",
+				"vanguard":"You're gonna want this for the regen and the block. If you can get it by 12-15min, that is the best.",
+				"monkey_king_bar":"Get this if you are having issues with evasion heroes or spells that cause you to miss. Good damage bonus and it feels good to know you will never miss.",
+				"greater_crit":"Don't build this item completely yet. First get Crystalys. Then wait to finish it after you get your heart. The increased damage and crit multiplier make this item shine on Kunkka. Get ready to one shot entire creep waves.",
+				"bfury":"Damage, more regen, and cleave even when Tidebringer is on cooldown? What isn't to like? Note that the cleave from Battle Fury does not stack with the cleave from Tidebringer. With this item, your farm and teamfight presence will skyrocket. Very good against illusion heroes. Suck it Phantom lancer.",
+				"lesser_crit":"This will be your early/midgame main damage item. The damage and crit it gives is enough to make the other team wish they didn't try to gank you.",
+				"armlet":"This is the key to this build. Better than Shadow Blade because it gives you more HP, damage, armor, and regen as well as options in teamfights. Turn it on right before you hit with Tidebringer. You won't have an escape, but will be getting tanky at this point. Play smart.",
+				"satanic":"This item greatly increases your survivability. You don't get lifesteal on tidebringer hits though.",
+				"ancient_janggo":"In case you still have that Bracer from early game. You can build it into drums if your farm is behind. Gives good stats and a buff that helps the entire team. Don't be greedy.",
+				"abyssal_blade":"The passive bash and bonus 100 damage makes this item fantastic on Boatguy. Get it if you are rich and feel you need more lockdown in teamfights. The active 4 sec stun is good to use on the enemy carry so you can finish him off early.",
+				"heavens_halberd":"Getting destroyed by right click carries? Wish they would just stop attacking for a bit? The Halberd is what you want. Gives you evasion and disarms an enermy hero. Counter those pesky Life Stealers, Drow, and Troll Warlords."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"kunkka_tidebringer",
+			"2":"kunkka_torrent",
+			"3":"kunkka_tidebringer",
+			"4":"kunkka_torrent",
+			"5":"kunkka_tidebringer",
+			"6":"kunkka_ghostship",
+			"7":"kunkka_tidebringer",
+			"8":"kunkka_torrent",
+			"9":"kunkka_x_marks_the_spot",
+			"10":"kunkka_torrent",
+			"11":"kunkka_ghostship",
+			"12":"kunkka_x_marks_the_spot",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"kunkka_ghostship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"kunkka_x_marks_the_spot",
+			"25":"kunkka_x_marks_the_spot"
+		},
+		"AbilityTooltips":
+		{
+				"kunkka_torrent":"Skill shot. Very tricky to land. Try to cast it out of sight when heroes go in for last hits. Does great damage and slows. Is best when you can chain it with a guaranteed stun and then throw an ult.",
+				"kunkka_tidebringer":"This skill is the hero. Max it first. The bonus damage will be applied for denies, but it won't reset the cooldown. This allows you to get almost all denies against enemy heroes. Use it for last hits and amazing lane harass. In team fights, try to position so you hit all enemy heroes.",
+				"kunkka_x_marks_the_spot":"This skill is good once you get the hang of it. Two levels is all that is really needed. X a target and put a torrent where the X is and its a guaranteed hit, but only at level 2. Levels 3 and 4 have longer cast range and delay time. Get it earlier if you have trouble landing torrents.",
+				"kunkka_ghostship":"Ghost ship is another skill shot. And very hard to land, but when you do, it is worth it. Does great damage and gives allies a buff. Always travels 1000 units from where you cast it. Try to surprise the enemy by casting if from behind treelines or out of sight.",
+				"attribute_bonus":"Stats. You need these if you don't want to die. Start picking them up after torrent and tidebringer are maxed. HP, mana, armor, and damage. Its a huge bargin."
+		}
+	}
+}

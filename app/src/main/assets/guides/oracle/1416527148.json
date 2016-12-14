@@ -1,0 +1,76 @@
+
+{
+	"Hero":"oracle",
+	"Title":"Carry Oracle by Lancer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"force_staff",
+				"orchid"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"force_staff",
+				"orchid",
+				"sheepstick",
+				"skadi",
+				"mjollnir"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"heavens_halberd",
+				"butterfly",
+				"dagon",
+				"ethereal_blade",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"oracle_fates_edict",
+			"2":"oracle_fortunes_end",
+			"3":"oracle_fates_edict",
+			"4":"oracle_fortunes_end",
+			"5":"oracle_fates_edict",
+			"6":"oracle_false_promise",
+			"7":"oracle_fates_edict",
+			"8":"oracle_fortunes_end",
+			"9":"oracle_fortunes_end",
+			"10":"oracle_purifying_flames",
+			"11":"oracle_false_promise",
+			"12":"oracle_purifying_flames",
+			"13":"oracle_purifying_flames",
+			"14":"oracle_purifying_flames",
+			"15":"attribute_bonus",
+			"16":"oracle_false_promise",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"Вертолёт (Gyrocopter)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"lifesteal",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"helm_of_the_dominator",
+				"sange_and_yasha"
+			],
+			"luxury":
+			[
+				"skadi",
+				"satanic",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Не обязательно!",
+				"lifesteal":"Купить перед Скипетром.",
+				"magic_wand":"Не обязательно!
+Если купили, то в конце игры (~40 мин.) или когда нужно будет место нужно будет продать!",
+				"tango":"Не обязательно!",
+				"power_treads":"Поставить на ловкость!",
+				"ultimate_scepter":"Собирать после покупки Morbid Mask.",
+				"sange_and_yasha":"Собирать после Helm Of Dominator",
+				"helm_of_the_dominator":"Собирать после Scepter",
+				"ring_of_aquila":"Потом продать!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_homing_missile",
+			"2":"gyrocopter_rocket_barrage",
+			"3":"gyrocopter_homing_missile",
+			"4":"gyrocopter_rocket_barrage",
+			"5":"gyrocopter_homing_missile",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_homing_missile",
+			"8":"gyrocopter_rocket_barrage",
+			"9":"gyrocopter_rocket_barrage",
+			"10":"attribute_bonus",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_flak_cannon",
+			"13":"gyrocopter_flak_cannon",
+			"14":"gyrocopter_flak_cannon",
+			"15":"gyrocopter_flak_cannon",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "attrib": "+ 15/<font color=\"#ffffff\"><b>21</b></font>/24 Intelligence<br/>+ 8/<font color=\"#ffffff\"><b>12</b></font>/16 Strength",
+  "cd": 95.0,
+  "components": ["necronomicon"],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Active: Demonic Summoning - Summons a Warrior and an Archer to fight for you, whose strength and abilities increase as Necronomicon is upgraded. Warrior gains True Sight at level 3. Upgradable. Lasts 40 seconds.",
+  "dname": "Necronomicon lvl2",
+  "dotaId": "necronomicon_2",
+  "mc": 50.0,
+  "img": "necronomicon_2_lg.png",
+  "lore": "Considered the holy grail of necromancy and demonology, a powerful malefic force is locked within its pages.",
+  "id": 193,
+  "created": true,
+  "cost": 3950
+}

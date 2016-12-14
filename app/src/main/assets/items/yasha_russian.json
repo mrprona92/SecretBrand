@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 16 к ловкости<br/>+ 15 к скорости атаки<br/>+ 10% к скорости передвижения",
+  "cd": false,
+  "components": [
+    "blade_of_alacrity",
+    "boots_of_elves"
+  ],
+  "qual": "artifact",
+  "notes": "",
+  "desc": "Процентные бонусы к скорости от нескольких предметов не складываются.",
+  "dname": "Yasha",
+  "dotaId": "yasha",
+  "mc": false,
+  "img": "yasha_lg.png",
+  "lore": "Yasha считается самым скоростным оружием из всех когда-либо созданных.",
+  "id": 170,
+  "created": true,
+  "cost": 2050
+}

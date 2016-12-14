@@ -1,0 +1,102 @@
+{
+	"Hero":"death_prophet",
+	"Title":"6.82 - Standard Death Prophet (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"ghost",
+				"mekansm",
+				"black_king_bar",
+				"rod_of_atos"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"heart",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"If the enemy team is mostly physical heroes, this might help you out of jam, otherwise skip it.",
+				"phase_boots":"With Phase Boots, you can avoid being trapped from creeps, freely trail enemies and keep within distances for your ultimate to deal damage and avoid any direct damages to yourself.",
+				"mekansm":"Get Mekansm to provide more survivability for yourself and to help your team since you will always be in the middle of the fight.",
+				"cyclone":"Great movement speed and a way to keep you out of danger while your ultimate does its job. Use this for getting out of jams and watch everyone falls as you spin in a cyclone safely.",
+				"shivas_guard":"Shiva's Guard is to keep enemies near and to provide further protection for yourself. Keep foes trapped within your area as your ultimate rains chaos.",
+				"bloodstone":"Bloodstone is core on Death Prophet due to her demand for health regeneration and because it helps keep Exorcism up for as long as possible.",
+				"arcane_boots":"Be sure to disassemble these boots when building Blood Stone.",
+				"ancient_janggo":"Another issue Death Prophet has is keeping up with her speedy foes. Drums is to help even the difference out for a cheap cost and some survivability.",
+				"rod_of_atos":"Enemies you want to keep within your ultimate, Rod of Atos can be situationally good; especially for frail heroes that can cast from far away. If you find yourself being aggressive as Death Prophet, Rod of Atos can be justified."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_witchcraft",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_silence",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_witchcraft",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_carrion_swarm":"Great farming tool and a perfect way to keep your enemy in the middle lane back and desperate to heal.",
+				"death_prophet_silence":"Get more points in silence early if the enemy team are caster-heavy.",
+				"death_prophet_exorcism":"Use Exorcism to take down towers fast, create havoc in team-fights and overall, be a walking damage-dealer. Just be careful to keep your distance so your opponent's do not target you down (otherwise Exorcism ends)."
+		}
+	}
+}

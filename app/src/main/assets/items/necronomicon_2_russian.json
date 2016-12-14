@@ -1,0 +1,16 @@
+{
+  "attrib": "+ 15/<font color=\"#ffffff\"><b>21</b></font>/24 к интеллекту<br/>+ 8/<font color=\"#ffffff\"><b>12</b></font>/16 к силе",
+  "cd": 95.0,
+  "components": ["necronomicon"],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Активируемая: Demonic Summoning — призывает воина и лучника, сила и ловкость которых увеличиваются вместе с уровнем Necronomicon. Воин третьего уровня способен раскрывать невидимых юнитов. Можно улучшить. Длительность: 40 секунд.",
+  "dname": "Necronomicon lvl2",
+  "dotaId": "necronomicon_2",
+  "mc": 50.0,
+  "img": "necronomicon_2_lg.png",
+  "lore": "Священная книга некромантии и демонологии — средоточие мощной темной магии.",
+  "id": 193,
+  "created": true,
+  "cost": 3950
+}

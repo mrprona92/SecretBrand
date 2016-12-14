@@ -1,0 +1,15 @@
+{
+  "dotaId": "talisman_of_evasion",
+  "attrib": "+ 25% к уклонению",
+  "cd": false,
+  "qual": "secret_shop",
+  "notes": "",
+  "desc": "Сочетается по закону убывающей полезности с другими источниками уклонения.",
+  "dname": "Talisman of Evasion",
+  "mc": false,
+  "img": "talisman_of_evasion_lg.png",
+  "lore": "Ожерелье, позволяющее предвидеть вражеские атаки.",
+  "id": 32,
+  "created": false,
+  "cost": 1800
+}

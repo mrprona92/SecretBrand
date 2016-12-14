@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_luna",
+	"Title":"Recommended items for Luna",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"branches",
+			"branches",
+			"branches",
+			"circlet",
+			"tango",
+			"flask"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"helm_of_the_dominator",
+			"black_king_bar",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"satanic",
+			"manta",
+			"butterfly",
+			"invis_sword",
+			"monkey_king_bar",
+			"ultimate_scepter"
+		]
+	}
+}

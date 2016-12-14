@@ -1,0 +1,101 @@
+{
+	"Hero":"centaur",
+	"Title":"[DMX] Centaur (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"flask",
+				"tango",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"soul_ring",
+				"ring_of_health",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"vanguard",
+				"tpscroll"
+			],
+			"Fin de Partie":
+			[
+				"shivas_guard",
+				"heart",
+				"assault",
+				"travel_boots",
+				"heart"
+			],
+			"Situationnels":
+			[
+				"hood_of_defiance",
+				"pipe",
+				"blade_mail",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"flask":"Votre sort \"double edge\" vous infligera des dégâts également, vous aurez besoin de beaucoup de régénération sur votre lane",
+				"ring_of_health":"Vous donne une excellente régénération de vie sur la lane et est utile pour faire vanguard. Vous pouvez l'acheter sur les side shop !",
+				"black_king_bar":"A faire si l'équipe ennemie possède beaucoup de contrôles.",
+				"blade_mail":"A faire si l'équipe ennemie vous focus trop lors des teamfights.",
+				"hood_of_defiance":"Utile si l'équipe ennemie dispose de beaucoup de dégâts magiques. De plus cet item réduira les dégâts que vous vous infligerez avec votre sort Double Edge.",
+				"tranquil_boots":"Le combo soul ring et tranquil boots vous permettra d'être agressif sur la lane, tout en ayant de la régénration de vie"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_double_edge",
+			"4":"centaur_hoof_stomp",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_hoof_stomp",
+			"10":"centaur_return",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"centaur_hoof_stomp":"Prenez votre stun en premier car il pourra vous servir à faire le firstblood, ou à vous sortir d'une mauvaise situation.",
+				"centaur_double_edge":"Maxez Double edge vous permettra de faire d'incroyables dégâts en phase de lane. Attention cependant, les dégâts vous sont aussi infligés !",
+				"centaur_stampede":"Très bon ultimate de zone qui pourra vous aider à engager ou à vous enfuir."
+		}
+	}
+}

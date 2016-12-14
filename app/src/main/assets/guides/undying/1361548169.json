@@ -1,0 +1,136 @@
+{
+	"Hero":"undying",
+	"Title":"Support Undying (as a #4 or #5)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"ward_observer",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"ring_of_health",
+				"cloak",
+				"ward_observer",
+				"tpscroll",
+				"magic_wand",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"pipe",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"urn_of_shadows",
+				"vladmir",
+				"ancient_janggo",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"vanguard",
+				"blade_mail",
+				"necronomicon"
+			],
+			"Late-game":
+			[
+				"shivas_guard",
+				"heavens_halberd",
+				"heart",
+				"ward_observer",
+				"ultimate_scepter",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Grab at the side shop after your RoB.",
+				"cloak":"Side shop. Get this before or after the RoH depending on whether or not you're seeing a lot of magic damage coming your way.",
+				"magic_wand":"You tend to a live a long time, so you get a lot of charges.",
+				"dust":"For revealing invis heroes, if you prefer dust to sentries.",
+				"ward_observer":"You'll likely being going hard lane, so pick up wards. at the start. One for the rune, one for their pull camp.
+
+Then keep buying wards throughout the game.
+
+Even late game. Especially late game.",
+				"ward_sentry":"As a melee, you can't deward alone. But if there is an invis hero or a Shadow Blade on the enemy team, get this and drop it before likely team fights to prevent the invis heroes from initiating.",
+				"tpscroll":"Side shop. Be ready to teleport to help out allies. A teleport and tombstone will turn a dive into a slaughter.",
+				"ring_of_health":"Side shop.",
+				"mekansm":"If no one else got this, get it.",
+				"vladmir":"Have a melee carry who already has an orb effect? Be a champion and pick up this item.",
+				"flying_courier":"If no one else has gotten this, get this. You should have a flying courier before 6 minutes ideally, and for certain before 10 minutes.",
+				"ring_of_basilius":"You can finish RoB at the side shop.",
+				"pipe":"Use before or during every team fight.",
+				"urn_of_shadows":"If no one else has gotten one.",
+				"necronomicon":"An alternative way of dealing with invis heroes. Also good for pushing. Does require a bit of micro.",
+				"assault":"A great aura to get if you're somehow swimming in cash.",
+				"heart":"To making Undying even more Undying. If you're getting this as a support Undying, you've likely already won.",
+				"shivas_guard":"Probably your go-to late game item. Another powerful aura.",
+				"vanguard":"If you need to be a bit tankier, this is a solid pick up.",
+				"blade_mail":"Useful against enemy right-click carries.",
+				"arcane_boots":"You may choose to finish this before all the items in Early Game. Adapt to your game.",
+				"ancient_janggo":"Undying tends to stay alive, so he does a great job as an aura-based support.",
+				"smoke_of_deceit":"Smoke ganks, smoke Rosh -- smoke is an amazing item you should be sure to pick up.",
+				"heavens_halberd":"If you have an enemy right-click carry that needs to be shut down, there's no better item that you can get."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_tombstone",
+			"2":"undying_decay",
+			"3":"undying_tombstone",
+			"4":"undying_decay",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_tombstone",
+			"8":"undying_decay",
+			"9":"undying_decay",
+			"10":"attribute_bonus",
+			"11":"undying_flesh_golem",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"undying_soul_rip",
+			"23":"undying_soul_rip",
+			"24":"undying_soul_rip",
+			"25":"undying_soul_rip"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Be sparing with this until you get your arcane boots. You want the mana for tombstone first.",
+				"undying_soul_rip":"As a support Undying, you're likely not going to be living forever (as your farm is going to low) so getting stats instead of this so-so ability is the right call.
+
+Get a point in this if there is a Rubick on the enemy team, so you can cast this after Tombstone to make him cry.",
+				"undying_tombstone":"Your best ability. Use to acquire first blood with your lane partner. Use in team fights.
+
+If there is a Rubick, DO NOT LET HIM STEAL THIS. Cast Soul Rip (just get a point) immediately after you cast this.",
+				"undying_flesh_golem":"This is how Undying stays Undying. Use in team fights.",
+				"attribute_bonus":"As a support Undying, stats are a good investment because they give you what you need most: health and mana."
+		}
+	}
+}

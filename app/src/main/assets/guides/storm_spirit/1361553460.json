@@ -1,0 +1,86 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Strange build? nope, common.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"energy_booster"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"bloodstone",
+				"oblivion_staff"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"dagon",
+				"orchid",
+				"sphere",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"wooow! BOOTS!",
+				"bottle":"Going mid? mind as well take this stuff with ya, gonna get it before boots, if you have money for both just jack the courier, those suckers from the side lanes don't need it anyway.",
+				"energy_booster":"Get this shit to build up your arcanes, disassemble it later and get a bloodstone, thats it. keep it simple.",
+				"power_treads":"Well, finish this stuff after your bloodstone, this stuff's great!",
+				"oblivion_staff":"whoops, something got here? this one's for your orchid don't worry.",
+				"sheepstick":"Who doesn't know about hex? ",
+				"orchid":"Finish this stuff to silence your enemies and deal extra damage. don't forget to say something like \"shhhhh\" or \"SHUT UP\" in the voice chat before casting it.",
+				"dagon":"Dagon, whats wrong about it? just get it, no need to upgrade,",
+				"shivas_guard":"Get this stuff if you need more armor and int, helps alot, slows your enemies down when activated.",
+				"bloodstone":"Finish your bloodstone, get charges, win the game, simple.",
+				"sphere":"Stuns are pointless against you with this ball of pure awesomeness."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_static_remnant",
+			"5":"storm_spirit_overload",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_electric_vortex",
+			"8":"storm_spirit_static_remnant",
+			"9":"storm_spirit_static_remnant",
+			"10":"storm_spirit_overload",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_electric_vortex",
+			"13":"storm_spirit_electric_vortex",
+			"14":"storm_spirit_overload",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Chaos Bolt",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выпускает таинственный заряд энергии в указанного врага. Заряд оглушает цель на случайное время и наносит случайный урон.",
+        "notes": "Длительность оглушения и урон обратно пропорциональны.",
+        "dmg": "",
+        "attrib": "МИН. ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1/1/1/2</font></b><br/>МАКС. ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">2/3/4/4</font></b><br/>МИНИМАЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">75/100/125/150</font></b><br/>МАКСИМАЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">200/225/250/275</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 140/140/140/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Даже Chaos Knight не способен предсказать поведение этого сгустка темной энергии.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_chaos_bolt",
+        "youtube":"O0qGKxIvJgw",
+        "id": 0
+    },
+    {
+        "dname": "Reality Rift",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Телепортирует вас, все ваши иллюзии и цель в случайную точку между вами двумя. Дает вам дополнительный урон на одну атаку.",
+        "notes": "Ваш герой и цель оказываются лицом друг к другу, и герой и его иллюзии сразу же начинают атаковать цель.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">550/600/650/700</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">60/80/100/120</font></b><br/>ДЛИТЕЛЬНОСТЬ ДОП. УРОНА: <b><font color=\"#ffffff\">1.2</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 24/18/12/6",
+        "lore": "Армагеддон перемещается между мирами, доставляя Chaos Knight к жертве, где бы та ни была.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_reality_rift",
+        "youtube":"5aT3Q78qtzQ",
+        "id": 1
+    },
+    {
+        "dname": "Chaos Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Талисман Chaos Knight дает ему шанс нанести дополнительный урон при атаке.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "КРИТИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">150%/200%/250%/300%</font></b><br/>ШАНС КРИТ. УДАРА: <b><font color=\"#ffffff\">10%/10%/10%/10%</font></b>",
+        "cmb": "",
+        "lore": "Неудержимая мощь атак Chaos Knight сокрушает даже самые толстые доспехи тех, кто осмелился выступить против него.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_chaos_strike",
+        "youtube":"Oi8uwcdvz_s",
+        "id": 2
+    },
+    {
+        "dname": "Phantasm",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Призывает несколько копий Chaos Knight из параллельных измерений. Есть шанс в 50%, что появится одна дополнительная копия. Иллюзии наносят полный урон, но получают удвоенный.",
+        "notes": "Снимает с вашего героя большинство отрицательных эффектов.<br/>Первые полсекунды после прочтения этой способности вы неуязвимы, что позволяет избежать оглушений и урона.",
+        "dmg": "",
+        "attrib": "ЧИСЛО ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">1/2/3</font></b><br/>ШАНС ПОЯВЛЕНИЯ ДОП. ИЛЛЮЗИИ: <b><font color=\"#ffffff\">50%</font></b><br/>ВРЕМЯ ЖИЗНИ ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">42</font></b><br/>УРОН ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">100%/100%/100%</font></b><br/>УРОН ПО ИЛЛЮЗИЯМ: <b><font color=\"#ffffff\">200%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/200/275<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 140",
+        "lore": "Chaos Knight участвовал в боях во многих мирах и в разные времена. Фантомы тех боев присоединяются к герою, чтобы повергнуть его врагов.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_phantasm",
+        "youtube":"P-DaVdeSUiI",
+        "id": 3
+    }
+]

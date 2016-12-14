@@ -1,0 +1,104 @@
+{
+	"Hero":"antimage",
+	"Title":"6.82 - Standard Anti-Mage (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"ring_of_health",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"bfury",
+				"manta",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"poor_mans_shield",
+				"vladmir"
+			],
+			"Extension Items":
+			[
+				"abyssal_blade",
+				"heart",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"For true 420 players.",
+				"quelling_blade":"Last-Hitting should be a cinch with Quelling Blade.",
+				"ring_of_health":"An early ring of Health to build towards Battle Fury and to avoid harassment in the lane as he farms his initial items.",
+				"poor_mans_shield":"Pick this up if you are having trouble in the early-game.",
+				"dagon":"For the true 420 players.",
+				"heart":"Survivability is all that Anti-Mage needs now to deal his Mana Break and ultimately tear the enemy team down.",
+				"black_king_bar":"After Manta Style, Black King Bar is your last item given it lets you consistently deal mana burn and damage to the enemy without being interrupted. ",
+				"manta":"Manta Style works alongside your passive ability: Mana Break, dealing more damage and sapping their mana faster.",
+				"abyssal_blade":"Consider Basher and Abyssal Blade to keep rivaling physical carries down and you high on your damage as your agility is sufficient.",
+				"tranquil_boots":"If you just can't seem to survive in the lane, pick these up.
+Later, disassemble them to make Vladmir's Offering."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_blink",
+			"2":"antimage_mana_break",
+			"3":"antimage_blink",
+			"4":"antimage_mana_break",
+			"5":"antimage_spell_shield",
+			"6":"antimage_mana_void",
+			"7":"antimage_mana_break",
+			"8":"antimage_blink",
+			"9":"antimage_mana_break",
+			"10":"antimage_blink",
+			"11":"antimage_mana_void",
+			"12":"antimage_spell_shield",
+			"13":"antimage_spell_shield",
+			"14":"antimage_spell_shield",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"antimage_mana_break":"Tear down initiators and magic-damage dealers with Mana Break. Anti-Mage literally destroys foes quickly via Manta Style and Battle Fury!",
+				"antimage_blink":"Be sure to use Blink to escape or engage opponents.",
+				"antimage_spell_shield":"One level in resist if you're getting ganked often by spellcasters and disablers. Pick this up early as an emergency.",
+				"antimage_mana_void":"After extensively hitting your opponent, follow-up with your ultimate to do extensive damage. It has a decently-sized AOE, so choose wisely!
+
+Mana Void also does a ministun, so be sure to use it to disrupt channeling spells or teleport scrolls."
+		}
+	}
+}

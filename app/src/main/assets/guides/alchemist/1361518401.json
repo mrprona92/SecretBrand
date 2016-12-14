@@ -1,0 +1,69 @@
+{
+	"Hero":"alchemist",
+	"Title":"farming oriented alchemist",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"invis_sword"
+			],
+			"Основные предметы":
+			[
+				"assault",
+				"mjollnir",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"hand_of_midas"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_goblins_greed",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_goblins_greed",
+			"8":"alchemist_unstable_concoction",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_unstable_concoction",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_acid_spray",
+			"13":"alchemist_unstable_concoction",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

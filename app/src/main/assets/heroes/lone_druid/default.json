@@ -1,0 +1,47 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_lone_druid",
+  "Title": "Recommended items for Lone Druid",
+  "Items": {
+    "startingItems": [
+      "tango",
+      "flask",
+      "branches",
+      "branches"
+    ],
+    "startingItems_Secondary": [
+      "stout_shield"
+    ],
+    "earlyGame": [
+      "boots",
+      "magic_stick",
+      "ring_of_protection"
+    ],
+    "earlyGame_Secondary": [
+      "boots",
+      "orb_of_venom",
+      "quelling_blade"
+    ],
+    "coreItems": [
+      "tranquil_boots",
+      "magic_wand",
+      "tpscroll"
+    ],
+    "coreItems_Secondary": [
+      "phase_boots",
+      "radiance"
+    ],
+    "luxury": [
+      "abyssal_blade",
+      "butterfly",
+      "pipe",
+      "travel_boots",
+      "assault",
+      "mjollnir",
+      "basher",
+      "monkey_king_bar",
+      "vladmir",
+      "ultimate_scepter"
+    ]
+  }
+}

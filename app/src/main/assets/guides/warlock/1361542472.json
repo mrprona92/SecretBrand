@@ -1,0 +1,133 @@
+{
+	"Hero":"warlock",
+	"Title":"Warlock - Mid Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"branches",
+				"branches",
+				"ring_of_protection",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"magic_wand",
+				"tranquil_boots",
+				"tpscroll"
+			],
+			"Rush Item":
+			[
+				"ultimate_scepter",
+				"hood_of_defiance"
+			],
+			"Core items / Luxury":
+			[
+				"ultimate_scepter",
+				"arcane_boots",
+				"pipe",
+				"refresher",
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situational ":
+			[
+				"hand_of_midas",
+				"necronomicon",
+				"mekansm",
+				"vladmir",
+				"pipe",
+				"veil_of_discord",
+				"bloodstone",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Upgrade it into Ring of Basilius as soon as possible.",
+				"branches":"Will be used to make magic wand and then magic ward!",
+				"magic_wand":"Only use it when u have 10 or more charges! or when u need that little bit of mana for crucial spell.",
+				"courier":"Buy it if u have one support in your team to help out then let them upgrade it into a flying currier.",
+				"tpscroll":"Remember allways carry a TP!",
+				"travel_boots":"Use these instead of Arcane Boots later in game if needed.",
+				"hand_of_midas":"If you want to buy it do it but before 10min mark.",
+				"vladmir":"Gives bonus damage and lifesteal to all units around you it's also nice for helping out your melee carry. ",
+				"ring_of_basilius":"Toggle off it until level 6 you don't need to push yet, also your golem will get extra +2 armor.",
+				"pipe":"If other support want's to Build Mekansm you should allways build up pipe.
+
+Use it right before a fight to block initial spell damage from enemy team.",
+				"sheepstick":" The disable it offers is handy in almost all situations, making chasing, escaping or even initiating a teamfight much easier. ",
+				"necronomicon":"Requires good use of micro skills to be most effective not recommended for new players!
+
+Level 3 gives you true sight for 35sec or until unit dies and does nice amount of damage.",
+				"ultimate_scepter":"Don't think about reduced golem stats strength is in numbers and their abilities stack!
+Try to attack same target with both golems at same time, when Flaming Fists proc it will destroy your target. It also goes through magic immmune effects.",
+				"refresher":"You don't have to activate it instantly when you cast ultimate, save it until first one expire so u can stay and fight longer.
+
+Or use it right after ult so u can have 4 golems by the time your ult is ready refresher will be to it's up for you to decide!",
+				"shivas_guard":"makes you harder to kill and gives a lot of mana. Its ability is perfect for teamfights.",
+				"hood_of_defiance":"If your support doesn't want to make it you should build this item right after Scepter.
+
+Will be used later to make Pipe of Insight.",
+				"arcane_boots":"Use it close to your allies when they lack mana to help out.",
+				"veil_of_discord":"Nice to have if your team has huge AOE spells. ",
+				"tranquil_boots":"Get these only if u are getting harrased in lane.
+
+Disassemble it to make Arcane Boots after you decide to push.
+
+Otherwise get Arcane Boots!."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"warlock_fatal_bonds",
+			"3":"warlock_fatal_bonds",
+			"4":"warlock_shadow_word",
+			"5":"warlock_fatal_bonds",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_shadow_word",
+			"8":"warlock_fatal_bonds",
+			"9":"warlock_shadow_word",
+			"10":"attribute_bonus",
+			"11":"warlock_rain_of_chaos",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"warlock_upheaval",
+			"18":"warlock_upheaval",
+			"19":"warlock_upheaval",
+			"20":"warlock_upheaval",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"Use it after you upgrade it twice to harras enemy heroes especialy their carry's.
+
+Note: Target enemy hero if they are close to their creep wave.   
+
+Cast this spell right before you cast your ultimate if possible and if not use it asap after ultimate for maximum effect.",
+				"warlock_shadow_word":"Use it only to heal your allies when they have no potions or when you see they are being focused by enemy for kill, or to ensure first blood!",
+				"warlock_upheaval":"Use it to slow down enemy push or right after your ultimate.",
+				"warlock_rain_of_chaos":"Try to use it on 3 or more enemy targets for maximum effect. "
+		}
+	}
+}

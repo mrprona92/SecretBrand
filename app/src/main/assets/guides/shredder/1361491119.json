@@ -1,0 +1,116 @@
+{
+	"Hero":"shredder",
+	"Title":"(6.82c) Cutting Down the Competition: A Timbersaw Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"blink",
+				"ultimate_scepter",
+				"shivas_guard",
+				"rod_of_atos",
+				"black_king_bar",
+				"sphere",
+				"sheepstick",
+				"cyclone",
+				"pipe",
+				"dagon",
+				"heart"
+			],
+			"Alternative Core":
+			[
+				"urn_of_shadows",
+				"blink",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger should be picked up when you feel that the mobility offered by Timberchain isn't enough.  Makes positioning good Whirling Deaths and Timberchains a lot easier.",
+				"stout_shield":"The damage block from stout shield plus Timbersaw's reactive armor help mitigate harass damage in the early laning stages.",
+				"branches":"Branches are great for cheap and efficient early stats.",
+				"magic_wand":"Great all around item.  Can give you that little bit of extra HP or mana that means the difference between living and dying.",
+				"clarity":"I like to take one clarity to lane as Timbersaw in case I find myself engaging the opposition frequently.  His base damage is fairly low so without mana he isn't much of a threat",
+				"flask":"A Salve is important for quickly recovering life if you get low and don't want to base.",
+				"tango":"Tangos are important for keeping your health consistently high while laning.",
+				"pipe":"Great pickup if the other team has a lot of magic damage, particularly aoe damage",
+				"urn_of_shadows":"Gives mana regeneration, strength, and a powerful early game active.  Should be picked up in the early game if there are a large number of skirmishes, as this will allow you to build up charges for and make good use of Urn's active.",
+				"sheepstick":"Scythe of Vyse should be purchased when you want to lock down a single target on the enemy team.  The long cast range of its active coupled with Timbersaw's mobility make it easy to cast on your preferred target provided they haven't activated Black King Bar.",
+				"cyclone":"Gives good mana regeneration. The active can be used to set up your combo or catch an enemy out of position. It can also be used defensively to dispel debuffs on Timbersaw himself, which is particularly helpful against silences.  Can also be used to dodge enemy spells.",
+				"dagon":"Pick up if you need a little extra burst to bring down opponents.",
+				"ultimate_scepter":"Timber's Aghanim's Scepter upgrade provides a big damage boost through the extra chakram, and is also a blast to use.  This helps Timbersaw scale better into the late game than he did prior to patch 6.82.  This should not be rushed as a first item, as you will likely not have the mana to support it.",
+				"heart":"Heart should be picked up if you need an increased hp pool, particularly against high burst teams.  If you are dealing with opponents that deal high amounts of physical damage through auto attacks, consider going Shiva's Guard instead as the armor is more effective than raw hp in those situations.",
+				"black_king_bar":"Great pickup if the opposing team has a lot of magic damage or disables.",
+				"shivas_guard":"Good when the opposing team has high physical damage, as well as when they have heroes that value attack speed.  The active adds to Timbersaw's already good chasing ability.",
+				"bloodstone":"Amazing item on Timbersaw.  Solves his mana issues and tanks him up considerably.  Perfect to pick up if you had a decent early game.  However, if you have a rough early game you should consider following the alternative core item build.",
+				"sphere":"Linken's Sphere should be picked up when the opposing team has heroes with strong single target disables that go through Black King Bar. Examples include Doom, Beastmaster, Bane, and Batrider. It also gives decent stats and regeneration",
+				"soul_ring":"Although soul ring isn't ideal for heroes that like to be in the thick of things (like Timbersaw), the active helps with farming and the regen stats are helpful.  I would suggest picking up an urn instead IF you aren't planning on going bloodstone.",
+				"arcane_boots":"Arcane boots help to deal with Timbersaw's mana issues and can be disassembled later on to make bloodstone.",
+				"rod_of_atos":"Helps Timbersaw tank up and increases the size of his mana pool.  The active is great for setting up his abilities."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_reactive_armor",
+			"2":"shredder_whirling_death",
+			"3":"shredder_timber_chain",
+			"4":"shredder_timber_chain",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"A very powerful ability if Timbersaw is positioned correctly.  The stat reduction makes it particularly useful when trying to kill strength heroes.  Should only be maxed first if you are mid to push out the lane and control runes. Max after Timberchain if you want maximum damage.",
+				"shredder_timber_chain":"Timbersaw's signature ability, which should be maxed first.  Its range and low cooldown give Timbersaw unparalleled mobility provided there are trees around.  The pure damage on the ability is also very good considering its low cooldown. Can be taken level 1 if you feel you need an escape.",
+				"shredder_reactive_armor":"Reactive armor gives very good sustain and survivability against autoattackers.  Can be taken at level 1 if you don't expect an early fight and don't feel need an early escape in lane.  Can be maxed first or second if you feel you need the regen and armor more than damage early on.",
+				"shredder_chakram":"A powerful and low cooldown ultimate.  Always level up when possible.  The passthrough damage can hit twice, once on the way out and once on the way back.  Early on, it is often better to return the Chakram to guarantee the return passthrough damage and conserve mana for other abilities.",
+				"attribute_bonus":"Only take stats when you have to.  Timbersaw is extremely reliant on his abilities, so you should never pass up an opportunity to improve them."
+		}
+	}
+}

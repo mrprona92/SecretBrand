@@ -1,0 +1,180 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"CM Sidelane Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"branches",
+				"ward_observer"
+			],
+			"Laning Items":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick"
+			],
+			"All Game":
+			[
+				"ward_observer",
+				"tpscroll"
+			],
+			"Mid-game Options":
+			[
+				"magic_wand",
+				"urn_of_shadows",
+				"bracer",
+				"tranquil_boots"
+			],
+			"Luxury Options":
+			[
+				"mekansm",
+				"ancient_janggo",
+				"vitality_booster",
+				"force_staff",
+				"cyclone",
+				"ghost",
+				"black_king_bar",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"smoke_of_deceit",
+				"ward_sentry",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Only for the frostiest of CM's who wish to pull of the chillest combos.
+Usually you won't want to farm for this item, which provides no stat survivability. Force Staff is a great initiating tool with an easier build-up.",
+				"gauntlets":"You can buy these to as alternative starting items if a teammate bought either Wards or a Courier.",
+				"boots":"Buy boots from the sideshop as early as you can. CM is the slowest hero in the game, so you'll need these to keep up.",
+				"gem":"You can buy this to counter enemy invis heroes or Shadow Blades, but give it to a tankier ally to carry (this item will drop when its holder dies).",
+				"cloak":"Item slots are a very precious resource on all supports. Although this will help against a heavy magic damage team, CM's HP pool is low enough where you'll probably want a Bracer instead.",
+				"magic_wand":"Since CM can be very active in ganks, a Wand will provide you with much appreciated burst HP/mana.
+If you store up a lot of charges, you may be able to squeeze out an extra Frostbite to turn a gank around.",
+				"ghost":"The #1 late-game survival item against autoattacking carries. After the enemy team has blown their initial wave of spells, activate this to stay untouched for 4 seconds.",
+				"clarity":"This Clarity will allow you to use your spells liberally at levels 1 and 2, before you get your aura.",
+				"flask":"Don't be afraid to pass this to a needy ally if you don't need to regen yourself. He/she will love you for it!",
+				"dust":"Buy this for offensive ganking vs heroes with invisibility or a Shadow Blade. Dust will NOT reveal enemy Wards.
+On the defensive side, place Sentries around your team instead.",
+				"ward_observer":"Starting: Pass these to whoever takes the hard lane, where they can ward the rune and block the enemy's pull camp.
+CM is useful even without many items. Ward common gank paths for safety and/or aggression.
+
+Vision is the most valuable resource, so keep the map warded!",
+				"ward_sentry":"If you see any enemy place a ward on the map, buy a set of Sentries to deprive them of that vision.
+You don't want to get caught out of position, so be wary if going alone.",
+				"tango":"Use Tangos early on to stay healthy. Your opponents will be much more inclined to engage on you if you're <75% HP.",
+				"courier":"Every team will need a courier. You can always send yourself Wards later if you don't have money for both.
+If an ally already bought a courier or wards, you may choose to buy Gauntlets of Strength with your extra 150g.",
+				"tpscroll":"-Always- have a TP as a CM. Your Frostbite is an amazing tool for saving allies in trouble, and the huge range of Nova allows for great cross-map ganks.",
+				"phase_boots":"Pick Tranquil Boots or Phase Boots. Do not get both.
+
+Phase Boots will allow you to easily roam the map and get in range for Frostbites. Be wary that they are expensive and won't give you any HP.
+
++Great for ganking and retreating+
++Makes you faster than Tread/Arcane Boot heroes+
+-High cost-",
+				"point_booster":"You won't need the extra mana, so get Vitality Booster for HP instead.",
+				"vitality_booster":"A decent money-sink to help you survive longer in engagements. You can turn this into a Rod of Atos later or just keep it.",
+				"power_treads":"The extra 152 HP is usually not worth the extra price tag and slower move speed than Tranquils.",
+				"bracer":"One or two bracers can help with CM's extreme squishiness. Consider getting Urn instead if your team doesn't have one.",
+				"mekansm":"(Max 1 per team)
+Great item if you can get it early, but don't sacrifice Wards or TP's trying to build this expensive item. 
+Get it through kill/assist money, -NOT by farming-.
+Keep in mind that this costs 150 mana, so be careful when casting that 600 mana level 3 utlimate!",
+				"flying_courier":"Upgrade the courier with your passive gold income as soon as you can (aim for the 2 minute mark).",
+				"ring_of_basilius":"Ring is unnecessary since your Aura will give more regen (globally instead of just nearby). The armor is nice, but taking up an item slot is not worth it.",
+				"pipe":"(Max 1 per team)
+An expensive but potentially game-winning item for teamfights and pushing towers. If your team already has a Mek and you're rolling in gold, consider a Pipe.",
+				"urn_of_shadows":"(Max 1 per team)
+A great sustain item that will turn you into a mobile regen fountain. It will give you the same HP as a Bracer, with the added benefit of providing tons of heals to your team.",
+				"headdress":"If you're building Mek, get the Buckler first. The armor activated ability is more useful than Headdress's passive HP regen.",
+				"sheepstick":"In the vast majority of games, building this on CM is not feasible due to its cost. You don't want to be stealing farm from your carries, who are more item-dependent than you are.",
+				"orchid":"If you absolutely need a disable, save up for Scythe of Vyse or Eul's if you can't farm that much.
+Most of the Orchid's stats are wasted on a low damage support hero like CM.",
+				"cyclone":"Although the move speed is nice on CM, Force Staff is cheaper and provides more utility (both offensively and for escaping).
+Get Euls if you need to disable an annoying opponent during fights.",
+				"force_staff":"Decent solution for CM's abysmal move speed. Force Staff on yourself will allow you to easily cast your low range Frostbite, or to get away from enemy gankers.
+You can also use it to push allies to safety or to push enemies out of position.",
+				"ultimate_scepter":"4200g for randomized increased damage on a unreliable ability is usually not a good investment. If you desperately need damage, a Veil of Discord will be more beneficial to your team.",
+				"black_king_bar":"Generally, you won't be able to farm a BKB on a CM support. However, in those rare cases where you want to watch the world freeze, here you go.",
+				"shivas_guard":"Farming for the 2700g Mystic Staff will take too long for CM, and if you do manage to earn that much, Scythe of Vyse is better for shutting down the enemy.",
+				"greater_crit":"Few have lived to tell the tale of the mythical Critstal Battle Maiden...",
+				"invis_sword":"While technically you can activate Shadow Blade while channeling you're ultimate, it is far inferior to BKB. Not only will any AoE spells still stun you, it is also easily countered by a mere 200g Sentry/Dust.",
+				"arcane_boots":"Consider picking Arcane Boots only if you opted to completely skip Arcane Aura. Otherwise, Phase and Tranquils will make you faster and have better abilities.",
+				"ancient_janggo":"(Max 1 per team)
+Drums can help your team continue a positive momentum. The great stats and aura is a great boost for teamfights and ganks.
+Skip Drums if your team is on the defensive, since the recipe costs a hefty 750g.",
+				"medallion_of_courage":"You'll often find yourself starved for item slots while carrying Wards, TP's, and survivability items. Medallion is usually not worth giving up a valuable slot (your damage comes from spells, not autoattacks).",
+				"smoke_of_deceit":"Smoke ganks are a great way to break stalemates. If the enemy carries are farming under the safety of wards, then gather your team, smoke up, and set up kills.
+Once you have the advantage and turn it into a 5v4, try pushing a tower for gold/map control.",
+				"veil_of_discord":"Veil is cheaper than Aghanims and gets even better if your team has multiple magic damage casters. This item provides very little survivability for its cost, so make sure your team has Mek/Drums/Pipe already before you build this.",
+				"rod_of_atos":"Rod of Atos has an even longer range than your Nova slow. However, it is quite expensive and does not fully disable your target.
+The best time to build Rod is if your team is a well oiled gank machine and want to continue pressure. Even then, make sure your team has Drums/Mek up and running firs",
+				"heavens_halberd":"Although the active will shut down any autoattacking carry for a few seconds, it is very expensive.
+By the time you can afford this, the carry may have BKB/Manta, which will dispell Halberd.",
+				"tranquil_boots":"Tranquils provide high speed and regen for low cost, but lose all of their effectiveness during fights. These boots rely on positioning yourself very safely.
+
+Another option for a more aggressive, ganking CM are Phase Boots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_crystal_nova",
+			"2":"crystal_maiden_frostbite",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_frostbite",
+			"5":"crystal_maiden_brilliance_aura",
+			"6":"crystal_maiden_freezing_field",
+			"7":"crystal_maiden_brilliance_aura",
+			"8":"crystal_maiden_brilliance_aura",
+			"9":"crystal_maiden_frostbite",
+			"10":"crystal_maiden_frostbite",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_crystal_nova",
+			"13":"crystal_maiden_crystal_nova",
+			"14":"crystal_maiden_crystal_nova",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Range is 700 + a 400 AoE (max range = 1100).
+Stick with one level to start with because this skill provides the same move/attack slow, range, and 15 sec cooldown at all all levels.
+Use Nova to harass and to slow enemies trying to run away, NOT to farm.",
+				"crystal_maiden_frostbite":"Increases damage at levels 2 and 4 (140/210/210/280). Max this first for the duration increase.
+Teamfights: Cast on the enemy carry, high mobility heroes, or enemies trying to engage on your own carry.
+Frostbite lasts 10 seconds on jungle creeps (700 damage) at all levels.",
+				"crystal_maiden_brilliance_aura":"We max this second to provide the team with early game global mana regen. Get more Nova instead if your team doesn't need mana.
+Since this effect is doubled on yourself, by level 5 you'll be able to cast a free Nova/Frostbite combo every two minutes, allowing for constant aggression at any lane.",
+				"crystal_maiden_freezing_field":"Channel ability, will be cancelled if you move or get stunned. Using this ult paints a huge target on your head.
+Costs a whopping 200/400/600 mana.
+Your ult will provide an instant AoE 30% slow that stacks with your Nova.",
+				"attribute_bonus":"If you skipped Aura in the early game (before level 9), then skip Aura entirely. After the laning phase, stats will help your survivability more than passive mana regen."
+		}
+	}
+}

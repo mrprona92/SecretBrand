@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arcane Orb",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Добавляет к атакам Outworld Devourer дополнительный чистый урон, пропорциональный текущему запасу маны. Наносит дополнительный урон призванным существам и иллюзиям.<br/>Arcane Orb — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+        "notes": "Урон подсчитывается после расхода маны.",
+        "dmg": "",
+        "attrib": "МАНЫ НАНОСИТСЯ В ВИДЕ УРОНА: <b><font color=\"#ffffff\">6%/7%/8%/9%</font></b><br/>УРОН ИЛЛЮЗИЯМ: <b><font color=\"#ffffff\">100/200/300/400</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100",
+        "lore": "Знание внешнего мира позволяет Предвестнику перехватывать потоки духовной энергии и перенаправлять их на себя.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_arcane_orb",
+        "youtube":"zhA1HK7cy5g",
+        "id": 0
+    },
+    {
+        "dname": "Astral Imprisonment",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Помещает вражеского или союзного героя в астральное заточение. Скрытый герой неуязвим и неактивен. При применении на вражеском герое ваш герой на время забирает интеллект цели заклинания.",
+        "notes": "Не ворует интеллект у союзников.<br/>Находящиеся в заточении юниты неуязвимы.<br/>На заточенных врагов действует ваш ульт.",
+        "dmg": "",
+        "attrib": "ЗАБИРАЕТ ЕДИНИЦ ИНТЕЛЛЕКТА: <b><font color=\"#ffffff\">4/7/10/13</font></b><br/>ДЛИТЕЛЬНОСТЬ КРАЖИ: <b><font color=\"#ffffff\">50</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАТОЧЕНИЯ: <b><font color=\"#ffffff\">1/2/3/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/140/160/180<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 18/16/14/12",
+        "lore": "Запертые в карманном измерении на границе этого и Внешнего миров, жертвы осознают свою смертность и ничтожность своих знаний.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_astral_imprisonment",
+        "youtube":"fJhBCZ6TrP0",
+        "id": 1
+    },
+    {
+        "dname": "Essence Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b>",
+        "desc": "Когда находящиеся неподалеку союзники или сам Outworld Devourer используют заклинания, у них есть шанс восстановить часть своей маны. Также Outworld Devourer пассивно получает бонус к базовому запасу маны. Некоторые способности без перезарядки и переключаемые способности не вызывают срабатывание ауры.",
+        "notes": "За исключением Arcane Orb, на большинство способностей без перезарядки эффект от этой ауры не сработает.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">1000/1000/1000/1000</font></b><br/>БОНУС К МАНЕ: <b><font color=\"#ffffff\">75/150/225/300</font></b><br/>ВОССТАНАВЛИВАЕТ МАНЫ: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ШАНС СРАБАТЫВАНИЯ: <b><font color=\"#ffffff\">40%</font></b>",
+        "cmb": "",
+        "lore": "Кристаллы Внешнего мира генерируют темную энергию, которую Предвестник направляет в мир смертных.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_essence_aura",
+        "youtube":"jXW4mXUgZTw",
+        "id": 2
+    },
+    {
+        "dname": "Sanity's Eclipse",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Вызывает ментальный взрыв, который наносит вражеским героям урон, зависящий от разницы в интеллекте между жертвами и самим Outworld Devourer. Если эта разница ниже определенного порога, жертва потеряет 75% своей маны. Если же уровень интеллекта больше или равен тому, что у Outworld Devourer, то способность не возымеет никакого действия. Срабатывает на целях, находящихся под действием Astral Imprisonment.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УРОН ЗА ЕД. ИНТЕЛЛЕКТА: <b><font color=\"#ffffff\">8/9/10</font></b><br/>ПОРОГ РАЗНИЦЫ В ИНТЕЛЛЕКТЕ: <b><font color=\"#ffffff\">10/30/50</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">375/475/575</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">600/650/700</font></b><br/><font color=\"#6fe871\">ДАЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">700/750/800</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 175/250/325<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 160",
+        "lore": "Когда кристалл из Внешнего мира разбивается, на волю вырывается разрушительная энергия, отголоски которой ощущаются и в других мирах.",
+        "hurl": "Outworld_Devourer",
+        "name": "obsidian_destroyer_sanity_eclipse",
+        "youtube":"Z4dnT-tAOac",
+        "id": 3
+    }
+]

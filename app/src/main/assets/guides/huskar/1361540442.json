@@ -1,0 +1,108 @@
+{
+	"Hero":"huskar",
+	"Title":"THE MANLY GUIDE TO MANMODE HUSKAR 6.81",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"GET THESE EARLY":
+			[
+				"urn_of_shadows",
+				"boots"
+			],
+			"STANDARD CORE":
+			[
+				"phase_boots",
+				"mask_of_madness",
+				"blade_mail"
+			],
+			"AFTERWARDS":
+			[
+				"skadi",
+				"ultimate_scepter",
+				"black_king_bar",
+				"greater_crit",
+				"armlet",
+				"blink",
+				"sange_and_yasha",
+				"mekansm",
+				"heart",
+				"radiance",
+				"assault",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"GG BRANCHES FOR A GOOD GAME
+",
+				"boots":"RUN FASTER JUMP HIGHER
+",
+				"flask":"TAKE A SIPPY REAL QUICK",
+				"hand_of_midas":"THIS WILL LET YOU GET MORE FREE FARM. GET IT ONLY IF YOU CAN GET IT BEFORE 10 MINUTE MARK.",
+				"mekansm":"GIVES YOU A USE FOR YOUR MANA POOL AND LETS YOU HEAL THE FUCK UP IN FIGHTS, BRETTY GUD IF NO ONE ON YOUR TEAM GOT IT YET.",
+				"buckler":"MORE MAN
+LESS DEAD",
+				"urn_of_shadows":"WITH THIS AND INNER VITALITY EVERY TIME YOU FRAG SOMEONE YOU GET BACK TO FULL HEALTH.",
+				"assault":"THIS ISN'T ACTUALLY A CUIRASS",
+				"heart":"MAKES YOU IMMORTAL. ALSO MAKES YOU HIT HARDER.",
+				"black_king_bar":"BECOME UNSTOPPABLE.",
+				"blade_mail":"GROW SPIKES AND BECOME INTIMIDATING. USE THIS IN CONJUNCTION WITH MASK OF MADNESS TO INCREASE DAMAGE REFLECTED.",
+				"rapier":"ONLY BUY IT IF YOU'RE INSANE/THROWING/FED/ME",
+				"radiance":"THIS WILL MAKE PEOPLE ABSOLUTELY HAVE TO FOCUS YOU, SO YOU CAN EASILY PUNISH THEM WITH YOUR SPIKESHIRT.",
+				"skadi":"FIRE IS COLD",
+				"mask_of_madness":"GIVES YOU ATTACK SPEED EVEN WHEN YOU'RE ON FULL HEALTH, MAKES BURNING SPEARS FREE TO CAST, AND MAKES YOU TAKE MORE DAMAGE WHICH MAKES IT THE MANLIEST ITEM."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_burning_spear",
+			"4":"huskar_berserkers_blood",
+			"5":"huskar_burning_spear",
+			"6":"huskar_life_break",
+			"7":"huskar_burning_spear",
+			"8":"huskar_inner_vitality",
+			"9":"huskar_berserkers_blood",
+			"10":"huskar_berserkers_blood",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"THIS WILL LET YOU HEAL YOURSELF OR YOUR UNMANLY ALLIES AT THE COST OF YOUR USELESS MANA.",
+				"huskar_burning_spear":"SETTING PEOPLE ON FIRE BY THROWING SPEARS AT THEM IS SO MANLY IT HURTS YOU.",
+				"huskar_berserkers_blood":"THE MORE PEOPLE HIT YOU THE MANLIER YOU GET.",
+				"huskar_life_break":"THIS IS YOUR DEATH BUTTON."
+		}
+	}
+}

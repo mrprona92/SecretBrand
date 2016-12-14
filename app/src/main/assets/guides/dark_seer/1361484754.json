@@ -1,0 +1,114 @@
+{
+	"Hero":"dark_seer",
+	"Title":"Suicidal Seer - Offlane Dark Seer Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"ward_observer",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"Early Game: Sustain":
+			[
+				"soul_ring",
+				"tranquil_boots",
+				"tpscroll",
+				"magic_wand"
+			],
+			"Mid Game: Tank Up":
+			[
+				"hood_of_defiance",
+				"mekansm"
+			],
+			"Mid Game Options":
+			[
+				"arcane_boots",
+				"vitality_booster"
+			],
+			"Late Game: Offensive":
+			[
+				"ultimate_scepter",
+				"rod_of_atos",
+				"gem",
+				"travel_boots"
+			],
+			"Late Game: Defensive":
+			[
+				"shivas_guard",
+				"pipe",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Extra armor early on will help you to further endure damage, and will allow you to construct Tranquil Boots right from the side shop.",
+				"stout_shield":"Stout Shield will help you survive harassment from your opponents and will enable you to take jungle camps early on if you need to. Combined with Dark Seer's already high base armor and damage, this will help you trade hits early on if the enemy gets aggressive.",
+				"branches":"An extra branch or two to round off the starting gold. For the price, they're worth it. Sacrifice these for more regen if you think you'll be forced out earlier.",
+				"gem":"Being a quick, tanky fighter, Dark Seer is a great choice for carrying a Gem of True Sight. If your enemy is getting cute with their stealth tactics, foil their plans and ride the momentum of the surprise all the way to their ancient.",
+				"magic_wand":"An all-around good item. Gives you a solid stat buffer and a burst of health and mana regeneration for dangerous situations.",
+				"ward_observer":"Wards can end up being far more valuable than just their 150 gold price tag. Vision over at least one rune will help your mid, and a ward to watch for incoming kill attempts will help keep you safe. Warding the enemy's pull camp can also prevent them from denying you gold and experience.",
+				"tango":"Tangos will give you the regeneration you need until you can acquire your Tranquil Boots. You can take more or less if need be. Just sacrifice the branches if you're anticipating a tough lane.",
+				"tpscroll":"As things start to heat up, carrying a scroll will allow you to be where you need to be when you need to be there. Keep an eye on the map! Abandoning your lane for just a few minutes to defend a tower or help a teammate is almost always worth it!",
+				"travel_boots":"Consider turning your Tranquil Boots into Boots of Travel when you have some extra gold. They will save you the inventory space and allow you to teleport to creeps in order to keep up your team's momentum and presence.",
+				"vitality_booster":"OPTIONAL: If a support is already building a Mek, you don't think you'll have enough mana to support using one, or you just want to give your health a cheap boost, consider picking up a Vit Booster and saving it to build into either a Heart or Rod of Atos later on.",
+				"mekansm":"For the gold, a Mekansm will help you in your role far more than a Vanguard. It will help you push towers, aid teammates and keep yourself alive through tough situations. ",
+				"pipe":"Pipe of Insight is perfect for softening the blow of enemy nukes. Cast it in the middle of your team just before you engage the enemy, or immediately after being engaged upon. Give creeps the added protection when pushing in to take a tower as well.",
+				"ultimate_scepter":"Is the enemy really starting to hurt? Well, throw that damage right back at them. By upgrading your Wall with Aghanim's Scepter, you can create some beastly illusions to use against the enemy team.",
+				"heart":"Gives you a solid health pool to keep you in the fight (or the push) for as long as possible. This is definitely a luxury item and shouldn't be considered before items that can benefit more of the team.",
+				"shivas_guard":"Shiva's Guard is perfect if the game is going long and the enemy team's physical damage is starting to ramp up. The active slow is a perfect combination with your area of effect abilities, and the passive aura will help slow down the enemy carry.",
+				"hood_of_defiance":"Even more regen! But, more importantly, the spell resistance solidifies Dark Seer's ability to tank damage from the enemy team. Unless your opponents don't have much magic damage, this is nearly always a good buy.",
+				"soul_ring":"Get this as early as possible. It will allow you to stay in lane and keep on casting Ion Shell. It will also you afford you some significant passive health and mana regen. Even if your mana is full, use it as long as you have a good health buffer!",
+				"arcane_boots":"OPTIONAL: Feel like you may have too much health regen and not enough mana? Consider disassembling your Tranquil Boots and turning them into Arcane Boots to give your mana pool a nice boost.",
+				"rod_of_atos":"A controversial item, but it gives Dark Seer a good addition to his health and mana pools while offering a long-range, low-cooldown active slow to help control escaping enemies.",
+				"tranquil_boots":"In combination with the Soul Ring, these boots will give you enough regen to nearly eliminate your need to return to base. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_ion_shell",
+			"2":"dark_seer_surge",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_vacuum",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_vacuum",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_vacuum",
+			"9":"dark_seer_vacuum",
+			"10":"dark_seer_wall_of_replica",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_surge",
+			"13":"dark_seer_surge",
+			"14":"dark_seer_surge",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dark_seer_vacuum":"Endless utility. Use it to pull enemies away from or toward your team. You can pull them up or down terrain as well. Use this after placing your wall to pull enemies into it!",
+				"dark_seer_ion_shell":"This is your damage. In lane, place it on the SECOND melee creep of EACH of your waves as they come in. This will push the lane up, but it will be automatic harass on the enemy and even some farm for yourself.",
+				"dark_seer_surge":"An excellent escape tool. This will not only make you incredibly fast, but will make you immune to all slowing effects for the duration. Also use on teammates to aid their escape! Combine with Ion Shell to chase down low-health enemies. CONSIDER TAKING AT LEVEL ONE IF YOU ARE IN DANGER.",
+				"dark_seer_wall_of_replica":"Turn your enemies against themselves. Because of the cost, avoid taking it until later on, as your other abilities can be more useful for their cost early. Place the wall and Vacuum enemies right into it for a disruptive initiation.",
+				"attribute_bonus":"Dark Seer's starting stats and stat gains are good enough and his spells are powerful enough that you should only invest levels in stats when you absolutely have to. "
+		}
+	}
+}

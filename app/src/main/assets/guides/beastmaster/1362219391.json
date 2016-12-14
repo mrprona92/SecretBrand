@@ -1,0 +1,80 @@
+{
+	"Hero":"beastmaster",
+	"Title":"Dranny's Ganker/Pusher/Mid pwner Beastmaster",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"gauntlets",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"necronomicon",
+				"ancient_janggo"
+			],
+			"Luxury":
+			[
+				"travel_boots",
+				"ultimate_scepter",
+				"assault",
+				"mekansm",
+				"sange_and_yasha"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_call_of_the_wild",
+			"4":"beastmaster_inner_beast",
+			"5":"beastmaster_call_of_the_wild",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_call_of_the_wild",
+			"8":"beastmaster_inner_beast",
+			"9":"beastmaster_inner_beast",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_wild_axes",
+			"13":"beastmaster_wild_axes",
+			"14":"beastmaster_wild_axes",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"Good to cut trees, but for nothing else. It's not as effective as the other two skills.",
+				"beastmaster_call_of_the_wild":"You can teleport to Hawk, use the Boar for the slow while you close in to take the kill.",
+				"beastmaster_inner_beast":"Free Hyperstone for all your team. Definetly worth it.
+",
+				"beastmaster_primal_roar":"Goes through Magic Immunity, a must-have and must-use when you have it."
+		}
+	}
+}

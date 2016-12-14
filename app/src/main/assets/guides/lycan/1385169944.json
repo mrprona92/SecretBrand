@@ -1,0 +1,77 @@
+{
+	"Hero":"lycan",
+	"Title":"Lycan   God",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"vladmir"
+			],
+			"coreItems":
+			[
+				"basher",
+				"sange_and_yasha",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"heart",
+				"assault",
+				"heavens_halberd",
+				"mjollnir",
+				"abyssal_blade",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"black_king_bar":"or Sange and Yasha",
+				"sange_and_yasha":"o BKB"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_howl",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"lycan_feral_impulse"
+		}
+	}
+}

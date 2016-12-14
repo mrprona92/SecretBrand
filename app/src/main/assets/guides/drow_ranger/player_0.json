@@ -1,0 +1,44 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "drow_ranger_trueshot",
+        "2": "attribute_bonus",
+        "3": "drow_ranger_trueshot",
+        "4": "drow_ranger_frost_arrows",
+        "5": "drow_ranger_trueshot",
+        "6": "drow_ranger_marksmanship",
+        "7": "drow_ranger_wave_of_silence",
+        "8": "drow_ranger_trueshot",
+        "9": "attribute_bonus",
+        "10": "drow_ranger_frost_arrows",
+        "11": "drow_ranger_marksmanship",
+        "12": "attribute_bonus",
+        "13": "drow_ranger_frost_arrows",
+        "14": "drow_ranger_wave_of_silence",
+        "15": "drow_ranger_frost_arrows",
+        "16": "drow_ranger_marksmanship",
+        "17": "drow_ranger_wave_of_silence",
+        "18": "attribute_bonus",
+        "19": "drow_ranger_wave_of_silence",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    }
+}, "Hero": "drow_ranger", "ItemBuild": {
+    "ItemTooltips": {
+        "butterfly": "Huge stats increase",
+        "assault": "If being focused + attack speed",
+        "gloves": "For Midas",
+        "desolator": "Vs tanks",
+        "orchid": "For disable"
+    },
+    "Items": {
+        "Starter Pack": ["tango", "gloves"],
+        "Early Game": ["hand_of_midas", "power_treads", "mask_of_madness"],
+        "Mid Game": ["lesser_crit", "invis_sword"],
+        "Late Game": ["butterfly", "orchid", "ethereal_blade", "assault", "greater_crit", "desolator"],
+        "Daddy\u0027s Sword": ["rapier"]
+    }
+}, "Title": "Mid Traxex by JaViTjOk"}

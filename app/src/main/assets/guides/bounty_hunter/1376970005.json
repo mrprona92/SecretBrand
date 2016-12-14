@@ -1,0 +1,120 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"[A]dmiralBulldog Bounty Hunter Roamer Русский Гайд",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"boots",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"ancient_janggo",
+				"gem"
+			],
+			"coreItems":
+			[
+				"desolator",
+				"black_king_bar",
+				"travel_boots",
+				"assault"
+			],
+			"luxury":
+			[
+				"butterfly",
+				"monkey_king_bar",
+				"sphere",
+				"orchid",
+				"radiance",
+				"diffusal_blade",
+				"abyssal_blade",
+				"bfury",
+				"dagon",
+				"sange_and_yasha",
+				"heart",
+				"hand_of_midas"
+			],
+			"Саппорт":
+			[
+				"sheepstick",
+				"vladmir",
+				"heavens_halberd",
+				"pipe",
+				"mekansm",
+				"medallion_of_courage",
+				"necronomicon",
+				"ward_observer",
+				"ward_sentry",
+				"urn_of_shadows",
+				"courier",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Для ганков и живучести нужна скорость ",
+				"gem":"Если всё в Sentry Ward, то бери гем и ломай их.",
+				"travel_boots":"Если надо часто дефить или пушить ",
+				"hand_of_midas":"Если чувствуешь, что игра затянется или ты натерпел",
+				"vladmir":"Если натерпел, и ты бомж, то варим для помощи команде ",
+				"sheepstick":"Если тиме нужен саппорт, не стесняйся ",
+				"orchid":"Очень хороший выбор, для того что бы заткнуть эскейпов или станеров + на 30% больше урона
+",
+				"dagon":"Бх с фаст дагоном тащит ",
+				"heart":"Мало ли что бывает в пабе
+",
+				"black_king_bar":"Если много нюков или станов
+",
+				"desolator":"Наносит больше урона чем бф ",
+				"ancient_janggo":"Догонять, съебывать "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_wind_walk",
+			"8":"bounty_hunter_shuriken_toss",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_jinada",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"Замакшеный сюрикен тащит",
+				"bounty_hunter_jinada":"В начале игры нужен только для замедления, потому что шмота на дамаг у тебя нету",
+				"bounty_hunter_track":"Вешай трек по кд, старайся успеть перед тем как убили врага "
+		}
+	}
+}

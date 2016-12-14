@@ -1,0 +1,106 @@
+{
+	"Hero":"lycan",
+	"Title":"Spudkee's General Jungler's Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"vladmir",
+				"power_treads",
+				"flask",
+				"medallion_of_courage"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"assault",
+				"heart"
+			],
+			"Sometimes":
+			[
+				"necronomicon"
+			],
+			"Super Awesome":
+			[
+				"desolator",
+				"monkey_king_bar",
+				"mjollnir",
+				"basher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"flask":"You can't always leave the lane to get healed up.",
+				"tango":"Some basic regen. ",
+				"power_treads":"Need dem' stats.",
+				"vladmir":"Once you get this, your jungling farm will go through the roof. THE WORLD WILL BE YOUR OYSTER.",
+				"ring_of_basilius":"Make sure you have the ring off during the early stages so you don't push the lane away from you. Transition in to vlad as soon as you can and start jungling.",
+				"necronomicon":"For some extra pushing power--just don't get lost  in trying to upgrade it. Do this only if the game is going well.
+",
+				"assault":"Asses the situation. If you need more tankability, go for this.",
+				"heart":"Great to get you tanking.",
+				"black_king_bar":"If there isn't much magic damage, you can skip.",
+				"basher":"Although it's very popular, this isn't always the best choice.",
+				"mjollnir":"Adds extra pushing power and increases the usefullness of the skullbasher",
+				"medallion_of_courage":"Gives you some good armor and it's relatively cheap."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"You can get a level of wolves first or get a level of feral impulse first. I prefer to get feral impulse first if I am laning for the first few levels or so.
+
+At level three, your pushing power has become reasonable
+
+Wolves can be used to scout an area and sometimes serve as makeshift wards of sort.",
+				"lycan_howl":"Activate this all the time. Activate it even when it gives you no personal benefit. When your team is on the other side of the map fighting, pushing or what have you, activate it.",
+				"lycan_feral_impulse":"Having this attack speed is very important for your jungling career.
+
+You can get a level of wolves first or get a level of feral impulse first. I prefer to get feral impulse first if I am laning for the first few levels or so.
+",
+				"lycan_shapeshift":"For the earlier part of the game, you want to keep this as an escape and tower-pushing tool. Use it as the tower is about to fall.
+
+Also great for team fights."
+		}
+	}
+}

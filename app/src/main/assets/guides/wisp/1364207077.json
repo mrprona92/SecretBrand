@@ -1,0 +1,120 @@
+{
+	"Hero":"wisp",
+	"Title":"Figleaf's IO (Wisp) Build [6.82]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_stick",
+				"flying_courier"
+			],
+			"Core Option #1":
+			[
+				"urn_of_shadows",
+				"arcane_boots",
+				"mekansm"
+			],
+			"Core Option #2":
+			[
+				"soul_ring",
+				"urn_of_shadows",
+				"mekansm",
+				"power_treads"
+			],
+			"Luxury":
+			[
+				"heart",
+				"armlet",
+				"bloodstone"
+			],
+			"Situational":
+			[
+				"medallion_of_courage",
+				"helm_of_the_dominator",
+				"blink",
+				"ethereal_blade",
+				"tranquil_boots",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Use to escape, and for getting easy tether stuns.",
+				"gauntlets":"Gives more damage and health, ingredient for Urn.",
+				"branches":"Give additional starting stats, 2 branches are required for Mekanism",
+				"magic_stick":"Magic WAND does not properly give mana to tethered hero, so do not upgrade this item.
+
+Ideally this will be quickly replaced by Mek",
+				"flask":"Buy these throughout the early game, to keep yourself and your partner topped off.",
+				"bottle":"If other members of your team are willing to buy Courier and Wards, then you can buy this as your first item. Keep your 650g starting gold and wait until you've banked 700g.",
+				"ward_observer":"Wards or Courier",
+				"courier":"If someone else buys this item on your team, use the spare 150 gold to either start saving towards your Bottle or buy a set of Observer Wards.",
+				"travel_boots":"Replace Arcane Boots/Power Treads with this. Will increase the farming potential of your partner, relocate them to somewhere on the map, leave them there and upon your return use Boots of Travel to join him again.",
+				"mekansm":"Replace Magic Stick with this",
+				"cyclone":"Apply to yourself when in danger, or use it on an enemy to line up a stun combo with your tethered partner.
+
+Also gives good mana regen for you and your partner.",
+				"heart":"Replace Urn with this.",
+				"bloodstone":"It's unlikely you'll ever be able to afford this item, however if you do so, you will become a mobile fountain.
+
+If you went Core Option #2, replace Soul Ring with this item. Else sacrifice a spare supportive Item slot.",
+				"armlet":"Buy this after Heart has been purchased and leave toggled &quot;ON&quot;.  Tethering allies will give them a stream of health, always. (Over the course of a 10 second tether your ally will receive 600 Health guaranteed)
+
+Replace Bottle with this item.",
+				"helm_of_the_dominator":"Use to dominate a creep/neutral (preferably ranged) and have him stack an ancient creep camp; which your partner will greatly benefit from.",
+				"ethereal_blade":"If your partner deals mainly magic damage (Leshrac, Sand King etc.) then this item will increase the damage you and your partner will do to them.",
+				"soul_ring":"Using Soul Ring with full mana will still transfer mana to tethered hero",
+				"medallion_of_courage":"Apply to the enemy that you have relocated to. Also can be used to help kill Roshan early in the game.",
+				"tranquil_boots":"Your tethered ally will also benefit from the high health regeneration these boots give."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_spirits",
+			"4":"wisp_overcharge",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_overcharge",
+			"9":"wisp_overcharge",
+			"10":"wisp_overcharge",
+			"11":"wisp_relocate",
+			"12":"wisp_tether",
+			"13":"wisp_tether",
+			"14":"wisp_tether",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"Hero":"rubick",
+	"Title":"Purge's Guide to Support Rubick",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"branches",
+				"tpscroll",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"tpscroll",
+				"magic_wand",
+				"force_staff",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"blink",
+				"ghost",
+				"ancient_janggo",
+				"gem",
+				"mekansm",
+				"sheepstick",
+				"vitality_booster",
+				"urn_of_shadows"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger can be purchased instead of Force staff, or can be purchased in addition to force staff because it allows you to make great use of the abilities that you steal from opponents!
+
+Ravage and black hole are much stronger when you have the ability to instant initiate.",
+				"branches":"Ironwood branches are generally picked up to fill item slots because they are very cost effecient. Each branch gives you 19 more hp, 1 damage, and 13 more mana! They can build into a wand later as well.",
+				"boots":"Early boots are generally purchased after the flying courier has been upgraded. Once you have these, you should be able to gank and roam a bit better. You can upgrade to Arcane boots at the side shop if you are having a very good early game.",
+				"gem":"Support heroes will sometimes purchase a gem to detect enemy invis heroes.",
+				"magic_stick":"Magic stick is picked up from the side shop fairly early. Sometimes before boots, but generally after. It gives you burst hp/mp heal that might make the difference between you killing and you surviving.",
+				"magic_wand":"Magic wand should be built on all supports because of the survivability that it gives for a low cost. The extra hp and mp heal throughout the game could save you and allow you to cast more spells!",
+				"ghost":"Because Rubick has low armor, a ghost scepter pickup is often very useful because late game carries will crush you in a couple hits, and you can at least buy yourself 4 seconds of survivability to possibly escape.",
+				"clarity":"Clairty Potions fill up the mana pool that you will be spending in the early game. All support heroes should have at least 1, but since you're an int caster, you have more mana to work with and 1 clarity will be enough for you.",
+				"flask":"Salves are great to heal quickly back up to full hp when you're missing a lot. Often times these will be passed to your carries and other lane allies.",
+				"ward_observer":"Observer wards at the start of the game are very important for making sure that your mid can spot runes, and so you can detect ganks.",
+				"ward_sentry":"As a support hero, you should be purchasing sentry wards if the enemy team has heroes that have invisibility. You can also purchase dust.",
+				"tango":"A bit of each type of regen is recommended. Tangoes help keep your hp at full, and can be used for juking.",
+				"courier":"A support hero should purchase the courier at the start of the game, and you are a support hero!",
+				"tpscroll":"A tp scroll should always be carried as a support hero, because you might need to teleport to other lanes to help your allies get kills and stay alive when they are dived.",
+				"vitality_booster":"I sometimes like to purchase a vitality booster on Rubick because he has low hp and armor. If your enemy composition is heavily magic, getting levels of null field and then getting a vitality booster should solve your problems. This can be kept as is, or later built into a Rod of Atos.",
+				"mekansm":"Occaisionally Mek will be purchased if none of your other allies choose to buy it. Generally though, you will just focus on wards, Force Staff, and Blink Dagger if possible.",
+				"flying_courier":"Flying courier should be purchased by one of your supports within 2 minutes of the creeps spawning!",
+				"urn_of_shadows":"Urn is a great item for any support hero because it provides more survivability and a bit of mana regen. The extra burst heal after ganks can be really useful for healing your carries after combat, offensively during ganks, and for keeping everyone's hp up while pushing.",
+				"sheepstick":"If you somehow get insanely rich, a Sheepstick is always a worthwhile investment because of the ability to lock down your opponents during a teamfight, or when they are out of position.",
+				"force_staff":"Force staff is a great pick up for any support hero because you can use it to save allies and yourself, and position yourself to secure kills and initiate properly. You can also pick up a blink dagger if you want more offense and less defense, but generally I recommend force staff instead.",
+				"ultimate_scepter":"Aghs is REALLY GOOD on Rubick now because it lowerst the cooldown to 5(!) seconds, and increases the cast range. It also makes any ulti you steal aghs upgraded, regardless of the owner having an aghs scepter.
+
+The buildup is solid and the stats are great!",
+				"arcane_boots":"Arcane boots can be completed in the side shop, or you can send the courier to the secret shop to buy the Energy Booster! This will supply you with enough mana for the rest of the game.",
+				"ancient_janggo":"Drum is sometimes purchased because of the extra survivability and mobility that it grants you and your teammates."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_telekinesis",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_null_field",
+			"9":"rubick_null_field",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_null_field",
+			"13":"rubick_telekinesis",
+			"14":"rubick_telekinesis",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"Telekinesis is picked up as your reliable disable. You can lift enemies and throw them away or towards you, and the drop produces a great aoe stun. You can max this skill 2nd, but I'd only do that as a solo mid Rubick, or if you are doing really well.",
+				"rubick_fade_bolt":"Fade bolt is your bread and butter nuke that also happens to reduce the damage that your opponents do. It bounces an endless amount of times, so it's a really great counterpushing skill. Try to use it early in the teamfights to reduce the damage and get it off of cooldown faster.",
+				"rubick_null_field":"Null Field can be delayed until later, but it's a great skill that provides your whole team magic resistance. It's not worth getting many levels before your team starts teamfighting, though.
+
+You can either max telekinesis first, or get 2 levels then max null.",
+				"rubick_spell_steal":"Spell Steal if the ability that makes Rubick very powerful!
+
+Try stealing an enemy's ultimate or stun, and combo it together with allies nukes or disables. If you steal a stun, combo it after your telekinesis for a huge duration disable. You can steal spells through BKB as well!",
+				"attribute_bonus":"Get stats whenever you don't have another ability to pick up. In the rare case that the enemy team has little to no magic damage, you could level stats instead of Null field, but generally this won't ever happen."
+		}
+	}
+}

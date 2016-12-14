@@ -1,0 +1,111 @@
+{
+	"Hero":"earthshaker",
+	"Title":"imba late Earthshaker (6.80 Update)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"quelling_blade",
+				"tango",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"void_stone",
+				"boots",
+				"ring_of_health"
+			],
+			"Средняя игра":
+			[
+				"invis_sword",
+				"pers",
+				"power_treads"
+			],
+			"Ядро":
+			[
+				"desolator",
+				"bfury",
+				"greater_crit",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"heart",
+				"blink",
+				"satanic",
+				"monkey_king_bar",
+				"black_king_bar",
+				"medallion_of_courage",
+				"armlet",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Аналог Лотара, не так хорошь в ганке, но более полезный для ТФ. Покупать лучше дагер, а не лотар если есть БХ или очень сильно вардят и покупают дасты.",
+				"ring_of_health":"Если тяжело стоится на линии лучше купить его, а не Войд Стоун. ",
+				"void_stone":"Если на лайне легко стоится покупка обязательна, поможет ганкам и дает неплохой реген маны. ",
+				"pers":"Реген маны и хп + грейдиться в БФ, необходимый итем.",
+				"ring_of_basilius":"Дает реген маны, дешего стоит. Важный итем ранней игры.",
+				"ultimate_scepter":"Отличный лейтовый итем который хорошо подходит для ТФ. У кого нет БКБ придется тяжко. Хороший контр Фантом лансера.",
+				"black_king_bar":"Очень нужный итем если большой контроль со староны противника.",
+				"monkey_king_bar":"Надоело промахиваться по игрокам с бабочко и из-за этого фейлить 2 скилл? тогда этот итем необходим. P.S. не контрит увороты войда =D",
+				"greater_crit":"Я просто оставлю это здесь. 2 скилл + крит = убит :D	",
+				"bfury":"В стаке с буризой (Дейдалусом) дает возможность 650 чистого урона в АОЕ. Реген маны + реген хп + быстрый фарм.",
+				"armlet":"Можно собрать, но не рекомендую.",
+				"invis_sword":"Лотар обязателен, при зарядке второго скила кому-то придется очень больно ;)",
+				"satanic":"Бафф + крит + сатан = фулл хп. Если нужно повысить живучесть то этот итем необходим.",
+				"desolator":"Дезоль, как я считаю, это очень классный итме для Шейка. Минус армор + второй скилл = большые проблемы у атакуемого =)",
+				"ethereal_blade":"Тонна dmg по 1 цели. Если есть 1 проблемный лейт, то ему пиздец. Блинкаем в толпу, кидает езерал и ультим.",
+				"medallion_of_courage":"Отличный итем для выноса, с самого начала."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_enchant_totem",
+			"3":"earthshaker_aftershock",
+			"4":"earthshaker_fissure",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_enchant_totem",
+			"9":"earthshaker_enchant_totem",
+			"10":"earthshaker_enchant_totem",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_aftershock",
+			"13":"earthshaker_aftershock",
+			"14":"earthshaker_aftershock",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Очень эффективный скилл. Дает возможность сейвить союзников и блокировать выход врагам. Так же можно застопить крипов в начале игры.",
+				"earthshaker_enchant_totem":"Именно этот скилл дает Шейкеру быть очень сильным лейтом. Благодоря этому скиллу дамаг Шейкера разгоняется очень мощно =)",
+				"earthshaker_aftershock":"Небольшой АОЕ стан + урон.",
+				"earthshaker_echo_slam":"Очень мощный ульт. Чем больше народа под него попадет, тем больше урона они получат."
+		}
+	}
+}

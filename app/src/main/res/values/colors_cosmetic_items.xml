@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common">#b0c3d9</color>
+    <color name="uncommon">#5e98d9</color>
+    <color name="rare">#4b69ff</color>
+    <color name="mythical">#8847ff</color>
+    <color name="legendary">#d32ce6</color>
+    <color name="ancient">#eb4b4b</color>
+    <color name="immortal">#e4ae39</color>
+    <color name="arcana">#ade55c</color>
+
+
+    <color name="quality_normal">#B2B2B2</color>
+    <color name="quality_genuine">#4D7455</color>
+    <color name="quality_vintage">#476291</color>
+    <color name="quality_unusual">#8650AC</color>
+    <color name="quality_unique">#D2D2D2</color>
+    <color name="quality_community">#70B04A</color>
+    <color name="quality_developer">#A50F79</color>
+    <color name="quality_selfmade">#70B04A</color>
+    <color name="quality_customized">#00FF00</color>
+    <color name="quality_strange">#CF6A32</color>
+    <color name="quality_completed">#8650AC</color>
+    <color name="quality_haunted">#8650AC</color>
+    <color name="quality_tournament">#8650AC</color>
+    <color name="quality_favored">#FFFF00</color>
+    <color name="quality_ascendant">#EB4B4B</color>
+    <color name="quality_autographed">#ADE55C</color>
+    <color name="quality_legacy">#FFFFFF</color>
+    <color name="quality_exalted">#CCCCCC</color>
+    <color name="quality_frozen">#4682B4</color>
+    <color name="quality_corrupted">#A52A2A</color>
+    <color name="quality_lucky">#32CD32</color>
+</resources>

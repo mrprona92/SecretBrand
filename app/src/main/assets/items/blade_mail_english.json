@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 22 Damage<br/>+ 6 Armor<br/>+ 10 Intelligence",
+  "cd": 17.0,
+  "components": [
+    "broadsword",
+    "chainmail",
+    "robe"
+  ],
+  "qual": "epic",
+  "notes": "Damage Return is calculated after reductions.Damage Return doesn\u0027t reflect damage from other Blademails.Won\u0027t damage magic immune units.",
+  "desc": "Active: Damage Return - Returns any damage you take to the unit that dealt the damage.  Lasts 4.5 seconds.",
+  "dname": "Blade Mail",
+  "dotaId": "blade_mail",
+  "mc": 25.0,
+  "img": "blade_mail_lg.png",
+  "lore": "A razor-sharp coat of mail, it is the choice of selfless martyrs in combat.",
+  "id": 127,
+  "created": true,
+  "cost": 2200
+}

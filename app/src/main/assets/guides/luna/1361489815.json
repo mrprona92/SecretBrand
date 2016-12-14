@@ -1,0 +1,88 @@
+{
+	"Hero":"luna",
+	"Title":"Luna Carry Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"flask",
+				"circlet",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"wraith_band",
+				"boots",
+				"claymore"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"black_king_bar"
+			],
+			"Luxury Items":
+			[
+				"satanic",
+				"manta",
+				"ultimate_scepter",
+				"blink",
+				"butterfly",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If the other team has such a strong disdain for your Shadow Blade that they obtain multiple and/or effective ways of countering it, a Blink Dagger may serve well as an alternate escape mechanism.",
+				"claymore":"Claymore gives Luna a damage boost, which combined with her already high base damage makes her attacks really leave a bruise. It also brings her one step closer to her core Shadow Blade.",
+				"travel_boots":"Boots of Travel are especially helpful if you're on the defensive, as they allow you to make a push up a lane and instantly return to base to defend should the need arise.",
+				"wraith_band":"Wraith Bands give Luna a little statboost that can make huge difference in the oftentimes close earlygame fights.",
+				"ultimate_scepter":"Luna's ultimate, when used correctly, can be incredibly powerful. If you find yourself using it often, Aghanims may be the way to go.
+",
+				"black_king_bar":"As already stated, Luna can't take much abuse. Pretty much any two stuns in a row and she's down for the count. A single nuke can deal heavy damage to her. Black King Bar allows her to avoid being stunned or nuked.",
+				"butterfly":"Butterfly is a nice luxury if you have plenty of money and nothing of greater significance to purchase, thanks to its evasion and massive agility boost.",
+				"manta":"Manta can be incredibly powerful on Luna due to her high DPS.",
+				"invis_sword":"This item is an absolute necessity on Luna. Luna may be a heavy hitter, but her HP pool is low and she has no default means of getting away when a fight turns sour. It can also serve as a great initiator as it allows you to get in close range with a foe and then hit them with a triple damage glaive.",
+				"satanic":"Satanic is always a decent choice on Luna due to her incredibly high DPS and low HP pool."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lunar_blessing",
+			"2":"luna_lucent_beam",
+			"3":"luna_lunar_blessing",
+			"4":"luna_lucent_beam",
+			"5":"luna_lunar_blessing",
+			"6":"luna_eclipse",
+			"7":"luna_moon_glaive",
+			"8":"luna_moon_glaive",
+			"9":"luna_lucent_beam",
+			"10":"luna_lunar_blessing",
+			"11":"luna_eclipse",
+			"12":"luna_lucent_beam",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

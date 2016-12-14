@@ -1,0 +1,100 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"[6.80] Frost arrow Drow - Freeze your enemies to death.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"branches",
+				"slippers",
+				"slippers",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"yasha"
+			],
+			"Choice after yasha":
+			[
+				"lesser_crit",
+				"invis_sword"
+			],
+			"Core":
+			[
+				"manta",
+				"greater_crit"
+			],
+			"Situtational":
+			[
+				"monkey_king_bar",
+				"black_king_bar",
+				"butterfly",
+				"helm_of_the_dominator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Slippers of agility give you nice damage boost with your first level stats so you can last hit nicely. Sell these as you progress to the game and need more slots in your inventory.",
+				"boots_of_elves":"For yasha",
+				"blade_of_alacrity":"For yasha",
+				"power_treads":"Power treads give you nice attack speed and with little tread switching you can get more damage or more survivability.",
+				"black_king_bar":"BKB is very situtational and againts some heroes its must. If your enemy team has alot of magic damage, stuns etc. you have to get BKB before manta.",
+				"monkey_king_bar":"MKB is good againts heroes that evades naturally or buys Butterfly. Also MKB gives you nice damage boost when you already have your Daedalus.",
+				"butterfly":"Butterfly is nice item to have if enemy team has hard right click heroes. It will increase your overall damage as well.",
+				"greater_crit":"Daedalus gives you very nice damage output and its made from crystalys that you bought earlier.",
+				"manta":"Manta works really well with your aura and ultimate, illusions get really good damage from them and it uses yasha that you bought earlier.",
+				"lesser_crit":"I recommend Crystalys as its usually better than shadow blade, as SB is easily countered with some reveal and it doesnt scale to late game. However Crystalys scales nicely with your overall damage. And it can be upgraded for Daedalus.",
+				"invis_sword":"Shadow blade is good if you think you will gank more than try to outfarm your enemies. Also gives you escape mechanic, however in higher tier games your enemies will buy reveal and shadow blade will lose its usefulness.",
+				"helm_of_the_dominator":"NOT RECOMMENDED Helm of dominator doesnt really work with Frost arrow build as the lifesteal is orb effect. However if you can handle shooting your frost arrows manually you can increase your survivability for a bit.",
+				"yasha":"Yasha will give you nice movement speed increase so you can orbwalk heroes more easily. Also increases your damage quite nicely"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"drow_ranger_frost_arrows",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_wave_of_silence",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_trueshot",
+			"9":"drow_ranger_trueshot",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_trueshot",
+			"13":"drow_ranger_wave_of_silence",
+			"14":"drow_ranger_wave_of_silence",
+			"15":"drow_ranger_wave_of_silence",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Your bread and butter skill. If you can and you should train the skill of orb walking, done correctly nobody can get away from you.",
+				"drow_ranger_wave_of_silence":"New gust skill helps you to keep enemies at a distance from you. The AOE doesnt change with leveling so one level early is enough.",
+				"drow_ranger_trueshot":"Your aura is the skill that makes you really hard hitting late game carry.",
+				"drow_ranger_marksmanship":"Flat out damage and attack speed, what else does Drow need! ",
+				"attribute_bonus":"The very first level goes to stats because it will give you some damage, health and mana. Damage will help with your last hits in the first levels and thats why you dont need to buy wraith bands early on."
+		}
+	}
+}

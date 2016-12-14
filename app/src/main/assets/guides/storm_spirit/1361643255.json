@@ -1,0 +1,130 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Storm Spirit Mid-Lane Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"magic_wand"
+			],
+			"Build #1 (Bloodstone)":
+			[
+				"arcane_boots",
+				"bloodstone",
+				"sphere",
+				"orchid",
+				"sheepstick"
+			],
+			"Build #2 Orchid":
+			[
+				"power_treads",
+				"orchid",
+				"sphere",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"black_king_bar",
+				"gem",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"3 Ironwood Branches to make a Magic Wand later.",
+				"gem":"If you are having a great time and you need to lock an invis hero gets a GEM, its great on you since you are always the one going in front in ganks.
+
+If you need the gem but your farm is not good ask a support for buying it.",
+				"magic_wand":"If you want to go for the bloodstone build you can skip this item, its a game dependent item.
+
+For example: If enemy team has a Batrider mid, you would want to get this item, etc...",
+				"dust":"If the enemy team has a Invis hero (or a shadow blade) GET DUSTS for early game ganks, it is going to give you free kills on most invis heroes since theyre squishy.
+
+Buy it yourself, It only costs 180 and it is probably going to give you a kill, it is always WORTH it.",
+				"bottle":"You want to get your bottle as fast as possible since Storm is a HIGHLY mana dependent hero. Try to control runes by pushing the lane with Static Remnant before rune spawns.",
+				"tango":"1 set of tangos for early-game HP regen, you dont need more than this because you want to rush your bottle. (You can add 1 salve to your starting items if you want but I do not recommend)",
+				"power_treads":"Treads gives you the extra HP you dont have in this build because the lack of bloodstone.
+
+Item Order in Build #2: Treads-Orchid-Linkens-Scythe
+When to go for this build: You are not getting bloodstone before the 20 min-mark, you want to make stuff happen earlier.",
+				"sheepstick":"Scythe increases your mana pool by a lot and gives you another lock down method, get this item if you have to shut down the enemy carry really hard because he is destroying your team and you desesperately needs the disable.",
+				"orchid":"If you want to be REALLY agressive make Orchid straight after bloodstone but be careful because if you jump into an unfavourable situation you are probably going to melt. There is no room to silly mistakes with orchid - blood.
+
+Orchid gives you a silence + 30% amplification dmg, thats devastating.",
+				"black_king_bar":"If you think the enemy has so much lockdown that linkens is not enough get a BKB.
+
+PS: This item is also good against mana burn heroes like AM , PL/Naga (With Diffusal+Illus)",
+				"shivas_guard":"If you want more AOE Damage Shivas is always good. It gives you Mana from the Mystic Staff + Nice Armor (Platemail)",
+				"bloodstone":"Items Order:
+
+Buy Point Booster for Extra HP (Survability) and Mana
+Buy Perseverance (For the Mana/HP regen)
+Buy Vitality Booster -> Disassemble your Arcane Boots -> Finish Bloodstone.
+",
+				"sphere":"If you are new to Storm Id recommend you to ALWAYS get Linkens before Orchid or Scythe of Vyse since you have more room to make mistake with this item.
+
+Linkens gives you a nice Hp/Mana regen together with Bloodstone making you never having to go back to base and nice stats (Ultimate Orb). ",
+				"arcane_boots":"If you are going for the bloodstone rush you want to get Arcane Boots 100%.
+
+Why? You are going to dissasemble it later on to get the energy booster back and finish your bloodstone.
+
+After you disassemble your arcane boots you can either make Treads (Extra AS - HP) or Boots of Travel(High Mobility)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_overload",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_overload",
+			"10":"storm_spirit_static_remnant",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_static_remnant",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_electric_vortex",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"You can Last Hit with this skill earlygame ",
+				"storm_spirit_electric_vortex":"You only want to get 3 levels on Static Vortex because it is enough to make the enemy always get hit by your remnant. Your combo should be: Ulti In -> Right Click -> Vortex -> Right Click -> Static Remnant -> Right Click (If you dont have to Ulti In, just start up with vortex)",
+				"storm_spirit_overload":"Maxing overload before Static Remnant is a more mana/dmg efficiency way and since storm really needs the mana you should Max Overload first because in the end its going to do more dmg than Static Remnant. This skill also procs when you ulti.",
+				"storm_spirit_ball_lightning":"Great Skill for initiating and running away. Try to dont make way 2 big of jumps early on because this skill is going to EAT your mana.
+
+If you need the extra dmg for ganks, make a mini jump so overload procs and gives you the slow + dmg from the skill."
+		}
+	}
+}

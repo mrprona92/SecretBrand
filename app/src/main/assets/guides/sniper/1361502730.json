@@ -1,0 +1,128 @@
+{
+	"Hero":"sniper",
+	"Title":"6.82 - Standard Sniper (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"yasha",
+				"maelstrom",
+				"sange_and_yasha",
+				"black_king_bar"
+			],
+			"Core - Mask of Madness":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"maelstrom",
+				"black_king_bar",
+				"manta"
+			],
+			"luxury":
+			[
+				"blink",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"mjollnir",
+				"greater_crit",
+				"skadi",
+				"butterfly",
+				"satanic"
+			],
+			"Last updated: 9/10/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is for the aggressive Snipers who know to stay out of trouble and knows when to jump in to start trouble. It can work out great depending on the enemy line-up and if they can disable your dagger with reoccurring damage such as from Urn of Shadows.",
+				"phase_boots":"Power Treads gives you what you can do best and tries to alleviate some problems you have with movement speed. Even with Phase Boots, it won't be enough, so we get other movement speed items.",
+				"power_treads":"Power Treads gives you more attack speed and more strength/agility/intelligence depending on the situation. It is an all-around good pair of boots in view of this Core Build.",
+				"black_king_bar":"With your entire arsenal of passive abilities that can activate, Black King Bar ensures you are continually attacking and hitting hard.",
+				"monkey_king_bar":"For heroes that have evasion, Monkey King Bar is pretty amazing. The mini-stun is also relatively interesting for Sniper as well.",
+				"butterfly":"Butterfly does what Sniper can do best: Hit hard and fast and provides a nice escape via the active effect: Flutter.
+
+Flutter gives Sniper the movement speed he needs to consistently keep himself at a great distance thanks to its temporary movement speed buff!",
+				"greater_crit":"A great item for Sniper as he wants to tear down foes before even approaching him.",
+				"manta":"Triple the snipers, tripe the damage and headshots. This item works great for Sniper and gets you out of close situations where you are either disabled or an enemy is trying to solo you.",
+				"invis_sword":"Consider this item if in need of an escape. Sniper dies to a lot of fast and strong heroes. Shadow Blade can be your escape or ability to reposition yourself in case someone gets too close to you.",
+				"sange_and_yasha":"Sange & Yasha offers a good assortment of abilities that help Sniper: it has a slow, movement speed, some extra strength to help you survive and of course attack speed. It is worth its price.",
+				"satanic":"Works great in combination with Eye of Skadi. The two orb effects work just fine together. Get this item much later in the game when you have a decent amount of health.",
+				"mjollnir":"Maelstrom and Mjollnir let's you never needing further attack speed again and offers further forms of farming.
+
+Works in combination with Headshot, so you'll be Chain-Lightning and dealing Headshot additional effects constantly.",
+				"skadi":"Tear down physical carries with Eye of Skadi and prevent them from attacking in combination with your Headshot passive ability and the slow Eye of Skadi offers.
+
+Works with Satanic.",
+				"maelstrom":"Since you are building with attack speed in mind: Maelstrom's Chain Lightning will occur more often; letting you farm faster, better and efficiently dish damage to all enemies in team-fights.",
+				"desolator":"You will have decent attack speed, but your damage will be sporadically good depending on when Headshot occurs. Desolator alleviates that chance by making all your shots heavy damage.",
+				"yasha":"Yasha gives you more attack speed so Headshot will activate while giving you more movement speed so you can continue to position yourself at the best location.",
+				"mask_of_madness":"Mask of Madness is great for whether you're ahead or behind but it is a doubling-down item and good for teams that can't keep you disabled. Mask of Madness gives you fast attack-speed and an escape to keep your distance."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_take_aim",
+			"4":"sniper_headshot",
+			"5":"sniper_headshot",
+			"6":"sniper_assassinate",
+			"7":"sniper_headshot",
+			"8":"sniper_take_aim",
+			"9":"sniper_take_aim",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"sniper_shrapnel",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sniper_shrapnel":"Shrapnel can be used on towers or to illuminate areas, if unsure if an area, try using shrapnel to see if it is safe. Additionally, it can be used to slow down opponents.",
+				"sniper_headshot":"Headshot's damage is great in the late-game due to its constant chance percentage (40%) and high damage. Combined with Sniper's attack speed, Headshot could be the most annoying passive ability against your opponent.",
+				"sniper_take_aim":"Take Aim is your safest and best passive ability for Sniper. The extra range allows you to safely farm at a great distance. At max level, Take Aim also let's you take down towers without being in range of their attack.",
+				"sniper_assassinate":"Use this ability to knock opponents out of the lane or to finish opponents off. Try to avoid saving it to ensure a kill that will obviously be gained by the team and utilize it more for emergency situations. The cooldown is short, so it can be used often."
+		}
+	}
+}

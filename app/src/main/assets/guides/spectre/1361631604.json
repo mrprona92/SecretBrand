@@ -1,0 +1,84 @@
+{
+	"Hero":"spectre",
+	"Title":"Spectre Lategame Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"stout_shield",
+				"ring_of_aquila",
+				"magic_wand",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"diffusal_blade",
+				"vanguard",
+				"heart",
+				"radiance"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"assault",
+				"sange_and_yasha",
+				"butterfly",
+				"heart",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Since creating this guide, experience and feedback has made me use phase boots instead. They give you more damage and chase.",
+				"heart":"That`s right, another heart of T. Makes you even more tanky.",
+				"manta":"Will stack with drums and gives you more movement and attack speed. The illusions work really well too since you have diffusal and the extra stats are great.",
+				"ancient_janggo":"A nice easy item for farm up quickly. Gives you some utility so you can help your team before lategame."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_dispersion",
+			"2":"spectre_spectral_dagger",
+			"3":"spectre_desolate",
+			"4":"spectre_spectral_dagger",
+			"5":"spectre_spectral_dagger",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_desolate",
+			"9":"spectre_desolate",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_dispersion",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

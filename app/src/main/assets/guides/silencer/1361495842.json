@@ -1,0 +1,69 @@
+{
+	"Hero":"silencer",
+	"Title":"SOLO MID SILENCER",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"circlet",
+				"gauntlets",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"ancient_janggo"
+			],
+			"Late Game/Luxury":
+			[
+				"orchid",
+				"sheepstick",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_glaives_of_wisdom",
+			"2":"silencer_last_word",
+			"3":"silencer_curse_of_the_silent",
+			"4":"silencer_curse_of_the_silent",
+			"5":"silencer_curse_of_the_silent",
+			"6":"silencer_global_silence",
+			"7":"silencer_curse_of_the_silent",
+			"8":"silencer_last_word",
+			"9":"silencer_last_word",
+			"10":"silencer_last_word",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_glaives_of_wisdom",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

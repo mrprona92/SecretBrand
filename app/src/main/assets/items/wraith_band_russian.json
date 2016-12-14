@@ -1,0 +1,19 @@
+{
+  "dotaId": "wraith_band",
+  "attrib": "+ 3 к силе<br/>+ 6 к ловкости<br/>+ 3 к интеллекту<br/>+ 3 к урону",
+  "cd": false,
+  "components": [
+    "circlet",
+    "slippers"
+  ],
+  "qual": "common",
+  "notes": "",
+  "desc": "",
+  "dname": "Wraith Band",
+  "mc": false,
+  "img": "wraith_band_lg.png",
+  "lore": "Диадема, от которой доносится легкий шепот.",
+  "id": 75,
+  "created": true,
+  "cost": 485
+}

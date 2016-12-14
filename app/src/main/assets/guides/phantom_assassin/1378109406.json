@@ -1,0 +1,91 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"치명타의 여왕, 평타의 여왕 유령 자객 여왕님!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"quelling_blade",
+				"phase_boots",
+				"ring_of_health",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"black_king_bar",
+				"satanic",
+				"basher"
+			],
+			"luxury":
+			[
+				"assault",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"치명타로 적을 썰어버릴 유령 자객 여왕님은 파밍이 많이 필요합니다 무조건 벌목 도끼로 파밍을 잘해야 합니다. ",
+				"stout_shield":"적들의 견제를 지속적으로 막아내기 위해 방패를 사주세요.",
+				"phase_boots":"어차피 공격속도는 환영타격에 붙어있으니 추격과 도주 그리고 공격력 상승을 위한 위상변화의 장화를 사주세요.",
+				"ring_of_health":"라인에서 생존력을 위해 이 아이템을 사주세요. 어차피 코어 아이템인 전장격노의 하위 아이템입니다.",
+				"assault":"환영 타격을 사용 하지 않고도 이 아이템이 있으면 엄청난 공격 속도을 뽐냅니다. 그 외에도 방어력을 많이 올려 생존력을 급 부스팅합니다.",
+				"black_king_bar":"한타에서 마법 기술에 군중제어를 당하면 유령 자객은 아무것도 못하고 죽거나 한타가 끝납니다. 꼭 이 아이템을 전장격노 후에 가주세요.",
+				"basher":"아군에 하드한 군중제어기가 없다면 꼭 이 아이템을 사주세요. 있어도 이 아이템은 적을 한 순간에 녹일 수 있는 아이템입니다.",
+				"bfury":"평타로 모든 것을 해결해야 하는 유령 자객은 무조건 전장격노를 선템으로 사세요. 파밍, 한타에서도 아주 중요합니다.",
+				"satanic":"흡혈 아이템 중에 유령자객에게 아주 잘 어울리는 아이템입니다. 3.5초 동안 175%의 흡혈율이 생기는 액티브 기술이 있는데, 이 3.5초 중에 한번이라도 레벨 16기준의 치명타가 발생하면 유령자객의 체력이 다 차는 마법을 볼 수 있습니다.",
+				"abyssal_blade":"아군에 하드한 군중제어기가 없다면 꼭 이 아이템을 사주세요. 있어도 이 아이템은 적을 한 순간에 녹일 수 있는 아이템입니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"초반에 유령자객의 견제기이며 딜링 기술입니다. 짧은 재사용 대기시간과 낮은 마나 소모력이 있어 좋습니다.",
+				"phantom_assassin_phantom_strike":"질식의 단검 다음으로 중요한 기술입니다. 재사용 대시간과 점멸 거리를 늘려서 추격을 더 쉽게 해줍니다.",
+				"phantom_assassin_blur":"마스터 시 40%까지 평타 데미지를 회피합니다. 좋은 기술이지만 다른 기술들이 더 중요하니 하나만 찍고 나중에 마스터 해주세요.",
+				"phantom_assassin_coup_de_grace":"유령 자객을 치명타 여왕, 평타의 여왕으로 만들어주는 괴물 같은 치명타 패시브 기술입니다. 마스터 시 450%의 어마어마한 치명타 데미지가 있어서 한번 만 터져도 후반에 체력이 낮은 지능 영웅들은 1방에 죽습니다."
+		}
+	}
+}

@@ -1,0 +1,117 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"Support Ogre Magi",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"flask",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game Alternatives":
+			[
+				"boots",
+				"magic_wand",
+				"ring_of_basilius",
+				"urn_of_shadows",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"tpscroll"
+			],
+			"Situational and Luxury Items":
+			[
+				"mekansm",
+				"pipe",
+				"ultimate_scepter",
+				"cyclone",
+				"shivas_guard",
+				"sheepstick",
+				"bloodstone"
+			],
+			"Navi did it once":
+			[
+				"orb_of_venom"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Most cost effective item in the game. You will have to skip one if you are buying wards instead of courier.",
+				"boots":"This should almost always be your first purchase after the laning phase starts.",
+				"magic_wand":"You'll notice that almost all of the situational items have some sort of mana regen. This is because Ogre has terrible Intelligence gain and has to constantly worry about mana. I do not recommend picking up all of these.",
+				"clarity":"Two mana pots allow you to be quite aggressive in lane.",
+				"flask":"You usually need some burst health regen to be able to stay in lane.",
+				"ward_observer":"If no one else is getting wards it's your job. (this is true for any role or hero you play).",
+				"tango":"You need some health regen to be able to stay in lane.",
+				"courier":"Usually you should either buy courier or wards. (sentry or observer ward depends on opponents and lane setups).",
+				"tpscroll":"Always carry a TP!",
+				"mekansm":"Hard to support the mana but if no one else is a decent mek carrier Ogre will do.",
+				"ring_of_basilius":"You'll notice that almost all of the situational items have some sort of mana regen. This is because Ogre has to constantly worry about mana. I do not recommend picking up all of these.",
+				"pipe":"If someone else already got a mekansm and the enemy has a ton of spell damage (Zues, QoP etc)",
+				"urn_of_shadows":"You'll notice that almost all of the situational items have some sort of mana regen. This is because Ogre has to constantly worry about mana. I do not recommend picking up all of these.",
+				"sheepstick":"Mana! (plus other stuff)",
+				"cyclone":"Mana regeneration means more Fire Blasts! (the active ability might also save your ass occasionally).",
+				"ultimate_scepter":"Extra Fire Blast! If you are stomping your enemies this is probably the most fun item you can get on Ogre but it is hard to get before the game is over :(",
+				"shivas_guard":"Mana and armour! In case they have a lot of physical damage.",
+				"bloodstone":"I've never tried Blood Stone on Ogre, but if you somehow find yourself with the money for it it's a perfect item for him.",
+				"arcane_boots":"The nerf to arcane boots hurt Ogre a lot. But they are still absolutely essential.",
+				"orb_of_venom":"Not actually recommended unless you end up in a lane where you can constantly melee your opponents (read: never)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_bloodlust",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_ignite",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"This is your bread and butter skill and once you get your ultimate at 6 you can start displaying how skilled you are at Ogre.",
+				"ogre_magi_ignite":"Decent damage and slow, quite essential for damage against enemy heroes in lane.",
+				"ogre_magi_bloodlust":"Contrary to what this skill build implies Bloodlust is actually a really good skill. It shines in the lategame though.
+
+Don't be afraid to get a few points in it early if you and your carry are engaging in early fights.",
+				"ogre_magi_unrefined_fireblast":"2x Chance for display of skill! Since 6.80 this always takes 60% of your mana. This means you can always cast it, which is awesome!",
+				"ogre_magi_multicast":"Pure skill."
+		}
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"Hero":"weaver",
+	"Title":"6.79 - [AriStar] Weaver Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"tpscroll",
+				"sphere"
+			],
+			"luxury":
+			[
+				"desolator",
+				"radiance",
+				"monkey_king_bar",
+				"hood_of_defiance"
+			],
+			"Luxury Items":
+			[
+				"heart",
+				"butterfly",
+				"rapier",
+				"greater_crit",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tpscroll":"Core on every hero. Do not get caught without a TP Scroll.",
+				"poor_mans_shield":"Only get this if facing a lot of harrasment.",
+				"heart":"Gives you a lot more survivability, usually this is needed by late game.",
+				"sphere":"Decide between Radiance or Linkens Sphere depending on your early game farm rate and the enemys disables.",
+				"hood_of_defiance":"If facing a lot of magic damage consider getting this.",
+				"rapier":"Weaver is one of the best Divine Rapier holders, however if you are prone to dying do not get this.",
+				"monkey_king_bar":"If the enemy gets evasion or if playing against Phantom Assassin, Brewmaster, etc.",
+				"radiance":"Decide between Radiance or Linkens Sphere depending on your early game farm rate and the enemys disables.",
+				"desolator":"Get Desolator if you can get it early, it is needed if your enemies are stacking armor (through items such as AC)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_geminate_attack",
+			"4":"weaver_shukuchi",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_geminate_attack",
+			"9":"weaver_geminate_attack",
+			"10":"weaver_the_swarm",
+			"11":"weaver_time_lapse",
+			"12":"weaver_the_swarm",
+			"13":"weaver_the_swarm",
+			"14":"weaver_the_swarm",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"You can use this to give vision to your team, scout for enemies, delay enemy creepwaves from advancing while you take down towers and more.",
+				"weaver_shukuchi":"This allows you to move at maximum speed and damages everyone you pass through. It has a short duration and cooldown. Spam this if your mana allows it.",
+				"weaver_geminate_attack":"A reliable damage boost. Use this to harrass your enemies when its off cooldown. Take note of the timer as it can offset your farming.",
+				"weaver_time_lapse":"Take note of the timer and try to anticipate where you will return. It can be utilized in many different ways.
+
+It dispells Dust and Track.
+
+Note: If you buy back and use this it will return you to where you died."
+		}
+	}
+}

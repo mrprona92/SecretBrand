@@ -1,0 +1,55 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "tusk_snowball",
+        "2": "tusk_ice_shards",
+        "3": "tusk_snowball",
+        "4": "tusk_ice_shards",
+        "5": "tusk_snowball",
+        "6": "tusk_walrus_punch",
+        "7": "tusk_snowball",
+        "8": "tusk_ice_shards",
+        "9": "tusk_frozen_sigil",
+        "10": "tusk_ice_shards",
+        "11": "tusk_frozen_sigil",
+        "12": "tusk_walrus_punch",
+        "13": "tusk_frozen_sigil",
+        "14": "tusk_frozen_sigil",
+        "15": "attribute_bonus",
+        "16": "tusk_walrus_punch",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "tusk_snowball": "На начальных уровнях нужна для того,чтобы мешать противнику качаться,далее - хороший стан.",
+        "tusk_ice_shards": "Помогает нам убить противника на всех стадиях игры.Очень дальняя.",
+        "tusk_frozen_sigil": "С помощью этой штучки можно и противнику в замесе помешать сильно и убежать,замедляя противника позади.",
+        "tusk_walrus_punch": "Замечательный ульт.Жаль,в конечной стадии слаб,но это зависит от вашего урона с лапы."
+    }
+}, "Hero": "tusk", "ItemBuild": {
+    "ItemTooltips": {
+        "bracer": "Составляющая Drum of Endurance",
+        "clarity": "Будет нужен для частого использования второго скилла",
+        "gauntlets": "Поможет вам выдержать больше тычек на начальных уровнях,да и когда больше здоровья было плохо?Для Bracer",
+        "blades_of_attack": "Урон очень важен.Часть Phase Boots",
+        "tango": "Понадобится",
+        "circlet": "Хороший начальный бонус,также для сбора Bracer",
+        "stout_shield": "Позволит выдержать чуть больше тычек,часть Vanguard",
+        "vanguard": "Хорошая прибавка к ХП.Живём дольше",
+        "ancient_janggo": "Неплохие показатели как для нас самих,так и для наших товарищей.В будущем следует заменить на Shadow Blade",
+        "phase_boots": "Убегать-догонять,также отличная прибавка к урону.",
+        "invis_sword": "Бывает,что и вам достается,так что эту вещь было бы неплохо иметь."
+    },
+    "Items": {
+        "Начальные предметы": ["circlet", "clarity", "gauntlets", "tango"],
+        "На ранней стадии": ["bracer", "blades_of_attack", "stout_shield"],
+        "Основные предметы": ["phase_boots", "ancient_janggo", "vanguard"],
+        "По ситуации": ["heart", "bfury", "invis_sword", "travel_boots", "skadi"]
+    }
+}, "Title": "Guide by Edw(rus)(line)"}

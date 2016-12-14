@@ -1,0 +1,116 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"6.82 - Standard Keeper of the Light (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"rod_of_atos",
+				"pipe"
+			],
+			"Extension Items":
+			[
+				"force_staff",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support hero, it is generally expected of you to purchase the courier or wards.",
+				"courier":"As a support hero, it is generally expected of you to purchase the courier or wards.",
+				"cyclone":"Eul's Scepter gives Keeper of the Light more movement and crowd-control to be able to use his Illuminate ability.",
+				"force_staff":"Keeper of the Light suffers from maneuverability. While casting, he may be ganked and thus the usefulness of Force Staff. In addition, Mekansm works great with Keeper of the Light but must remain in sight with his allies.",
+				"ultimate_scepter":"An incredible item for Keeper of the Light given it heals allies and hurting foes. Additionally, it keeps him in Spirit Form allowing to blind physical carries, teleport allies to him for split-pushing and more.",
+				"shivas_guard":"Shiva's Guard adds the much needed armor that Keeper of the Light desires. It's slow is a nice prevention of enemies who chase you down.",
+				"veil_of_discord":"Veil of Discord can prove to be useful under specific situations. If your team is typically magic-damage users, Veil of Discord can offer you further armor and a benefit to the team's damage output.",
+				"tranquil_boots":"Tranquil Boots does not break when you cast Illuminate, but be wary when you auto-attack."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_mana_leak",
+			"6":"keeper_of_the_light_spirit_form",
+			"7":"keeper_of_the_light_illuminate",
+			"8":"keeper_of_the_light_illuminate",
+			"9":"keeper_of_the_light_chakra_magic",
+			"10":"keeper_of_the_light_chakra_magic",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"Try to avoid Illuminate as a farming tool/creep kills. You will end up pushing the lane and hurting your carry's farm. Try to use it to take out enemy foes in the jungle or out of line of sight.",
+				"keeper_of_the_light_mana_leak":"Use Mana Leak to tear down mana-users or fleeing enemies. Force Staff also works alongside this ability.",
+				"keeper_of_the_light_chakra_magic":"Use Chakra Magic on yourself or your allies. Max Chakra Magic out first to compensate for the Illuminate cost.",
+				"keeper_of_the_light_recall":"Use Recall to either save a hero or to bring a needed ally into a coming team-fight.",
+				"keeper_of_the_light_blinding_light":"Use blinding light to cause physically carries to miss or to push a coming foe away from you or to keep it within range for attacks. Aim carefully.",
+				"keeper_of_the_light_spirit_form":"Obtain this ultimate when the lane phase is over. Although it is always useful to have, Illuminate and Chakra Magic need to be maxed as soon as possible. When ganks start occuring, obtain the ultimate.
+
+Use this ultimate to save allies, improve split-pushes and gank foes as two people."
+		}
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"Hero":"wisp",
+	"Title":"Io - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"courier",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"magic_wand",
+				"boots"
+			],
+			"Early Core":
+			[
+				"headdress",
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"heart"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"dagon",
+				"shivas_guard",
+				"cyclone",
+				"ghost",
+				"black_king_bar",
+				"bottle",
+				"urn_of_shadows"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Muy util para ayudar a aliados en problemas con un boost de vida y mana",
+				"urn_of_shadows":"Puede ser un objeto muy interesante para seguir ayudando al equipo a mantener los HP",
+				"heart":"Podras curar muchisimo a aliados simplemente con el tether",
+				"soul_ring":"Muy util para ganar mana tu y dar mana a los aliados!!",
+				"tranquil_boots":"Intentar unirte a alguien cuando vayas a usarlo!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_spirits",
+			"4":"wisp_tether",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_overcharge",
+			"9":"wisp_tether",
+			"10":"wisp_tether",
+			"11":"wisp_relocate",
+			"12":"wisp_overcharge",
+			"13":"wisp_overcharge",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"wisp_tether":"Usalo para escapar enganchandote a un aliado, para perseguir a otro enemigo, posicionate bien para stunear con el link a los enemigos y regenera vida y mana a los aliados gracias al tether. La clave para un buen Io es dominar esta habilidad.",
+				"wisp_spirits":"Usalo para harasear enemigos, hacer last hits, ayudarte en persecuciones, dar vision, etc.
+
+Recuerda usar el Soul Ring antes de activar la habilidad!",
+				"wisp_overcharge":"Para reducir dmg que sufres y ayudar a enemigos sobre todo con la velocidad de ataque incrementada.",
+				"wisp_relocate":"Para gankear en superioridad numerica a cualquier lugar del mapa con vision. Tambien lo puedes hacer para salvar aliados!!"
+		}
+	}
+}

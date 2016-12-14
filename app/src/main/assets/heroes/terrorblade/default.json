@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_terrorblade",
+	"Title":"Recommended items for Terrorblade",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"branches",
+			"branches",
+			"stout_shield",
+			"tango",
+			"flask"
+		],
+
+		"earlyGame":[
+			"boots",
+			"bracer",
+			"ring_of_aquila",
+			"ogre_axe"
+		],
+
+		"coreItems":[
+			"power_treads",
+			"ancient_janggo",
+			"sange_and_yasha",
+			"tpscroll"
+		],
+
+		"luxury":[
+			"radiance",
+			"manta",
+			"skadi",
+			"butterfly",
+			"greater_crit",
+			"black_king_bar",
+			"heart"
+		]
+	}
+}

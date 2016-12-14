@@ -1,0 +1,121 @@
+{
+	"Hero":"dazzle",
+	"Title":"Support Dazzle Updated 6.69",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"courier",
+				"clarity",
+				"clarity",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"tpscroll",
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"boots",
+				"dust"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"mekansm",
+				"phase_boots"
+			],
+			"luxury":
+			[
+				"pipe",
+				"force_staff",
+				"soul_ring",
+				"ancient_janggo"
+			],
+			"Luxury Items":
+			[
+				"cyclone",
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Branches are the best way to spend your money outside of regen and support items, the stats are amazing.",
+				"boots":"Boots are boots, as a support you need to make sure you can be mobile enough to help your allies without dying yourself, make them a priority.",
+				"magic_wand":"This item allows you to keep your early branches and the active keeps you alive during teamfights.  An extremely cost efficient item that is perfect as a support.",
+				"clarity":"Clarities allow you to keep casting Shadow Wave, giving you heath as well.  A very important item that will keep you in lane, supporting your carry, as long as possible.",
+				"dust":"Does the other team have a Bounty Hunter, Riki, or Brood?  But dust, it will give you a distinct advantage over your enemies, do not allow them to rack up the free kills.",
+				"ward_observer":"Wards are a necessary evil in a game like DotA 2, and it is the supports job to buy them.  They spot ganks, runes, and also give your carry a sense of safety in lane.  Try your best to place them where they can accomplish as much as possible.",
+				"ward_sentry":"If you know where the enemy has warded do not let them keep vision!  If you have the money you can spend 200 gold keeping them in the dark, or if you are against a Bounty Hunter or Broodmother it is your job to make sure that they cannot get away.",
+				"tango":"Dazzle has a small health pool, in most cases a salve will go to waste, so rely on Shadow Wave and a stack of tangoes.",
+				"courier":"It is the supports job to buy the courier as well, another necessary part of every DotA game.",
+				"tpscroll":"As a support part of your job is to make sure your allies stay alive, even of you are not in lane with them.  If an ally needs help you need to be able to get to them in time to save them.  TP scrolls are the best way to do this, keep one in your inventory always.",
+				"travel_boots":"As a very late-game item these allow you an extra item slot where you no longer need TP scrolls, once again, only a luxury item for a support.",
+				"phase_boots":"Phase beets are another good choice for Dazzle's boots, pick them up if you need the extra mobility to position yourself in teamfights.",
+				"mekansm":"This item should be the first priority after your core items, so long as you can get the money for it from kills, assists, pulls, or a lull in the game's action and a free lane to farm.  The active heal is necessary, and someone should try to get one, but only one on a team, every game.",
+				"flying_courier":"As a support it is your job to make sure the courier can fly.  It helps everyone on the team and makes you seem like a generous guy!  Remember to buy it at the 4 minute mark as it will be impossible to do so otherwise.",
+				"pipe":"If you can possibly farm this up after the mek it is a perfect item for a support hero to carry, but it is very expensive, if the enemy team has a bunch of nukers you will have to get one at some point.",
+				"urn_of_shadows":"An urn is a very cost efficient item that gives you mana regen and health, not to mention a fantastic active ability, very core on a low-health and mana starved support hero.",
+				"sheepstick":"The active on this item is possibly the strongest in the game, however, if you are stomping hard enough that you can buy this item, you have likely won the game.",
+				"cyclone":"A Euls can give you a massive increase to your mana pool, but only buy if you are already stomping the game.  Also, the active can save yourself if you see yo are getting focused.",
+				"force_staff":"The active ability on this item is too good to pass up on a support hero.  You can save yourself or an ally from certain doom.  A very solid item against melee carries like Lifestealer or Riki.",
+				"shivas_guard":"As with the Scythe, Shivas is a strong item, but as you are supporting only pick it up late in the game as a way to both survive against enemy carried and also have a nuke that helps control the fight.",
+				"soul_ring":"If you cannot get enough money for the mana boots consider buying a soul ring to keep your casting going.  Every time you heal you also heal yourself so it is a valid alternative to mana boots.",
+				"arcane_boots":"As a support you don't have access to the high levels and stats of a solo hero to keep you casting, therefore get mana boots.  You need the increased mana pool and your allies will llike the mana active.",
+				"ancient_janggo":"The stats this item affords along with the passive movespeed and attack speed increase makes a potent aura item for your team and a nice boost to your health pool.  The active also is helpful in a pinch.  Try your best to buy this if you are getting nuked hard."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shadow_wave",
+			"2":"dazzle_shallow_grave",
+			"3":"dazzle_shadow_wave",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_poison_touch",
+			"6":"dazzle_weave",
+			"7":"dazzle_poison_touch",
+			"8":"dazzle_poison_touch",
+			"9":"dazzle_shadow_wave",
+			"10":"dazzle_shadow_wave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_shallow_grave",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"Poison touch, being buffed in patch 6.69, deserves a few more points than i would have given it before.  It is still relatively weak at the lower levels but becomes extremely strong at level 4 with the additional stun.",
+				"dazzle_shallow_grave":"As a skill, Shallow Grave is strongest at the first level.  Even as a support I do not recommend taking more than one level early because you lose out on a lot of Dazzle's utility.",
+				"dazzle_shadow_wave":"Dazzle's main strangth as a support is his ability to keep the carry healthy and in lane.  Max this ability first to that end, and also allow for some limited offensive capabilities if the enemy is near the creepwave. Be careful about pushing the creepwave and making the lane unsafe.",
+				"dazzle_weave":"Weave is now a much better spell because of the starting 20 sec duration in 6.69, i suggest getting it at 6 and maxing it when you can because the additional armor will make it impossible for the enemy team to fight you head-on early.",
+				"attribute_bonus":"Stats are stats, only get them when you have no other choice, Dazzle as a hero likes to have his skills maxed out."
+		}
+	}
+}

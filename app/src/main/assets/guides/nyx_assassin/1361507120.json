@@ -1,0 +1,85 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"[DMX] Nyx Assassin (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"null_talisman",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"dagon",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ethereal_blade",
+				"sheepstick",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dagon":"Augmentez le niveau du dagon jusqu'au level 5"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_impale",
+			"2":"nyx_assassin_mana_burn",
+			"3":"nyx_assassin_spiked_carapace",
+			"4":"nyx_assassin_impale",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_spiked_carapace",
+			"9":"nyx_assassin_spiked_carapace",
+			"10":"nyx_assassin_spiked_carapace",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_mana_burn",
+			"13":"nyx_assassin_mana_burn",
+			"14":"nyx_assassin_mana_burn",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nyx_assassin_impale":"Votre disable principal, très utile en lane pour punir vos adversaires et lors des ganks pour les empecher de s'enfuir.",
+				"nyx_assassin_mana_burn":"Un sort très utile en phase de lane pour réduire le mana de vos opposants à néant. Un ennemi sans mana est un ennemi bien moins dangereux !",
+				"nyx_assassin_spiked_carapace":"Le sort de défense ultime, vous permet de renvoyer les dégâts et de stun la source des dommages !",
+				"nyx_assassin_vendetta":"Un ultimate qui fait de nyx un excellent ganker grâce à sa mobilité augmentée et à son backstab."
+		}
+	}
+}

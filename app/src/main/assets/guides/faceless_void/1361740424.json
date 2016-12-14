@@ -1,0 +1,112 @@
+{
+	"Hero":"faceless_void",
+	"Title":"Mar's Defensive Farming Void Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"boots",
+				"bfury",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"maelstrom",
+				"power_treads",
+				"yasha",
+				"manta",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"poor_mans_shield",
+				"mask_of_madness",
+				"black_king_bar",
+				"monkey_king_bar",
+				"butterfly"
+			],
+			"Luxury":
+			[
+				"greater_crit",
+				"mjollnir",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"This nifty item can be the difference between having the mana to use ult or not.  It's heal during teamfights will help you survive midgame teamfights.",
+				"tpscroll":"When you are getting ganked, leap into the trees and TP out.",
+				"travel_boots":"Last item, with this you can splitpush at late late game.",
+				"power_treads":"Keep this on Str for the most part, while switching to Agility during your Chrono.",
+				"hand_of_midas":"If you have free farm and aren't  taking too much harass, get a Midas.  Do not get a Midas and a Battlefury.  Ideally you want your Midas around 6 minutes, if it is 10 minutes do not bother.",
+				"poor_mans_shield":"If you are getting harassed a lot in lane this cheap item can go a long way.  It also helps you sustain when you transition to the jungle.",
+				"black_king_bar":"If the team has a way to disrupt you while in your ultimate or heavy CC that isn't Bane. You will most likely be building this midgame.",
+				"monkey_king_bar":"If someone bought a Butterfly, a KOTL is blinding you, or someone has a passive dodge chance, you can get a MKB.  Keep in mind that during your ult your attacks cannot be dodged.",
+				"butterfly":"If the team has multiple auto attackers, this is a great item.  The agility you get from it is no laughing matter.",
+				"greater_crit":"Top off your build with crit and damage, you will be 2-3 shotting supports at this point",
+				"bfury":"If you are getting harassed and need regen, get a Battlefury. Try to get the BF finished around 15-16 minutes. Do not get a Battlefury AND a Midas, it's either or.  Midas is the ideal choice of the 2.",
+				"manta":"You can decide when you want to finish your Manta.  If you need to get slightly tanky early, the Ultimate Orb will provide you with some HP while not hamstringing your damage.  Activating Manta can get you out of certain lockdown spells aswell.",
+				"mjollnir":"When you've gotten a good mix of AS and damage, you can top it off with another hyperstone to skyrocket your AS.  Don't finish this until you have atleast some damage.",
+				"maelstrom":"Void needs attack speed, with the Maelstorm, Treads, and a Midas or Battlefury you can farm the jungle.  Keep in mind you may need a Poor Man's Shield to avoid taking too much damage.",
+				"yasha":"Agility, Attack Speed, and Movespeed. A cheap and versitile item that provides a little bit of damage to go with Maelstorm's AS.",
+				"mask_of_madness":"Only get when you are stomping and can't be hit inside your ult.  A common mistake is to view this item as core."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_backtrack",
+			"4":"faceless_void_time_lock",
+			"5":"faceless_void_time_walk",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_backtrack",
+			"8":"faceless_void_backtrack",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_time_lock",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_lock",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"You don't get much range out of this at level 1, getting an early second rank will help you escape sticky situations.",
+				"faceless_void_backtrack":"If you are not getting harassed, you can take levels in your E instead of W for higher kill potential.
+
+You will get flamed by the other team for dodging Lina and Lion Ults, Sunstrikes, and everything else on the map. Ignore them.",
+				"faceless_void_time_lock":"If you are not getting harassed you can take this.  It offers a mini stun to help chase and a nice dps spike. The damage spike is what makes Void scale well with AS.  Make sure to yell BASHLORD in your teamchat if you get some great procs.  Again, people will flame you because of the RNG, but won't ",
+				"faceless_void_chronosphere":"Reveals stealth.  If you KNOW a bounty or Riki is there, you can drop this down reveal them.  Good positioing of your ult will make or break you as a Void player."
+		}
+	}
+}

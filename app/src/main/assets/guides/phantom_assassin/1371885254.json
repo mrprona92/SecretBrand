@@ -1,0 +1,93 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"ЭТА ДЕВКА НЕ КОНТРИТСЯ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_health"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"bfury",
+				"lifesteal",
+				"black_king_bar"
+			],
+			"Luxury items":
+			[
+				"satanic",
+				"monkey_king_bar",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"lifesteal":"Обязательно купите! Вампиризм вам пригодится на всех стадиях игры, так как дает вам гигантское преимущество  в PvP, а еще при фарме.",
+				"boots":"ЧТОБЫ УБЕГАТЬ",
+				"bottle":"never buy this on Mortred!",
+				"ring_of_health":"Покупайте первой шмоткой, чтобы повысить реген и облегчить харассинг. Когда ваша тима спросит, почему вы бегаете с пустым закупом, посылайте их подльше и скажите что вы прочитали гайд от зайца.",
+				"power_treads":"Лучше собрать их, чем Phase Boots, так как вам больше пригодится скорсть атаки, чем скорость",
+				"poor_mans_shield":"В совокупности с вашей пассивкой, вы будете практически не получать дамаг от крипов.",
+				"black_king_bar":"Вы станете неуязвимым для большинства заклинаний и сможете без труда разделывать беспомощных саппортов, не боясь получить смачный стан вам в вуаль.",
+				"monkey_king_bar":"Мини-станы помогут вам крошить ваших врагов еще быстрее, а также дополнительные 88 урона никогда не будут лишними для Мортред.
+",
+				"bfury":"Очень полезная вещь для Мортред. Позволяет успешно фармить, а так же разделывать противников в замесах",
+				"satanic":"У вас мало ХП, а противников еще много? Включите, дайте блинк в ближайшего врага и восстановите с крита себе много здоровья.",
+				"abyssal_blade":"Если вам некуда девать деньги, а  все предыдущие предметы уже есть, соберите Abbysal Blade и нарезайте врагов под станом, делая их полностью беззащитными.
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_blur",
+			"10":"attribute_bonus",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_phantom_strike",
+			"14":"phantom_assassin_blur",
+			"15":"phantom_assassin_phantom_strike",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Используйте, чтобы добивать крипов если вам сложно стоять на линии и чтобы замедлять скорость противников при нападении или  спасении.
+",
+				"phantom_assassin_phantom_strike":"Телепортируясь к врагу дает скорость атаки для удачной нареззки, а также позволяет телепортироваться к союзникам, чтобы эскейпить",
+				"phantom_assassin_blur":"Многие физические атаки по вам не пройдут, однако не стоит наглеть: у Мортред очень мало ХП.",
+				"phantom_assassin_coup_de_grace":"Крит-главное ваше преимущество. Пользуйтесь им! Но не сильно полагайтесь на него,так как шанс выпадения не слишком высок.
+"
+		}
+	}
+}

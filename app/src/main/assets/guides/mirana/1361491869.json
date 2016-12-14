@@ -1,0 +1,74 @@
+{
+	"Hero":"mirana",
+	"Title":"Play Mirana Middle Lane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"wraith_band",
+				"magic_wand",
+				"ring_of_aquila",
+				"phase_boots"
+			],
+			"Middle Game":
+			[
+				"desolator",
+				"manta"
+			],
+			"End Game":
+			[
+				"greater_crit",
+				"butterfly",
+				"monkey_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_starfall",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_leap",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_leap",
+			"10":"mirana_arrow",
+			"11":"mirana_leap",
+			"12":"mirana_invis",
+			"13":"mirana_arrow",
+			"14":"mirana_invis",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

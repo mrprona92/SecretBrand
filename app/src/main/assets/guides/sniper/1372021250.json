@@ -1,0 +1,102 @@
+{
+	"Hero":"sniper",
+	"Title":"One Shot, One Kill - Sniper Attack Speed Hyper Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"circlet",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"wraith_band",
+				"lifesteal"
+			],
+			"Mid-Game Core Items":
+			[
+				"power_treads",
+				"yasha",
+				"hyperstone"
+			],
+			"End-Game Beast Mode":
+			[
+				"mask_of_madness",
+				"butterfly",
+				"mjollnir",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"tpscroll",
+				"courier",
+				"flying_courier",
+				"ward_observer",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"These will give you a small agility boost and build toward one of your early game items, the Wraith Band.",
+				"circlet":"A piece of the Wraith band, the Circlet wil give you a small stat boost at the start of the game.",
+				"lifesteal":"Go for this guy as soon as you have your boots and have built your Wraith Band, or before if you're feeling frisky and things are going your way. A little lifesteal goes a long way with Sniper, and once you've got some attack speed to back it up, you'll have all the sustain you need.",
+				"boots":"One small step for Sniper, one giant leap towards your Power Treads.",
+				"flask":"A potion. You know, for healing.",
+				"dust":"Clinkz got you down? Try some Dust of Appearance!",
+				"ward_observer":"Real men (and women!) use Observer Wards.",
+				"tango":"Basic starting item. Use these in a pinch to get a little health back, but keep an eye on your position. Sniper shouldn't be in range to take damage anyhow.",
+				"courier":"Hopefully you aren't the one that has to pick the little guy up for the team, but sometimes it can't be helped.",
+				"tpscroll":"Don't be the guy that doesn't have a TP on him to get to where the action is, save a tower, get back to town, etc. Nobody likes that guy.",
+				"hyperstone":"How high is your attack speed? OVER 9000! This is a stepping stone to your Mjolnir. Scoop it up last in this set, and get ready for the good stuff.",
+				"power_treads":"These puppies cover your feet, look svelte, andd provide a nice boost to attack and movement speed. No additional explanation necessary. ",
+				"wraith_band":"This should be one of your first purchases once things get rolling, along with your boots. The extra Agility and Damage will start to add up fast.
+
+You can safely sell this once you've moved to the endgame.",
+				"flying_courier":"Like the other one, only faster and equipped with a speed boost. Good for getting to and from the Secret Shop withough getting smooshed. But you already knew that, you smart cookie, you.",
+				"greater_crit":"If things are REALLY going your way, why not have a little fun? With Daedelus your rapid-fire attacks will be critting for a ludicrous amount of damage, ensuring that anyone foolish enough to stay in range pays dearly for the mistake.",
+				"mjollnir":"Mjolnir is Nordse for \"HA HA HA RUN PUNY MORTALS YOU CAN'T ESCAPE\" or something like that. This will add the chance to proc chain lighting to your basic attacks, which at this point in the game will be raining down from so far behind the line that no one will ever even see you.",
+				"yasha":"It's a jump, but you want to get here fast. By the time you have your power treads, you should be farming waves without any trouble. Rush that Yasha and get ready to start melting people.",
+				"mask_of_madness":"This is it. You've now got ridiculous attack speed and passive lifesteal. You can outrange just about anyone and you're mini-stunning every couple of hits. Go forth, young sniper, and make us proud."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_take_aim",
+			"4":"sniper_headshot",
+			"5":"sniper_take_aim",
+			"6":"sniper_assassinate",
+			"7":"sniper_take_aim",
+			"8":"sniper_headshot",
+			"9":"sniper_shrapnel",
+			"10":"sniper_headshot",
+			"11":"sniper_assassinate",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"sniper_shrapnel",
+			"24":"sniper_shrapnel",
+			"25":"sniper_shrapnel"
+		}
+	}
+}

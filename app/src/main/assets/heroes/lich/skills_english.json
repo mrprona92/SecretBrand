@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Frost Blast",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Blasts the target enemy unit with damaging frost, dealing area damage and slowing movement and attack rates for 4 seconds.  The primary target takes the most damage.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">50/100/150/200</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">200/200/200/200</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">30%/30%/30%/30%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">20/20/20/20</font></b><br/>AREA DAMAGE: <b><font color=\"#ffffff\">75/100/125/150</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/150/170/190<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "Frost-mage Ethreain has not forgotten even the simplest of ice manipulation.",
+        "hurl": "Lich",
+        "name": "lich_frost_nova",
+        "youtube":"bMuBB9l24ks",
+        "id": 0
+    },
+    {
+        "dname": "Ice Armor",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Auto-Cast, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Creates a shield around the target friendly unit or building, which adds armor and slows attacking units. Lasts 40 seconds.",
+        "notes": "If autocast is activated, Lich will cast this spell on nearby allies who are attacked.",
+        "dmg": "",
+        "attrib": "ALLY ARMOR BONUS: <b><font color=\"#ffffff\">3/5/7/9</font></b><br/>ENEMY MOVE SLOW: <b><font color=\"#ffffff\">30%/30%/30%/30%</font></b><br/>ENEMY ATTACK SLOW: <b><font color=\"#ffffff\">20/20/20/20</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5",
+        "lore": "Originally crafted during his ambush for self-defense, the Lich is capable of enchanting others with a formidable defense of frost magic.",
+        "hurl": "Lich",
+        "name": "lich_frost_armor",
+        "youtube":"hfdMe2zPVhs",
+        "id": 1
+    },
+    {
+        "dname": "Sacrifice",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allies</font></b>",
+        "desc": "Sacrifices a friendly creep and converts its current hit points into mana for Lich. Grants XP to both enemies and allies.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "HEALTH CONVERSION: <b><font color=\"#ffffff\">25%/40%/55%/70%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 25/25/25/25<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 44/36/28/20",
+        "lore": "It was not unheard of Ethreain to make examples out of those who contested his rule during his human life.",
+        "hurl": "Lich",
+        "name": "lich_dark_ritual",
+        "youtube":"_2zg_QNo1HQ",
+        "id": 2
+    },
+    {
+        "dname": "Chain Frost",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Releases an orb of frost that bounces between nearby enemy units up to 10 times, slowing and damaging each time it hits.  The first target is mini-stunned.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The first target will be immediately interrupted.  This stun goes through spell immunity.<br/>Chain Frost cannot be disjointed.<br/>Chain Frost has a movement speed of 750.<br/>Chain Frost\u0027s first target ministun is not blocked by spell immunity.",
+        "dmg": "",
+        "attrib": "DAMAGE EACH BOUNCE: <b><font color=\"#ffffff\">280/370/460</font></b><br/>BOUNCES: <b><font color=\"#ffffff\">10/10/10</font></b><br/>BOUNCE RANGE: <b><font color=\"#ffffff\">575/575/575</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">30%/30%/30%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">20/20/20</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">4/4/4</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">370/460/550</font></b><br/><font color=\"#6fe871\">SCEPTER CAST RANGE:</font></b> <b><font color=\"#ffffff\">850/850/850</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/325/500<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/90/60",
+        "lore": "Almost universally considered the ultimate in frost magic, Ethreain\u0027s orb of frozen death strikes fear into those who dare stand against him.",
+        "hurl": "Lich",
+        "name": "lich_chain_frost",
+        "youtube":"VcWyGy_f5WU",
+        "id": 3
+    }
+]

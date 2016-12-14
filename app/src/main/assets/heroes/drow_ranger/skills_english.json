@@ -1,0 +1,57 @@
+[
+    {
+        "dname": "Frost Arrows",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Auto-Cast, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Adds a freezing effect to Drow\u0027s attacks, slowing enemy movement.  Lasts 1.5 seconds on Heroes, and 7 seconds on creeps.<br/>Frost Arrows is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+        "notes": "The slow duration is refreshed on successive casts.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "MOVEMENT SLOW: <b><font color=\"#ffffff\">15%/30%/45%/60%</font></b><br/>HERO DURATION: <b><font color=\"#ffffff\">1.5</font></b><br/>CREEP DURATION: <b><font color=\"#ffffff\">7</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/12/12/12<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "Ice-encased arrows pierce the silence, chilling their victims to the core.",
+        "hurl": "Drow_Ranger",
+        "name": "drow_ranger_frost_arrows",
+        "youtube":"u6dvUwbjI_k",
+        "id": 0
+    },
+    {
+        "dname": "Gust",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Releases a wave that silences and knocks back enemy units. Knockback distance is relative to how close they are to you.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">900</font></b><br/>WIDTH: <b><font color=\"#ffffff\">250</font></b><br/>SILENCE DURATION: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>KNOCKBACK DURATION: <b><font color=\"#ffffff\">0.6/0.7/0.8/0.9</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13",
+        "lore": "Traxex is rather fond of the tranquility of physical combat, calling on her Drow heritage to end the incantations of opposing magi.",
+        "hurl": "Drow_Ranger",
+        "name":"drow_ranger_wave_of_silence",
+        "id":1
+    },
+    {
+        "dname": "Precision Aura",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allies</font></b>",
+        "desc": "Adds bonus damage to the physical attack of allied, ranged Hero units on the map based on a percentage of Drow\u0027s agility.  Affects creeps for 30 seconds when cast.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RANGE DAMAGE BONUS: <b><font color=\"#ffffff\">18%/24%/30%/36%</font></b>",
+        "cmb": "<div class=\"cooldownMana\"><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120",
+        "lore": "Traxex\u0027 time spent alone in the forests of her Drow home has allowed her to teach other archers how to improve their bow skills.",
+        "hurl": "Drow_Ranger",
+        "name": "drow_ranger_trueshot",
+        "youtube":"wNzhcuzDmf0",
+        "id": 2
+    },
+    {
+        "dname": "Marksmanship",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Drow\u0027s experiences in battle improve her accuracy and effectiveness in combat, providing a passive bonus to Agility. Grants no bonus if there are enemy heroes within 400 range.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "BONUS AGILITY: <b><font color=\"#ffffff\">40/60/80</font></b>",
+        "cmb": "",
+        "lore": "The Drow Ranger is the epitome of archery prowess.",
+        "hurl": "Drow_Ranger",
+        "name": "drow_ranger_marksmanship",
+        "youtube":"wfgqVIVWpr8",
+        "id": 3
+    }
+]

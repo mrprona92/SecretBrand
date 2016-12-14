@@ -1,0 +1,91 @@
+{
+	"Hero":"silencer",
+	"Title":"Nortrom, Silencer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"mantle",
+				"mantle",
+				"courier",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"null_talisman",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"force_staff",
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"orchid",
+				"refresher",
+				"dagon",
+				"sheepstick",
+				"shivas_guard",
+				"rod_of_atos",
+				"travel_boots"
+			],
+			"Dont use":
+			[
+				"satanic",
+				"skadi",
+				"mjollnir",
+				"desolator",
+				"diffusal_blade",
+				"mask_of_madness"
+			]
+		},
+		"ItemTooltips":
+		{
+				"circlet":"Get this if someone else has got courier",
+				"courier":"Get this if no one else has",
+				"orchid":"Just because you need another silence",
+				"force_staff":"Your Escape tool"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_last_word",
+			"2":"silencer_curse_of_the_silent",
+			"3":"silencer_glaives_of_wisdom",
+			"4":"silencer_last_word",
+			"5":"silencer_curse_of_the_silent",
+			"6":"silencer_global_silence",
+			"7":"silencer_glaives_of_wisdom",
+			"8":"silencer_glaives_of_wisdom",
+			"9":"silencer_glaives_of_wisdom",
+			"10":"silencer_last_word",
+			"11":"silencer_global_silence",
+			"12":"silencer_curse_of_the_silent",
+			"13":"silencer_last_word",
+			"14":"silencer_curse_of_the_silent",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

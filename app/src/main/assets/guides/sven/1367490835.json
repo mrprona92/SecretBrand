@@ -1,0 +1,165 @@
+{
+	"Hero":"sven",
+	"Title":"6.82 - [CT's] Carry Sven for Ultrakills",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"clarity",
+				"branches"
+			],
+			"Early Game + Options":
+			[
+				"boots",
+				"hand_of_midas",
+				"ring_of_basilius",
+				"ancient_janggo",
+				"magic_wand",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"black_king_bar",
+				"greater_crit"
+			],
+			"Situational":
+			[
+				"mask_of_madness",
+				"heart",
+				"assault",
+				"basher",
+				"abyssal_blade",
+				"mjollnir",
+				"heavens_halberd",
+				"rapier",
+				"monkey_king_bar",
+				"bfury",
+				"satanic"
+			],
+			"Unusual Options":
+			[
+				"armlet",
+				"blink",
+				"crimson_guard",
+				"vanguard",
+				"invis_sword",
+				"blade_mail",
+				"sange_and_yasha",
+				"refresher",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Sven is actually a decent roaming ganker/initiator because of his AoE stun that can't be disjointed, and in those cases Blink is great on him.
+
+For Hard Carry Sven though, use the gold on something else and leave the initiating to your teammates.",
+				"gauntlets":"Extra dmg and HP that will build into your Drums, or Urn if you go for that instead.",
+				"branches":"Cheap stats, can be built into a Magic Wand if there are a lot of enemies casting things early.",
+				"boots":"Chase and escape tool.",
+				"magic_wand":"If a lot of action is happening around you early, worth the pickup.  Can save your life or secure a kill easily.",
+				"clarity":"Good when you're low on mana, and guarantees you have enough for a stun when somebody comes to gank your lane.",
+				"flask":"Burst heal to sustain your lane presence after taking heavy damage",
+				"tango":"Standard regen to sustain against harass",
+				"power_treads":"Power Treads are easily the best boots for Sven.  Attack Speed, Damage and HP are all the things Sven builds towards and these boots give a chunk of each.",
+				"hand_of_midas":"Only get this if you have absolute free farm and have only missed around 5 last hits in the first 5 minutes.",
+				"vladmir":"Highly situational. Great early game for lifesteal, armor, mana and hp regen that is great for pushes.  Decent late game for the damage bonus aura and lifesteal (again).
+
+Main reason you would get this is to stack with another orb (Desolator.)  Almost always not worth it though.",
+				"urn_of_shadows":"All teams should have an Urn. Drums is usually better for Sven, but if you end up roaming or teamfighting a lot this is a decent pickup.",
+				"refresher":"Kind of cruel in a hilarious way, but still not worth it at all.",
+				"assault":"Armor and attack speed, a great pickup on Sven for you and your team.  Makes you more tanky, increases your attack speed for more crits, and makes pushing towers much easier.",
+				"heart":"Makes you incredibly tanky and even harder to kill, but if a Satanic isn't enough then Heart won't save you either.",
+				"black_king_bar":"ALWAYS get a BKB on Sven, and get it early.  Dmg + HP + Magic Immunity = Happy Sven.  Happy Sven =  Massacred Enemies.
+
+Early game a BKB and Drums is enough to wreck face, and when you're finished farming heros you can buy those 3 Battle Furys or whatever.",
+				"vanguard":"This is for early game aggression and tanking, and a waste on a Hard Carry Sven.",
+				"blade_mail":"This is for the person getting focused down in every teamfight that can't do much damage themselves.",
+				"rapier":"If there is zero chance of you dying and you want to be a prick.  Game should already be in the bag at this point.",
+				"monkey_king_bar":"Enemy has natural evasion, Butterfly, Riki smoke, Troll Axes, etc?  Fuck them, go farm for 5 minutes, come back with a MKB, resume your rampage.
+
+Besides true strike, the damage, attack speed, and bonus dmg also work very well with Sven!",
+				"greater_crit":"This combined with your Great Cleave and your Ulti is what enables those signature Sven teamwipes that make you say &amp;quot;Sven is such bullshit&amp;quot; or &amp;quot;AHAHAHA.&amp;quot;
+
+Or both.",
+				"basher":"Great if the game is coming down to a carry vs. carry scenario, as the bash chance will give you a disable through BKB and the edge needed.  Can be built into Abyssal Blade",
+				"bfury":"The troll build for Sven. The cleave stacks with yours so you will do 100% AoE damage. Also gives decent damage and regen.  Stacks as many times as you have Battle Furys.
+
+Really fun, and also viable.",
+				"armlet":"Armlet is amazing for most strength carries because it is a very strong item in the early game.
+
+Sven is one of the few strength HARD carries though, and so his gold is better spent on late game items.
+
+BKB and his ulti give him all he needs early anyways.",
+				"invis_sword":"Fun for ganking Sven, not good for Hard Carry Sven.",
+				"sange_and_yasha":"Mediocre on almost every Sven build.",
+				"satanic":"An insane 25% lifesteal, a big chunk of HP, a decent chunk of damage, and an active that can restore you from limping to full health in 2 hits.",
+				"mjollnir":"Insane attack speed if you want to increase the chances of crits and bashes as well as leverage your cleave even further.  The orb makes farming even faster.
+
+Note this orb DOES stack with other orbs as follows - the other orb will occur on every hit the chain lightning  doesn't trigger on.",
+				"helm_of_the_dominator":"Your 2nd and safest lifesteal option.  Good damage and armor early that builds into a Satanic late game.",
+				"mask_of_madness":"1 of your 3 lifesteal options.  This is great early, usually right before BKB if small skirmishes are happening early or right after if a lot of teamfights are happening early.
+
+It requires good coordination with your team because if used poorly the extra damage taken will get you killed real quick.",
+				"ancient_janggo":"Gives you GREAT stats very early, while also giving you bonus attack speed and movement speed in an aura around you.
+
+The active enhances the aura effect even higher and is great for teamfights.",
+				"abyssal_blade":"Bash chance, great damage, decent HP, and an active stun that goes through BKB as does the bash.  The best anti-carry item a carry can buy.",
+				"heavens_halberd":"A somewhat defensive item - gives you good HP, some damage, and evasion for great survivability.  The active is great if the enemy carry doesn't have BKB.  In most cases a teammate should build it instead."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"sven_great_cleave",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_great_cleave",
+			"9":"sven_great_cleave",
+			"10":"sven_great_cleave",
+			"11":"sven_gods_strength",
+			"12":"sven_warcry",
+			"13":"sven_warcry",
+			"14":"sven_warcry",
+			"15":"attribute_bonus",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"One of the best stuns in the game.  Has an AoE so try to take advantage of it.  Also can't be disjointed.  When comboed with a Dark Seer Vacuum or at the end of a Magnus ulti, it can be devastating.",
+				"sven_great_cleave":"One of if not the best cleave in the game.  Makes you do insane amounts of AoE damage in teamfights.
+
+Good for killing ancient stacks too!",
+				"sven_warcry":"A decent chase as well as teamfight ability.  Just make sure you have enough mana for you ulti and/or stun too!",
+				"sven_gods_strength":"One of the best ultis in the game, because it lets you do insane amounts of damage and affects yourself, so it cannot be  countered in any simple way.  Makes you do insane amounts of damage and is best for teamfights or killing early ancient stacks.
+
+Gives you all the damage you need early game.",
+				"attribute_bonus":"All of Sven's skills are vital, so almost always get stats last!"
+		}
+	}
+}

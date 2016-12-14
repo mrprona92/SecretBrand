@@ -1,0 +1,19 @@
+{
+  "dotaId": "moon_shard",
+  "id": 247,
+  "img": "moon_shard_lg.png",
+  "dname": "Moon Shard",
+  "qual": "common",
+  "cost": 4300,
+  "desc": "Использование: поглощает Moon Shard и навсегда увеличивает скорость атаки на 60. Повторное использование невозможно.<br/><br/>Пассивная: Shade Sight - увеличивает радиус обзора ночью на 250.",
+  "notes": "Дополнительный ночной обзор работает и во время способности Darkness героя Night Stalker.",
+  "attrib": "+ 120 к скорости атаки<br/>ДОПОЛНИТЕЛЬНЫЙ ОБЗОР НОЧЬЮ: 250<br/>СКОРОСТЬ АТАКИ ПРИ ПОГЛОЩЕНИИ: 60",
+  "mc": false,
+  "cd": false,
+  "lore": "Said to be a tear from the lunar goddess Selemene.",
+  "components": [
+    "hyperstone",
+    "hyperstone"
+  ],
+  "created": true
+}

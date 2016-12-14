@@ -1,0 +1,130 @@
+{
+	"Hero":"lich",
+	"Title":"The Bread & Butter Guide to Lich",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"courier",
+				"ward_observer",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"bracer",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"tranquil_boots",
+				"force_staff",
+				"cyclone",
+				"sheepstick",
+				"ghost",
+				"gem",
+				"medallion_of_courage",
+				"blink",
+				"ultimate_scepter",
+				"vladmir",
+				"pipe",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Can be decent in cases where you are your team's best initiator. Allows you to jump in and get a good Chain Frost off and will make you much harder to kill. Only really consider this if you plan on building crowd control items like Scythe.",
+				"branches":"Always fills any empty slots in your inventory with branches if you have spare money left. The stats might seem small but every point counts in the early laning phase.",
+				"boots":"Boots are crucial to playing any hero, but they are doubly import on Lich for positioning yourself for good ultimates and will make you much more survivable. Consider building them into Treads, Phase or even Arcane if your team needs the extra mana.",
+				"gem":"Lich isn't a fantastic Gem carrier, but his great movespeed and tanky core build make him a decent selection for the job. A Gem will allow you to easily counter invisible heroes but will also, and more importantly, let you efficiently counter ward the entire map.",
+				"magic_wand":"Not always necessary but very useful against spell heavy lanes. A stacked Magic Wand can save your life in a gank. Can also save inventory space by combining your branches.",
+				"ghost":"Consider picking this up if a majority of the enemy team's damage is coming from auto-attacks. The stats are nice, and if used at the correct time it can save your life. Be careful though, as you will take more spell damage while ethereal.",
+				"clarity":"You normally shouldn't have mana problems, but if you have some extra starting gold a Clarity may help you get enough mana for that extra Frost Blast. Also a good choice if you are laning with a mana hungry carry like Skeleton King or Chaos Knight.",
+				"dust":"Preferably to sentries if you intend on ganking a hero with invisibility. It is very easy for them to slip out of Sentry range unless they are chain stunned, which you can't help with, and in these cases a Dust is much more likely to secure a kill.",
+				"bottle":"If you ever end up mid laning Lich, always pick up a bottle. Also consider getting one if your mid laner is having trouble controlling runes or a Magic Wand just doesn't fit your lane match up. Bottled runes will allow you to gank more effectively and keep your health up even without Tranquils.",
+				"ward_observer":"As a support you should be buying wards all game, ideally your team will help keep wards up but if not the responsibility falls to you. Lich needs few items to succeed, so instead of putting your gold toward luxury items help your team by keeping good vision up on the map.",
+				"ward_sentry":"Can be used to counter enemy wards, but are absolutely necessary when laning against invisible heroes like Bounty Hunter and Riki. If you didn't start with any make sure you get some as soon as you see who you are laning against.",
+				"courier":"If no one else has purchased a courier be the better undead frost mage and pick one up.",
+				"travel_boots":"If your inventory is full and you have a lot of gold to burn consider picking up Boots of Travel. If you haveTranquil Boots you can disassemble them and turn the other components into a Vlad's.",
+				"bracer":"Get a Bracer or two to bulk up, Lich does not have incredible strength gain and you'll start to really feel your fragility if the game drags on. If you keep dying in fights and don't have the gold for any of the bigger items consider getting a Bracer.",
+				"mekansm":"The best possible item Lich can get for his team and himself. A Mekansm will make you much tankier with its armor, regen and powerful heal allowing you to stay up longer in fights and keep your team alive. However, make sure no one else on your team is building one before you start your own.",
+				"vladmir":"You don't get this for yourself, but for your creeps and your allies. Vlad's give your team incredible pushing power as your creeps will be tankier and do more damage. Don't get this early though, and definitely don't have more than one on a team. The effect does not stack.",
+				"flying_courier":"The standard courier is fragile and slow, getting an early flying courier will greatly decrease the chance of it being sniped off and its travel time between lanes. Your mid laner will thank you.",
+				"pipe":"Normally it isn't a good idea to have a Mek and Pipe on the same hero, but if you're overflowing with gold and no one else has one a Pipe will make your team much harder to nuke down in big engagement.",
+				"urn_of_shadows":"If you are roaming a lot and assisting in kills consider picking up an Urn. It gives you a lot of good stats for a relatively cheap price, and getting a lot of early charges can really help your team. The 150 damage on enemies will help early ganks while the 400 HP heal will be useful all game.",
+				"sheepstick":"If you are getting a ridiculous amount of gold, this is the item you want to go for. It will give you great stats, but the real reason for buying this item is the Hex. Lich suffers from not having incredible crowd control compared to other supports, but getting a Scythe easily remedies this problem.",
+				"cyclone":"The poor man's Scythe. If you aren't anywhere near a Scythe but need some crowd control, consider a Eul's. While the mana regen is somewhat wasted on Lich, the added move speed is also welcome and you can send a target up in the air to maximize Chain Frost  damage.",
+				"force_staff":"A very good item to get if your team is in need of a way to escape or initiate. Remember you can use it on enemies as well.
+
+Always try to get one of these when against heroes that rely on slows like Drow Ranger, Viper and Venomancer. Your team will thank you.
+
+",
+				"ultimate_scepter":"If you are playing a standard support Lich, this item should be far, far down on your shopping list. Only consider getting a Scepter if you are one of the top damage dealers on your team or if your Chain Frost is the only form of initiation on your team.",
+				"ancient_janggo":"Getting a Drum will greatly increase your survivability and give your team a useful tool for chasing, pushing and escaping. Don't waste your charges every time it's off cooldown but don't be afraid to use them either. You can always refill your Drum charges by paying 750 gold for another recipe.",
+				"medallion_of_courage":"Medallion's armor debuff is good for ganking and teamfights, but even better for taking down Roshan quickly. Ideally someone else on your team would pick this up, but if no one else has this is a useful item to consider picking up.",
+				"smoke_of_deceit":"A few early ganks can quickly snowball your team to victory and Smoke helps you to kill enemy heroes by appearing out of unexpected places.
+
+Not always necessary, but if you are roaming consider picking one up if you have some extra gold.",
+				"tranquil_boots":"With the recent Tranquil nerf they are slightly less viable than they were before, the heal takes much longer and if they break you're going to be a very dead frost mage. Still consider them if you feel safe though as they can still offer great sustain."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_frost_nova",
+			"4":"lich_dark_ritual",
+			"5":"lich_frost_nova",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_dark_ritual",
+			"9":"lich_dark_ritual",
+			"10":"lich_frost_armor",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Don't underestimate the damage of your nuke early game. The cooldown is short and Sacrifice will allow you to spam it without having to worry too much about the cost.
+
+Late game don't discount the attack speed slow, use this on the enemy carry to reduce their damage output.",
+				"lich_frost_armor":"A powerful armor buff that will let you make your entire team tankier. Make sure to pop this on your ally if they are getting focused by auto-attacks. Late game try to get it up on your entire team before a fight breaks out. You can skill it early if up against a heavy physical damage lane.",
+				"lich_dark_ritual":"This is the skill that defines Lich. Sacrifice will let you sustain, deny your enemy gold and XP and control your lane. Eat the ranged creep if you want the wave to push towards your tower, or a melee if you don't. The mana gained is based off unit HP so if you need mana go for a melee creep.",
+				"lich_chain_frost":"Don't be afraid to throw Chain Frost out if you can get a kill. It's impossible to control your ultimate once you let it go, so only the first hit is reliable. Ideally you want to use your ultimate against two enemy heroes alone for maximum damage. Use this every team fight if it is up."
+		}
+	}
+}

@@ -1,0 +1,109 @@
+{
+	"Hero":"weaver",
+	"Title":"Linken's Sphere Weaver v6.79",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"ring_of_aquila",
+				"power_treads",
+				"pers"
+			],
+			"Low Farm":
+			[
+				"medallion_of_courage",
+				"ancient_janggo"
+			],
+			"Core":
+			[
+				"sphere",
+				"monkey_king_bar",
+				"butterfly"
+			],
+			"Situational":
+			[
+				"desolator",
+				"greater_crit",
+				"manta",
+				"heart"
+			],
+			"Dream Build":
+			[
+				"sphere",
+				"monkey_king_bar",
+				"butterfly",
+				"manta",
+				"greater_crit",
+				"travel_boots",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Entirely optional, if farm is going well just ignore it and go for a straight Perseverance instead.",
+				"tango":"With the new 4 stacks of Tangoes, you don`t even need a salve anymore",
+				"pers":"Don't forget that the Ring of Health can be picked up from the side shop whereas the Void Stone requires the secret shop.",
+				"sphere":"The core of this build, Linkens often gives you just enough time to Time Lapse out of a tricky situation.",
+				"monkey_king_bar":"A core item on Weaver whose Geminate attack benefits entirely from the additional damage.",
+				"greater_crit":"The increased attacks from Geminate Attack mean even more chance for crits. An interesting alternative if you`re the prime Aegis carrier of the team is a Rapier",
+				"desolator":"Whilst the second Geminate Attack doesn`t gain the orb effect, it still benefits hugely from the armor reduction which is very easily stacked on Weaver.",
+				"medallion_of_courage":"More of a situational pickup for when farm isn`t going so well, combined with your swarm this ensures huge armor reduction.",
+				"ring_of_aquila":"You`ll most likely want to build the Basilius first due to the mana regen and lane pushing ability. Make sure to turn it off when you`re trying to static farm!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"weaver_the_swarm",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_the_swarm",
+			"9":"weaver_geminate_attack",
+			"10":"weaver_geminate_attack",
+			"11":"weaver_time_lapse",
+			"12":"weaver_the_swarm",
+			"13":"weaver_the_swarm",
+			"14":"weaver_geminate_attack",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"Hugely underrated, at max level they deal 600 damage if not removed and the armor reduction is critical. Try casting after a teamfight has been initiated so that they don`t draw attention.",
+				"weaver_shukuchi":"Your bread and butter escape + damage. Try not to spam it too much at low levels since it can very quickly drain your mana pool.",
+				"weaver_geminate_attack":"Your main dps comes from this skill, try and balance levelling it with The Swarm to gain maximum mid game power.",
+				"weaver_time_lapse":"An absolute life-saver, use it after you`ve been bursted down in teamfights. If you die in the middle of a fight without using it you can also buyback and instantly use it to get back into the fray."
+		}
+	}
+}

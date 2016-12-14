@@ -1,0 +1,89 @@
+{
+	"Hero":"lion",
+	"Title":"Lion Hard Carry  by Dr.Dally /RusDota/",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"ring_of_regen",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"dagon",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"bloodstone",
+				"heart",
+				"sheepstick",
+				"blink",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"kuda je bez neyo",
+				"travel_boots":"zachem nagibat na odnom layne? mojno srazu na dvuh!",
+				"null_talisman":"eta shtuchka pomojet vam unijat vragov na layne...",
+				"dagon":"vi doljni sdelat vibor - apat ultu za 4k (ogonimon) ili za te je dengi apat dagon. vse v vashih rukah...",
+				"heart":"vas ubivayut? kupite tarasku...",
+				"bloodstone":"esli vi nanogibalis i vam nekuda tratit dengi, vosmite bloodstone, on pomojet v krupnih zamesah",
+				"tranquil_boots":"C manoi vse v poryadke, a eta vesch pomojet stoyat na layne vsegda s full HP."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_mana_drain",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_mana_drain",
+			"8":"lion_impale",
+			"9":"lion_mana_drain",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_voodoo",
+			"14":"lion_voodoo",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"yetim skillom nujno spamit VSEGDA!
+On pomojet kak 1 na 1, tak i v krupnih zamesah",
+				"lion_voodoo":"veshaite eto salo na magov ili na ubegayucshih jertv...",
+				"lion_mana_drain":"SOSITE po vozmojnosti u geroev i kripov-magov...",
+				"lion_finger_of_death":"razrivayte, unijayte, nagibayte..."
+		}
+	}
+}

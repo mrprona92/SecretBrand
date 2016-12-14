@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 30 к урону<br/>ШАНС КРИТА: 20%<br/>КРИТИЧЕСКИЙ УРОН: 175%",
+  "cd": false,
+  "components": [
+    "broadsword",
+    "blades_of_attack"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Пассивная: Critical Strike — дает шанс нанести критический урон при атаке.",
+  "dname": "Crystalys",
+  "dotaId": "lesser_crit",
+  "mc": false,
+  "img": "lesser_crit_lg.png",
+  "lore": "Клинок скованный из редких кристаллов. Он находит слабые места в броне врага.",
+  "id": 149,
+  "created": true,
+  "cost": 2120
+}

@@ -1,0 +1,95 @@
+{
+	"Hero":"razor",
+	"Title":"Razor - The Lightning Revenant - Ultimate Build = D",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"slippers",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"yasha"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"manta",
+				"butterfly",
+				"satanic"
+			],
+			"Optional Items":
+			[
+				"blade_mail",
+				"ultimate_scepter",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Ready for Poor Mans Shield.",
+				"branches":"Every little helps.",
+				"tango":"Yay, health = )",
+				"phase_boots":"Essential for quick speed around the map = ) Dont forget to use them for increased speed.",
+				"poor_mans_shield":"First item to build, helps to reduce early attack damage from foes = )",
+				"ultimate_scepter":"Upgrades Eye of the Storm for better tower destruction  and creep decimation.",
+				"vanguard":"Stacks with Poor Mans Shield if built afterwards.
+Big boost to Razor`s defence.",
+				"butterfly":"Increased evasion, damage and speed.
+What more do you need = D",
+				"greater_crit":"More power and damage. Me Likey = )",
+				"manta":"Option instead of S&Y. Depending on the game",
+				"sange_and_yasha":"Great upgrade from yasha for futher power.",
+				"satanic":"Great for close games where quick damage is essential.",
+				"yasha":"Perfectly coincides with Razor`s play style."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_plasma_field",
+			"2":"razor_static_link",
+			"3":"razor_plasma_field",
+			"4":"razor_unstable_current",
+			"5":"razor_plasma_field",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_unstable_current",
+			"9":"razor_static_link",
+			"10":"razor_unstable_current",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_static_link",
+			"13":"razor_unstable_current",
+			"14":"razor_static_link",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

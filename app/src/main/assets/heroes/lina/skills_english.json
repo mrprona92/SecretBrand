@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Dragon Slave",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Lina channels the breath of a dragon, sending out a wave of fire that scorches every enemy in its path.",
+        "notes": "Dragon Slave can hit units up to 1225 units away.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">110/180/250/320</font></b>",
+        "attrib": "",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/115/130/145<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8.50",
+        "lore": "In the scorched barren of Misrule, Lina learned to manipulate the fiery breath of the Desert Wyrm as a form of entertainment.",
+        "hurl": "Lina",
+        "name": "lina_dragon_slave",
+        "youtube":"2BShtaRLhhQ",
+        "id": 0
+    },
+    {
+        "dname": "Light Strike Array",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Summons a column of flames that damages and stuns enemies.",
+        "notes": "Light Strike Array will destroy trees in its area of effect.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">120/160/200/240</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">225</font></b><br/>CAST DELAY: <b><font color=\"#ffffff\">0.5</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">1.6/1.9/2.2/2.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/110/120/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 7",
+        "lore": "Lina\u0027s essence allows her to focus the sun\u0027s energies, causing air to combust at will.",
+        "hurl": "Lina",
+        "name": "lina_light_strike_array",
+        "youtube":"RBxhLSGnDig",
+        "id": 1
+    },
+    {
+        "dname": "Fiery Soul",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Grants bonus attack and movement speed each time Lina casts a spell. Stacks with itself. Lasts 10 seconds.",
+        "notes": "Duration refreshes each time a new spell is cast.<br/>Using items does not trigger Fiery Soul.",
+        "dmg": "",
+        "attrib": "ATTACK SPEED BONUS: <b><font color=\"#ffffff\">40/55/70/85</font></b><br/>MOVE SPEED BONUS: <b><font color=\"#ffffff\">5%/6%/7%/8%</font></b><br/>MAX STACKS: <b><font color=\"#ffffff\">3</font></b><br/>DURATION: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "",
+        "lore": "Dancing flames embody Lina\u0027s playful nature, bringing out her true blazing self.",
+        "hurl": "Lina",
+        "name": "lina_fiery_soul",
+        "youtube":"6R6-qq2PkIo",
+        "id": 2
+    },
+    {
+        "dname": "Laguna Blade",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Fires off a bolt of lightning at a single enemy unit, dealing massive damage.<br/>Upgradable with Aghanim\u0027s Scepter.",
+        "notes": "Laguna Blade has a 0.25 delay before the damage is applied after the spell is cast, allowing certain abilities to avoid the damage.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">450/675/950</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 280/420/680<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/60/50",
+        "lore": "The air around Lina becomes so intensely torrid that it scorches a foe that comes too close with white-hot lightning.",
+        "hurl": "Lina",
+        "name": "lina_laguna_blade",
+        "youtube":"HbhoCPFse_c",
+        "id": 3
+    }
+]

@@ -1,0 +1,88 @@
+{
+	"Hero":"slark",
+	"Title":"Come here fishy-fishy",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"slippers",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"orb_of_venom",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"skadi",
+				"mjollnir"
+			],
+			"luxury":
+			[
+				"abyssal_blade",
+				"heart",
+				"assault",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"goodgame branches - there is no better item in dota 2",
+				"tango":"maybe let the courier bring you some extra-healing, just to ensure you reach level 6 without dying.",
+				"poor_mans_shield":"as soon as you earned your first 250g go to the sideshop and combine your slippers of agility to the PMS by buying a stout shield",
+				"ring_of_aquila":"buying this will compensate your manaproblems and your squishiness a little."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_dark_pact",
+			"3":"slark_essence_shift",
+			"4":"slark_pounce",
+			"5":"slark_dark_pact",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_dark_pact",
+			"9":"slark_pounce",
+			"10":"slark_dark_pact",
+			"11":"slark_shadow_dance",
+			"12":"slark_essence_shift",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slark_dark_pact":"if there is a stun or a DUST incomming use it as fast as possible. it will get you rid of all your debuffs. noone likes debuffs.",
+				"slark_pounce":"get this at lvl1 so you can jump on enemy heroes if there starts a go on your lane or to jump away if enemys want you dead.",
+				"slark_essence_shift":"you will only need this once in early levels. leveling it up only affects the duration you got the bonus-agility.
+as fights are quite short in early levels you wont need this higher."
+		}
+	}
+}

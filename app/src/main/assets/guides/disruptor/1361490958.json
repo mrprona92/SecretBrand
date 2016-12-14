@@ -1,0 +1,67 @@
+{
+	"Hero":"disruptor",
+	"Title":"Pay2Lose - Disruptor for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Mid Game":
+			[
+				"arcane_boots",
+				"bracer",
+				"mekansm"
+			],
+			"Late Game":
+			[
+				"force_staff",
+				"veil_of_discord",
+				"bloodstone",
+				"sphere"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_thunder_strike",
+			"2":"disruptor_kinetic_field",
+			"3":"disruptor_thunder_strike",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_thunder_strike",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_thunder_strike",
+			"8":"disruptor_glimpse",
+			"9":"disruptor_glimpse",
+			"10":"disruptor_glimpse",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_kinetic_field",
+			"13":"disruptor_kinetic_field",
+			"14":"disruptor_kinetic_field",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Purification",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Мгновенно исцеляет дружеского юнита и наносит урон ближайшим вражеским юнитам.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ЛЕЧЕНИЕ/УРОН: <b><font color=\"#ffffff\">90/180/270/360</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">260</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/120/140/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Жрецы Всезнающего сведущи в искусстве исцеления братьев по оружию.",
+        "hurl": "Omniknight",
+        "name": "omniknight_purification",
+        "youtube":"m-oBmTTH_D8",
+        "id": 0
+    },
+    {
+        "dname": "Repel",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает божественный щит вокруг цели, который дает невосприимчивость к заклинаниям и 100% сопротивление магическому урону.",
+        "notes": "Действует так же, как и другие источники невосприимчивости к заклинаниям, но может быть снят при помощи очищающих способностей.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6/8/10/12</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14",
+        "lore": "Устойчивость Ревнителя к магии была выявлена, когда он оказался у ямы жертвоприношений.",
+        "hurl": "Omniknight",
+        "name": "omniknight_repel",
+        "youtube":"4B0U8hgXhRY",
+        "id": 1
+    },
+    {
+        "dname": "Degen Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">врагов</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Сильно снижает скорости передвижения и атаки врагов, находящихся слишком близко, в том числе и невосприимчивых к заклинаниям.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/18%/26%/34%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">10/18/26/34</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">350</font></b>",
+        "cmb": "",
+        "lore": "Одного священного вида Громобоя достаточно для ослабления всех неверующих.",
+        "hurl": "Omniknight",
+        "name": "omniknight_degen_aura",
+        "youtube":"ZQR5hhwtS0o",
+        "id": 2
+    },
+    {
+        "dname": "Guardian Angel",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Omniknight призывает ангела-хранителя, который делает всех ближайших союзных юнитов невосприимчивыми к физическому урону.<br/>Улучшается с Aghanim's Scepter",
+        "notes": "Воздействует на союзников, невосприимчивых к заклинаниям.<br/>Может быть рассеяно.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6/7/8</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">600/600/600</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">8/9/10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/175/250<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 150",
+        "lore": "Всевышний накладывает заклинание защиты на всех, кого ревнитель называет друзьями.",
+        "hurl": "Omniknight",
+        "name": "omniknight_guardian_angel",
+        "youtube":"LAgsYrdh5zc",
+        "id": 3
+    }
+]

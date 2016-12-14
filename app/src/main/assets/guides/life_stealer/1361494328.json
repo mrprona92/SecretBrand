@@ -1,0 +1,107 @@
+{
+	"Hero":"life_stealer",
+	"Title":"6.82 - Standard Lifestealer (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"basher"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"mjollnir",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"abyssal_blade",
+				"heart",
+				"monkey_king_bar"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Quelling blade in the jungle is an effective tool to take down camps faster than usual.",
+				"stout_shield":"The stout shield allows you to safely kill creeps while mitigating the amount of damage you take. This item is essential towards jungling effectively.",
+				"tango":"These Tangos are needed for the initial levels as your Feast ability may not be sufficient to take on the medium-sized camps. ",
+				"phase_boots":"More damage, better chase. In the long run, Phase Boots outweighs the interest of Treads.",
+				"hyperstone":"Hyperstone alone offers a lot of attack speed for a decent cost. This item will be later used for Mjollnir or Assault Cuirass depending if your team is at an advantage of not.",
+				"power_treads":"Although phase boots is great for chasing, Strength Treads (red) offer more attack speed and HP (str).",
+				"hand_of_midas":"To accelerate your GPM (gold per minute), Midas is an effective item towards keeping up in levels with the rest of the team as well as earn a large amount of gold at a rapid pace.
+
+Generally, you use Midas to take out the harder jungle creeps for the experience bonus (2.5)",
+				"assault":"If at an disadvantage or taking more damage than you can handle, the increased armor from Cuirass will help you greatly. Generally, this is the extension item because of the desired armor and the aura it offers for the team.",
+				"basher":"Basher with the increased attack speed through Armlet and Hyperstone means a lot of stun with more damage. Lifestealer heavily enjoys this because it keeps your opponent still and lets you steal more life from them.",
+				"armlet":"Armlet is a core item as its downside (losing incremental health) is mitigated by your Feast ability. The bonuses work very well towards Lifestealer's goals (more damage and more attack speed).",
+				"sange_and_yasha":"Since The International 3 and before, S&amp;amp;Y has become grossly popular on Lifestealer: offering an easy item to build up into, extra movement speed and attack speed as well as the maim ability. This item is considered for early pushes and midgame victories.",
+				"mjollnir":"If at a huge advantage and are the dominant carry in the game, Mjonllir works great with the additional active ability and chain-lightning passive.",
+				"orb_of_venom":"Great for keeping foes down as you gank them, makes chasing especially easier."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_feast",
+			"2":"life_stealer_open_wounds",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_rage",
+			"5":"life_stealer_open_wounds",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_open_wounds",
+			"8":"life_stealer_open_wounds",
+			"9":"life_stealer_rage",
+			"10":"life_stealer_rage",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_rage",
+			"13":"life_stealer_feast",
+			"14":"life_stealer_feast",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"life_stealer_rage":"Rage works similarly as BKB, meaning no one can target you when you are in Rage form. Take advantage of this moment to really tear down opponents as it does increase your attack speed greatly!",
+				"life_stealer_feast":"Your main form of survivability and jungling capability. We max this out later as we really want the extra range for Open Wounds!",
+				"life_stealer_open_wounds":"This is your slow, the more we level it; the more range it gets. During the early levels; it might be hard to gank with it, but generally it should be sufficient if properly coordinated.",
+				"life_stealer_infest":"Feel free to use this ability to further farming (grants gold towards whatever unit you kill) or to regenerate your life if used on an enemy unit during a fight.",
+				"life_stealer_consume":"When in this position, you cannot lose health from activating Armlet BEFORE-HAND."
+		}
+	}
+}

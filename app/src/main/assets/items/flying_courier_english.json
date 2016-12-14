@@ -1,0 +1,15 @@
+{
+  "dotaId": "flying_courier",
+  "attrib": "",
+  "cd": false,
+  "qual": "consumable",
+  "notes": "",
+  "desc": "Fast flying creature that carries items to and from your base.  Requires Animal Courier.",
+  "dname": "Flying Courier",
+  "mc": false,
+  "img": "flying_courier_lg.png",
+  "lore": "",
+  "id": 84,
+  "created": false,
+  "cost": 220
+}

@@ -1,0 +1,117 @@
+{
+	"Hero":"enigma",
+	"Title":"High Skill Bracket - Jungler/Support/Pusher",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"soul_ring",
+				"ward_observer",
+				"headdress",
+				"boots"
+			],
+			"coreItems":
+			[
+				"ward_observer",
+				"mekansm",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"blink",
+				"black_king_bar",
+				"ring_of_basilius",
+				"arcane_boots",
+				"ward_sentry"
+			],
+			"Luxury":
+			[
+				"sheepstick",
+				"necronomicon",
+				"travel_boots",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Do I even need to say anything? Blink is great because that 1250 range is all you need to get in position to Black Hole.  Works especially well for counter initiation, but don't be afraid to start a fight if your team is in position to follow up.  If you don't need BKB, Blink is preferable.",
+				"branches":"Cheap stats, probably the most efficient item in the game. Builds into headdress and buckler later on.",
+				"boots":"You buy this late because you don't really need the movespeed in the jungle.  Enigma's movespeed is very average (300).  Once you start pushing towers and ganking you will need these simply because everyone else has them.",
+				"clarity":"More or less what is going to keep you going through the early phases of jungling.  Do not be afraid to run back the fountain if you have run out of these (although with Enigma that shouldn't be necessary).",
+				"ward_observer":"Prioritize Observer wards over every other item.  Buy these at the beginning of the game and either give them to a hard lane hero (to block the enemy's pull camp), or use them to watch runes or any key area that you feel you need vision of.  They NEED to be bought every 6 minutes.",
+				"ward_sentry":"If you manage to spot where an enemy is placing their wards get these to deny map control to your opponents.
+
+For invisible heroes you will need to always have at least 2 sentry wards, but this can be replaced with dust of appearance or in rare cases, a gem.
+",
+				"courier":"Enigma doesnt really need to buy a full Ring of Basilius right off the bat.  Buying the courier can take alot of pressure off your teammates who are laning.",
+				"tpscroll":"Your job as support is to spend as little time looking at your own hero as possible.  Focus on the mini-map and watch to see if you're teammates are being ganked.  If you have a couple levels of Malefice you can often stop or kill a tower diver and sometimes a whole team with Black Hole.",
+				"travel_boots":"Because you will need the extra space late-late game and won't have room for teleport scrolls.",
+				"mekansm":"It will take other supports sometimes 25 minutes to farm a Mek, as Enigma it will take 8-10 minutes.  250 AOE Heal is a BIG deal early game.  It helps you with pushing and has a great aura on it.  Early game having mek with a 45 second cooldown is much more useful than having Blink-Black Hole.",
+				"flying_courier":"For the love of Zeus, please do not have a walking courier past 2 minutes.  This is your first purchase because you and your mid hero are both gonna be using the courier a lot and probably your carry too.",
+				"ring_of_basilius":"Basilius is a good item and you should definitely have one if no one has it on your team, preferably someone else buys it though.  I don't feel like the Eidolons really benefit from the +2 armor early and the mana regen isn't enough to spam Eidolons.",
+				"pipe":"If your team is having trouble with AOE magic spells and Mek isn't enough, you can get Pipe.  Its usually not good to have Mek and Pipe on the same hero, but sometimes you have to.",
+				"headdress":"Arguably Buckler is a better choice, but I like Headress because of excellent regen aura it gives.  It helps you sustain in the jungle as well as push lanes.  Synergizes with Soul RIng.",
+				"sheepstick":"If you feel like the game is going to go late, or they have a really important hero that you need to shut down, then sheepstick is going to be your best friend.",
+				"necronomicon":"If you already have blink and BKB is not a good choice, then a Level 3 necrobook can be a really good choice as it will help you push and end the game early.",
+				"black_king_bar":"If you are finding you team is playing more defensively or the enemy has alot of disables, prioritize a BKB over Blink Dagger.  Eventually you will probably want both anyways but sometimes you can skip BKB entirely if their team has little to interrupt your channeling ultimate.",
+				"soul_ring":"This is what is going to keep giving you mana throughout the early and mid game.  Definitely buy the Sage's mask first.  The health regen is good enough on Soul Ring that you can use it everytime its up to spawn Eidolons.",
+				"arcane_boots":"Somewhere between levels 11 and 16, Enigma start to have some mana troubles, not because of lack of regen but because of having a small mana pool compared to expensive spells.  In that case sometimes I will get Arcane boots, usually after Mek, especially if the team is hurting for mana."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_demonic_conversion",
+			"8":"enigma_malefice",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"enigma_midnight_pulse",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"attribute_bonus",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_malefice":"If you feel as though you can gank a lot, it may be better to max this first after 2 levels of Eidolons.  Good for stopping enemy heroes from using channeling spells and TP scrolls as well as chasing.  At level 1 this skill is almost useless so only use it if you can get a kill.",
+				"enigma_demonic_conversion":"Eidolons are a great skill for farming the jungle and pushing towers.  When spawning Eidolons on neural creep camps, have Enigma attack the camp and then move back, the creeps will follow you.  Just before they turn around, turn a creep into Eidolons and you will have a much easier time microing.",
+				"enigma_midnight_pulse":"Midnight Pulse does ALOT of damage.  At level 4 it does potential 48% of heroes max hp in an AOE.  WIth one of these under a black hole it is VERY easy to team wipe your enemies.  As a secondary use, you can use this to destroy trees.",
+				"enigma_black_hole":"Enigma's infamous ultimate.  Do not be afraid to use this early game to get a kill on 1 hero.  Just make sure you know which of your enemies will be able to interrupt you and try to catch them in it.  It does alot of extra damage per level, but if you are lacking a mana pool do not level it past 1.",
+				"attribute_bonus":"<(*.*<)"
+		}
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"Hero":"nevermore",
+	"Title":"Guide.mid. (RU)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"magic_wand",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"invis_sword",
+				"desolator",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"butterfly",
+				"assault",
+				"black_king_bar",
+				"manta",
+				"skadi",
+				"blink",
+				"rapier",
+				"satanic",
+				"travel_boots",
+				"monkey_king_bar",
+				"mask_of_madness",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Если против вас BH то он заменит лотар, Залетает и ульт...",
+				"slippers":"Известно что Sf ловкачь, то нужно брать ему на ловкость.",
+				"branches":"Даёт +1 к атрибуту, тоесть дополнительную ловкость, силу.",
+				"magic_wand":"Поможет в трудной ситуации",
+				"flask":"Восстановление HP. ",
+				"bottle":"Ботл ему нужен до 5-20 минуты и всё.",
+				"tango":"Восстановление HP. ",
+				"travel_boots":"Мобильность, скорость передвижения",
+				"power_treads":"Лично я собираю ему PT. Доп.скорость и атрибуты. (если на миду у вас Пудж лучше ставьте на силу)",
+				"assault":"Снижение брони у соперника, + скорость атаки.",
+				"black_king_bar":"Если у врага много стана, вперёд...",
+				"rapier":"Огромный дамаг...Если вы опытный, то не потеряете. ",
+				"monkey_king_bar":"Доп. Дамаг и микро-стан.",
+				"butterfly":"Уклонение, скорость. Отлично ",
+				"greater_crit":"Дамаг с этим артефактом будет велик. ",
+				"manta":"3 лучше 1!",
+				"invis_sword":"Для SF хороший артефакт. Вот прожали инвиз входите в толпу и ульт.",
+				"satanic":"Вампиризм и отжор. ",
+				"skadi":"Замедление, +20 в атрибутом, но очень дорогой)",
+				"desolator":"Снижение брони и дамаг",
+				"mask_of_madness":"Даёт доп.Скорость атаки, также \"отжор\" хороший артефакт.",
+				"ring_of_aquila":"Хороший артефакт всего по немногу."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_necromastery",
+			"4":"nevermore_shadowraze1",
+			"5":"nevermore_necromastery",
+			"6":"nevermore_shadowraze1",
+			"7":"nevermore_necromastery",
+			"8":"nevermore_shadowraze1",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nevermore_shadowraze1":"Добить героя, добить крипа. Застилить)",
+				"nevermore_necromastery":"Чем больше крипов, тем больше Дамаг! Дамаг очень важен...Фармите и денайте",
+				"nevermore_dark_lord":"Снижение брони у врага, сочетается с Desolator и Cuirass",
+				"nevermore_requiem":"Ультить нужно когда много душ, чем много душ тем больше дамаг  и снижение урона."
+		}
+	}
+}

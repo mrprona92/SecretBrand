@@ -1,0 +1,57 @@
+[
+    {
+        "dname": "Frost Arrows",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Добавляет замораживающий эффект к атакам Drow Ranger, замедляя передвижение врага. Длится 1.5 секунды на героях и 7 секунд на крипах.<br/>Frost Arrows — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+        "notes": "С каждым попаданием отсчет до окончания замедления обновляется.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">15%/30%/45%/60%</font></b><br/>ДЛИТЕЛЬНОСТЬ НА ГЕРОЯХ: <b><font color=\"#ffffff\">1.5</font></b><br/>ДЛИТЕЛЬНОСТЬ НА КРИПАХ: <b><font color=\"#ffffff\">7</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/12/12/12<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Покрытые льдом стрелы беззвучно пронзают воздух, насквозь промораживая врагов.",
+        "hurl": "Drow_Ranger",
+        "name": "drow_ranger_frost_arrows",
+        "youtube":"u6dvUwbjI_k",
+        "id": 0
+    },
+    {
+        "dname": "Gust",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выпускает волну, которая отбрасывает и запрещает колдовать вражеским юнитам. Дальность отбрасывания определяется близостью по отношению к вам.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">900</font></b><br/>ШИРИНА: <b><font color=\"#ffffff\">250</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ПРОДОЛЖИТЕЛЬНОСТЬ ТОЛЧКА: <b><font color=\"#ffffff\">0.6/0.7/0.8/0.9</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13",
+        "lore": "Траксес предпочитает физический бой магическому и взывает к корням своей расы, чтобы положить конец вражеской магии.",
+        "hurl": "Drow_Ranger",
+        "name":"drow_ranger_wave_of_silence",
+        "id":1
+    },
+    {
+        "dname": "Precision Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>Действует на <b><font color=\"#ffffff\">союзников</font></b>",
+        "desc": "Увеличивает физический урон союзных героев с дальней атакой на всей карте, основываясь на ловкости Drow. Активация способности дарует этот бонус крипам дальнего боя на 30 секунд.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "БОНУС К УРОНУ В ДАЛЬНЕМ БОЮ: <b><font color=\"#ffffff\">18%/24%/30%/36%</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 120",
+        "lore": "Тренировки, которым Траксес посвятила очень много времени в одиночестве, позволяют ей легко усиливать потенциал союзных лучников.",
+        "hurl": "Drow_Ranger",
+        "name": "drow_ranger_trueshot",
+        "youtube":"wNzhcuzDmf0",
+        "id": 2
+    },
+    {
+        "dname": "Marksmanship",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Боевой опыт Drow Ranger увеличивает ее точность и эффективность в битве, давая пассивный бонус к ловкости. Бонус работает, если в радиусе 400 единиц нет вражеских героев.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДОП. ЛОВКОСТЬ: <b><font color=\"#ffffff\">40/60/80</font></b>",
+        "cmb": "",
+        "lore": "Drow Ranger — воплощение мастерства стрельбы из лука.",
+        "hurl": "Drow_Ranger",
+        "name": "drow_ranger_marksmanship",
+        "youtube":"wfgqVIVWpr8",
+        "id": 3
+    }
+]

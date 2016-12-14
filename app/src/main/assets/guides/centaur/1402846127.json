@@ -1,0 +1,128 @@
+{
+	"Hero":"centaur",
+	"Title":"ALL CAPS CURB-STOMPIN' CENTAUR.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"ring_of_protection",
+				"branches"
+			],
+			"GET THIS SHIT ASAP":
+			[
+				"tranquil_boots",
+				"blink",
+				"hood_of_defiance"
+			],
+			"I CAN BENCHPRESS TINY.":
+			[
+				"heart",
+				"heart",
+				"heavens_halberd"
+			],
+			"OTHER THINGS YOU COULD BUY":
+			[
+				"blade_mail",
+				"pipe",
+				"radiance",
+				"gem",
+				"ward_observer"
+			],
+			"BE EVERYWHERE.":
+			[
+				"tpscroll",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"BLINK.
+FOR STOMPING THE SHIT OUT OF PEOPLE.
+
+ALSO GOOD FOR GETTING STUCK IN TREES.",
+				"ring_of_protection":"SHINY RING, BECAUSE CENTAURS LIKE NICE THINGS TOO.
+
+BUILDS INTO TRANQUILS.",
+				"stout_shield":"LAUGH IN THE FACE OF YOUR PUNY ENEMIES AS THEY TRY TO HURT YOU.",
+				"branches":"GG BRANCH. ANY MORE THAN ONE AND YOU'D BE CARRYING A FAGGOT.
+
+DEPENDING ON YOUR TEAM COMPOSITION, YOU PROBABLY WILL ANYWAY.",
+				"gem":"INVISIBLE THINGS SUCK. CRUSH THEM.",
+				"ward_observer":"BE A BRO AND CUT YOUR SUPPORTS SOME SLACK.",
+				"tango":"EAT TREES, GAIN LIFE. MAKES SENSE.",
+				"tpscroll":"HONESTLY, CARRY THESE AT ALL TIMES.  BUYING THEM TWO AT A TIME SAVES TIME.",
+				"travel_boots":"GET ROUND THE MAP QUICKER, STOMP SPLIT PUSHERS. FREES UP A SLOT FOR ANOTHER HEART. ",
+				"pipe":"MAGIC USERS TOO SCARED TO HIT YOU SO THEY PICK ON YOUR TEAM? BUY THIS.
+
+BE THE HERO YOUR TEAM NEEDS, NOT THE HERO YOUR TEAM DESERVES.",
+				"heart":"GAINS FOR DAYS.
+INCREASES STAMPEDE AND RETURN DAMAGE AND MAKES YOU IMPOSSIBLE TO KILL.
+IF YOU HAVE ROOM IN YOUR INVENTORY, YOU BETTER BUILD ANOTHER HEART.
+",
+				"vanguard":"MORE REGEN? MORE REGEN.",
+				"blade_mail":"FOR THOSE SQUISHY IDIOTS THAT THOUGHT THEY COULD KILL YOU BEFORE YOU KILL THEM.
+
+IF YOU BUILD THIS IT SHOULD BE YOUR ONLY ARMOUR ITEM, THE MORE DAMAGE THEY DO TO YOU, THE MORE YOU SEND BACK.",
+				"hood_of_defiance":"MORE FUCKING REGEN.
+ALSO TAKES THE EDGE OFF DOUBLE EDGE, AND PUTS THOSE ANNOYING FUCKING CASTERS IN THEIR PLACE.",
+				"radiance":"FIVE KILLS IN THE FIRST FIVE MINUTES? GET THIS AND REVEL IN YOUR GOLDEN FUCKING GLOW.",
+				"heavens_halberd":"DISARM THE CARRY. KILL THE CARRY.
+
+EVASION WORKS WITH RETURN BECAUSE IT DAMAGES EVEN IF THEY DON'T LAND A HIT.",
+				"tranquil_boots":"DELICIOUS FUCKING REGEN.
+GET THESE FIRST.
+
+DROP THEM BEHIND YOUR TOWER BEFORE YOU GO TO LAST HIT THEN COME PICK THEM UP AND REGEN. REPEAT. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_double_edge",
+			"4":"centaur_return",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_hoof_stomp",
+			"10":"centaur_hoof_stomp",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"centaur_hoof_stomp":"THE STOMP. HIGH MANA COST EARLY SO ONLY USE IT WHEN YOU HAVE TO.",
+				"centaur_double_edge":"THE CLEAVE. GREAT ABILITY FOR EXECUTING FOES YOU'VE STOMPED INTO THE GROUND. HAS AOE SO IF CUNTS ARE GROUPED UP YOU CAN MAUL ALL OF THEM AT ONCE. NO MANA COST.
+
+GOOD FOR FLASH FARMING PULL CAMPS AND CREEP WAVES.",
+				"centaur_return":"THE RETURN. PROCS AT THE START OF THEIR ATTACK ANIMATION, SO THEY HIT THEMSELVES BEFORE THEY HIT YOU, LIKE THE FUCKWITS THEY ARE. STACKS WITH BLADEMAIL AND WORKS WITH EVASION. MORE GAINS MEANS MORE DAMAGE RETURN.",
+				"centaur_stampede":"THE STAMPEDE. USE THIS TO RUN PEOPLE DOWN, SLOW IN TEAMFIGHTS OR GET YOUR TEAM INTO POSITION. DOES MORE DAMAGE THE MORE STRENGTH YOU HAVE, SO BULK THE FUCK UP. ",
+				"attribute_bonus":"THE STATS. FOR THE LEARNED CENTAUR."
+		}
+	}
+}

@@ -1,0 +1,120 @@
+{
+	"Hero":"chen",
+	"Title":"Wapahapa's Chen Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"ring_of_protection",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"headdress",
+				"arcane_boots",
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"ultimate_scepter",
+				"sheepstick",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"necronomicon",
+				"vladmir",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"helm_of_the_dominator",
+				"ghost",
+				"blade_mail"
+			],
+			"Alternative Starting Items":
+			[
+				"ring_of_basilius",
+				"branches"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Build into Ring of Basilius",
+				"branches":"Keep and build into Mekansm.",
+				"ghost":"Defensive items if you are often targedet by type of heroes which deal dmg from their basic attacks.",
+				"ward_observer":"You should always buy a pair of wards whenever it's in stock.
+Be sure to have the rune warded early game.",
+				"ward_sentry":"For dewarding and stealth countering purposes.",
+				"courier":"Buy if your team doesn't already have one.",
+				"mekansm":"The core item for chen. It helps you to push, keep your creeps and allies alive.",
+				"vladmir":"Great for pushing and supporting your melee allies and creeps with some extra lifesteal.",
+				"flying_courier":"Upgrade your team's courier as fast as possible.",
+				"ring_of_basilius":"Some extra manaregen and damage both for you and your creeps is always a good thing.
+Can be built into Vladmir's Offering later",
+				"sheepstick":"Can be considered as a Luxury item, but this item fits kind of any support hero in the game.
+You should only go for it after you have finished your Mekansm and Aghanim's Scepter",
+				"necronomicon":"Great for some extra pushing power",
+				"ultimate_scepter":"Basically this item allows you to spam your ultimate.
+You will no longer have to decide either save your ult for next teamfight or save that single person across the map.",
+				"blade_mail":"Defensive item, get it if you are targeted by nukes before you could use your ultimate or Mekansm.",
+				"helm_of_the_dominator":"Although the lifesteal and dmg dont have so much use, the one extra creep which you can control with it can improve your overall performance since you mostly rely on your controlled units early game.",
+				"arcane_boots":"The reason why you should get an arcane boots before Mekansm is because Chen's abilities consume lots of mana, also creeps like Centaur or Ursa can highly benefit from this due to their low manapool.",
+				"ancient_janggo":"An overall good support item, if no one in your team is going for this item you should consider getting it.",
+				"medallion_of_courage":"With this item you can easily solo roshan at lvl 7 with the right creeps. The easiest way to solo Roshan is to get any combination of the following creeps Ursa, Centaur, Satyr."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_test_of_faith",
+			"4":"chen_holy_persuasion",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"Use it on high priority targets in teamfights so your allies can quickly destroy them.",
+				"chen_test_of_faith":"Your only damage ability.
+Try to use it on carries in combination with your Penitence ability.",
+				"chen_test_of_faith_teleport":"This ability needs great predictions and practice to be used correctly since it can hurt your team if you happen to send back an ally from a teamfight without him absorbing some damage or using his spells.
+However you should always use this on a teammate who is getting ganked.",
+				"chen_holy_persuasion":"In most of the cases you should always persuade the biggest creeps avaliable.",
+				"chen_hand_of_god":"Until you don't have your Aghanim's Scepter you should use this spell carefully due to high manacost and cooldown, after you've got the upgraded version be sure to use it much more often."
+		}
+	}
+}

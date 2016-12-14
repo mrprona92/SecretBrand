@@ -1,0 +1,99 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"KotL Support Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"gauntlets",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"flying_courier",
+				"headdress",
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"bracer",
+				"ward_observer",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"orchid",
+				"gem",
+				"travel_boots",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"The extra HP these give will be invaluable to keeping you alive.",
+				"branches":"Stats will help you through the laning phase. Build the branches into a wand.",
+				"gem":"Kotl isn`t really tanky enough to be relied to hold this but your support role and movement speed means a gem isnt a bad pick up if the team needs one.",
+				"magic_wand":"For burst regen you can`t beat a wand. It`s good all game long, espcially against opponents that spam.",
+				"flask":"For regen on the go. Remember to buy more if you or your carry need them.",
+				"ward_observer":"Vision of the map if key for victory so make sure you always have wards on you and keep re-warding.",
+				"tango":"For regen on the go. Remember to buy more if you or your carry need them.",
+				"courier":"Get the courier to help everyone out and stop those noob drow players moaning.",
+				"travel_boots":"By late game, the regen from tranquils isn`t as useful. So pick up the boots of travel for a global presence to push, defend and farm.",
+				"bracer":"This is easy to pick up because of your illuminate. Farm it up quickly for good stats and build into drums if needed.",
+				"mekansm":"Your first big support item. This will help everyone out for regen and armour as well as a heal. If someone else picked up a mek, go for pipe instead.",
+				"flying_courier":"Get this asap for faster deliveries",
+				"headdress":"To stay true to the role of support, get this for aoe regen for your carry and yourself.",
+				"sheepstick":"This item is great on KOTL. It gives you a great disable as well as good intel and mana regen. If your team needs some extra help in teamfights get this.",
+				"orchid":"The attack speed and damge. can make you more of a right clicker but that is just an added bonus. The mana regen means your chakra magic only needs to be used on your allies and not yourself. It`s main purpose is to silence enemy threats and make them take extra damage so they die much quicker.",
+				"force_staff":"Gives you some small HP regen. mainly however, it will give you extra mobility. Help you help teammates to escape ganks or manoeuvre an enemy hero into a position that your team can kill them.",
+				"shivas_guard":"If you need some more survivability get shivas. It`s armour will keep you alive and the intelligance is good for mana. The artic blast is a decent nuke but use it for slowing enemies. Try and hit as many as you can.",
+				"ancient_janggo":"Drums work well on most heroes and if your team needs them, pick them up. The stats will help you out as well.",
+				"tranquil_boots":"The extra movement speed and regen will keep you in lane and doing your job. The best boots for kotl."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_mana_leak",
+			"6":"keeper_of_the_light_spirit_form",
+			"7":"keeper_of_the_light_illuminate",
+			"8":"keeper_of_the_light_illuminate",
+			"9":"keeper_of_the_light_chakra_magic",
+			"10":"keeper_of_the_light_chakra_magic",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "attribute_bonus",
+        "2": "attribute_bonus",
+        "3": "attribute_bonus",
+        "4": "attribute_bonus",
+        "5": "attribute_bonus",
+        "6": "tusk_walrus_punch",
+        "7": "tusk_snowball",
+        "8": "tusk_snowball",
+        "9": "tusk_snowball",
+        "10": "tusk_snowball",
+        "11": "tusk_walrus_punch",
+        "12": "attribute_bonus",
+        "13": "attribute_bonus",
+        "14": "attribute_bonus",
+        "15": "attribute_bonus",
+        "16": "tusk_walrus_punch",
+        "17": "attribute_bonus",
+        "18": "tusk_frozen_sigil",
+        "19": "tusk_frozen_sigil",
+        "20": "tusk_frozen_sigil",
+        "21": "tusk_frozen_sigil",
+        "22": "tusk_ice_shards",
+        "23": "tusk_ice_shards",
+        "24": "tusk_ice_shards",
+        "25": "tusk_ice_shards"
+    },
+    "AbilityTooltips": {
+        "tusk_walrus_punch": "350% Damage all 18 Sec is a very strong Carry Spell",
+        "tusk_snowball": "As Hard Carry you dont need any nukes",
+        "tusk_ice_shards": "As Hard Carry you dont need any nukes",
+        "tusk_frozen_sigil": "A very bad spell"
+    }
+}, "Hero": "tusk", "ItemBuild": {
+    "ItemTooltips": {
+        "orchid": "MORE DAMAGE FOR YOUR WALRUS PUNCH! !!!!!!!",
+        "rapier": "MORE DAMAGE FOR YOUR WALRUS PUNCH! !!!!!!!",
+        "monkey_king_bar": "MORE DAMAGE FOR YOUR WALRUS PUNCH! !!!!!!!",
+        "invis_sword": "Be dirty and treacherous!",
+        "desolator": "MORE DAMAGE FOR YOUR WALRUS PUNCH! !!!!!!!",
+        "phase_boots": "MORE DAMAGE FOR YOUR WALRUS PUNCH! !!!!!!!",
+        "satanic": "El ultra Heal!",
+        "boots": "How else do you want to get your First Blood?"
+    },
+    "Items": {
+        "Starting items": ["boots"],
+        "Early Game": ["phase_boots", "bracer", "magic_stick"],
+        "Core items": ["desolator", "monkey_king_bar", "invis_sword", "phase_boots", "magic_wand"],
+        "Situational": ["rapier", "orchid", "travel_boots", "heavens_halberd", "satanic"]
+    }
+}, "Title": "Tusk is Carry! Really!!!"}

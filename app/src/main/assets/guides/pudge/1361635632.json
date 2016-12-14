@@ -1,0 +1,103 @@
+{
+	"Hero":"pudge",
+	"Title":"TsR.Fresh Meat Pudge's build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_wand",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"hood_of_defiance"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"ultimate_scepter",
+				"heart",
+				"pipe",
+				"shivas_guard",
+				"black_king_bar"
+			],
+			"Ganking Tools":
+			[
+				"smoke_of_deceit",
+				"tpscroll",
+				"ward_observer"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"You will Upgrade it later into an Urn",
+				"branches":"You will upgrade these 3 Into an Magic Wand",
+				"magic_wand":"You will use these for important low amount regenerations when enemies uses spells around you",
+				"flask":"Your Basic Regeneration Item",
+				"bottle":"The Most important Item,It's your best Regeneration item",
+				"ward_observer":"Helpful to spot enemies",
+				"tpscroll":"Helpful for Travelling across the map",
+				"urn_of_shadows":"Used to heal you For 400 HP,or finish of enemies below 150 Hp,1 Kill = 2 Charges",
+				"force_staff":"since you're a really really  bad escaper,You get this item for its mana + and it's push for hooking and escaping",
+				"ultimate_scepter":"When you have this,you're almost unstoppable since you heal when you ult, and do extra damage.",
+				"heart":"Got this item? GG WP. the match is over ;)",
+				"black_king_bar":"This item is also a GG WP item.",
+				"hood_of_defiance":"Since your rot Damages you also,this will increase your magic resistance and make you take less damage from rot",
+				"arcane_boots":"Most people love Phase,But this is better,it fixes your mana pool problem,you usually have 1 hook+ 1 ult with phase,this gives you enough mana for more more hooks and ults"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_rot",
+			"10":"pudge_flesh_heap",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Yar meat hook,land one and it's the end ",
+				"pudge_rot":"Your fart the kills everyone,must use after hook and with dismember",
+				"pudge_flesh_heap":"Well give you magic resistance,and more strength for each kill",
+				"pudge_dismember":"Your Face-Eating Move,It's a killer machine,just try to avoid being silenced or stunned"
+		}
+	}
+}

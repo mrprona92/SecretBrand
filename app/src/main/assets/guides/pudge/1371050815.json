@@ -1,0 +1,129 @@
+{
+	"Hero":"pudge",
+	"Title":"Graddus' Standard Build to Pudge [Midlane]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"blink",
+				"hood_of_defiance"
+			],
+			"Luxury":
+			[
+				"ultimate_scepter",
+				"heart",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"arcane_boots",
+				"force_staff",
+				"invis_sword",
+				"black_king_bar",
+				"blade_mail",
+				"pipe"
+			],
+			"Standard Ganker items":
+			[
+				"smoke_of_deceit",
+				"tpscroll"
+			],
+			"Last Updated: 2-1-2014":
+			[
+			],
+			"Version 5.0":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The Blink Dagger improves Pudge's Mobility a lot.
+It also makes it easier to chase enemies or to escape from them. Get this, unless you're playing against right-clicking carries. In that case you should get a Force Staff.",
+				"bottle":"A Bottle provides regen and allows you to control the runes.",
+				"tpscroll":"A TP Scroll allows you to gank every lane, bypassing wards.",
+				"travel_boots":"The Boots of Travel improves Pudge's global precense and increases the enemy's fear for the allmighty Butcher.
+",
+				"phase_boots":"Pudge's low Movement Speed can be a problem in Ganks or chases. That's why you need to get the Phase Boots as soon as possible. Now you can catch up with an enemy and use Rot to slow him down.",
+				"pipe":"A Pipe of Insight could be picked up if the enemy has a lot of magical damage.",
+				"urn_of_shadows":"An Urn of Shadows provides regn for you and your team, as well as some mana regen for yourself.",
+				"force_staff":"The Force Staff increases Pudge's positioning and it can help him to escape from Ganks. Get this or the Blink Dagger, not both. I recommend getting this if your up against right-clicking carries, because the Force Staff doesn't have a cooldown if you get hit by an enemy.",
+				"ultimate_scepter":"With the Aghanim's Scepter using Dismember will heal you.
+Tower Diving is attractive now, isn't it?",
+				"heart":"A Heart of Tarrasque is a great item in combination with a lot of Flesh Heap stacks. The Attack Damage and the Health Regen will be MASSIVE.",
+				"black_king_bar":"Buy this if you are using Rot or Dismember a lot.
+With this your Dismember will not be interrupted by stuns and you will not receive any SelfDamage from Rot.",
+				"blade_mail":"Always useful, especially if an Hooked enemy wants to fight the mighty, hungry Butcher.",
+				"hood_of_defiance":"The Hood of Defiance decreases the Self-Damage from Rot and other Magic Attacks. The Hood's Magic Resistance stacks with Flesh Heap, which means that if you kill a lot of enemies, you will have a lot of Magic Resistance.",
+				"invis_sword":"The Shadow Blade makes it easier to Gank or Escape.
+With the Invisibility you can land Hooks easier, especially if the enemy has Wards, because they won't expect it.",
+				"arcane_boots":"Get the Arcane Boots if you are going to Roam or Gank. Not really useful to stay in the lane, but very useful if you have enough Health and Stats to gank. Get these in Mid-Late Game if you need the Mana.",
+				"smoke_of_deceit":"Smoke of Deceit helps you to gank enemies, especially if the enemy has a proper warding up."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_flesh_heap",
+			"10":"pudge_rot",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Meat Hook is the reason Pudge is a dangerous Ganker.
+Just Stay in the Woods and wait untill an enemy is standing still. It has a great Range so you can also kill fleeing enemies if they walk in a straight line. (Tip: Dismember and Meat Hook go through Magic Immunity, but without Damage.)",
+				"pudge_rot":"Use this to get Last-Hits or to deal extra Damage if you are dismembering an enemy.
+A little trick; you can use this to commit suicide.
+This will give the enemy less XP and gold.
+(Tip: If you have the Black King Bar, you will not receive SelfDamage from Rot.)",
+				"pudge_flesh_heap":"Flesh Heap makes Pudge hard to kill.
+The more kills he gets, the more Health he gets.
+It also gives Magical Resistance, so you can counter Intelligence Heroes. Note that you receive stacks even before you have Flesh Heap.",
+				"pudge_dismember":"Dismember is a great ability for killing lone heroes.
+It stuns them for 3 seconds while you deal a lot of Damage. Even more powerful when you have the Aghanim's Scepter, because you will deal more Damage and heal equal to damage dealt.
+(Combo tip: Hook-Rot-Dismember)"
+		}
+	}
+}

@@ -1,0 +1,73 @@
+{
+	"Hero":"antimage",
+	"Title":"GreyShark.Anti-Mage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Game":
+			[
+				"bfury",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"manta",
+				"heart",
+				"basher"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"abyssal_blade"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_blink",
+			"2":"antimage_mana_break",
+			"3":"antimage_mana_break",
+			"4":"antimage_blink",
+			"5":"antimage_mana_break",
+			"6":"antimage_mana_void",
+			"7":"antimage_mana_break",
+			"8":"antimage_blink",
+			"9":"antimage_blink",
+			"10":"antimage_spell_shield",
+			"11":"antimage_mana_void",
+			"12":"antimage_spell_shield",
+			"13":"antimage_spell_shield",
+			"14":"antimage_spell_shield",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

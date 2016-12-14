@@ -1,0 +1,129 @@
+{
+	"Hero":"lion",
+	"Title":"*6.82* Lion - the beasting support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"courier",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bracer",
+				"buckler"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"tranquil_boots"
+			],
+			"luxury":
+			[
+				"pipe",
+				"ghost",
+				"force_staff",
+				"sheepstick",
+				"ancient_janggo",
+				"blink",
+				"shivas_guard",
+				"veil_of_discord",
+				"ultimate_scepter",
+				"arcane_boots"
+			],
+			"As neccessary":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier",
+				"tpscroll"
+			],
+			"Throwing in the towel":
+			[
+				"smoke_of_deceit",
+				"quelling_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blinking in and immediately hexing an important enemy hero such as the carry provides great initiation, but saving up the gold for it can be hardbefore the late-game. Also good for escaping.",
+				"quelling_blade":"Lets you journey through those sidelane trees in hiding instead of being fountain camped",
+				"gauntlets":"If you bought courier but no one else has bought a set of wards it may be wise to skip this for wards instead",
+				"gem":"Nothing ruins an invis heroes day like a gem. ",
+				"magic_wand":"Wands save lives. Even 10 stick charges can be the difference between giving up first blood and securing it for yourself.",
+				"ghost":"Invaluable in the mid-late game against strong physical dps carries such as Anti-mage",
+				"ward_observer":"&lt;b&gt;Always&lt;/b&gt; buy these when you can",
+				"ward_sentry":"If you know the enemy are warding use to &lt;u&gt;deward&lt;/u&gt;.
+Sometimes sentries are better than dust, consider whether you need vision in an area (sentries) or on a target (dust).",
+				"courier":"If someone already bought the courier get a set of wards instead",
+				"tpscroll":"Always carry &lt;s&gt;protection&lt;/s&gt; a TP scroll.",
+				"mekansm":"Single most important item for a support to build, but you dont want multiple Meks on your team. Coordinate with other supports/mek carriers.",
+				"flying_courier":"Not having flying courier is to courier as courier is to no courier. If the laning phase is over and no one has bought it yet, its up to you to take one for your stupid team and get it yourself",
+				"buckler":"Buckler is slightly more expensive than headdress but offers a lot more when pushing - build it first",
+				"pipe":"If no one else is going to build it, you should consider getting it. Makes a world of difference against teams dishing out lots of magic damage.",
+				"sheepstick":"Whats better than having two disables? Three of course! Works just like your hex (W)",
+				"force_staff":"Forcestaff is a utility item - use it to escape from ganks up/down cliffs  or out of abilities like Clockwork's coggs; use it on enemies facing your team to push them in close for an easy pickoff. Works just as well for helping teammates as on yourself.",
+				"dagon":"For extra kill steal",
+				"ultimate_scepter":"As of 6.80 aghs is now a decent late-game option; providing AoE burst is very useful in teamfights provided you manage to land it on clumped up enemies.",
+				"shivas_guard":"Tanks you up nicely as well as having a good active but doesnt offer as much utility as a hex",
+				"rapier":"Look and dream",
+				"sange_and_yasha":"Gotta go fast!",
+				"yasha":"For when your winning hard and just wanna go faaaaast",
+				"arcane_boots":"Mana drain should be sufficient for maintaining mana but its nice to have at least one on your team to sustain your allies",
+				"ancient_janggo":"Drums is just a nice support item, good stats, easy build up and the aura help you and your team",
+				"smoke_of_deceit":"Use to gank the enemy; what are you a tryhard? Why not simply use it to escape your trashed base secretly and hide in the jungle instead of being fountain camped?",
+				"veil_of_discord":"A nice luxury item. The null talisman can be picked up instead of a bracer for early game stats.",
+				"heavens_halberd":"HH can be used to shutdown the enemy carry, also tanks you up which is nice.",
+				"tranquil_boots":"Gives excellent regen to sustain you in lane and after fighting, higher speed bonus than most boots, and is easy to build. Note that attacking or being attacked breaks them for reduced effect."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_voodoo",
+			"3":"lion_mana_drain",
+			"4":"lion_impale",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_voodoo",
+			"8":"lion_impale",
+			"9":"lion_voodoo",
+			"10":"lion_mana_drain",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_mana_drain",
+			"14":"lion_mana_drain",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_voodoo":"A standard hex: disables attacking, using abilities and items, disables evasion. Also destroys illusions immediately.",
+				"lion_mana_drain":"Useful for sustaining mana. Also good during the laning stage to keep enemies mana low. Note it can be used to proc linkens and kills illusions."
+		}
+	}
+}

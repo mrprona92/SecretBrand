@@ -1,0 +1,96 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"Nyx Assassin - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"mantle",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"null_talisman",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"dagon"
+			],
+			"luxury":
+			[
+				"blink",
+				"ancient_janggo",
+				"sheepstick",
+				"force_staff",
+				"heart",
+				"ethereal_blade",
+				"necronomicon_3"
+			],
+			"Maximizar Dagon":
+			[
+				"dagon_2",
+				"dagon_3",
+				"dagon_4",
+				"dagon_5"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dagon":"Usalo despues del combo de la ulti y es una muerte casi segura.",
+				"ethereal_blade":"Para combinar con el Dagon"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_impale",
+			"2":"nyx_assassin_mana_burn",
+			"3":"nyx_assassin_spiked_carapace",
+			"4":"nyx_assassin_impale",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_mana_burn",
+			"9":"nyx_assassin_spiked_carapace",
+			"10":"nyx_assassin_mana_burn",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_spiked_carapace",
+			"13":"nyx_assassin_mana_burn",
+			"14":"nyx_assassin_spiked_carapace",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nyx_assassin_impale":"Stun muy potente que permite dar a mas de un enemigo si se usa correctamente.",
+				"nyx_assassin_mana_burn":"Quema mana al enemigo de linea que veas que es mas peligroso con mana. Usalo tambien en el combo de la ulti o para rematar a alguno con poca vida.",
+				"nyx_assassin_spiked_carapace":"Puedes usarlo en teamfights para paralizar a los enemigos o para huir. Ciertas habilidades de enemigos la activaran tambien sin quererlo ellos, usalo segun la situacion.",
+				"nyx_assassin_vendetta":"El arma mas importante de Nyx. El combo para gankear con la ulti es: salir de invisibilidad golpeando con click derecho, Q, atacar, W y activar E por si se defiende. Si tienes dagon usalo tambien despues del combo. Es LETAL."
+		}
+	}
+}

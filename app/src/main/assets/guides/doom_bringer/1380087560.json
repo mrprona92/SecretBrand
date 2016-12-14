@@ -1,0 +1,100 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Jungle DOOM/Late carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"sobi_mask",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"radiance",
+				"heart",
+				"assault"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"sphere",
+				"ultimate_scepter",
+				"refresher",
+				"heavens_halberd",
+				"mjollnir"
+			],
+			"Для парней с большими яйцами.":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sobi_mask":"Реген маны очень важен для Дума,так как на начальном левеле у него ее не много,а скилы по мп стоят не дешево.",
+				"travel_boots":"Позволяет быстро пушить лайны.",
+				"phase_boots":"Благодаря второму скилу Дума,он двигается быстрее.Собрав фазы можно будет быстро ворваться в замес,и так же быстро уйти.А также,хоть и не большая,но появится прибавочка к  демейджу.",
+				"hand_of_midas":"У дума есть уникальный фармящий первый скил.В паре с мидасом фарм будет просто зашкаливать.",
+				"ring_of_basilius":"Наранней стадии игры - просто незаменимый арт,т.к Думу приходится много скиловать.Как говорится:дешево и со вкусом)",
+				"assault":"Кираса для дума важна тем,что:во первых - она добавлят ему брони,что ще больше усложняет убить его;во вторых она добавляет скорости атаки,что позволяет вам быстрее уничтожать вражеских юнитов.",
+				"heart":"Тараска очень важный артефакт для Дума,т.к.он сам по себе является неплохим танком,а с тарской соперникам становится очень трудно убить его.",
+				"sphere":"Так как ульт дума очень важен для команды,очень важно,что бы его никто не законтрил станами и прочей магией.",
+				"rapier":"Если вы уверены в своей победе,да и в себе ,впрочем,спокойно собирайте ее.НО помните:потеря рапиры - иногда чревата всей команде.",
+				"radiance":"Этот арт,в паре со вторым скилом поможет вам наносить колосальную кучу демейджа,даже будучи на расстоянии.К тому же очередная прибавка к скорости фарма.",
+				"heavens_halberd":"Если вам вам важно,что бы противник не смог вас бить,пока вы спокойно его убиваете-алибарда,именно то что вам надо."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_lvl_death",
+			"9":"doom_bringer_scorched_earth",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_scorched_earth",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Уникальный скил,который обспечивает вам прекрасный фарм.Используется по к.д..На лайне-на вражеских крипах;в лесу на нейтралах.",
+				"doom_bringer_scorched_earth":"Прекрасный скил который поможет вам избежать смерти в замесах,а так жеподрегенить здоровье при фарме в лесу.",
+				"doom_bringer_lvl_death":"В основном служит добивающим скилом.",
+				"doom_bringer_doom":"Самый крутой сайленс в ДОТЕ.Использовать его лучше на вражесских юнитов которые имеют масс скилы,хилы,станы и тому подобное."
+		}
+	}
+}

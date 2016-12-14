@@ -1,0 +1,120 @@
+{
+	"Hero":"slark",
+	"Title":"Jaffa's Slark Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"yasha",
+				"magic_stick",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"sange_and_yasha",
+				"basher"
+			],
+			"luxury":
+			[
+				"sphere",
+				"black_king_bar",
+				"heart",
+				"skadi",
+				"abyssal_blade",
+				"butterfly",
+				"orchid"
+			],
+			"DO NOT GET":
+			[
+				"ethereal_blade",
+				"mask_of_madness",
+				"dagon",
+				"invis_sword",
+				"blink",
+				"force_staff",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger... really...",
+				"stout_shield":"Blocks early harass and allows easier first blood kills with pounce -- Enemies are a lot less likely to stand and fight you if you're meele range with one of these.",
+				"magic_stick":"This item can help support Slark's poor mana pool early on, upgrade it into a magic wand if you get good use out of it against the enemy team.",
+				"magic_wand":"This item can help support Slark's poor mana pool early on.",
+				"flask":"Recovery for early kill attempts which will likely bring you to low HP. More efficient than tangoes for large health recovery.",
+				"power_treads":"Keep these on Strength early game. Slarks weakness early is his low HP. Once you start building up your sange its not as necessary.",
+				"orchid":"ONLY if the enemy team has a lot of blinkers that can get away from your pounce. This item really doesn't help you much in any other situation. If you just want to solve your mana problems, get a Linkens. It provides much more tankibility and stats.",
+				"force_staff":"Slide mothafucka i got ice skates up n this bitch",
+				"dagon":"There are some games which you can build dagon, and for those games you really dont need to be reading a guide.",
+				"heart":"Health is good on slark. Like, really good. The regen is nice, but the hp will increase your slipperyness and let you survive if you miss a dark pact prediction.",
+				"black_king_bar":"Agaisnt heavy magic teams whose burst/disables are predictable, bkb is a must. However, try to get this after a core item.",
+				"sphere":"A very powerful item on slark if the enemy team is packing instant cast disables which are hard to predict with dark pact, such as Primal Roar or Fiends Grip. The item also solves Slark's mana problems.",
+				"butterfly":"More tankiness, more attack speed. Lovely.",
+				"basher":"Stops tp's and allows you to overpower enemy carries. Health is nice too. Becomes absolutely ridiculous once you start stealing agi and get mega attack speed.",
+				"invis_sword":"WTF IVE SEEN SO MANY PEOPLE GO SHADOWBLADE THOUGH JAFFA YOU ~BAKA~ IMA GET IT ITS NOT LIKE I LIKE YOU ANYWAY...
+
+ok go ahead become useless since they are already buying gems/sentires to counter you and you could just get permanent ms from sny",
+				"sange_and_yasha":"Gives slark exactly what he needs -- Hp, damage, attack speed, and more movement speed (which WILL be needed if the enemy team is buying sentries to reveal you). The components are cheap and easy to accumulate even if you die a few times.",
+				"skadi":"A perfect end game item for slark, though do not try to build this item too early in the game. SnY + Basher provides far more kill potential.",
+				"yasha":"Combined with treads, this is Slark's early attack speed item which severly increases your DPS through your stat steal, and helps prevent you from getting kited while visible in case you miss a pounce. It builds nicely into Sange and Yasha later for added hitpoints and damage.",
+				"mask_of_madness":"Mask of let me die before I can react",
+				"ethereal_blade":"Oh ya lets increase dark pact/pounce damage instead of relying on slarks amazing passive stat steal and attack speed ok go ahead",
+				"orb_of_venom":"Very good item early for its cheap cost. Lets you get a few extra attacks in on early kills.",
+				"abyssal_blade":"End game flat damage (good with your high attack speed from stolen agi and SnY) and more anti carry disable. Probably best to get after some more tankiness from either Heart/Skadi/Linken/BKB.",
+				"heavens_halberd":"You might think this is a good idea to help 1v1 enemy carries, but just go basher instead. Your high attack speed should outstun them anyway."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_essence_shift",
+			"3":"slark_dark_pact",
+			"4":"slark_pounce",
+			"5":"slark_pounce",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_essence_shift",
+			"9":"slark_essence_shift",
+			"10":"slark_essence_shift",
+			"11":"slark_shadow_dance",
+			"12":"slark_dark_pact",
+			"13":"slark_dark_pact",
+			"14":"slark_dark_pact",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slark_dark_pact":"Put only 1 point into this at either level 3 or 4. The health cost is too high to max this skill for an early game slark. This skill will repeatedly purge you after its delay, removing almost all disables in the game. Only use it for DPS if enemies have no CC left.",
+				"slark_pounce":"Take this skill as early as possible, and max it asap. It gives slark his mobility and killing potential, and the cooldown reduction will save your life.",
+				"slark_essence_shift":"Max this second, after putting a point into Dark Pact. This skill gives slark amazing early damage through strength loss, and late game it turns you into a snowballing teamfighter.",
+				"slark_shadow_dance":"Keep in mind that a % of your max HP is regenerated, so bonus health on Slark scales well with this ability. Use this skill offensively to prevent enemies from targeting disables on you, and be sure dark pact is off cooldown when it ends. It's likely that you'll take disables then."
+		}
+	}
+}

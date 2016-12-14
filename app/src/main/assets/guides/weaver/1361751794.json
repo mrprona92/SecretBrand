@@ -1,0 +1,107 @@
+{
+	"Hero":"weaver",
+	"Title":"6.82 - Standard Weaver (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"maelstrom",
+				"sphere"
+			],
+			"luxury":
+			[
+				"ring_of_aquila",
+				"medallion_of_courage",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"desolator",
+				"greater_crit",
+				"butterfly",
+				"monkey_king_bar"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sphere":"Great damage, conservative item, keeps you alive to let you pull off Time Lapse.",
+				"monkey_king_bar":"Evasion heroes despise Monkey King Bar. This item is straight damage and can be key to competing rivaling physical carries.",
+				"radiance":"If doing incredibly well, consider getting radiance for Weaver, otherwise, skip it for cheaper damage-dealing items.",
+				"butterfly":"Linken's Sphere and Evasion makes Weaver difficult to catch even with True Sight when he casts Shukuchi.",
+				"greater_crit":"Tear foes even faster with Daedalus as its critical strike is incredible powerful and great for a fast-moving and damaging hero like Weaver.",
+				"maelstrom":"Get Maelstrom for easy kills during your initial levels and for the fast ability to farm your Linken's Sphere. Without Maelstrom, your farm will be massively lower.",
+				"desolator":"The armor reduction from this item works alongside your The Swarm ability, making your attack deal even more damage! Geminate Attack  still occurs even if you get Desolator.",
+				"medallion_of_courage":"The armor reduction from this item works alongside your The Swarm ability, making your attack deal even more damage! Great if you want to early-game pressure instead of farming for your more core items.",
+				"ring_of_aquila":"Ring of Aquila provides easy last-hitting with the small mana regeneration you want to pop your Shukuchi at any time's notice."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"weaver_the_swarm",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_the_swarm",
+			"9":"weaver_the_swarm",
+			"10":"weaver_the_swarm",
+			"11":"weaver_time_lapse",
+			"12":"weaver_geminate_attack",
+			"13":"weaver_geminate_attack",
+			"14":"weaver_geminate_attack",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"weaver_the_swarm":"The Swarm has a constant armor reduction (of 1) af every second at any level, so we are going to max it second, after Shukuchi.
+
+This works alongside Desolator's Armor Reduction.",
+				"weaver_shukuchi":"Your escape and a positioning ability. Don't hesitate to spam this if necessary to deal safe damage to your opponent.",
+				"weaver_geminate_attack":"Items with orb effects work alongside this passive ability.",
+				"weaver_time_lapse":"If stunned or silenced, you will not be able to cast this ability; so don't depend on it too much if you're in a jam.
+
+Use this ability to rewind to a safe location even at full health."
+		}
+	}
+}

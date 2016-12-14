@@ -1,0 +1,2 @@
+{
+    "roles": ["Disabler", "Nuker", "Support", "Escape"],"ID":64,"Patch":"6.79c","Name":"Windrunner","Alignment":0,"Movespeed":295,"MaxDmg":56,"MinDmg":44,"HP":435,"Mana":286,"HPRegen":0.25,"ManaRegen":0.01,"Armor":1.38,"Range":600,"ProjectileSpeed":1250,"BaseStr":15,"BaseAgi":17,"BaseInt":22,"StrGain":2.5,"AgiGain":1.4,"IntGain":2.6,"PrimaryStat":2,"BaseAttackTime":1.5,"DayVision":1800,"NightVision":800,"AttackPoint":0.4,"AttackSwing":0.3,"CastPoint":0.3,"CastSwing":0.5,"Turnrate":0.6,"Legs":2}

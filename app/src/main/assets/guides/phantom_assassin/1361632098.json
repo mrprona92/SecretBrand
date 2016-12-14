@@ -1,0 +1,82 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Always Bulid Damage First!!!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"stout_shield",
+				"clarity",
+				"clarity"
+			],
+			"BF - If GOOD early farm":
+			[
+				"phase_boots",
+				"claymore",
+				"broadsword",
+				"pers"
+			],
+			"No BF - if BAD early farm":
+			[
+				"phase_boots",
+				"wraith_band",
+				"wraith_band",
+				"ring_of_basilius"
+			],
+			"Against Casters/Target Spells":
+			[
+				"black_king_bar",
+				"sphere",
+				"sange_and_yasha",
+				"rapier"
+			],
+			"Against DPS Attackers":
+			[
+				"vladmir",
+				"basher",
+				"monkey_king_bar",
+				"manta",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_stifling_dagger",
+			"2":"phantom_assassin_phantom_strike",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_phantom_strike",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_stifling_dagger",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

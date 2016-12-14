@@ -1,0 +1,121 @@
+{
+	"Hero":"meepo",
+	"Title":"6.81 - OH GOD I JUST RANDOMED MEEPO",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_basilius",
+				"point_booster",
+				"ogre_axe"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"reaver"
+			],
+			"Luxury Items":
+			[
+				"heart",
+				"ethereal_blade",
+				"assault",
+				"skadi"
+			],
+			"luxury":
+			[
+				"pipe",
+				"mekansm",
+				"vladmir",
+				"blink",
+				"invis_sword",
+				"ancient_janggo",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A Blink Dagger can allow you to get many ganks you wouldn't otherwise accomplish. However, if you aren't getting many ganks, then it's not worth the gold. Also, you'll need pretty fast fingers to blink-poof adequately. Practice in a -wtf game before trying in a real one.",
+				"ogre_axe":"Get this for your Agh's once you've finished your Point Booster.",
+				"sobi_mask":"Will give you a little extra mana regen early. Will work towards your Vlad's later when you dissassemble tranqs.",
+				"travel_boots":"Boots of Travel will basically turn you into Tinker when it comes to split-pushing, as each Meepo has its own cooldown for the boots. They're a really great pickup for Meepo, but do take up a decent chunk of gold - only get these if you KNOW you can split-push safely, and have plenty of wards up.",
+				"reaver":"A reaver is a good way to boost the survivabilty of your Meepos after finishing your Agh's, and can then be upgraded into a Heart. If you don't need any more tankiness after buying the Reaver, go for another damage item first, then finish the Heart.",
+				"point_booster":"Get this first while building your Agh's, for more survivability and mana.",
+				"power_treads":"Power Treads are probably the best boot choice for Meepo, since his clones desperately need the extra tankiness provided, and the attack speed is always nice.",
+				"mekansm":"Mek is a great pickup for both you and your team - you can hit it when a Meepo gets low for a quick health and armor boost. Don't buy it if a support already is, however.",
+				"vladmir":"Vlad's is a very strong choice, and once you get it you can solo-kill Rosh pretty easily if the enemy doesn't see you - use a smoke to get in. Don't get this if someone else on your team already has one.",
+				"ring_of_basilius":"Gives your clones a bit of armor and mana regen early on, and can build into a vlad's later if it's a decent idea. Just make sure you turn it off in lane, unless you're ready to push for a tower.",
+				"pipe":"This is a good buy if the enemy team has a lot of magical damage, and can really save your Meepos. However, it won't provide your other Meepos with any stats, and is really expensive. Only buy one if your team really needs it and no one else on your team is buying one. ",
+				"ultimate_scepter":"Meepo's #1 item, get this ASAP. Aghanim's Scepter will give you more damage than almost any other item, tanks up your clones immensely, and also increases the effectiveness of every other stat item you buy.",
+				"assault":"If you need a little more tankiness but still want some damage, this is a good bet. As with other aura items, I wouldn't suggest getting this if there's already one on your team.",
+				"heart":"Heart of Tarrasque will give all of your meepos an insane survivability boost. A must-buy.",
+				"butterfly":"Butterfly isn't that great on Meepo - most of the stats aren't given to the other Meepos. An Ethereal Blade will accomplish way more for over 1000 gold less.",
+				"manta":"A lot of people buy Manta on Meepo, but I wouldn't recommend it. It adds some damage and a small amount of survivability, but a lot of the stats don't transfer over to your other Meepos. Buy an Ethereal instead.",
+				"invis_sword":"If your fingers aren't fast enough for a Blink Dagger, but you still have many gank opportunities, go for this. However, it's more expensive than a Blink, and your clones won't get the stats it provides. ONLY buy this if you aren't confident in blink-poofing.",
+				"skadi":"An alternative to Assault Cuirass, this will also tank you up while providing a decent damage boost. Get this instead of AC if your team already has an AC, the enemy team has lots of high movespeed heroes, or if they don't have enough physical damage to justify the armor from AC.",
+				"ethereal_blade":"This is the single best damage item for Meepo after Agh's - Manta and Butterfly give lots of stats that won't transfer to all of your Meepos, and are thus wasted overall. It also gives you even MORE burst damage.",
+				"ancient_janggo":"If you're off to a bad start, this could help you out by giving you some extra health to work with. I'd highly recommend going to a Mek or Vlad's first to fix a poor start, but if your team has those already, this can patch you up.",
+				"tranquil_boots":"Tranqs are a fantastic pickup to keep your Meepos topped off, and let you farm jungle even more easily. You'll want to dismantle them in order to get Power Treads or Boots of Travel later on though - doing so can help build a vlad's too."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_divided_we_stand",
+			"4":"meepo_poof",
+			"5":"meepo_poof",
+			"6":"meepo_geostrike",
+			"7":"meepo_poof",
+			"8":"meepo_earthbind",
+			"9":"meepo_earthbind",
+			"10":"meepo_divided_we_stand",
+			"11":"meepo_earthbind",
+			"12":"meepo_geostrike",
+			"13":"meepo_geostrike",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"meepo_divided_we_stand",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_earthbind":"How to correctly net > poof:
+Main: Net enemy, right-click enemy.
+All other Meepos: que poof onto main.
+Main: que poof when near enemy.
+Next Meepo: net immediately upon poofing in.
+Continue tab-netting, and make sure all Meepos are attacking enemy. Practice leading your nets to land them!",
+				"meepo_poof":"Poof is your main source of damage and mobility, max it immediately. Make sure you keep one Meepo walking along near the enemy you want to poof onto, rather than ordering ALL Meepos to poof. Note: at 5 you can instakill jungle camps with both Meepos poofing, and you can 1v1 nearly anyone. Maybe 1v2.",
+				"meepo_geostrike":"This is a solid passive that will really let you lock down targets, and help you with last-hitting early on. If you feel confident in your ability to land nets, prioritize it after your W.",
+				"meepo_divided_we_stand":"I recommend a control group for your main Meepo, one for all the Meepos, and then one for all your Meepos except the main one. Of course, put each Meepo into a control group of its own, but using those three is the easiest.You can shift-click Meepo portraits to add/remove them from your selection!",
+				"attribute_bonus":"Take note that each Meepo recieves exp for your main hero, so if you split them up you can get more exp overall. While it can be very difficult to control when you have a Meepo in every lane, keeping one farming jungle and the rest in another lane or two can REALLY boost your exp gains."
+		}
+	}
+}

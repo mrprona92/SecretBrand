@@ -1,0 +1,106 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"6.82 - Standard Drow Ranger (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"yasha",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"mask_of_madness",
+				"invis_sword",
+				"sange_and_yasha"
+			],
+			"Extension Items":
+			[
+				"butterfly",
+				"greater_crit",
+				"monkey_king_bar"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"Slippers of Agility are to help with last-hitting and further increase your attack speed.",
+				"black_king_bar":"Black King Bar is regular item for Drow Ranger to prevent being stunned or limiting your damage output.",
+				"monkey_king_bar":"Direct damage and prevents evasive heroes from dodging. Monkey King Bar is a solid choice for Drow Ranger's desire to tear teams down as fast as possible.",
+				"butterfly":"What works with an agility hero? More agility, the evasion is a nice touch for heroes that wants to stay on the rim of battles such as Drow Ranger.
+
+With the Flutter active ability, you can continually chase down foes who run or try to close the gap and attack you. Use carefully!",
+				"greater_crit":"Daedalus is a natural choice for Drow Ranger as it really allows her take advantage of her massive Agility and match it with the chance of critical strike and damage.",
+				"manta":"Manta Style can be great much later down the road when you need help pushing down towers and lanes. Can be great to also get out of certain disabilities.",
+				"invis_sword":"Since Drow Ranger has no escape (or ways of running away/getting out), Shadow blade is a great tool for her to either gank or run away from incoming attacks.",
+				"sange_and_yasha":"Mid-game item that cuts straight into the midst of battle and doesn't aim for a long-term game. This allows Drow Ranger to take advantage of her early Frost Arrows and try to end the game as soon as possible.",
+				"helm_of_the_dominator":"Get Helm of the Dominator if you are able to orbwalk. Orbwalking is manually using your Frost Arrow ability to slow and then follow it up with normal lifestealing attacks. Helm and Frost Arrows do not work simultaneously, so alternate.",
+				"mask_of_madness":"Mask of Madness is great for whether you're ahead of behind but it is a doubling-down item and good for teams that can't keep you disabled. Mask of Madness gives you fast attack-speed and an escape to keep your distance.
+
+You'll need to 'orb-walk' to take advantage of Mask of Madness/Frost Arrows."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_trueshot",
+			"3":"drow_ranger_wave_of_silence",
+			"4":"drow_ranger_frost_arrows",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_wave_of_silence",
+			"9":"drow_ranger_wave_of_silence",
+			"10":"drow_ranger_wave_of_silence",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_trueshot",
+			"13":"drow_ranger_trueshot",
+			"14":"drow_ranger_trueshot",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Alternate between leveling Frost Arrows or Precision Aura depending on how your lane is going to work (ganking a lot or just passively farming).",
+				"drow_ranger_wave_of_silence":"Silence's offers a nice knockback to keep foes minimally back and allows you to create decent space for you to kite and trail foes.",
+				"drow_ranger_trueshot":"We max this third as its increments are generally not as enticing as the Silence. This is also a great way to figure if enemies are nearby as the passive vanishes when enemies get too near. Activate its active aspect for pushes with the team."
+		}
+	}
+}

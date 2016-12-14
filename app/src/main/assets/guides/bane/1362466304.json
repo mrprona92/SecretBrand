@@ -1,0 +1,106 @@
+{
+	"Hero":"bane",
+	"Title":"Luminous's Guide to Bane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"clarity",
+				"ward_sentry",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"sobi_mask",
+				"tpscroll",
+				"smoke_of_deceit"
+			],
+			"coreItems":
+			[
+				"soul_ring",
+				"arcane_boots",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"necronomicon",
+				"mekansm",
+				"black_king_bar",
+				"ancient_janggo",
+				"blink",
+				"vladmir",
+				"ultimate_scepter",
+				"heavens_halberd"
+			],
+			"Supportive Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"flying_courier",
+				"dust",
+				"tpscroll",
+				"smoke_of_deceit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Start with either Sentry or Observer. Generally Sentry is preferred since it will allow Bane the options to pull neutrals.",
+				"ward_sentry":"Start with either Sentry or Observer. Generally Sentry is preferred since it will allow Bane the options to pull neutrals.",
+				"force_staff":"Getting all three of these mana items might be a bit overkill, generally two out of three is enough. Take your pick of the two, it mostly comes down to how much gold Bane has and player preference",
+				"soul_ring":"Getting all three of these mana items might be a bit overkill, generally two out of three is enough. Take your pick of the two, it mostly comes down to how much gold Bane has and player preference",
+				"arcane_boots":"Getting all three of these mana items might be a bit overkill, generally two out of three is enough. Take your pick of the two, it mostly comes down to how much gold Bane has and player preference",
+				"smoke_of_deceit":"Smokes are very vital in allowing Bane to get close enough to use Fiend's Grip or Nightmare, both of which has relatively short cast range"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_nightmare",
+			"2":"bane_brain_sap",
+			"3":"bane_brain_sap",
+			"4":"attribute_bonus",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_brain_sap",
+			"8":"bane_enfeeble",
+			"9":"bane_enfeeble",
+			"10":"bane_enfeeble",
+			"11":"bane_fiends_grip",
+			"12":"bane_enfeeble",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"bane_nightmare",
+			"24":"bane_nightmare",
+			"25":"bane_nightmare"
+		},
+		"AbilityTooltips":
+		{
+				"bane_enfeeble":"This is the standard Support Bane build. For further exploitation to the build, as well as solo mid Bane build, check out my Youtube Guide of Bane.",
+				"bane_brain_sap":"This is the standard Support Bane build. For further exploitation to the build, as well as solo mid Bane build, check out my Youtube Guide of Bane.",
+				"bane_nightmare":"This is the standard Support Bane build. For further exploitation to the build, as well as solo mid Bane build, check out my Youtube Guide of Bane.",
+				"bane_fiends_grip":"This is the standard Support Bane build. For further exploitation to the build, as well as solo mid Bane build, check out my Youtube Guide of Bane.",
+				"attribute_bonus":"This is the standard Support Bane build. For further exploitation to the build, as well as solo mid Bane build, check out my Youtube Guide of Bane."
+		}
+	}
+}

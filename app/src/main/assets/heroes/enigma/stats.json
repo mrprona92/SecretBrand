@@ -1,0 +1,2 @@
+{
+    "roles": ["Disabler", "Initiator", "Jungler", "Pusher"],"ID":82,"Patch":"6.79c","Name":"Enigma","Alignment":1,"Movespeed":300,"MaxDmg":48,"MinDmg":42,"HP":473,"Mana":260,"HPRegen":0.25,"ManaRegen":0.01,"Armor":3.96,"Range":500,"ProjectileSpeed":900,"BaseStr":17,"BaseAgi":14,"BaseInt":20,"StrGain":2.1,"AgiGain":1,"IntGain":3.4,"PrimaryStat":2,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.4,"AttackSwing":0.77,"CastPoint":0.3,"CastSwing":0.51,"Turnrate":0.5,"Legs":0}

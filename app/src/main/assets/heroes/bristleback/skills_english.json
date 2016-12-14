@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Viscous Nasal Goo",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Covers a target in snot, causing it to have reduced armor and movement speed.  Multiple casts stack and refresh the duration.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">5</font></b><br/>ARMOR LOSS: <b><font color=\"#ffffff\">1/1.4/1.8/2.2</font></b><br/>BASE MOVEMENT SLOW: <b><font color=\"#ffffff\">20%</font></b><br/>MOVE SLOW PER STACK: <b><font color=\"#ffffff\">3%/6%/9%/12%</font></b><br/>STACK LIMIT: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/30/30/30<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 1.50",
+        "lore": "Having caught a cold while stuck in the snow, Bristleback turns it to his advantage.",
+        "hurl": "Bristleback",
+        "name": "bristleback_viscous_nasal_goo",
+        "youtube":"hYjBnO7iwj4",
+        "id": 0
+    },
+    {
+        "dname": "Quill Spray",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Sprays enemy units with quills dealing damage in an area of effect around Bristleback.  Deals bonus damage for every time a unit was hit by Quill Spray in the last 14 seconds.",
+        "notes": "Quill Spray damage is not reduced by damage block abilities.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">625</font></b><br/>QUILL BASE DAMAGE: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>QUILL STACK DAMAGE: <b><font color=\"#ffffff\">30/32/34/36</font></b><br/>STACK DURATION: <b><font color=\"#ffffff\">14</font></b><br/>MAX DAMAGE: <b><font color=\"#ffffff\">400</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 35/35/35/35<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 3",
+        "lore": "An enforcer\u0027s honor can be a prickly thing.  So can his quills.",
+        "hurl": "Bristleback",
+        "name": "bristleback_quill_spray",
+        "youtube":"9GopSwJPPO8",
+        "id": 1
+    },
+    {
+        "dname": "Bristleback",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Bristleback takes less damage if hit on the sides or rear.  If Bristleback takes 250 damage from the rear, he releases a Quill Spray of the current level.",
+        "notes": "Bristleback\u0027s rear is considered to be within 70 degrees from the back.<br/>Bristleback\u0027s side is considered to be within 110 degrees from the back.",
+        "dmg": "",
+        "attrib": "SIDE DAMAGE REDUCTION: <b><font color=\"#ffffff\">8%/12%/16%/20%</font></b><br/>BACK DAMAGE REDUCTION: <b><font color=\"#ffffff\">16%/24%/32%/40%</font></b>",
+        "cmb": "",
+        "lore": "Turning his back to a fight might be just the thing.",
+        "hurl": "Bristleback",
+        "name": "bristleback_bristleback",
+        "youtube":"0peFZ-iqxRA",
+        "id": 2
+    },
+    {
+        "dname": "Warpath",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Bristleback works himself up into a fury every time he casts a spell, increasing his movement speed and damage.",
+        "notes": "Bristleback\u0027s illusions will receive the bonuses.<br/>Items will not trigger Warpath.",
+        "dmg": "",
+        "attrib": "DAMAGE PER STACK: <b><font color=\"#ffffff\">20/25/30</font></b><br/>MOVEMENT PER STACK: <b><font color=\"#ffffff\">3%/4%/5%</font></b><br/>STACK DURATION: <b><font color=\"#ffffff\">14</font></b><br/>MAX STACKS: <b><font color=\"#ffffff\">5/6/7</font></b>",
+        "cmb": "",
+        "lore": "\u0027Temper, temper,\u0027 his mum always chided.  But in a fight, a temper can come in handy.",
+        "hurl": "Bristleback",
+        "name": "bristleback_warpath",
+        "youtube":"IQsYSrW9-QI",
+        "id": 3
+    }
+]

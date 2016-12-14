@@ -1,0 +1,98 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Jungle at start, fight from mid game.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"ring_of_protection",
+				"tango"
+			],
+			"Rush For ":
+			[
+				"sobi_mask",
+				"ring_of_basilius",
+				"gloves",
+				"hand_of_midas"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"invis_sword",
+				"heart"
+			],
+			"luxury":
+			[
+				"vanguard",
+				"ultimate_scepter",
+				"shivas_guard",
+				"blade_mail",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"You have 0 armor in the beginning, you can get Ring of Protection to solve the problem. In addition, you can get a quick Ring of Basilius too!",
+				"stout_shield":"To tank hits from neutrals.",
+				"gloves":"Get a Glove of Haste as soon as possible so you can kill camps faster than before.",
+				"sobi_mask":"To solve your mana issue, you have to get a quick Sage Mask by devouring neutrals and kill them (Devour gold and 4+ neutrals will do). Use courier to take the item.",
+				"tango":"A set of tango should be enough. Ask your teammate to get yourself a Healing Salve is recommended.",
+				"phase_boots":"If you haven't leave jungle, do it after you get Phase Boot. Phase Boot + Scorched Earth makes your MS faster than everyone else in the game.",
+				"hand_of_midas":"Rushing Hand of Midas helps you solve your XP problems because your level will be lower than almost everyone in the game. You can leave jungle at this point OR after Phase Boot.",
+				"ring_of_basilius":"You got Ring of Basilius by purchasing Sage Mask. ",
+				"ultimate_scepter":"You can also consider getting Aghanim's Scepter before Heart/Vanguard but after Shadow Blade.",
+				"heart":"If you can afford Heart, go for it. Since you have great MS, you might also need to become a tank to right click your enemies.",
+				"black_king_bar":"Don't let magic spells touch you.",
+				"shivas_guard":"I usually get Shiva's Guard after Heart. It's my favorite. Great MS + slow enemies is ridiculous.",
+				"vanguard":"As I said above, if you can't afford Heart, get Vanguard.",
+				"blade_mail":"Blademail is very situational for tanks, especially facing against heroes like Phantom Assassin or Ursa.",
+				"invis_sword":"Shadow Blade is great for Doom. Surprisingly cast Doom on them and beat them to death."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_scorched_earth",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_scorched_earth",
+			"9":"doom_bringer_doom",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Devour the biggest neutral and kill the rest. Use 2 Devours to finish the Furbolg Warriors camp because you will lose a lot of HP by killing them without 2 Devours.",
+				"doom_bringer_scorched_earth":"Max Scorched Earth before spending a skill point on Doom. It solves your HP problem when killing neutrals. This is also why you need Ring of Basilius.",
+				"doom_bringer_lvl_death":"You should know how to find your target.",
+				"doom_bringer_doom":"DOOM IS BACK!!!!!",
+				"attribute_bonus":"Nothing to say on this actually..."
+		}
+	}
+}

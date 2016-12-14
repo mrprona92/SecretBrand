@@ -1,0 +1,99 @@
+{
+	"Hero":"bloodseeker",
+	"Title":"GreyShark.Bloodseeker #2",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"phase_boots",
+				"orb_of_venom",
+				"force_staff",
+				"yasha"
+			],
+			"Mid Game":
+			[
+				"radiance",
+				"sange_and_yasha"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"heart"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"cyclone",
+				"invis_sword",
+				"ancient_janggo"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Можно сделать щиток, но я считаю нужно добавить крипов чтобы хилиться, с топориком легче",
+				"phase_boots":"После обновы это единственный подходящий сапог. Дает урон, легче добавить крипов => хилиться. Очень полезная активка для сикера, так как у нас нету ограничения по скорости.",
+				"cyclone":"Дает скорость",
+				"force_staff":"Собираем даже раньше радика, потому что радик мы будем собирать долго, мы же не можем 20 минут бегать с одним сапогом, а так статы, и крутая активка, поможет засейвиться, догнать, ну и для ульты",
+				"heart":"Я считаю без тараски не обойтись, у нас без неё максимум 2000 хп, для лейта это очень мало",
+				"black_king_bar":"Можно собрать если кто то сильно мешает жить",
+				"radiance":"Забудьте что нужно собирать это до 20 минуты. Мы собираем это не для фарма. Неплохой арт для сикера, с нашей скоростью от ауры никто не уйдет, также поможет против инвизеров, так как мы догоним чувака, накоцаем его, и он уйдет в инвиз, видимость появляется когда у врага меньше 25% ХП, так вот радико",
+				"butterfly":"Полезный арт для ловкача, в лейте даст нам урона, АС, брони, и уклонения",
+				"invis_sword":"Дает скорость, легче гангать",
+				"sange_and_yasha":"Неплохой арт, дает приятно статов, и самое главное замедление и бонус к скорости.",
+				"yasha":"Можно сделать для начала чтобы потом апнуть в сашу и яшу. Даст ловкости и самое главное скорость. С этим будет гораздо проще убивать.",
+				"orb_of_venom":"Можно собрать для начала чтобы замедлять врагов, с нашей пасивкой мы получаем много скорости, мы быстрее врагов, но так мы еще и замедляем, от нас никто не уйдет. Не нужно апать в  скади, просто собираем для замедления. Поверьте кажется что процент замедления маленький но он играет большую роль",
+				"ancient_janggo":"Дает скорость и немного статов
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bloodseeker_blood_bath",
+			"2":"bloodseeker_thirst",
+			"3":"bloodseeker_blood_bath",
+			"4":"bloodseeker_thirst",
+			"5":"bloodseeker_blood_bath",
+			"6":"bloodseeker_rupture",
+			"7":"bloodseeker_blood_bath",
+			"8":"bloodseeker_bloodrage",
+			"9":"bloodseeker_thirst",
+			"10":"bloodseeker_thirst",
+			"11":"bloodseeker_rupture",
+			"12":"bloodseeker_bloodrage",
+			"13":"bloodseeker_bloodrage",
+			"14":"bloodseeker_bloodrage",
+			"15":"attribute_bonus",
+			"16":"bloodseeker_rupture",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,129 @@
+{
+	"Hero":"furion",
+	"Title":"Furions item build of EXTREME building",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"desolator",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"orchid",
+				"greater_crit",
+				"invis_sword",
+				"tpscroll",
+				"monkey_king_bar",
+				"black_king_bar",
+				"mjollnir",
+				"courier",
+				"ward_observer",
+				"heart"
+			],
+			"Early push strat":
+			[
+				"mekansm",
+				"necronomicon",
+				"urn_of_shadows",
+				"medallion_of_courage",
+				"ultimate_scepter"
+			],
+			"If you want to be the worst Furion":
+			[
+				"dagon",
+				"refresher",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"Just enough mana to get through the forest, if you random you could get 3, just in case",
+				"ward_observer":"Same as with courier. You get a lot of money so if your team is awful you should do it.",
+				"courier":"You generally shouldn't be getting this, but if you have terrible people on your team you might want to invest in a courier for the good of everyone.",
+				"tpscroll":"At lower levels when your Teleportation skill is still low, you might want to hold a TP scroll just in case.",
+				"power_treads":"Put them on int unless you need the hp",
+				"hand_of_midas":"The reason you get midas is not for the gold, but the XP bonus. Use it on the big creeps for 2,5 times the XP until you are level 14-16, then use it on the smaller creeps to maximize gold.",
+				"mekansm":"If you are going to 5man push with your team and none else is getting it.",
+				"ring_of_basilius":"Gives armor aura that helps you for the rest of the game. Don't forget to gank and push once you are level 7, all tier 1 towers should be down within minute 15",
+				"urn_of_shadows":"An Urn is always nice to have, no matter the team, so if none else is getting it you should. Fits very good with trying to end things fast.",
+				"sheepstick":"This is a solid item in any game. Use it on the hard carry before he can bkb up, or someone else that deals a lot of damage if he activated bkb early.
+You can also use it in 1v1 situations to basically win any fight with desolator",
+				"orchid":"Sometimes you could get Orchid before Scythe of Vyse (Or even desolator), like if you are fighting Storm Spirit, Antimage, Queen of Pain, Riki etc",
+				"dagon":"Don't ever make Dagon",
+				"necronomicon":"If you want more pushing power early on",
+				"ultimate_scepter":"This is sometimes useful when doing an early push strat, but even then quite useless because it is too expensive to be efficient early on. Consider never ever getting it. You will probably never have use of it but I feel like it should be listed here anyway.",
+				"refresher":"Don't ever make Refresher",
+				"heart":"A VERY rare time you might need health, but this is extremely rare so you should usually never get this. This is typically a sixth slot item (sixth slot as in, you sold your midas already) in really late game scenarios where you want to be more tanky.",
+				"black_king_bar":"You should generally not get this at all, but there is a rare time where it is useful. Furion is a naturally very squishy hero so consider getting this if you deal infinite+1 damage but always gets oneshot before the fight even starts.",
+				"rapier":"Almost never make Rapier, it's ok as a last try at pushing with a dominator creep while the enemy is 5man pushing your base though. Which is quite seldom.",
+				"monkey_king_bar":"Get this if Orchid is useless for you or they have Phantom Assassin/Butterfly carriers. It nullifies their dodge.",
+				"greater_crit":"Offers amazing damage, you cannot crit against towers but it still gives 81 bonus damage and lets you 2-hit a lot of people on the enemy team.
+Never get it before you already finished hex.",
+				"armlet":"Don't ever make Armlet",
+				"invis_sword":" It can be useful at times, since the enemy has to buy dust for you and you can usually escape, but I would recommend going for more stable items that don't get countered just by dust. It doesn't give all that much damage or push power either.",
+				"mjollnir":"You could get this instead of desolator, or together with it, but I would advice against it. Consider getting more useful items like Orchid, Hex, Desolator and Daedalus.",
+				"desolator":"The ultimate pushing item. It gives towers a lot of -armor and increases damage by 60 at a low price. Always get this.
+Keep in mind that if the enemy has an Antimage, Storm Spirit or Queen of Pain that has to be shut down you should get an Orchid first, then Deso as usual if possible.",
+				"medallion_of_courage":"Medallion -armor is nice with sprout, but don't get it unless you are an aggressive ganker (which you should be, since you are playing Furion)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_force_of_nature",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_force_of_nature",
+			"8":"furion_teleportation",
+			"9":"furion_teleportation",
+			"10":"furion_teleportation",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_sprout",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"Get 1 point in sprout at 4 then max it after everything else. Keep in mind that sprout trees are countered by tangos or a quelling blade.",
+				"furion_teleportation":"Remember to snipe low HP people and couriers by teleporting behind them, using sprout, then right clicking until they die. Always be aware of what situation all your allies are in, and teleport in to help whenever possible",
+				"furion_force_of_nature":"In this guide you should max treants first, because if you get all the tier 1's quite early, then you are good to go destroy other towers later, it also gains your team a gold advantage.
+Keep in mind that trees can be used for more than just right clicking towers, for example bodyblocking and damage",
+				"furion_wrath_of_nature":"Don't spam it early game, your carry needs to farm, and that's hard if you keep taking all his creeps",
+				"attribute_bonus":"Stats are magic"
+		}
+	}
+}

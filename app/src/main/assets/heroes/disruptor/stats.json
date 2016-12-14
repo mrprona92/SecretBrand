@@ -1,0 +1,2 @@
+{
+    "roles": ["Nuker", "Support", "Initiator", "Disabler"],"ID":76,"Patch":"6.79c","Name":"Disruptor","Alignment":0,"Movespeed":300,"MaxDmg":53,"MinDmg":49,"HP":511,"Mana":286,"HPRegen":0.25,"ManaRegen":0.01,"Armor":1.1,"Range":600,"ProjectileSpeed":1200,"BaseStr":19,"BaseAgi":15,"BaseInt":22,"StrGain":1.9,"AgiGain":1.4,"IntGain":2.5,"PrimaryStat":2,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.4,"AttackSwing":0.5,"CastPoint":0.05,"CastSwing":1,"Turnrate":0.5,"Legs":4}

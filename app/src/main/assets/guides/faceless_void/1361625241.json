@@ -1,0 +1,95 @@
+{
+	"Hero":"faceless_void",
+	"Title":"FV Hardest carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"slippers"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"lifesteal",
+				"boots"
+			],
+			"Basic Items":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"bfury"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"ultimate_scepter",
+				"butterfly",
+				"monkey_king_bar",
+				"mjollnir"
+			],
+			"Situational":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"lifesteal":"Now you can go jungle!",
+				"hand_of_midas":"For quick farming.",
+				"ultimate_scepter":"Your chronosphere will last longer with scepter. That means you have more time to kill enemies in chronosphere.",
+				"rapier":"Just a Divine Rapier. I hope you know how to use that.",
+				"monkey_king_bar":"More bashes and stuns!",
+				"butterfly":"Your attacks will be much faster. Useful for quickly killing enemies in chronosphere.",
+				"greater_crit":"This is awesome to quickly kill enemies trapped in chronosphere.",
+				"bfury":"With this you can hurt multiple enemies in chronosphere.",
+				"mask_of_madness":"Bigger lifesteal, jungle awaits. Also this is useful for quick killing enemies in chronosphere!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_time_lock",
+			"4":"faceless_void_time_lock",
+			"5":"faceless_void_backtrack",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_lock",
+			"8":"faceless_void_backtrack",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_backtrack",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"This is for escaping or catching up on an enemy.",
+				"faceless_void_backtrack":"Evasion is always useful.",
+				"faceless_void_time_lock":"Sometimes very useful thing.",
+				"faceless_void_chronosphere":"This is what makes Faceless Void probably the hardest carry in the game."
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"Hero":"axe",
+	"Title":"GreyShark.Axe",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"ring_of_protection",
+				"flask",
+				"branches"
+			],
+			"Early Game":
+			[
+				"tranquil_boots",
+				"vanguard",
+				"blink"
+			],
+			"Mid Game":
+			[
+				"blade_mail",
+				"heart"
+			],
+			"Late Game":
+			[
+				"assault",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_counter_helix",
+			"4":"axe_battle_hunger",
+			"5":"axe_counter_helix",
+			"6":"axe_culling_blade",
+			"7":"axe_counter_helix",
+			"8":"axe_berserkers_call",
+			"9":"axe_battle_hunger",
+			"10":"axe_battle_hunger",
+			"11":"axe_culling_blade",
+			"12":"axe_berserkers_call",
+			"13":"axe_berserkers_call",
+			"14":"axe_berserkers_call",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

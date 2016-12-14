@@ -1,0 +1,91 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"Strawbree's BOSS Dragon Knight Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"circlet"
+			],
+			"Laning":
+			[
+				"boots",
+				"soul_ring",
+				"belt_of_strength",
+				"power_treads",
+				"bracer"
+			],
+			"While Pushing T1/2":
+			[
+				"urn_of_shadows",
+				"cloak",
+				"hood_of_defiance"
+			],
+			"Before Pushing T3":
+			[
+				"pipe",
+				"tpscroll"
+			],
+			"Game still hasn`t Finished!?":
+			[
+				"mjollnir",
+				"assault",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"For Those last hits on Creeps!",
+				"power_treads":"Set to Strength until 4 points in Dragon Blood then switch to Agility"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_blood",
+			"2":"dragon_knight_dragon_tail",
+			"3":"dragon_knight_dragon_blood",
+			"4":"dragon_knight_breathe_fire",
+			"5":"dragon_knight_dragon_blood",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_breathe_fire",
+			"8":"dragon_knight_dragon_blood",
+			"9":"dragon_knight_breathe_fire",
+			"10":"dragon_knight_dragon_tail",
+			"11":"dragon_knight_elder_dragon_form",
+			"12":"dragon_knight_breathe_fire",
+			"13":"dragon_knight_dragon_tail",
+			"14":"dragon_knight_dragon_tail",
+			"15":"attribute_bonus",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_breathe_fire":"Listen brah! This spell will sizzle the ass off your enemys with just a click! Use it wisely!",
+				"dragon_knight_dragon_tail":"This is probably the most awesome stun in the game makes some bad ass DOOONG sound like slapping bounty hunter upside the head makes you feel good inside <3
+
+",
+				"dragon_knight_dragon_blood":"Reason for Getting Dragon Blood up First is that this passive ability is a BOSS ability when it comes to early and late game. Getting this spell early means you will be able to laugh in the face of early game rape with your increase in Armor and Health Regen!",
+				"dragon_knight_elder_dragon_form":"Get a point in whenever possible! When your in your Dragon Form you become an unstoppable force of kick ass especially late game as the 3rd level Dragon where you can just freeze the whole teams face and watch them rage quit 1 by 1 !!!"
+		}
+	}
+}

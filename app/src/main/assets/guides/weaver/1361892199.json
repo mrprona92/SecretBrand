@@ -1,0 +1,92 @@
+{
+	"Hero":"weaver",
+	"Title":"H Weaver",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"sideshop start":
+			[
+				"ring_of_basilius",
+				"ring_of_health",
+				"magic_stick"
+			],
+			"followup":
+			[
+				"ring_of_aquila",
+				"pers",
+				"power_treads",
+				"medallion_of_courage",
+				"magic_wand"
+			],
+			"mid game":
+			[
+				"sphere",
+				"lesser_crit"
+			],
+			"late game":
+			[
+				"greater_crit",
+				"heart",
+				"butterfly",
+				"monkey_king_bar",
+				"black_king_bar",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_stick":"OPTIONAL",
+				"magic_wand":"OPTIONAL
+",
+				"travel_boots":"OPTIONAL",
+				"black_king_bar":"OPTIONAL",
+				"monkey_king_bar":"OPTIONAL",
+				"medallion_of_courage":"OPTIONAL"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"attribute_bonus",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_the_swarm",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"weaver_time_lapse",
+			"12":"weaver_geminate_attack",
+			"13":"weaver_geminate_attack",
+			"14":"weaver_geminate_attack",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"weaver_the_swarm",
+			"24":"weaver_the_swarm",
+			"25":"weaver_the_swarm"
+		}
+	}
+}

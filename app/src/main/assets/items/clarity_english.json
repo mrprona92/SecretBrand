@@ -1,0 +1,16 @@
+{
+  "dotaId": "clarity",
+  "id": 38,
+  "img": "clarity_lg.png",
+  "dname": "Clarity",
+  "qual": "consumable",
+  "cost": 50,
+  "desc": "Use: Restores mana to the target unit over time.  If the unit is attacked, the effect is lost.",
+  "notes": "",
+  "attrib": "TOTAL MANA RESTORED: 170<br/>DURATION: 45",
+  "mc": false,
+  "cd": false,
+  "lore": "Clear water that enhances the ability to meditate.",
+  "components": null,
+  "created": false
+}

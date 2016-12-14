@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 30 Intelligence<br/>+ 350 Health<br/>CRIPPLE SLOW: 60%<br/>DURATION: 4",
+  "cd": 10,
+  "components": [
+    "staff_of_wizardry",
+    "staff_of_wizardry",
+    "vitality_booster"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Active: Cripple - Slows the target\u0027s movement speed.",
+  "dname": "Rod of Atos",
+  "dotaId": "rod_of_atos",
+  "mc": 50.0,
+  "img": "rod_of_atos_lg.png",
+  "lore": "Atos, the Lord of Blight, has his essence stored in this deceptively simple wand.",
+  "id": 206,
+  "created": true,
+  "cost": 3100
+}

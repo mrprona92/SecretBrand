@@ -1,0 +1,101 @@
+{
+	"Hero":"visage",
+	"Title":"Visage - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"ward_observer",
+				"courier",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"headdress",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"power_treads",
+				"hood_of_defiance"
+			],
+			"Situacionales":
+			[
+				"ultimate_scepter",
+				"medallion_of_courage",
+				"sheepstick",
+				"shivas_guard",
+				"assault",
+				"heart",
+				"travel_boots"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"tpscroll",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Siempre tiene que haber wards en el mapa",
+				"courier":"Si alguien ha comprado courier, tu compra wards.",
+				"tpscroll":"Lleva siempre tp encima!",
+				"mekansm":"Cuanto antes consigas mekans, mas util es para tu equipo",
+				"medallion_of_courage":"Si tienen enemigos muy tanques o crees que merece la pena consiguelo despues del mek"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_grave_chill",
+			"2":"visage_soul_assumption",
+			"3":"visage_soul_assumption",
+			"4":"visage_gravekeepers_cloak",
+			"5":"visage_soul_assumption",
+			"6":"visage_summon_familiars",
+			"7":"visage_soul_assumption",
+			"8":"visage_gravekeepers_cloak",
+			"9":"visage_gravekeepers_cloak",
+			"10":"visage_gravekeepers_cloak",
+			"11":"visage_summon_familiars",
+			"12":"visage_grave_chill",
+			"13":"visage_grave_chill",
+			"14":"visage_grave_chill",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"visage_grave_chill":"Un muy buen slow y con poco tiempo de reuso",
+				"visage_soul_assumption":"Una de las nukes mejores del juego. Se carga muy rapido en teamfights y puedes usarla incluso mas de una vez. Usalo sobre los objetivos con poca vida para matarlos directamente.",
+				"visage_gravekeepers_cloak":"Pasiva que te ayuda para las teamfights.",
+				"visage_summon_familiars":"Te recomiendo que pongas en un grupo de control los dos familiares y los muevas por el mapa, uses su stun, ganes vision etc."
+		}
+	}
+}

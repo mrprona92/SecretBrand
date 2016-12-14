@@ -1,0 +1,101 @@
+{
+	"Hero":"tidehunter",
+	"Title":"GreyShark.Tidehunter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"blink",
+				"refresher"
+			],
+			"Late Game":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"hood_of_defiance",
+				"pipe",
+				"ancient_janggo",
+				"assault",
+				"blade_mail",
+				"black_king_bar"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Для врыва в замес",
+				"magic_wand":"Всегда помогает",
+				"mekansm":"Даст тайду много нужной брони, очень полезную активку которая поможет выжить нам после врыва в замес и нашим союзникам.",
+				"pipe":"Очень полезно для замесов",
+				"refresher":"Две ульты подряд, много статов, регена.",
+				"assault":"Вместо шиви можно, но шива лучше",
+				"heart":"Поможет дольше жить в замесе",
+				"black_king_bar":"Если нас сразу выносят после ульты, то нужно собирать.",
+				"shivas_guard":"Много брони, крутые ауры и пассивки, активка немало дамажит + с рефрешем много АОЕ урона. Лучше всяких к",
+				"blade_mail":"Вместо шиви можно, но шива лучше",
+				"hood_of_defiance":"Делает из нас неплохого танка + можно апнуть в пайп",
+				"arcane_boots":"Тайду очень не хватает маны, что по началу игры, что под конец ",
+				"ancient_janggo":"Хорошая аура, можно сделать вместо меки, если её собрал уже кто то другой
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_gush",
+			"2":"tidehunter_anchor_smash",
+			"3":"tidehunter_gush",
+			"4":"tidehunter_kraken_shell",
+			"5":"tidehunter_gush",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_gush",
+			"8":"tidehunter_anchor_smash",
+			"9":"tidehunter_anchor_smash",
+			"10":"tidehunter_anchor_smash",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

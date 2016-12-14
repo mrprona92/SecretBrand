@@ -1,0 +1,43 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_shadow_demon",
+	"Title":"Recommended items for Shadow Demon",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"clarity",
+			"branches",
+			"branches",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"null_talisman"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"arcane_boots",
+			"force_staff",
+			"ward_observer",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"pipe",
+			"shivas_guard",
+			"necronomicon_3",
+			"mekansm",
+			"cyclone",
+			"sheepstick",
+			"flying_courier"
+		]
+	}
+}

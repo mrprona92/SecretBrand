@@ -1,0 +1,106 @@
+{
+	"Hero":"mirana",
+	"Title":"6.82 - Standard Mirana (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"slippers",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"maelstrom"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"desolator",
+				"sphere",
+				"manta"
+			],
+			"Extension Items":
+			[
+				"black_king_bar",
+				"monkey_king_bar",
+				"mjollnir"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sphere":"Linken's Sphere is the stats and added protection that you need. Consider it if being conservative with Mirana. Can also be transferred to allies!",
+				"monkey_king_bar":"Solid damage-dealer item to wrap up Mirana's late-game capabilities. Monkey King Bar also works on evasive heroes; giving Mirana further team-fighting essential tools.",
+				"greater_crit":"With the decent attack speed you have and the damage you desperately want. Daedalus is not a bad item, however should your team have sufficient amount of damage output, but need disables; you should consider other items.",
+				"manta":"For pushing lanes, typically you'll want damage with Mirana before getting this such as Desolator or more.",
+				"mjollnir":"Finish up your Maelstrom with Mjollnir giving you the damage and attack speed you'll want for the rest of the game.",
+				"maelstrom":"Maelstrom let's Mirana farm rapidly in-between ganks and to wrap up any leftover items she wants to be getting soon after.",
+				"desolator":"Desolator is situation due to its cost and you not necessarily being the primary damage-dealer. In some cases, you may have a lead to snag this; otherwise focus on what you can afford.",
+				"ancient_janggo":"Drums of Endurance works with Mirana's need for a bit more maneuvrability: damage and attack speed.",
+				"medallion_of_courage":"If you are roaming and want an advantage. Medallion is a decent pick-up if you successfully get the jump on someone.",
+				"ring_of_aquila":"Ring of Aquila helps you get the mana and damage you need to last-hit and roam if you wanted to."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_arrow",
+			"2":"mirana_leap",
+			"3":"mirana_starfall",
+			"4":"mirana_starfall",
+			"5":"mirana_starfall",
+			"6":"mirana_invis",
+			"7":"mirana_starfall",
+			"8":"mirana_arrow",
+			"9":"mirana_arrow",
+			"10":"mirana_arrow",
+			"11":"mirana_invis",
+			"12":"mirana_leap",
+			"13":"mirana_leap",
+			"14":"mirana_leap",
+			"15":"attribute_bonus",
+			"16":"mirana_invis",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"mirana_starfall":"You want to max Starstorm for the damage and ability to nuke down areas fast.  After opening with your Sacred Arrow or Leap, use Starstorm to nail major nuke damage to your enemy.",
+				"mirana_arrow":"Incredible range for Sacred Arrow, just takes a bit of aiming and a sense of timing. Try to combine other stuns and disables with your own arrow like Bane's Nightmare.",
+				"mirana_leap":"Leap is both a great escape and also a great way to get close to your enemies so you can hit them with Starstorm.",
+				"mirana_invis":"It's not unusual to delay Moonlight Shadow until much later. However, feel free to use it both to set up ganks with the global invisibility as well as an escape for allies who get ganked."
+		}
+	}
+}

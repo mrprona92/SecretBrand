@@ -1,0 +1,134 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"Skywrath Mage Support [Lane] Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"ring_of_protection",
+				"circlet",
+				"clarity",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"tpscroll"
+			],
+			"Core against physical dmg":
+			[
+				"magic_wand",
+				"ring_of_basilius",
+				"arcane_boots",
+				"mekansm",
+				"rod_of_atos"
+			],
+			"Core against magical dmg":
+			[
+				"magic_wand",
+				"null_talisman",
+				"power_treads",
+				"veil_of_discord",
+				"dagon"
+			],
+			"Late Game Items":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"orchid",
+				"necronomicon",
+				"skadi"
+			],
+			"luxury":
+			[
+				"ghost",
+				"force_staff",
+				"cyclone",
+				"black_king_bar",
+				"ethereal_blade",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Buy if you are against Physical damage dealers instead of Circlet. Provides +2 armour. You get it at the start of the game because it can only be bought from the base. It can be made into a Ring of Basilius where the remaining items can be purchased at the side shop in lane.",
+				"branches":"This is the most cost-efficient item in the game. It is used early game for a cheap boost of attributes and it can be made into a Magic Wand, Mekansm or sold later on. It provides extra health, mana and damage helping you last hit when your hero is weakest.",
+				"circlet":"Buy if you are against Magical damage dealers instead of Ring of Protection. Provides +2 to all attributes, used to build Null Talisman.",
+				"boots":"Provides +50 movement speed. Can be bought at side shop. A requirement for every hero in every game. This should usually be your first or second item bought after your starting items. Core boots that allow you to build into specific types.",
+				"magic_stick":"Purchase at side shop or base, allows for a quick burst of healing and mana. Is excellent against heroes that spam abilities while in lane. Gains 1 charge (max 10) every time a visible enemy in a 1200 radius uses an active ability. Restores 15 health and mana per charge.",
+				"magic_wand":"Same information as Magic Stick applies combining the 3 Iron Branches provides +3 to all attributes and extends the maximum charges to 15. Certain abilities, such as arrow abilities (Frost arrow, Poison Attack, etc.) and item abilities will not add a charge.",
+				"ghost":"Protects you from being auto-attacked, while preventing you from attacking. Useful for support casters who are squishy letting you kite and reposition in fights. Has no effect if you are or become magic immune. Will dispel physical disables, Ensnare and entangle. Best against melee physical heroes.",
+				"clarity":"Swap with 1 Iron Branch for aggressive plays. Basic mana regeneration item. It takes time to restore mana, stay back while using it since if you are attacked the effect is lost. Abilities that deal HP Removal damage will not break the regeneration. Like Healing salves they can be used on allies.",
+				"flask":"A more powerful consumable to help you stay in the lane and get experience. Use it if you lost more than 400 HP to take full effect of its healing power. Stay back while healing, since if you are attacked, the effect is lost. Like Clarities they can be used on allies.",
+				"tango":"Basic regeneration item. Use it when you are hurt to stay in lane and get experience. If you lost more than 400 HP, fall back and use Healing Salve instead. The regeneration is not broken when damage is taken. As a target tree is removed on cast, it can provide a useful pathway to chase or escape.",
+				"courier":"Buy if you are going to the safe lane or if no one else does. It can carry items to you. Is not affected by most spells, has magic immunity. It gives 175 gold to each enemy player if killed. If it dies it will respawn after 3 minutes, and the items it was carrying will be inaccessible until then.",
+				"tpscroll":"This allows the casting hero to teleport to a friendly building. It is often used as a means of escape against heroes who have no way to cancel the channeling. As a support always walk back to lane from the base; only use your TP when support is actually required for a team-fight, defence or push.",
+				"power_treads":"Provides +30 attack speed, +55 move speed. Boosts a specific attribute by 8 points by switching. Use Intelligence when casting abilities, Agility when healing and Strength when tanking enemy attacks. Primarily you want Strength Mode, as they provide +152 HP.",
+				"null_talisman":"Provides +3 strength, +3 agility, +6 intelligence and +3 damage (working out at +9 damage, +39 mana, +57 HP, +0.4 armour) and is one of the components for Dagon.",
+				"mekansm":"This item should be one of your team’s priorities to get. Multiple instances of Mekansm Aura do not stack. Restore heals 250 HP and gives +2 armour in an area. Healing does not affect any unit that has been healed by Restore in the last 25 seconds. Heal is great for team-fights and sustaining pushes",
+				"ring_of_basilius":"Can be disassembled. Toggle off aura so your creeps don't push the lane. Provides a further 3 armour points, a mana aura ideal for a hero who can spam and +6 damage for better harassment. The aura does not stack with similar bonuses from Assault Cuirass, Vladimir's offering, Ring of Basilius.",
+				"sheepstick":"150% bonus mana regen allows you to spam Arcane Bolt. Hex turns the target unit into a critter for 3.5 seconds disabling damage block, evasion & reducing unit’s base move speed to 100 helping to accurately cast Mystic Flare. Affected unit retains normal health, mana, armour value and armour type.",
+				"orchid":"Further amplifies your damage, buy only if you can’t reach 2700 gold for Mystic Staff. +25 intelligence, +150% mana regen, +30 damage, +30 attack speed. Active silences target unit for 5 seconds & amplifies magical damage taken by 30%. Amplified damage is dealt at the end of the silence duration.",
+				"cyclone":"+10 intelligence, +150% mana regen, +30 move speed. Cyclone sweeps the target in a cyclone for 2.5 seconds and is invulnerable for that time. Can be used to dodge spells or take an enemy out of a fight briefly. The movement speed bonus does not stack with other Scepters of Divinity.",
+				"force_staff":"Allows you to kite physical damage dealers, support your team to escape or initiate and force an enemy out of position. Does not interrupt the target, so forcing someone who is channeling does not cancel it. Can force units over cliffs and through trees (destroying them in the process.)",
+				"dagon":"Synergises with Ancient Seal & Veil of Discord, you’ll deal up to 680 damage instead of 400. Not necessary to upgrade to 2nd level. This is upgradable by buying the recipe again for each level of Dagon. For each level the damage and intelligence increase and the cooldown and mana cost decrease.",
+				"necronomicon":"Necro Warrior & Archer burn mana on attack. Archer provides attack & move speed aura while the Warrior deals damage to the unit that kills it & gives true sight vision at lvl 3.This is upgradable by buying the recipe again for each level of Necro Book. At each lvl the str, int & unit lvls increase.",
+				"black_king_bar":"If you’re against stun heavy line-ups & being focused in team-fights. Grants magic immunity, you will not take any damage that is magical or pure. A magic immune target cannot be targeted by most abilities. Duration & cooldown decrease with each use. Some ultimate abilities can disable through BKB. ",
+				"shivas_guard":"+30 intelligence & +15 armour. Freezing aura reduces attack speed by 30% in a 1000 unit radius. Does not stack with multiple instances of this aura. Arctic Blast emits a wave that does 200 magical damage and slows movement by 40% for 4 seconds. Activating this does not break channelling abilities.",
+				"sphere":"Good item choice if they only have a few spell casters on the enemy team. Provides a great number of stats and a passive ability, Spell block, that blocks most target spells and items once every 20 seconds allowing you focus targets freely and become more survivable.",
+				"skadi":"+25 to all attributes, +250 HP & Mana. Cold Attack reduces move speed by 30% and attack speed by 20% on attack. As a total, Skadi gives 725HP, 575 mana, 25 damage, 25 attack speed, 1 mana regen/sec, 0.75 HP regen/sec and 3.5 armour.",
+				"ethereal_blade":"Upgrade to Ghost Scepter if you have it. Provides stats (above all, +5.7 armour & 1900 HP); A great slow, -80%. When active, target takes 2x your primary attribute & +75 damage. Ethereal units take 40% extra magic damage and cannot attack or be attacked stacking with your amplified damage combo.",
+				"arcane_boots":"Possibly your first purchase, it greatly increases your mana pool. Can be disassembled. Restores 135 mana in a 600 radius every 55 seconds. This is equivalent to 2 mana per second for the user & 2.45 mana per second for allies. Always try to find an ally who needs mana before you replenish your own.",
+				"veil_of_discord":"+12 intelligence, +6HP regen, +6 armour. Similar to Mek this give necessary survivability while effectively increasing your team's damage in fights. Magic Weakness is an AoE target ability with radius 550 amplifying magical damage within this area by 25% for 20 seconds. Cast range of 1000 units.",
+				"rod_of_atos":"Cripple slows the target’s move speed by 60% for 4 seconds. +325 HP, a good alternative to Vanguard for ranged Intelligence heroes needing more health & mana. Synergizes with Concussive Shot & Mystic Flare (target hero will be slowed by 80% for 4 seconds.) Arcane Bolt benefits from +25 intelligence."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_ancient_seal",
+			"4":"skywrath_mage_arcane_bolt",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_concussive_shot",
+			"9":"skywrath_mage_concussive_shot",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_ancient_seal",
+			"13":"skywrath_mage_ancient_seal",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skywrath_mage_arcane_bolt":"Single-target nuke dealing magic damage. Bolt is slow-moving with 500 move speed which can be dodged quite easily by BKB, Manta etc. The projectile gives 325 vision around itself. This scales well into the late game due to his high Int gain & low cooldown. Has long cast animation so try to cancel it",
+				"skywrath_mage_concussive_shot":"Targets the closest hero within 1600 unit range. On impact deals magic damage & slows in a 200 unit AoE 40% for 4 seconds. This has no effect if there are no visible heroes within the range. Provides a long range disable, mostly used for ganks and escapes. Taken at level 1 to partially prevent ganks",
+				"skywrath_mage_ancient_seal":"A single-target ability that silences the target for duration of 3/4/5/6 seconds and causes them to take magical damage amplification of 18/24/30/36% from spells while under the effect. This skill is very similar to the item Orchid providing another disable that synergises with your skillset.",
+				"skywrath_mage_mystic_flare":"Target point ability with a 1200 cast range. Selects only real heroes to divide damage among its targets (illusions and creeps are ignored). Hits 1 unit 600/900/1200, 2 units 300/450/600, 3 units 200/300/400, 4 units 150/225/300, 5 units 120/180/240 damage. Difficult to ultilize requires allies help"
+		}
+	}
+}

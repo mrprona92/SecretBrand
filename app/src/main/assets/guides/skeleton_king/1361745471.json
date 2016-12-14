@@ -1,0 +1,96 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Operation Iraqi Freedom",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"EARLY SHIT":
+			[
+				"power_treads",
+				"magic_wand",
+				"armlet"
+			],
+			"MISSION CRITICAL":
+			[
+				"black_king_bar",
+				"monkey_king_bar",
+				"desolator"
+			],
+			"FOR WHEN SHIT GETS WEIRD":
+			[
+				"mjollnir",
+				"rod_of_atos",
+				"soul_ring",
+				"heavens_halberd"
+			],
+			"*BALLING OUT OF CONTROL ONLY*":
+			[
+				"rapier",
+				"rapier",
+				"greater_crit",
+				"rapier",
+				"radiance",
+				"heart",
+				"abyssal_blade",
+				"sphere",
+				"refresher"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"attribute_bonus",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"attribute_bonus",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_mortal_strike",
+			"8":"skeleton_king_vampiric_aura",
+			"9":"skeleton_king_hellfire_blast",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_mortal_strike",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_mortal_strike",
+			"16":"skeleton_king_reincarnation",
+			"17":"skeleton_king_vampiric_aura",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"Basically like the best stun in the game. I don't care if anybody else has a longer one or it does more damage this is a MOTHERFUCKING SKULL.",
+				"skeleton_king_vampiric_aura":"Basically free vlads.
+
+No Jokes here, this is srs.",
+				"skeleton_king_mortal_strike":"MORTAL STIKE HP SAP WILL MAKE YOU A SEXUAL T-REX
+",
+				"skeleton_king_reincarnation":"Anybody who will try to oppress this Ult is literally hitler.
+DON'T FORGET TO HAVE 140 MANA AT ALL TIMES FOR THIS YOU MORON."
+		}
+	}
+}

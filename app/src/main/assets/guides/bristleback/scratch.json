@@ -1,0 +1,105 @@
+{
+	"Hero":"bristleback",
+	"Title":"Bristleback - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Principio de Partida":
+			[
+				"ring_of_basilius",
+				"stout_shield",
+				"boots",
+				"magic_stick",
+				"ring_of_health"
+			],
+			"Objetos principales":
+			[
+				"power_treads",
+				"magic_wand",
+				"cloak",
+				"tpscroll"
+			],
+			"Situacionales":
+			[
+				"pipe",
+				"assault",
+				"heart",
+				"vladmir",
+				"medallion_of_courage",
+				"shivas_guard",
+				"radiance",
+				"armlet",
+				"mjollnir",
+				"basher",
+				"vanguard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Completa el Anillo de Basilus con la tienda lateral de la linea.",
+				"stout_shield":"Muy util para tener mas resistencia en la linea.",
+				"magic_stick":"Al ser un heroe con el que juegas muy agresivo te tiraran muchos hechizos por lo que es un item genial para ti.",
+				"tpscroll":"Lleva siempre tp encima!",
+				"phase_boots":"You cast spells constantly, which makes the phase active wasted! I would never get phase boots on BristleBack.",
+				"ring_of_health":"Te permite supervivencia casi total en la linea.",
+				"power_treads":"Ponlas en fuerza (rojo)",
+				"ring_of_basilius":"Recuerda apagarlo para no pushear la linea!",
+				"heart":"Genial para tanquear todavia mas.",
+				"blade_mail":"The damage reflected is the damage taken! That means that the nuke to your back is reduced by bristleback and the final damage total is what is reflected, which means not much! Do not get blademail.",
+				"radiance":"Si te sobra el dinero al final! ",
+				"heavens_halberd":"Evasion makes you MUCH tankier, and the hp and +damage from this item is really fantastic. Can also be used to counter a specific carry who does physical damage, like a PA, Syllabear, etc."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_quill_spray",
+			"2":"bristleback_bristleback",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_viscous_nasal_goo",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_bristleback",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_bristleback",
+			"11":"bristleback_warpath",
+			"12":"bristleback_viscous_nasal_goo",
+			"13":"bristleback_viscous_nasal_goo",
+			"14":"bristleback_viscous_nasal_goo",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"Reduce la velocidad de movimiento y armadura del objetivo. Lanzalo sobre un enemigo y persiguelo",
+				"bristleback_quill_spray":"Usa esta habilidad constantemente para stackear dmg en los enemigos y en las teamfights.",
+				"bristleback_bristleback":"Te hacen menos dmg por la espalda, perfecto para escapar !"
+		}
+	}
+}

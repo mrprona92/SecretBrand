@@ -1,0 +1,19 @@
+{
+  "dotaId": "ward_dispenser",
+  "id": 218,
+  "img": "ward_dispenser_lg.png",
+  "dname": "Варды",
+  "qual": "common",
+  "cost": 275,
+  "desc": "Нажмите дважды, чтобы сменить вид выбранного варда.<br/><br/>Использование: устанавливает выбранный вард в указанной местности. Observer Ward дает вашей команде обзор территории. Sentry Ward имеют True Sight — способность, раскрывающую невидимых юнитов и варды, если они попадают в обзор любого союзника.",
+  "notes": "",
+  "attrib": "РАДИУС ОБЗОРА OBSERVER WARD: 1600<br/>ДЛИТЕЛЬНОСТЬ OBSERVER WARD (В МИН.): 7<br/>РАДИУС РАСКРЫТИЯ SENTRY WARD: 850<br/>ДЛИТЕЛЬНОСТЬ SENTRY WARD (В МИН.): 4",
+  "mc": false,
+  "cd": false,
+  "lore": "Новая технология хранения предметов сделала перенос вардов легким как никогда.",
+  "components": [
+    "ward_sentry",
+    "ward_observer"
+  ],
+  "created": true
+}

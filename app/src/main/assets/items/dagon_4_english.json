@@ -1,0 +1,16 @@
+{
+  "attrib": "+ 13/16/19/<font color=\"#ffffff\"><b>22</b></font>/25 Intelligence<br/>+ 3 All Attributes<br/>+ 9 Damage<br/>BURST DAMAGE: 400/500/600/<font color=\"#ffffff\"><b>700</b></font>/800<br/>CAST RANGE: 600/650/700/<font color=\"#ffffff\"><b>750</b></font>/800",
+  "cd": 35.0,
+  "components": ["dagon_3"],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Active: Energy Burst - Burst of damage to target enemy unit. Upgradable.",
+  "dname": "Dagon lvl4",
+  "dotaId": "dagon_4",
+  "mc": "<font color=\"#ffffff\"><b>180</b></font>",
+  "img": "dagon_4_lg.png",
+  "lore": "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",
+  "id": 203,
+  "created": true,
+  "cost": 6470
+}

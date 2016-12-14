@@ -1,0 +1,75 @@
+{
+	"Hero":"abaddon",
+	"Title":"Carry Abaddon, with a twist of Healer.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"blades_of_attack"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"vladmir"
+			],
+			"coreItems":
+			[
+				"sange_and_yasha",
+				"heart"
+			],
+			"luxury":
+			[
+				"lesser_crit",
+				"desolator",
+				"basher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Only if there isnt any support to get it.",
+				"phase_boots":"Good for the extra damage and speed if someone is running away. One boost and hit, and your passive does for the rest of the hunting.",
+				"vladmir":"This is necessary for an easier living since the shield  Vlads will make you heal up easy.",
+				"heart":"Extra damage, health AND regen. Once you get this, you can easily heal allies when they need for a great amount, since you easily recover the HP while out of combat. Given that you have enough mana of course.",
+				"basher":"Not really necessary since you have a lot of move speed and enemy slow. But helps against tough heroes like Naix and Huskar.",
+				"sange_and_yasha":"Attack speed, damage, maim chance. Aah, S&Y."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_frostmourne",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_frostmourne",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_aphotic_shield",
+			"8":"abaddon_frostmourne",
+			"9":"abaddon_frostmourne",
+			"10":"abaddon_death_coil",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_death_coil",
+			"13":"abaddon_death_coil",
+			"14":"abaddon_death_coil",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

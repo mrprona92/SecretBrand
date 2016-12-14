@@ -1,0 +1,101 @@
+{
+	"Hero":"necrolyte",
+	"Title":"6.82 - Standard Necrophos (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"pipe",
+				"dagon",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"heart",
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Prevent enemies from targeting you faster than you can heal with Ghost Scepter. Your auto-attack is negligible compared to your abilities.",
+				"mekansm":"Necrophos is naturally in the midst of battles spreading heals and damage all around him. Mekansm will give the survivability he needs and the heal at key timings to his presence incredibly beneficial.",
+				"sheepstick":"Generally your ultimate is an incredible disable, but there is absolutely nothing wrong with going Scythe of Vyse.",
+				"dagon":"If you want to lead with early-kills, Dagon with your ultimate is an incredible combination. Gain an early-lead for your team with this combination and start tipping team-fights in your favour.",
+				"ultimate_scepter":"This is your late-game changer. Aghanim's Scepter will prevent buy-backs which is huge and greatly appreciated for the team.",
+				"heart":"Heart of Tarrasque makes Necrolyte even tankier and resistant to attacks. Making his aura an even more strong influence and his low-cooldown on his Death Pulse a stronger nuke.",
+				"bloodstone":"If ahead and in a huge lead, this item can further your viability in-game and the on-command death to heal your allies could be greatly appreciated.",
+				"vanguard":"Depending on the enemy's line-up, Crimson Guard can be especially useful to keep fragile magic-users on your team alive for a little bit longer. Definitely an item to consider if your team needs it; however Mekansm should be enough."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_heartstopper_aura",
+			"2":"necrolyte_death_pulse",
+			"3":"necrolyte_sadist",
+			"4":"necrolyte_death_pulse",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"This is your heal and your damage-dealer. Be sure to use it often to not only keep your allies alive, but also to catch cripple your foes.",
+				"necrolyte_heartstopper_aura":"At max level, Heartstopper Aura is incredibly powerful and overlooked by many. At its initial level, it can be enough to prevent some enemies from regenerating their life. During main battles, the longer the fight, the larger the effect this passive ability has.",
+				"necrolyte_sadist":"This should be an even larger reason to deny creeps from enemy heroes. During team-fights, snagging kills should keep you nearly infinitely regenerative.",
+				"necrolyte_reapers_scythe":"Don't forget about the stun on this ultimate ability. At about 45% health remaining on an enemy hero, be sure to cast this. Otherwise, the stun lock is also great if you want your team to catch a fleeing enemy."
+		}
+	}
+}

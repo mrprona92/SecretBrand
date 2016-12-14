@@ -1,0 +1,115 @@
+{
+	"Hero":"windrunner",
+	"Title":"Efficient Solo Offlane Windrunner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game: Offlane":
+			[
+				"tranquil_boots",
+				"sobi_mask",
+				"magic_wand"
+			],
+			"Early Game: Core Items":
+			[
+				"phase_boots",
+				"ring_of_basilius",
+				"ring_of_regen"
+			],
+			"Mid Game: Choice (Or get both)":
+			[
+				"force_staff",
+				"mekansm"
+			],
+			"Mid/Late Game: Staple":
+			[
+				"sheepstick",
+				"invis_sword"
+			],
+			"Mid/Late Game: Situational":
+			[
+				"shivas_guard",
+				"rod_of_atos",
+				"pipe",
+				"sphere",
+				"blink",
+				"cyclone",
+				"greater_crit",
+				"monkey_king_bar",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Ultimate Mobility! (Not recommended for Beginners)",
+				"ring_of_protection":"Ring of Protection is one of the best defensive items for its cost and can be used to acquire Tranquil Boots, which are your essential early game item. You can delay this Ring of Protection and buy Observer Wards instead if you are aiming to block the enemy creep camps.",
+				"branches":"Ironwood Branches are the most cost-efficient item in the whole game and give the most stats for gold spent.  Especially as a Solo Offlaner who has the hardest lane in the game you want to get as many of them as possible for both strong defense and offense early on.",
+				"ring_of_regen":"You will get this Ring of Regeneration from Disassembling your Tranquil Boots. Use it to build a Forcestaff or a Headdress which you later turn into a Mekansm. (See 'Choice')",
+				"sobi_mask":"Sage's Mask in combination with Tranquil Boots provides excellent HP+Mana Regeneration for the early  Offlane phase of your game. After disassembling your  Tranquil Boots (see Core Items) the Sage's Mask automatically turns into the Ring of Basilius because of the (then leftover) Ring of Protection.",
+				"magic_wand":"Acquire a Magic Wand to make use of your Ironwood Branches and free up your Inventory. It is one of the most versatile items in the game in many ways, even past the early game.",
+				"tango":"2 Sets of Tangos will provide the Regeneration needed until you have enough Gold to acquire your Trainquil Boots. If you are in a 1v2 or 1v3 situation early on, focus on getting experience and do not be too offensive as an Offlaner.",
+				"phase_boots":"Disassemble your Tranquil Boots after you have acquired 2 Blades of Attack to build Phase Boots. Phase Boots are a strong item for Windrunner to position herself for Shackle Shots and avoid to get blocked from other Units.(Use the Phase Boots active after Windrun/Forcestaff or the Buff gets removed)",
+				"mekansm":"Mekansm is an overall good item that every team should get during the midgame, and the heal will not only help your teammates but also get you out of many dangerous situations. If none of your teammates is purchasing a Mekansm, it is a good idea to go for it!",
+				"ring_of_basilius":"Use the Ring of Protection that you get from Disassembling your Tranquil Boots to build a Ring of Basilius. Ring of Basilius is a very cheap and cost-effective early game item and will help managing your mana pool as well as provide auras in team fights.",
+				"pipe":"Pipe of Insight is one of the strongest teamfight items, so if you have a team that wants to push towers fast and end the game early, you should go for this item! The Pipe of Insight effect does not stack, so make sure none of your teammates is building it as well.",
+				"sheepstick":"Scythe of Vyse is one of the best late game items for any Intelligence hero, and Windrunner is no exception. If you think that you have enough time to afford it before the game ends, you should go for it!",
+				"cyclone":"A very versatile item in many respects, but relatively weak stats gain for its cost.",
+				"force_staff":"Forcestaff is a very good item, because it provides a lot of mobility and increases WR's main stat Intelligence and therefore damage and mana pool. Mobility is essential for Windrunner because almost all of her skills require good positioning in a fight.",
+				"black_king_bar":"Black King Bar (BKB) is not an item that you should get very often on Windrunner, but it can be very useful against certain enemy team compositions that rely on a lot of magical damage.",
+				"shivas_guard":"Shiva's Guard is a very good item for Windrunner, not only because of the stats, but especially against enemy teams that rely on a lot of Attackspeed (most Agility carries do).",
+				"sphere":"Linken's Sphere is a very good defensive item against specific heroes, especially in many late game situations. Read other guides to learn in which situations buying it is a good idea!",
+				"monkey_king_bar":"Monkey King Bar (MKB) adds a lot of damage just like Daedalus, but the difference is that it is a very good item against heroes with evasion. If an enemy hero has evasion (Phantom Assassin, Brewmaster etc.) or acquired a Butterfly, you should go for MKB instead of Daedalus.",
+				"greater_crit":"Daedalus adds a lot of damage, but does not increase your HP or mana pool. Therefore it is usually not the best choice for Windrunner, but if you think that your Team lacks auto attack damage you can go for it.",
+				"invis_sword":"Shadowblade is an exceptional Mid Game item for Windrunner because it will allow you to get out of a lot of hairy situations as well as position yourself while invisible to get perfect Shackle Shots! It will also increase your auto attack damage significantly.",
+				"rod_of_atos":"Rod of Atos is a strong Mid Game item and provides exceptional stats for its cost, as well as an active effect that is very useful in fights. It is overall not as good as a Scythe of Vyse, but a lot cheaper and a good Mid Game item.",
+				"tranquil_boots":"You want to get your Tranquil Boots as soon as possible from the Sideshop. Both the speed bonus and the active effect are unmatched in the early game and will give you enough endurance to stay on your lane long enough. Disassemble them later on.
+(Right Click -> Disassemble)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_windrun",
+			"12":"windrunner_windrun",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"windrunner_focusfire",
+			"24":"windrunner_focusfire",
+			"25":"windrunner_focusfire"
+		}
+	}
+}

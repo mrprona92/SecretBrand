@@ -1,0 +1,109 @@
+{
+	"Hero":"lycan",
+	"Title":"6.82 - Standard Lycan (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"sobi_mask",
+				"ring_of_protection",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"medallion_of_courage",
+				"power_treads",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"necronomicon",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"basher",
+				"desolator",
+				"assault",
+				"abyssal_blade"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"This will make a Ring of Basilius",
+				"sobi_mask":"First Sobi Mask is for your Ring of Basilius to eventually make Vladmir's Offering.
+
+The second Sobi Mask is to allow you to comfortably summon wolves and start building Medallion of Courage for an easy Roshan fight and further ganking capabilities.",
+				"vladmir":"You will need this item to defeat Roshan.
+
+You are getting Vlads before boots due to how imperative to pick it up. Also, with your ultimately, you are at maximum movement speed.",
+				"necronomicon":"Massive damage in combination with your Feral Impulse and helps with your pushing power. Great if you want to avoid team-fights and just want to push, push, push",
+				"assault":"The aura Assault Cuirass offers works alongside your wolves as well as the debuff aura with Desolator.",
+				"black_king_bar":"Since Slows cannot stop you when you are using your ultimate, Black King Bar is to prevent everything else from defeating you!",
+				"basher":"When chasing enemies with your ultimate, stunning enemies for extra damage is not something you want to skip.",
+				"desolator":"The extra armor reduction and damage works great with your wolves damage. Definitely worth the price and a near-core item for Lycanthrope.",
+				"medallion_of_courage":"We get Medallion of Courage for the mana regeneration and soon after, ganking potential as the decrease of armor will help with roshan and dealing damage to enemies you want to jump.",
+				"heavens_halberd":"Get Heaven's Halberd if there is an enemy carry you need to disable. The dodge is even especially more desired for Lycan as his survivability can be a bit iffy."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"Wolves are your best friend and like friends, you'll need to rely on one another to jungle the forest effectively. Be sure to effectively tank and alternate damage taken between your hero and wolves.",
+				"lycan_howl":"Howl has a low cooldown and globally affects all allies. Take advantage of this during key moments, but be careful about having enough mana for your ultimate.",
+				"lycan_feral_impulse":"We max Feral Impulse because of its passive and 0 mana cost to let you farm in the jungle (while saving your farm for your Summon Wolves).",
+				"lycan_shapeshift":"Your ultimate prevents you from being slowed. So be wary of only stuns or disables such as Halberd's or Decrepify.
+
+There is a cast time, so use this ability preemptively if you see foes coming or want to chase down someone you know will run."
+		}
+	}
+}

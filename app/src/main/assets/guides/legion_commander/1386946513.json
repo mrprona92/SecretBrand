@@ -1,0 +1,103 @@
+{
+	"Hero":"legion_commander",
+	"Title":"Лесной Legion Commander",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"В лесу":
+			[
+				"armlet",
+				"power_treads"
+			],
+			"После леса(Мид гейм)":
+			[
+				"maelstrom",
+				"assault"
+			],
+			"coreItems":
+			[
+				"mjollnir",
+				"desolator",
+				"abyssal_blade"
+			],
+			"luxury":
+			[
+				"blink",
+				"monkey_king_bar",
+				"satanic",
+				"black_king_bar",
+				"sange_and_yasha",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"этот кинжал удобен для инициации.",
+				"quelling_blade":"Просто поможет наносить больше урона.",
+				"stout_shield":"Поможет для блокировки урона от крипов.",
+				"tango":"Используйте танго на ранних уровнях, если сильно проседаете по ХП.",
+				"power_treads":"Костыль должен быть включен на силу.",
+				"assault":"Кирасса снижает броню противника, а это нам поможет в \"Дуэли\".",
+				"black_king_bar":"Покупается, если в противоположной команде много станов.",
+				"rapier":"Просто рапира.",
+				"monkey_king_bar":"Если в противоположной команде есть кери с бабочкой или Phantom assassin.",
+				"armlet":"части этого артефакта помогут вам в лесу.",
+				"sange_and_yasha":"Саша и Яша, отличный предмет, если не хватает скорости, чтобы догнать противника.",
+				"satanic":"Если вам не хватает отжора в файте, вам потребуется заменить Desolator на Satanic.",
+				"mjollnir":"Грейди Maelstorm в Mjolnir, что повысит на скорость атаки.",
+				"maelstrom":"Поможет нам вносить больше ДПС`а в драке.",
+				"desolator":"Снижает броню противника.",
+				"abyssal_blade":"Поможет зафиксировать врага."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"legion_commander_moment_of_courage",
+			"2":"legion_commander_press_the_attack",
+			"3":"legion_commander_moment_of_courage",
+			"4":"legion_commander_press_the_attack",
+			"5":"legion_commander_moment_of_courage",
+			"6":"legion_commander_duel",
+			"7":"legion_commander_moment_of_courage",
+			"8":"legion_commander_overwhelming_odds",
+			"9":"legion_commander_overwhelming_odds",
+			"10":"legion_commander_overwhelming_odds",
+			"11":"legion_commander_duel",
+			"12":"legion_commander_overwhelming_odds",
+			"13":"legion_commander_press_the_attack",
+			"14":"legion_commander_press_the_attack",
+			"15":"attribute_bonus",
+			"16":"legion_commander_duel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"legion_commander_overwhelming_odds":"Чтобы нанести как можно больше урона, используйте его в толпу врагов.",
+				"legion_commander_press_the_attack":"Поможет нам в каче в лесу при помощи хила, позже можно будет хилить союзников либо повышать себе скорость атаки.",
+				"legion_commander_moment_of_courage":"С помошью данного скила мы будем фармить лес, благодаря вампиризму.",
+				"legion_commander_duel":"Используйте ультимейт начальных уровнях, чтобы добивать или просто дизейблить врагов. Далее вы будите убивать всех за время действия ультимейта."
+		}
+	}
+}

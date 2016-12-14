@@ -1,0 +1,107 @@
+{
+	"Hero":"dark_seer",
+	"Title":"GOTTA GO FAST SEER",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"boots",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"soul_ring",
+				"talisman_of_evasion"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"sphere",
+				"energy_booster",
+				"blade_mail",
+				"travel_boots",
+				"yasha",
+				"mask_of_madness",
+				"blink"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"manta",
+				"bottle"
+			],
+			"Ignore these Items":
+			[
+				"shadow_amulet",
+				"ghost",
+				"refresher",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"USE THE BLINK DAGGER TO MOVE AROUND FASTER. CHAOS CONTROL EVERYONE AROUND YOU!",
+				"boots":"GET BOOTS FIRST. THEY WILL PROVIDE MAXIMUM SPEEDIFICATION THAT WILL HELP YOU THROUGHOUT THE GAME.",
+				"talisman_of_evasion":"IF YOU TAKE DAMAGE YOU'LL SLOW DOWN. GET A TALISMAN OF EVASION TO STOP THAT FROM HAPPENING. I RECOMMEND GETTING 4 SO YOU CAN HAVE 100% EVASION.",
+				"ghost":"MAKES YOU MOVE 40% SLOWER. THAT IS BAD. IF YOU'RE HAVING TRABBL WITH PHYSICAL HITTERS. TRY GOING FASTER. EVEN THAT BITCH LINA CAN CATCH YOU WITH THIS.",
+				"clarity":"USE CLARITIES TO REFILL YOU'RE BOOST GAUGE.",
+				"flask":"NOT EVEN PURE SPEED CAN PROTECT YOU AGAINST ALL OF ROBUTNIK'S ATTACKS. GOTTA HEAL FAST.",
+				"bottle":"BUTTLES (HUEHUE) CAN HOLD EMMEROWDS THAT GIVE YOU COOL POWERS. MOST OF THEM, LIKE INVISIBILITY AND DOUBLE DAMAGE SUCK. SOMETIMES YOU\"LL FIND A HASTE EMMEROWD THOUGH. HASTE IS REALLY GOOD. GUESS WHAT HASTE MAKES YOU DO? IT MAKES YOU GO FAST!!!",
+				"travel_boots":"BECAUSE YOU CAN NEVER HAVE ENOUGH SPEED.",
+				"phase_boots":"PHASE BOOTS ARE THE FASTESTEST BOOTS YOU CAN GET BESIDES TRAVELS WHICH ARE STUPID EXPENSIVE. THEY ALSO IMPROVE YOUR HOMING ATTACK DAMAGE.",
+				"energy_booster":"SEE: LINKENS SPHERE.",
+				"force_staff":"THERE'S A GLITCH IN DOTA THAT PREVENTS DARK SEER FROM JUMPING OVER CLIFFS. THIS WILL REMEDY THAT. PLEASE TELL GABE TO FIX THIS GLITCH.",
+				"refresher":"WALL OF REPLICA IS A BAD SKILL. IT DOESN\"T SCALE WITH YOUR VELOCICLICAL PROGRESSINATION. DON'T BOTHER WITH THIS ITEM.",
+				"black_king_bar":"SOMETIMES BADNIKS LIKE PHANTOM LANCER AND RIKIMALU WILL USE THAT DIFFUSAL BLADE ON YOU TO SLOW YOU DOWN, AND SLOWING DOWN IS THE OPPOSITE OF GOING FAST, AND YOU GOTTA GO FAST OR ELSE YOU'LL LOSE THE GAME! BKB REMOVES THE SLOWING DOWN AND LETS YOU GO FAST AGAIN.",
+				"sphere":"CUZ IT LOOKS A BIT LIKE SANIC DOING A SPIN DASH HUE HUE.",
+				"blade_mail":"BLADEMAIL IMPROVES THE DAMAGE OF YOUR SPIN DASH BY REFLECTING ENEMY DAMAGE. WOWZERS.",
+				"manta":"YOU'LL END UP BEING SO FAST YOUR TEAM MATES WON'T BE ABLE TO KEEP UP. THIS MIGHT MAKE YOU LONELY, SO CONSIDER GETTING A MANTA STYLE IF YOU WANT SOME FAST FRIENDS. ALSO GIVES YOU MORE SPEED!",
+				"yasha":"GIVES YOU MORE SPEED! THE OTHER STATS ARE KINDA BAD THOUGH.",
+				"mask_of_madness":"GIVES YOU ADDITIONAL MOVEMENT SPEED WHEN ACTIVATED. YOU WILL HURT MORE WHEN YOU TAKE DAMAGE, SO MAKE SURE YOU'RE GOING FAST ENOUGH THAT THE ENEMY CAN'T HURT YOU.",
+				"ethereal_blade":"THIS UPGRADES PISS SCEPTER SO YOU CAN AFFECT YOUR ENEMY TOO. THIS IS KINDA LIKE CHAOS CONTROL, BUT NOT. YOU'LL STILL BE MOVING SLOW AND THAT'S ALL THAT MATTERS. THERE\"S A SIMPLE FORMULA IN DETERMINING WHAT TO GET FOR DARK SEER. DARK SEER + SPEED = GOOD.",
+				"soul_ring":"TURN SOME LIFE POWER INTO BOOST GAUGE. SEER SHOULDN'T BE TAKING DAMAGE IN THE FIRST PLACE AS LONG AS YOU HAVE CHAOS SHIELD UP.",
+				"ancient_janggo":"DRUMS CAN HELP YOU GO FASTER. REMEMBER TO ALWAYS USE USE THE DRUMS WHEN THEY'RE ON COOLDOWN AND TO RE-BUY THE RECIPE WHEN YOU CAN.",
+				"shadow_amulet":"REQUIRES YOU TO STAND STILL. JESUS CHRIST HOW HORRIFYING"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_surge",
+			"2":"dark_seer_ion_shell",
+			"3":"dark_seer_surge",
+			"4":"dark_seer_ion_shell",
+			"5":"dark_seer_surge",
+			"6":"dark_seer_ion_shell",
+			"7":"dark_seer_surge",
+			"8":"dark_seer_ion_shell",
+			"9":"dark_seer_wall_of_replica",
+			"10":"dark_seer_vacuum",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_vacuum",
+			"13":"dark_seer_vacuum",
+			"14":"dark_seer_vacuum",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "dotaId": "ward_dispenser",
+  "id": 218,
+  "img": "ward_dispenser_lg.png",
+  "dname": "Варды",
+  "qual": "common",
+  "cost": 275,
+  "desc": "Double-Click to switch the currently active ward.<br/><br/>Use: Plant the currently active ward to keep watch over an area. Observer Wards reveal their surrounding area to your team. Sentry Wards grant True Sight, the ability to see invisible enemy units and wards, to any existing allied vision within its range.",
+  "notes": "",
+  "attrib": "OBSERVER VISION RANGE: 1600<br/>OBSERVER DURATION (MINUTES): 7<br/>SENTRY TRUE SIGHT RANGE: 850<br/>SENTRY DURATION (MINUTES): 4",
+  "mc": false,
+  "cd": false,
+  "lore": "Advancements in stacking efficiency have made wards easier to carry than ever.",
+  "components": [
+    "ward_sentry",
+    "ward_observer"
+  ],
+  "created": true
+}

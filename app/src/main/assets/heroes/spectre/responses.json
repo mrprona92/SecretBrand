@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Spectre! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Spec_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " From another dimension, a world beyond. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Spec_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What is this place? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Spec_spawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I have come here a stranger, lost. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Spec_spawn_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Drawing First Blood",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " First Blood! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8e/Spec_firstblood_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I go. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Spec_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As good as any. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Spec_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Done. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Spec_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Why not? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Spec_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Somewhere else. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Spec_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Where is the end? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Spec_move_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Spec_move_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Try this. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Spec_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " \u0027Tis valid. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Spec_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A wrongness! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Spec_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Take action! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Spec_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I will it! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Spec_attack_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Into disorder! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Spec_cast_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Clear away! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0e/Spec_cast_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Haunt",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027ll stand by you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Spec_ability_haunt_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So few of you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/22/Spec_ability_haunt_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Multiplicities. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Spec_ability_haunt_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Closer to the origin! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Spec_level_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Soon I will ascend! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Spec_level_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Closer to Ascension! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Spec_level_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Spec_level_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Spec_level_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Spec_level_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Spec_level_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Miserable and ignorant. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Spec_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Can no one understand me? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Spec_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You are inert. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Spec_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You speak not the speech of the Ascendants. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Spec_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I merely wanted your help. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/69/Spec_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Spec_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Spec_kill_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What is this? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Spec_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What have you given me? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f0/Spec_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You make no sense. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Spec_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What is it they want? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/93/Spec_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Taken. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Spec_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Spec_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Spec_lasthit_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Spec_lasthit_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " (When the audio is reversed, \u0027That\u0027s a good idea. Okay, one more time please.\u0027) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Spec_lasthit_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " (When the audio is reversed, \u0027Twice-like.\u0027) ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Spec_lasthit_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Spec_lasthit_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Spec_lasthit_12.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Calling a Missing Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing Top ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Spec_missing_lane_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing Middle ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Spec_missing_lane_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing Bottom ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Spec_missing_lane_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " How is this possible? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Spec_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I wish to go home! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f9/Spec_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I have seen enough! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Spec_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No one understands. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Spec_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am a stranger here. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c1/Spec_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What did I do wrong? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Spec_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I do not understand. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Spec_death_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning Quickly",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " That won\u0027t work on me! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Spec_fastres_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " How come I here? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Spec_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This is all wrong. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Spec_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I remember a world quite different from this. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f1/Spec_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What strange properties this world has. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Spec_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I had hoped to Ascend, but it has not transpired. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Spec_respawn_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rare",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Among the Transcendencies, you would be thought ignoble. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Spec_rare_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This is well. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Spec_purch_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Scepter of Ascendant power. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Spec_scepter_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " The weapon that blinks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Spec_blink_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I will bide my time. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/ba/Spec_bottle_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Wrong. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Spec_deny_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Disordered. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Spec_deny_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You misunderstand. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Spec_deny_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Spec_deny_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b4/Spec_deny_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Spec_deny_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Spec_deny_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c6/Spec_deny_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Spec_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I will never see my realm again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Spec_lose_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Spec_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " At last I can go home! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Spec_win_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Spec_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immutable energies. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Spec_immort_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Spec_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Swift to transcend. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Spec_haste_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Spec_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " A useful skill. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Spec_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Spec_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Echoes of Ascendancy. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Spec_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Spec_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " All is disordered. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7f/Spec_illus_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Spec_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I wish to pass unnoticed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Spec_invis_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " This is well. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Spec_purch_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Spec_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Spec_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Spec_notyet_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Spec_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Spec_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/28/Spec_nomana_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/da/Spec_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " With gratitude. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Spec_thanks_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming Under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m under attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Spec_underattack_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The fullness of our victory bag is inevitable! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ea/Spec_inthebag_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shitty Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shitty wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Spec_shitwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Crummy Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Crummy wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Spec_crumwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pain",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pain ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Spec_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pain ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Spec_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pain ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1f/Spec_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pain ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Spec_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pain ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d4/Spec_pain_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pain ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Spec_pain_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Anger ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Spec_anger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Anger ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Spec_anger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Anger ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Spec_anger_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pleasure ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Spec_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pleasure ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/15/Spec_happy_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Pleasure ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Spec_happy_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Spec_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0c/Spec_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Spec_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Spec_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/14/Spec_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Spec_laugh_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Spec_laugh_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Spec_laugh_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Spec_laugh_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Spec_laugh_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Spec_laugh_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Spec_laugh_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Laughter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5b/Spec_laugh_13.mp3"
+      }
+    ]
+  }
+]

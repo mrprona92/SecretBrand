@@ -1,0 +1,150 @@
+{
+	"Hero":"wisp",
+	"Title":"Hard Supporing With Io (Updated to 6.79)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"urn_of_shadows",
+				"mekansm"
+			],
+			"Late Game (Luxury)":
+			[
+				"heavens_halberd",
+				"bloodstone",
+				"heart",
+				"hood_of_defiance",
+				"pipe"
+			],
+			"Situational":
+			[
+				"magic_wand",
+				"soul_ring",
+				"arcane_boots",
+				"power_treads",
+				"bottle",
+				"ghost",
+				"hand_of_midas",
+				"sheepstick",
+				"gem",
+				"ward_observer",
+				"ward_sentry",
+				"courier"
+			],
+			"Do Not Buy":
+			[
+				"blade_mail",
+				"dagon",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"For the extra tankyness in the early game, plus 6 damage more for harrasing enemies during laning. Builds into an Urn.",
+				"branches":"Never underestimate the trusty Branch, Most efficient cost to benifit item in the game.",
+				"boots":"Not nessecarily the first thing to buy, but still a must. Your tether will keep you moving decently fast, but the boots are a must both to prepare for the mid-game and to upgrade to Tranquil Boots.",
+				"gem":"If the team needs one, and you got your Mek already, by all means, buy it. Don't carry it though... you're usually target number one.",
+				"magic_wand":"It's just so cost effective, gives some cheap stats and survivability. Without question get this if you're having trouble or dying.",
+				"ghost":"You will very often need this. You're target number one if the enemy knows what they're doing, so unless the enemy is mostly spell-oriented (Carry Timber, Carry Bristle, Tekkies, etc) than pick this up as soon as it becomes an issue.",
+				"clarity":"Have your laning partner(s) toss you any Tango, Salves or Bottles they have. Using Overcharge, the item, then Tethering them will give them 1.5 times the benifit, and allow them to take damage while you use it.",
+				"flask":"Have your laning partner(s) toss you any Tango, Salves or Bottles they have. Using Overcharge, the item, then Tethering them will give them 1.5 times the benifit, and allow them to take damage while you use it.",
+				"bottle":"Again, if your partner gets this, get him to toss it to you when he needs healing. If you aren't damaged, use Overcharge, and that way you'll both get healing and mana, plus he/she'll get 1.5 times the normal regen.
+Should be noted, under the rare dual-lane mid Io, rush this.",
+				"ward_observer":"Please hope that someone else buys these... being able to stack regen can give your team a super-carry that's nearly untouchable. But if it should come to it, pick these up, if only because, in the end, let's face it, your team needs them, and you're still useful without farm. Unlike your carry.",
+				"ward_sentry":"Again, the woes of the solo support may demand that you buy wards instead of items. Make no mistake, these are not something you should only buy if the enemy has invis. Dewarding is NOT optional.",
+				"tango":"Have your laning partner(s) toss you any Tango, Salves or Bottles they have. Using Overcharge, the item, then Tethering them will give them 1.5 times the benifit, and allow them to take damage while you use it.",
+				"courier":"If no one else gets it, buy it at the start, and get another glove when you're getting the urn.",
+				"tpscroll":"Mostly useless, but CAN be nessecary sometimes. Just don't go throwing your money at them, you have Relocate if you only need to be in and out, plus Tether to buff up your move speed, AND the Tranq Boots are one of the fastest out there.",
+				"power_treads":"If you get a heart, have a hard carry that really doesn't need the regen, or have allies that seriously buff your damage through auras, consider this a legitimate option. Tankiness is nice, tread swapping means your spirits and tether are cheaper, plus you may find yourself with some decent damage.",
+				"hand_of_midas":"If the enemy has a very farm-based lineup, and your team has a very farm based lineup... well, than getting this might be good. Remember, it isn't for the money... it's for the xp. The money gain is marginal... the xp is huge.
+But that's only a might. Almost always ignore this.",
+				"mekansm":"Classic nessecity. Using it transfers the regen you recieve over the Tether too, for 625 health total over the Tether. Also helps with your terrible armour.",
+				"buckler":"If you have a passive time, get Headress first. Otherwise, always get the buckler first. The armour bonus is great on you, and the active is too great to pass up in a teamfight.",
+				"ring_of_basilius":"Disassemble when buying up the Tranquil Boots. The Sage's mask will be used in the Urn. If you find yourself picking up a Tranq first, ignore this item and just grab the sage's mask.",
+				"pipe":"If your team needs the spell protection; both provides support to the whole team, and provides more tether regen.",
+				"urn_of_shadows":"Get it before the Mek, it'll keep your Tether running constantly in an emergency; especially if your carry is hauling you around to get ganks.",
+				"headdress":"Reliable, and keeps down your mana use by healing via aura, not requiring a tether, although that certainly is still an option to speed things up; though I recommend you wait until you get your Tranqs up to start tethering for PASSIVE heal. Salves and tangos from you both should last the early game.",
+				"sheepstick":"Well, if the game lasts that long... you can get it. Sometimes, you just don't NEED a heart, and your team could use a lockdown on the enemy carry more than the health for your own.",
+				"force_staff":"If your team needs one, get it if no one else is. It's just too useful in a pinch, both to save allies and to kill enemies. Plus the added regen is nice.",
+				"dagon":"Please. Do youself a favour. Don`t get a Dagon. You aren`t an int hero anyways. Protect your late game interests by keeping yourself as far as possible away from flat damage items.",
+				"refresher":"Contrary to popular folklore, does NOT give you a second tether XD",
+				"heart":"Such a luxury item, you probably will never get it. But if you do... sell your tranqs, buy treads. The extra health pool will stack with your heart regen, and once you have this, your right-clicks are often those of a semi-carry, especially if you went for a Halberd.",
+				"bloodstone":"If you find yourself being ganked down ingame, pick up the Heart or the PMH first, maybe not at all if the game comes too close and the stacks will get blown off.
+Should ONLY be bought if you got a serious reason to spam mana at your allies.",
+				"blade_mail":"The fact is, at the end of the day, if you're getting focused, you're going to die. You just don't have the healthpool for this to be cost effective... and even if you have a heart up, you still have other items more valuable you can get your team, like a Force Staff or a Pipe of Insight.",
+				"hood_of_defiance":"Start with a Ring of Health, then a Ring of Regen. The Cloak and last ring after. Pick this up if you're under heavy spell fire.",
+				"invis_sword":"Yes, when invis your tether is not revealed. No, that doesn't mean this is a good idea. That's 700 gold more expensive than a Mek, and even once you have one, that money could be better spent building up towards a heart. You aren't a carry.",
+				"soul_ring":"Definitely an item not to forget, but although it's incredibly useful, (mana doesn't go away over the tether, 1.5 times to your tether)  if you're laning up with a dps carry, like Alchemist, Drow, Spectre, etc, and not someone who uses a lot of abilities, Tiny, Chaos Knight, Gyro, ignore it.",
+				"arcane_boots":"If you have a carry or semi carry that needs some burst mana to keep his spells spamming (Storm, Timber, etc), or find yourself fighting alot and needing mana for Spirits, than picking up Mana Boots instead of Tranqs could be very advisable, given the tether boost.",
+				"orb_of_venom":"VERY useful, often, for your Carry to get if they've got an open slot; the slow helps get the Tether in.",
+				"heavens_halberd":"Grab this if you either feel regen is not as needed for your carry, such as a carry that naturally will die easily, or you find yourself needing a lot of tankyness. The Poor Man`s Heart is the most cost-effective tank item in the game.
+Oh, and the active is nice too :D",
+				"tranquil_boots":"Used instead of Arcane boots. The occaisonal health regen is invaluable for early-game ganks, or just keeping yourself and more importantly your Carry alive.
+You may find yourself deciding to either stay back and keep the health flowing, or get closer to get the spirits damage in. Be careful."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_overcharge",
+			"4":"wisp_spirits",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_tether",
+			"9":"wisp_tether",
+			"10":"wisp_tether",
+			"11":"wisp_relocate",
+			"12":"wisp_overcharge",
+			"13":"wisp_overcharge",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"wisp_tether":"After the nerf in 6.79, a sad but nessecary thing, does not provide a stun, but a 100% atk and movespeed slow. However, it's still an amazing disable, and if your team has plenty of nukage but little lockdown, take some more levels in this instead of spirits. It's worth it.",
+				"wisp_tether_break":"Use this ONLY if you just teleported, or are about to teleport, and a hero needs to be left behind. Keep in mind, while tethered to an invisible unit, your tether is invisible too, so tethering invisible units is completely valid. Try to keep hooked up as much as possible.",
+				"wisp_spirits":"Alright. Anyone who's followed this build before 6.79 knows I don't value this highly. After 6.79 that's a bit different. Tether doesn't stun, so this has become your next best ability in the midgame. It's important to watch the enemy movement closely; these are too good to miss. 500 damage at 4.",
+				"wisp_overcharge":"Damage reduction and massive attack speed mean your Carry will be tanking hard, while using it (ESPECIALLY later on) will allow you to lower your health to heal allies. A MUST to get this at 3, otherwise if you have full health, and your carry doesn't, you are a waste of space in lane.",
+				"wisp_relocate":"Ah, yes. This build assume you have a second support to buy wards, and the details of how to properly use this change so much from hero to hero, that it`s really best to experiment for yourself.
+General Rules: Bug the other support about wards constantly, and keep one eye on the minimap.",
+				"wisp_spirits_in":"You might want to consider bringing your spirits in, then hugging an enemy, so that when they detonate, you can be certain they all hit. Doing this when the duration is nearly finished, then relocating on an enemy, will allow you to pop another spirits when they explode, allowing for 1000 damage.",
+				"wisp_spirits_out":"Practice this and 'Spirits In' to properly know how to hit them efffectively. Don't forget to hit again to turn them off, else they'll go to the max range and possibly overshoot the enemies.",
+				"attribute_bonus":"If you're up against a very bad lane with alot of spam (Timber, Lina, Lion, Kotl) SOMETIMES you might want to take a level or two in this to tank a bit better, but be cautious. Taking levels in this instead an ability is... risky at best."
+		}
+	}
+}

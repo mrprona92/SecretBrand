@@ -1,0 +1,92 @@
+{
+	"Hero":"invoker",
+	"Title":"Grimorum: 6.82b - 7-9 min EUL Combo",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius"
+			],
+			"Core: Disassemble ROB for EUL":
+			[
+				"tango",
+				"cyclone",
+				"boots",
+				"clarity",
+				"clarity",
+				"tpscroll"
+			],
+			"Mid Game: Choose Blink or Force Staff":
+			[
+				"travel_boots",
+				"force_staff",
+				"blink"
+			],
+			"Late Game:":
+			[
+				"ultimate_scepter"
+			],
+			"Situational":
+			[
+				"ancient_janggo",
+				"necronomicon",
+				"rod_of_atos",
+				"refresher",
+				"sheepstick",
+				"sphere",
+				"skadi",
+				"black_king_bar",
+				"skadi",
+				"gem",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_basilius":"Disassemble  to use Sage's Mask for EUL recipe.  Sell Ring of protection to bujy EUL faster."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_quas",
+			"3":"invoker_invoke",
+			"4":"invoker_exort",
+			"5":"invoker_wex",
+			"6":"invoker_exort",
+			"7":"invoker_exort",
+			"8":"invoker_quas",
+			"9":"invoker_exort",
+			"10":"invoker_quas",
+			"11":"invoker_exort",
+			"12":"invoker_invoke",
+			"13":"invoker_exort",
+			"14":"invoker_invoke",
+			"15":"invoker_quas",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_wex",
+			"21":"invoker_wex",
+			"22":"invoker_wex",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_sun_strike":"Sun Strike's damage is dividied by the number of targets in the area.",
+				"invoker_forge_spirit":"Must last hit and control runes with spirit in lane phase."
+		}
+	}
+}

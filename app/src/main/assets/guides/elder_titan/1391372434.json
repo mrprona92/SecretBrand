@@ -1,0 +1,80 @@
+{
+	"Hero":"elder_titan",
+	"Title":"GreyShark.Elder Titan",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"Early Game":
+			[
+				"urn_of_shadows",
+				"soul_ring",
+				"arcane_boots"
+			],
+			"Mid Game":
+			[
+				"ancient_janggo",
+				"blade_mail"
+			],
+			"Late Game":
+			[
+				"refresher",
+				"sheepstick",
+				"heart"
+			],
+			"Situation":
+			[
+				"shivas_guard",
+				"black_king_bar",
+				"blink"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_ancestral_spirit",
+			"2":"elder_titan_echo_stomp",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_echo_stomp",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_natural_order",
+			"9":"elder_titan_echo_stomp",
+			"10":"elder_titan_echo_stomp",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_natural_order",
+			"13":"elder_titan_natural_order",
+			"14":"elder_titan_natural_order",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

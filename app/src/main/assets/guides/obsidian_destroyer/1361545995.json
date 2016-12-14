@@ -1,0 +1,140 @@
+{
+	"Hero":"obsidian_destroyer",
+	"Title":"Playing OD for the first time.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"mantle",
+				"mantle"
+			],
+			"If doing bad":
+			[
+				"boots",
+				"null_talisman",
+				"null_talisman",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Core":
+			[
+				"power_treads",
+				"force_staff",
+				"tpscroll"
+			],
+			"If still doing bad.":
+			[
+				"ancient_janggo",
+				"rod_of_atos",
+				"mekansm",
+				"tpscroll"
+			],
+			"If doing good.":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Situational Items.":
+			[
+				"travel_boots",
+				"heart",
+				"blink",
+				"refresher",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Good final item if you are done with your build.
+Primarily used for chasing, but if you are quick, you can imprison yourself, and then mash the blink dagger hotkey for a quick, safe blink towards your base. Make sure you are not blinking onto a cliff or a bunch of trees.",
+				"mantle":"Early game damage and mana.
+Build into Null talismans.",
+				"boots":"For chasing, running away.",
+				"magic_wand":"OD is very squishy, the heal will save you more times than you might think. Can be used for mana if you got an unlucky streak with Essence Aura.",
+				"flask":"Standard early game regen, use when low on health and away form harm.
+If you are quick, can save your life when being dived under the tower, taking a quick sip before the final projectile hits you.",
+				"tango":"Early game regen, and since you are mid, you wont be doing much tree-cutting sheningans there.So its just regen.",
+				"tpscroll":"Never leave your base without one.
+Dont forget that you can use it when your teammates are being ganked, one imprison can save the tower and 2 lives.",
+				"travel_boots":"Best lategame boots, hands down.
+",
+				"power_treads":"Give you much needed attack speed and hp.
+You can switch to int if you are freefarming in an empty lane, or if you feel confindent about your positioning andor your teammates IQ.",
+				"null_talisman":"If you lost mid, those will help you at least deal some damage before you can farm something more menacing.",
+				"mekansm":"Any team needs one of these, and OD is a very good holder for it.
+Unlimited mana(wich od has)means a charge will always be ready when off cooldown.
+Always ask your support(if you have one) before buying this, and make sure he didnt buy a buckler already or something.In that case, dont bother.",
+				"sheepstick":"This thing here is the best item you can pick up on OD. A close second would be Shivas.
+gives an ENORMOUS amount of int, making your orb and ult hit like a truck.",
+				"force_staff":"Great for chasing, escaping and saving allies, also gives int.
+A 100% must for Od.",
+				"refresher":"Only get it if you are doing realy well and already have tons of intelligence.",
+				"heart":"If you are completely stomping your enemy, you might as well make sure you finish the game with 0 deaths.",
+				"black_king_bar":"Since OD is very squishy, he will be nuked and disabled all the time.You counter that with positioning and this thing.
+Dont buy it if the enemy has more that 1 bkb piercing disable.
+Note that if the enemy pops bkb, you cant do ANYTHING to them.At all.Ouch.",
+				"shivas_guard":"Loads of int and armor, great defensive item that still gives a lot of damage for OD.
+Grab this if rightclicks are a concern, the active and passive also help your team, as if OD wasnt good at that already.",
+				"ancient_janggo":"Drum give you movement and attack speed, mana and health in one item slot.It's great for the cost and it's not very expensive, great if you still have trouble farming big items.",
+				"veil_of_discord":"Builds out of null talisman, another way to increase the damage of your ult besides getting intelligence.
+If your team is heavy on magic damage, and nobody is smart enough to get this, it might as well be you.
+Dont rush it though.",
+				"rod_of_atos":"While sheepstick is a better item overall, Atos gives you much more hp, is cheaper, and the active is not that bad.
+Good item to rely on if you are struggling midgame."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"obsidian_destroyer_astral_imprisonment",
+			"2":"obsidian_destroyer_essence_aura",
+			"3":"obsidian_destroyer_astral_imprisonment",
+			"4":"obsidian_destroyer_essence_aura",
+			"5":"obsidian_destroyer_essence_aura",
+			"6":"obsidian_destroyer_sanity_eclipse",
+			"7":"obsidian_destroyer_essence_aura",
+			"8":"obsidian_destroyer_arcane_orb",
+			"9":"obsidian_destroyer_astral_imprisonment",
+			"10":"obsidian_destroyer_astral_imprisonment",
+			"11":"obsidian_destroyer_sanity_eclipse",
+			"12":"obsidian_destroyer_arcane_orb",
+			"13":"obsidian_destroyer_arcane_orb",
+			"14":"obsidian_destroyer_arcane_orb",
+			"15":"attribute_bonus",
+			"16":"obsidian_destroyer_sanity_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"obsidian_destroyer_arcane_orb":"This is your main damage source that scales with the amount of mana you have. At level 8 you will usualy need some kind of damage for ganks and fights, and with your maxed aura, you will be able to support it for the rest of the game.",
+				"obsidian_destroyer_astral_imprisonment":"The int steal can be huge against some mid lanes, giving you a lasthitting advantage aswell as limiting the enemies offensive capabilities.
+Some heroes with small manapools, after a few drains, cant even cast spells at all.
+",
+				"obsidian_destroyer_essence_aura":"This skill will give you and any teammate around you with a spammable spell unlimited mana at max rank.
+You can get unlucky with procs at early ranks, be careful with that.",
+				"obsidian_destroyer_sanity_eclipse":"One of the best aoe damage nukes in the game given enough farm for OD.
+Grabbing one point at level 6 is not very popular I hear, I but like it anyway, for securing kills when chasing enemies."
+		}
+	}
+}

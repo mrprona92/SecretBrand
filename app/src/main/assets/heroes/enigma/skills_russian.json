@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Malefice",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Концентрирует энергию Enigma на цели, в результате чего та получает урон с течением времени и каждые 2 секунды оглушается.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">0.25/0.5/0.75/1</font></b><br/>УРОНА ЗА УДАР: <b><font color=\"#ffffff\">25/40/55/70</font></b><br/>ОГЛУШЕНИЙ: <b><font color=\"#ffffff\">3/3/3/3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/130/150/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+        "lore": "Своими гравитационными полями Enigma воздействует на само естество врагов, лишая их возможности сдвинуться с места.",
+        "hurl": "Enigma",
+        "name": "enigma_malefice",
+        "youtube":"y0u1c81JqM0",
+        "id": 0
+    },
+    {
+        "dname": "Demonic Conversion",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b>",
+        "desc": "Превращает крипа в три фрагмента самого Enigma. Эйдолоны находятся под контролем Enigma, а несколько успешных атак позволят им размножиться. Когда это происходит, они полностью восстанавливают здоровье.",
+        "notes": "Превращая крипа в эйдолона, вы получите золото и опыт за его убийство.",
+        "dmg": "",
+        "attrib": "АТАК ДЛЯ РАЗМНОЖЕНИЯ: <b><font color=\"#ffffff\">6/6/6/6</font></b><br/>ЗДОРОВЬЕ ЭЙДОЛОНОВ: <b><font color=\"#ffffff\">180/200/220/240</font></b><br/>УРОН ЭЙДОЛОНОВ: <b><font color=\"#ffffff\">20/28/38/47</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">35</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 170/170/170/170<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 35",
+        "lore": "Enigma может притягивать свои сущности из других миров, создавая в физическом мире троицу темных эйдолонов.",
+        "hurl": "Enigma",
+        "name": "enigma_demonic_conversion",
+        "youtube":"9gj20AVAwE4",
+        "id": 1
+    },
+    {
+        "dname": "Midnight Pulse",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Пропитывает местность темным резонансом, которая наносит врагам урон, зависящий от их максимального здоровья.",
+        "notes": "Урон проходит сквозь невосприимчивость к заклинаниям.<br/>Разрушает деревья в области действия.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">600</font></b><br/>УРОНА В СЕКУНДУ: <b><font color=\"#ffffff\">3%/3.75%/4.5%/5.25%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">11</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 95/110/125/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 35",
+        "lore": "Часть бытия медленно погружается в пустоту.",
+        "hurl": "Enigma",
+        "name": "enigma_midnight_pulse",
+        "youtube":"qrhVMKaO0NA",
+        "id": 2
+    },
+    {
+        "dname": "Black Hole",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — призывает воронку, засасывающую всех врагов, находящихся вблизи. При этом противники не могут двигаться, атаковать и применять заклинания.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Выводит из строя врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">55/110/165</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">400</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/4/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 275/325/375<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/190/180",
+        "lore": "Земля дрожит, когда Enigma создает всеразрушающую черную дыру, способную уничтожать миры.",
+        "hurl": "Enigma",
+        "name": "enigma_black_hole",
+        "youtube":"FOKIcPeAYPw",
+        "id": 3
+    }
+]

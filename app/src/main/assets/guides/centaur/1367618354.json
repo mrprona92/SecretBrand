@@ -1,0 +1,77 @@
+{
+	"Hero":"centaur",
+	"Title":"Centaur Warrunner - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_regen",
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"heart"
+			],
+			"luxury":
+			[
+				"blade_mail",
+				"radiance",
+				"vanguard",
+				"hood_of_defiance"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_return",
+			"4":"centaur_hoof_stomp",
+			"5":"centaur_hoof_stomp",
+			"6":"centaur_stampede",
+			"7":"centaur_hoof_stomp",
+			"8":"centaur_double_edge",
+			"9":"centaur_return",
+			"10":"centaur_double_edge",
+			"11":"centaur_stampede",
+			"12":"centaur_double_edge",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"centaur_hoof_stomp":"Stun de area MUY potente en el principio de la partida.  Lanzalo junto a stun de otros heroes y ganareis la linea casi seguro. Si puedes ponerte en medio y hacerlo a dos heroes mejor.",
+				"centaur_double_edge":"Cuidado con abusar de esto la principio cuando aun no tienes demasiada regeneracion de vida. Al principio usalo para rematar al enemigo (si lo ves necesario). Luego usalo para pushear lineas o farmear neutrales en jungla.",
+				"centaur_return":"Devuelves dmg por eso te interesa hacer muy tanque a centauro.",
+				"centaur_stampede":"Estampida de tu equipo contra el rival. Lanzalo para iniciar las teamfights y correr por encima de los otros. Avisa de que vas a hacerla por texto o pinchando en el mapa!!"
+		}
+	}
+}

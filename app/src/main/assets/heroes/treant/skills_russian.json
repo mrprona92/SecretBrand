@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Nature's Guise",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Цель заклинания сливается с лесом, становясь невидимой и приобретая дополнительную скорость передвижения, если рядом с ней есть дерево. Как только цель отойдет от дерева или это заклинание будет применено на юните, рядом с которым нет деревьев, Nature's Guise рассеется. Treant Protector может применять заклинания и оставаться невидимым под Nature's Guise.",
+        "notes": "Если цель заклинания не будет находиться рядом с деревом, она потеряет невидимость почти мгновенно.<br/>Каждую секунду эта способность проверяет наличие деревьев поблизости и снимает невидимость, если их нет.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15/30/45/60</font></b><br/>ВРЕМЯ ДО НЕВИДИМОСТИ: <b><font color=\"#ffffff\">2</font></b><br/>РАССТОЯНИЕ ДО ДЕРЕВА: <b><font color=\"#ffffff\">375/375/375/375</font></b><br/>СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/10%/10%/10%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 60<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10/8/6/4",
+        "lore": "Стражи обычно не появляются в поле зрения. Чаще всего они скрываются среди своих лиственных братьев.",
+        "hurl": "Treant_Protector",
+        "name": "treant_natures_guise",
+        "youtube":"RrG1oa36SLk",
+        "id": 0
+    },
+    {
+        "dname": "Leech Seed",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Герой сажает в тело жертвы истощающее семя, которое замедляет цель и отнимает ее здоровье. Также семя излечивает всех союзников поблизости. Пульсирует 6 раз.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УРОН ЗА ПУЛЬСАЦИЮ: <b><font color=\"#ffffff\">15/30/45/60</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">28%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">500</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/14/12/10",
+        "lore": "Руфтреллен питает союзных существ, черпая жизненные силы из нарушителей, ступивших на его священные земли.",
+        "hurl": "Treant_Protector",
+        "name": "treant_leech_seed",
+        "youtube":"DxUAavLdUNM",
+        "id": 1
+    },
+    {
+        "dname": "Living Armor",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Защищает выбранного героя или сооружение аурой, увеличивающей регенерацию здоровья. Также дает защиту от любых атак. Заклинание спадает при получении некоторого количества ударов.",
+        "notes": "Способность может быть применена через мини-карту.",
+        "dmg": "",
+        "attrib": "ВЫДЕРЖИВАЕТ АТАК: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>РЕГЕН: <b><font color=\"#ffffff\">4/7/10/13</font></b><br/>БЛОКИРУЕТ: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 32/26/20/14",
+        "lore": "Корни и усики Treant Protector расстилаются повсюду, стимулируя рост и омоложение всего живого.",
+        "hurl": "Treant_Protector",
+        "name": "treant_living_armor",
+        "youtube":"DkpjC57bU_g",
+        "id": 2
+    },
+    {
+        "dname": "Overgrowth",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Вокруг Treant Protector разрастаются корни и лозы, опутывая врагов и не давая им перемещаться, телепортироваться, уходить в невидимость или атаковать.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Действует на невосприимчивых к заклинаниям врагов, но последующее получение невосприимчивости к заклинаниям прекращает действие способности.<br/>Попав под действие Overgrowth рядом с деревьями, заколдованными способностью Eyes of the Forest, враги получат урон. Попав под действие Overgrowth рядом с Treant Protector, враги не получат урона.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/3.75/4.5</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/175/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 70",
+        "lore": "Руфтреллен взывает к предкам-духам природы, выпуская их мощь через свой род.",
+        "hurl": "Treant_Protector",
+        "name": "treant_overgrowth",
+        "youtube":"Sz6oCVgEAIY",
+        "id": 3
+    },
+    {
+        "dname": "Eyes In The Forest",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b>",
+        "desc": "Treant Protector зачаровывает дерево, получая беспрепятственный обзор вокруг него. При использовании способности Overgrowth юниты в радиусе 700 от заколдованного дерева будут связаны и получат урон.",
+        "notes": "Враги получат урон, только попав под действие Overgrowth рядом с деревьями, заколдованными способностью Eyes of the Forest. Способность не наносит урона, если рядом таких деревьев нет.<br/>Если враг может раскрыть невидимость, он сможет увидеть, какие деревья заколдованы.",
+        "dmg": "",
+        "attrib": "РАДИУС ОБЗОРА ДЕРЕВА: <b><font color=\"#ffffff\">700</font></b><br/>РАДИУС ДЕЙСТВИЯ OVERGROWTH: <b><font color=\"#ffffff\">700</font></b><br/>УРОН В СЕКУНДУ ОТ СПОСОБНОСТИ OVERGROWTH: <b><font color=\"#ffffff\">175</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 25",
+        "lore": "Нельзя точно знать, кому или чему будет нужна защита.",
+        "hurl": "Treant_Protector",
+        "name": "treant_eyes_in_the_forest",
+        "youtube":"",
+        "id": 4
+    }
+]

@@ -1,0 +1,94 @@
+{
+	"Hero":"meepo",
+	"Title":"GreyShark.Meepo",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"power_treads",
+				"vladmir",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"blink",
+				"ultimate_scepter"
+			],
+			"Late Game":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"pipe",
+				"travel_boots",
+				"assault"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Если не умеете пользоваться можете не собирать, но тем кто умеет мастхев, легче гангать, догонять, убегать. Блинкаемся, кидаем сеть и убиваем.",
+				"ring_of_protection":"Можно апнуть в потайной лавке в базилку сразу",
+				"travel_boots":"В глубоком лейте можно собрать чтобы быть всегда в замесе и не бегать от базы на базу. Слотов под ТП уже может не быть",
+				"power_treads":"Самые норм сапоги, дадут плотности и АС.",
+				"mekansm":"Очень полезно для ирли-мид гейма, даже если уже собирают саппорты, собирайте тоже ! Сколько раз уже спасала меня !",
+				"vladmir":"Тут всё ясно, чтобы лес фармить, рошу и просто для ауры на тиму.",
+				"pipe":"Можно либо вместо меки либо вместо (кирасы/шивы)",
+				"ultimate_scepter":"Тут всё понятно, нас больше и мы сильнее.",
+				"assault":"Вместо шиво можно собрать",
+				"heart":"Мастхев, жирность мипо всегда очень нужна.",
+				"shivas_guard":"Продаем меку и покупаем этот арт, даст больше брони а реген в +250 в лейте уже не особо полезен. Также можно заменить кирасой или пайпом, смотря какой пик у врагов."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_divided_we_stand",
+			"4":"meepo_poof",
+			"5":"meepo_poof",
+			"6":"meepo_earthbind",
+			"7":"meepo_poof",
+			"8":"meepo_earthbind",
+			"9":"meepo_earthbind",
+			"10":"meepo_divided_we_stand",
+			"11":"meepo_geostrike",
+			"12":"meepo_geostrike",
+			"13":"meepo_geostrike",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"meepo_divided_we_stand",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

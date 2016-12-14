@@ -1,0 +1,76 @@
+{
+	"Hero":"lycan",
+	"Title":"Lane Then Jungle Then Destroy",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"ring_of_protection",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"medallion_of_courage",
+				"vladmir",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"desolator",
+				"black_king_bar",
+				"sphere"
+			],
+			"luxury":
+			[
+				"assault",
+				"heart",
+				"abyssal_blade",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sphere":"READ THIS. Only get this if there are many people on the other team whs abilities go through bkb. If there is just get this instead of BKB. It helps tremendously."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_feral_impulse",
+			"2":"lycan_summon_wolves",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

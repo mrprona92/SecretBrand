@@ -1,0 +1,84 @@
+{
+	"Hero":"alchemist",
+	"Title":"Гайд на русском по Alchemist(Carry/Farmer)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"maelstrom",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"mjollnir",
+				"assault",
+				"heart",
+				"basher"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"abyssal_blade",
+				"greater_crit",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Понадобится для добивания врага.Можно поменять на Boots of travel.",
+				"assault":"У алхимика есть проблемы с бронёй это их исправит.",
+				"heart":"В плюсе к у ультимейту с его дикой регенерацией  в будете Бессмертен!",
+				"basher":"Обычно после сбора Сердца Рёбер и Мьёльнира игра заканчивается но если она затянулась этот арт поможет вам достичь победы.",
+				"mjollnir":"Основной предмет для фарма.",
+				"maelstrom":"Нужен для сбора Mjollnir."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_goblins_greed",
+			"2":"alchemist_acid_spray",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_unstable_concoction",
+			"5":"alchemist_acid_spray",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_unstable_concoction",
+			"8":"alchemist_unstable_concoction",
+			"9":"alchemist_goblins_greed",
+			"10":"alchemist_acid_spray",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_goblins_greed",
+			"13":"alchemist_unstable_concoction",
+			"14":"alchemist_acid_spray",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

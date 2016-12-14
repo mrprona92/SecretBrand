@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Paralyzing Cask",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бросает бочонок с парализующим порошком, который отскакивает от противников, оглушая их и нанося им урон.",
+        "notes": "Цель может быть оглушена несколько раз, пока рядом есть другой юнит, на которого бочонок перескакивает.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">75/100/125/150</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ ГЕРОЯ: <b><font color=\"#ffffff\">1/1/1/1</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ КРИПОВ: <b><font color=\"#ffffff\">5/5/5/5</font></b><br/>УРОН ГЕРОЮ: <b><font color=\"#ffffff\">50/50/50/50</font></b><br/>ОТСКОКОВ: <b><font color=\"#ffffff\">2/4/6/8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/120/130/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/18/16/14",
+        "lore": "Witch Doctor перемалывает кости погибших друзей и противников, используя порошок в качестве части его арсенала чар и алхимии.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_paralyzing_cask",
+        "youtube":"GcM3eChjrms",
+        "id": 0
+    },
+    {
+        "dname": "Voodoo Restoration",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, переключаемая</font></b>",
+        "desc": "Witch Doctor направляет свои магические способности на лечение ближайших союзников.",
+        "notes": "Лечение происходит каждые 0,33 секунды.<br/>Лечит союзников, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "МАНЫ В СЕК.: <b><font color=\"#ffffff\">8/12/16/20</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">500</font></b><br/>ЛЕЧЕНИЕ: <b><font color=\"#ffffff\">16/24/32/40</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/30/40/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Фокусы Жарвакко не ограничены наложением чар на своих врагов, он также способен излечивать различные болезни.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_voodoo_restoration",
+        "youtube":"yBY5jmY0iR4",
+        "id": 1
+    },
+    {
+        "dname": "Maledict",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Проклинает всех вражеских героев в небольшой области, после чего они получают урон каждую секунду. Помимо этого, каждые 4 секунды им наносится периодический урон, зависящий от количества здоровья, потерянного с момента наложения проклятия.",
+        "notes": "Если у жертвы больше здоровья, чем на момент произнесения этого заклинания, периодического урона не будет.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">5/10/15/20</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">180</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">12</font></b><br/>ПЕРИОДИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">16%/24%/32%/40%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20",
+        "lore": "Некоторые заклятия вуду способны заставить врага жалеть о том, что он повстречался с Witch Doctor.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_maledict",
+        "youtube":"9upNFFHTnPA",
+        "id": 2
+    },
+    {
+        "dname": "Death Ward",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — призывает смертельный вард, атакующий вражеских героев. Радиус атаки Death Ward — 700, атакует каждые 0,22 с. Death Ward 3-го уровня атакует одну дополнительную цель. Действует 8 секунд.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Death Ward невозможно уничтожить, и он исчезнет, только если прервать или закончить заклинание.<br/>Death Ward можно управлять, выбирая ему определенную цель.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">60/90/120</font></b><br/>ОТСКОКОВ: <b><font color=\"#ffffff\">0/0/1</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">90/120/150</font></b><br/>ОТСКОКОВ СО СКИПЕТРОМ: <b><font color=\"#ffffff\">4/4/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/200/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 80",
+        "lore": "Witch Doctor исполняет ритуальный танец, пробуждающий сны тех, кто живет ими.",
+        "hurl": "Witch_Doctor",
+        "name": "witch_doctor_death_ward",
+        "youtube":"tEl6x3-pYuc",
+        "id": 3
+    }
+]

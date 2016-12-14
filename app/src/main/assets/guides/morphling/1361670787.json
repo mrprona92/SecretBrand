@@ -1,0 +1,108 @@
+{
+	"Hero":"morphling",
+	"Title":"The Tsunami Terror",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ethereal_blade",
+				"sphere"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"black_king_bar",
+				"manta",
+				"butterfly",
+				"skadi",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Used to build Ring Aquila or Tranquil boots if  the enemy team is very aggresive and you need the health regen desperately. ",
+				"magic_wand":"Provides early survivability in lane and can be disassembled mid game for Power Treads if needed or  Boots of Travel in the late game.",
+				"tango":"Remember to use a tango before a fight because the extra regen could end up saving your life.",
+				"ring_of_health":"A early ring of a health to keep you topped up while farming your lane and eventually used to build your Linkens Sphere.",
+				"power_treads":"With some good Power Tread's toggling,you can go from landing some easy last hits on creeps to becoming really tanky in no time.",
+				"hand_of_midas":"Best if left to farm freely,or are so far behind that you would need a miracle in order to comeback into the game.",
+				"black_king_bar":"For teams with a lot of magic damage or a lot of stuns/disables.
+If it comes to the late game,you have used  the Black King Bar more than a few times and you have maxed out your other items,you can sell the Item and buy another Black King Bar to reset the spell immunity duration back to 10 seconds.",
+				"sphere":"I suggest Linkens Sphere as a core item because it provides the stats and regen that morphling really needs to keep going during and after a fight. It also can save your life ,especially when you're pushed up a lane and want to avoid getting stunned or silenced before you can replicate back.",
+				"butterfly":"A great item for countering heroes with a lot of auto attack damage BUT the evasion is countered by Monkey King Bar's true strike.Butterfly also provides the 2nd most agility in the game which is great for buffing your Ethereal Blade,Adaptive Strike and Morpling's auto attack damage.",
+				"manta":"A great damage item that provides a decent amount of stats,damage,movement speed and attack speed. You can also use Manta Style to disjoint certain abilities like disables, if timed right and it is also great for pushing down towers.",
+				"satanic":"Provides a good amount health,armour and life steal.Great if you expect to be duking it out with enemy team's carry.The Satanic's USE can turn the tides of a fight.
+IMPORTANT:
+Skadi also STACKS with Satanic .It will still life steal AND slow.",
+				"skadi":"Skadi is normally picked up fairly late into the game but that is when Morpling will require as much extra health as possible while still keeping a good amount of his stats morphed into agility.It also provides a slow that is good for kitting enemy heroes.
+IMPORTANT:
+Skadi also STACKS with Satanic.",
+				"ethereal_blade":"Ethereal Blade complements Morphling very well because of the fact that Morphling can transfer his strength into agility causing the Ethereal Blade to do a HUGE amount of damage ,followed instantly by Adaptive Strike and Waveform.Also remember to morph back some strength after using Ethereal Blade.",
+				"ring_of_aquila":"Great for mana regen,agility and for pushing if you need to take down a tower quickly.
+TIP:
+When trying to farm a lane,turn OFF the ring so that the creeps do not push the lane up but remember to turn it back on when trying to push down a tower or the lane."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_morph_str",
+			"2":"morphling_waveform",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_replicate",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_morph_str",
+			"10":"morphling_adaptive_strike",
+			"11":"morphling_replicate",
+			"12":"morphling_adaptive_strike",
+			"13":"morphling_adaptive_strike",
+			"14":"morphling_adaptive_strike",
+			"15":"attribute_bonus",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"morphling_waveform":"Can be used as a nuke or an escape.Maxed out first for helping get some early kills since Morphling's auto attacks are very weak early in the game.You can also Waveform over terrain and into trees to safely teleport away.",
+				"morphling_adaptive_strike":"Using Adapative strike AFTER using Ethereal Blade ,will blow the enemy hero away (Figuratively).Even if you have most of your points into agility,the stun is still very good for intereupting heroes when they are channeling abilities or trying to teleport away.",
+				"morphling_morph_str":"Putting a couple of points into agility during the early stages of the game maybe help last hit creeps better but be warned ,too many points could make you an easy target for enemy heroes that notice your health.
+IMPORTANT:
+Can still  be used while disabled to survive incoming damage.",
+				"morphling_replicate":"Using Replicate effectivly is very important.How you should be using it is either by replicating a hero and then either sending it back to base so that you can instantly switch places with it when in danger OR send it to a different lane to either split push or help your team out."
+		}
+	}
+}

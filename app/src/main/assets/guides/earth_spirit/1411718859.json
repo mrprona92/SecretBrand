@@ -1,0 +1,118 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"6.82 - Standard Earth Spirit (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"gem",
+				"dust",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"bottle",
+				"blink",
+				"ghost",
+				"blade_mail"
+			],
+			"Extension Items":
+			[
+				"veil_of_discord",
+				"heart",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last Updated: 18/10/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger gives you the positioning you want, immediately, to lay down the abilities you need as well as your ultimate. ",
+				"ghost":"Avoid being targeted with Ghost Scepter. Earth Spirit should avoid being at the center of the fight.",
+				"bottle":"If you find yourself roaming heavily and can snag these in good time, get it. Otherwise, your Arcane Boots will be sufficient.",
+				"urn_of_shadows":"Urn of Shadows should give you the survivability you like, the constant healing and some mana regeneration to keep you rolling.",
+				"force_staff":"Use Force Staff for the great positioning, works nicely when you have Blink Dagger as well letting you maneuver freely around the area.",
+				"ultimate_scepter":"With Aghanim's Scepter, you can disable foes and redirect them easily to allies or have them explode on fleeing enemies.
+
+In combination with your Blink Dagger, you can position yourself to both catch opponents off-guard and push them in self-benefiting positions.",
+				"heart":"Survive more and stay in the field longer with Heart of Tarrasque. All Earth Spirit really needs is to survive and be an annoyance on the field. Heart of Tarrasque does that.",
+				"shivas_guard":"Shiva's Guard let's you jump in fights, pop your ultimate and keep enemies in place with your slow. Shiva's Guard also makes Earth Spirit even more bulky than ever before.",
+				"blade_mail":"Blade Mail is to turn attacks on you back to your foes. It can be enough for you to turn away or better yet; survive to pop more of your abilities.",
+				"arcane_boots":"Arcane is to help alleviate any and all mana problems you have with your abilities. Combinated with Bottle, Earth Spirit should never run out of mana.",
+				"veil_of_discord":"Veil of Discord is another item that could help your team or at least you. With a low cooldown on all your abilties, Veil of Discord's effect carries over for multiple abilities. ",
+				"heavens_halberd":"A great utility item for Earth Spirit given his adoration to be able to stay alive, cripple foes and remain a presence in fights."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_boulder_smash",
+			"2":"earth_spirit_rolling_boulder",
+			"3":"earth_spirit_geomagnetic_grip",
+			"4":"earth_spirit_geomagnetic_grip",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_geomagnetic_grip",
+			"8":"earth_spirit_boulder_smash",
+			"9":"earth_spirit_rolling_boulder",
+			"10":"earth_spirit_boulder_smash",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_rolling_boulder",
+			"13":"earth_spirit_boulder_smash",
+			"14":"earth_spirit_rolling_boulder",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"This ability stuns foes. The enemy can be near where the unit was pushed from to be stunned. It's not unusual for you to pull or stone first, then Boulder Smash forward and push your foe towards your team for an easy kill.",
+				"earth_spirit_rolling_boulder":"This is your escape and a part of your initiation. Be wary that you can get stunned in this form. This is your chasing ability and the range is incredible with a stone and slows the foe, allowing you to follow-up with your other abilities.",
+				"earth_spirit_geomagnetic_grip":"Your strongest damage dealer. Use stones to silence your foe and follow them up with Boulder Smash or Rolling Boulder.",
+				"earth_spirit_petrify":"With great positioning (thanks to Blink Dagger), you catch foes out and disable them. You can either push them away from your team or pull them towards your team to be able to kill one foe caught out.",
+				"earth_spirit_magnetize":"Short duration, but incredible damage and game-changer. Be sure to use this with stones nearby or initiate with one stone and continue with the stone effects as they are fleeing; dropping one by one nearby."
+		}
+	}
+}

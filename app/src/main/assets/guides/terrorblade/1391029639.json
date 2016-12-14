@@ -1,0 +1,115 @@
+{
+	"Hero":"terrorblade",
+	"Title":"Terrorblade Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"branches",
+				"flask",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"magic_wand",
+				"tpscroll",
+				"helm_of_the_dominator",
+				"yasha"
+			],
+			"coreItems":
+			[
+				"manta"
+			],
+			"Late Game Items":
+			[
+				"greater_crit",
+				"butterfly",
+				"skadi",
+				"satanic"
+			],
+			"luxury":
+			[
+				"radiance",
+				"monkey_king_bar",
+				"black_king_bar",
+				"travel_boots",
+				"sphere",
+				"heart",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Good for early game farm and improves your illusions farming.",
+				"branches":"Early game stats later turned into Magic Wand.",
+				"magic_wand":"One of the best items in the game. Cheap good stats and great ability that will save you in dire situations.",
+				"flask":"Early game regen.",
+				"tango":"Early game regen.",
+				"tpscroll":"Always carry a TP.",
+				"travel_boots":"Always get these if game goes beyond 40 minutes.",
+				"power_treads":"Power Treads is your best option. Gives you extra HP and Treads switching preserves mana.",
+				"heart":"If you need to tank through a lot of damage and heal up fast, this is for you. However, I would recommend Skadi instead most of the time.",
+				"black_king_bar":"One of the strongest items in the game to counter dissables and magic damage. If there are a lot of casters and CC get this.",
+				"sphere":"Not the best choice for Terrorblade but can be useful. If there is a Doom or some other single target here that you are scared of get it.",
+				"monkey_king_bar":"Situational item to counter evasion.",
+				"radiance":"If you can get this before 20 minutes without risking your life do it. Otherwise don't bother.",
+				"butterfly":"One of the best late game Agility hero items. Gives you DPS and evasion.",
+				"greater_crit":"Strongest DPS item for Terrorblade. With metamorphesis you will do crazy ammount of damage and heal with Dominator. ",
+				"manta":"One of the best Agility hero items in the game. Gives you everything you need, some more illusions and a projectile dodge.",
+				"satanic":"Your last item should be upgrade of Dominator into Satanic. It makes you and your illusions even more buff and makes you pretty much unkillable when active.",
+				"skadi":"This is a great item for Terrorblade. Gives you a ton of stats for your illusions and an increadible slow. Also, stacks with Dominator.",
+				"helm_of_the_dominator":"Helm of the Dominator will let you heal. Your HP pool is very low, but damage is pretty high. Later this also can be turned into Satanic. Also, get this early and stack Ancients to boost your farm dramatically later. ",
+				"yasha":"Good early game item for stats and MS that later turns into Manta Style."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"terrorblade_reflection",
+			"2":"terrorblade_metamorphosis",
+			"3":"terrorblade_metamorphosis",
+			"4":"terrorblade_conjure_image",
+			"5":"terrorblade_metamorphosis",
+			"6":"terrorblade_sunder",
+			"7":"terrorblade_metamorphosis",
+			"8":"terrorblade_conjure_image",
+			"9":"terrorblade_conjure_image",
+			"10":"terrorblade_conjure_image",
+			"11":"terrorblade_sunder",
+			"12":"terrorblade_reflection",
+			"13":"terrorblade_reflection",
+			"14":"terrorblade_reflection",
+			"15":"attribute_bonus",
+			"16":"terrorblade_sunder",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"terrorblade_reflection":"Probably your best choice at level 1. 60% slow is increadible and can land your lane a kill early.",
+				"terrorblade_conjure_image":"This is your farming and second damage skill. In Metamorphosis illusions will do a ton of damage.
+",
+				"terrorblade_metamorphosis":"This is your best skill. Max it as fast as possible, use it in fights and kill things. ",
+				"terrorblade_sunder":"This can be a tricky skill to use but when used properly is increadibly strong. Always try to use it on full hp hero when you are low. Can also be used on allies. "
+		}
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"Bounty Hunter Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"magic_wand",
+				"ring_of_basilius"
+			],
+			"luxury":
+			[
+				"desolator",
+				"black_king_bar",
+				"monkey_king_bar",
+				"vladmir",
+				"heart"
+			],
+			"Rejected Items":
+			[
+				"bfury",
+				"greater_crit",
+				"invis_sword",
+				"skadi"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"You need to be able to chase heroes down. The extra damage is also great when coupled with Jinada.",
+				"vladmir":"Enables your team to take Roshan reasonably early and provides some nice auras. DO NOT get this first if your team is not killing Roshan with it.",
+				"ring_of_basilius":"Helpful mana regen and extra armor.",
+				"heart":"If you have the money, grab a Heart after 1 or 2 damage items. BKB is still better against magic nukes though. Get a Heart instead only if they have more physical damage and/or little to no disables.",
+				"black_king_bar":"It is very likely that you will be focused in fights first. Get a BKB so you don`t die.",
+				"monkey_king_bar":"If you are going carry Bounty Hunter, MKB is very useful against evasion heroes. The damage increase is also great.",
+				"greater_crit":"You already have a guaranteed crit with Jinada and the 2 don`t stack if proc-ed at the same time.",
+				"bfury":"Desolator is better in every regard. Battlefury is for the farming carries - you are a ganker. Don`t get this.",
+				"invis_sword":"The extra 150 damage is not multiplied by Jinada and you already have invisibility.",
+				"skadi":"Jinada slows, Track makes you fast. Why do you need this?",
+				"desolator":"The best damage item on Bounty Hunter - cheap, easy to build and the armor reduction increases your damage output by a lot.",
+				"ancient_janggo":"Very helpful stats and makes chasing easier."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_jinada",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_jinada",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_jinada",
+			"8":"bounty_hunter_shuriken_toss",
+			"9":"bounty_hunter_shuriken_toss",
+			"10":"bounty_hunter_shuriken_toss",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_wind_walk",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"Get this after Jinada. Don`t use it right away in fights, try to wait and stop channeling abilities with its ministun. It costs a lot of mana so only max it first if you have plenty of mana regen items.",
+				"bounty_hunter_jinada":"Your bread and butter skill - increases your last hitting power and damage output, as well as slowing the enemy.",
+				"bounty_hunter_wind_walk":"Get this first in order to escape sticky situations.",
+				"bounty_hunter_track":"Even if you don`t get many last hits in lane, Track will let you catch up extremely quickly just by roaming the map and getting a kill here and there."
+		}
+	}
+}

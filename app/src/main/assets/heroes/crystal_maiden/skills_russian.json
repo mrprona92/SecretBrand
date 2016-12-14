@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Crystal Nova",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Шквал губительного холода замедляет движение врага и скорость его атаки в выбранной области.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/150/200/250</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">400</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">20/30/40/50</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/120/140/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+        "lore": "Температура воздуха вокруг Рилай резко падает, насквозь промораживая всё вокруг нее.",
+        "hurl": "Crystal_Maiden",
+        "name": "crystal_maiden_crystal_nova",
+        "youtube":"hv-wIna71VQ",
+        "id": 0
+    },
+    {
+        "dname": "Frostbite",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Заковывает противника в лед, нанося ему 50 урона каждые полсекунды и запрещая двигаться или атаковать. Действует 10 секунд на крипов 6-го уровня или ниже.",
+        "notes": "Под действием этой способности нельзя телепортироваться.",
+        "dmg": "",
+        "attrib": "УРОН В ПОЛСЕКУНДЫ: <b><font color=\"#ffffff\">50</font></b><br/>ДЛИТЕЛЬНОСТЬ НА ГЕРОЯХ: <b><font color=\"#ffffff\">1.5/2/2.5/3</font></b><br/>СУММАРНЫЙ УРОН ГЕРОЮ: <b><font color=\"#ffffff\">150/200/250/300</font></b><br/>ДЛИТЕЛЬНОСТЬ НА КРИПАХ: <b><font color=\"#ffffff\">10/10/10/10</font></b><br/>СУММ. УРОН КРИПАМ: <b><font color=\"#ffffff\">1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 115/125/140/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 9/8/7/6",
+        "lore": "Рилай призывает холодный ветер с айсберга Голубого Сердца, который заточает противника в ледяную глыбу.",
+        "hurl": "Crystal_Maiden",
+        "name": "crystal_maiden_frostbite",
+        "youtube":"6FnrLNZxtxQ",
+        "id": 1
+    },
+    {
+        "dname": "Arcane Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>Действует на <b><font color=\"#ffffff\">союзников</font></b>",
+        "desc": "Увеличивает скорость восстановления маны всех союзников на карте. Crystal Maiden получает двойной бонус.",
+        "notes": "Складывается с другими численными бонусами к регенерации маны.<br/>Численный бонус к регенерации маны не будет учитываться при подсчете процентного.",
+        "dmg": "",
+        "attrib": "ДОП. РЕГЕН МАНЫ: <b><font color=\"#ffffff\">1/1.5/2/2.5</font></b>",
+        "cmb": "",
+        "lore": "Холод — сущность магии, поэтому присутствие ледяной волшебницы Рилай позволяет союзникам использовать магию в избытке.",
+        "hurl": "Crystal_Maiden",
+        "name": "crystal_maiden_brilliance_aura",
+        "youtube":"JGBd1B3UW38",
+        "id": 2
+    },
+    {
+        "dname": "Freezing Field",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, прерываемая</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — окружает Crystal Maiden случайными ледяными взрывами, замедляющими врагов и наносящими большой урон, в течение 10 секунд.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "В первую секунду заклинания замедляются все враги в области действия, даже если взрывы их не задели.<br/>Взрыв происходит каждую 0,1 секунды; всего их 100.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">835</font></b><br/>РАДИУС ВЗРЫВА: <b><font color=\"#ffffff\">300</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">30%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">30</font></b><br/>УРОН: <b><font color=\"#ffffff\">105/170/250</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">170/250/310</font></b><br/><font color=\"#6fe871\">ЗАМЕДЛЕНИЕ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">50%</font></b><br/><font color=\"#6fe871\">ЗАМЕДЛЕНИЕ АТАКИ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">50</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/400/600<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 90",
+        "lore": "Ледяные пустоши — место, где находилась в изгнании Рилай. Вершиной ее волшебства является возможность создать такую же ледяную бурю, как те, что бушуют в пустошах.",
+        "hurl": "Crystal_Maiden",
+        "name": "crystal_maiden_freezing_field",
+        "youtube":"xesyW_27uJc",
+        "id": 3
+    }
+]

@@ -1,0 +1,128 @@
+{
+	"Hero":"phantom_lancer",
+	"Title":"Newgoods' PL Guide 6.82 UPDATE",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Earlygame Items":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"diffusal_blade",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"soul_ring",
+				"poor_mans_shield",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"manta",
+				"butterfly",
+				"black_king_bar"
+			],
+			"Lategame Items":
+			[
+				"greater_crit",
+				"travel_boots",
+				"monkey_king_bar",
+				"assault",
+				"abyssal_blade",
+				"sphere",
+				"skadi"
+			],
+			"Avoid":
+			[
+				"ring_of_aquila",
+				"radiance",
+				"sange_and_yasha",
+				"bfury",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"This will help you with last hitting and later on, jungling. If you're taking a ring first, make sure to buy this later.",
+				"ring_of_protection":"Pick this up if you expect a lot of harass in your lane. Later builds into tranquils.",
+				"stout_shield":"Get one of these if you're expecting a lot of physical harass.",
+				"tpscroll":"Always carry a TP scroll!",
+				"travel_boots":"Boots of Travel let you splitpush much more easily.",
+				"power_treads":"After 6.79 you should get Treads instead of Tranqs.",
+				"hand_of_midas":"Hand of Midas allows you to increase your farm and get more levels, faster.",
+				"poor_mans_shield":"SITUATIONAL: You can get this if you got a Stout Shield at the start. It provides additional protection as well as a nice bit of AGI.",
+				"vladmir":"Vladmir's Offering allows you to jungle early if the lane isn't going well, as well as providing sustain. Don't get both a Drum and a Vlad's.",
+				"assault":"Can be picked up to increase illusion's tankiness.",
+				"heart":"A Heart gives your illusions much more tankiness and allow PL to quickly rejoin a fight with his increased HP regeneration.",
+				"black_king_bar":"More necessary this time around, as PL is now more often than not with his illusions. He's also a lot squishier, so having a BKB helps.",
+				"sphere":"Can be used against heroes with long single-target disables.",
+				"rapier":"Illusions don't get flat damage increase. (But you can still buy it to show off!)",
+				"monkey_king_bar":"This only gives your illusions True Strike, not bashes or extra damage. Build against evasive heroes like Brewmaster, Phantom Assassin, or anyone who would build a butterfly.",
+				"radiance":"Your illusions only get the +45 damage fire tick, and for this much money you're much better off buying something that increases your damage or survivability more.",
+				"butterfly":"Your illusions also get the dodge chance, so they become a lot harder to kill.",
+				"greater_crit":"While illusions do benefit from the critical hit chance, they don't get the flat damage increase. Build this as your last item.",
+				"basher":"Illusions don't get bash.
+",
+				"bfury":"No cleave for your illusions, I'm afraid.
+",
+				"manta":"A Manta Style gives you a lot more splitpushing and teamfight capabilities by allowing you to kickstart your illusion production. Note that Manta/Illusion runes don't count towards Juxtapose, so this allows you to have 10 illusions.",
+				"sange_and_yasha":"Illusions can't use Sange's maim. Use that Yasha for a Manta instead.
+",
+				"skadi":"You can replace your Diffusal Blade with this as a final item.",
+				"diffusal_blade":"A diffusal is your first main pickup. The mana burn orb effect works on illusions, so you're hitting a lot harder. The active can be used to chase people down or to kill summons such as Warlock's golems.",
+				"soul_ring":"SITUATIONAL: A Soul Ring is a great pickup if you want to harass or possibly kill enemies in your lane. Don't pick this up if you're farming uncontested.",
+				"ancient_janggo":"SITUATIONAL: Drum isn't as powerful as it used to be, but can still be picked up if you feel you need extra stats.",
+				"medallion_of_courage":"SITUATIONAL: Can be picked up after Diffusal Blade if you're looking to fight early.",
+				"abyssal_blade":"Allows you to lock down sneaky targets.",
+				"ring_of_aquila":"The aura this item gives doesn't help your illusions much. Build a Drum instead.",
+				"tranquil_boots":"Tranquil boots will give you a lot of extra sustain, allowing you to farm and jungle more easily"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_lancer_doppelwalk",
+			"2":"phantom_lancer_spirit_lance",
+			"3":"phantom_lancer_spirit_lance",
+			"4":"phantom_lancer_phantom_edge",
+			"5":"phantom_lancer_spirit_lance",
+			"6":"phantom_lancer_juxtapose",
+			"7":"phantom_lancer_spirit_lance",
+			"8":"phantom_lancer_phantom_edge",
+			"9":"phantom_lancer_phantom_edge",
+			"10":"phantom_lancer_doppelwalk",
+			"11":"phantom_lancer_juxtapose",
+			"12":"phantom_lancer_phantom_edge",
+			"13":"phantom_lancer_doppelwalk",
+			"14":"phantom_lancer_doppelwalk",
+			"15":"attribute_bonus",
+			"16":"phantom_lancer_juxtapose",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,109 @@
+{
+	"Hero":"omniknight",
+	"Title":"[DMX] Omniknight (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"magic_stick",
+				"boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ring_of_basilius",
+				"ancient_janggo",
+				"vladmir",
+				"sange_and_yasha",
+				"heavens_halberd",
+				"radiance",
+				"heart",
+				"ghost",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Si le hardcarry vous focus trop, vous pouvez faire un ghost scepter qui vous aidera en plus de votre ultimate.",
+				"courier":"Prenez des wards si le coursier à déjà été pris",
+				"radiance":"Si vous êtes parti sur un Omniknight carry, une radiance est un bon item. Ne faites radiance que si vous roulez sur votre adversaire !",
+				"sange_and_yasha":"Si vous êtes parti sur un omniknight semi-carry vous pouvez faire une sange et yasha qui vous apportera tanking et dps.",
+				"heavens_halberd":"Si le hardcarry ennemi fait trop mal, faire une hallebarde permettra de le rendre inutile pour quelques secondes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_purification",
+			"2":"omniknight_repel",
+			"3":"omniknight_purification",
+			"4":"omniknight_degen_aura",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_degen_aura",
+			"9":"omniknight_degen_aura",
+			"10":"omniknight_degen_aura",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_repel",
+			"13":"omniknight_repel",
+			"14":"omniknight_repel",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"omniknight_purification":"Un heal très puissant qui inflige des dommages purs aux ennemis à proximité. Maxez ce sort en premier afin de heal plus, et de faire plus mal !",
+				"omniknight_repel":"Une mini Black King Bar très utile lorsque la team adverse possède beaucoup de contrôles. Attention cependant vous ne pourrez pas heal une unité sous l'effet de Repel.",
+				"omniknight_degen_aura":"cette Aura est très pratique pour rattraper vos adversaires et pour baisser les dégâts du carry adverse.",
+				"omniknight_guardian_angel":"Ultimate de zone qui permet à toute votre équipe d'être insensible aux dommages physiques. Vous pouvez rendre un allié totalement invincible en utilisant Repel sur lui après avoir utilisé votre ultimate."
+		}
+	}
+}

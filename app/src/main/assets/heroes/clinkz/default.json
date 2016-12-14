@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_clinkz",
+	"Title":"Recommended items for Clinkz",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"slippers",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"ring_of_aquila",
+			"magic_wand",
+			"oblivion_staff"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"orchid",
+			"monkey_king_bar",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"greater_crit",
+			"butterfly",
+			"skadi",
+			"sheepstick",
+			"black_king_bar"
+		]
+	}
+}

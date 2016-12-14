@@ -1,0 +1,79 @@
+{
+	"Hero":"weaver",
+	"Title":"GreyShark.Weaver",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"sphere"
+			],
+			"Mid Game":
+			[
+				"desolator",
+				"monkey_king_bar"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"butterfly"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"hand_of_midas"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_geminate_attack",
+			"4":"weaver_shukuchi",
+			"5":"weaver_geminate_attack",
+			"6":"weaver_time_lapse",
+			"7":"weaver_geminate_attack",
+			"8":"weaver_shukuchi",
+			"9":"weaver_shukuchi",
+			"10":"weaver_the_swarm",
+			"11":"weaver_time_lapse",
+			"12":"weaver_the_swarm",
+			"13":"weaver_the_swarm",
+			"14":"weaver_the_swarm",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

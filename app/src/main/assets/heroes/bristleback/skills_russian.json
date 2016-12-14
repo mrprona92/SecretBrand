@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Viscous Nasal Goo",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Обильно сморкается на жертву, снижая ее броню и скорость передвижения. Эффекты от действия способности складываются, а время действия обновляется с каждым повторным применением.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5</font></b><br/>СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">1/1.4/1.8/2.2</font></b><br/>БАЗОВОЕ ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%</font></b><br/>ЗАМЕДЛЕНИЕ ЗА КАЖДЫЙ ЭФФЕКТ: <b><font color=\"#ffffff\">3%/6%/9%/12%</font></b><br/>МАКСИМУМ ЭФФЕКТОВ: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/30/30/30<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1.50",
+        "lore": "Простуду, подхваченную в снегах, Bristleback делает своим преимуществом.",
+        "hurl": "Bristleback",
+        "name": "bristleback_viscous_nasal_goo",
+        "youtube":"hYjBnO7iwj4",
+        "id": 0
+    },
+    {
+        "dname": "Quill Spray",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Выпускает ливень из игл, нанося урон всем врагам вокруг себя. Если в течение следующих 14 секунд цель снова будет атакована иглами, она получит дополнительный урон.",
+        "notes": "Урон от этой способности не уменьшается способностями, блокирующими урон.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">625</font></b><br/>БАЗОВЫЙ УРОН ИГЛ: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">30/32/34/36</font></b><br/>ДЛИТЕЛЬНОСТЬ ОДНОГО ЭФФЕКТА: <b><font color=\"#ffffff\">14</font></b><br/>МАКСИМАЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">400</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 35/35/35/35<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 3",
+        "lore": "Честь вышибалы весьма остра. Как и его шипы.",
+        "hurl": "Bristleback",
+        "name": "bristleback_quill_spray",
+        "youtube":"9GopSwJPPO8",
+        "id": 1
+    },
+    {
+        "dname": "Bristleback",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Bristleback получает меньше урона от атак со спины и сбоку. При получении 250 единиц урона со спины применяется способность Quill Spray текущего уровня.",
+        "notes": "Тыл героя считается в пределах 70 градусов от середины его спины.<br/>Боками героя считаются 110 градусов от середины его спины.",
+        "dmg": "",
+        "attrib": "СНИЖЕНИЕ УРОНА ОТ АТАК С БОКОВ: <b><font color=\"#ffffff\">8%/12%/16%/20%</font></b><br/>СНИЖЕНИЕ УРОНА ОТ АТАК В СПИНУ: <b><font color=\"#ffffff\">16%/24%/32%/40%</font></b>",
+        "cmb": "",
+        "lore": "Иногда бывает полезно повернуться спиной к врагу во время битвы.",
+        "hurl": "Bristleback",
+        "name": "bristleback_bristleback",
+        "youtube":"0peFZ-iqxRA",
+        "id": 2
+    },
+    {
+        "dname": "Warpath",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Bristleback впадает в ярость каждый раз, когда использует способность, тем самым повышая скорость передвижения и урон.",
+        "notes": "Иллюзии героя также получат бонусы.<br/>Использование предметов не активирует эту способность.",
+        "dmg": "",
+        "attrib": "БОНУС К УРОНУ ЗА КАЖДЫЙ ЭФФЕКТ: <b><font color=\"#ffffff\">20/25/30</font></b><br/>БОНУС К СКОРОСТИ ЗА КАЖДЫЙ ЭФФЕКТ: <b><font color=\"#ffffff\">3%/4%/5%</font></b><br/>ДЛИТЕЛЬНОСТЬ ОДНОГО ЭФФЕКТА: <b><font color=\"#ffffff\">14</font></b><br/>МАКС. МНОЖ.: <b><font color=\"#ffffff\">5/6/7</font></b>",
+        "cmb": "",
+        "lore": "«Держи себя в руках», — часто наставляла его мама. Но в битве ярость всегда к месту.",
+        "hurl": "Bristleback",
+        "name": "bristleback_warpath",
+        "youtube":"IQsYSrW9-QI",
+        "id": 3
+    }
+]

@@ -1,0 +1,86 @@
+{
+	"Hero":"medusa",
+	"Title":"[DMX] Medusa (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"circlet",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"power_treads",
+				"pers",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"sphere",
+				"manta",
+				"tpscroll"
+			],
+			"Fin de Partie":
+			[
+				"skadi",
+				"butterfly",
+				"greater_crit",
+				"travel_boots",
+				"rapier",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"medusa_mana_shield",
+			"2":"medusa_mystic_snake",
+			"3":"medusa_mystic_snake",
+			"4":"medusa_split_shot",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_mana_shield",
+			"13":"medusa_mana_shield",
+			"14":"medusa_mana_shield",
+			"15":"medusa_split_shot",
+			"16":"medusa_stone_gaze",
+			"17":"medusa_split_shot",
+			"18":"medusa_split_shot",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"medusa_split_shot":"Ce sort vous permet d'attaquer plusieurs cibles en même temps, mais au prix de vos dommages. Ne l'utilisez que pour push/dépush en début de game. Par contre en fin de game, activez le lors de chaque teamfight.",
+				"medusa_mystic_snake":"Votre principal nuke et moyen d'harass. Essayez de toucher les héros ennemis avec ce sort pour leur infliger beaucoup de dégâts et récupérer du mana.",
+				"medusa_mana_shield":"Ce bouclier vous permettra de tanker beaucoup au prix de votre mana. Attention à ne pas l'activer pour rien ou votre mana fondera comme neige au soleil.",
+				"medusa_stone_gaze":"Ulti très intéressant pour fuir ou lors des teamfights pour affaiblir tous les ennemis qui vous regardent ! N'hésitez pas à l'utilisez en permanence lorsqu'il est niveau 3, car il coutera alors 0 de mana et aura un cd de 60 secondes.",
+				"attribute_bonus":"Medusa a besoin de stats, car elle en manque naturellement."
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shadow Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бросает отравленный кинжал, поражающий цель и наносящий периодический урон. Скорость передвижения отравленного врага снизится на 15 секунд. Периодический урон наносится каждые 3 секунды.",
+        "notes": "Враг под воздействием этой способности со временем восстанавливает потерянную скорость.<br/>Юнит под воздействием этой способности может быть добит союзниками, если уровень его здоровья опустится ниже 25%.",
+        "dmg": "",
+        "attrib": "УРОН ОТ ПОПАДАНИЯ: <b><font color=\"#ffffff\">50/75/100/125</font></b><br/>ПЕРИОДИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">30/40/50/60</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">450/475/500/525</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/12/8/4",
+        "lore": "Акаша всегда страстно наслаждается страданиями жертвы, пронзенной ее отравленным кинжалом.",
+        "hurl": "Queen_of_Pain",
+        "name": "queenofpain_shadow_strike",
+        "youtube":"Qnv17DFLvbc",
+        "id": 0
+    },
+    {
+        "dname": "Blink",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Телепортация на короткую дистанцию, позволяющая ворваться в схватку или быстро из нее сбежать.",
+        "notes": "Многие снаряды могут быть сбиты с цели применением этой способности.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/60/60/60<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/12/9/6",
+        "lore": "Жизнь негласной королевы соответствует её титулу, делая боль неминуемой.",
+        "hurl": "Queen_of_Pain",
+        "name": "queenofpain_blink",
+        "youtube":"ZaFlZ5YZhbw",
+        "id": 1
+    },
+    {
+        "dname": "Scream Of Pain",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Queen of Pain издает пронзительный крик, наносящий урон всем врагам неподалеку.",
+        "notes": "Наносит урон невидимым врагам.<br/>Эту способность нельзя сбить с цели.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">85/165/225/300</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">475</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 110/120/130/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 7",
+        "lore": "Акаша одурманивает противников своим страстным голосом, когда крадет их души.",
+        "hurl": "Queen_of_Pain",
+        "name": "queenofpain_scream_of_pain",
+        "youtube":"Jb_qB9V9jpE",
+        "id": 2
+    },
+    {
+        "dname": "Sonic Wave",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Создает гигантскую звуковую волну перед Queen of Pain, нанося огромный урон всем вражеским юнитам на ее пути.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Задевает врагов на расстоянии до 1350 единиц.",
+        "dmg": "",
+        "attrib": "МАКСИМАЛЬНЫЙ РАДИУС: <b><font color=\"#ffffff\">450</font></b><br/>УРОН: <b><font color=\"#ffffff\">290/390/490</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">40</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">325/450/575</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 250/360/500<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 135",
+        "lore": "Самая изысканная пытка Акаши — звуковая волна, добивающая ее многострадальных противников.",
+        "hurl": "Queen_of_Pain",
+        "name": "queenofpain_sonic_wave",
+        "youtube":"nfaHlauWaog",
+        "id": 3
+    }
+]

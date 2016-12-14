@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Purification",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Instantly heals a friendly unit and damages all nearby enemy units.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "HEAL/DAMAGE: <b><font color=\"#ffffff\">90/180/270/360</font></b><br/>RADIUS: <b><font color=\"#ffffff\">260</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/120/140/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "Priests of the Omniscience are adept at removing impurities from fellow warriors.",
+        "hurl": "Omniknight",
+        "name": "omniknight_purification",
+        "youtube":"m-oBmTTH_D8",
+        "id": 0
+    },
+    {
+        "dname": "Repel",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Creates a divine barrier around a target unit which grants them Spell Immunity and 100% resistance to Magic Damage.",
+        "notes": "Repel acts the same as other sources of spell immuniy, except it can be purged.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">6/8/10/12</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14",
+        "lore": "When faced with the pit of sacrifice, Purist\u0027s resilience to magic was tested and affirmed.",
+        "hurl": "Omniknight",
+        "name": "omniknight_repel",
+        "youtube":"4B0U8hgXhRY",
+        "id": 1
+    },
+    {
+        "dname": "Degen Aura",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Greatly degenerates the movement and attack capabilities of enemy units that stray too near, including Spell Immune enemies.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "MOVEMENT SLOW: <b><font color=\"#ffffff\">10%/18%/26%/34%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">10/18/26/34</font></b><br/>RADIUS: <b><font color=\"#ffffff\">350</font></b>",
+        "cmb": "",
+        "lore": "The holy embodiment of Purist Thunderwrath is enough to weaken those of lesser faith.",
+        "hurl": "Omniknight",
+        "name": "omniknight_degen_aura",
+        "youtube":"ZQR5hhwtS0o",
+        "id": 2
+    },
+    {
+        "dname": "Guardian Angel",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Omniknight summons a Guardian Angel that grants immunity from physical damage.<br/>Upgradable by Aghanim\u0027s Scepter",
+        "notes": "Affects allies with spell immunity.<br/>Can be purged.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">6/7/8</font></b><br/>RADIUS: <b><font color=\"#ffffff\">600/600/600</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">8/9/10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/175/250<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 150",
+        "lore": "The All Seeing One casts down his protection over those that Purist calls friend.",
+        "hurl": "Omniknight",
+        "name": "omniknight_guardian_angel",
+        "youtube":"LAgsYrdh5zc",
+        "id": 3
+    }
+]

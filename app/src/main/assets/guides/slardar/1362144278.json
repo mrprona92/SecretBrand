@@ -1,0 +1,85 @@
+{
+	"Hero":"slardar",
+	"Title":"LordTweedz Sladar Intiation&carry&disabler",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"vanguard",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"orchid",
+				"sange_and_yasha"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"greater_crit",
+				"monkey_king_bar",
+				"shivas_guard",
+				"blade_mail",
+				"sheepstick",
+				"travel_boots",
+				"mjollnir",
+				"skadi"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_sprint",
+			"3":"slardar_bash",
+			"4":"slardar_slithereen_crush",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_bash",
+			"9":"slardar_bash",
+			"10":"slardar_bash",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_sprint",
+			"13":"slardar_sprint",
+			"14":"slardar_sprint",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Use only for escape, and as a last resort in chases. Dagger should be your main way of intiation.",
+				"slardar_slithereen_crush":"Dagger-slam-orchid-ulti-kill. max early",
+				"slardar_bash":"May The Luck Be With you!",
+				"slardar_amplify_damage":"did it get more overpowered. carries,tanks, supports. nothing can stand against this ulti! spam it!"
+		}
+	}
+}

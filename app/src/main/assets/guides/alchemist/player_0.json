@@ -1,0 +1,60 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "alchemist_goblins_greed",
+        "2": "alchemist_unstable_concoction",
+        "3": "alchemist_goblins_greed",
+        "4": "alchemist_acid_spray",
+        "5": "alchemist_goblins_greed",
+        "6": "alchemist_chemical_rage",
+        "7": "alchemist_unstable_concoction",
+        "8": "alchemist_goblins_greed",
+        "9": "alchemist_unstable_concoction",
+        "10": "alchemist_acid_spray",
+        "11": "alchemist_chemical_rage",
+        "12": "alchemist_unstable_concoction",
+        "13": "alchemist_acid_spray",
+        "14": "alchemist_acid_spray",
+        "15": "attribute_bonus",
+        "16": "alchemist_chemical_rage",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "alchemist_chemical_rage": "Можем не бегать на фонтан, ибо здоровье и мана восстановится очень быстро. Так же дает скорость бега.",
+        "alchemist_goblins_greed": "Благодаря нашему 3 скиллу мы можем нафармить вещи быстрее всех остальных врагов. +30 доп. золота с каждого крипа - это превосходно.",
+        "alchemist_unstable_concoction": "Почтий лучший баш в доте. Чем дольше заряжаем - тем дольше оглушение и больше урон. Но помните, если не кинуть бутылку в течении 5.5 секунд, сам Алхимик получит баш и урон.",
+        "alchemist_acid_spray": "Поможет для фарма или отгона врагов от крипов.\nИногда поможет заганкать жертву, т.к армор снижается."
+    }
+}, "Hero": "alchemist", "ItemBuild": {
+    "ItemTooltips": {
+        "invis_sword": "Ганкерский предмет. Если видим одиночку на линии, то заряжаем бутылку и уходим в инвиз. В инвизе подходим вплотную к противнику и бросаем в него бутылку. Далее нарезаем с ульты. Почти 100% килл врага.",
+        "quelling_blade": "Нам нужно очень много фармить. Покупаем топорик, чтобы лучше добивать крипов.",
+        "phase_boots": "Поможет догнать жертву.",
+        "tango": "Поможет подлечиться на линии.",
+        "stout_shield": "Щиток покупаем против харраса врагов на линии.",
+        "hand_of_midas": "Первый предмет, который мы должны собрать. Усердно фрамим, дополнит наш 3 скилл.",
+        "mjollnir": "Скорость атаки будет жуть, как огромная. С ним мы будем вырезать врагов очень быстро. Наш первый дорогой предмет.",
+        "black_king_bar": "БКБ собираем против вражеских нюков и дизейблов. Противникам остается только уносить ноги.",
+        "assault": "С Кирассой мы начнем господствовать, наша скорость атаки возрастет до максимольной (с Mjolnir).",
+        "abyssal_blade": "Баши будут вылетать очень часто. Плюс второй направленный дизейбл сгодится против двоих-троих врагов.",
+        "greater_crit": "Криты помогут растерзать жертву за 2-3 удара.",
+        "desolator": "Снижаем броню врагу, бьем физ. атаками.",
+        "rapier": "Собирайте, если знаете, что не умрете. Тогда это 100% вин. ",
+        "monkey_king_bar": "Если есть во вражеской тиме Тролль/Мортра или не хватает урона.",
+        "heart": "Добавит жирности."
+    },
+    "Items": {
+        "Начальный закуп.": ["tango", "quelling_blade", "stout_shield"],
+        "Ранняя игра. (до 15-18 минуты)": ["phase_boots", "invis_sword", "hand_of_midas"],
+        "Середина игры.": ["mjollnir", "black_king_bar", "assault"],
+        "Лейт.": ["abyssal_blade", "greater_crit"],
+        "По ситуации.": ["desolator", "rapier", "monkey_king_bar", "heart"]
+    }
+}, "Title": "Гайд на Алхимика."}

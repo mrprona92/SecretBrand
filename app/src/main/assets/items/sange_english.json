@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 10 Damage<br/>+ 16 Strength<br/>MAIM CHANCE: 15%<br/>SLOW: 20%",
+  "cd": false,
+  "components": [
+    "ogre_axe",
+    "belt_of_strength"
+  ],
+  "qual": "artifact",
+  "notes": "",
+  "desc": "Passive: Lesser Maim - Gives a chance on attack to slow movement speed for 4.0 seconds.",
+  "dname": "Sange",
+  "dotaId": "sange",
+  "mc": false,
+  "img": "sange_lg.png",
+  "lore": "Sange is an unusually accurate weapon, seeking weak points automatically.",
+  "id": 162,
+  "created": true,
+  "cost": 2050
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Bloodrage",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Приводит юнита в кровавую ярость, во время которой он наносит и получает повышенный урон. Юниты под действием этой способности восстанавливают себе 25% от максимального здоровья каждого убитого существа, а если умирают сами, то восстанавливают 25% от своего максимального здоровья убийце.",
+        "notes": "Bloodrage можно использовать на врагах, союзниках и на себе.<br/>Способность работает вполсилы, если расстояние между атакующим и целью больше 2200.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">9/10/11/12</font></b><br/>УВЕЛИЧЕНИЕ УРОНА: <b><font color=\"#ffffff\">25%/30%/35%/40%</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/10/8/6",
+        "lore": "Стригвир делится своей животной жаждой кровопролития.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_bloodrage",
+        "youtube":"tG_hgU-jbmY",
+        "id": 0
+    },
+    {
+        "dname": "Blood Rite",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Bloodseeker окропляет выбранную область святой кровью. Через 3 секунды ритуал завершается, нанося противникам урон и запрещая произносить заклинания.",
+        "notes": "Общее время складывается из задержки в 2,6 секунды и 0,4 секунд чтения заклинания.",
+        "dmg": "",
+        "attrib": "ОБЛАСТЬ ДЕЙСТВИЯ: <b><font color=\"#ffffff\">600</font></b><br/>ДЛИТЕЛЬНОСТЬ БЕЗМОЛВИЯ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>УРОН: <b><font color=\"#ffffff\">120/160/200/240</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 29/26/23/20",
+        "lore": "Бескожие близнецы всегда готовы вылечить тех, кто проливает кровь на поле боя.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_blood_bath",
+        "youtube":"0TwYY6Xloio",
+        "id": 1
+    },
+    {
+        "dname": "Thirst",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Позволяет Bloodseeker чувствовать вражеских героев, здоровье которых меньше определенного процентного уровня, давая ему способность видеть их, где бы они ни находились, раскрывая их невидимость, а также увеличивая его скорость и повышая урон в зависимости от потерянного вражескими героями здоровья. Бонусы от разных противников складываются.",
+        "notes": "Не реагирует на иллюзии.",
+        "dmg": "",
+        "attrib": "ПОРОГ ЗДОРОВЬЯ: <b><font color=\"#ffffff\">25%</font></b><br/>МАКС. ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>МАКС. ДОП. УРОН: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "",
+        "lore": "Стригвир приходит в ярость при виде крови.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_thirst",
+        "youtube":"L8zGP8VNG1E",
+        "id": 2
+    },
+    {
+        "dname": "Rupture",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Разрывает кожу врага. Двигающийся под действием этой способности враг получает урон, пропорциональный пройденному расстоянию. Урон игнорирует невосприимчивость к заклинаниям.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">12</font></b><br/>УРОН ПРИ ПЕРЕДВИЖЕНИИ: <b><font color=\"#ffffff\">20%/40%/60%</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/200/250<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60",
+        "lore": "Когда Bloodseeker охотится за тобой, любая рана становится смертельной.",
+        "hurl": "Bloodseeker",
+        "name": "bloodseeker_rupture",
+        "youtube":"qQZtcnvqY68",
+        "id": 3
+    }
+]

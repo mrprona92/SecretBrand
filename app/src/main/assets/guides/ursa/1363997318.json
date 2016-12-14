@@ -1,0 +1,93 @@
+{
+	"Hero":"ursa",
+	"Title":"Jungle Ursa until solo Roshan",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"lifesteal",
+				"smoke_of_deceit"
+			],
+			"coreItems":
+			[
+				"boots",
+				"phase_boots",
+				"orb_of_venom",
+				"tpscroll"
+			],
+			"Core Choices":
+			[
+				"blink",
+				"invis_sword",
+				"black_king_bar",
+				"basher"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"abyssal_blade",
+				"travel_boots",
+				"heart",
+				"satanic",
+				"skadi",
+				"desolator",
+				"sange_and_yasha",
+				"vanguard",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"lifesteal":"You no longer need to finish Vlads to go Roshan, since Fury swipes isn't a unique modifier anymore.",
+				"desolator":"Don't buy this along with another Orb, only with Vlads",
+				"orb_of_venom":"This orb stacks with Lifesteal!",
+				"smoke_of_deceit":"Use this to go Roshan unspotted!",
+				"tranquil_boots":"Get this as soon as possible."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ursa_fury_swipes",
+			"2":"ursa_overpower",
+			"3":"ursa_overpower",
+			"4":"ursa_fury_swipes",
+			"5":"ursa_overpower",
+			"6":"ursa_enrage",
+			"7":"ursa_earthshock",
+			"8":"ursa_fury_swipes",
+			"9":"ursa_overpower",
+			"10":"ursa_fury_swipes",
+			"11":"ursa_enrage",
+			"12":"ursa_earthshock",
+			"13":"ursa_earthshock",
+			"14":"ursa_earthshock",
+			"15":"attribute_bonus",
+			"16":"ursa_enrage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

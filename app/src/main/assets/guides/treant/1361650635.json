@@ -1,0 +1,125 @@
+{
+	"Hero":"treant",
+	"Title":"6.82 - Standard Treant Protector (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"clarity",
+				"tango",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"mekansm",
+				"vladmir",
+				"cyclone",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"necronomicon",
+				"sphere",
+				"refresher",
+				"shivas_guard"
+			],
+			"Last updated: 5/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink, Slow, Ultimate. It's just that Easy. You can use Blink Dagger without breaking your Nature's Guise letting you easily jump around in the forest.",
+				"bottle":"You can use Bottle even when under Nature's Guise. Bottle let's you keep your heal up while also snagging efficient runes to keep your life in check.",
+				"ward_observer":"As a support, buy a courier or wards.",
+				"courier":"As a support, buy a courier or wards.",
+				"mekansm":"Because of how center Treant Protector has to be, Mekansm makes him a great holder; especially given his other healing ability and overall need to be in fights and engagements.",
+				"vladmir":"Good armor and regeneration for your team going for early advantages. This helps team push, engage early and gank much safer.",
+				"pipe":"A great item to repel magic-damage users. Get Pipe of Insight for the health regeneration and the block damage ability.",
+				"urn_of_shadows":"Urn of Shadows is especially good for more passive lanes where you aren't as mana starved and can afford a bit more strength and a bit less mana regeneration. This should replace Bottle if you're going for it.",
+				"cyclone":"Great disable, more movement speed and mana regeneration. Treant love this item.",
+				"necronomicon":"Necromonicon works quite well with your ultimate and also helps make your damage output and pushing power very powerful.",
+				"ultimate_scepter":"Aghanim's Scepter gives you sight in the trees and incredible ability with your ultimate, you don't want to miss this ability as it gives more utility for Treant Protector.",
+				"refresher":"Your ultimate is good, but not that amazing, extend its relevance by getting Refresher Orb.",
+				"shivas_guard":"Shiva's Guard offers more resistance against physical attacks and furthers Treant Protector's impact with his ultimate.",
+				"sphere":"Linken's Sphere transferrable Spell Block makes this quite an attractive item for Treant Protector if you are having trouble filling in your six slots. ",
+				"soul_ring":"Buy the recipe for this item, you can purchase its ingredients at the side-shop.",
+				"ancient_janggo":"This is a great item for Treant to carry on given the extra speed, the needed attack speed bonus and the extra damage it can provide when activated."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_living_armor",
+			"2":"treant_leech_seed",
+			"3":"treant_living_armor",
+			"4":"treant_natures_guise",
+			"5":"treant_living_armor",
+			"6":"treant_overgrowth",
+			"7":"treant_living_armor",
+			"8":"treant_leech_seed",
+			"9":"treant_leech_seed",
+			"10":"treant_leech_seed",
+			"11":"treant_overgrowth",
+			"12":"treant_natures_guise",
+			"13":"treant_natures_guise",
+			"14":"treant_natures_guise",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"Nature's Guise can be used to set up ganks, save opponents in the forest and/or yourself. You can also cast it on others without breaking your own invisibility.",
+				"treant_leech_seed":"Leech Seed deals decent damage with a constant slow. It can be interchangeably leveled for Living Armor.
+
+Leech Seed also gives back health to nearby allies, so cast it on a creep if you're looking to keep allies alive!",
+				"treant_living_armor":"Living Armor can be used globally and on heroes or structures. It blocks X number of hits and regenerates the life of your target. You can use it to allow people to dive towers during chases or to save them from ganks as they escape.",
+				"treant_overgrowth":"Be sure to set this up with Nature's Guise in order to better situate yourself. This is a great ultimate that helps immobilize your foes."
+		}
+	}
+}

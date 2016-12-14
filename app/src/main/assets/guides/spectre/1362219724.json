@@ -1,0 +1,85 @@
+{
+	"Hero":"spectre",
+	"Title":"Skadi-Rush aka The useful Spectre",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"quelling_blade",
+				"flask"
+			],
+			"Stuff you get in Lane":
+			[
+				"tranquil_boots",
+				"poor_mans_shield",
+				"orb_of_venom",
+				"point_booster"
+			],
+			"Get this asap":
+			[
+				"skadi",
+				"maelstrom"
+			],
+			"Time to win":
+			[
+				"mjollnir",
+				"butterfly",
+				"black_king_bar",
+				"satanic",
+				"assault",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"If you are really confident in your CS ability or you want to ignore the jungle until your get close to your skadi, replace this with 2 slippers",
+				"maelstrom":"Somewhat situational item but I consider it core since it allows you to farm that jungle quite fast and the attack speed helps with keeping the skadi debuff up on the target"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_dispersion",
+			"2":"spectre_spectral_dagger",
+			"3":"spectre_spectral_dagger",
+			"4":"spectre_desolate",
+			"5":"spectre_spectral_dagger",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_desolate",
+			"9":"spectre_desolate",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_dispersion",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"Max this first, you need the MS to properly chase targets and escape ganks",
+				"spectre_desolate":"Maxed second to get the damage going",
+				"spectre_dispersion":"Get one level at the start for the laning phase, then ignore it until Dagger and Desolate are maxed",
+				"spectre_haunt":"Get it at six, if you are desperate for starts you can skip level 2 and 3 of the ult, it just increases the duration."
+		}
+	}
+}

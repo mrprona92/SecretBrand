@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Telekinesis",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Используя телекинез, Rubick ненадолго поднимает противника в воздух, а затем швыряет его обратно на землю. Этого хватает, чтобы оглушить всех окружающих его врагов.",
+        "notes": "Когда цель заклинания находится в воздухе, вы можете применить дополнительную способность, чтобы швырнуть противника в указанном направлении.<br/>Поднятый враг не оглушается по приземлении.<br/>Цель можно отбросить максимум на 375 единиц.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ПОДЪЕМА: <b><font color=\"#ffffff\">1.5/1.75/2/2.25</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b><br/>РАДИУС УДАРА: <b><font color=\"#ffffff\">325/325/325/325</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">550/575/600/625</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 22",
+        "lore": "Даже Величайший маг может позволить себе использовать силы в свое удовольствие.",
+        "hurl": "Rubick",
+        "name": "rubick_telekinesis",
+        "youtube":"SbfekAl6ZBM",
+        "id": 0
+    },
+    {
+        "dname": "Telekinesis Land",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Устанавливает место, в которое цель приземлится после окончания действия Telekinesis.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Rubick",
+        "name": "rubick_telekinesis_land",
+        "youtube":"ZLrd3_57xKw",
+        "id": 1
+    },
+    {
+        "dname": "Fade Bolt",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Rubick создает мощный поток магической энергии, которая перемещается между противниками, нанося им урон и снижая силу их атак. Каждый последующий скачок наносит меньше урона.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">70/140/210/280</font></b><br/>СНИЖЕНИЕ УРОНА ЗА СКАЧОК: <b><font color=\"#ffffff\">4%/4%/4%/4%</font></b><br/>УМЕНЬШЕНИЕ УРОНА ГЕРОЕВ: <b><font color=\"#ffffff\">14/20/26/32</font></b><br/>УМЕНЬШЕНИЕ УРОНА КРИПОВ: <b><font color=\"#ffffff\">7/10/13/16</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА: <b><font color=\"#ffffff\">10/10/10/10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/130/140/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/14/12/10",
+        "lore": "Любимое заклинание Rubick для решения проблемы потенциальных убийц по существу довольно несложно.",
+        "hurl": "Rubick",
+        "name": "rubick_fade_bolt",
+        "youtube":"eZ6g4fnlkC8",
+        "id": 2
+    },
+    {
+        "dname": "Null Field",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Знания тайной магии защищают от слабых заклинаний владельца и союзников, увеличивая их сопротивление магии.",
+        "notes": "Сочетается с другими источниками сопротивления магии.",
+        "dmg": "",
+        "attrib": "СОПРОТИВЛЕНИЕ МАГИИ: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">900/900/900/900</font></b>",
+        "cmb": "",
+        "lore": "Не каждый маг может стать Величайшим…",
+        "hurl": "Rubick",
+        "name": "rubick_null_field",
+        "youtube":"rGPFkEHi8QA",
+        "id": 3
+    },
+    {
+        "dname": "Spell Steal",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Rubick изучает остатки магической сущности вражеского героя, обучаясь секретам последнего заклинания, которое произнес этот герой. Маг сможет использовать это заклинание как свое собственное в течение нескольких минут, или пока он не умрет.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Невозможно красть способности предметов.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">180/240/300</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 25/25/25<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/18/16",
+        "lore": "…но даже его ограниченная магия может стать очень полезной.",
+        "hurl": "Rubick",
+        "name": "rubick_spell_steal",
+        "youtube":"RBiGEs77jDQ",
+        "id": 4
+    }
+]

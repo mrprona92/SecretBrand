@@ -1,0 +1,70 @@
+{
+	"Hero":"dazzle",
+	"Title":"GreyShark.Dazzle",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"arcane_boots",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"force_staff",
+				"pipe"
+			],
+			"Late Game":
+			[
+				"refresher",
+				"sheepstick",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shallow_grave",
+			"2":"dazzle_shadow_wave",
+			"3":"dazzle_shadow_wave",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_shadow_wave",
+			"6":"dazzle_poison_touch",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_poison_touch",
+			"9":"dazzle_poison_touch",
+			"10":"dazzle_weave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_shallow_grave",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

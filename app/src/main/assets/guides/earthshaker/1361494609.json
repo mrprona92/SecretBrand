@@ -1,0 +1,97 @@
+{
+	"Hero":"earthshaker",
+	"Title":"[DMX] Earthshaker (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"veil_of_discord",
+				"shivas_guard",
+				"heart",
+				"refresher",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"force_staff",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si quelqu'un d'autre à pris le coursier, prenez des wards !",
+				"force_staff":"Peut remplacer une dagger si vous avez du mal à atteindre 2150gold sans mourir. Vous pouvez aussi l'acheter en plus d'une dagger pour encore plus de mobilité.",
+				"invis_sword":"Item qui peut fonctionner en game publique  de bas niveau en remplacement de la dagger, attention cependant si vos ennemis ont de quoi vous révéler !",
+				"ancient_janggo":"Si vous n'arrivez pas du tout à farmez, vous pouvez faire un Drum of endurance pour aider votre équipe et vous même. Il vous donnera toutes les stats utiles."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_enchant_totem",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_aftershock",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Ce sort est votre principale source de dommages et votre contrôle le plus efficace. Essayez de bloquer les ennemis avec sa grande portée !",
+				"earthshaker_enchant_totem":"Très bon sort ajouter un petit burst physique sur votre ennemi. Vous pouvez aussi vous en servir pour last hit les tours plus facilement. N'oubliez pas qu'il stunera vos adversaires grâce à votre passif, alors abusez de ce sort !",
+				"earthshaker_aftershock":"Très bon passif qui transformera tous vos sorts en stun, ce qui vous permettra avec un peu de pratique de placer tous vos sorts dans un teamfights sans que les adversaires de puissent réagir.",
+				"earthshaker_echo_slam":"Ultimate de zone dévastateur en teamfight s'il y a beaucoup d'ennemis. Essayez de l'utilsez en combinaison avec une blink dagger pour pouvoir vous positionner parfaitement."
+		}
+	}
+}

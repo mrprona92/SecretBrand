@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Echo Stomp",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Channeled</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Elder Titan and his Astral Spirit both stomp the ground, damaging and knocking nearby enemy units unconscious around their locations.  The Elder Titan stomp deals physical damage, while the Spirit stomp deals magical damage.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "CAST TIME: <b><font color=\"#ffffff\">1.6</font></b><br/>RADIUS: <b><font color=\"#ffffff\">475</font></b><br/>SLEEP DURATION: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>STOMP DAMAGE: <b><font color=\"#ffffff\">80/90/100/110</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14/13/12/11",
+        "lore": "The force of creation still echoes in the stomp of the Titan.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_echo_stomp",
+        "youtube":"yBDyBbeVK0k",
+        "id": 0
+    },
+    {
+        "dname": "Astral Spirit",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Elder Titan sends forth his Astral Spirit, damaging any units it passes through.  When the spirit rejoins the Titan, it grants bonus damage and movement speed for each unit it damaged.<br/>The Astral Spirit possesses the Echo Stomp, Return Spirit, and Natural Order abilities.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">275</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">60/90/120/150</font></b><br/>DURATION: <b><font color=\"#ffffff\">8</font></b><br/>BUFF DURATION: <b><font color=\"#ffffff\">9</font></b><br/>BONUS SPEED(CREEPS): <b><font color=\"#ffffff\">1%</font></b><br/>BONUS SPEED(HEROES): <b><font color=\"#ffffff\">5%</font></b><br/>BONUS DAMAGE(CREEPS): <b><font color=\"#ffffff\">3/6/9/12</font></b><br/>BONUS DAMAGE(HEROES): <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/110/110/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "Like the four fundamentals, Elder Titan exists across all planes at once and can draw other aspects of himself to assist in times of need.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_ancestral_spirit",
+        "youtube":"OUUqiie5-Z8",
+        "id": 1
+    },
+    {
+        "dname": "Natural Order",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Reduces all elements to their basic levels, removing base armor and magic damage resistance from nearby enemy units.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>BASE ARMOR REDUCTION: <b><font color=\"#ffffff\">40%/60%/80%/100%</font></b><br/>BASE RESIST REDUCTION: <b><font color=\"#ffffff\">12%/19%/26%/33%</font></b>",
+        "cmb": "",
+        "lore": "As it was at the beginning, Elder Titan makes it so again.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_natural_order",
+        "id": 2
+    },
+    {
+        "dname": "Return Astral Spirit",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Returns the Astral Spirit to Elder Titan.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_return_spirit",
+        "youtube":"ql8H5QjhygM",
+        "id": 3
+    },
+    {
+        "dname": "Earth Splitter",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Sends forth a jagged crack in front of Elder Titan. After 3 seconds, the crack implodes, slowing movement while dealing damage to each enemy based on their maximum life. Half of the damage dealt is Magical damage, while the other half is Physical damage.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "EXPLODE DELAY: <b><font color=\"#ffffff\">3.14</font></b><br/>CRACK WIDTH: <b><font color=\"#ffffff\">300</font></b><br/>CRACK LENGTH: <b><font color=\"#ffffff\">2400</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">30%/40%/50%</font></b><br/>SLOW DURATION: <b><font color=\"#ffffff\">3/4/5</font></b><br/>MAX HP AS DAMAGE: <b><font color=\"#ffffff\">35%</font></b><br/><font color=\"#6fe871\">SCEPTER SLOW/DISARM DURATION:</font></b> <b><font color=\"#ffffff\">4/5/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/175/175<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 100",
+        "lore": "That which he created, the titan tears asunder.",
+        "hurl": "Elder_Titan",
+        "name": "elder_titan_earth_splitter",
+        "youtube":"OWI9tNGa6dQ",
+        "id": 4
+    }
+]

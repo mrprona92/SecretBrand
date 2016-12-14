@@ -1,0 +1,124 @@
+{
+	"Hero":"dazzle",
+	"Title":"Dazzle - My Shadow LEAPS Ahead! Support Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"courier",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"sobi_mask",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"medallion_of_courage",
+				"mekansm",
+				"ward_observer",
+				"ward_sentry",
+				"void_stone"
+			],
+			"Extension":
+			[
+				"cyclone",
+				"soul_booster",
+				"sheepstick",
+				"orchid",
+				"ultimate_scepter",
+				"heavens_halberd",
+				"pipe",
+				"ghost"
+			],
+			"Alternatives":
+			[
+				"arcane_boots"
+			],
+			"Untitled":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Early Stats, builds into a Magic Wand",
+				"sobi_mask":"Dazzle has high intelligence so Sage's Mask provides great early game mana regeneration. Builds into Medallion of Courage.",
+				"magic_wand":"Particularly effective on Dazzle for burst regen after Shallow Grave. Allows clutch heals and Shallow Graves in situations where you are out of mana.",
+				"ghost":"Provides immunity from carries. Very powerful if you are being focussed by a Lifestealer or Anti-Mage.",
+				"ward_observer":"Wards win games. If you are the only support, you should be buying them... particulary after your core.",
+				"courier":"Your team requires a courier. Buy it if you do not have one.",
+				"phase_boots":"The best boots on Dazzle. More damage to exploit is strong attack animation and the speed boost for greater positioning and escapes during team fights. Also helps for chasing.",
+				"void_stone":"Dazzle's high natural Intelligence and Intelligence gain mean that Void Stone provides a ton of regen. Great in the mid-game when you are casting all your abilities frequently.",
+				"mekansm":"Your team needs one and Dazzle is a great Mek carrier. Turn teamfights with Shallow Grave and Mekansm while providing strong pushing support in the early-mid game.",
+				"pipe":"Carrying Mekansm and Pipe of Insight on the same Hero is risky. Your team should have a Pipe though, so decide whether to build this based on your allies.",
+				"sheepstick":"Best item in the game. If you can afford a Mystic Staff, you should always aim for this.",
+				"orchid":"Great mana regen and a powerful active. The Intelligence and attack speed help if you are going for a more semi-carry Dazzle build. Provides no survivability though, so be careful.",
+				"cyclone":"Cheapest mana regen booster with an extremely powerful active to help you survive in team fights. The movement speed boost is also very helpful in unison with Phase Boots.",
+				"ultimate_scepter":"Makes Weave unmissable and provides and extra 10 Armor to the end of your Weave. Enemy Negative Armor is capped at -20, so this helps against tanky teams.",
+				"soul_booster":"If you have no idea what to buy, a Soul Booster is a good pickup. Provides survivability and much needed mana. This item has a free +100% mana regen when you complete it.",
+				"arcane_boots":"Not great on Dazzle because his natural mana regen is already high. Get these if you're pure support and haven't got your Phase Boots & Medallion by 20 minutes.",
+				"medallion_of_courage":"Extremely powerful item on Dazzle. Provides instant physical damage amplification on your target, and all of your abilities are physical... great with Phase Boots.",
+				"heavens_halberd":"Provides a lot of survivability and comes with a powerful anti-carry active."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shadow_wave",
+			"2":"dazzle_poison_touch",
+			"3":"dazzle_poison_touch",
+			"4":"dazzle_shallow_grave",
+			"5":"dazzle_poison_touch",
+			"6":"dazzle_shadow_wave",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_shadow_wave",
+			"9":"dazzle_shallow_grave",
+			"10":"dazzle_weave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_poison_touch",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"Powerful slow that stuns at Level 3. Delay Level 4 until after your other skills.
+
+INTERRUPTS CHANNELING ABILITIES!",
+				"dazzle_shallow_grave":"Difficult to cast effectively until Level 2-3 due to its short range. Try to cast at the last possible moment, but do not risk the death of your carry.
+
+Very powerful with lifestealing Heroes like Ursa, Huskar and Lifestealer.",
+				"dazzle_shadow_wave":"Pushes lanes, saves allies, kills enemies and provides gold. Incredibly powerful against melee lane opponents and with illusion-creating allies.
+
+Early game pushing strats should make use of this ability, it can gib creep waves from Level 3.",
+				"dazzle_weave":"Very powerful when it has time to set in. Casting it before a teamfight can give your team a huge defensive advantage. Casting it during a battle will typically win you the engagement if people are fighting after 10 seconds.
+
+Consider skipping until Level 10. "
+		}
+	}
+}

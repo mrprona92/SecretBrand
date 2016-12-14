@@ -1,0 +1,101 @@
+{
+	"Hero":"sven",
+	"Title":"THIS WILL BE ABSURD SVEN GUIDE",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"gauntlets",
+				"gauntlets",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"mask_of_madness",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"abyssal_blade",
+				"assault",
+				"ancient_janggo",
+				"heart",
+				"blink",
+				"armlet"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If your team lacks proper initiation this can help.",
+				"gauntlets":"you have to hands so you need two gauntlets.",
+				"branches":"stats",
+				"magic_wand":"you'll never be sad getting one of these!",
+				"clarity":"More mana for stuns.",
+				"flask":"regen",
+				"tango":"Tangos help you get HP.",
+				"power_treads":"sven benefits most from these! tread switching helps with mana issues (which you have as sven) and the attack speed is helpful!",
+				"assault":"More armor and attack speed..",
+				"heart":"This makes you pretty tanky.",
+				"black_king_bar":"You do lots of damage with your ult, so going first item BKB is nice because it allows you to get off your abilities uncontested and do lots of DPS.",
+				"greater_crit":"you oneshot people!",
+				"armlet":"Nice build up, good stats, the active allows you to do some cool (or clowny) things.",
+				"mask_of_madness":"The DPS increase you get from this insane, it has good synergy  with your abilities and BKB.",
+				"ancient_janggo":"If you're doing poor in the early game going bracer -> drum can be helpful.",
+				"abyssal_blade":"The stun from this is nice, and so is the bash chance. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"sven_warcry",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_warcry",
+			"9":"sven_warcry",
+			"10":"sven_great_cleave",
+			"11":"sven_gods_strength",
+			"12":"sven_great_cleave",
+			"13":"sven_great_cleave",
+			"14":"sven_great_cleave",
+			"15":"attribute_bonus",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"This is one of the best stuns in the game, get and max this first.",
+				"sven_great_cleave":"Early game, you don't have the damage to make cleave particularly useful, it also pushes the lane.",
+				"sven_warcry":"The bonus armor is good and the movespeed is great as well, allowing you to chase, escape, etc.",
+				"sven_gods_strength":"This is what gives you your damage, no reason not to get this at 6/11/16",
+				"attribute_bonus":"Stats are useful on Sven, but I feel his abilities all should take priority. Getting one point or so over warcry isn't too awful though, as it gives you more mana for stuns."
+		}
+	}
+}

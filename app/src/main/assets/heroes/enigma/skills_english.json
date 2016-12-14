@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Malefice",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Focuses Enigma\u0027s power on a target, causing it to take damage and become repeatedly stunned for multiple instances.  An instance strikes every 2 seconds.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "STUN DURATION: <b><font color=\"#ffffff\">0.25/0.5/0.75/1</font></b><br/>DAMAGE PER HIT: <b><font color=\"#ffffff\">25/40/55/70</font></b><br/>INSTANCES: <b><font color=\"#ffffff\">3/3/3/3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/130/150/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15",
+        "lore": "Strange gravities pull at the core of those who would oppose you, holding them in place.",
+        "hurl": "Enigma",
+        "name": "enigma_malefice",
+        "youtube":"y0u1c81JqM0",
+        "id": 0
+    },
+    {
+        "dname": "Demonic Conversion",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b>",
+        "desc": "Transforms a creep into three fragments of Enigma himself.  These eidolons are all under Enigma\u0027s control, and repeated successful attacks cause them to multiply.  When this happens, the eidolons have their health restored.",
+        "notes": "Converted enemy units will give gold bounty and experience.",
+        "dmg": "",
+        "attrib": "ATTACKS TO MULTIPLY: <b><font color=\"#ffffff\">6/6/6/6</font></b><br/>EIDOLON HP: <b><font color=\"#ffffff\">180/200/220/240</font></b><br/>EIDOLON DAMAGE: <b><font color=\"#ffffff\">20/28/38/47</font></b><br/>DURATION: <b><font color=\"#ffffff\">35</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 170/170/170/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 35",
+        "lore": "Enigma is capable of drawing aspects of himself from other dimensions - the result is a trio of dark eidolons that hunt the corporeal plane.",
+        "hurl": "Enigma",
+        "name": "enigma_demonic_conversion",
+        "youtube":"9gj20AVAwE4",
+        "id": 1
+    },
+    {
+        "dname": "Midnight Pulse",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Steeps an area in dark resonance, damaging enemy units based on their max HP.",
+        "notes": "Damage goes through spell immunity.<br/>This ability destroys trees in its area.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">600</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">3%/3.75%/4.5%/5.25%</font></b><br/>DURATION: <b><font color=\"#ffffff\">11</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 95/110/125/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 35",
+        "lore": "A section of the world slowly descends into the void.",
+        "hurl": "Enigma",
+        "name": "enigma_midnight_pulse",
+        "youtube":"qrhVMKaO0NA",
+        "id": 2
+    },
+    {
+        "dname": "Black Hole",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "CHANNELED - Summons a vortex that sucks in nearby enemy units.  Enemies affected by Black Hole cannot move, attack, or cast spells.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Disables enemies through spell immunity.",
+        "dmg": "",
+        "attrib": "DAMAGE PER SECOND: <b><font color=\"#ffffff\">55/110/165</font></b><br/>RADIUS: <b><font color=\"#ffffff\">400</font></b><br/>DURATION: <b><font color=\"#ffffff\">4/4/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 275/325/375<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/190/180",
+        "lore": "The ground trembles as Enigma channels his ultimate vortex of destruction, a singularity with the power to end worlds.",
+        "hurl": "Enigma",
+        "name": "enigma_black_hole",
+        "youtube":"FOKIcPeAYPw",
+        "id": 3
+    }
+]

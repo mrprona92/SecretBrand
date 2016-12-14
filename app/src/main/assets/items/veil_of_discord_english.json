@@ -1,0 +1,19 @@
+{
+  "dotaId": "veil_of_discord",
+  "id": 190,
+  "img": "veil_of_discord_lg.png",
+  "dname": "Veil of Discord",
+  "qual": "rare",
+  "cost": 2520,
+  "desc": "Active: Magic Weakness - Emits a weakening blast that increases the magic damage enemies take. Lasts 16.0 seconds.",
+  "notes": "",
+  "attrib": "+ 6 HP Regeneration<br/>+ 6 Armor<br/>+ 6 All Attributes<br/>+ 6 Damage<br/>INCREASED MAGIC DAMAGE: 25%<br/>MAGIC WEAKNESS RADIUS: 600<br/>MAGIC WEAKNESS DURATION: 16",
+  "mc": 50,
+  "cd": 20,
+  "lore": "The headwear of corrupt magi.",
+  "components": [
+    "helm_of_iron_will",
+    "null_talisman"
+  ],
+  "created": true
+}

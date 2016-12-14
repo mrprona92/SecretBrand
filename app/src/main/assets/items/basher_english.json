@@ -1,0 +1,19 @@
+{
+  "dotaId": "basher",
+  "id": 143,
+  "img": "basher_lg.png",
+  "dname": "Skull Basher",
+  "qual": "epic",
+  "cost": 2950,
+  "desc": "Passive: Bash - Grants each attack a chance to stun the target for 1.4 seconds and deal 60 bonus damage, based on whether the equipped hero is ranged or melee.",
+  "notes": "Does not stack with other sources of Bash, however it will stack with Mini-Bash (e.g. Monkey King Bar).<br/>The following heroes cannot trigger Bash on this item: Spirit Breaker, Faceless Void, Slardar, and Troll Warlord.",
+  "attrib": "+ 25 Damage<br/>+ 8 Strength<br/>BASH MELEE CHANCE: 25%<br/>BASH RANGED CHANCE: 10%<br/>BASH STUN DURATION: 1.4<br/>BASH BONUS DAMAGE: 60",
+  "mc": false,
+  "cd": 2,
+  "lore": "A feared weapon in the right hands, this maul's ability to shatter the defenses of its opponents should not be underestimated.",
+  "components": [
+    "belt_of_strength",
+    "javelin"
+  ],
+  "created": true
+}

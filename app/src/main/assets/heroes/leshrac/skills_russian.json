@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Split Earth",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Раскалывает землю под врагами. Наносит урон и оглушает на недолгое время.",
+        "notes": "Уничтожает деревья в зоне действия способности.<br/>Задержка перед оглушением — 0,35 секунды.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">120/180/240/300</font></b>",
+        "attrib": "ЗАДЕРЖКА: <b><font color=\"#ffffff\">0.35</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">150/175/200/225</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/125/140/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 9",
+        "lore": "Обращая саму природу своей ужасной воле, сотрясающаяся земля погребает глупцов, вставших на пути Leshrac.",
+        "hurl": "Leshrac",
+        "name": "leshrac_split_earth",
+        "youtube":"pLGhNjlPRc8",
+        "id": 0
+    },
+    {
+        "dname": "Diabolic Edict",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Окружает Leshrac магическими взрывами, которые наносят физический урон врагам и сооружениям. Чем меньше рядом врагов, тем больше урона они получат. Башни получают на 40% больше урона. Действует 10 секунд.",
+        "notes": "Урон не уменьшается блокировкой урона.<br/>Способность будет действовать, даже если вы умрете.<br/>Наносит урон строениям, а также невосприимчивым к заклинаниям и невидимым врагам.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">9/18/27/36</font></b>",
+        "attrib": "ВЗРЫВОВ: <b><font color=\"#ffffff\">40</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">500</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 95/120/135/155<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 22",
+        "lore": "Энергия времени прорывается из одного мира в другой, испаряя всё, чего коснется.",
+        "hurl": "Leshrac",
+        "name": "leshrac_diabolic_edict",
+        "youtube":"bwzT7xBaEHE",
+        "id": 1
+    },
+    {
+        "dname": "Lightning Storm",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Призывает грозовой разряд, ударяющий в выбранного противника и отскакивающий в соседних, замедляя их.",
+        "notes": "Максимальная дистанция скачка молнии — 650 единиц.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/140/200/260</font></b>",
+        "attrib": "УДАРОВ МОЛНИИ: <b><font color=\"#ffffff\">4/5/6/7</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">75%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">0.7/0.8/0.9/1</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/100/110/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 4",
+        "lore": "Мастерство истерзанной души в магии элементов позволяет ей сокрушить вражескую армию массивной бурей.",
+        "hurl": "Leshrac",
+        "name": "leshrac_lightning_storm",
+        "youtube":"bssFXEeOe4I",
+        "id": 2
+    },
+    {
+        "dname": "Pulse Nova",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная, переключаемая</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает волну энергии вокруг Leshrac, которая раз в секунду наносит повреждения вражеским юнитам поблизости.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "МАНЫ/СЕК: <b><font color=\"#ffffff\">20/40/60</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">450</font></b><br/>УРОН: <b><font color=\"#ffffff\">100/130/160</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">160/190/220</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/90/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1",
+        "lore": "Если понадобится, истерзанная душа может управлять самим временем и пространством, сокрушая жалких смертных.",
+        "hurl": "Leshrac",
+        "name": "leshrac_pulse_nova",
+        "youtube":"1IHJO2Tyl_0",
+        "id": 3
+    }
+]

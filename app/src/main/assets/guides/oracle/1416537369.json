@@ -1,0 +1,75 @@
+
+{
+	"Hero":"oracle",
+	"Title":"ORACLE THE SEMI-CARRY [Allifreyr]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"oblivion_staff"
+			],
+			"Mid Game":
+			[
+				"orchid",
+				"lesser_crit"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"desolator",
+				"mjollnir"
+			],
+			"Situational":
+			[
+				"skadi",
+				"mask_of_madness",
+				"monkey_king_bar",
+				"black_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"oracle_fates_edict",
+			"2":"oracle_purifying_flames",
+			"3":"oracle_fortunes_end",
+			"4":"oracle_purifying_flames",
+			"5":"oracle_purifying_flames",
+			"6":"oracle_false_promise",
+			"7":"oracle_purifying_flames",
+			"8":"oracle_fates_edict",
+			"9":"oracle_fates_edict",
+			"10":"oracle_fates_edict",
+			"11":"oracle_false_promise",
+			"12":"oracle_fortunes_end",
+			"13":"oracle_fortunes_end",
+			"14":"oracle_fortunes_end",
+			"15":"attribute_bonus",
+			"16":"oracle_false_promise",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"Hero":"undying",
+	"Title":"6.82 - Standard Undying (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"clarity",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"blade_mail"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"pipe",
+				"necronomicon",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Mekansm is a much better item than Vanguard due to its ease to obtain and additional survivability through regeneration and armor. Undying is an incredible Mekansm carrier given his ability to stay alive in the midst of fights and his presence.",
+				"pipe":"If the enemy team has many magic-damaging heroes, Pipe of Insight may be more justified than Mekansm.",
+				"urn_of_shadows":"Urn of Shadows allows you more survivability while also offering more healing to the team. It also allows Undying to gank with more reward.",
+				"necronomicon":"Necronomicon is to further your pushing ability and offers true sight in case of pesky invisible heroes. The stats are also greatly welcomed for Undying.",
+				"ultimate_scepter":"Increase your damage and ability in fights with Aghanim's Scepter. It is typically good but other items also provide what Undying likes, so don't feel obliged to pick this up every time.",
+				"shivas_guard":"More armor, more presence with the active slow ability, thus entrapping more foes within your tombstone.",
+				"sphere":"Linken's Sphere offers some great stats for the tanky Undying, but it's Spellblock castable spell is also a strong reason to pick this up to further support your carry.",
+				"blade_mail":"Blade Mail to increase your presence in the middle of fights. Enemies focusing you will be forced against your Tombstone as well as your Soul Ring and reflected damage from Blade Mail.",
+				"arcane_boots":"Essential due to the high-mana cost for Tombstone and to allow you to spam Decay",
+				"heavens_halberd":"Evade attacks and disable carries who thin to engage on your army from Tombstone as well as you. Heal, evasion, and disable. Undying can do it all."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_decay",
+			"2":"undying_tombstone",
+			"3":"undying_tombstone",
+			"4":"undying_soul_rip",
+			"5":"undying_tombstone",
+			"6":"undying_flesh_golem",
+			"7":"undying_tombstone",
+			"8":"undying_decay",
+			"9":"undying_decay",
+			"10":"undying_decay",
+			"11":"undying_flesh_golem",
+			"12":"undying_soul_rip",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"undying_decay":"Decay is a great ability to harass. Use it constantly during team fights and to help you deal even more immense damage. Because of its steal &amp;quot;duration&amp;quot; is constant, you do not need to level it further for now.",
+				"undying_soul_rip":"Soul Rip works great with Tombstone as the life of the zombies allows you to either heal yourself or dish out crazy damage! The low cooldown also lets you use this constantly so long as you have the mana.
+
+Use it defensively over offensively, keeping yourself or allies alive is better than damage.",
+				"undying_tombstone":"This is your main pushing and defensive tool. Use this ability to really tear down frail casters and heros who are running away. Make sure to prevent people from destroying it otherwise all your summons will die.",
+				"undying_flesh_golem":"Before a team-fight, activate this ability. Heroes or creeps dying (including zombies) heals Undying for a decent amount, as well as amplifying the amount of damage taken from enemies."
+		}
+	}
+}

@@ -1,0 +1,94 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"Witch Doctor Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ward_observer"
+			],
+			"Extensions":
+			[
+				"ultimate_scepter",
+				"black_king_bar",
+				"sheepstick",
+				"cyclone",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"If you are playing the support WD.",
+				"courier":"If you are playing the support WD.",
+				"flying_courier":"If you are playing the support WD.",
+				"sheepstick":"If you have the money this is an amazing item to have with its disable and stats.",
+				"cyclone":"The cheaper version of Scythe of Vyse.",
+				"dagon":"Maledict them, Dagon them and walk away while waiting for them to pop (only for fun pub games, don`t get it in serious games).",
+				"ultimate_scepter":"Or what I like to call it - the Skrillex stick.",
+				"black_king_bar":"So no one can stop you from killing them all.",
+				"arcane_boots":"Solves your mana problems. Can be replaced with Phase Boots for the extra mobility if mana is not needed or you are playing a ganking WD."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_maledict",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_maledict",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_maledict",
+			"8":"witch_doctor_paralyzing_cask",
+			"9":"witch_doctor_paralyzing_cask",
+			"10":"witch_doctor_voodoo_restoration",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_voodoo_restoration",
+			"13":"witch_doctor_voodoo_restoration",
+			"14":"witch_doctor_voodoo_restoration",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"One of the most annoying spells in the game. Cask and Maledict, coupled with another disable usually result in a kill in the early/mid game (most effective between levels 7-16).",
+				"witch_doctor_voodoo_restoration":"You don`t really have the mana to support this early game. Moreover, Witch Doctor is more of an offensive hero than a defensive one. This means that your offensive skills are generally better early/mid game. If you don`t have any mana regen items, it might be worth considering getting stats instead.",
+				"witch_doctor_maledict":"Amazing curse! Should be maxed asap. Enemies pop left and right after being hit with Maledict and Death Ward. Make sure you use Maledict before you put the ward down though.",
+				"witch_doctor_death_ward":"Nothing to say here - put it down and play some Skrillex."
+		}
+	}
+}

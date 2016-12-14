@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_spectre",
+	"Title":"Recommended items for Spectre",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"quelling_blade",
+			"tango",
+			"flask",
+			"branches",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"ring_of_health"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"vanguard",
+			"diffusal_blade",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"radiance",
+			"manta",
+			"heart",
+			"greater_crit",
+			"butterfly",
+			"sange_and_yasha"
+		]
+	}
+}

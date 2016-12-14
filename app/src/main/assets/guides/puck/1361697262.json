@@ -1,0 +1,116 @@
+{
+	"Hero":"puck",
+	"Title":"IMMORTAL PUCK",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_wand",
+				"urn_of_shadows"
+			],
+			"Core Items & Final Build":
+			[
+				"blink",
+				"cyclone",
+				"sphere",
+				"sheepstick",
+				"travel_boots",
+				"dagon"
+			],
+			"Alternative/Situational":
+			[
+				"ultimate_scepter",
+				"bottle",
+				"force_staff",
+				"bloodstone",
+				"mekansm",
+				"ancient_janggo",
+				"power_treads",
+				"arcane_boots"
+			],
+			"Team Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"courier",
+				"flying_courier",
+				"dust",
+				"tpscroll",
+				"gem"
+			],
+			"Rock&Roll Combo":
+			[
+				"ethereal_blade",
+				"veil_of_discord",
+				"dagon",
+				"refresher",
+				"shivas_guard",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This is a core for the immortality... Phase Shift followed by Blink dagger or 2 blinks  in a row...
+",
+				"gauntlets":"Increase Puck's toughness",
+				"branches":"Components for Magic Wand, great and cheap item for a start up!",
+				"boots":"Increase mobility of Puck",
+				"magic_wand":"Provide HP and Mana regen definitely great for ganker like Puck who will face lots of skills!",
+				"clarity":"Mana regeneration
+",
+				"tango":"Give you hp regeneration",
+				"phase_boots":"For even more reliable immortality (escape from Shadow Shaman's Serpent Wards as well as Venomancer's Plague Wards)",
+				"urn_of_shadows":"Use this to heal yourself or allies. This can be very useful when chasing a hero!",
+				"cyclone":"This is great when everybody just hates you and targets you use this,cyclone yourself and click blink frequently ready to escape!!!!! IMMORTAL!!!!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_waning_rift",
+			"3":"puck_phase_shift",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_waning_rift",
+			"8":"puck_waning_rift",
+			"9":"puck_illusory_orb",
+			"10":"puck_illusory_orb",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

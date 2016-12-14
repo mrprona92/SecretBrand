@@ -1,0 +1,16 @@
+{
+  "dotaId": "flask",
+  "id": 39,
+  "img": "flask_lg.png",
+  "dname": "Healing Salve",
+  "qual": "consumable",
+  "cost": 110,
+  "desc": "Use: Restores health to the target unit over time.  If the unit is attacked, the effect is lost.",
+  "notes": "",
+  "attrib": "DURATION: 8<br/>HEALTH RESTORED: 400",
+  "mc": false,
+  "cd": false,
+  "lore": "A magical salve that can quickly mend even the deepest of wounds.",
+  "components": null,
+  "created": false
+}

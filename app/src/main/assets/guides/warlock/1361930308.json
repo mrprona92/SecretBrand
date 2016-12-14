@@ -1,0 +1,75 @@
+{
+	"Hero":"warlock",
+	"Title":"Fuck Da Police GOLEMS",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"RUSH AGHS":
+			[
+				"ultimate_scepter"
+			],
+			"GET REFRESHER":
+			[
+				"refresher"
+			],
+			"WIN THE GAME":
+			[
+				"rapier",
+				"rapier",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ultimate_scepter":"You know what's better than a golem? TWO MO'FUCKIN' GOLEMS! MAKE THE MONEY GET THE BITCHES! YOU GOT TWO HULKING BODYGUARDS TO BREAK EVERYONE WHEN THEY'RE CHAINED TOGETHER",
+				"refresher":"FOUR GOLEMS?! DAMN YOU ARE BALLIN' SO HARD OUT OF CONTROL!! THE MEN ARE RUNNING FROM YOU AND THE BITCHES ARE RUNNING AT YOU TO GET YOUR SWEET ASS",
+				"rapier":"YOU ALREADY WON WHO CARES"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_fatal_bonds",
+			"2":"warlock_shadow_word",
+			"3":"warlock_fatal_bonds",
+			"4":"warlock_shadow_word",
+			"5":"warlock_fatal_bonds",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_fatal_bonds",
+			"8":"warlock_shadow_word",
+			"9":"warlock_shadow_word",
+			"10":"warlock_upheaval",
+			"11":"warlock_rain_of_chaos",
+			"12":"warlock_upheaval",
+			"13":"warlock_upheaval",
+			"14":"warlock_upheaval",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

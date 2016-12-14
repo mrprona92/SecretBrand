@@ -1,0 +1,118 @@
+{
+	"Hero":"lycan",
+	"Title":"A gentleman is simply a patient wolf - Jungle/Carry Lycan",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"RUSH THIS BRO (Core)":
+			[
+				"power_treads",
+				"vladmir",
+				"medallion_of_courage"
+			],
+			"SHOWTIME! (Core-Extension)":
+			[
+				"basher",
+				"black_king_bar"
+			],
+			"FIGHT ME IRL (Carry)":
+			[
+				"desolator",
+				"abyssal_blade",
+				"bfury",
+				"mjollnir"
+			],
+			"COME AT ME BRO (Tank)":
+			[
+				"satanic",
+				"assault",
+				"heart"
+			],
+			"MUST GET (Utilities)":
+			[
+				"smoke_of_deceit",
+				"tpscroll"
+			],
+			"ALL YOUR BASE (Pusher)":
+			[
+				"necronomicon",
+				"helm_of_the_dominator",
+				"assault",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tango":"This is for healing up in the jungle. Works better than Healing Salves, as it does not dispel from damage.",
+				"tpscroll":"I cannot stress the importance of a Teleportation Scroll, or as I like to call it, TP. Now your TP is your cheap taxi to: push unattended lanes, get to team fights faster, or escape the enemies clutches when you're near death. I always carry at least 1 of these.",
+				"travel_boots":"Helps to split push, get you out of sticky situations when you don't have your ult, or to just roam better. Get this before or after Assault Cuirass.",
+				"power_treads":"For extra movespeed and attack speed, this fits better than Phase Boots or Tranquil Boots. Gets you around the jungle faster, and you can switch to the Intelligence mode for just a little bit of regen to spawn wolves.",
+				"vladmir":"Mana Regen? Lifesteal for you and your wolves? Armor and Damage aura? Heck yeah. This also stacks with any orb effects you want later in game.",
+				"ring_of_basilius":"Extra Armor, Damage, and some Regen to spawn wolves. A must get. Don't upgrade to Aquila. Instead, up this into Vladimir's Offering. ",
+				"necronomicon":"A spawnable warrior and archer, coupled with your wolves, creates a mini-army with Lycan as the head. When you Howl, they (including any nearby allied creeps) are all buffed with damage, and when you have your Feral Impulse, they (only your warrior, archer, and wolves) benefit from it.",
+				"assault":"Attack Speed, Armor, Armor Reduction Aura. This stacks with Desolator's Armor Reduction. Again, promotes a tanking role, yet it makes you push better as your units benefit from the aura. You can get this of course, but again I personally believe a Battlefury works better. Get this first or BoT first",
+				"heart":"Massive regen when you're out of combat and an amazing boost to your hp pool. More of a luxury item imo, I base Lycan's survivability off of how fast I kill enemies instead of how long I can withstand them, so I don't get this often.",
+				"black_king_bar":"Lycan deals damage. A lot of damage. But he doesn't deal anything when he's disabled. Don't get disabled. Get BKB, turn it on for magic immunity, and tear down the fragile disablers or carries. DON'T SPAM THIS, as it's duration decreases with every use.",
+				"basher":"Now THINK MY FRIEND. Are you a noob at microing? Y/N? Yes? Then get this item before you cut down Roshan. No? Then go for Roshan, take him down with your micro skills, and then get this. You have no disables, but this compensates for that.",
+				"bfury":"Dealing with Naga Siren? Phantom Lancer? Any other illusion-users? Get one or maybe two of these and cleave your way through those pesky illusions (or heroes). Get either this or Mjollnir.",
+				"satanic":"You can sell your Vlad's because you don't need to stack the lifesteal. This promotes a tanking role though, and though it makes you more durable, Lycan is supposed to burst down heroes with his claws, not take hits. I'd rather you steal Roshan's Aegis instead. Either this or Desolator.",
+				"mjollnir":"This gives so much attack speed, a chance to shock the enemies with lightning, and an active buff that puts a lightning shield on you. It works well with Lycan and his Low BAT Wolf Form. Get this or Battlefury.",
+				"helm_of_the_dominator":"You can dominate a neutral creep, so long as they're not an ancient or magic immune. With an extra addition to your mini army, you can have a Centaur that can stun, an Alpha Wolf for damage, or a Dark Troll Summoner to spawn Skeleton Warriors and Ensnare enemy heroes, etc. etc. Can up into Satanic.",
+				"desolator":"Armor Reduction Passive on hit. Beautiful for the Carry Lycan. Either this or Satanic (I prefer this)",
+				"medallion_of_courage":"Extra Regen for your spells in the early/mid-game phase, and a mini armor reduction for your targeted enemy (at the cost of your armor, so use on lone heroes). Also works on Roshan, so you burn him down faster than without it. *Replace this later with luxury items as its usefulness dies down later*",
+				"smoke_of_deceit":"You can use this on you (and your allies) in case you wanna get into the Roshan pit safely. This'll counter the enemy team's pesky wards that are right outside the Roshan Pit.
+",
+				"abyssal_blade":"The extension of Cranium Basher, this is a whopping 2 second stun on a massive damage dealer. The disable, extra damage, and strength are welcomed into Lycan's arsenal."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"Your early/mid-game damage dealers. Your pushers for unguarded lanes. Your little helpers in the jungling phase. Your scouters for an upcoming gank. Max them first.",
+				"lycan_howl":"It's active, for a duration, and costs mana. Get this mid-game, as it'll destroy the small mana pool that Lycan unfortunately owns in the early game phase. However if you're going for more of a Pusher style Lycan instead of farming for a Carry style, feel free to max this instead of Feral Impulse.",
+				"lycan_feral_impulse":"Gives you that extra oomph for attacking for you and any units under your control (wolves, dominated creeps, or Necronomicon units).",
+				"lycan_shapeshift":"Your go-to form to take on any carry, it gives you maximum movespeed, day-like vision at night, more hp, a chance to critically hit, and a faster Base Attack Time. Works for many situations, but the cooldown for it is rather high early game. Early and mid game, know when to use it.",
+				"attribute_bonus":"Once you've maxed everything else, what else is there to get? It's the cherry on the cream on the manly ice cream sundae that is Lycan."
+		}
+	}
+}

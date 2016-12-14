@@ -1,0 +1,87 @@
+{
+	"Hero":"rubick",
+	"Title":"BEST RUBICK BUILD 2013",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"blink",
+				"force_staff",
+				"cyclone",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"rapier",
+				"rapier",
+				"rapier"
+			],
+			"luxury":
+			[
+				"tango",
+				"clarity",
+				"flask"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"NEED 4 EZ STEALS",
+				"force_staff":"GOOD FOR KILLING ALLY WHEN DIVING FOUNTAIN",
+				"rapier":"GOOD ITEM 4 DAMAGE"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"rubick_null_field",
+			"3":"attribute_bonus",
+			"4":"rubick_null_field",
+			"5":"rubick_null_field",
+			"6":"rubick_spell_steal",
+			"7":"attribute_bonus",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"rubick_null_field",
+			"11":"attribute_bonus",
+			"12":"rubick_spell_steal",
+			"13":"attribute_bonus",
+			"14":"rubick_telekinesis",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"rubick_telekinesis",
+			"19":"attribute_bonus",
+			"20":"rubick_telekinesis",
+			"21":"rubick_telekinesis",
+			"22":"rubick_fade_bolt",
+			"23":"rubick_fade_bolt",
+			"24":"rubick_fade_bolt",
+			"25":"rubick_fade_bolt"
+		},
+		"AbilityTooltips":
+		{
+				"rubick_telekinesis":"LIFTINGUUU",
+				"rubick_telekinesis_land":"USE 2 KILL OPNENT",
+				"rubick_fade_bolt":"ZAP",
+				"rubick_null_field":"ANTI MAGI",
+				"rubick_spell_steal":"MAIN SPELL OF ANTI ANTI MAGER",
+				"attribute_bonus":"BEST SKILL> PICK EARLY"
+		}
+	}
+}

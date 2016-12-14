@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Strafe",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Clinkz attacks with a barrage of arrows.  Dramatically increases attack speed for a short time.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">4/6/8/10</font></b><br/>BONUS ATTACK SPEED: <b><font color=\"#ffffff\">130</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/90/90/90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 45/40/35/30",
+        "lore": "It\u0027s hard to say whether the blur around the Bone Fletcher are from his flaming heart or his speed with the quiver.",
+        "hurl": "Clinkz",
+        "name": "clinkz_strafe",
+        "youtube":"6ZXx_EB7RqA",
+        "id": 0
+    },
+    {
+        "dname": "Searing Arrows",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Auto-Cast, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Imbues Clinkz\u0027s arrows with fire for extra damage.",
+        "notes": "Searing Arrows deal damage to structures.<br/>The damage is directly added to Clinkz\u0027 attack damage, as physical damage.",
+        "dmg": "",
+        "attrib": "BONUS DAMAGE: <b><font color=\"#ffffff\">30/40/50/60</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 10<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0",
+        "lore": "Clinkz simply lights his arrows from his flaming essence for quite the destructive effect.",
+        "hurl": "Clinkz",
+        "name": "clinkz_searing_arrows",
+        "youtube":"jYysnmhcZ7Y",
+        "id": 1
+    },
+    {
+        "dname": "Skeleton Walk",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Clinkz moves invisibly through units until the moment he attacks or uses an ability.",
+        "notes": "Will not break most channeling of spells or items upon activation.<br/>Has a fadetime of 0.6 seconds.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">20/25/30/35</font></b><br/>BONUS MOVEMENT SPEED: <b><font color=\"#ffffff\">11%/22%/33%/44%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/75/75/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/19/18/17",
+        "lore": "With a burst of fire and puff of smoke, the Bone Fletcher was nowhere to be seen.",
+        "hurl": "Clinkz",
+        "name": "clinkz_wind_walk",
+        "youtube":"zr56m_VHdCU",
+        "id": 2
+    },
+    {
+        "dname": "Death Pact",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Units</font></b>",
+        "desc": "Clinkz consumes the target friendly or enemy creep, gaining a percent of its hitpoints as max health and damage.",
+        "notes": "If the target is an enemy, Clinkz will gain the correct experience and gold.<br/>Increases Clinkz\u0027 current and max HP.<br/>When the duration ends, max HP returns to normal, but current HP stays the same.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">35</font></b><br/>HEALTH GAIN: <b><font color=\"#ffffff\">50%/65%/80%</font></b><br/>DAMAGE GAIN: <b><font color=\"#ffffff\">5%/6.5%/8%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 45/35/25",
+        "lore": "Sutherex\u0027 bond of life and death has become a part of Clinkz, and his old bones are refreshed with repetition of the pact on lesser beings.",
+        "hurl": "Clinkz",
+        "name": "clinkz_death_pact",
+        "youtube":"fS5fKvleNro",
+        "id": 3
+    }
+]

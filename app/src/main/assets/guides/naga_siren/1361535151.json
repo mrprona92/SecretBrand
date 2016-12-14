@@ -1,0 +1,107 @@
+{
+	"Hero":"naga_siren",
+	"Title":"Davoc's Naga / Basic Naga",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Alt. Start":
+			[
+				"stout_shield",
+				"quelling_blade",
+				"tango"
+			],
+			"Get These First":
+			[
+				"ring_of_health",
+				"boots",
+				"power_treads",
+				"blade_of_alacrity"
+			],
+			"And then there's core":
+			[
+				"diffusal_blade",
+				"vanguard"
+			],
+			"Later options":
+			[
+				"greater_crit",
+				"butterfly",
+				"manta",
+				"heart"
+			],
+			"Other stuff you can get":
+			[
+				"magic_wand",
+				"sphere",
+				"armlet",
+				"monkey_king_bar",
+				"assault"
+			],
+			"Avoid getting this":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Helps getting last hits",
+				"power_treads":"Thread switching is VERY useful",
+				"sphere":"Pushing Naga, this + fast boots of travels means pain in the ass for the enemy",
+				"rapier":"DON'T even think about it.",
+				"diffusal_blade":"RUSH IT! And use all of the charges before upgrading it"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_mirror_image",
+			"2":"naga_siren_ensnare",
+			"3":"naga_siren_rip_tide",
+			"4":"naga_siren_rip_tide",
+			"5":"naga_siren_rip_tide",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_rip_tide",
+			"8":"naga_siren_ensnare",
+			"9":"naga_siren_ensnare",
+			"10":"naga_siren_ensnare",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_mirror_image",
+			"13":"naga_siren_mirror_image",
+			"14":"naga_siren_mirror_image",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Take 1 lvl early then max it last. Use it before a fight, as the cast animation is too long. Can be used to disjoint those nasty stuns.",
+				"naga_siren_ensnare":"Goes through magic immunity and interrupts channeling spells, because fuck you Enigma",
+				"naga_siren_rip_tide":"Use at the beginning of fight- armor reduction gives you and your illusions more damage.",
+				"naga_siren_song_of_the_siren":"You can abuse it at lvl 16 because of a short cooldown. Before that, use it to escape, save a teammate or initiate a fight.",
+				"naga_siren_song_of_the_siren_cancel":"stfu naga"
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"Hero":"antimage",
+	"Title":"Anti-Mage - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Principio de Partida":
+			[
+				"boots",
+				"ring_of_health"
+			],
+			"Objetos Principales":
+			[
+				"bfury",
+				"power_treads",
+				"yasha"
+			],
+			"Objetos Situacionales":
+			[
+				"manta",
+				"heart",
+				"butterfly",
+				"abyssal_blade",
+				"vladmir",
+				"hand_of_midas",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bfury":"Intentar sacarlo lo antes posible. Se pueden saltar las botas para sacarlo antes. Battlefury es un objeto de farmeo no para ser muy poderoso en las batallas (aunque logicamente ayuda), por eso lo quieres lo antes posible."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_mana_break",
+			"2":"antimage_blink",
+			"3":"antimage_spell_shield",
+			"4":"antimage_blink",
+			"5":"antimage_blink",
+			"6":"antimage_mana_void",
+			"7":"antimage_blink",
+			"8":"antimage_mana_break",
+			"9":"antimage_mana_break",
+			"10":"antimage_mana_break",
+			"11":"antimage_mana_void",
+			"12":"antimage_spell_shield",
+			"13":"antimage_spell_shield",
+			"14":"antimage_spell_shield",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"antimage_mana_break":"Subir un nivel inicial para harasear al enemigo. Mas tarde se usa para robar el mana al mismo tiempo que hacer dano para luego tirar la ultimate y hacer mucho dmg.",
+				"antimage_blink":"Al principio es una habilidad para escapar de posibles ganks. Mas tarde puedes usarla constantemente con objetos de regeneracion de mana para farmear jungla, ir a por enemigos, etc.",
+				"antimage_spell_shield":"Aumenta tu resistencia magica.",
+				"antimage_mana_void":"Usarla en enemigos con poco mana. La Q te permite dejar a tus enemigos sin mana y luego tirar la ultimate para rematarlos. Hace un dmg de area que puede ser util en teamfights o si lo combinas con una ultimate de enigma o magnus por ejemplo. NUNCA usarlo para iniciar un ataque, sino para rematar."
+		}
+	}
+}

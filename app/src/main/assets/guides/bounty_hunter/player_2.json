@@ -1,0 +1,50 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "bounty_hunter_wind_walk",
+        "2": "bounty_hunter_jinada",
+        "3": "bounty_hunter_shuriken_toss",
+        "4": "bounty_hunter_jinada",
+        "5": "bounty_hunter_shuriken_toss",
+        "6": "bounty_hunter_track",
+        "7": "bounty_hunter_jinada",
+        "8": "bounty_hunter_shuriken_toss",
+        "9": "bounty_hunter_jinada",
+        "10": "bounty_hunter_shuriken_toss",
+        "11": "bounty_hunter_track",
+        "12": "bounty_hunter_wind_walk",
+        "13": "bounty_hunter_wind_walk",
+        "14": "bounty_hunter_wind_walk",
+        "15": "attribute_bonus",
+        "16": "bounty_hunter_track",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "bounty_hunter_jinada": "Лучшая пасивка в доте по моему мнению. Максим как можно скорее. С 100% шансом наносит крит урон противнику. Лучше атаковать когда вы в инвизе,т.к. атака из инвиза дает доп. урон который умножается этим скиллом. Можно с 1 удара снести пол жизни врагу.",
+        "bounty_hunter_wind_walk": "Поможет резко напасть или же уйти от противника. Дает доп урон при атаке из инвиза который в сочетании с 2-м скиллом наносит неплохой урон.",
+        "bounty_hunter_track": "Кидаем метки на всех в замесе, первым делом на инвизников. Метка дает видимость цели где бы она не была. А так-же при убийстве врага с меткой вам дают золото. Быстрый фарм. \n",
+        "bounty_hunter_shuriken_toss": "БХ кидает сюрикен во врага. Можно добить убегающего врага. Так-же есть министан. Им можно сбить телепорт врага либо каст заклинания."
+    }
+}, "Hero": "bounty_hunter", "ItemBuild": {
+    "ItemTooltips": {
+        "clarity": "Покупается если вы собираетесь часто использовать инвиз.",
+        "black_king_bar": "Если у противников много кастеров то лучше собрать бкб.",
+        "travel_boots": "Я обычно покупаю к 30-й минуте после дифуза.",
+        "heart": "Если вам не хватает хп то советую не затягивать и собрать тараску.",
+        "bottle": "Чтобы нас меньше контрили вардами мы должны постоянно гангать по всем линиям. И ботл в этом поможет.",
+        "hand_of_midas": "Покупается если вам не дают фармить.",
+        "boots": "С 1-го уровня можно будет легко догнать противника или убежать."
+    },
+    "Items": {
+        "Начальный закуп": ["boots", "clarity", "tango"],
+        "Основные предметы": ["bottle", "diffusal_blade_2", "phase_boots", "sange_and_yasha", "urn_of_shadows"],
+        "По ситуации": ["bfury", "black_king_bar", "travel_boots", "butterfly", "desolator", "hand_of_midas", "heart", "monkey_king_bar", "orchid", "vladmir"]
+    }
+}, "Title": "БХ КАРАЕТ КАЖДОГО"}

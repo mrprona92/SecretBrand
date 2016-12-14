@@ -1,0 +1,85 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"Guide to Ogre Magi in high-level pub play",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"bottle"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"mask_of_madness",
+				"dagon"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"basher",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"They're boots. They make you go faster. You need to go faster. Get boots.",
+				"bottle":"You NEED a bottle at the start. Some people suggest things like tangos, salves, and clarities. They are dumb, because you get all three of those from this, and you get infinite of them. Get a second one later and use the courier to refill one every time it empties; you'll never have to stop roaming.",
+				"phase_boots":"For the same reason you need boots, you need phase boots. Movement speed is one of the most important things you can get on Ogre.",
+				"hand_of_midas":"If you're getting super good farm in lane, get a hand of Midas. Rush a maxed out Dagon by level 16 and you'll be an unstoppable nuking powerhouse that forces the enemy to get a BKB or die.",
+				"dagon":"Aghanim's Scepter may seem like the obvious choice if you want to nuke things harder (which you do), but that is not the case. Unrefined fireblast has an extremely high mana cost that will leave you dry in only a few casts, and it's not reliable either. A dagon is cheaper and much more reliable.",
+				"basher":"If you need more stuns, a basher is a great choice. With mask of madness and bloodlust, you'll be bashing like crazy while running really fast. However, in most cases, you'd rather just nuke the enemy into oblivion as fast as possible.",
+				"mask_of_madness":"Mask of Madness is a fantastic item on Ogre Magi. The lifesteal allows you to farm more easily and complements your impressive auto-attack with bloodlust, the movement speed makes you hard to chase or escape, and you can shrug off the bonus damage with your natural tankiness. It's also pretty cheap.",
+				"abyssal_blade":"If you end up with a basher and also way too much gold, you can opt for this. It'll give you a reliable stun through BKB, wasting precious seconds of it so that they can do that much less before you destroy them with your nukes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_bloodlust",
+			"3":"ogre_magi_fireblast",
+			"4":"attribute_bonus",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_bloodlust",
+			"9":"ogre_magi_bloodlust",
+			"10":"ogre_magi_bloodlust",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_ignite",
+			"13":"ogre_magi_ignite",
+			"14":"ogre_magi_ignite",
+			"15":"ogre_magi_ignite",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"This is your bread and butter skill. It blows people up which is good. Max it first.",
+				"ogre_magi_ignite":"Ignite is a weak damage over time and a mediocre skill. It's worth getting later, but prioritize your better skills first.",
+				"ogre_magi_bloodlust":"Bloodlust is amazing. It makes you hard to catch or escape and turns you into a reasonably powerful auto-attacking force. Get one point in it early for that little oomph when you need it and max it after fireblast.",
+				"ogre_magi_multicast":"Multicast is great. Though it's not very reliable, it reduces your cooldowns so you can nuke more, and when it does, it's devastating.",
+				"attribute_bonus":"One early point of stats is really helpful, but after getting that point, save the rest for when your other skills are all maxed."
+		}
+	}
+}

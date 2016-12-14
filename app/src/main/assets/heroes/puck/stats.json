@@ -1,0 +1,2 @@
+{
+    "roles": ["Initiator", "Nuker", "Disabler", "Escape"],"ID":62,"Patch":"6.79c","Name":"Puck","Alignment":0,"Movespeed":295,"MaxDmg":58,"MinDmg":47,"HP":435,"Mana":312,"HPRegen":0.25,"ManaRegen":0.01,"Armor":2.08,"Range":550,"ProjectileSpeed":900,"BaseStr":15,"BaseAgi":22,"BaseInt":24,"StrGain":1.7,"AgiGain":1.7,"IntGain":2.4,"PrimaryStat":2,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.5,"AttackSwing":0.8,"CastPoint":0.1,"CastSwing":0.51,"Turnrate":0.4,"Legs":0}

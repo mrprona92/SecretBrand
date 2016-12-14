@@ -1,0 +1,16 @@
+{
+  "dotaId": "gem",
+  "id": 30,
+  "img": "gem_lg.png",
+  "dname": "Gem of True Sight",
+  "qual": "component",
+  "cost": 900,
+  "desc": "Пассивная: True Sight — дает носителю и его союзникам возможность видеть невидимых юнитов и варды в определенном радиусе.<br/>Выпадает при смерти и не может быть уничтожен.",
+  "notes": "Не действует, пока находится у курьера.",
+  "attrib": "РАДИУС TRUE SIGHT: 1100",
+  "mc": false,
+  "cd": false,
+  "lore": "Not one thrall creature of the depths,<br/>Nor spirit bound in drowning\u0027s keep,<br/>Nor Maelrawn the Tentacular,<br/>Shall rest till seas, gem comes to sleep.",
+  "components": null,
+  "created": false
+}

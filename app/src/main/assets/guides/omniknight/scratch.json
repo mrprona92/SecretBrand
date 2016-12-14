@@ -1,0 +1,113 @@
+{
+	"Hero":"omniknight",
+	"Title":"6.82! - 90% winrate Omniknight guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"tango",
+				"clarity",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"tpscroll",
+				"boots",
+				"magic_wand",
+				"ring_of_basilius",
+				"soul_ring",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"arcane_boots",
+				"ward_observer",
+				"force_staff",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"bloodstone",
+				"sheepstick",
+				"travel_boots",
+				"vladmir",
+				"ultimate_scepter",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"It will provide you with some protection against right-click attacks on the lane. It will be turned into a Basilius Ring.",
+				"branches":"GG Branch is always welcomed, as it provides useful stats. Always have Branches in your inventory if you have the money for them.",
+				"boots":"Required, but not necessarily early in the laning phase. Degen Aura will keep enemies at bay.",
+				"clarity":"Clarity Potions will help you deal with the mana intensive Purification.",
+				"ward_observer":"Wards!!! Wards everywhere!!!",
+				"courier":"Check with other supports in your team for courier.",
+				"tpscroll":"Especially with the decrease in cost from 135g to 100g, always carry a TP scroll with you. In case of need, just Repel yourself and TP away back to base.",
+				"travel_boots":"Arcane boots should always be got rid of in lategame scenarios. Disasseble them and buy Boots of Travel, since they provide you with great mobility on the map, as well as a mekanism to catch up with your enemies and slow them with Degen Aura.",
+				"mekansm":"Check with your teammates to see who should get the Mekansm, since its effect is not stackable.",
+				"vladmir":"Should your team be mostly melee heroes, gettings Vladimir's Offering early will improve your teamfights.",
+				"flying_courier":"If you're the only support (ain't that a bitch), upgrade the courier yourself. Otherwise, if you bought the first courier, you might want to consider asking your fellow teammates.",
+				"ring_of_basilius":"Gives the lane some protection, as well as some mana regeneration. Remember to turn it off if you don't want to push the lane.",
+				"sheepstick":"Probably best item in the game (apart from the mighty Rapier).",
+				"force_staff":"It depends on team composition, but a push for your teammates, be it defensive or offensive, will always be welcomed.",
+				"ultimate_scepter":"Aghanim's Scepter is a great situational item in case you are confronted with heavy push line-ups. It acts as a Glyph of Fortification that also heals the structures. It also will save that teammate that BM'd you earlier in the game.",
+				"shivas_guard":"Will give you a greater mana pool and that crucial armor if you're against heavy physical damage, as well will serve as a defensive or offensive mekanism when used.",
+				"bloodstone":"If you still have the Soul Ring from the early game, transform it into a Bloodstone. Disassemble your boots for the Arcane Orb.",
+				"soul_ring":"Soul Ring is a bit of a situational item on Omniknight. It will greatly help if you're against melee heroes on the lane.",
+				"arcane_boots":"Mana Boots are the boots of choice for Omniknight, as they provide you some help dealing with your mana issues. If you have a great start, then you should opt for Boots of Travel.",
+				"ancient_janggo":"The bonus movespeed is crucial in catching up with enemies. Degen Aura will slow them, while you can bodyblock them or simply wait for your team to come finish the job."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_purification",
+			"2":"omniknight_repel",
+			"3":"omniknight_purification",
+			"4":"omniknight_degen_aura",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_repel",
+			"9":"omniknight_repel",
+			"10":"omniknight_repel",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_degen_aura",
+			"13":"omniknight_degen_aura",
+			"14":"omniknight_degen_aura",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"omniknight_purification":"The pure damage makes it a great support spell, as well an offensive nuke.",
+				"omniknight_repel":"Repel should be maxed out before Degen Aura, however you should always see how the lanes are structured. In some situations (e.g laning with Venomancer), Degen should be got first.",
+				"omniknight_degen_aura":"If on a lane with no stuns or big nukes, Degen Aura should be skilled before Repel.",
+				"omniknight_guardian_angel":"Skill it at the standard 6, 11 and 16.",
+				"attribute_bonus":"Who does not like attributes?"
+		}
+	}
+}

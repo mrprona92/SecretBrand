@@ -1,0 +1,83 @@
+{
+	"Hero":"visage",
+	"Title":"Destroy Them With Lazors!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"flask",
+				"clarity",
+				"courier"
+			],
+			"Early Game: 1-8 minutes":
+			[
+				"boots",
+				"ring_of_basilius",
+				"magic_wand"
+			],
+			"Semi-Carry: 8-30 minutes":
+			[
+				"invis_sword",
+				"maelstrom",
+				"black_king_bar",
+				"shivas_guard",
+				"phase_boots",
+				"mjollnir",
+				"assault"
+			],
+			"Support: 8-30 minutes":
+			[
+				"mekansm",
+				"necronomicon",
+				"rod_of_atos",
+				"arcane_boots"
+			],
+			"In a Pinch":
+			[
+				"ghost",
+				"ward_observer",
+				"ward_sentry",
+				"arcane_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_grave_chill",
+			"2":"visage_soul_assumption",
+			"3":"visage_grave_chill",
+			"4":"visage_soul_assumption",
+			"5":"visage_gravekeepers_cloak",
+			"6":"visage_summon_familiars",
+			"7":"visage_soul_assumption",
+			"8":"visage_grave_chill",
+			"9":"visage_soul_assumption",
+			"10":"visage_grave_chill",
+			"11":"visage_summon_familiars",
+			"12":"visage_gravekeepers_cloak",
+			"13":"visage_gravekeepers_cloak",
+			"14":"visage_gravekeepers_cloak",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

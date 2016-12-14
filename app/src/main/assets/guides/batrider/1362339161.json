@@ -1,0 +1,107 @@
+{
+	"Hero":"batrider",
+	"Title":"The Jimmi Batrider",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection"
+			],
+			"Longevities":
+			[
+				"tranquil_boots",
+				"bottle"
+			],
+			"Your Domain":
+			[
+				"force_staff",
+				"blink",
+				"pers"
+			],
+			"Tombstones":
+			[
+				"sphere",
+				"heart"
+			],
+			"Seasonal":
+			[
+				"ghost",
+				"travel_boots",
+				"urn_of_shadows",
+				"sheepstick",
+				"sange_and_yasha",
+				"vanguard",
+				"shivas_guard",
+				"radiance",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink in, lasso, firefly. Nuff said.",
+				"ring_of_protection":"Extra armor. Builds into Tranquil Boots",
+				"ghost":"Can launch firefly before or after the fact. Blink in, ghost, lasso, firefly, and drag them on the path of death. Also your getaway tool.",
+				"bottle":"You need that extra mana. Also if you grab a haste rune, that firefly lights up the lane. You can drop out the bottle later game for a seaon's item.",
+				"tango":"Eat dem trees! You may be able to skip it and just buy the regen ring for Tranquil Boots.",
+				"travel_boots":"Gives you lane dominance and you can cover more ground, faster, with your firefly.",
+				"pers":"Builds up to Linken's. Extra regen will help.",
+				"urn_of_shadows":"Be a healer. You can toss the damage curse onto near death enemies fleeing your fires for extra kills.",
+				"sheepstick":"Disable the carry or the disabler. If you are dragging tanky folk into your team, after lasso has worn off you can put them to sheep for a definite kill.",
+				"force_staff":"Blink in, lasso them, firefly, and force out.",
+				"heart":"That extra tankiness to make sure you survive through the fight.",
+				"black_king_bar":"BKB. Can get it instead of ghost for skill immunities.",
+				"shivas_guard":"Good against right click champs and increases your tankiness. Extra INT will increase your damage output.",
+				"sphere":"When you blink in and drag them away, Linken has your back.",
+				"vanguard":"Just extra padding against those right clicking heroes. However, ghosting makes you immune to right clicking.",
+				"radiance":"Gives the holy flame to burn the souls of all who face the bat.",
+				"sange_and_yasha":"Just your general beef. Increased move speed works well with firefly.",
+				"tranquil_boots":"Cheap +75 move speed + heal + speedier boots when you meet the damage recieve quota."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_sticky_napalm",
+			"2":"batrider_firefly",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_firefly",
+			"5":"batrider_flamebreak",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_firefly",
+			"8":"batrider_firefly",
+			"9":"batrider_sticky_napalm",
+			"10":"batrider_sticky_napalm",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_flamebreak",
+			"13":"batrider_flamebreak",
+			"14":"batrider_flamebreak",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":"Batrider loogies are the opponent's bane. 70% turn speed is devastatingly slow. Damage stacks. The stacks will be an absolute killer with firefly. Spam spam spam.",
+				"batrider_flamebreak":"Multi-purpose skill. It grants sight wherever it passes so you can shoot it into possible gank areas to see if anyone is hiding. Also a good team harassing skill. Careful when casting it on fleeing targets. You can knock them closer to you for a kill, but also send them farther into safety.",
+				"batrider_firefly":"This is the bat. Burn the earth. In teamfights just fly all over everyone and cast your sticky napalm like crazy. Use it to escape over impassable terrain. Remember to cast the stickies!",
+				"batrider_flaming_lasso":"The initiator. Blink in, or ghost in, and grab your target (especially carries or annoying supports) and firefly then to your team for a kill. Don't forget the stickies. 70% turn speed reduction means attempting escape becomes certain peril.",
+				"attribute_bonus":"Stats are yummy."
+		}
+	}
+}

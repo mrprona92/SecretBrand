@@ -1,0 +1,97 @@
+{
+	"Hero":"antimage",
+	"Title":"BLINKIN' N SLAMMIN' AINT MAGE",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"vitality_booster",
+				"staff_of_wizardry",
+				"void_stone",
+				"null_talisman",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"cyclone",
+				"dagon",
+				"blink",
+				"vanguard",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"hood_of_defiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"LMAO 2 BLINK
+2 BLINK!!!!!!!!",
+				"staff_of_wizardry":"its ironic.",
+				"void_stone":"you need mana regen to keep blinkin'",
+				"vitality_booster":"gotta be healthy to erase the magic scum",
+				"null_talisman":"to defeat the mages, you have to think like the mages, buy this item to learn from their culture of magic scum",
+				"cyclone":"for sick double blink tacticool juks",
+				"force_staff":"JUST SLIIDEEE",
+				"dagon":"DAGON OP",
+				"ultimate_scepter":"with this you can slam HARDER",
+				"vanguard":"a true anti mage always gets vanguard, the BEST ITEM IN THE GAME",
+				"hood_of_defiance":"to protect yourself from magic wielding scum"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_blink",
+			"2":"antimage_mana_break",
+			"3":"antimage_blink",
+			"4":"antimage_mana_break",
+			"5":"antimage_blink",
+			"6":"antimage_mana_void",
+			"7":"antimage_blink",
+			"8":"antimage_mana_break",
+			"9":"antimage_mana_break",
+			"10":"antimage_spell_shield",
+			"11":"antimage_mana_void",
+			"12":"antimage_spell_shield",
+			"13":"antimage_spell_shield",
+			"14":"antimage_spell_shield",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"antimage_mana_break":"to stop the magic scum from doing their evil wizardy, you must rape their asses with your anti fun blades.",
+				"antimage_blink":"you cant blink and slam with out the blink",
+				"antimage_spell_shield":"also called \"anti-fun shield\" it reduces the fun you get from the enemy spells",
+				"antimage_mana_void":"your slam ability. you throw the enemy magic scum a magic basketball that SLAMS harder the less mana the enemy has"
+		}
+	}
+}

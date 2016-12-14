@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Decay",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Undying saps the life from enemy Heroes in an area, dealing damage and stealing Strength for the duration.",
+        "notes": "The strength stolen stacks, but can\u0027t cause a hero to have strength below 1.<br/>The strength steal takes effect before the damage is dealt.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">20/60/100/140</font></b><br/>RADIUS: <b><font color=\"#ffffff\">325</font></b><br/>DURATION: <b><font color=\"#ffffff\">40</font></b><br/>STRENGTH STEAL: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/90/110/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10/8/6/4",
+        "lore": "The strength of the living is simply borrowed from the strength of the dead.",
+        "hurl": "Undying",
+        "name": "undying_decay",
+        "youtube":"oiPPDIIyLF4",
+        "id": 0
+    },
+    {
+        "dname": "Soul Rip",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Redirects the flow of energy through a target friendly or enemy unit, healing or damaging it depending on how many units are near Undying.  Each unit loses health as part of the cost.",
+        "notes": "Can heal Tombstone, but can\u0027t heal or damage other buildings.",
+        "dmg": "",
+        "attrib": "DAMAGE/HEAL PER UNIT: <b><font color=\"#ffffff\">18/22/26/30</font></b><br/>RADIUS: <b><font color=\"#ffffff\">1300</font></b><br/>MAX UNITS: <b><font color=\"#ffffff\">10/12/14/16</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/110/120/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 24/18/12/6",
+        "lore": "Even his allied Heroes feel despair in Undying\u0027s presence.",
+        "hurl": "Undying",
+        "name": "undying_soul_rip",
+        "youtube":"8NDBna9Mi1E",
+        "id": 1
+    },
+    {
+        "dname": "Tombstone",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Summons a tombstone at the target point.  Zombies will frequently spawn next to every enemy unit in the area around the Tombstone, and attack them.  Zombies have the Deathlust ability, which causes their attacks to slow the target, and if the target reaches below a certain amount of health, increases the attack and movement speed of the zombie.",
+        "notes": "Tombstone is Spell Immune, but can be healed by Soul Rip.<br/>Zombies and Tombstone are Spell Immune.<br/>If their initial target dies or goes out of vision, the Zombie will die.",
+        "dmg": "",
+        "attrib": "TOMBSTONE HEALTH: <b><font color=\"#ffffff\">175/350/525/700</font></b><br/>TOMBSTONE DURATION: <b><font color=\"#ffffff\">15/20/25/30</font></b><br/>ZOMBIE SPAWN RADIUS: <b><font color=\"#ffffff\">600/800/1000/1200</font></b><br/>DEATHLUST FLAT HEALTH THRESHOLD: <b><font color=\"#ffffff\">100/200/300/400</font></b><br/>DEATHLUST PCT HEALTH THRESHOLD: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b><br/>ZOMBIE SPAWN INTERVAL: <b><font color=\"#ffffff\">3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/130/140/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60",
+        "lore": "Dirge calls on his fallen brothers to fight for the Dead God.",
+        "hurl": "Undying",
+        "name": "undying_tombstone",
+        "youtube":"hb931I8cwiM",
+        "id": 2
+    },
+    {
+        "dname": "Flesh Golem",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Undying transforms into a horrifying flesh golem that possesses a Plague Aura.  This aura slows all enemy units within 750 range and amplifies the damage they take; the closer to Undying, the more damage and slow.  When a plagued unit dies, Undying is healed equal to a percentage of his own maximum health.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Undying is healed when affected units die in range, regardless of who killed it.<br/>Dying illusions don\u0027t trigger the heal.<br/>Plague Aura goes through spell immunity.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">30</font></b><br/>MAX DAMAGE AMP: <b><font color=\"#ffffff\">20%/25%/30%</font></b><br/>MIN DAMAGE AMP: <b><font color=\"#ffffff\">1%</font></b><br/>MAX MOVE SLOW: <b><font color=\"#ffffff\">20%</font></b><br/>MIN MOVE SLOW: <b><font color=\"#ffffff\">1%</font></b><br/>DEATH HEAL (HEROES): <b><font color=\"#ffffff\">6%</font></b><br/>DEATH HEAL (CREEPS): <b><font color=\"#ffffff\">2%</font></b><br/><font color=\"#6fe871\">SCEPTER MAX DAMAGE AMP:</font></b> <b><font color=\"#ffffff\">30%/35%/40%</font></b><br/><font color=\"#6fe871\">SCEPTER MIN DAMAGE AMP:</font></b> <b><font color=\"#ffffff\">1%</font></b><br/><font color=\"#6fe871\">SCEPTER DEATH HEAL (HEROES):</font></b> <b><font color=\"#ffffff\">10%</font></b><br/><font color=\"#6fe871\">SCEPTER DEATH HEAL (CREEPS):</font></b> <b><font color=\"#ffffff\">3%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 75",
+        "lore": "The flesh of the recently dead add to the power of Dirge\u0027s plague.",
+        "hurl": "Undying",
+        "name": "undying_flesh_golem",
+        "youtube":"pfTqhK3DWsc",
+        "id": 3
+    }
+]

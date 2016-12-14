@@ -1,0 +1,138 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"You Tank! I Kill !! ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"slippers",
+				"flask",
+				"branches"
+			],
+			"Get this Asap":
+			[
+				"boots",
+				"ring_of_aquila",
+				"wraith_band",
+				"wraith_band",
+				"magic_stick",
+				"tpscroll"
+			],
+			"You Tank! I Kill !":
+			[
+				"power_treads",
+				"magic_wand",
+				"blink",
+				"mask_of_madness"
+			],
+			"Its not over yet?":
+			[
+				"black_king_bar",
+				"rapier",
+				"assault",
+				"satanic",
+				"greater_crit",
+				"monkey_king_bar",
+				"butterfly"
+			],
+			"Situational":
+			[
+				"invis_sword",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"MOM, Dagger, and your Tanker is the key to this Guide! use it whisely, and wait for your enemys to rax quit the game!
+
+
+Daggering and MOM's Attack speed!",
+				"tpscroll":"Keep 1 or 2 of this tiny scroll, and be sure to KS when the clash started!
+
+Or some way out if you chasing your victims way too far",
+				"black_king_bar":"-Jump/Avatar
+-silence
+-MoM
+-Avatar/Jump
+(Do it less then 2sec!)
+-ULTRAKILL!!!",
+				"rapier":"1 word SMART! if u can play with that 1 word condition! End the game with this!
+
+RAMPAGE!!!",
+				"monkey_king_bar":"Phantom Assasin?
+Riki?
+Tinker?
+
+Scare them with this!
+",
+				"butterfly":"Too many hitters?
+
+It could be handdy",
+				"invis_sword":"Pub's Favorite, why i didnt run this, and picked dagger?
+
+Dagger, is 1 or 2 step ahead in pursuing, and a way out, cause it not affraid of those sentries and dust!
+
+Still! An option",
+				"mask_of_madness":"More damage taken? dont take it!
+
+That's why we need dagger!
+turn off the 1st skill is an option with this item, and you can get rossan at 16 only with this item in pocket!
+
+-Dagger
+-Silence
+-MoM
+-TRIPLEKILL!!!",
+				"ring_of_aquila":"1 item with allot of magic in it!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_trueshot",
+			"2":"drow_ranger_frost_arrows",
+			"3":"drow_ranger_trueshot",
+			"4":"drow_ranger_silence",
+			"5":"drow_ranger_trueshot",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_trueshot",
+			"8":"drow_ranger_frost_arrows",
+			"9":"drow_ranger_frost_arrows",
+			"10":"drow_ranger_silence",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_frost_arrows",
+			"13":"drow_ranger_silence",
+			"14":"drow_ranger_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Aspd Slower
+MS slower
+
+Let you hit the target much more! and when used with brain, it can numb your enemy till they decide to commited a suicide!",
+				"drow_ranger_silence":"get it at lvl 4 or 2, keep it at low lvl for early game, cause usually the fight wont last for long, go for slow and damage to get all the kill u need!",
+				"drow_ranger_trueshot":"Max this out Asap, you'll be a big help just by being in the map!",
+				"drow_ranger_marksmanship":"Half of it if there any enemy get a bit too near,
+That's why we need dagger, thats what this guide is all about!"
+		}
+	}
+}

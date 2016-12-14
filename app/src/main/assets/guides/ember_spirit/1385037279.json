@@ -1,0 +1,113 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"[RUS] late carry RAMPAGE!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"phase_boots",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"greater_crit",
+				"bfury",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"radiance",
+				"monkey_king_bar",
+				"ethereal_blade",
+				"assault",
+				"desolator",
+				"rapier"
+			],
+			"Для истинных Фармил!:)":
+			[
+				"poor_mans_shield",
+				"hand_of_midas"
+			],
+			"Если совсем не выживаем!":
+			[
+				"heart",
+				"black_king_bar",
+				"helm_of_the_dominator",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tango":"С Support`ом на лайне ничего, по сути, и не надо!",
+				"tpscroll":"Важная заметка: если у вас мало HP и MP, то можно оставить свою илюзию и дать ТП на базу, после чего вернуться на ту точку, где вы оставили илюзию. Просто надо ультануть с базы. Важно то что если вы долго не будете ультовать, то илюзия в скором времени пропадет!",
+				"phase_boots":"Если не догоняем, + дамаг. Эфективная вещь против Support`ов на начальной стадии игры! И вообще полезная вещь так как можно проходить через крипов или союзников для Escape!",
+				"power_treads":"Хорошо подходит для фарма. Для агресивной игры под крипами! Под вышку лезть не стоит!",
+				"wraith_band":"Aquila",
+				"assault":"Защита и Скорость Атаки + Снижение брони подходит для второго Skill`а",
+				"heart":"Достаточно много HP, но можно и обойтись BKB (Black King Bar)",
+				"black_king_bar":"Довольно полезная вещь для выживания в бою. Вас мало кто сможет пробить какими либо Skill`ами. Советую собирать, когда много дизейбла со стороны противника!",
+				"rapier":"Для полного комплекта, если тащим и хотим RAMPAGE! ;D",
+				"monkey_king_bar":"Если есть у противников, персонажи с уклонением!",
+				"radiance":"Если тащим, то этот предмет чтобы догонять персонажей на low HP!",
+				"greater_crit":"Для Battlefury!",
+				"bfury":"Для сплеша во втором Skill`е! Покупка обязательна, поскольку в сочетании с Daedalus, будет в замесах наносить большой дамаг! Заметка: По желанию собираем два, поскольку увеличиваем процент сплеша!",
+				"satanic":"Если собрали Dominator, то этот артефакт можно в поздней игре купить, как полное востановление в бою!",
+				"helm_of_the_dominator":"Если видим что остается у вас мало HP, но в драке постоянно враг уходит на low HP, то этот артефакт даст вам не бояться ворваться в бой снова!",
+				"desolator":"Либо покупаем его, либо Cuirass! Как вам удобно:), только учтите Desolator, это дамаг! Заметка: во втором Skill`е у каждого ударенного, будет снижена броня!",
+				"ethereal_blade":"Если не можем убежать! Но если вы играете с противниками на дизейбл, то не СОБИРАТЬ!",
+				"ring_of_aquila":"Для дамага на начальной стадии игры. В основном остается! Но для более поздней игры продаем!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_searing_chains",
+			"2":"ember_spirit_sleight_of_fist",
+			"3":"ember_spirit_flame_guard",
+			"4":"ember_spirit_sleight_of_fist",
+			"5":"ember_spirit_sleight_of_fist",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_sleight_of_fist",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_flame_guard",
+			"10":"ember_spirit_flame_guard",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_searing_chains",
+			"13":"ember_spirit_searing_chains",
+			"14":"ember_spirit_searing_chains",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"Для дизейбла на ранней стадии, или если не догоняем. Можно промаксить в начале в том случае, если с вами хороший Support:)",
+				"ember_spirit_sleight_of_fist":"Если есть проблемы на лайне, то качаем его, и не боимся кидать его по КД, для гноба противников! реген маны от Auqila позволяет тратить ману + потом будет Battlefury.",
+				"ember_spirit_flame_guard":"Максим в начале в том случае, если у противников есть сильные магические Skill`ы! Которые будум мешать фарму!",
+				"ember_spirit_fire_remnant":"Догнать с ультой противника проще всего! Поэтому стараемся не выпускать илюзии все сразу, хоть у них и есть дамаг, но он не значительный, вы основной дамаг наносите вблизи!"
+		}
+	}
+}

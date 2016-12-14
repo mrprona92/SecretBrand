@@ -1,0 +1,120 @@
+{
+	"Hero":"windrunner",
+	"Title":"Lyralei: Limitless Potential",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"flask",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"magic_wand",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"orchid",
+				"cyclone",
+				"blink",
+				"mekansm",
+				"pipe",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"monkey_king_bar"
+			],
+			"Utilitarian":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"courier",
+				"flying_courier",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger provides an extra method of chasing and escaping. If Phase Boots, Windrun and Force Staff just isn't cutting it, get a Blink Dagger. It also allows you to easily line up game changing Shackle Shots on multiple targets. ",
+				"magic_wand":"Magic Wand is useful for the same reason Ring of Basilus is. Early game it will provide a good source of reserve mana to use Windrun if the situation becomes a little sticky. ",
+				"ward_observer":"If your support is not supporting, the job falls on you. Help out from time to time and purchase a few observer wards, it benefits the entire team. ",
+				"ward_sentry":"Sentry wards are important for de-warding and for using against stealth heroes. This job shouldn't only be exclusive to your primary support. Unlike Observer Wards, Sentries have an unlimited stock in the shop.",
+				"courier":"If you don't have courier, don't be a Donkey, buy one! ",
+				"phase_boots":"Phase boots are key on Windranger. Not only do they provide a lot of damage but the speed boost is great. Combining Phase Boots, Windrun and Force Staff means you should be pretty difficult, if not impossible, to kill. ",
+				"mekansm":"Mekansm is a solid pick for Windranger if your main support doesn't already have one. It's good for pushing momentum and for use during a team fight. Mekansm becomes less useful as the game goes on so you want to grab in the mid game phase.",
+				"ring_of_basilius":"Ring of Basilus is very useful early in the game. If you want to be able to fire off Powershot's as often as possible you're going to need something which provides a steady stream of mana. It also provides an additional armor boost, which is great for early team fights and tower pushing. ",
+				"pipe":"If the enemy team has a lot of AOE ultimates it's a good idea to pickup a Pipe of Insight. It will provide a much needed health buffer that will let you survive a team fight encounter against a well landed Epicentre or Ravage. ",
+				"sheepstick":"Scythe of Vyse is a very strong choice for Windranger for obvious reasons. It allows you to crowd control the enemy team and provides a large amount of intelligence and mana regeneration. ",
+				"orchid":"Orchid Malevolence is another option if you need crowd control. Orchid is also especially useful for shutting down ability based heroes such as Omni Knight as it amplifies your team's damage against the target and prevents them from casting spells. ",
+				"cyclone":"Eul's Scepeter of Divinity is a great item for taking yourself out of combat while you wait for a cool down and for providing crowd control. It's also a lot cheaper then a Scythe of Vyse and an Orchid Malevolence which means you can get it earlier in the game. ",
+				"force_staff":"Once you have finished your Phase Boots the next item you will pickup will be your Force Staff. This item is great for being offensive and defensive and synergizes well with everything else in your arsenal. ",
+				"black_king_bar":"Black King Bar is another good item for Windranger if you find yourself constantly being crowd controlled. If you are the only one with a game changing item such as a Sheep Stick you may find the enemy team will want to shut you down, which is where a Black King Bar will provide useful. ",
+				"monkey_king_bar":"Monkey King Bar is another luxury item you can get if you have a lot of farm. It provides a very useful mini bash and prevents you from missing which is important when you're living life on the edge and chasing someone. ",
+				"greater_crit":"If you have incredible farm and you have the gold to spend you can choose from luxury items such as Daedalus. It provides a huge damage boost and it provides critical strikes for your ultimate, Focus Fire. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_shackleshot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_focusfire",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Shackle Shot becomes infinitely more useful at max level. In the lane phase it wont be used nearly as much, so getting Powershot maximized before it allows you to become a lot more obnoxious early game.
+",
+				"windrunner_powershot":"Getting maximum points in Power Shot as soon as possible means you are able to harass enemies from a distance. This is especially important if you are playing solo lane to prevent the enemy from pushing forward to much and to get those important last hits.
+",
+				"windrunner_windrun":"Windrun is a great ability that allows you to be both offensive and defensive. Most of the items you pickup will be used in conjunction with this spell.
+
+I like to put my first point in Windrun as a method of escape to any level one ganks that may occur.",
+				"windrunner_focusfire":"Focus Fire gives a lot of tower pushing potential. Wait until you hit at least level 11 to get this ability. You are much better off spending your points else where to secure early game advantages. ",
+				"attribute_bonus":"Windranger is mostly ability based. There is no need to put points in stats until everything else has been maximized.  "
+		}
+	}
+}

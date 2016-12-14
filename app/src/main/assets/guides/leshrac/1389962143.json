@@ -1,0 +1,100 @@
+{
+	"Hero":"leshrac",
+	"Title":"Бэмби на стероидах",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"magic_wand",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"mekansm",
+				"rod_of_atos",
+				"cyclone",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"pipe",
+				"orchid",
+				"shivas_guard",
+				"black_king_bar",
+				"travel_boots",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Следует покупать на протяжении всей игры.",
+				"bracer":"Прекрасный артефакт за малые деньги.",
+				"mekansm":"Если в команде отсутсвуют фулл-саппорты, то этот артефакт следует собрать Вам.",
+				"flying_courier":"Следует купить как можно быстрее.",
+				"orchid":"Если в команде противника много прокастеров и у Вас нету проблем с деньгима, то этот артефакт будет отличным приобретением.",
+				"cyclone":"Поднимаем врага в воздух, считаем до 2-х, кастуем стан. PROFIT",
+				"bloodstone":"Собирать только тогда, когда вы полностью доминируете на карте. В иных случаях бесполезен.",
+				"arcane_boots":"Лишняя мана не помешает.",
+				"ancient_janggo":"Must have.",
+				"rod_of_atos":"С этим предметом ваши станы 100% попадут в цель."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_split_earth",
+			"4":"leshrac_diabolic_edict",
+			"5":"leshrac_split_earth",
+			"6":"leshrac_diabolic_edict",
+			"7":"leshrac_split_earth",
+			"8":"leshrac_diabolic_edict",
+			"9":"leshrac_lightning_storm",
+			"10":"leshrac_pulse_nova",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_lightning_storm",
+			"14":"leshrac_lightning_storm",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Прекраснейший АОЕ-стан.",
+				"leshrac_diabolic_edict":"Убиваем вражеских крипов, подходим к вражеской башне, включаем скилл. PROFIT",
+				"leshrac_lightning_storm":"Идеален для фарма крипов + дает неплохое замедление"
+		}
+	}
+}

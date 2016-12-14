@@ -1,0 +1,116 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"Bring Chaos to Order-Carry 2014",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"magic_wand",
+				"boots",
+				"helm_of_iron_will"
+			],
+			"Mid Game":
+			[
+				"power_treads",
+				"armlet",
+				"lifesteal"
+			],
+			"Core items":
+			[
+				"manta",
+				"black_king_bar",
+				"heart"
+			],
+			"Sittuational Items":
+			[
+				"diffusal_blade",
+				"vanguard",
+				"satanic",
+				"heavens_halberd",
+				"assault",
+				"bottle",
+				"bfury",
+				"abyssal_blade",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"helm_of_iron_will":"For a cheaper build go direct for an armlet",
+				"stout_shield":"At the start of the game you need some cover before you go out and start the armageddon",
+				"gauntlets":"Good extra life and hit to start",
+				"lifesteal":"Great item to keep you in the middle of the battlefield without a shameful retreat use it if you are tank of the team for more survivability'",
+				"magic_wand":"Dont waste your branches can be very useful",
+				"bottle":"This bottle is gonna be like your third hand helping to cast spells with your low mana pool, most if you try mid lane",
+				"power_treads":"For any land or any circunstances this are your boots with the ability to change between STR and INT when your mana pool is down is an extra skill to finish a combo",
+				"heart":"Need some life and get tanky? YOU GOT IT,so keep your armlet on to finish them",
+				"black_king_bar":"Created for CK to protection for many mother f@ck#r disablers ",
+				"vanguard":"if you want durability and security protecting your lane  dont look further the vanguard is your choice with good hp regen  and damage block",
+				"bfury":"Wanna a quick fight this are your item great with your clones",
+				"manta":"Essencial to create a rampage of ilusions with your ULTIMATE or never being caught with out them ",
+				"armlet":"An item of mayhem, use it before active your ULTIMATE!! making a lot of damage to any of your  victims  ",
+				"satanic":"Why not?",
+				"diffusal_blade":"A demon hell item to burst the mana of the others used with your clones beacuse is great against mages",
+				"soul_ring":"For a more dinamic mid game make possible the stun and pull combination great in early team ganks  ",
+				"ancient_janggo":"Run fast, stun hard and hit like crazy you really need this"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Make your enemies rest in pieces! with a distance stun how cool is that, no one can run awa, makes  an inversed damage-stun now ",
+				"chaos_knight_reality_rift":"Try to scape?  dont think so ...GET OVER HERE ...(your ilusions will also close their pathout)
+",
+				"chaos_knight_chaos_strike":"A really freaky critical randomed but powerful hit, so
+like confucious say... DIE!",
+				"chaos_knight_phantasm":"Your master key of doom so bring the chaos
+(upgrade until lvl 11 , for your low mana pool in early levels is not so useful)",
+				"attribute_bonus":"A point before your phantasm to dont dry your mana so fast, but go to your ULT if there are some trouble."
+		}
+	}
+}

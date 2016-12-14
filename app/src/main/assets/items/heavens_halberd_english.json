@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 25 Damage<br/>+ 20 Strength<br/>MAIM CHANCE: 15%<br/>SLOW: 20%<br/>+ 25% Evasion",
+  "cd": 30.0,
+  "components": [
+    "sange",
+    "talisman_of_evasion"
+  ],
+  "qual": "artifact",
+  "notes": "The disarm effect cannot be purged.",
+  "desc": "Active: Disarms the target for 4.5 seconds. Lasts 3.0 on Melee targets. <br/>Passive: Lesser Maim - Gives a chance on attack to slow movement speed for 4.0 seconds.",
+  "dname": "Heaven\u0027s Halberd",
+  "dotaId": "heavens_halberd",
+  "mc": 100.0,
+  "img": "heavens_halberd_lg.png",
+  "lore": "This halberd moves with the speed of a smaller weapon, allowing the bearer to win duels that a heavy edge would not.",
+  "id": 210,
+  "created": true,
+  "cost": 3850
+}

@@ -1,0 +1,75 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"EMBER SPIRIT POWERFULL CARRY NUKER",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"bracer",
+				"vladmir"
+			],
+			"coreItems":
+			[
+				"skadi",
+				"greater_crit",
+				"sange_and_yasha",
+				"monkey_king_bar"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"mjollnir",
+				"satanic",
+				"black_king_bar"
+			],
+			"Без имени":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_sleight_of_fist",
+			"2":"ember_spirit_flame_guard",
+			"3":"ember_spirit_sleight_of_fist",
+			"4":"ember_spirit_searing_chains",
+			"5":"ember_spirit_sleight_of_fist",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_sleight_of_fist",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_searing_chains",
+			"10":"ember_spirit_flame_guard",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_flame_guard",
+			"13":"ember_spirit_searing_chains",
+			"14":"ember_spirit_searing_chains",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"Hero":"juggernaut",
+	"Title":"Juggernaut Hard Cary",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"pers",
+				"phase_boots"
+			],
+			"Урон с руки":
+			[
+				"bfury",
+				"desolator",
+				"monkey_king_bar",
+				"assault",
+				"mjollnir",
+				"vladmir",
+				"black_king_bar"
+			],
+			"Урон с ульты (3 стакающихся содификатора)":
+			[
+				"mjollnir",
+				"ultimate_scepter",
+				"skadi",
+				"satanic",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Увеличит дамаг по крипам",
+				"stout_shield":"Поможет в фарме, блокируя 20 урона(с шансом 60%)",
+				"tango":"По желанию можно заменить на фласку(мне удобнее с танго)",
+				"phase_boots":"Дополнительный дамаг + дополнительная скорость",
+				"pers":"Дополнительный реген хп+мп, в дальнейшем грейдим в БФ",
+				"poor_mans_shield":"Грейд щита, даст дополнительную ловкость",
+				"vladmir":"Если нужен отхил(Собираю редко!)",
+				"ultimate_scepter":"Больше прыжков,меньше кд - больше выживаемости с Satanic",
+				"assault":"Увеличит скорость и защиту тебе и твоим друзьям, а еще как и дезоль снизит защиту врагов(Очень полезный предмет)",
+				"black_king_bar":"В случае если тебя часто фокусят",
+				"monkey_king_bar":"+88 дмг, +15 каста, микро баши(Собьет ТП, Каст некотороых скилов) и удары без промахов(Незаменим если против вас Морта или перс с Бабочкой)",
+				"bfury":"Целых 65 дамага и плюс урон по рядом стоящим целям(Очень поможет в фарме)",
+				"satanic":"Востановление хп во время ульты - вторая жизнь!",
+				"mjollnir":"Дополнительный урон и скорость атаки и разряды молний(Доп 160 урона по 3-м целям, с шансом 25%)РАБОТАЕТ С Desolator",
+				"skadi":"Работает с Мjollnir'ом и Satanic'ом. Даст сильное замедление, урон и живучесть.",
+				"desolator":"Целых 60 дамага и ощутимое снижение брони."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"juggernaut_blade_dance",
+			"3":"juggernaut_blade_fury",
+			"4":"juggernaut_blade_dance",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_healing_ward",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_healing_ward",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_healing_ward",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Отличный скил, наносит большой урон(Во время каста можно использовать предметы!)",
+				"juggernaut_healing_ward":"Для пуша лучше качать по раньше! Поможет после замесов.",
+				"juggernaut_blade_dance":"Облегчит фарм в начале игры, а в конце будет давать криты по 700-900 урона.",
+				"juggernaut_omni_slash":"Ваш ультимейт! Пробивает бкб, с аганимом и сатаником вливает огромны урон и дает вам очень сильный сейв!"
+		}
+	}
+}

@@ -1,0 +1,110 @@
+{
+	"Hero":"axe",
+	"Title":"Русский гайд на Акса.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"branches",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"soul_ring",
+				"chainmail",
+				"robe"
+			],
+			"coreItems":
+			[
+				"blade_mail",
+				"vanguard",
+				"blink",
+				"sange"
+			],
+			"В лейте":
+			[
+				"blade_mail",
+				"vanguard",
+				"blink",
+				"heart",
+				"ultimate_scepter",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Ну с дагером многие знакомы.
+Но всеже раскажу. Дагер помогает инициировать замесы + можно если что либо догнать либо убежать от врага.
+
+(Обязательно)",
+				"chainmail":"Прибавляет 5 брони.Собираем из него Blade Mail",
+				"stout_shield":"Покупаем обязательно, блок урона крипов +отличная возможность танчить в начале игры. Герои с дальними атаками в не будут вас сильно беспокоить.",
+				"branches":"Не обязательно.",
+				"robe":"Для Blade Mail.",
+				"tango":"Ну здесь вы сами поймете)",
+				"travel_boots":"Телепортируемся  по карте . Дает сразу 100 скорости передвижения.
+
+(Не обязательно)",
+				"ultimate_scepter":"Улучшает наш ульт,если в команде противника герои с большим количеством жизней покупайте.
+
+(Не обязательно)  т.к Если убивайте ультой кулдаун ульты сбрасывается.",
+				"heart":"Тут думаю все знают)
+
+(Если деньги будут покупайте.)",
+				"vanguard":"Блокирует много урона,достаточно хорошо помагает в замесах ,покупаем.
+
+(Обязательно)",
+				"blade_mail":"Основной предмет,Залетаем в замес врубаем 1 скилл и включаем Blade mail , и все противники трупы ) Если что добиваем ультой.
+
+(Обязательно)",
+				"sange":"Можно не покупать)",
+				"soul_ring":"Покупаем,хорошая вещь.
+Если не хватает маны на ульту или любой другой скилл,юзайте и убивайте)+Неплохой реген маны.
+
+(Не обязательно)",
+				"tranquil_boots":"Немного брони,скорость передвижения+большой реген ХП,покупаем обязательно."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_berserkers_call",
+			"3":"axe_battle_hunger",
+			"4":"axe_counter_helix",
+			"5":"axe_berserkers_call",
+			"6":"axe_culling_blade",
+			"7":"axe_counter_helix",
+			"8":"axe_battle_hunger",
+			"9":"axe_berserkers_call",
+			"10":"axe_counter_helix",
+			"11":"axe_culling_blade",
+			"12":"axe_battle_hunger",
+			"13":"axe_berserkers_call",
+			"14":"axe_battle_hunger",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

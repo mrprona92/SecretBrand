@@ -1,0 +1,99 @@
+{
+	"Hero":"alchemist",
+	"Title":"[DMX] Alchemist - Farm Build (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_health",
+				"magic_stick"
+			],
+			"Objets principaux":
+			[
+				"phase_boots",
+				"vanguard",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"radiance",
+				"black_king_bar",
+				"assault",
+				"abyssal_blade",
+				"mjollnir",
+				"travel_boots"
+			],
+			"Situationnel":
+			[
+				"pipe",
+				"vladmir",
+				"blade_mail",
+				"heavens_halberd",
+				"desolator",
+				"armlet"
+			]
+		},
+		"ItemTooltips":
+		{
+				"pipe":"Faites pipe si vos ennemis ont beaucoup de dégâts magiques de zone.",
+				"blade_mail":"Une Blademail est un très bon item si vous vous faîtes beaucoup focus lors des teamfights.",
+				"armlet":"Si vous maitrisez l'actif de armlet, ce dernier vous donnera un bon boost de dégâts et la possibilité de Juke vos adversaires."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_goblins_greed",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_acid_spray",
+			"5":"alchemist_goblins_greed",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_goblins_greed",
+			"8":"alchemist_acid_spray",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_acid_spray",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_unstable_concoction",
+			"13":"alchemist_unstable_concoction",
+			"14":"alchemist_unstable_concoction",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Ce sort est assez coûteux en mana, mais il vous permettra de bien défendre et de farmer très rapidement n’importe quelle vague de creeps. N’hésitez pas non plus à l’utiliser durant les teamfights, pour affaiblir l’équipe ennemie",
+				"alchemist_unstable_concoction":"Ce sort peut se révéler être un stun de très bonne facture si vous arrivez à l’utiliser au bon moment ! Faîtes bien attention à ne pas exploser avec votre mixture, vous prendriez le maximum de dégâts et l’étourdissement le plus long possible ! Cependant vous pouvez l'utiliser pour vous deny",
+				"alchemist_goblins_greed":"Essayez au maximum de garder le bonus le plus haut possible en tuant des unités à intervalles réguliers !
+",
+				"alchemist_chemical_rage":"N’hésitez pas à abuser de cet ultimate qui vous rend bien plus puissant à tous les niveaux. Avec les bons items vous deviendrez un monstre sous cette forme !"
+		}
+	}
+}

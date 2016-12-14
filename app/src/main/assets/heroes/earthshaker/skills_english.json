@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Fissure",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Slams the ground with a mighty totem, creating an impassible ridge of stone while stunning and damaging enemy units in a line.",
+        "notes": "Creeps will wait for Fissure to disappear. They will not attempt to walk around it.<br/>Fissure is not blocked by Linken\u0027s Sphere.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">125/175/225/275</font></b>",
+        "attrib": "FISSURE RANGE: <b><font color=\"#ffffff\">1400</font></b><br/>FISSURE DURATION: <b><font color=\"#ffffff\">8</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/140/155/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15",
+        "lore": "The Nishian totem splits the world to its core with tectonic force.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_fissure",
+        "youtube":"vTbNwc5Tqwc",
+        "id": 0
+    },
+    {
+        "dname": "Enchant Totem",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Empowers Earthshaker\u0027s totem, causing it to deal extra damage on the next attack.",
+        "notes": "Bonus damage is based on base damage and that given by primary attribute.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "BONUS: <b><font color=\"#ffffff\">100%/200%/300%/400%</font></b><br/>DURATION: <b><font color=\"#ffffff\">14/14/14/14</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/30/40/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5",
+        "lore": "Raigor\u0027s gorilla strength can destroy mountains.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_enchant_totem",
+        "youtube":"OkSsLAN7mbk",
+        "id": 1
+    },
+    {
+        "dname": "Aftershock",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Causes the earth to shake underfoot, adding additional damage and stuns to nearby enemy units when Earthshaker casts his abilities.",
+        "notes": "Using items does not trigger Aftershock.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">50/75/100/125</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">300</font></b><br/>DURATION: <b><font color=\"#ffffff\">0.6/0.9/1.2/1.5</font></b>",
+        "cmb": "",
+        "lore": "The earth trembles beneath the mighty footsteps of Raigor.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_aftershock",
+        "youtube":"2xcM8xccDIs",
+        "id": 2
+    },
+    {
+        "dname": "Echo Slam",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Shockwaves travel through the ground, damaging enemy units.  Each enemy hit causes an echo to damage nearby units.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Will not damage ethereal units, such as those in Ghost Form.<br/>Units creating echoes also take damage from the wave they produced.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">160/210/270</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">575</font></b><br/>ECHO DAMAGE: <b><font color=\"#ffffff\">40/55/70</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 145/205/265<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/130/110",
+        "lore": "Tectonic plates crack, mountains fold, and foes are crushed by the Echo Slam.",
+        "hurl": "Earthshaker",
+        "name": "earthshaker_echo_slam",
+        "youtube":"1_C9UkV-27s",
+        "id": 3
+    }
+]

@@ -1,0 +1,116 @@
+{
+	"Hero":"razor",
+	"Title":"6.82 - Standard Razor (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"bottle",
+				"sange_and_yasha",
+				"ancient_janggo",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"heart",
+				"assault",
+				"refresher"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Bottle is sometimes obtained if you find yourself struggling in lane. It's great throughout the game and let's you spam your abilities and hold runes better, but isn't necessary as Razor's mana holds up just enough even with Meka.",
+				"power_treads":"In order to use Mekansm, you may need to tread switch to Int. just to be able to pull off all your abilities by level 7-8.",
+				"mekansm":"Although you will be doing a lot of damage on heros, that also means you can be more loose with your stats. Mekansm gives you the on-demand survivability you want, for a smaller cost and overall team-use!",
+				"cyclone":"Using Eul's does not cut your Static Link, great disable and way to ensure you'll always have your damage snagged.",
+				"ultimate_scepter":"Aghanim's Scepter on Razor means more armor reduction, more damage and easier fights for Razor, reducing the amount of tankiness you may need if you can pulverize your foes fast enough.",
+				"refresher":"Though a bit of a gimmick, activate your ultimate twice to damage towers incredibly fast and wear down teams in seconds.",
+				"assault":"With the influx of damage coming from Static Link, Assault Cuirass will bulk you up with its armour and also offer great attack speed to dish out all that collect damage.",
+				"heart":"Bulk up with Heart of Tarrasque and be able to sift through all the damage to pull off your Static Link with ease.",
+				"black_king_bar":"Black King Bar is to ensure you can keep on the tails of your linked foes and be able to dish out the damage you've sapped.",
+				"vanguard":"Debatable item, though often suggested, many users are straying from getting Vanguard and opting to get armor and health regeneration elsewhere.",
+				"blade_mail":"Consider Blade Mail if you're taking a lot of heat from phyiscal heros that you cannot Static Link.",
+				"monkey_king_bar":"Evasion heroes despise this item. Monkey King Bar makes you an incredible damage-dealer even without Static Link.",
+				"invis_sword":"A cheap move, but using Static Link with the increased movement speed and invisibility of Shadow Blade lets you comfortable take all the damage from your opponent and dish it out nicely!",
+				"sange_and_yasha":"More speed, more damage, more of the in-between stats that Razor thrives on. Sange &amp;amp;amp;amp; Yasha is a great item that you can build into comfortably if you can't seem to reach the much larger items.",
+				"ancient_janggo":"Since your Unstable Current will not be leveled so early in the game, Drums of Endurance offers you the added movement speed plus attack speed! Great stuff!",
+				"rod_of_atos":"Keeps your Static Link in place and also gives you needed mana and life. An item to strongly consider.",
+				"heavens_halberd":"To further help disable carries. This item is an underrated tool to really disable physical carries. Evasion with some extra health makes this a pocket pick for Razor if the bigger items seem to be a bit too difficult.",
+				"ring_of_aquila":"Protection during the laning phase, mana regeneration due to your low mana-pool and some last-hitting power to compensate for your weak damage output. Overall; essential item for Razor.",
+				"tranquil_boots":"For added Survivability. The stats offered from Treads or the speed in Phase are not enough to justify purchasing them."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_static_link",
+			"2":"razor_plasma_field",
+			"3":"razor_plasma_field",
+			"4":"razor_unstable_current",
+			"5":"razor_plasma_field",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_static_link",
+			"9":"razor_static_link",
+			"10":"razor_static_link",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_unstable_current",
+			"13":"razor_unstable_current",
+			"14":"razor_unstable_current",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"razor_plasma_field":"This is your main nuke damage and ability. The farther the opponent, the more damage you do and is a great way to initiate on unsuspecting foes as well as those who flee!",
+				"razor_static_link":"Static Link is your main damage autoattack output. Its importance of use is paramount to not only &amp;amp;amp;quot;disable&amp;amp;amp;quot; physically carries, but also earn your salt amongst the team.
+
+This goes through nearly all forms of invulnerability like Black King Bar, Lifestealer's Rage and more.",
+				"razor_unstable_current":"We get a point in this for the extra movement speed to stay above some of the clunkier heroes. This is good later on when Razor starts engaging in fights. ",
+				"razor_eye_of_the_storm":"This ultimate allows you to reduce the armor of all your foes around you with each hit of this ultimate. It makes your Static Linked damage stronger and Razor's presence powerful!"
+		}
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"The Handsome Devil by Axerron",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"mantle",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"point_booster"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"power_treads",
+				"orchid",
+				"sphere"
+			],
+			"luxury":
+			[
+				"magic_wand",
+				"sheepstick",
+				"dagon",
+				"black_king_bar",
+				"shivas_guard",
+				"gem",
+				"greater_crit",
+				"skadi",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"More int for more mana and to help with last hitting. Sell it later when you have enough farm.",
+				"branches":"GG branches. They can be built into a Wand if enemy has lots of spammable skills or just sold later.",
+				"gem":"For those annoying Rikis, Bounty Hunters, Clinkzes and Shadow Blades.",
+				"magic_wand":"Get it when you face a spamming hero such as Zeus or Batrider.",
+				"bottle":"Get your bottle ASAP to control Runes. Preferably before 2 minute mark.",
+				"tango":"This is the only regen you need early for mid Storm Spirit. It will be sufficient until you get your bottle, which should be soon after second creep wave.",
+				"point_booster":"First item towards your Bloodstone. It makes you more tanky and gives you bigger mana pool. Get Perseverance instead when you farm lane and don't gank.",
+				"power_treads":"Best boot upgrade after you disassemble your Arcane Boots. Thread switching is very useful when you need more survivability in fights or more mana and damage for farming.",
+				"sheepstick":"Can be a good substitute for Orchid. Get it rather when the enemy team have a strong and well fed carry hero.",
+				"orchid":"Best offensive item on Storm Spirit. Gives you everything you need - damage, AS, mana regen and more Int for even more damage and mana. Use the silencing ability in fights and ganks to secure kill on escaping heroes (Anti-mage, Void, QoP...) or to get rid of a disabler (Bane, Lion...)",
+				"dagon":"Good item if you had a bad start and were forced to build Null Talisman. Useful to finish off more tanky heroes during ganks. Leave it at lvl 1 however.",
+				"black_king_bar":"When enemy team have lots of disables and hurtful spells. Substitute for Linken's Sphere.",
+				"shivas_guard":"Good situational item for 5v5 teamfights. It gives you more effective HP against heavy right-clickers, good chasing passive, and great initiating active ability.",
+				"bloodstone":"Your most CORE item on Storm Spirit. It makes you tanky enough to survive fights and gives you so much needed mana regen after you gather few charges. It also scales very well into late game. Get this between 15 and 20 minute mark to start getting charges early.",
+				"sphere":"Best defensive item you can get. Linken's passive ability is better on Storm Spirit than BKB because of his mobility and good escape mechanism. You usually only need to dodge the first initiating disable. Also gives Storm better stats than BKB and more mana regen.",
+				"rapier":"Get only if you are stomping the enemy team and are sure you can't die in a fight.",
+				"greater_crit":"Get only if you are doing amazingly well and want to have some more swag. In other cases Daedelus is not that useful on Storm Spirit.",
+				"skadi":"Very, very, very situational item. Get only if the game is dragging too long, and the opposing team have lots of BKBs.",
+				"arcane_boots":"Arcane Boots should be 2nd item. However, you build them only temporarily. They are later disassembled and used to build Bloodstone."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_overload",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_overload",
+			"10":"storm_spirit_electric_vortex",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_static_remnant",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_static_remnant",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"Use for last hitting early and to charge up your passive. Leave it to max last because it doesn't scale that well. Also very effective for jungling due to low cooldown.",
+				"storm_spirit_electric_vortex":"Level Vortex up to level 2 or 3 and leave it there then. Early levels are useful for ganks so you have longer disable but level 3 should be enough for early ganks.",
+				"storm_spirit_overload":"Get Overload second to help you with lasthitting. Max it after Vortex for amazing bonus damage and good slow.",
+				"storm_spirit_ball_lightning":"Get your ultimate at standard levels 6, 11 and 16. Every new level gives you more maneuverability and speed.",
+				"attribute_bonus":"You can get stats earlier when you feel you need more survivability or mana and your farm is going poorly."
+		}
+	}
+}

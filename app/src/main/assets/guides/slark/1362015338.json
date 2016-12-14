@@ -1,0 +1,121 @@
+{
+	"Hero":"slark",
+	"Title":"Slark Ganker Semi-Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"orb_of_venom",
+				"orchid"
+			],
+			"luxury":
+			[
+				"skadi",
+				"butterfly",
+				"basher",
+				"vladmir",
+				"black_king_bar",
+				"abyssal_blade",
+				"heart",
+				"invis_sword",
+				"manta"
+			],
+			"Alternative Core Items":
+			[
+				"ancient_janggo",
+				"medallion_of_courage",
+				"armlet",
+				"maelstrom",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Unless you expect to be against melee only characters, this item is prettymuch core on every melee character.  Even if against melee heros, with Slark's passive this allows you to trade hits pretty effectively.",
+				"branches":"Some early stats are nice.",
+				"magic_wand":"Prettymuch core on every hero, works well to help his overall bad stats and help his surviability.",
+				"flask":"Regen is regen, both types of hp regen recommended.",
+				"tango":"Regen is regen, both types of hp regen recommended.",
+				"power_treads":"Treads are good to allow you to treadswitch early, saving mana, getting some extra hp or additional armor/attackspeed.  If you want to go phaseboots for more damage earlier thats ok, but after yasha/ult(ultpassive) you will be at max movementspeed with treads, while unseen.",
+				"poor_mans_shield":"Instead of going vangaurd and wasting the regen on that item, poormans always blocks damage, although less its more reliable and allows you to take more harrassment in lane.",
+				"vladmir":"As with most melee ganker/ulitility heros you usually build orbs.  While the lifesteal may not be that important during fights, it helps your team overall do more damage and helps your carry stay alive longer.  Would not recommend rushing this item.",
+				"orchid":"This item is core to solve all of his mana problems, in addition it allows you to pretty much solo anyone in the game (that doesn't have bkb)  It gives attackspeed and damage, however no stats, some would argue that he needs stats earlier, but I do not think you do, if your careful.",
+				"heart":"Works well with his passive and helps him stay alive, recommend rushing other items before this.",
+				"black_king_bar":"With his squshyness he needs this item in order to stay alive, if forced to team fight.  Damage and HP are 2 things most semi carries don't mind having.",
+				"butterfly":"After eye and bkb, getting this can be very good, especially against right click enemy carries.",
+				"basher":"HP and damage, bonus effect.",
+				"manta":"Good stat item, usually heros will counter you with sentries or gem, as death pact removes dust.  This however works well with confusing the item a bit and similar to eye, gives him some decent stats.",
+				"armlet":"HP, armor, attackspeed and a bit of damage, this item is very good, especially for the cost.  Works well with his passive after a fight to regen up HP and armlet toggle is always awesome.",
+				"invis_sword":"Pretty much a troll item, that said it works with his passive and can help you scout out more efficiently.",
+				"skadi":"Overall good item for slark, because of his passive heart isn't recommended over this, at least not first.",
+				"maelstrom":"Good damage and attack speed item, but without stats can hurt some players, however this is the best option if you need some sort of aoe.",
+				"orb_of_venom":"Please always get this item on slark, unless your going diffusal, this is the best orb you can have, especially for early game.  I would recommend not going diffusal as the stats from eye of skadi are really good for slark.",
+				"ancient_janggo":"Nice stat item, helps your team, helps you escape, as a ulitlity hero/ganker, you may be the best person to build this.  Especially if you have a bad start.",
+				"medallion_of_courage":"Underutilized on most ganker/utility heros.  Helps a little bit with mana regen, but more importantly allows you to kill easier when you have someone leashed.",
+				"rod_of_atos":"HP and mana pool, slow works well after or before leash.",
+				"abyssal_blade":"If you find yourself ahead this item will devisate bkb carries and may help your team win the game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_dark_pact",
+			"3":"slark_pounce",
+			"4":"slark_essence_shift",
+			"5":"slark_dark_pact",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_pounce",
+			"9":"slark_dark_pact",
+			"10":"slark_dark_pact",
+			"11":"slark_shadow_dance",
+			"12":"slark_essence_shift",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slark_dark_pact":"Dispelling stuns and other debuffs is nice, in addition this is a powerful aoe nuke if leveled.  Keep in mind it does half damage to you, so wait until your 6 to spam it.",
+				"slark_pounce":"Both an escape, \"disable\" and nuke I think leveling this  first is best.",
+				"slark_essence_shift":"Can level this at 2 to trade hits better, however I usually level dark pact in order to purge an incoming stun.",
+				"slark_shadow_dance":"Really good ability, scales nicely being leveled at 6, 11, 16.",
+				"attribute_bonus":"Slark needs stats early in the game, however under most circumstances I would say buy cheap stat items early vs using skill points on it."
+		}
+	}
+}

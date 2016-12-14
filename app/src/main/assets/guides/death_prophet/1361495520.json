@@ -1,0 +1,99 @@
+{
+	"Hero":"death_prophet",
+	"Title":"Mid No Bloodstone Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"magic_stick"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"ancient_janggo",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"pipe",
+				"rod_of_atos"
+			],
+			"Post Core Items":
+			[
+				"skadi",
+				"heart",
+				"sheepstick"
+			],
+			"Luxury Items":
+			[
+				"assault",
+				"shivas_guard",
+				"monkey_king_bar",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_stick":"Grab this at the start if you're laning against a Bat Rider.",
+				"bottle":"you should be able to farm this fairly quickly with the standard solo mid starting items above.",
+				"mekansm":"Depends on your line up. Someone should have this, and DP is a reasonable candidate.",
+				"pipe":"See Mek.",
+				"sheepstick":"After Heart/Skadi grab this. You won't be able to go OoM if you try.",
+				"cyclone":"This should solve typical mana issues. Also great to activate when your ghosts start returning to you if you're still in danger and need HP back fast.",
+				"heart":"Grab this against ranged and high-mobility melee carries.",
+				"skadi":"Grab this only if you're up against a low mobility melee carry (not Anti-mage/Nighstalker)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_silence",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_witchcraft",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_witchcraft",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_silence":"Grab this at level 2 or 4 depending on your situation."
+		}
+	}
+}

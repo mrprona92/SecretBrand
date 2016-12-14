@@ -1,0 +1,112 @@
+{
+	"Hero":"earthshaker",
+	"Title":"Monetas guide to Earthshaker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"blink"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"veil_of_discord",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"The trollolo carry shaker build.":
+			[
+				"power_treads",
+				"invis_sword",
+				"greater_crit",
+				"desolator",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Your bread and butter. This is the most important item for shaker, because it allowes you to be an initiation monster. The combo is simple: find a good position, make sure that there is alot of enemy units(including creeps) blink in - echo slam- fissure-totem.",
+				"branches":"3 branches will not only give usefull stats for our beardy friend, but also ensure that at lvl 1 you can throw 2 fissures instead of just 1.",
+				"magic_wand":"we upgrade the branches into a wand. As we alredy know shaker has huge mana problems early on, and the wand can really help to solve those issues, not to mention it also heals.",
+				"clarity":"Eartshaker has huge mana problems in the early game, so to be usefull in lane we buy 3-4 clarities.",
+				"flask":"Another regeneration item to stay in lane.
+
+PS: Unlike tangoes if a creep or enemy hero hits you, the salve will stop healing, so make sure to find a safe place to get the maximum regen.",
+				"tango":"Tangoes is a great item to stay in lane longer and not to mention you can give it to your lane partner if he is out of regeneration items.
+
+PS: To use tangoes you need to click on tangoes and then click on a tree. Note that you should eat 1 tangoe at once.",
+				"courier":"Only buy the courier if no one else is gonna buy it. You need the extra money to get your items faster. If you are the one to buy the courier then buy 2 branches instead of 1.",
+				"power_treads":"Go treads for dem sexy stats and extra punch power.",
+				"sheepstick":"One of the best items to get if there is some strong carry hero that needs to be locked down and punished. It gives good stats, mana regen all shaker needs bassicly, but for a great cost. Not to mention if you landed the hex on the targer he cant use any items at all.",
+				"ultimate_scepter":"Aghanim sceptre will make your initiation even more deadly than before, it will not only boost your ultimate, but also get you very good stats, increasing your mana and hp pool.",
+				"shivas_guard":"A very good item to make sure no one will run away for you and your teammates, not to mention that it increases your armor and mana. ",
+				"monkey_king_bar":"We need more damage, MOREEE!",
+				"greater_crit":"Makes the totem+ lothar edge combo even more deadly, it is always fun if you one shot a hero with an 1000+ crit.",
+				"invis_sword":"The bad blink dagger as i call it. You can initiate with it also, but you always have to fear enemyes having invis detection against you. The combo is pretty simple: you totem - use shadow blade - hit an enemy for the huge totem + 150 dmg from shadow blade and then use your skills.",
+				"desolator":"I mean why  not right?",
+				"arcane_boots":"One of the most important items for shaker. Solves his mana problems, allows him to do his full combo ( echoslam-fissure and totem) Not to mention it is a very usefull support item that will regenerate not only your mana, but also your allies. ",
+				"veil_of_discord":"A cheeper version of aghanims. Provides you some stats, and increases your magic damage deallt to 25%, and not to mention it lasts for 20 seconds. A very usefull item if you have magic nukers in your team( for example queen of pain)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_enchant_totem",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_aftershock",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"Max fissure first for the dmg and stun increase. Be sure to think about how the fissure will be placed, so that your teammates wont get trapped by a bad fissure and so that enemies will have no chances to pass.",
+				"earthshaker_enchant_totem":"A really usefull spell later in the game to finish of enemy heroes after you do the blink in-echoslam -fissure combo. No to mention thanks to after shock it will also have a stun. ",
+				"earthshaker_aftershock":"Max it out second so that your totem and ultimate will also stun and increase the fissures stun time as well.",
+				"earthshaker_echo_slam":"Your bread an butter skill. The skill that can turn any fight in your teams favour if used correctly. Be sure to catch as much units possible in the ultimate to deal more damage."
+		}
+	}
+}

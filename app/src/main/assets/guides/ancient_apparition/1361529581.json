@@ -1,0 +1,117 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"Strong Support AA [6.80 updated]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"clarity",
+				"flask",
+				"gauntlets",
+				"tango",
+				"ward_observer",
+				"orb_of_venom"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"tpscroll",
+				"boots",
+				"ward_observer",
+				"ward_sentry",
+				"urn_of_shadows",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"force_staff",
+				"ward_observer",
+				"pipe",
+				"ultimate_scepter",
+				"rod_of_atos",
+				"cyclone"
+			],
+			"If OWNING":
+			[
+				"sheepstick",
+				"veil_of_discord",
+				"dagon",
+				"shivas_guard",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"With this gaunlet you can go to a Urn of Shadows to heal your teammates and dmg your enemy over time, great combination with your ult. You can also go to Drums to get some stats and help your team with the aura.",
+				"clarity":"Keep your mana up while harassing the enemy with the cold feet",
+				"ward_observer":"Vision is always important, buy this to help your team and scout your enemys.",
+				"ward_sentry":"Buy this for de-warding, unblock your pull or to see your invisible enemy if this is the case.",
+				"courier":"Essential to have, if your team already bought one, buy the wards",
+				"tpscroll":"Always carry a TP to help your teammates, as a support your work is to to this!",
+				"mekansm":"Buy this if theres no one to get that, one per team.",
+				"flying_courier":"Buy this asap",
+				"pipe":"If the other team has a lot of good spells, you shoul do it.",
+				"urn_of_shadows":"Dmg over time + AA ult = great combo. Also good to heal your allies",
+				"sheepstick":"Great disable, if you can get this try to always use on who is screwing your team up.",
+				"cyclone":"Cyclone you to be safe, cyclone your enemy to combo with ult or saving an ally from a \"monster :S\". Also, use Cold Feet before using it will also freeze your enemy.",
+				"force_staff":"Give to you some great stats and a good escape that can also be used to save a teammate.",
+				"dagon":"with this+vortex+ your ult= easy kills. Do this ONLY if you are Owning",
+				"ultimate_scepter":"With the new patch, this item makes AA OP. 16s with no health regen and with damage over time. Use and abuse.",
+				"shivas_guard":"More ice, more AoE, more dmg, more kills.",
+				"arcane_boots":"This will help you to always have mana to your ut, so dont be afraid to use it.",
+				"orb_of_venom":"Your decision to buy this. Will make your auto atacks hit more your enemy, but can be 1 less ward.",
+				"ancient_janggo":"Give to you some stats and a movespeed aura to your team. One per team.",
+				"veil_of_discord":"Do this only if your team have more good magic skills to bonus damage.",
+				"rod_of_atos":"This item with Cold Feet = Freeze. Choose this or Eul's"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_chilling_touch",
+			"3":"ancient_apparition_ice_vortex",
+			"4":"ancient_apparition_cold_feet",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_chilling_touch",
+			"9":"ancient_apparition_ice_vortex",
+			"10":"ancient_apparition_chilling_touch",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_ice_vortex",
+			"13":"ancient_apparition_ice_vortex",
+			"14":"ancient_apparition_chilling_touch",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ancient_apparition_cold_feet":"Use this to harass your enemy. If he get on ice this can turn into a easy kill for your team.",
+				"ancient_apparition_ice_vortex":"More than the slow, this skill is good for amplify the damage of your teams skills, and also yours. With the new changes, this skill scale really well into mid-late game, where your spells and the ones of your team will receive a great boost of damage.",
+				"ancient_apparition_chilling_touch":"This skills make your early game advantage. As a support, use it to harass your enemys with a great dmg. 2 lvls of it early game is more than sufficient to do your work.",
+				"ancient_apparition_ice_blast":"This skill is basically the hero. Keep your eyes in other lanes and ult always you see a oportunity, can bring some great kills to your team. In late, maybe with scepter, you can stop your enemy hp regen for like 16s, so use it in all team fights."
+		}
+	}
+}

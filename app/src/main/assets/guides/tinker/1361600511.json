@@ -1,0 +1,101 @@
+{
+	"Hero":"tinker",
+	"Title":"Solo Mid Tinker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"mantle",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"soul_ring",
+				"boots"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"sheepstick",
+				"blink"
+			],
+			"Late Game":
+			[
+				"dagon",
+				"shivas_guard"
+			],
+			"Alternative":
+			[
+				"force_staff",
+				"cyclone",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allows you to chase and kill very well.",
+				"mantle":"Gives early damage and Mana.",
+				"boots":"Every hero needs boots to run fast.",
+				"clarity":"Provides some more Mana.",
+				"flask":"HP regen for when you are low.",
+				"bottle":"Allows you to control runes and regen more.",
+				"tango":"HP regen for when you get harassed.",
+				"travel_boots":"Allows you to TP anywhere you want whenever you want.",
+				"sheepstick":"Allows you to keep an enemy disabled. Also gives good stats.",
+				"cyclone":"Good disable if you are low on money.",
+				"force_staff":"Gives you good positioning. Also gives good stats.",
+				"dagon":"Gives good stats and lots of damage.",
+				"shivas_guard":"Good teamfight item.",
+				"ethereal_blade":"Allows you to kill solo heroes very fast.",
+				"soul_ring":"Gives lots of Mana when used with Rearm."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_heat_seeking_missile",
+			"3":"tinker_laser",
+			"4":"tinker_heat_seeking_missile",
+			"5":"tinker_laser",
+			"6":"tinker_heat_seeking_missile",
+			"7":"tinker_laser",
+			"8":"tinker_heat_seeking_missile",
+			"9":"tinker_rearm",
+			"10":"tinker_march_of_the_machines",
+			"11":"tinker_rearm",
+			"12":"tinker_march_of_the_machines",
+			"13":"tinker_march_of_the_machines",
+			"14":"tinker_march_of_the_machines",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"Powerful nuke and blind.",
+				"tinker_heat_seeking_missile":"Long range nuke helps harass and kill far off enemies.",
+				"tinker_march_of_the_machines":"Powerful aoe damage, good in team fights and for pushing.",
+				"tinker_rearm":"Allows you to TP and push lanes as well as gank anywhere once you have Boots of Travel.",
+				"attribute_bonus":"Take these when you have no other choice."
+		}
+	}
+}

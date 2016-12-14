@@ -1,0 +1,104 @@
+{
+	"Hero":"meepo",
+	"Title":"Poof Your Way through Pubs (not the Irish ones)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"ring_of_regen",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"ultimate_scepter",
+				"reaver"
+			],
+			"luxury":
+			[
+				"ethereal_blade",
+				"heart",
+				"armlet",
+				"assault",
+				"blink",
+				"mekansm"
+			],
+			"03.August 2014":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you need a better Positioning for Teamfights you can Poof in with all your Meepos at once.
+Only recommended for experienced Meepo Players or high Micro skiled Players.",
+				"ring_of_protection":"Excellent start Items that increase your already high Base Armor and makes laning easier. Built into Ring of Basilius later on.",
+				"branches":"Branches are always nice for some starting Stats.",
+				"ring_of_regen":"Some Health Regen for better laning and built into Tranquil Boots later.",
+				"reaver":"For more HP. Because auf the raw Strenght every Meepo gets more Hitpoints.",
+				"mekansm":"Only of no one else gets it.
+Excellent choice if you need something cheaper as an Heart of Tarrasque to survive. You can Heal all your Meepos.",
+				"vladmir":"The Aura affects every Meepo, so you get one Item with an Aura for 5. You also need this for an early Roshan and easier Jungle.",
+				"ring_of_basilius":"Extra Mana Regen and Armor. All you need at your lane and for Vladimirs as core later.",
+				"ultimate_scepter":"With this you get one extra Meepo and the Stats sharing of every Meepo increase from 30% to 100% ! So you get an unstopable Army of FIVE Meepos at Level 16.",
+				"assault":"If you have to handle high Armor Enemies or against Carries with high Pysical DPS.
+The Aura affects all of your Meepos.",
+				"heart":"If you need to survive more and get a hard time with Magic Damage get Heart of Tarrasque. All your Meepos benefits of it with an high HP Boost!",
+				"armlet":"If you finish your Heart of Tarrasque get Armlet and you wont lose HP with it active. Boosts every of your Meepos.",
+				"ethereal_blade":"If your Game running well and you need some more nuke Damage, Ethereal Blade is an axcellent Choice. You Poof Damage will raise very well with it.",
+				"tranquil_boots":"Makes jungling easier and you can heal every Meepo by himself with these Boots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_divided_we_stand",
+			"4":"meepo_geostrike",
+			"5":"meepo_poof",
+			"6":"meepo_poof",
+			"7":"meepo_poof",
+			"8":"meepo_geostrike",
+			"9":"meepo_geostrike",
+			"10":"meepo_divided_we_stand",
+			"11":"meepo_geostrike",
+			"12":"meepo_earthbind",
+			"13":"meepo_earthbind",
+			"14":"meepo_earthbind",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"meepo_divided_we_stand",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_earthbind":"A Hard to Land spell that Roots Enemies in Place for 2 Seconds. With 4 Meepos you can root someone forever in one Place. As longer you throw your Net as longer it takes to hit your Enemies so take care of this.",
+				"meepo_poof":"With Poof you can travel with one Meepo the every other Meepo and also do a big AoE Damage with it. Nice as an Nuke aswell as an Escape Spell.",
+				"meepo_geostrike":"Passive that Slows your Enemies and get a Damage over Time on them. The Debuff stacks with every Meepo so you can slow down and Enemy to 100 MS.",
+				"meepo_divided_we_stand":"With every Level in Divided we Stand you get one extra Meepo. The Core Spell that makes Meepo to what he is. An Army of Many.",
+				"attribute_bonus":"Stats. Nothing else to say. "
+		}
+	}
+}

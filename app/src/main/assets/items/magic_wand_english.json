@@ -1,0 +1,21 @@
+{
+  "dotaId": "magic_wand",
+  "id": 36,
+  "img": "magic_wand_lg.png",
+  "dname": "Magic Wand",
+  "qual": "common",
+  "cost": 465,
+  "desc": "Active: Energy Charge - Instantly restores health and mana based on the number of charges stored. Gains a charge (max 17) whenever a nearby visible enemy uses an ability.",
+  "notes": "Gains charges for spells cast by visible enemies in 1200 range.<br/>Certain abilities and item abilities will not add charges.",
+  "attrib": "+ 4 All Attributes<br/>HEALTH/MANA PER CHARGE: 15",
+  "mc": false,
+  "cd": 13,
+  "lore": "A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.",
+  "components": [
+    "circlet",
+    "branches",
+    "branches",
+    "magic_stick"
+  ],
+  "created": true
+}

@@ -1,0 +1,124 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"Shadow Demon by ImPulse",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"branches",
+				"branches",
+				"tango",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"ward_sentry",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"blink",
+				"magic_wand",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"ghost",
+				"cyclone",
+				"force_staff",
+				"orchid",
+				"sheepstick",
+				"diffusal_blade",
+				"rod_of_atos",
+				"pipe",
+				"dagon",
+				"veil_of_discord",
+				"necronomicon",
+				"ultimate_scepter"
+			],
+			"If needed":
+			[
+				"dust",
+				"smoke_of_deceit",
+				"flying_courier",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Gives mobility and the ability to initiate, can disable 1-2 enemy heroes",
+				"ghost":"Saved from the enemy carry",
+				"ward_observer":"In Start: If we go hardlane block enemy pulls
+Try to put on throughout the game",
+				"ward_sentry":"In Start: If we go easy lane unblock pulls|
+if you see that the enemy has put wards try to deward
+",
+				"mekansm":"Timely Heal can save your team at the appropriate time, if in addition you have a support your team warn that it will collect meka - two mekansm weast of money",
+				"pipe":"Protection allies from strong casts",
+				"sheepstick":"Neutralize the enemy carry",
+				"orchid":"Neutralize the enemy initiator",
+				"cyclone":"Saved from the enemy carry, neutralizes enemy initiator",
+				"force_staff":"Saved from the enemy carry, also saving allies",
+				"dagon":"For FUN :)",
+				"necronomicon":"If against you invis-hero grade to lvl 3",
+				"ultimate_scepter":"Twice using ulti is awesome. Thx 6.81 update",
+				"diffusal_blade":"Slowing enemies, lifting debuffs with allies
+",
+				"arcane_boots":"Solves the problem with a lack of mana",
+				"veil_of_discord":"In conjunction with the Soul catcher will great damage",
+				"rod_of_atos":"Slowing enemies, a small increase to health"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_shadow_poison",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_shadow_poison",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_soul_catcher",
+			"8":"shadow_demon_shadow_poison",
+			"9":"shadow_demon_soul_catcher",
+			"10":"shadow_demon_soul_catcher",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"If properly used, can save himself and ally of unpleasant abilities, different disable and even Lina's Laguna Blade or Lion's Finger of Death",
+				"shadow_demon_soul_catcher":"With this ability, you can kill even the most thick tanks. The smaller the creeps will in applying the greater the chance that you will touch the hero",
+				"shadow_demon_shadow_poison":"Very strong nuke, the maximum number of stacks 19 and exactly 1320 damage",
+				"shadow_demon_demonic_purge":"Best Ulti for killing one target, knock all magic immunity and working on couriers because its fu**ing PURE MAGIC"
+		}
+	}
+}

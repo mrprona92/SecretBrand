@@ -1,0 +1,101 @@
+{
+	"Hero":"rattletrap",
+	"Title":"[DMX] Clockwerk (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"tpscroll",
+				"magic_wand",
+				"arcane_boots",
+				"hood_of_defiance",
+				"vanguard"
+			],
+			"Fin de partie":
+			[
+				"pipe",
+				"shivas_guard",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ring_of_basilius",
+				"power_treads",
+				"phase_boots",
+				"blade_mail",
+				"assault",
+				"bottle"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Si personne n'a de bottle dans votre équipe et que vous gankez beaucoup, une bottle peut s'évérer être un très bon item.",
+				"assault":"Si votre équipe manque d'armure, vous pouvez les aider avec assault cuirass qui vous rendra très tanky.",
+				"blade_mail":"Très bon item si vous vous faites trop focus lors des teamfights.",
+				"arcane_boots":"Vous manquez de mana avec clockwerk, les arcanes boots règleront ce problème."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rattletrap_rocket_flare",
+			"2":"rattletrap_battery_assault",
+			"3":"rattletrap_rocket_flare",
+			"4":"rattletrap_power_cogs",
+			"5":"rattletrap_rocket_flare",
+			"6":"rattletrap_hookshot",
+			"7":"rattletrap_rocket_flare",
+			"8":"rattletrap_battery_assault",
+			"9":"rattletrap_battery_assault",
+			"10":"rattletrap_battery_assault",
+			"11":"rattletrap_hookshot",
+			"12":"rattletrap_power_cogs",
+			"13":"rattletrap_power_cogs",
+			"14":"rattletrap_power_cogs",
+			"15":"attribute_bonus",
+			"16":"rattletrap_hookshot",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"rattletrap_battery_assault":"Ces ministuns à la chaine vous permettront d'infliger d'énormes dégâts si votre cible est isolée. N'hésitez pas à utiliser ce sort juste avant votre ultimate afin de ne pas perdre de temps.",
+				"rattletrap_power_cogs":"Utilisez les cogs pour séparer un ou plusieurs ennemis de son/leur équipe. Vous pouvez également utiliser ce sort pour vous échapper en bloquant l'accès à un chemin. (Vous pouvez détruire les cogs en faisant un deny dessus).",
+				"rattletrap_rocket_flare":"Très bon sort pour harass, donner la vision ou aider votre équipe depuis n'importe ou sur la carte.
+N'hésitez pas à spammez ce sort car il ne coûte pas très cher en mana.",
+				"rattletrap_hookshot":"Demande un peu d'entrainement pour être utilisé efficacement. Lorsque maitrisé cet ultimate vous permettra d'engager de très loin ou de vous sauvez si vous l'utilisez sur un allié. Pensez à faire un aghanim très vite afin d'avoir un cooldown réduit !"
+		}
+	}
+}

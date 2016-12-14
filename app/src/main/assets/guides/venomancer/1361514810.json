@@ -1,0 +1,95 @@
+{
+	"Hero":"venomancer",
+	"Title":"Beginner's Guide to Venomancer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"flask",
+				"ring_of_protection",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"Situational Boots":
+			[
+				"arcane_boots"
+			],
+			"Situational items":
+			[
+				"cyclone",
+				"force_staff",
+				"blink",
+				"orchid",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A Force Staff/ Blink Dagger will give you a means to jump to the enemy to initiate and throw your ult, or be used as an escape mechanic.",
+				"magic_stick":"Stores charges with every spell the enemy casts. Use it to consume the charges and restore a portion of your health and mana.",
+				"clarity":"Use on self to get temporary increased mana regeneration!",
+				"flask":"Your emergency healing item, pop it go a huge burst of health regen, don't get hit while the regen is in effect!",
+				"ward_observer":"You will need Observation Wards for maintaining map vision.",
+				"ward_sentry":"Sentry Wards for dewarding the enemy observer wards.",
+				"tango":"Use this on a tree to get temporary increased health regeneration!",
+				"power_treads":"An item which can be switched between different attribute modes, giving a bonus to a select attribute. Keep it in Strength mode (Red), as it will help you survive longer.",
+				"mekansm":"This item gives good health regen, and a healing burst along with armour. It is needed to help your team survive teamfights as it provides heals in an area, making it your number one support item.",
+				"sheepstick":"Very expensive for a support, consider this if you have extra gold to spare. Provides good utility in the form of a hex.",
+				"orchid":"Very expensive for a support, consider this if you have extra gold to spare. Provides good utility in the form of silence.",
+				"cyclone":"Eul's Scepter of Divinity gives you an activatable cyclone which propels a target up to the air, granting it 2 seconds of invulnerability, while making it unable to move or use anything. It gives good movement speed, mana regen, and the cyclone can be used to save yourself.",
+				"force_staff":"A Force Staff/ Blink Dagger will give you a means to jump to the enemy to initiate and throw your ult, or be used as an escape mechanic.",
+				"arcane_boots":"Go Arcane boots if your team requires alot of mana usage. This item has an activatable ability which grants the user and all nearby allies a burst of mana. The mana provided will help your sustainability in the game and give your teammates much needed mana when required."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_poison_sting",
+			"9":"venomancer_poison_sting",
+			"10":"venomancer_poison_sting",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_venomous_gale",
+			"13":"venomancer_venomous_gale",
+			"14":"venomancer_venomous_gale",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

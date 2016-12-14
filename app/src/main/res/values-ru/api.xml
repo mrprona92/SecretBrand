@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api">YOU_STEAM_API_HERE</string>
+    <string name="youtube_api">YOUR_YOUTUBE_API_HERE</string>
+    <string name="achievement_first_game__first_achievement"></string>
+    <string name="achievement_im_everywhere"></string>
+    <string name="achievement_perfect_attempt"></string>
+    <string name="achievement_loler"></string>
+    <string name="achievement_newbie"></string>
+    <string name="achievement_a_little_better"></string>
+    <string name="achievement_not_bad"></string>
+    <string name="achievement_high_five"></string>
+    <string name="achievement_pro"></string>
+    <string name="achievement_im_proud_of_you"></string>
+    <string name="achievement_cheater"></string>
+    <string name="leaderboard_best_by_items_quiz"></string>
+    <string name="leaderboard_best_by_abilities_quiz"></string>
+    <string name="leaderboard_luckers"></string>
+</resources>

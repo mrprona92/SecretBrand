@@ -1,0 +1,93 @@
+{
+	"Hero":"faceless_void",
+	"Title":"GreyShark.Faceless Void",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"bfury",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"mjollnir",
+				"greater_crit"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"heart"
+			],
+			"Situation":
+			[
+				"satanic",
+				"assault",
+				"monkey_king_bar",
+				"hand_of_midas"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"ПТ ставим на силу, если под куполом ставим на ловкость, так АС больше немного.",
+				"hand_of_midas":"Если фарм очень хорошо идет то можно собрать, но лучше сразу БФ, чем быстрее тем лучше. Но мидас тоже вещь неплохая, вам решать, какая будет игра, очень затяжная или не очень",
+				"assault":"Вместо бабочки или тараски. Много АС, броня, и минус армор противникам, пригодится !",
+				"heart":"В глубоком лейте нам понадобится плотность.",
+				"monkey_king_bar":"Если есть чувачня с уворотами то почему бы и нет, можно вместо бабочки или критов. Но под куполом чужие увороты не работают, учтите !",
+				"butterfly":"Очень много статов для ловкача, и что самое главное наши встроеные увороты стакаются с бабочкой, мастхев !",
+				"greater_crit":"Тут думаю всё понятно",
+				"bfury":"Собираем БФ раньше чем ПТ, примерно до 12 минуты, и либо фармим дальше лайн если всё спокойно, или идем в лес.",
+				"satanic":"Вместо тараски если нужен отжор",
+				"mjollnir":"Мажор+БФ это комбо вомбо, что для фарма что под куполом, очень круто, можно бить какого то жирного противника, и при этом одним сплешом убить хилого саппорта."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_time_walk",
+			"4":"faceless_void_backtrack",
+			"5":"faceless_void_time_lock",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_walk",
+			"8":"faceless_void_backtrack",
+			"9":"faceless_void_time_walk",
+			"10":"faceless_void_backtrack",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_lock",
+			"13":"faceless_void_time_lock",
+			"14":"faceless_void_time_lock",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

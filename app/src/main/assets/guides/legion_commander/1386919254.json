@@ -1,0 +1,130 @@
+{
+	"Hero":"legion_commander",
+	"Title":"6.82 - Standard Legion Commander (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"Initiation":
+			[
+				"blink",
+				"invis_sword"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"armlet",
+				"maelstrom",
+				"blade_mail"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"abyssal_blade",
+				"heavens_halberd"
+			],
+			"Damage-Dealers (Duel)":
+			[
+				"desolator",
+				"greater_crit"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Jungle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Legion Commander needs early Duel wins to snowball into the late-game. If you're farming well and can rush this; engaging foes to Duel should be easier; thus more damage and easier time late-game. Strongly consider this item if you are farming safely and well.",
+				"power_treads":"With Power Treads, you are surviving more in lane; but giving up your ability to catch foes with Phase Boots. ",
+				"urn_of_shadows":"Also another relatively good item to work with your need to gank early on.",
+				"assault":"Legion Commander has average amount of armor and weak attack speed. Improve your overall team-fighting abilities and damage output via Assault Cuirass.",
+				"heart":"More survivability, more regeneration. Legion Commander really enjoy this item.",
+				"black_king_bar":"Black King Bar is just a safe item overall and can really help you out of jams. When you are dueling, it is comfortable to know you have BKB if a foe is nearby that may be able to stun you.",
+				"blade_mail":"If you're facing a great number of physical enemies, Blademail is actually not bad, especially when you need to duel a specific one.",
+				"monkey_king_bar":"For pesky evasive enemies, the damage may also be something you want or need.",
+				"greater_crit":"If you find yourself having trouble finishing off rather large and tough foes, then this is the item for you. This can turn that mediocre Duel-permanent-damage buff you got even stronger with critical damage.",
+				"basher":"Basher works in Duel, extra damage, prevent more damage done to you. ",
+				"armlet":"Be sure to activate this before using your ultimate. With your passive ability lifesteal and Armlet, you will be an incredibly difficult opponent to take down 1 vs. 1.
+
+Armlet is situationally good during times you just can't seem to finish your foe or you simply needs a bit more life throughout.",
+				"invis_sword":"Choose Blink Dagger or Shadow Blade depending on your style of initiation. These items must be rushed.
+
+Blink Dagger for coordinated teams, Shadow Blade if solo-queuing.",
+				"maelstrom":"If behind and just not getting those duels. Maelstrom can be great to farm right up for those core damage-dealing items and try and compensate for your lack of success.",
+				"desolator":"Desolator works greats with your ultimate: as it immediately reduces their armor upon the first hit. Making Moment of Courage even more powerful and better lifesteal!",
+				"ancient_janggo":"Since we went Power Treads, Drums of Endurance is to give us that speed boost advantage and early-game extra damage to win Duel matches.",
+				"medallion_of_courage":"Medallion of Courage is also a great item to push for for the early ganks with your ultimate and make your passive ability even stronger!",
+				"abyssal_blade":"It goes without saying why Abyssal Blade is so amazing on Legion Commander, especially at the later stages of the game.
+
+Strong damage, great active ability to finish off with your ultimate!",
+				"heavens_halberd":"Dodge, more strength and the ability to disable key foes that you may want to prevent from disrupting your Duel. Quite useful! This fits for Legion Commander!
+
+*Does not work in Duels, so don't bother using it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"legion_commander_press_the_attack",
+			"2":"legion_commander_overwhelming_odds",
+			"3":"legion_commander_moment_of_courage",
+			"4":"legion_commander_overwhelming_odds",
+			"5":"legion_commander_overwhelming_odds",
+			"6":"legion_commander_duel",
+			"7":"legion_commander_overwhelming_odds",
+			"8":"legion_commander_press_the_attack",
+			"9":"legion_commander_press_the_attack",
+			"10":"legion_commander_press_the_attack",
+			"11":"legion_commander_duel",
+			"12":"legion_commander_moment_of_courage",
+			"13":"legion_commander_moment_of_courage",
+			"14":"legion_commander_moment_of_courage",
+			"15":"attribute_bonus",
+			"16":"legion_commander_duel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"legion_commander_overwhelming_odds":"This is your nuke and chasing ability. While the damage is somewhat decent, its beauty is its ability to tear down illusions, take advantage of team fights to add more movement speed for your team. Engage first with this.",
+				"legion_commander_press_the_attack":"This is your jail out of free card and also your two-part jungling technique. This item works great on yourself or allies and doesn't necessarily need to be used to remove debuffs. Apply it to the carry for the attack speed and regeneration or yourself when you use your ultimate: &amp;amp;quot;Duel&amp;amp;quot;",
+				"legion_commander_moment_of_courage":"Your main jungling ability. The counterattack and lifesteal is a welcome addition to Legion Commander. Additionally, any and all unique modifiers you have are applied through this passive as well. The lifesteal on this passive is not counted as a unique modifier.",
+				"legion_commander_duel":"Once close enough, engage the foe with this ability. As soon as you hit level 6, engage on foes with this and start building up your permanent damage buff to snowball with this hero.
+
+Before you duel, be sure to activate armlet, BKB, etc. because when the ultimate begins, you cannot activate items."
+		}
+	}
+}

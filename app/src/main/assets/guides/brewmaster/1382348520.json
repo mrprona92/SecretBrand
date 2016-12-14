@@ -1,0 +1,92 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Brewmaster-Drunken rage!!!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"bfury",
+				"ultimate_scepter",
+				"heart"
+			],
+			"luxury":
+			[
+				"blink",
+				"vladmir",
+				"assault",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":" Иногда он помогает очень удачно инициировать замеc, да и вообще полезная вещь во многих ситуациях. Хотя стоит признать что даггер Панде не так остро необходим чем, скажем, Шейкеру, Тайду или Магнусу. Поэтому собирать я его советую лишь тем игрокам, которые играют лучше среднего.",
+				"vladmir":"Дает дополнительную регенерацию маны и хп (через лайфстил). Но так как сила атаки у Панды не сказать чтоб уж очень хороша, то этот вариант в основном используется только если команде необходима эта аура, а никто другой ее собирать не хочет.",
+				"ultimate_scepter":"Аганим неплохо улучшает наш ульт, поэтому и собирают его Панде довольно часто.",
+				"assault":"Oтличный командный артефакт, собираем если никто в команде его не собрал.",
+				"heart":"B лейте очень желательный итем для Панды.",
+				"bfury":"Xорошо подходит Панде так как обеспечивает его хорошей регенерацией хп и маны, также дает неплохой дамаг.",
+				"ancient_janggo":"Oтличный командный итем."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_haze",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_brawler",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_haze",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_brawler",
+			"14":"brewmaster_drunken_brawler",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"Это наш основной нюк, который будет нам помогать и при гангах, и при инициировании замесов, и при спасении от ганга, и при фарме. Единственный его недостаток - для такого ущерба по разуму как мы он стоит довольно много маны, поэтому на начальных периодах игры кастовать часто мы его не сможем.",
+				"brewmaster_drunken_haze":"Bот он наш скилл, который практически полностью парализует потенциал любого жесткого дамагера-лейтовика. Разумееется, нормальные игроки знают об этом и против Панды в этом случае стараются собрать МКБ или БКБ. ",
+				"brewmaster_drunken_brawler":"B начале нам эта пассивка практически ничего не дает, но в лейте она позволяет нам не чувствовать себя ущербным в битвах с жесткими дамагерами.",
+				"brewmaster_primal_split":"Этот спелл делает узнаваемым Панду среди всех других героев Доты (если у других героев Доты есть умения, аналогичные первым трем спеллам Панды, то аналога его ульту в Доте нет). Помогает нам выжить когда кажется что смерть уже неминуема."
+		}
+	}
+}

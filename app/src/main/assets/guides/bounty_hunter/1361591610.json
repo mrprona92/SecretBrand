@@ -1,0 +1,93 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"6.79 - [AriStar] Bounty Hunter Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"pers",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"sange_and_yasha",
+				"desolator"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"black_king_bar",
+				"assault",
+				"vladmir"
+			],
+			"Luxury Items":
+			[
+				"butterfly",
+				"heart",
+				"rapier",
+				"travel_boots",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Adds a lot of damage to your Jinda Stike.",
+				"assault":"Works well with Desolator to stack on negative armor.",
+				"black_king_bar":"If you are getting stun locked or nuked down hard.",
+				"rapier":"Get this if you are owning the enemy team very badly or as a last ditch effort ONLY.",
+				"monkey_king_bar":"Buy this when the enemy picks up evasion or if playing against Phantom Assassin, Brewmaster, etc.",
+				"sange_and_yasha":"Probably the best item available for Bounty Hunter.",
+				"orb_of_venom":"Get this as an early attack modifier. Sell it before purchasing Desolator."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_jinada",
+			"4":"bounty_hunter_wind_walk",
+			"5":"bounty_hunter_jinada",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_jinada",
+			"8":"bounty_hunter_wind_walk",
+			"9":"bounty_hunter_wind_walk",
+			"10":"bounty_hunter_shuriken_toss",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_shuriken_toss",
+			"13":"bounty_hunter_shuriken_toss",
+			"14":"bounty_hunter_shuriken_toss",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

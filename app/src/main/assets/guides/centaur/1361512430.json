@@ -1,0 +1,89 @@
+{
+	"Hero":"centaur",
+	"Title":"Centaur is The Best Tank: Durable Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game Items":
+			[
+				"magic_wand",
+				"boots"
+			],
+			"Основные предметы":
+			[
+				"tranquil_boots",
+				"vanguard",
+				"heart",
+				"blink"
+			],
+			"Situational":
+			[
+				"travel_boots",
+				"blade_mail",
+				"radiance",
+				"shivas_guard",
+				"heavens_halberd",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Best boot for centaur. With it you can be everywhere.",
+				"heart":"MUST HAVE!!!!! Makes you really tough.",
+				"blade_mail":"Should I ever explain why?",
+				"heavens_halberd":"I recommend it because of evasion and disarm."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_hoof_stomp",
+			"4":"centaur_double_edge",
+			"5":"centaur_hoof_stomp",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_hoof_stomp",
+			"9":"centaur_double_edge",
+			"10":"centaur_return",
+			"11":"centaur_stampede",
+			"12":"centaur_return",
+			"13":"centaur_return",
+			"14":"centaur_return",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"centaur_hoof_stomp":"Helpful 3 sec stun. But it has small stun. Blink Dagger, Shadow Blade and Stampede can help you a lot.",
+				"centaur_double_edge":"Very powerful ability. 400 magic damage hurts.",
+				"centaur_return":"The best thing is that it works with evasion. Enemy misses, but takes damage.",
+				"centaur_stampede":"OMG What the F*** was that?! - all your enemies will think after their death."
+		}
+	}
+}

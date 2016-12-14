@@ -1,0 +1,92 @@
+{
+	"Hero":"jakiro",
+	"Title":"75thRR` Джакиро ( Саппорт-убийца )",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"До 15 минуты":
+			[
+				"mekansm",
+				"flying_courier",
+				"arcane_boots"
+			],
+			"Сбор на 15-30 минуте":
+			[
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"Окончательный сбор":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ultimate_scepter",
+				"refresher",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Подходит к способности Ice Path:
+Если в замесе дела совсем плохи , то ставим на врага Ice Path и уходим оттуда подальше.
+
+Не советую использовать без Ice Path, так как союзники могут не успеть осознать то, что они еще могут что-то сделать в замесе
+",
+				"sheepstick":"Либо орчид.",
+				"ultimate_scepter":"Увеличивает дальность действия ульты и значительно увеличивает наносимый ею урон.",
+				"arcane_boots":"Решает огромные проблемы с маной как для Jakiro, так и в помощь союзникам."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_ice_path",
+			"2":"jakiro_dual_breath",
+			"3":"jakiro_ice_path",
+			"4":"jakiro_dual_breath",
+			"5":"jakiro_ice_path",
+			"6":"jakiro_macropyre",
+			"7":"jakiro_ice_path",
+			"8":"jakiro_dual_breath",
+			"9":"jakiro_liquid_fire",
+			"10":"jakiro_dual_breath",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_dual_breath":"Тут все просто: ставим Ice Path , затем накрывает врага Dual Breath",
+				"jakiro_ice_path":"Уже начиная с первых минут вы можете истреблять врага с Ice Path, особенно если у вас на линии стоит Juggernaut."
+		}
+	}
+}

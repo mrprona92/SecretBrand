@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_silencer",
+	"Title":"Recommended items for Silencer",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"circlet",
+			"mantle"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"null_talisman"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"force_staff",
+			"magic_wand",
+			"mekansm",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"sheepstick",
+			"rod_of_atos",
+			"shivas_guard",
+			"cyclone",
+			"orchid",
+			"black_king_bar",
+			"ultimate_scepter"
+		]
+	}
+}

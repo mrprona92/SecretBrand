@@ -1,0 +1,89 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"Guide for Ancient Apparition (RU) (с описанием)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"headdress"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"cyclone",
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"skadi",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Дает скорость атаки",
+				"mekansm":"Незаменимый артефакт саппорта",
+				"headdress":"Если купили куру, то кольцо для Headdres докупаем на лайне",
+				"sheepstick":"Интеллект, дизейбл",
+				"cyclone":"1-й скилл и сразу Eul, дают 100% шанс приморожения",
+				"ultimate_scepter":"Продлевает действие ульты, что увеличивает шансы на убийство.",
+				"shivas_guard":"Дает броню., интеллект, ауру и небольшой дамаг при активации.",
+				"sphere":"Защита от нюков, дизейблов и т.д.",
+				"skadi":"Если недостаточно керри героев в команде можно собрать, но очень дорогой артефакт",
+				"arcane_boots":"Если в тиме ни у кого нету, то берем Arcane"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_ice_vortex",
+			"3":"ancient_apparition_cold_feet",
+			"4":"ancient_apparition_ice_vortex",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_chilling_touch",
+			"9":"ancient_apparition_ice_vortex",
+			"10":"ancient_apparition_ice_vortex",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_chilling_touch",
+			"13":"ancient_apparition_chilling_touch",
+			"14":"ancient_apparition_chilling_touch",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ancient_apparition_cold_feet":"Неплохой урон и отличный дизейбл(при условии что враг не уйдёт от точки приморозки)",
+				"ancient_apparition_ice_vortex":"Кидать всегда и везде. Снижает скорость и маг. защиту.",
+				"ancient_apparition_chilling_touch":"Баф. Вешать на свою команду. Дает урон с руки на несколько атак.",
+				"ancient_apparition_ice_blast":"Основная изюминка героя. Можно убить несколько врагов на другом конце карты, хоть и требует небольшой сноровки."
+		}
+	}
+}

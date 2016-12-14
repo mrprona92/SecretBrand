@@ -1,0 +1,104 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"My Ancient Guide for solo kills.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"cyclone",
+				"power_treads"
+			],
+			"Luxury":
+			[
+				"shivas_guard",
+				"veil_of_discord"
+			],
+			"Situational":
+			[
+				"tranquil_boots",
+				"ancient_janggo",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Iron Branch for more Mana and HP.",
+				"boots":"For more movement speed.",
+				"magic_wand":"Magic Wand is a good healing item use it!!!",
+				"courier":"Buy only Courier, if your team does not have one. If your team already have a courier, buy wards or more tango's ",
+				"power_treads":"Buy Power Treads for more HP. Ancient has low life-pool. ",
+				"flying_courier":"Courier is faster and has more HP.",
+				"cyclone":"Use Your Cold Feet, then Eul Scepter. Meanwhile use Chilling Touch for more damage. If your enemy comes down he should be freezed. Use your Ulti immediately on him and attack him. ",
+				"shivas_guard":"Buy only if you have good farm. It slows your enemy's and deal magic damage.",
+				"ancient_janggo":"Use it for more movement and attack speed. You also gain all attribute plus 9. You have more mana, more life and more damage.",
+				"veil_of_discord":"Use Veil before Cold Feet or while your enemy is freezed.",
+				"rod_of_atos":"Slows your enemy. You have more life, mana and damage.",
+				"tranquil_boots":"If you have enough HP get Tranquil Boots. You have more movement speed, more armor."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_chilling_touch",
+			"3":"ancient_apparition_cold_feet",
+			"4":"ancient_apparition_chilling_touch",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_ice_vortex",
+			"9":"ancient_apparition_ice_vortex",
+			"10":"ancient_apparition_chilling_touch",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_chilling_touch",
+			"13":"ancient_apparition_ice_vortex",
+			"14":"ancient_apparition_ice_vortex",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ancient_apparition_cold_feet":"Freezes the target. Attention!! Your enemy mus stay in a radius, if he leavs the radius he won't freeze.
+If your have Eul use it immediately on your Cold Feet target.",
+				"ancient_apparition_ice_vortex":"Slow your enemy's and you have sight. Also reduce resistance from your enemy's.",
+				"ancient_apparition_chilling_touch":"You deal additional magic damage. You can use it on your teammates as well.",
+				"ancient_apparition_ice_blast":"You throw an ice ball. It's golbal, you can use it on the whole map. If the ball passes an enemy he can't regenerate life.",
+				"ancient_apparition_ice_blast_release":"After using Ice Blast you must use this spell. If you use this spell your ice ball explodes and deal damage.
+Attention!!! Timing is important. Use only if your enemy is in the ice ball.",
+				"attribute_bonus":"For more life, mana, armor and damage."
+		}
+	}
+}

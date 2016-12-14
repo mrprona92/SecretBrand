@@ -1,0 +1,19 @@
+{
+    "dotaId": "crimson_guard",
+    "id": 242,
+    "img": "crimson_guard_lg.png",
+    "dname": "Crimson Guard",
+    "qual": "epic",
+    "cost": 3800,
+    "desc": "Active: Guard - Grant nearby allied heroes a 100% chance to block 55 damage from each incoming attack, along with 2 armor. Lasts 10 seconds.<br/>Passive: Damage Block - Gives the wearer a chance to block damage from each incoming attack based on whether the equipped hero is melee or ranged.",
+    "notes": "Multiple sources of damage block don't stack.<br \/>Guard does not affect units that have been affected by Guard in the last 70 seconds.",
+    "attrib": "+ 250 Health<br/>+ 6 HP Regeneration<br/>+ 2 All Attributes<br/>+ 5 Armor<br/>BLOCK CHANCE: 75%<br/>BLOCK DAMAGE MELEE: 40<br/>BLOCK DAMAGE RANGED: 20<br/>GUARD ARMOR: 2<br/>GUARD DURATION: 10<br/>GUARD RADIUS: 900<br/>GUARD DAMAGE BLOCK : 55",
+    "mc": false,
+    "cd": 70,
+    "lore": "A cuirass originally built to protect against the dreaded Year Beast.",
+    "components": [
+        "vanguard",
+        "buckler"
+    ],
+    "created": true
+}

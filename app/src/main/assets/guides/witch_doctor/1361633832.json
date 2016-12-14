@@ -1,0 +1,110 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"Oh look at it go! ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"gauntlets",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"magic_wand",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"ward_observer",
+				"arcane_boots",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"ultimate_scepter",
+				"cyclone",
+				"bloodstone",
+				"force_staff"
+			],
+			"Maybe":
+			[
+				"ancient_janggo",
+				"mekansm",
+				"blink",
+				"pers",
+				"sphere",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Put your wand in the air",
+				"ward_observer":"Seeing is believeing! ",
+				"tango":"Om nom nom, nom nom.",
+				"courier":"Everyone loves transporting items!",
+				"tpscroll":"See the world!",
+				"mekansm":"Medic!",
+				"flying_courier":"Got that flying courier! ",
+				"urn_of_shadows":"Extra healing!",
+				"force_staff":"Just slide!",
+				"ultimate_scepter":"Okay, now look at it go!",
+				"bloodstone":"Beautiful Beautiful Bloodstone!",
+				"sphere":"A++ would use again",
+				"invis_sword":"Maybe look at it go? ",
+				"arcane_boots":"Need that extra mana!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_maledict",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_maledict",
+			"9":"witch_doctor_maledict",
+			"10":"witch_doctor_voodoo_restoration",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_voodoo_restoration",
+			"13":"witch_doctor_voodoo_restoration",
+			"14":"witch_doctor_voodoo_restoration",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"Bounce!",
+				"witch_doctor_voodoo_restoration":"Fountain mode : activated",
+				"witch_doctor_maledict":"Most annoying curse spell to hit :(",
+				"witch_doctor_death_ward":"Dance Dance Revolution! ",
+				"attribute_bonus":"Oh buddy"
+		}
+	}
+}

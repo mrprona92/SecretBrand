@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 450 Health<br/>+ 400 Mana<br/>+ 4 HP Regeneration<br/>+ 100% Mana Regeneration",
+  "cd": false,
+  "components": [
+    "vitality_booster",
+    "energy_booster",
+    "point_booster"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "",
+  "dname": "Soul Booster",
+  "dotaId": "soul_booster",
+  "mc": false,
+  "img": "soul_booster_lg.png",
+  "lore": "Regain lost courage.",
+  "id": 129,
+  "created": true,
+  "cost": 3200
+}

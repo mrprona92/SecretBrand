@@ -1,0 +1,15 @@
+{
+  "dotaId": "point_booster",
+  "attrib": "+ 150 Mana<br/>+ 200 Health",
+  "cd": false,
+  "qual": "secret_shop",
+  "notes": "",
+  "desc": "",
+  "dname": "Point Booster",
+  "mc": false,
+  "img": "point_booster_lg.png",
+  "lore": "A perfectly formed amethyst that nourishes body and mind when held.",
+  "id": 60,
+  "created": false,
+  "cost": 1200
+}

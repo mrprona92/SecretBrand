@@ -1,0 +1,103 @@
+{
+	"Hero":"dark_seer",
+	"Title":"Dark Seer - Pusher Escape Build Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"sobi_mask"
+			],
+			"Jungler's Starting Items":
+			[
+				"stout_shield",
+				"tango",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"mekansm"
+			],
+			"luxury":
+			[
+				"pipe",
+				"ultimate_scepter"
+			],
+			"Advanced Items":
+			[
+				"travel_boots",
+				"shivas_guard",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Grants alot of movement speed as well as the ability to teleport to an allied building or creep every 60 seconds.",
+				"phase_boots":"In fights, use your Phase Boots to move. Save your SURGE to chase or escape.",
+				"mekansm":"Use to heal 250 HP to nearby allies.",
+				"pipe":"Gives resistance to 400 magical damage spells during that duration.
+Should be bought only if the enemy team has high damage magical spells.",
+				"ultimate_scepter":"Improves your WALL OF REPLICA.
+Should be bought if the enemy team has several overfarmed carries with strong physical attacks.",
+				"heart":"Great for self healing, and gives alot of HP points.",
+				"shivas_guard":"Creates an ice wave that slows movement speed. Passively reduces attack speed on enemies. Should be bought only if the enemy team has too many team fight spells and damage. Should be used at the beginning of the fight.",
+				"soul_ring":"Has base HP and Mana regeneration. When used, drains 150 HP and gives 150 Mana for 10 seconds. Unless more then 150 Mana was used, your Mana returns to the original state."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_ion_shell",
+			"2":"dark_seer_surge",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_surge",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_surge",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_surge",
+			"9":"dark_seer_wall_of_replica",
+			"10":"dark_seer_vacuum",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_vacuum",
+			"13":"dark_seer_vacuum",
+			"14":"dark_seer_vacuum",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dark_seer_vacuum":"Deals damage and moves all enemies in the radius to 1 spot.
+Should be casted on enemies to relocate, cancel channeling and bring them into WALL OF REPLICA.",
+				"dark_seer_ion_shell":"At Early game, cast it on one of yours or enemy's last melee creeps, most effective on yours. During fights, cast it on one of your melee carry or tanki allies, or on attacked allie. While farming, cast it on self or a creep. Also can be casted on your enemy to deal damage to other nearby enemies.",
+				"dark_seer_surge":"Grants maximum movement speed.
+Can be used fot faster relocations, rescuing yourself and team mates and to chase enemies.
+Also, while farming in a lane, SURGE can be used on the first allied creep combined with ION SHELL, by doing that your pioneer creep will push the lane much faster.",
+				"dark_seer_wall_of_replica":"Any enemy hero that will pass it, will create a \"twin\" of him and will deal physical damage only by your command.
+Should be casted at the center of the fight. Make sure the enemy's physical based attack damage heros pass through."
+		}
+	}
+}

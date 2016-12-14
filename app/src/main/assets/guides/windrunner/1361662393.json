@@ -1,0 +1,104 @@
+{
+	"Hero":"windrunner",
+	"Title":"6.82 - Standard Windranger (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"rod_of_atos"
+			],
+			"Extension Items":
+			[
+				"orchid",
+				"monkey_king_bar",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"You want the extra damage as Windrunner. Phase Boots helps with that, plus the extra movement speed.",
+				"mekansm":"Windranger can be played in a variety of ways. She can carry Mekansm if no one else is no one is aiming to rush it. Get it before Force Staff.",
+				"orchid":"Orchid Malevolence gives Windranger the attack speed she needs and the crowd-control to make her useful in fights.",
+				"monkey_king_bar":"Monkey King Bar works well with her ultimate and is just direct damage to really amplify her contribution to fights.",
+				"rod_of_atos":"Rod of Atos is a situation item in which you want to combine it with your Force Staff to really add some crowd-control to ganks and team-fights on otherwise fast-paced hero."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_focusfire",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Shackleshot is a tricky stun ability that extends its duration if you the stun near a tree or another unit (directly behind it, neither behind or in front).",
+				"windrunner_powershot":"Powershot is Windrunner's best ability due to its range, damage and ability to give sight in fogged areas. It's your best ability to not only deal damage from a great distance, but also to get those last hits in on fleeing opponents.",
+				"windrunner_windrun":"You only need one in Windrun for the escaping purpose. Later on, it will be used to deal damage without being affected by physical heroes.",
+				"windrunner_focusfire":"Focus Fire is generally used to push down towers or towers later in the game where you can deal much more damage. Max at 10-11 in exchange for more versatile abilities like Powershot and Shackleshot."
+		}
+	}
+}

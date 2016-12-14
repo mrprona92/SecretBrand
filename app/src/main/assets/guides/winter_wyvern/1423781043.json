@@ -1,0 +1,76 @@
+{
+	"Hero":"winter_wyvern",
+	"Title":"[SWDP] Pro Dota1 Wyvern 6.83c Guide 900+ wins[SWDP]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"branches",
+				"branches",
+				"tango",
+				"sobi_mask"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"soul_ring",
+				"rod_of_atos",
+				"orchid"
+			],
+			"Late Game":
+			[
+				"bloodstone",
+				"shivas_guard"
+			],
+			"Situational":
+			[
+				"invis_sword",
+				"cyclone"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"winter_wyvern_cold_embrace",
+			"2":"winter_wyvern_splinter_blast",
+			"3":"winter_wyvern_splinter_blast",
+			"4":"winter_wyvern_arctic_burn",
+			"5":"winter_wyvern_splinter_blast",
+			"6":"winter_wyvern_winters_curse",
+			"7":"winter_wyvern_splinter_blast",
+			"8":"winter_wyvern_arctic_burn",
+			"9":"winter_wyvern_arctic_burn",
+			"10":"winter_wyvern_cold_embrace",
+			"11":"winter_wyvern_winters_curse",
+			"12":"winter_wyvern_arctic_burn",
+			"13":"winter_wyvern_cold_embrace",
+			"14":"winter_wyvern_cold_embrace",
+			"15":"attribute_bonus",
+			"16":"winter_wyvern_winters_curse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

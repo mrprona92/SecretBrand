@@ -1,0 +1,15 @@
+{
+  "dotaId": "courier",
+  "attrib": "",
+  "cd": false,
+  "qual": "consumable",
+  "notes": "",
+  "desc": "Активируемая: Deploy Courier — создает существо, которое переносит вещи на вашу базу и обратно.",
+  "dname": "Animal Courier",
+  "mc": false,
+  "img": "courier_lg.png",
+  "lore": "Потеря осла карается смертью.",
+  "id": 45,
+  "created": false,
+  "cost": 120
+}

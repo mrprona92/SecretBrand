@@ -1,0 +1,101 @@
+{
+	"Hero":"obsidian_destroyer",
+	"Title":"Carry Outworld Devourer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"mantle",
+				"clarity",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"force_staff",
+				"sheepstick"
+			],
+			"Late Game":
+			[
+				"rod_of_atos",
+				"shivas_guard"
+			],
+			"Alternative":
+			[
+				"magic_wand",
+				"black_king_bar",
+				"dagon",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"Gives more Mana and damage.",
+				"circlet":"Gives good early stats.",
+				"magic_wand":"Get this if the enemy team casts spells a lot.",
+				"clarity":"Gives some more Mana.",
+				"flask":"Good early HP regen when you get low.",
+				"tango":"Allows you to heal up after harassed.",
+				"power_treads":"Gives DPS which you need. Keep them on intelligence (blue).",
+				"null_talisman":"Gives good stats that you need.",
+				"sheepstick":"A great disable and gives you good damage.",
+				"cyclone":"Good item if you do not have a lot of gold.",
+				"force_staff":"Allows you to do more damage as well as position better.",
+				"dagon":"If you need a lot of magic damage get this.",
+				"black_king_bar":"Get this to not get stunned.",
+				"shivas_guard":"Gives you damage and armor. Has a strong active in team fights.",
+				"rod_of_atos":"Gives lots of damage and HP. Active is a great slow."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"obsidian_destroyer_astral_imprisonment",
+			"2":"obsidian_destroyer_arcane_orb",
+			"3":"obsidian_destroyer_essence_aura",
+			"4":"obsidian_destroyer_astral_imprisonment",
+			"5":"obsidian_destroyer_astral_imprisonment",
+			"6":"obsidian_destroyer_sanity_eclipse",
+			"7":"obsidian_destroyer_astral_imprisonment",
+			"8":"obsidian_destroyer_essence_aura",
+			"9":"obsidian_destroyer_essence_aura",
+			"10":"obsidian_destroyer_essence_aura",
+			"11":"obsidian_destroyer_sanity_eclipse",
+			"12":"obsidian_destroyer_arcane_orb",
+			"13":"obsidian_destroyer_arcane_orb",
+			"14":"obsidian_destroyer_arcane_orb",
+			"15":"attribute_bonus",
+			"16":"obsidian_destroyer_sanity_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"obsidian_destroyer_arcane_orb":"Gives lots of damage once you have a large Mana pool. Helps last hitting early.",
+				"obsidian_destroyer_astral_imprisonment":"Allows you to steal intelligence as well as trap heroes for more kills.",
+				"obsidian_destroyer_essence_aura":"Lets you keep on casting without worrying about Mana.",
+				"obsidian_destroyer_sanity_eclipse":"Powerful damage dealing spell, try to save it for team fights.",
+				"attribute_bonus":"Take these once you have to."
+		}
+	}
+}

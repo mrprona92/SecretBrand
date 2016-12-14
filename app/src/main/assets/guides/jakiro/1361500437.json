@@ -1,0 +1,146 @@
+{
+	"Hero":"jakiro",
+	"Title":"Draconic Avenger",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"Starting Support (Buy one)":
+			[
+				"courier",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ring_of_basilius"
+			],
+			"Extended Core (Mix and Match)":
+			[
+				"mekansm",
+				"force_staff",
+				"pipe",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"ghost",
+				"cyclone",
+				"veil_of_discord",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Support Consumables":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Turn your branches into a wand for good burst healing and mana in fights.",
+				"ghost":"Late game the enemy carry will try to feed off you.  If you are finding it hard to survive buy a Ghost Scepter.  Wait for the carry to go on you then hit it to waste their time in a teamfight.",
+				"ward_observer":"Buy wards if someone else buys a courier.
+
+Give them to your hard lane if you are going safe lane.",
+				"ward_sentry":"Buy counter wards if Courier+Wards are covered and you want to go super tryhard.
+
+Counter the pull ward and their rune ward to piss them off.",
+				"courier":"Get a courier if no one else will.",
+				"mekansm":"Great AoE heal for teamfights and pushing.
+
+Coordinate with your team to establish who will buy one.  If someone else is buying one get a Pipe or Drum instead.",
+				"ring_of_basilius":"Ring of Basilius gives a mana regen and armour aura.
+
+Mana regen helps as you are very mana dependent.
+
+Armour aura helps you push along with Liquid Fire.",
+				"pipe":"Pipe is very useful in teamfights.  The magic damage absorb can be the difference between winning and losing in teamfights.  In pushes you can pipe with the creep wave to prevent them getting nuked down immediately.
+
+Buy this if someone else is getting Mekansm.",
+				"sheepstick":"if you can afford a Sheep Stick after getting a couple of items from your core then do so.  The Hex is extremely powerful but you gain little benefit until you finish building it.
+
+Don't put off a Ghost Scepter or Euls the entire game if you can't realistically expect to finish it in a timely manner",
+				"cyclone":"In some situations Euls is very useful.  The cyclone lets you CC an enemy in a teamfight or set up a Macropyre+Ice Path combo.  Alternatively you can cast it on yourself if an enemy goes on you.
+
+The downside is it doesn't offer any survivability stats so you will be squishy.",
+				"force_staff":"Great item that helps positioning and allows you to escape.
+
+Remember you can use it on allies and enemies as well to save teammates or push enemies out of position.",
+				"shivas_guard":"Shiva's gives you lots of int and armour and a huge AoE slow that does damage, slows and reduces attack speed.
+
+It is up to you to decide if this is worth getting depending on the game, but don't overlook the defensive benefits of Ghost Scepter and Euls.",
+				"arcane_boots":"Your skills are very spammable so any mana regen helps.
+
+Mana boots are good for you and your team.",
+				"ancient_janggo":"Drum gives you stats and a good team aura.  Don't forget to activate it in teamfights or if you need that bit of extra speed to live.",
+				"veil_of_discord":"Veil of Discord is an often overlooked item but it works well with Jakiro's aoe magic damage.  It's up to you to judge whether it is worth buying, but you will probably want some form of mass CC on your team to make best use of it such as Chronosphere or Black Hole."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_ice_path",
+			"2":"jakiro_dual_breath",
+			"3":"jakiro_ice_path",
+			"4":"jakiro_dual_breath",
+			"5":"jakiro_ice_path",
+			"6":"jakiro_macropyre",
+			"7":"jakiro_ice_path",
+			"8":"jakiro_dual_breath",
+			"9":"jakiro_dual_breath",
+			"10":"jakiro_liquid_fire",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_dual_breath":"Deals damage and slows in a large cone.
+
+Secures kills when combines with Ice Path.",
+				"jakiro_ice_path":"Your best spell.  Stuns everything in a long line after 0.5s delay.
+
+Enemies will still be stunned if they walk into the path when it is on the ground so lay it behind them in their escape path if you risk missing.",
+				"jakiro_liquid_fire":"Applies DoT and slows attack speed of enemies in AoE of autoattack when off cooldown.
+
+Apply it to the enemy carry to neuter them in teamfights.
+
+The effects also apply to towers so cast it in the tower in pushes to severely reduce tower damage.",
+				"jakiro_macropyre":"Macropyre does a lot of damage over time in a line.  Great for teamfights or even solo kills.  Combo with Ice Path to keep enemies in it.
+
+Until you get mana boots you may not have enough mana to cast all your spells.  Consider delaying the first point for more points in Dual Breath if need be."
+		}
+	}
+}

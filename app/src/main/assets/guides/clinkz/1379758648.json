@@ -1,0 +1,85 @@
+{
+	"Hero":"clinkz",
+	"Title":"clinkz",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"oblivion_staff",
+				"orchid"
+			],
+			"luxury":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"butterfly",
+				"ethereal_blade"
+			],
+			"не стоит собирать ":
+			[
+				"diffusal_blade",
+				"skadi",
+				"abyssal_blade",
+				"satanic",
+				"invis_sword",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"предпочитаю пт) поднять атрибуты в самом начале нам стоит очень) ",
+				"orchid":"чем раньше нафармим мы это ,тем лучше для нас) это спасает нас и помогает на изи убить врага
+",
+				"monkey_king_bar":"неплохая вещь) например фантока играет против нас, кидаем орчид и запускаем стрелы ) изи ее убиваем",
+				"greater_crit":"я думаю и так понятно зачем это нам:) ",
+				"ethereal_blade":"неплохо будет на нас смотреться :) "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_searing_arrows",
+			"2":"clinkz_strafe",
+			"3":"clinkz_wind_walk",
+			"4":"clinkz_searing_arrows",
+			"5":"clinkz_wind_walk",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_strafe",
+			"8":"clinkz_searing_arrows",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_searing_arrows",
+			"11":"clinkz_death_pact",
+			"12":"attribute_bonus",
+			"13":"clinkz_wind_walk",
+			"14":"clinkz_strafe",
+			"15":"clinkz_strafe",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

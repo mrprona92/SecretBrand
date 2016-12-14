@@ -1,0 +1,81 @@
+{
+	"Hero":"puck",
+	"Title":"EnriqueMaru's Build to Puck",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"mantle",
+				"circlet",
+				"gauntlets",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"bracer",
+				"null_talisman",
+				"boots",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"blink"
+			],
+			"luxury":
+			[
+				"dagon",
+				"ultimate_scepter",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"If you randomed into Puck, help your team and get one of these.",
+				"dagon":"When fighting against a lot of low life heroes, or just want to upgrade your null talisman",
+				"ultimate_scepter":"Losing teamfights? get this, better ulti, and good stats.",
+				"bloodstone":"You are dying in every teamfight? maybe this could be useful"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_waning_rift",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_phase_shift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

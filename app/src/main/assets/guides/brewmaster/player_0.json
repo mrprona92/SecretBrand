@@ -1,0 +1,56 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "brewmaster_drunken_brawler",
+        "2": "brewmaster_thunder_clap",
+        "3": "brewmaster_drunken_haze",
+        "4": "brewmaster_drunken_brawler",
+        "5": "brewmaster_thunder_clap",
+        "6": "brewmaster_primal_split",
+        "7": "brewmaster_thunder_clap",
+        "8": "brewmaster_thunder_clap",
+        "9": "brewmaster_drunken_brawler",
+        "10": "brewmaster_drunken_brawler",
+        "11": "brewmaster_primal_split",
+        "12": "brewmaster_drunken_haze",
+        "13": "brewmaster_drunken_haze",
+        "14": "brewmaster_drunken_haze",
+        "15": "attribute_bonus",
+        "16": "brewmaster_primal_split",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+        "brewmaster_drunken_haze": "Мисы нам нужны против урсы",
+        "brewmaster_primal_split": "Ульта-эскейп.Но и помогает догнать.",
+        "brewmaster_thunder_clap": "Не плохой дамаг+замедление",
+        "brewmaster_drunken_brawler": "Крит,всегда нужен "
+    }
+}, "Hero": "brewmaster", "ItemBuild": {
+    "ItemTooltips": {
+        "heart": "Наша выживаемость",
+        "mjollnir": "Скорость после замедления",
+        "cyclone": "Поднять на ветра чтобы догнать,можно вместо блинка",
+        "blink": "Будем инициировать",
+        "rapier": "С критами нам этот арт не помешает.Покупайте только после тараски.",
+        "assault": "Неплохая броня",
+        "ultimate_scepter": "Улучшает нашу ульту",
+        "radiance": "Нужный арт.В замесах и в фарме",
+        "phase_boots": "Будем доганять и убивать",
+        "shivas_guard": "Хорошая броня"
+    },
+    "Items": {
+        "Стартовый закуп": ["quelling_blade", "stout_shield", "tango"],
+        "10 минута": ["phase_boots", "magic_wand", "bottle"],
+        "15 -25 мин": ["blink", "radiance", "ultimate_scepter"],
+        "25-35 мин. ": ["heart", "rapier", "assault"],
+        "По исключению": ["black_king_bar", "bfury", "desolator", "diffusal_blade", "skadi", "cyclone", "mjollnir", "vladmir", "monkey_king_bar", "shivas_guard", "sange_and_yasha"],
+        "Не стоит покупать": ["butterfly", "dagon", "bloodstone", "manta", "orchid", "refresher"]
+    }
+}, "Title": "Особый гайд"}

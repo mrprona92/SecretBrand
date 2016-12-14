@@ -1,0 +1,89 @@
+{
+	"Hero":"mirana",
+	"Title":"W2P_GankeR Mirana Middle Lane - Early Owner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"maelstrom",
+				"yasha"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"manta",
+				"greater_crit",
+				"butterfly",
+				"monkey_king_bar",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Very optional but usefull at the same time, with this you can survive some battles or complete chasing kills if you have no mana left.",
+				"bottle":"Very importan item for a middle laner. Dont forget to check on runes every 2 minutes. (Ask your support to place wards in the river near runes.)",
+				"tpscroll":"Is very important to carry a town scroll, as a ganker you need to get into fights very fast and if you are far (in base, in other lane) you cant tp fast and kill. Also can be used to escape or switch lanes fast to push.",
+				"phase_boots":"Adds a good chasing level plus a nice damage to last hit and kill in early game.",
+				"rapier":"If you are winning and have skill. WHY NOT?!",
+				"monkey_king_bar":"Good extra damage and attack speed.",
+				"butterfly":"Come on! Every agility hero should get this.",
+				"manta":"Very importan to confuse, push, and remove buffs (stun, silence, spells).",
+				"maelstrom":"Grants good attack speed, increase your farm."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"mirana_leap",
+			"2":"mirana_arrow",
+			"3":"mirana_starfall",
+			"4":"mirana_arrow",
+			"5":"mirana_starfall",
+			"6":"mirana_invis",
+			"7":"mirana_arrow",
+			"8":"mirana_arrow",
+			"9":"mirana_starfall",
+			"10":"mirana_starfall",
+			"11":"attribute_bonus",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"mirana_leap",
+			"22":"mirana_invis",
+			"23":"mirana_leap",
+			"24":"mirana_invis",
+			"25":"mirana_leap"
+		}
+	}
+}

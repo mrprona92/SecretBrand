@@ -1,0 +1,140 @@
+{
+	"Hero":"beastmaster",
+	"Title":"6.82 - [CT's] Offlane Beastmaster",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"gauntlets",
+				"ward_observer"
+			],
+			"Early Game + Options":
+			[
+				"boots",
+				"soul_ring",
+				"stout_shield",
+				"urn_of_shadows",
+				"bracer",
+				"medallion_of_courage"
+			],
+			"coreItems":
+			[
+				"boots",
+				"mekansm",
+				"soul_ring",
+				"tpscroll",
+				"blink"
+			],
+			"luxury":
+			[
+				"pipe",
+				"necronomicon",
+				"ultimate_scepter",
+				"vladmir",
+				"shivas_guard",
+				"heavens_halberd",
+				"black_king_bar",
+				"sheepstick",
+				"assault",
+				"heart",
+				"skadi",
+				"refresher"
+			],
+			"Choose Your Boots Upgrade":
+			[
+				"arcane_boots",
+				"power_treads",
+				"phase_boots",
+				"travel_boots",
+				"tranquil_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If your team is lacking mobility this is great for you.  Makes long range initiation very easy.",
+				"stout_shield":"If you actually have the chance to lane, grab this and enjoy yourself.",
+				"gauntlets":"Good damage and strength buff, that can be built into Bracers and eventually Drums.",
+				"boots":"Vital for surviving ganks, especially if you lurk in lane and your enemies try to punish you for it.",
+				"clarity":"Axes are very expensive early, this will allow you to use it more frequently.",
+				"ward_observer":"Needed to block the pull camp and give vision of incoming ganks early.",
+				"tango":"Crucial regen",
+				"tpscroll":"Once you hit 6 you should be keeping an eye for opportunities to gank, as your ultimate is usually a guaranteed kill.",
+				"travel_boots":"Map mobility is always useful, and it will free up a slot for the late game.  Can pick it up earlier if going for a heavy splitpush strat.",
+				"phase_boots":"Phase boots is good for positioning, but your Hawk and wards should give you excellent vision and your boar has a slow for chasing already.
+
+Best if you think your HP is high enough and are going for an aggressive semi-carry style.",
+				"ring_of_health":"Good regen available at the side and secret shops, while also building into a Hood of Defiance.",
+				"power_treads":"Offers you very cheap HP and Attack Speed, while Soul Ring + Tread Switching can take care of your mana problems.",
+				"bracer":"Basic strength that can build into Drums",
+				"mekansm":"Every team needs one, and fast.  If no other teammate can get this quickly, you should.  Warning: You may need Arcanes if you aren't good at using Soul Ring.",
+				"vladmir":"Great for the team if armor is needed or your melee teammates need lifesteal.",
+				"pipe":"Vital for teamfights and will make you fairly tanky, allowing you to spam axes, Roar, and continue to provide your team all the auras you will be carrying.  Skip if the enemy has a bunch of carries like AM, Void, Spectre etc.",
+				"urn_of_shadows":"If you plan on roaming and/or ganking constantly, the strength and mana regen along with the active will be highly useful to you and your team.",
+				"sheepstick":"Great stats and another hard disable that makes you an even stronger teamfighter.",
+				"necronomicon":"Great for pushing and stopping pushes, while level 3 gives truesight.",
+				"ultimate_scepter":"Decent stats and an incredible upgrade for your ultimate, making the cast range huge and the cooldown even shorter than before, guaranteeing it will be up for every team fight.",
+				"refresher":"If having 2 ultis can turn teamfights in your favor - and it should - then consider getting a Refresher and using it to win a pivitol fight.",
+				"assault":"Somewhat expensive, but the armor will make you tanky and the attack speed aura will stack with your passive.  Make sure someone else isn't getting it first though.",
+				"heart":"Raw HP for great tankiness and a decent Dmg boost.",
+				"black_king_bar":"Best if teamfighting a lot and the enemy has a bunch of stuns/silence/AoE etc.",
+				"shivas_guard":"Great for tankiness and to counter any team with several right-click heros.",
+				"hood_of_defiance":"Gives extreme HP regen so that the cost of soul ring is negligible within 10 seconds.  The magic resistance also makes you a lot beefier, and it's components are all in the side shop. Can be built into a Pipe of Insight later.",
+				"skadi":"This plus your boar will cripple any enemy carry in the game to ridiculous levels.  Ultra late game item in most cases though.",
+				"soul_ring":"This will give you access to burst mana for spamming axes, killing ancient stacks, and ensuring you have enough mana for your ulti Primal Roar at all times.",
+				"arcane_boots":"This is great if you have trouble managing your Soul Ring usage.  If you're constantly at low HP or you are getting a bunch of utility items (Mek, Necro, Halberd) this is a worthy choice.",
+				"ancient_janggo":"Great stats for the cost along with an important teamfight aura as well as active.  Goes with your passive very well.",
+				"medallion_of_courage":"Great for ganking and early Rosh with your minion squad!",
+				"heavens_halberd":"Gives survivability through evasion, strength, and the disarm is highly useful against enemy carries.",
+				"tranquil_boots":"Helps deal with Soul Ring spam for farming stacks and harassing, as well as armor."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_wild_axes",
+			"4":"beastmaster_call_of_the_wild",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"Cut down trees ASAP so you have early vision on ganks, and to stack your ancients.  Keep in mind it goes through\"Spell Immunity\".  Tricky to land, but a rule of thumb is to throw it behind your target.  Follows you on return so you can drag it and hit extra targets.",
+				"beastmaster_call_of_the_wild":"Highly useful at level 3 (Hawk with huge vision, goes invisible when idle).  If you expect to be harassed or ganked a lot, getting level 3 earlier is an option.",
+				"beastmaster_call_of_the_wild_boar":"Use the boar to stack ancients, and later on sick him on the enemy carry so they're slowed to a crawl.  The huge move and attack speed slow can also help when chasing or escaping.",
+				"beastmaster_inner_beast":"Great attack speed aura, though generally taken last to prevent lane pushing.  However great for push strats, in which case well worth maxing earlier.",
+				"beastmaster_primal_roar":"Your ultimate is one of the best stuns in the game, going through BKB and lasting a long time while pushing and slowing any enemies in between.  Usually results in a kill, once you hit 6 you do a lot for your team.  Just beware of anyone with a Linken's Sphere.",
+				"attribute_bonus":"Generally not worth getting early because you have good strength, attack speed, and Soul Ring to solve mana issues."
+		}
+	}
+}

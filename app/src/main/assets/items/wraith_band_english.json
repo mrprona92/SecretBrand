@@ -1,0 +1,19 @@
+{
+  "dotaId": "wraith_band",
+  "attrib": "+ 3 Strength<br/>+ 6 Agility<br/>+ 3 Intelligence<br/>+ 3 Damage",
+  "cd": false,
+  "components": [
+    "circlet",
+    "slippers"
+  ],
+  "qual": "common",
+  "notes": "",
+  "desc": "",
+  "dname": "Wraith Band",
+  "mc": false,
+  "img": "wraith_band_lg.png",
+  "lore": "A circlet with faint whispers echoing about it.",
+  "id": 75,
+  "created": true,
+  "cost": 485
+}

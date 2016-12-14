@@ -1,0 +1,106 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Let my vengeance soar!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"courier",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"mekansm",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"cyclone",
+				"rod_of_atos",
+				"ghost",
+				"pipe",
+				"necronomicon",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Branches are always a good idea. Use your three branches to build towards a wand.",
+				"boots":"Everyone likes to go fast.",
+				"magic_stick":"Use the stick to build into wand with your starting branches.",
+				"magic_wand":"The burst heal / mana from wand can save you in a fight. Make sure to watch your charges!",
+				"ghost":"Ghost Scepter is crucial if the enemy has heavy right click heroes that are focusing you down. Just activate this when they come after you!",
+				"clarity":"Clarities are important because you need to ensure you have mana to use your stun early game.",
+				"flask":"Basic regen for lane",
+				"ward_observer":"Make sure there are always wards up on the map, so your team can know about the whereabouts of the enemy.",
+				"tango":"Basic regen for lane",
+				"courier":"Make sure your team has a courier. If someone else already bought one, pick up some wards to prevent ganks in your lane.",
+				"mekansm":"Mekansm is vital for every team! But the active ability does not work with another, so be sure that nobody else on your team is building on, or already has one.",
+				"pipe":"Pipe is, like Mekansm, a very helpful team item. If nobody else on your team has one, and the enemy has powerful magical spells, consider picking this up!",
+				"cyclone":"Eul's scepter can help you set up for ganks, disable a key hero in a team fight, or possibly save yourself when you swap into the enemy!",
+				"force_staff":"Force staff is great to help you get into position before or after a big swap.",
+				"necronomicon":"Necronomicon can really help pushes, consider this item if your team needs help pushing.",
+				"ultimate_scepter":"Aghanim's is a pretty funny build. It lets you swap with creeps, and lowers the cooldown. You can perform some pretty crazy maneuvers with this, but it's not advisable for most games, as Agh's is very expensive and doesn't offer your team much.",
+				"rod_of_atos":"Rod of Atos' slow is absolutely incredible. It has enormous range, and will allow your team to catch up to your target. It also helps you tank up a bit, which is always nice.",
+				"tranquil_boots":"Tranquils give great movespeed, and have a hand heal on top. If you find you are lacking mana, and not hp, try building Arcane boots instead!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_wave_of_terror",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_command_aura",
+			"9":"vengefulspirit_wave_of_terror",
+			"10":"vengefulspirit_wave_of_terror",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Magic Missile is your bread and butter skill! It does decent damage and stuns.",
+				"vengefulspirit_wave_of_terror":"Wave of Terror gives your team the advantage in team fights, and can help you push too. This spell has incredible range, and provided you have mana, can be used to scout very effectively.",
+				"vengefulspirit_command_aura":"Your aura pumps up not only your own damage, but your teammates as well! You can take this skill instead of Wave at level 4, but be careful, it will push your lane as the aura affects your creeps too!",
+				"vengefulspirit_nether_swap":"Nether Swap is one Vengeful's coolest abilities! Swap out key heroes to initiate team fights, or use it to swap your carry out of danger. It is quite versatile."
+		}
+	}
+}

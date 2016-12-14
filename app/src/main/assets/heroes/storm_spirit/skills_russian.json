@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Static Remnant",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает энергетическую копию Storm Spirit, которая живет 12 секунд, и взрывается, если поблизости проходит враг.",
+        "notes": "Задержка перед появлением копии — 1 секунда.<br/>Пока копия жива, она дает обзор.<br/>Взрыв наносит урон в радиусе 260 единиц, но происходит только при приближении к копии на расстояние в 235 единиц.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">260</font></b><br/>УРОН: <b><font color=\"#ffffff\">140/180/220/260</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/80/90/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 3.50",
+        "lore": "Обе личности Райджина Громокега весьма самовлюбленны и не могут удержаться от похвал в адрес собственной копии.",
+        "hurl": "Storm_Spirit",
+        "name": "storm_spirit_static_remnant",
+        "youtube":"MZaI7VTnH4M",
+        "id": 0
+    },
+    {
+        "dname": "Electric Vortex",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает воронку, притягивающую врагов к месту нахождения Storm Spirit, заодно замедляя его на 50% на 3 секунды.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1/1.5/2/2.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/110/120/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 21/20/19/18",
+        "lore": "Неистовая и неудержимая энергичность Райджина часто втягивает других в напряженную ситуацию.",
+        "hurl": "Storm_Spirit",
+        "name": "storm_spirit_electric_vortex",
+        "youtube":"8oThvhyYgDk",
+        "id": 1
+    },
+    {
+        "dname": "Overload",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "При использовании заклинаний в Storm Spirit накапливается электрический заряд, который высвобождается со следующей атакой, нанося урон врагам поблизости и замедляя их.",
+        "notes": "Использование предметов не активирует эту способность.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">30/50/70/90</font></b>",
+        "attrib": "ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">80%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">50</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">0.6/0.6/0.6/0.6</font></b>",
+        "cmb": "",
+        "lore": "Хоп! Зип! Зап!",
+        "hurl": "Storm_Spirit",
+        "name": "storm_spirit_overload",
+        "youtube":"og2EaLlgRzI",
+        "id": 2
+    },
+    {
+        "dname": "Ball Lightning",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Storm Spirit оборачивается нестабильным электричеством, несущимся по полю боя, пока не достигнет своей цели либо исчерпает запас своей маны. Заклинание имеет начальную стоимость в 15 единиц+7% от общего запаса маны. Затем тратится 12 единиц+0,75% от общего запаса маны за каждые 100 единиц передвижения. Урон выражен в количестве урона за 100 единиц передвижения.",
+        "notes": "Во время полета могут быть использованы мгновенно применяемые способности.<br/>Уничтожает деревья.<br/>Во время использования этой способности ваш герой неуязвим.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">8/12/16</font></b>",
+        "attrib": "СКОРОСТЬ: <b><font color=\"#ffffff\">1250/1875/2500</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">125/200/275</font></b><br/>МАНЫ НА ЕДИНИЦУ ПЕРЕМЕЩЕНИЯ: <b><font color=\"#ffffff\">0.7%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/15/15/15",
+        "lore": "Приближается буря.",
+        "hurl": "Storm_Spirit",
+        "name": "storm_spirit_ball_lightning",
+        "youtube":"Km-2rbf6qcs",
+        "id": 3
+    }
+]

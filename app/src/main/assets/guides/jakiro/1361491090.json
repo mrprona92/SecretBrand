@@ -1,0 +1,86 @@
+{
+	"Hero":"jakiro",
+	"Title":"Double Trouble Freeze Flame Justice!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"pipe",
+				"veil_of_discord",
+				"sheepstick",
+				"cyclone",
+				"force_staff",
+				"shivas_guard",
+				"ultimate_scepter",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"You grab wards if you're going in the hard lane. Pop one in the creep pull camp before they spawn.",
+				"pipe":"Obviously get it when the other team is filled with magic damage.",
+				"cyclone":"Sometimes, you gotta go fast."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_ice_path",
+			"2":"jakiro_dual_breath",
+			"3":"jakiro_ice_path",
+			"4":"jakiro_dual_breath",
+			"5":"jakiro_ice_path",
+			"6":"jakiro_dual_breath",
+			"7":"jakiro_ice_path",
+			"8":"jakiro_dual_breath",
+			"9":"jakiro_liquid_fire",
+			"10":"jakiro_macropyre",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_liquid_fire":"Getting this early would mean you're going to push the lane. Normally you don't want that to happen."
+		}
+	}
+}

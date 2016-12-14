@@ -1,0 +1,103 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"EasyTroll by Amadelar (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"helm_of_the_dominator",
+				"black_king_bar",
+				"invis_sword",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"satanic",
+				"butterfly",
+				"heart",
+				"travel_boots"
+			],
+			"luxury":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Больше урона - лучше фарм)",
+				"travel_boots":"Высокая скорость передвижения и телепорт на юнита, отличный выбор если игра затянулась!",
+				"phase_boots":"Урон и скорость передвижения - отличный выбор!",
+				"hand_of_midas":"Если фармите как надо, то берите этот предмет первым делом! Скорость атаки и доп.золото - то что нужно!",
+				"heart":"Много жизней не бывает! Этот предмет повысит наш шанс на выживаемость в бою!",
+				"black_king_bar":"Это один из самых важных предметов который нам нужно сделать!В описании не нуждается!",
+				"rapier":"Не пр*еби меня))",
+				"monkey_king_bar":"Урон + микростан! При нашей скорости атаки это смертельно, так же вы больше не промахнетесь))",
+				"butterfly":"Урон,ловкость,скорость атаки и шанс уклониться от атаки - отличный предмет!",
+				"greater_crit":"Урон и шанс крита!",
+				"invis_sword":"Лотар конечно хорош в пабах, но стоит ли его делать, решайте по игре!",
+				"satanic":"Тролль под БКБ и САТАНИКОМ - машина! Впрочем как и многие))",
+				"helm_of_the_dominator":"Урон, броня , вампиризм - этот предмет позволит комфортно фармить в лесу и на лайне!",
+				"ring_of_aquila":"Если фарма нету, берем вместо мидаса!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_whirling_axes_ranged",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_berserkers_rage",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_berserkers_rage",
+			"9":"troll_warlord_berserkers_rage",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_fervor",
+			"13":"troll_warlord_fervor",
+			"14":"troll_warlord_fervor",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"Повышает урон+дает доп. броню, увеличивает скорость передвижения и дает шанс баша.",
+				"troll_warlord_whirling_axes_ranged":"Отличный скилл который замедляет врагов, наносит немного урона и дает обзор на небольшой площади!",
+				"troll_warlord_whirling_axes_melee":"Очень полезный скилл который наносит урон по площади и заставляет врагов промахиваться!",
+				"troll_warlord_fervor":"Не качайте этот скилл на ранних уровнях, он вам не поможет!",
+				"troll_warlord_battle_trance":"Отличный скилл который поможет быстро убить врага, так же не жалейте его что бы помочь вашим союзникам, если вас нет рядом!",
+				"attribute_bonus":"+2 ко всем атрибутам ;)"
+		}
+	}
+}

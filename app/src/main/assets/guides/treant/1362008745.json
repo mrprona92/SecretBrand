@@ -1,0 +1,93 @@
+{
+	"Hero":"treant",
+	"Title":"guD tree",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"urn_of_shadows",
+				"pers",
+				"helm_of_iron_will"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"bfury",
+				"mask_of_madness",
+				"armlet"
+			],
+			"luxury":
+			[
+				"basher",
+				"greater_crit",
+				"orchid",
+				"radiance",
+				"heart"
+			],
+			"Ideal Final Inventory":
+			[
+				"rapier",
+				"rapier",
+				"rapier",
+				"rapier",
+				"armlet",
+				"mask_of_madness"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_leech_seed",
+			"2":"treant_natures_guise",
+			"3":"treant_leech_seed",
+			"4":"treant_natures_guise",
+			"5":"treant_leech_seed",
+			"6":"treant_overgrowth",
+			"7":"treant_leech_seed",
+			"8":"treant_natures_guise",
+			"9":"treant_natures_guise",
+			"10":"treant_living_armor",
+			"11":"treant_overgrowth",
+			"12":"treant_living_armor",
+			"13":"treant_living_armor",
+			"14":"treant_living_armor",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"treant_natures_guise":"Good ganking tool",
+				"treant_leech_seed":"Good nuke, use it to heal yourself as well",
+				"treant_living_armor":"Use this to give yourself major survivability. Do not cast on anyone else.",
+				"treant_overgrowth":"Great for ganking.",
+				"attribute_bonus":"useless skill level last"
+		}
+	}
+}

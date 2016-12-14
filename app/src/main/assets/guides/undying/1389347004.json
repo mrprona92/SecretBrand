@@ -1,0 +1,82 @@
+{
+	"Hero":"undying",
+	"Title":"GreyShark.Undying",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"ring_of_protection",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_basilius",
+				"soul_ring",
+				"arcane_boots"
+			],
+			"Mid Game":
+			[
+				"vanguard",
+				"blade_mail",
+				"necronomicon"
+			],
+			"Late Game":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"pipe",
+				"assault"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"undying_decay",
+			"2":"undying_tombstone",
+			"3":"undying_tombstone",
+			"4":"undying_soul_rip",
+			"5":"undying_tombstone",
+			"6":"undying_decay",
+			"7":"undying_tombstone",
+			"8":"undying_decay",
+			"9":"undying_decay",
+			"10":"undying_flesh_golem",
+			"11":"undying_flesh_golem",
+			"12":"undying_soul_rip",
+			"13":"undying_soul_rip",
+			"14":"undying_soul_rip",
+			"15":"attribute_bonus",
+			"16":"undying_flesh_golem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

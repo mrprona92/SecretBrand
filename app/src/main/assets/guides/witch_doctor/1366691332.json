@@ -1,0 +1,108 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"Purge's guide to Support Witch Doctor",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"tpscroll",
+				"ward_observer",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"power_treads",
+				"ancient_janggo",
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"ghost",
+				"force_staff",
+				"urn_of_shadows",
+				"mekansm",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Boots do not need to be upgraded that rapidly as a support hero, so feel free to leave Witch Doctor with brown boots for a while if you're poor. If you get money, either pick up Treads or Arcanes depending on what is needed.",
+				"magic_wand":"Wand should be purchased on EVERY support hero in the game. There are no exceptions, as the hp and mana gain is extremely cost effecient.",
+				"ghost":"Witch Doctor has terrible Armor, which means having protection from physical damage with a Ghost Scepter is invaluable. You can activate this BEFORE you use your ultimate if you want to force your opponent to waste his time.",
+				"ward_observer":"Support heroes should constantly have at least 1 set of observer wards placed on the map so that the enemies movements can be better tracked.",
+				"ward_sentry":"Sentries are often needed for dewarding and detection of enemy invisible heroes. YOU should be buying them if they are needed.",
+				"courier":"At least one support hero should buy an Animal Courier at the start of the game. If someone else purchases, get 2-3 ironwood branches instead to fill your inventory.",
+				"tpscroll":"Support heroes should ALWAYS carry a teleport scroll so they can defend pushes, and be there in case one of your allies gets dived on somewhere.",
+				"power_treads":"Power Treads is good because Witch Doctor is squishy. If you're looking for inexpensive tank, or you're having a bad game and have little money, I recommend Power Treads over Arcane boots! DO NOT GET BOTH",
+				"bracer":"Bracers can be built into Drums, and generally I find myself buying a lot of bracers on Witch Doctor to try and keep him alive as long as possible. Your bracer also conveniently builds into a Drum of Endurance!",
+				"mekansm":"Mek can be purchased on Witch Doctor when none of your allies plan to make one. I recommend getting arcane boots with it, or you might have mana problems. Generally I would avoid Mek and focus on cheap tank items.",
+				"urn_of_shadows":"Urn provides the same hp as a bracer, and nice mana regen to boot. The heal can be used on low hp allies when you don't have the mana pool to heal someone to full hp.",
+				"force_staff":"Force staff is a good pick up on any support hero because you can save yourself or allies with this item. It can also be used for initiating.",
+				"ultimate_scepter":"If you're extremely rich, farming somewhat instead of supporting, or being a jerk and not warding, then I really recommend the Aghanims scepter, as it makes your ultimate ridiculously strong. It can bounce between the entire enemy team and do massive damage while also making WD more survivable.",
+				"invis_sword":"If you want to screw around with Witch Doctor, you can purchase Shadow Blade, drop your ultimate, and then use Shadow Blade to go invisible while you channel the rest out. Generally, I don't recommend this item in any competent game, but if you want to have fun with less heed to winning, get this.",
+				"arcane_boots":"Arcane Boots ensures that you have more mana for yourself and allies, and this will mean more hp regen from Voodoo Restoration! If you are having a bad game and you're behind in farm, I recommend to get Treads instead of Arcane! DO NOT GET BOTH",
+				"ancient_janggo":"If you built a bracer earlier on, you should build it into a Drum of Endurance. Make sure to use the Drum charges during teamfights, as the 10% extra movement speed can help your allies position better and sometimes win fights."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_voodoo_restoration",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_maledict",
+			"9":"witch_doctor_maledict",
+			"10":"witch_doctor_maledict",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_voodoo_restoration",
+			"13":"witch_doctor_voodoo_restoration",
+			"14":"witch_doctor_voodoo_restoration",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"Cask is your best teamfighting skill that often times score you kills that you wouldn't otherwise deserve. Unlike Maledict, you can throw this safely and help in kills without putting yourself in danger. It's also fantastic for farming jungle camps during downtime!",
+				"witch_doctor_voodoo_restoration":"Voodoo should ALWAYS be gotten at level 2 because the amount of heal it can provide at low levels is insane, and often will be the difference between you or your carry dying early game. Levels can be put off late game depending on your mana pool, but the lv. 1 heal is very cost effecient.",
+				"witch_doctor_maledict":"Maledict CAN be leveled early game if you want to do more damage with your hero. If you are playing mid or having a better game, I recommend maxing this first since the cast range has been buffed. Cask is generally a safer skill to level over maledict, though.",
+				"witch_doctor_death_ward":"Witch Doctor's ultimate gives you a fairly low cooldown, high impact damage ability. It should be used in situations where either you aren't expecting to get stunned, or you need to do as much damage as possible before you die. Often times you drop this AFTER maledict and cask.",
+				"attribute_bonus":"I usually get a stat level at 4 because early Witch Doctor is very squishy, and generally Maledict is too risky to attempt to use in close range against smart opponents."
+		}
+	}
+}

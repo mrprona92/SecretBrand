@@ -1,0 +1,120 @@
+{
+	"Hero":"alchemist",
+	"Title":"6.82 - Standard Alchemist (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"soul_ring",
+				"phase_boots",
+				"invis_sword",
+				"maelstrom",
+				"black_king_bar",
+				"basher"
+			],
+			"luxury":
+			[
+				"heavens_halberd",
+				"assault",
+				"butterfly",
+				"medallion_of_courage"
+			],
+			"Extension Items":
+			[
+				"mjollnir",
+				"greater_crit",
+				"abyssal_blade",
+				"heart"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Without any mana cost, Blink Dagger is actually not a bad choice for a supporting Alchemist!",
+				"quelling_blade":"If you're having trouble last-hitting/farming creeps, feel free to grab this baby if you have the gold.",
+				"phase_boots":"Chase down foes with Shadow Blade and Phase Boots without consequence! Treads is a similar alternative though Phase Boots gives you the early damage you like.",
+				"hand_of_midas":"Get if you really want to farm like crazy. This item will need to be rushed, so get it first.",
+				"mekansm":"If you want to be a support ",
+				"cyclone":"If you're finding yourself constantly missing your stuns or your opponents vanishing before you can launch it: use Eul's Scepter to negate the damage and stun effect on yourself.",
+				"assault":"As a ganker, you won't be the main carry for this team. Assault Cuirass gives more use for your ultimate as helps with stuns and ganking. Not bad if you have the extra cash.",
+				"heart":"For support and ganking Alchemists, not a bad item to keep you in the fray!",
+				"black_king_bar":"Great item to help keep Alchemist hitting and without taking damage. This is imperative to ensure you're in fights and stay alive throughout.",
+				"blade_mail":"Let your ultimate and Blade Mail keep you as a punching bag against enemies!",
+				"monkey_king_bar":"For evasive heroes like Brewmaster, Phantom Assassin and Faceless Void.",
+				"radiance":"If you can farm it in under 18 minutes, get it, otherwise consider the extension items.",
+				"butterfly":"On top of your regeneration, the evasion from Butterfly is much appreciated and the extra attack speed is pretty sweet too!",
+				"greater_crit":"Daedalus is cleanly kill anyone you catch off-guard thanks to the massive damage and extra critical strikes.",
+				"basher":"With your attack speed somewhat decent and your damage amplified thanks to all your previous items: Cranium Basher becomes a staple in ganking foes and keeping them down.",
+				"armlet":"If you can't seem to farm your major items, armlet is a great mid-game item that helps Alchemist tremendously.",
+				"invis_sword":"Needed for initation and if the enemy team typically targets you first, a great pseudo-initation to help your lackluster team.",
+				"satanic":"With so much damage and regeneration, Satanic seems like it'd be over-the-top. But on the contrary, it could prove to be even more valid for you.",
+				"mjollnir":"Mjollnir should be your topper to finish off any and all future attack speed you may need. The Chain Lightning and extra damage is just the cherry on top at this point.",
+				"maelstrom":"Use Maelstorm to both farm after getting your initial kills with Shadow Blade. Maelstrom procs Chain Lightning and gives you additional direct damage and attack speed that Alchemist desperately needs.",
+				"soul_ring":"Soul Ring gives you that jolt of mana you need in exchange for life. Thanks to your ultimate, life has never been a problem of yours given you regenerate incredibly fast.",
+				"arcane_boots":"Instead of treads, you will need Arcanes to support all your abilities and Mekansm!",
+				"ancient_janggo":"
+Drums of Endurance makes chasing easier and your primary attribute even more prominent. The extra manage would be greatly appreciated!",
+				"medallion_of_courage":"Your stun is physical damage, a fast Medallion of Courage can shift your ganking damage even further without much cost!",
+				"abyssal_blade":"Prevent any rivaling physical carries from defeating you with Abyssal Blade. Abyssal Blade will disable through Black King Bar and dish out Radiance-level damage.",
+				"heavens_halberd":"Expand your role as a ganking disabler with this!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"alchemist_unstable_concoction",
+			"2":"alchemist_acid_spray",
+			"3":"alchemist_goblins_greed",
+			"4":"alchemist_unstable_concoction",
+			"5":"alchemist_unstable_concoction",
+			"6":"alchemist_chemical_rage",
+			"7":"alchemist_unstable_concoction",
+			"8":"alchemist_acid_spray",
+			"9":"alchemist_acid_spray",
+			"10":"alchemist_acid_spray",
+			"11":"alchemist_chemical_rage",
+			"12":"alchemist_goblins_greed",
+			"13":"alchemist_goblins_greed",
+			"14":"alchemist_goblins_greed",
+			"15":"attribute_bonus",
+			"16":"alchemist_chemical_rage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"alchemist_acid_spray":"Acid Spray helps keeps harassing foes at bay during the laning phase and also helps you earn gold faster in the lane with minimal risk. Great for team fights as well.",
+				"alchemist_unstable_concoction":"Unstable Concoction is a great way to set up ganks. Just be sure to not hold onto it too long otherwise you may end up getting stunned yourself.",
+				"alchemist_goblins_greed":"Greevil's Greed is obtained depending what your role you're playing as Alchemist. As a carry, this is maxed to hasten the pace at which you obtain your items. ",
+				"alchemist_chemical_rage":"This ultimate has a relatively low cooldown and offers a ton of regeneration for you. Use it to farm jungle if needed; it's also great to survive ganks and get that extra movement speed."
+		}
+	}
+}

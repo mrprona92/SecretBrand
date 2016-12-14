@@ -1,0 +1,73 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"GreyShark.Bounty Hunter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"poor_mans_shield",
+				"boots",
+				"pers"
+			],
+			"Mid Game":
+			[
+				"phase_boots",
+				"bfury",
+				"desolator",
+				"vladmir"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"rapier",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_shuriken_toss",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_jinada",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_shuriken_toss",
+			"8":"bounty_hunter_jinada",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_wind_walk",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

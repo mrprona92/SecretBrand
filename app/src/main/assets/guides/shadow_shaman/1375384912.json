@@ -1,0 +1,119 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"Purge's Guide to Mid Shadow Shaman",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"bottle",
+				"tpscroll",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"tpscroll",
+				"magic_wand",
+				"point_booster"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"black_king_bar",
+				"ghost",
+				"force_staff",
+				"sheepstick",
+				"shivas_guard",
+				"cyclone",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger is the best item for Shadow Shaman because it allows you to position your control spells.
+
+He is quite a slow hero, so being able to instantly initiate is a big help. Usually you'll blink in and immediately hex, and follow up with wards and shackle, and that will guarantee you a kill.",
+				"branches":"This is the Bottle Rush build. It supplies with you generally enough regen to stay alive until your ~4 last hits, and enough stats to have some extra hp and last hitting power. Purchase bottle immediately at 600 gold and send it to you mid.",
+				"magic_wand":"If I'm having a really bad game I'll finish my wand before arcane boots or blink dagger, but if my game is going well, I just pick up the arcane and go immediately into Blink.
+
+Wand will be useful afterwards, however, because Shadow Shaman is a squishy hero!",
+				"ghost":"Ghost Scepter is a really inexpensive way to protect you from physical damage despite having very low armor. Against heroes like Lifestealer, you will often need a ghost scepter to survive burst damage when he open wound's you.",
+				"bottle":"Bottle is absolutely recommended for a mid hero who has spammable spells, such as Shadow Shaman. He can use Lightning to harass while getting last hits, and then you can bottle up and damage you took, and refill the mana. Push the lanes at the 2 min marks so that you can get runes without losing exp",
+				"tango":"The 1 tango in the mid lane supplies you enough regen to make sure that you won't die before you get bottle, unless you get roamed on by level 1 heroes.",
+				"tpscroll":"A mid hero should always carry a tp scroll because there might be opportunities to make plays happen in side lanes.
+
+A mid hero should generally be looking for ganks once he gets his arcane boots. After the ganks, try to take the towers with your ulti.",
+				"point_booster":"I like to pick up a casual point booster after my blink dagger because it helps bring up Shadow Shaman's defensive potential. His armor is quite low, and more mana helps, so I like to either buy a point booster here for an Aghanihm's, or an Ogre Club for a Black King Bar later. It depends on the gam",
+				"sheepstick":"Sheep is a fantastic item for Shadwo Shaman to pick up because it gives him a much bigger mana pool, and some much needed mana regen, and it also gives him another hex! This means his total disable duration can be up to ~10 seconds by himself! The downside is you have little tank.",
+				"cyclone":"Euls can be a useful item on Shadow Shaman because you can set up ward traps easily with it, the extra MS helps, but most importantly, the extra intelligence and mana regen! I generally don't get this because I like more survivability out of my items.",
+				"force_staff":"Force staff can situationally be useful on Shadow Shaman because it allows him to escape from fights when his blink dagger is disabled. I will generally pick up a more expensive item though, because you'll need a Sheep or Ghost Scepter more.",
+				"ultimate_scepter":"Aghanim's was recently buffed on Shadow Shaman, and drastically increases the damge output that his wards do.
+
+The item itself also gives him really good levels of stats and survivability, which he needs. This is usually my go to choice of item, unless I need BkB.",
+				"refresher":"Refresher is fun to get after you have your Aghanim's completed because it allows you to put down 2 batches of Serpent Wards at the same time! This ends up being EXTREMELY mana expensive, often ALL of your mana pool, but not much shreds towers faster!",
+				"black_king_bar":"Black King bar is extremely useful for Shadow Shaman, because it prevents him from being stunned in teamfights from normal nukes, which means he's likely to live much longer, and be able to cast his spells multiple times.
+
+If the enemy team has a silence, you will need a BkB.",
+				"shivas_guard":"Shivas is a very late situational item on Shadow Shaman, but it allows him to have a LOT more armor, and quite a bit more mana pool as well. The disable is also useful.",
+				"arcane_boots":"Arcane boots is 100% necessary on Shadow Shaman because the mana costs of his spells are extremely high. Even late game, you will have mana problems. Try to purchase the arcane boots relatively early, because it'll help a lot for spamming spells."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_ether_shock",
+			"2":"shadow_shaman_shackles",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_voodoo",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_voodoo",
+			"9":"shadow_shaman_voodoo",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_shackles",
+			"13":"shadow_shaman_shackles",
+			"14":"shadow_shaman_shackles",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"Ether Shock is a fantastic nuke. It does 140 damage to 1 target at level 1, but as it levels up it becomes a cone, and this will be your typical farming tool. Use it to harass your opponents while last hitting, and pushing out the lane so you can rune control every 2 mins.",
+				"shadow_shaman_voodoo":"Hex is your VERY mana expensive instant disable that you should be using either to get a kill, or in dire circumstances.
+
+This should be the first spell you cast when you initiate on someone, because of the instant cast time. Use it to set up your ult and other spells.",
+				"shadow_shaman_shackles":"Shackle is a very long duration disable that is best left at level 1 in the early game because the mana cost scales too high otherwise. You can either pick up stats or more levels of shackle later on, but if you are rich and your mana pool is healthy, I like getting more.",
+				"shadow_shaman_mass_serpent_ward":"Serpent Wards are very good for pushing towers, and dropping in teamfights to do some damage. You can control where they target, so use them to focus down whichever hero you are disabling! Try to save your ulti for good uses, or when you are in deep trouble.",
+				"attribute_bonus":"Shadow Shaman really needs stats because he is both squishy and generally has mana problems. Get them when you can, and feel free to grab then levels 12-15 if you want more survivability instead of Shackle levels."
+		}
+	}
+}

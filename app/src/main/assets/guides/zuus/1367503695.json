@@ -1,0 +1,97 @@
+{
+	"Hero":"zuus",
+	"Title":"Zeus (Mid) - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"refresher",
+				"sheepstick",
+				"cyclone",
+				"bloodstone",
+				"veil_of_discord"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"tpscroll",
+				"gem",
+				"smoke_of_deceit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Muy importante el control de las runas. NECESITAS un ward en una para tenerlas siempre controladas.",
+				"tpscroll":"Lleva siempre un tp encima!",
+				"force_staff":"Mecanismo para escapar, ayudar a escapar y tambien para acercarte a los enemigos y lanzarles la W al llegar.",
+				"ultimate_scepter":"Mejora tu ulti mucho!",
+				"refresher":"Te deja repetir la ulti. Hace falta explicar algo mas? :D"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"zuus_arc_lightning",
+			"2":"zuus_static_field",
+			"3":"zuus_lightning_bolt",
+			"4":"zuus_lightning_bolt",
+			"5":"zuus_lightning_bolt",
+			"6":"zuus_thundergods_wrath",
+			"7":"zuus_lightning_bolt",
+			"8":"zuus_static_field",
+			"9":"zuus_static_field",
+			"10":"zuus_static_field",
+			"11":"zuus_thundergods_wrath",
+			"12":"zuus_arc_lightning",
+			"13":"zuus_arc_lightning",
+			"14":"zuus_arc_lightning",
+			"15":"attribute_bonus",
+			"16":"zuus_thundergods_wrath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"zuus_arc_lightning":"Usalo sobre todo al principio de la partida para conseguir mas last hits. Zeus tiene un ataque normal muy lento, con esto atacas mas rapido y asi haces mas last hits. En la partida mas avanzada usalo para pushear lineas y farmear.",
+				"zuus_lightning_bolt":"Un ataque mucho mas potente de lo que parece a primera vista. El ministun y el dmg que hace lo hacen bastante importante para iniciar contra el enemigo.",
+				"zuus_thundergods_wrath":"Una de las mejores ultimates del juego. Cuando veas enemigos con poca vida, o en teamfights importantes lanzala y destroza a tus enemigos. Mejorala con aghanim scepter si es posible (Y si te llega para un refresher mejor que mejor!)"
+		}
+	}
+}

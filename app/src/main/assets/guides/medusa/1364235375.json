@@ -1,0 +1,121 @@
+{
+	"Hero":"medusa",
+	"Title":"Dr.Fluffy's Special Pub Reserve (6.82)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"tango"
+			],
+			"Early Game Cores":
+			[
+				"phase_boots",
+				"ring_of_aquila",
+				"ring_of_basilius",
+				"maelstrom"
+			],
+			"Mid Game Cores":
+			[
+				"sphere",
+				"mjollnir"
+			],
+			"Situational Items/Late Game":
+			[
+				"travel_boots",
+				"skadi",
+				"butterfly",
+				"monkey_king_bar",
+				"greater_crit",
+				"satanic",
+				"abyssal_blade",
+				"sheepstick"
+			],
+			"DO NOT GET unless you are losing":
+			[
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"I always elect to pick up a quelling blade on medusa given the need for ancient stacking. Also, the 12% increased damage is scaling and really speeds up your farm, not to mention easy last hits in lane!",
+				"ring_of_protection":"Save up for that ring of basilus!",
+				"slippers":"Provide agility, what is there to not love?",
+				"circlet":"Better get this one if you can't afford the slipper. +2 to all is GG x 2",
+				"magic_wand":"Medusa isn't the most active early game carry with the biggest turn around, but do keep in mind that the 225hp/225mp burst heal goes further on her.",
+				"tango":"May opt for 2 tangos + 1 branches. Though I personally prefer to use ferry in salves with courier if getting harassed too much",
+				"travel_boots":"If you use 15 TP scrolls a game, you've spent the equivalent of BOT recipe. The buff in 6.82 is also significant. Get this as soon as you have linken's sphere and Mjollnir and split push!",
+				"phase_boots":"Phase boot is cheap, provides an escape mechanism and +24 damage that is pretty impressive in the early game. It's the first piece of our small damage item pieces. Some may opt for power tread if the need for early fight participation is low.",
+				"power_treads":"I actually went and crunched out the number and it turned out that power tread has higher DPS (slightly) compared to phase boot from level 6 and on.
+
+Tread switch trick! Put your tread on int before casting mana snake then switch to str or agi for max mana action!",
+				"bracer":"Medusa has lower than average starting stats. Pick up your drum after Phase boots and Ring of Aquila to make that up!",
+				"ring_of_basilius":"Excellent for pushing down tower! I usually recommend against upgrading to the ring of aquila as it delays your other cores",
+				"sheepstick":"A wise Chinese man once said \"Doesn't matter how fed one becomes, one must be always afraid of the sheep.\"; Sheep is always a good pickup on nearly any hero. Give Medusa extra mana regen and an reliable way to luck down. Don't pair this with Skadi, for it will be overkill on lockdown. ",
+				"black_king_bar":"If you MUST carry divine rapier, get a BKB first. Otherwise, no need for BKB since one of your role is to eat nukes for supports.",
+				"sphere":"Your big core item. It really allows you to tank. Not to mention, the feeling of blocking a beastmaster roar AND a doom in the same fight?
+
+Remember to retreat a bit when your spellshield is poped.",
+				"rapier":"Medusa is the best DR carrier in the game. +300 damage split shots! Get this if you are down 2 rax or if you feel you cannot win without this. DO NOT GET THIS IF YOU ARE WINNING. After thrown away two rapiers and lost a game, you will realize one thrown game is one too many.",
+				"monkey_king_bar":"Your second big damage item, get this after linkens if you need to fight vs. evasion. Ensure that your splitshots do not miss any target. There was report that if the primary shot misses, all shots miss. So you want this for your peace of mind. Plus, who can say no to more damage?",
+				"butterfly":"Your third big damage item that also significantly improve survivablity. What is not to love?",
+				"greater_crit":"Crit is only applied to the main shots of Medusa and illusion, does not apply to the split shots.",
+				"manta":"The absolute core on Medusa. As you split, each illusions also shoots 5 split shots (with the main shot being able to crit). That's 15 split shots!
+
+You may also use mantastyle illusions to farm the lane across the river, phantom lancer style!",
+				"lesser_crit":"This is my first medium damage item after manta. Easy to build up, can scale to late game as daedulus. After this item, if the game is not lost, you have pretty much won! Now you have to save up for the big ticket items like all the other Medusas. ",
+				"satanic":"Best paired with rapier or as a 6th item without rapier. You've already won if you bought this. If you managed to lose with Satanic, well, you threw the game. It's all you!
+
+P.S. Actually not that good on Dusa.",
+				"mjollnir":"This is your big DAMAGE core. Allow you to push by putting an active on a creep, allow you to DPS by putting the active on yourself.
+
+In certain scenario, this item output double the hero damage total than Divine rapier AND doesn't drop.",
+				"skadi":"Skadi allows slow through BKB and infinite chasing. It gives significant amount of stats to all 3 attributes that medusa loves. This is the item that will turn you into the tanky monster that cannot be taken down. Get this as third item if you don't need to fight vs. evasion.",
+				"maelstrom":"This is YOUR number one early game core! Calculation shows that this item does up to 100% more damage compared to similarly priced damage items. Also help you farm. Get this ASAP, right after Ring of Basilus.",
+				"desolator":"Your first damage core. It boost damage against target with 7 armor or so by 40%, and boost your manta illusion dps sizably. Also allow spread of debuff by targeting different targets in team fight",
+				"yasha":"Get your Yasha after Drum, now you are suddenly flying at 450 or so movespeed when phased and around 400 when just walking around. ",
+				"ancient_janggo":"Seriously, this is much better than preservance. It gives you +9 to all stats but much cheaper than ultimate orb, gives +3 in damage, and even an aura! A must have for mid game engagements. Active can be used for fighting (faster attack speed for all team) or escapes. First core item. ",
+				"abyssal_blade":"If you need that extra lockdown?",
+				"ring_of_aquila":"Gives you more damage than you expect for its price and most importantly, allow you to PUSH with aura! Be sure to turn off the ring while not pushing in early game, for activation of the ring pushes the lane. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"medusa_mystic_snake",
+			"2":"medusa_mana_shield",
+			"3":"medusa_mystic_snake",
+			"4":"medusa_mana_shield",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_mana_shield",
+			"9":"medusa_mana_shield",
+			"10":"medusa_split_shot",
+			"11":"medusa_split_shot",
+			"12":"medusa_split_shot",
+			"13":"medusa_split_shot",
+			"14":"medusa_stone_gaze",
+			"15":"attribute_bonus",
+			"16":"medusa_stone_gaze",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

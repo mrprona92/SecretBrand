@@ -1,0 +1,128 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"Support Nyx",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"flask",
+				"ward_sentry",
+				"tango",
+				"branches",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ward_observer",
+				"bottle",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"smoke_of_deceit",
+				"force_staff",
+				"blink",
+				"tpscroll",
+				"gem"
+			],
+			"luxury":
+			[
+				"ghost",
+				"ancient_janggo",
+				"orchid",
+				"rod_of_atos",
+				"pipe",
+				"mekansm",
+				"necronomicon",
+				"blade_mail",
+				"heavens_halberd"
+			],
+			"Luxury Items":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"ethereal_blade",
+				"dagon",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Even better than force staff for pinpoint precision, but it's much harder to farm than a force staff duo to the big gold chunk needed.",
+				"belt_of_strength":"Instead of getting a bracer I like to get a normal belt of strength because of the possability of a future nercobook.",
+				"gem":"Same as sentries, a gem can be worth gold vs someone invisible. You can also use it for anti-warding. If you drop it, your main problem would be losing the gold and them dewarding you. Your ultimate will still deal it`s huge damage when attacking.",
+				"magic_stick":"Works as a cheap way of regenerating both mana and hp.",
+				"ghost":"If you are facing fast burst physical damage dealers.",
+				"bottle":"Quick regeneration. You can \"almost\" see it as a cheap point booster. Only get if you are planning on roaming arround the middle a lot.",
+				"ward_observer":"Even if you are not the main support, don`t hesitate to help out with warding. Nyx is a good hero to place wards on normally dangerous enemy lines.",
+				"ward_sentry":"If your pull spot is blocked, get a sentry to deward.
+If you are facing an invisible hero, you should always have a stack of sentries on you for killing. Do not use them for anti-warding, unless it will benefit a upcoming fight. You can get your main support to anti ward it instead.",
+				"tpscroll":"Can be used as an escape, can be used offensive. Try to always keep a tp scroll on you.",
+				"bracer":"Get a belt of giant strength if you are planning on a necrobook, if not a standard bracer is always good to get for the stats, can be ugpraded into drums as well.",
+				"mekansm":"Very good support item, will make you and everyone else lots tankier. The most expensive part is only 900 gold!",
+				"flying_courier":"With the saved gold from the start you can upgrade the chicken very early. This is asuming your main support got both wards and ordinary courier at the start, if not you get the missing part.",
+				"pipe":"Another great support item that doesn't have a single part costing more than 1000 gold.",
+				"force_staff":"Positioning is never bad. Whether you want to favor getting a kill or saving an ally.",
+				"dagon":"If you are feeling pretty baller and got lots of gold. Oneshot galore!",
+				"necronomicon":"Necrobook is like a dagon with benefits. It might not be as much burst as a dagon, but it can deal lots of more damage in a fight than a dagon can. And you benefit from the necro units auras with movement speed and truesight. Upgrade it to level 3!",
+				"blade_mail":"Good way of making them want to focus you less. Thus setting up for easier positioning with your stun.",
+				"soul_ring":"If you went for tranquil.",
+				"arcane_boots":"This item should be priority one for you, it solves many mana issues both for you and allies. You can wait with getting smaller items like magic stick / tp scroll / boots if you feel that you might get gold for an energy booster, but it's very situational to do so because of the risk of losing gold ",
+				"ancient_janggo":"A little bit of extra everything.",
+				"smoke_of_deceit":"A good ganking tool, not only hides from wards and creep sight it also increases movementspeed by 15%.",
+				"rod_of_atos":"Gives you lots of hp and a great slowing spell.",
+				"heavens_halberd":"If your enemy carry doesn't have a bkb, heavens halberd is almost a must since it effectively shuts down opponents attacks.",
+				"tranquil_boots":"If you have trouble getting gold or you really want the sustained regen and movementspeed. Can be disassembled later on for Arcane boots and the ring of regeneration can go to either mekansm or force staff."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_impale",
+			"2":"nyx_assassin_spiked_carapace",
+			"3":"nyx_assassin_impale",
+			"4":"nyx_assassin_mana_burn",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_spiked_carapace",
+			"9":"nyx_assassin_spiked_carapace",
+			"10":"nyx_assassin_mana_burn",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_mana_burn",
+			"13":"nyx_assassin_mana_burn",
+			"14":"nyx_assassin_spiked_carapace",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nyx_assassin_impale":"This is your main nuking and disable ability, the damage and stun duration increases on level up.",
+				"nyx_assassin_mana_burn":"This spell scales well into lategame because of the reduced cooldown, the damage does not scale well so we only need one level for it early on. You can max it out after you have manaboots.",
+				"nyx_assassin_spiked_carapace":"You should have at least one level in this, even though it might look as if you don't get so much for leveling it. The increased stun duration is not to be forgiven.",
+				"nyx_assassin_vendetta":"Sometimes it`s better to stun first, and then use your ultimate to deal backstab damage. But if your opponent doesn't have any anti-invis it can be used to setup a good position for a succesefull gank.",
+				"attribute_bonus":"Free branches that doesn't require inventory slot :D"
+		}
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"Hero":"jakiro",
+	"Title":"Mellow_'s Jakiro Done Right!: Ice Path for All",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_wand",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm"
+			],
+			"Extension Items":
+			[
+				"cyclone",
+				"sheepstick",
+				"ultimate_scepter"
+			],
+			"Wards (IMPORTANT!!)":
+			[
+				"ward_observer",
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Extra armour helps with Jakiro's initial squishy-ness, and this builds nicely into a Ring of Basilius.",
+				"ward_observer":"Please don't neglect these. These are VERY important, and as Jakiro you __DON'T__ need items to be effective.
+
+If you ward well, your team will love you.",
+				"ward_sentry":"For counter-warding and anti-invisibility. Situational, but rather important.
+
+I'd say you should get these every game, as most teams will ward. Counter-warding is __VERY__ effective.",
+				"courier":"If this is picked up by someone else, get wards!",
+				"mekansm":"Let's be honest here, this is really all you need after Arcane Boots.",
+				"ring_of_basilius":"Make sure to turn the aura off when you don't want your creeps to push lanes!",
+				"ultimate_scepter":"This isn't necessary, but can be fantastic if you need the extra AoE damage for Macropyre.
+
+I will rarely build this unless I am pulling in mega bank.
+
+The disable items are almost always better."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_ice_path",
+			"2":"jakiro_dual_breath",
+			"3":"jakiro_ice_path",
+			"4":"jakiro_dual_breath",
+			"5":"jakiro_ice_path",
+			"6":"jakiro_macropyre",
+			"7":"jakiro_ice_path",
+			"8":"jakiro_dual_breath",
+			"9":"jakiro_dual_breath",
+			"10":"jakiro_liquid_fire",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

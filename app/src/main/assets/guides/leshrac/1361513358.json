@@ -1,0 +1,121 @@
+{
+	"Hero":"leshrac",
+	"Title":"3 spell support Leshrac",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"courier",
+				"branches",
+				"branches",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"bracer",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"point_booster",
+				"soul_booster",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"bloodstone",
+				"black_king_bar",
+				"ghost",
+				"sheepstick",
+				"ancient_janggo",
+				"shivas_guard",
+				"travel_boots",
+				"ultimate_scepter"
+			],
+			"Ideal end game items":
+			[
+				"travel_boots",
+				"bloodstone",
+				"black_king_bar",
+				"ghost",
+				"sheepstick",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Support Leshrac is pretty poor. Stack bracers so you dont get instagibbed without doing anything.",
+				"branches":"Great starting items, great stats for their price, build into wand later.",
+				"boots":"Boots are very important, Leshrac does a surprising amount of damage in the early game with edict. Keeping up and thus keeping up the edict burn could net some kills or escape some deaths. Leshrac has high movement speed and boots just makes it better",
+				"magic_wand":"Saves lives, cheap and effective. Its a good build up from your branches that you purchase at the start",
+				"ghost":"A must get come late game when the enemy carry can right click you down in seconds, since Leshrac's auto attack is negligible at that point, just dont use it when the enemy has most of their skills up. Very effective in doing that thousand more magic damage than you could have otherwise done.",
+				"flask":"1 tango, 1 salve offers many options for healing. If the carry you babysit is melee, you can salve him up for a quick heal and survive on tangos alone due to less harass. You are there to help and to hold the early-mid game until your carry brings the thunder. Its alright to be a little selfless.",
+				"ward_observer":"If you are struggling for farm, share the ward burden with another support on your team. Otherwise keep map vision and map control up at all times if possible.",
+				"tango":"1 tango, 1 salve offers many options for healing. If the carry you babysit is melee, you can salve him up for a quick heal and survive on tangos alone due to less harass. You are there to help and to hold the early-mid game until your carry brings the thunder. Its alright to be a little selfless.",
+				"courier":"Get a courier, if not, get wards if you are playing support, it helps mid lane and the team a lot.",
+				"tpscroll":"Keep a teleport scroll on you at all times after the laning phase. TP (teleport) to counter gank, to move around, to defend and to attack. It does everything, it even saves your life with proper use.",
+				"travel_boots":"After building bloodstone from your arcane boots, upgrading the naked boots helps late game. Movement speed and an extra inventory slot since you dont need to carry TP scrolls is great.",
+				"point_booster":"Build this into a soul booster which builds into a bloodstone. Fantastic pick up that offers what leshrac needs for team fights, health and mana.",
+				"bracer":"If you are struggling, get 2 or 3 Bracers just so you can survive and have an impact in team fights",
+				"sheepstick":"Scythe of Vyse is always a good pick up, if in doubt, pick it up. More lock down wins team fights which wins games.",
+				"ultimate_scepter":"Situational. Only get it if you know you are able to keep that ulti, Pulse Nova, burning in team fights. Better off getting a survivability item first although Aghanim Scepter offers decent stats.",
+				"black_king_bar":"Excellent pick up on Leshrac if the enemy is spell heavy. You can activate and charge in with your pulse nova blaring. Note that it doesnt alleviate Leshrac's mana issues but does help his survivability one",
+				"shivas_guard":"Great 3rd or 4th big item pick up. It offers a decent amount of survivability and does help add to Leshrac's mana pool with the intelligence but Sythe of Vyse or Ghost scepter offer more with their actives.",
+				"bloodstone":"Get bloodstone if you can get it reasonably fast, even as a support Leshrac giving up farm, its reasonable to pick up a couple towers with edict to get some fast and easy farm. Come mid game, Bloodstone is an excellent item. Build the perseverance last after Soul booster as soulbooster gives more",
+				"soul_booster":"Build this from dissembling Arcane Boots for energy booster. Use the energy booster, the point booster and a vitality booster to get this which offers great survivability. Its alright to build a soul booster but realise its too late for bloodstone and to build other situational items instead.",
+				"arcane_boots":"Build arcane boots fast, they help a lot with your early mana issues. Dissemble for the energy booster to make soulstone",
+				"ancient_janggo":"Bracers can be built into this, try not to get more than one per team, communicate with your team. Its alright to sell of bracers for bigger items if inventory space is limiting."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_split_earth",
+			"4":"leshrac_diabolic_edict",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"leshrac_pulse_nova",
+			"10":"attribute_bonus",
+			"11":"leshrac_pulse_nova",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"leshrac_lightning_storm",
+			"23":"leshrac_lightning_storm",
+			"24":"leshrac_lightning_storm",
+			"25":"leshrac_lightning_storm"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Get at level 1 for first blood opportunities by chaining with other stuns, max after edict.",
+				"leshrac_diabolic_edict":"Max after getting 2 points in split earth, its ability to push down any naked tower in seconds is unparalleled. Its 1 vs 1 damage is nearly unrivalled. Kite greedy melee at its range but not too close so you get hit or chase while setting their feet on fire.",
+				"leshrac_lightning_storm":"Leshrac suffers from mana management issues, skilling stats helps, getting lightning just doesnt have much of an effect, it is a powerful skill though so if you are doing well and have mana a-plenty. Consider skilling it earlier but still get some stats.",
+				"leshrac_pulse_nova":"Powerful but Leshrac doesnt have the mana for it at 6. Get it at 9, 11 and 16 when you have a couple more levels and items to help support the drain it puts on Leshrac. You can flash farm with it by dropping a split earth on creeps and Pulse nova for 2-3 seconds.",
+				"attribute_bonus":"Stats help with survivability and mana issues which Leshrac encounters. I recommend forgoing lightning for survivability and more mana."
+		}
+	}
+}

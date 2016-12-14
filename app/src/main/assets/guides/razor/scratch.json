@@ -1,0 +1,100 @@
+{
+	"Hero":"razor",
+	"Title":"Razor (Carry) - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"yasha",
+				"vitality_booster",
+				"manta"
+			],
+			"luxury":
+			[
+				"desolator",
+				"butterfly",
+				"black_king_bar",
+				"invis_sword",
+				"heart",
+				"greater_crit",
+				"ultimate_scepter",
+				"monkey_king_bar",
+				"sange_and_yasha",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tpscroll":"MORE LIKE OP SCROLL",
+				"phase_boots":"Sin tu pasiva eres lento. Este objeto te permite perseguir a tus enemigos ademas de ganar ptos de dmg. Ademas te permite usar mas tu segunda habilidad al poder estar cerca de tus enemigos.",
+				"vitality_booster":"Para ganar algo de vida extra que puede ser clave en muchas ocasiones. Puedes sacarlo antes o despues de la manta.",
+				"cyclone":"IN SOME RARE OCCASIONS, A MAN JUST WANTS TO GO EVEN FASTER THAN HE DID BEFORE AND HAVE EASIER TIME BEING A DAMAGE VACUUM (EULING STATIC LINK'S TARGET DOESN'T BREAK THE LINK). HOWEVER, ALL THE STATS BESIDES MOVEMENT SPEED ARE KINDA WASTED SO I WOULD ONLY RECOMMEND GETTING IT FOR SHITS AND GIGGLES.",
+				"vanguard":"OH YOU WANT TO LIVE MORE? THEN A GODDAMN VITALITY BOOSTER YOU NERD, DON'T WASTE ALL THAT MONEY ON A AN ITEM THAT WORKS LIKE SHIT ON YOUR HERO.",
+				"invis_sword":"Se puede combinar con tu habilidad de robar dmg (Te haces invisible despues de enlazar a tu enemigo) y le robaras muchisimo!",
+				"satanic":"PROBABLY THIS. ALTERNATIVELY, IF YOU SOMEHOW ONLY HAVE 4 SLOTS FILLED, GET BOTH.",
+				"skadi":"IF YOU DON'T GET DESO AND IT'S 60 MINUTES IN, WHAT ELSE CAN YOU WISH FOR?",
+				"yasha":"Mas velocidad de ataque y movimiento.",
+				"rod_of_atos":"SIMILARLY TO EUL'S, THIS KID GIVES YOU AN EASIER TIME STRIPPING THEM NERDS OF THEIR DAMAGE, BUT INSTEAD OF SPEED PROVIDES A SICK CHUNK OF HP. STILL, YOU'RE WASTING 2K GOLD ON A STAT THAT YOU DON'T REALLY NEED, SO I WOULDN'T RECOMMEND GETTING IT UNLESS YOU'RE HELLBENT ON NOT MAKING A HEART.",
+				"ring_of_aquila":"Recuerda apagarlo para no pushear la linea con tus creeps."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_static_link",
+			"2":"razor_plasma_field",
+			"3":"razor_plasma_field",
+			"4":"razor_static_link",
+			"5":"razor_plasma_field",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_static_link",
+			"9":"razor_static_link",
+			"10":"razor_unstable_current",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_unstable_current",
+			"13":"razor_unstable_current",
+			"14":"razor_unstable_current",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"razor_plasma_field":"Ataque de Area enorme que hace mas dmg cuanto mas lejos estan tus enemigos. En los ganks usalo cuando tu enemigo esta escapando!",
+				"razor_static_link":"Esta habilidad es lo que puede convertir a Razor en una bestia. Intenta enlazar al enemigo con mas dmg y aguantar todo el tiempo posible. Recuerda que puedes atacar mientras lo has enlazado!!",
+				"razor_eye_of_the_storm":"Ataca a las unidades con menos vida que hay a tu alrededor. Intenta usarlo cuando no haya creeps alrededor para usarlo efectivamente."
+		}
+	}
+}

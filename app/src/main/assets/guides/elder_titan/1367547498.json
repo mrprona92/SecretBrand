@@ -1,0 +1,80 @@
+{
+	"Hero":"elder_titan",
+	"Title":"high damage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"urn_of_shadows",
+				"pers",
+				"helm_of_the_dominator"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"blade_mail",
+				"assault",
+				"satanic",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"armlet",
+				"hand_of_midas",
+				"pipe",
+				"mask_of_madness"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_ancestral_spirit",
+			"2":"elder_titan_natural_order",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_echo_stomp",
+			"5":"elder_titan_echo_stomp",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_ancestral_spirit",
+			"9":"elder_titan_echo_stomp",
+			"10":"elder_titan_echo_stomp",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_natural_order",
+			"13":"elder_titan_natural_order",
+			"14":"elder_titan_natural_order",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_ancestral_spirit":"use to make damage and up ur atk damage with phase boot, it easy kill
+",
+				"elder_titan_natural_order":"have this skill is good for make more damage"
+		}
+	}
+}

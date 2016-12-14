@@ -1,0 +1,103 @@
+{
+	"Hero":"lina",
+	"Title":"Lina Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"blink",
+				"cyclone",
+				"ultimate_scepter",
+				"sheepstick",
+				"shivas_guard",
+				"bloodstone",
+				"ethereal_blade",
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allows you to chase people down easily. Should always be considered. Force Staff is also a decent choice, but Blink is superior when it comes to offensive movement and positioning.",
+				"bottle":"Only get a Bottle if you are going mid. It might be worth saving some of the starting gold you have in order to get a faster Bottle (1 Tango and 3 Branches is a good starting build).",
+				"ward_observer":"Only buy this if you are playing support and not going mid (although wards are always nice, so if no one is buying them you can consider buying some even though you are mid).",
+				"courier":"Only buy this if you are playing support and not going mid.",
+				"flying_courier":"Only buy this if you are playing support and not going mid.",
+				"sheepstick":"Late game luxury which you probably won`t have the chance to get if playing support. Works great against enemy carries.",
+				"cyclone":"A cheap item which boosts your mana regen significantly and more importantly allows you to land a perfect Light Strike Array.",
+				"ultimate_scepter":"Great item - provides much needed HP and makes your Laguna Blade godly.",
+				"shivas_guard":"Late game luxury which you probably won`t have the chance to get if playing support. Very good if playing mid Lina as it makes you very hard to kill by right clicks.",
+				"bloodstone":"Only get this if you are going mid and are having a good start. Do not get a Bloodstone past the 25 minute mark - ideally you should get it at around 18 minutes (15-20min period).",
+				"ethereal_blade":"For even more nuking power! The other situational items come with priority though.",
+				"arcane_boots":"No other boots come close to Arcanes when considering which ones to get. In the rare cases where you have a Keeper of the Light on your team or multiple Arcane Boots, you can consider getting Phase Boots for the increased movement.",
+				"ancient_janggo":"Drum is one of the best items for Lina. Works great with Fiery Soul and allows you to close the gaps quicker.",
+				"rod_of_atos":"For a lot easier stun :)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_light_strike_array",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_light_strike_array",
+			"10":"lina_fiery_soul",
+			"11":"lina_laguna_blade",
+			"12":"lina_fiery_soul",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lina_dragon_slave":"Your main nuke - easy to hit, low cooldown. Max this first.",
+				"lina_light_strike_array":"You always want to level up this first. However, it is really hard to land in some situations so maxing it over Dragon Slave (which is extremely easy to land) is a no-no. Also, LSA deals less damage at every level apart from 4 compared to Dragon Slave.",
+				"lina_fiery_soul":"Very useful mid/late-game passive ability. It is generally not worth getting early though as you need to cast a lot of abilities to get the maximum effect of Fiery Soul.",
+				"lina_laguna_blade":"The noob destroying skill (it`s shiny!). The cooldown is ridiculously low but the mana cost is very high. DO NOT use it to last hit people on low life. It`s best used early for maximum damage. Even if the enemy runs away, you have already made the fight 4v5. Your full combo usually 1 shots supports."
+		}
+	}
+}

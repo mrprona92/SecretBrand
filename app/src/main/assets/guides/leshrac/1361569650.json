@@ -1,0 +1,120 @@
+{
+	"Hero":"leshrac",
+	"Title":"6.82 - Standard Leshrac (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"Core Items - Support":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"cyclone",
+				"black_king_bar"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"bottle",
+				"mekansm",
+				"ghost",
+				"veil_of_discord"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 4/10/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Ghost Scepter can give you that survivability to use your attacks and remain alive without fear of auto-attack.",
+				"ward_observer":"Buy a courrier or wards for your team as a support.",
+				"courier":"Buy a courrier or wards for your team as a support.",
+				"phase_boots":"(After disassembling arcane boots)",
+				"mekansm":"As a support, you have plenty of damage, but need more utility for your team. Pick up Mekansm to help your survivability nad contribute even more to fights.",
+				"urn_of_shadows":"Urn of Shadows gives Leshrac life, regeneration and the ability to start roaming and becoming a nuisance!",
+				"cyclone":"Not quite getting that Black King Bar? Eul's gives you mana speed and your abilities works despite being cyclone'd. Definitely pick this up to keep yourself in fights with Edict and Pulse Nova but also to time your stun against affected foes.",
+				"ultimate_scepter":"The added extra damage from Aghanim's Scepter is too good to be skipped. Diabolic Edict with Pulse Nova makes Leshrac a walking earthquake of damage!",
+				"black_king_bar":"To allow you constantly activate abilities and stay alive.",
+				"shivas_guard":"Keep foes away and punished for standing near you with Shiva's Guard. Shiva's Guard cripples carries and gankers and keeps you strong and a sponge to damage.",
+				"bloodstone":"Be sure to disassemble arcane boots (right-click on them) to utilize the energy booster.
+
+Be sure to use Bloodstone to active its emergency heal effect and to deny yourself."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_split_earth",
+			"4":"leshrac_diabolic_edict",
+			"5":"leshrac_split_earth",
+			"6":"leshrac_diabolic_edict",
+			"7":"leshrac_split_earth",
+			"8":"leshrac_diabolic_edict",
+			"9":"leshrac_pulse_nova",
+			"10":"leshrac_lightning_storm",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_lightning_storm",
+			"14":"leshrac_lightning_storm",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Same duration, large AOE and larger damage. This ability is incredibly for ganking and tearing down opponents.",
+				"leshrac_diabolic_edict":"This ability can be used on towers, creeps and heroes. To note that it also hits invisible units near you so enemies such as Templar Assassin and Stealth Assassin are no match for your Edict. This ability is what makes Leschrac such a great pusher.",
+				"leshrac_lightning_storm":"Lightning Storm is a good ability to farm in the early-game, but also deal massive damage to heroes. Consider getting this if you do not want to push with edict or want to harass with Lightning Storm.",
+				"leshrac_pulse_nova":"You do not want this ability so early in the game due to its high-mana cost. Later in the game, so long as you stay alive and in combination with your edict, this ability tears down foes extremely fast!"
+		}
+	}
+}

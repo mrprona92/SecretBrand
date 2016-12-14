@@ -1,0 +1,42 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "storm_spirit_static_remnant",
+        "2": "storm_spirit_overload",
+        "3": "storm_spirit_overload",
+        "4": "storm_spirit_electric_vortex",
+        "5": "storm_spirit_overload",
+        "6": "storm_spirit_ball_lightning",
+        "7": "storm_spirit_overload",
+        "8": "storm_spirit_static_remnant",
+        "9": "storm_spirit_static_remnant",
+        "10": "storm_spirit_static_remnant",
+        "11": "storm_spirit_ball_lightning",
+        "12": "storm_spirit_electric_vortex",
+        "13": "storm_spirit_electric_vortex",
+        "14": "storm_spirit_electric_vortex",
+        "15": "attribute_bonus",
+        "16": "storm_spirit_ball_lightning",
+        "17": "attribute_bonus",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    }
+}, "Hero": "storm_spirit", "ItemBuild": {
+    "ItemTooltips": {
+        "black_king_bar": "нас рано или поздно начнут фокусить",
+        "null_talisman": "для дагона",
+        "arcane_boots": "можно собрать, но потом разобрать для блудстона"
+    },
+    "Items": {
+        "начальный закуп": ["tango", "null_talisman"],
+        "ранняя игра": ["bottle", "boots"],
+        "основа": ["orchid", "bloodstone", "travel_boots"],
+        "лейт": ["black_king_bar", "heart", "dagon_5"],
+        "ситуацинно": ["arcane_boots", "blink", "sphere"]
+    }
+}, "Title": "storm spirit керри-нюкер [mid_only] гайд на русском"}

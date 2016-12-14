@@ -1,0 +1,90 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"[DeX] Easy Godlike Drow 6.80",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"wraith_band",
+				"wraith_band"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"lesser_crit",
+				"yasha"
+			],
+			"Late Itens":
+			[
+				"greater_crit",
+				"manta",
+				"butterfly"
+			],
+			"Itens Situacionais ":
+			[
+				"black_king_bar",
+				"mask_of_madness",
+				"helm_of_the_dominator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Let on Green - If you get attacked, fast change to red.",
+				"invis_sword":"Always start with Shadow Amulet -
+
+- After you complete SA start ganking people. Junglers, Supports... People with low HP, get close to them invisible, use silence and kill. Get out after, their friends could be on the way to kill you. Just kill and run."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_trueshot",
+			"2":"drow_ranger_frost_arrows",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_trueshot",
+			"5":"drow_ranger_wave_of_silence",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_trueshot",
+			"9":"drow_ranger_frost_arrows",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_wave_of_silence",
+			"13":"drow_ranger_wave_of_silence",
+			"14":"drow_ranger_wave_of_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"Always turn this On if you gonna attack Enemy Heros",
+				"drow_ranger_marksmanship":"As soon as you get lvl 6, go gank, don't even stop to farm or last hit. Gank immediately, use your silence always before the first attack and GG."
+		}
+	}
+}

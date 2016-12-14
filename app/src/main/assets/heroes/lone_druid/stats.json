@@ -1,0 +1,2 @@
+{
+    "roles": ["Carry", "Durable", "Pusher", "Jungler"],"ID":44,"Patch":"6.79c","Name":"Lone Druid","Alignment":0,"Movespeed":325,"MaxDmg":50,"MinDmg":46,"HP":473,"Mana":169,"HPRegen":0.5,"ManaRegen":0.01,"Armor":3.36,"Range":550,"ProjectileSpeed":900,"BaseStr":17,"BaseAgi":24,"BaseInt":13,"StrGain":2.1,"AgiGain":2.7,"IntGain":1.4,"PrimaryStat":1,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.33,"AttackSwing":0.53,"CastPoint":0.5,"CastSwing":1.17,"Turnrate":0.5,"Legs":2}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Death Pulse",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Necrophos создает вокруг себя волну смерти, которая наносит урон врагам и исцеляет союзников.",
+        "notes": "Снаряд этой способности нельзя сбить с цели.<br/>Лечит союзников, невосприимчивых к заклинаниям.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">75/125/200/275</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">475</font></b><br/>ЛЕЧЕНИЕ: <b><font color=\"#ffffff\">70/90/110/130</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/145/165/185<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8/7/6/5",
+        "lore": "После пристрастия Necrophos к изучению мора и чумы его монашеские умения приобрели совершенно иную форму.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_death_pulse",
+        "youtube":"T0DSPAolJJI",
+        "id": 0
+    },
+    {
+        "dname": "Heartstopper Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">врагов</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Necrophos останавливает сердца своих противников, заставляя врагов поблизости периодически терять часть их максимального здоровья.",
+        "notes": "Урон не запрещает использовать такие предметы, как Blink Dagger.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">1200</font></b><br/>УМЕНЬШЕНИЕ ЗДОРОВЬЯ: <b><font color=\"#ffffff\">0.6%/0.9%/1.2%/1.5%</font></b>",
+        "cmb": "",
+        "lore": "Дерзнувшие приблизиться к Necrophos способны ощутить дух мора и чумы, витающий в воздухе.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_heartstopper_aura",
+        "youtube":"CBznxq8uUJM",
+        "id": 1
+    },
+    {
+        "dname": "Sadist",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "За каждого убитого врага Necrophos получает бонус, ускоряющий регенерацию здоровья и маны. Убийство героя дает десятикратный бонус.",
+        "notes": "Активируется добиванием союзников.<br/>Эффекты от этой способности складываются друг с другом независимо.",
+        "dmg": "",
+        "attrib": "РЕГЕН МАНЫ: <b><font color=\"#ffffff\">2/4/6/10</font></b><br/>РЕГЕН ЗДОРОВЬЯ: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6</font></b>",
+        "cmb": "",
+        "lore": "Бедные души тех, кто пал от чумы Ротунд'йера, помогут магу в будущем.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_sadist",
+        "youtube":"SMMewm8ck-w",
+        "id": 2
+    },
+    {
+        "dname": "Reaper's Scythe",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Оглушает выбранного вражеского героя, а затем наносит ему урон, пропорциональный количеству отсутствующего у него здоровья. Герой, убитый этой способностью, будет возрождаться на 30 секунд дольше обычного. Убийство врага под действием этой способности засчитывается Necrophos.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Урон наносится в конце действия оглушения.<br/>Оглушает невосприимчивых к заклинаниям врагов, но не наносит им урона.",
+        "dmg": "",
+        "attrib": "УРОН ЗА ЕД. ЗДОРОВЬЯ: <b><font color=\"#ffffff\">0.4/0.6/0.9</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.5/1.5/1.5</font></b><br/><font color=\"#6fe871\">РАСХОД МАНЫ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">150/340/500</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">70</font></b><br/><font color=\"#6fe871\">УРОН ЗА ЕД. ЗДОРОВЬЯ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">0.6/0.9/1.2</font></b><br/>ДОП. ВРЕМЯ ВОЗРОЖДЕНИЯ: <b><font color=\"#ffffff\">30</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 175/340/500<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/85/70",
+        "lore": "Количество смерти и страданий, витающих в воздухе, увеличивает мощь порочной магии Necrophos.",
+        "hurl": "Necrophos",
+        "name": "necrolyte_reapers_scythe",
+        "youtube":"q-yTpAiBoFM",
+        "id": 3
+    }
+]

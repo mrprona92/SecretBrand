@@ -1,0 +1,110 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Detailed Guide to Necrolyte (Carry)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"buckler",
+				"headdress",
+				"point_booster"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"mekansm",
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"arcane_boots",
+				"rod_of_atos",
+				"sheepstick",
+				"shivas_guard",
+				"heart",
+				"black_king_bar",
+				"sphere",
+				"pipe",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Gives a decent amount of armor. Component of Tranquil Boots and is the only part that cannot be purchased at the side shop.",
+				"branches":"The most cost efficient item in the game. Grab a handful of these to make last hitting slightly easier as well as giving you health to survive those early encounters. Component of Magic Wand. If you are going mid, save the rest of your gold to purchase a quick Bottle.",
+				"boots":"Basic boot that should be upgraded to Tranquil Boots (or Arcane Boots if you want a quick Bloodstone) as soon as possible.",
+				"flask":"Basic healing consumable. You need to have one of these to make sure you can stay in lane and get levels.",
+				"tango":"Basic healing consumable. You need to have these to make sure you can stay in lane and get levels. I suggest using these prior to using your Healing Salve as their effectiveness decreases as the game drags on.",
+				"travel_boots":"Eventually, you will no longer benefit much from Tranquil Boots and can purchase Boots of Travel. These provide unparalleled movement speed and give you the ability to Teleport.",
+				"point_booster":"If your game has gone well so far and your farm is good, you can purchase this after Buckler but before finishing Mekansm. Component of Soul Booster.",
+				"mekansm":"Arguably the best core item even as a carry Necrolyte. Provides a good deal of armor as well as an active ability Restore to heal and boost armor. Use Mekansm early in a fight as the armor bonus will increase your effective hit points.",
+				"buckler":"An extremely cost efficient item that is also a component of Mekansm. Gives a substantial amount of armor passively that can be boosted by the active ability Armor Bonus for a minimal amount of mana. Important to note that the cooldown is very short. Use this when pushing.",
+				"pipe":"Even though you are a carry, your damage is dealt through spells. This means that you have no need for the traditional carry arsenal and can instead tank up. Pipe of Insight and its active ability Barrier are useful against caster heavy teams and pairs well with Mekansm.",
+				"headdress":"Minor attribute bonuses and health regeneration, but this is a component of Mekansm. I suggest purchasing the Buckler first as it provides more beneficial stats.",
+				"sheepstick":"Strong late game option. Provides Necrolyte with a seemingly endless mana pool, respectable damage, and a powerful active ability Hex to give you some form of crowd control.",
+				"heart":"Even though you are a carry, your damage is dealt through spells. This means that you have no need for the traditional carry arsenal and can instead tank up. Heart of Tarrasque is slightly overkill after Bloodstone, but if you are dominating your opponent this is a good option.",
+				"black_king_bar":"Black King Bar (BKB) is useful if you are constantly being targeted by enemy spell casters. The stats don't provide Necrolyte with very much besides health, but the active ability Avatar will allow you to last throughout dragged out team fights. Every second of Heartstopper Aura is crucial.",
+				"shivas_guard":"Provides a significant amount of armor, an aura that will reduce enemy attack speed, and an active ability Arctic Blast that deals decent magical damage as well as slowing enemies. A strong choice if the team has fast attacking carries.",
+				"bloodstone":"Provides exceptional health, mana, and regeneration. Purchase Acane Boots then disassemble them and use the Energy Booster to build Soul Booster. With enough stacks of Bloodpact, your respawn can become instant after dying.",
+				"sphere":"A strong alternative to Black King Bar, but a little overpriced. Spellblock is a strong passive, but multiple sources of crowd control can negate its effects. Provides good health and mana regeneration.",
+				"arcane_boots":"A better boot than Tranquil Boots if you want to get a quick Bloodstone. These boots can be disassembled and the Energy Booster used to create Soul Booster. Additionally, in conjunction with Sadist, Replenish Mana will help you manage your mana during the mid game.",
+				"rod_of_atos":"An alternative mid game option. Provides Necrolyte with a good amount of health, mana, and damage. The active ability Cripple is useful for both chasing and escaping.",
+				"tranquil_boots":"Strong boot choice for Necrolyte. Provides a substantial amount of armor, decent health regeneration, and great movement speed. The active ability Heal can be used before taking damage or entering a team fight. Even if the boot breaks while Heal is active, the effect will not end."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_heartstopper_aura",
+			"2":"necrolyte_death_pulse",
+			"3":"necrolyte_sadist",
+			"4":"necrolyte_death_pulse",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"Although the mana cost increases significantly per rank, the damage does as well. The cooldown also decreases slightly. Using this throughout a team fight will not only damage enemies but heal you and any nearby team mates. Has a very slow travel time and requires you to be close to your target.",
+				"necrolyte_heartstopper_aura":"An ability that scales better into the late game. One rank of Heartstopper Aura in lane will slightly harass your opponent while you last hit. Most effective in team  fights that are dragged out, synergizing well with Death  Pulse and Sadist.",
+				"necrolyte_sadist":"Provides useful regeneration from last hitting and denying. Will regenerate a significant amount if Necrolyte kills an enemy hero. Use Reaper's Scythe to ensure a kill on a wounded enemy hero to receive the full benefit of Sadist.",
+				"necrolyte_reapers_scythe":"A powerful spell that deals significant damage to low health targets. Reaper's Scythe will initially stun the target for 1.5 sec before calculating the target's health and dealing damage. Use this duration to move close to the target and cast Death Pulse. The stun penetrates immunity.",
+				"attribute_bonus":"Once all your other abilities are max rank, there's no other option but Attribute Bonus."
+		}
+	}
+}

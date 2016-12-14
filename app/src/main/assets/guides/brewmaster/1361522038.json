@@ -1,0 +1,109 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Brewmaster carry / initiator",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"ring_of_health",
+				"boots",
+				"ring_of_regen",
+				"ring_of_basilius",
+				"bracer",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"bfury",
+				"basher",
+				"power_treads",
+				"assault",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"armlet",
+				"abyssal_blade",
+				"mjollnir",
+				"heart",
+				"ultimate_scepter",
+				"monkey_king_bar",
+				"blink"
+			],
+			"Rare, but allowed":
+			[
+				"arcane_boots",
+				"sphere",
+				"ancient_janggo",
+				"blink",
+				"ultimate_scepter",
+				"bottle"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Поможит нам для инициации замесов.",
+				"magic_wand":"Всегда спасают в нужный момент.",
+				"power_treads":"Живучесть и скорость атаки, в лейте желательна смена на травела для сплит-пуша и дефа.",
+				"vladmir":"Актуално, если в вашей команде имеются мили керри.",
+				"ultimate_scepter":"Даст дополнительные спелы, большее время духов и дамаг им. ",
+				"assault":"Дизармор + атак спид + армор.",
+				"black_king_bar":"Необходимо в случаем постоянного фокуса вас.",
+				"basher":"Дизейбл + дамага, в дальнейшем апгрейдится.",
+				"bfury":"Поможет в фарме и даст хороший прирост дамага.",
+				"mjollnir":"Атак спид + дамаг от молний."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_brawler",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"brewmaster_drunken_haze",
+			"18":"brewmaster_drunken_haze",
+			"19":"brewmaster_drunken_haze",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"Хороший нюк и замедление.",
+				"brewmaster_drunken_haze":"Необходимо лишь в лейте против керри.",
+				"brewmaster_drunken_brawler":"Криты + уклоны, что и дает нам хороший керри потенциал.",
+				"brewmaster_primal_split":"Поможет надамажить или же уйти из замеса."
+		}
+	}
+}

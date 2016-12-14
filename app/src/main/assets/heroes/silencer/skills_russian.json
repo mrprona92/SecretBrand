@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Curse of the Silent",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Проклинает выбранную область, в результате чего все вражеские герои, попавшие под действие магии, будут терять здоровье и ману до тех пор, пока не произнесут заклинание.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ПОТЕРЯ МАНЫ: <b><font color=\"#ffffff\">8/16/24/32</font></b><br/>УРОН: <b><font color=\"#ffffff\">20/35/50/65</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">350/350/350/350</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/95/115/135<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/16/12/8",
+        "lore": "Недостаток заклинаний у Нортрома — проблема не столько Нортрома, сколько его врагов.",
+        "hurl": "Silencer",
+        "name": "silencer_curse_of_the_silent",
+        "youtube":"1iiB545M6C0",
+        "id": 0
+    },
+    {
+        "dname": "Glaives of Wisdom",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Silencer зачаровывает свои клинки силой мысли, заставляя их наносить дополнительный урон, пропорциональный количеству его интеллекта. <br/>Glaives of Wisdom — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ИНТЕЛЛЕКТА В УРОН: <b><font color=\"#ffffff\">30%/50%/70%/90%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/15/15/15",
+        "lore": "Селекция Нортрома орденом Эол Драяс придала ему недостижимую мудрость, которую он применяет в бою — это с лихвой компенсирует отсутствие у него традиционных заклинаний.",
+        "hurl": "Silencer",
+        "name": "silencer_glaives_of_wisdom",
+        "youtube":"9-yINiC8IE4",
+        "id": 1
+    },
+    {
+        "dname": "Last Word",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Проклинает врага, нанося ему урон и накладывая безмолвие, если тот произнесет заклинание. Если он этого не сделает до окончания заклинания, помимо урона и безмолвия он будет еще и замедлен.",
+        "notes": "На прерываемых способностях эффект от этой сработает только после окончания их прочтения.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">150/200/250/300</font></b><br/>ВРЕМЯ ДО СРАБАТЫВАНИЯ: <b><font color=\"#ffffff\">4</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">14%/16%/18%/20%</font></b><br/>ДЛИТЕЛЬНОСТЬ БЕЗМОЛВИЯ И ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 115<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/24/18/12",
+        "lore": "Нортром гарантирует, что магические слова, произнесенные его врагами, станут последними.",
+        "hurl": "Silencer",
+        "name": "silencer_last_word",
+        "youtube":"VLHLahl4RDw",
+        "id": 2
+    },
+    {
+        "dname": "Global Silence",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Silencer заглушает все звуки, не давая всем врагам на всей карте использовать заклинания.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Действует на невосприимчивых к заклинаниям и невидимых врагах, но последующее получение невосприимчивости к заклинаниям прекращает действие способности.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 250/375/500<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 130",
+        "lore": "С громким треском вся магия и прочие звуки утихают — Нортром исполняет свое пророчество.",
+        "hurl": "Silencer",
+        "name": "silencer_global_silence",
+        "youtube":"snCtUcpilzA",
+        "id": 3
+    }
+]

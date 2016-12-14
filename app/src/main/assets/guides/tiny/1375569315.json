@@ -1,0 +1,71 @@
+{
+	"Hero":"tiny",
+	"Title":"GreyShark.Tiny",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"ring_of_protection",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_basilius",
+				"power_treads",
+				"black_king_bar"
+			],
+			"Mid Game":
+			[
+				"mjollnir",
+				"heavens_halberd"
+			],
+			"Late Game":
+			[
+				"ultimate_scepter",
+				"assault"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tiny_avalanche",
+			"2":"tiny_toss",
+			"3":"tiny_toss",
+			"4":"tiny_craggy_exterior",
+			"5":"tiny_toss",
+			"6":"tiny_avalanche",
+			"7":"tiny_toss",
+			"8":"tiny_avalanche",
+			"9":"tiny_avalanche",
+			"10":"tiny_grow",
+			"11":"tiny_grow",
+			"12":"tiny_craggy_exterior",
+			"13":"tiny_craggy_exterior",
+			"14":"tiny_craggy_exterior",
+			"15":"attribute_bonus",
+			"16":"tiny_grow",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

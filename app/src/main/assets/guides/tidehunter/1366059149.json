@@ -1,0 +1,107 @@
+{
+	"Hero":"tidehunter",
+	"Title":"Purge's Guide to Tidehunter Offlane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"stout_shield",
+				"magic_stick",
+				"tpscroll",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"stout_shield",
+				"blink",
+				"magic_wand",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"pipe",
+				"refresher",
+				"shivas_guard",
+				"ward_observer",
+				"ward_sentry",
+				"urn_of_shadows",
+				"force_staff"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger is a must because it allows you to ravage the enemy team on a moments notice! It also helps you gank and place your anchor smash better, and on occasiaion escape from enemies! Once you have arcane boots and a Blink Dagger. You have everything you need for the game.",
+				"stout_shield":"You 100% NEED a stout shield if you offlane Tide. This DOES stack with kraken shell. If the Stout procs and the damage blocked is higher than your level of kraken shell, then it blocks the Stoud shield amount! If it does not proc, then it blocks the Kraken amount!",
+				"magic_stick":"Magic Stick should be purchased before Arcane if you're having a rough time, or after if you're having a good time. Always get it between Arcane and Blink, if you haven't purchased yet.",
+				"magic_wand":"Wand should always be picked up on a hero that relies on mana and plans to be in the thick of battle!",
+				"clarity":"You can either pick up a clarity potion here or an ironwood brance. An ironwood branch provides 13 mana(and 19 hp and 1 agi), but the clarity will provide you 2-3 more anchor smashes, so it's up to the user which he likes better. Keep in mind it takes you out of combat for 30 seconds!",
+				"ward_observer":"After you have blink dagger, you really don't need any more items, so helping out by buying observer wards and sentries can be a great help!",
+				"ward_sentry":"Buy sentries if you need them in fights and you aren't saving for a blink dagger!",
+				"tango":"You need 2 sets of tangos because you WILL be taking harass as a long lane tidehunter! If you are playing a support role instead, you should be buying a courier, but if solo long, you need the regen badly.",
+				"tpscroll":"Always carry a TP! If you can Ravage 2 heroes in a teamfight or a gank, you can help win the game with those plays! You need to be available to your allies with your teamfight!",
+				"mekansm":"You can pick up a Mekansm if you already have blink and want some extra tank and no one on your team is building it.",
+				"pipe":"Pipe is the natural build in after Blink because it gives you much needed hp regen and makes you hard to kill from 2 damage sources(physical and magic). Pipe is great for your allies or pushing!",
+				"urn_of_shadows":"Urn is a fantastic item for Tide because it gives hp, damage, gives him some heal after teamfights, and just enough mana regen to make you topped off at all times.",
+				"force_staff":"It's sometimes very nice to have both a blink dagger and a force staff so that you can both initiate and escape the same teamfight, or even use the force staff on an ally to save them.",
+				"refresher":"Refresher is extreme luxury, and should only be gotten if you have blink already, arcane boots, and LOTS of farm.",
+				"shivas_guard":"Shivas fits in nicely if the opponents don't have much magic damage and you don't need a pipe. It adds more aoe to your hero and provides you with an extra slow to use on enemies.",
+				"arcane_boots":"Arcane boots is necessary so that you can spam anchor smash to get last hits, and have enough for Ravage, Gush, and multiple Anchor Smashes! It is an absolute must get item(and if you are doing well in the lane, I recommend getting it before Magic Stick!)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tidehunter_anchor_smash",
+			"2":"tidehunter_kraken_shell",
+			"3":"tidehunter_anchor_smash",
+			"4":"tidehunter_gush",
+			"5":"tidehunter_anchor_smash",
+			"6":"tidehunter_ravage",
+			"7":"tidehunter_anchor_smash",
+			"8":"tidehunter_gush",
+			"9":"tidehunter_gush",
+			"10":"tidehunter_gush",
+			"11":"tidehunter_ravage",
+			"12":"tidehunter_kraken_shell",
+			"13":"tidehunter_kraken_shell",
+			"14":"tidehunter_kraken_shell",
+			"15":"attribute_bonus",
+			"16":"tidehunter_ravage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tidehunter_gush":"Gush can be gotten at 2 or 4, but generally you wait to get it until 4 because you won't be needing to gush anyone when you are playing offlane. It should be maxed out after anchor smash, and used for focusing down enemy heroes.",
+				"tidehunter_kraken_shell":"Kraken Shell provides you a 100% damage block for a limited amount. It is fantastic for preventing creep damage to you, but most importantly, it removes stuns and disables from you every 600 damage! At least 1 point is necessary so that you don't get chain stunned and prevented from ravaging!",
+				"tidehunter_anchor_smash":"Anchor Smash is your bread and butter farming skill! You can use this in the long lane to get last hits(anchor does more than auto attacks) and to harass enemy carries! Don't forget it reduces damage done by 40%, so make sure to use it in teamfights constantly! Great for farming!",
+				"tidehunter_ravage":"Ravage is one of the best teamfight ultimates in the entire game. It releases an expanding aoe stun that does large damage and helps massively in teamfights! Make sure to be ready to use as soon as you hit level 6, and to be at all teamfights with allies! This spell is amazing."
+		}
+	}
+}

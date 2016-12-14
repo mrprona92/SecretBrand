@@ -1,0 +1,79 @@
+{
+	"Hero":"venomancer",
+	"Title":"GreyShark.Venomancer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"ring_of_protection",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"invis_sword"
+			],
+			"Mid Game":
+			[
+				"ultimate_scepter",
+				"orchid"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"refresher"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"blink"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_venomous_gale",
+			"4":"venomancer_poison_sting",
+			"5":"venomancer_venomous_gale",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_venomous_gale",
+			"8":"venomancer_poison_sting",
+			"9":"venomancer_poison_sting",
+			"10":"venomancer_plague_ward",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_plague_ward",
+			"13":"venomancer_plague_ward",
+			"14":"venomancer_plague_ward",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Stifling Dagger",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Наносит незначительный чистый урон и замедляет врага. Наносит в два раза меньше урона героям.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">60/100/140/180</font></b>",
+        "attrib": "ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">50%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1/2/3/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/25/20/15<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6",
+        "lore": "Первый навык, изучаемый Сестрами вуали, часто предвещает скорый удар.",
+        "hurl": "Phantom_Assassin",
+        "name": "phantom_assassin_stifling_dagger",
+        "youtube":"i5m8Cb2yyUE",
+        "id": 0
+    },
+    {
+        "dname": "Phantom Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Телепортирует к вражескому или союзному юниту и дает бонус к скорости атаки, если это противник.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">130</font></b><br/>МАКС. АТАК: <b><font color=\"#ffffff\">4</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1000/1000/1000/1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14/11/8/5",
+        "lore": "Шелковая вуаль Мортред — это последнее, что увидит несчастный противник.",
+        "hurl": "Phantom_Assassin",
+        "name": "phantom_assassin_phantom_strike",
+        "youtube":"vzvGCgwQoOA",
+        "id": 1
+    },
+    {
+        "dname": "Blur",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Phantom Assassin предугадывает движения соперников, что дает ей возможность уклоняться от атак и скрываться с мини-карты противника, когда она находится вдали от вражеских героев.<br/>Сочетается с другими источниками уклонения по закону убывающей полезности.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УКЛОНЕНИЕ: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>РАДИУС ДЛЯ ОТСУТСТВИЯ НА КАРТЕ: <b><font color=\"#ffffff\">1600/1600/1600/1600</font></b>",
+        "cmb": "",
+        "lore": "Медитация позволяет Сестрам вуали опережать противников в бою.",
+        "hurl": "Phantom_Assassin",
+        "name": "phantom_assassin_blur",
+        "youtube":"EDaQVTmxsNM",
+        "id": 2
+    },
+    {
+        "dname": "Coup de Grace",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Phantom Assassin оттачивает свои боевые способности, получая шанс нанести сокрушительный критический удар по врагу. Способность Stifling Dagger получает такой же шанс крита.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "КРИТИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">230%/340%/450%</font></b><br/>ШАНС КРИТА: <b><font color=\"#ffffff\">15%</font></b>",
+        "cmb": "",
+        "lore": "Умереть от превосходного удара Мортред — честь для ее врагов.",
+        "hurl": "Phantom_Assassin",
+        "name": "phantom_assassin_coup_de_grace",
+        "youtube":"A0dUz8U6nDM",
+        "id": 3
+    }
+]

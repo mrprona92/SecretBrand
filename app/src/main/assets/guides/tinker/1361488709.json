@@ -1,0 +1,253 @@
+{
+	"Hero":"tinker",
+	"Title":"Shadeyz Tinker guide [updated] [very situational]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"blink",
+				"soul_ring"
+			],
+			"Midgame":
+			[
+				"dagon",
+				"shivas_guard",
+				"bloodstone",
+				"cyclone",
+				"orchid",
+				"necronomicon"
+			],
+			"Lategame - Situational":
+			[
+				"sphere",
+				"black_king_bar",
+				"sheepstick",
+				"ethereal_blade",
+				"manta"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink dagger is good on tinker because it lets you catch enemies and run away from them, You just TP in their faces, Q W then blink -> rearm repeat
+
+Blink into trees while pushing with MotM to avoid getting ganked.
+
+You can skip it if you want.",
+				"blades_of_attack":"You won't need this, there's no item that you can build out of this.",
+				"broadsword":"Only buy this if you are going for Blademail (I don't know why should you go for it but meh).",
+				"chainmail":"Only buy this if you are going for Blademail (I don't know why should you go for it but meh).",
+				"claymore":"You will need this for the shadowblade, otherwise don't buy it.",
+				"helm_of_iron_will":"Useless, can't build it to anything, yes the stats are nice but the other items are better.",
+				"javelin":"Don't think you will need to build this to anything.",
+				"mithril_hammer":"You will need this for BKB.",
+				"platemail":"Very good for survivability, and you will need this for Shiva's.",
+				"quarterstaff":"You can buy this early for lasthitting, but only buy it if you are going for orchids.",
+				"quelling_blade":"Never buy this, unless the enemy team has a nature's prophet that knows what he's doing or your team just has a bad one.",
+				"ring_of_protection":"Don't buy that, you won't need basi. or traquils.",
+				"stout_shield":"Not really necessary.",
+				"gauntlets":"You can buy one as a starting item.",
+				"slippers":"No, you won't benefit from anything from agility.",
+				"mantle":"Very good as a starting item cause it gives damage and mana and lets you lasthit better.
+
+Skip this if you are confident of your ability to lasthit.",
+				"branches":"Good as a starting item, other than that don't buy it.",
+				"belt_of_strength":"Don't buy it, I don't see why you should be getting it.",
+				"boots_of_elves":"No, you won't benefit from anything from agility.",
+				"robe":"Only buy that if you are going to get drums, don't buy it for the stats.",
+				"circlet":"Getting branches is cheaper",
+				"ogre_axe":"Not very useful unless you are going for bkb, because you can't make useful items out of it.",
+				"blade_of_alacrity":"Only get it if you're going for yasha/manta, Don't buy for stats.",
+				"staff_of_wizardry":"Very good item as you can make a lot of items from it such as orchids, dagon, euls etc.",
+				"ultimate_orb":"Stats are good, but don't buy it for the stats unless you are getting Manta or Linkens.",
+				"gloves":"You won't need this, you aren't going for powertreads, and you won't need midas, you are supposed to rush BoT",
+				"lifesteal":"No, just don't do it.",
+				"ring_of_regen":"You won't need this in anything.",
+				"sobi_mask":"You have to buy that for soulring, but you won't need it as a starting item, just build the whole soul ring after BoT",
+				"boots":"You will need this for sure in the ~3 minute mark to control the runes easier and escape from ganks.",
+				"gem":"You can buy it but you shouldn't pick it up unless you know u wont get focused.",
+				"cloak":"Sometimes you need to get a cloak if the enemy has a lot of magical damage and is ganking you.",
+				"talisman_of_evasion":"Situational, can be a very good item against heavy carries.",
+				"magic_stick":"Can be good against lanes like batrider.",
+				"magic_wand":"Holds your stats and can be good against lanes like Batrider.",
+				"ghost":"Situational, can be a very good item against heavy carries.",
+				"clarity":"You can buy one or two if you think you will be spamming a lot of spells.",
+				"flask":"Gives alot of healing in the lane if you don't think you will be getting bottle quick enough or you will just skip it.",
+				"dust":"If you think you HAVE to get it.",
+				"bottle":"Very good item for lane control, you can't outfarm your enemy? No problem, nuke him then regen, He is harassing you? No problem, nuke him then regen.
+
+RUNE CONTROLLING IS VERY IMPORTANT, You can also ask your support for a ward at bot/top rune for easier rune control.",
+				"ward_observer":"Get them only if you are having a good farm and you need vision on runes, but it's mostly better to ask your teammates to buy it for you.",
+				"ward_sentry":"Same as dust.",
+				"tango":"Good for regen, buy more if you don't think you will get bottle quick enough, or you will just skip bottle.",
+				"courier":"No, you should be saving your money for BoT and not courier, but if you don't have a support and no one bought it, then you gotta buy it.",
+				"tpscroll":"Don't buy TP Scrolls after BoT, if you died in lane then it's ok to buy one to get to lane faster.",
+				"travel_boots":"This item is a must, It's very good on tinker because you can go anywhere in the map without having trouble with TP scrolls, You can gank, counter-gank, split push, regen then go back to lane, Anything.
+
+TL;DR, BoT Refreshes with Rearm.
+DON'T SKIP THIS!",
+				"phase_boots":"No, You will need your BoT.",
+				"demon_edge":"Never buy this, you aren't a carry.",
+				"eagle":"You should only buy this for butterfly, nothing else.",
+				"reaver":"Not really good unless you are going for heart.",
+				"relic":"Never buy this, you aren't a carry.",
+				"hyperstone":"Never buy this, you aren't a carry.",
+				"ring_of_health":"Good regen in lane.",
+				"void_stone":"Good regen in lane.",
+				"mystic_staff":"Impressing stats, can be built into shiva's or hex, very good items.",
+				"energy_booster":"Max mana, very good and can be built into bloodstone.",
+				"point_booster":"Max mana and health, very good and can be built into bloodstone.",
+				"vitality_booster":"Max health, very good and can be built into bloodstone.",
+				"power_treads":"No, You will need your BoT.",
+				"hand_of_midas":"No, Rearm doesn't refresh it and you will need to rush your BoT instead.",
+				"oblivion_staff":"You will need to build this to orchids, the stats are pretty nice too.",
+				"pers":"Pretty good stats item, you can build it to bloodstone or linkens (And you HAVE to build one of them at some point for mana)",
+				"poor_mans_shield":"Not really necessary.",
+				"bracer":"You can build it to drums, nothing wrong with a cheap early health item too.",
+				"wraith_band":"No, you won't benefit from anything from agility.",
+				"null_talisman":"This is a situational item, you can decide to buy it if you aren't very good at lasthitting, If you don't need it then don't buy it, rush your BoT.",
+				"mekansm":"You won't need meka, and even if you wanna buy one, your support should buy one instead.",
+				"vladmir":"No, you should never buy this.",
+				"flying_courier":"Same as animal courier.",
+				"buckler":"Useless item, you won't need meka, and even if you wanna buy one, your support should buy one instead.",
+				"ring_of_basilius":"No, you have your bottle and don't need this.",
+				"pipe":"Not bad if the team has tons of magical damage, but BKB and Linkens are better, your tank can buy it though.",
+				"urn_of_shadows":"Urn is never bad, it's always good.",
+				"headdress":"Useless item, you won't need meka, and even if you wanna buy one, your support should buy one instead.",
+				"sheepstick":"VERY good item as you can permanently disable someone in a fight, or gank someone with it, gives tons of regen too.",
+				"orchid":"Very good item, permanent silence someone in fight and it gives a ot of regen and amp. damage.",
+				"cyclone":"Same as hex, much cheaper, good movement speed aura and tons of regen, very good item.",
+				"force_staff":"You should only get this if you know what you're doing, If you don't then don't buy it.",
+				"dagon":"Great item because it increases your burst damage and it also gets rearmed, good with the blink dagger.
+
+This item IS NOT a must, you can skip it if you want.
+
+Don't forget to upgrade it.",
+				"necronomicon":"Very good item for pushing and burning enemies mana, You should get one if the enemy has a Storm Spirit or Skeleton King.
+
+Don't forget to upgrade it.",
+				"ultimate_scepter":"No, please don't buy it, it's the last thing you should ever do.",
+				"refresher":"No, doesn't work with rearm, and you already got rearm, you don't need this.",
+				"assault":"Never buy this, you aren't a carry.",
+				"heart":"Get a bloodstone instead.",
+				"black_king_bar":"It's a very good item, it doesn't get rearmed, but you won't have time to position yourself and use your skills in fight, so you can just pop it and use your skills safely.",
+				"shivas_guard":"Great for the pushing as it lets you instakill the creep waves with the nuke damage it does, It also has a great impact in the teamfight as it gives a huge movement speed and attack speed reduction to enemies, Also gives you tons of armor for survivability.
+
+TL;DR, Good item for pushing.",
+				"bloodstone":"If you think you can get it fast enough, and that you won't die in a blink.",
+				"sphere":"The regen is very good, the active is even better, good item if the enemy has a targetable skill that is annoying you.",
+				"vanguard":"No, very bad item on ranged.",
+				"blade_mail":"Don't really know about this, it's situational though.",
+				"soul_booster":"Good stats and you will need for bloodstone.",
+				"hood_of_defiance":"Not very good, cloak should be enough, if you really have problems with magical damage get a BKB",
+				"rapier":"No, buy it for showoff, but if you wanna win, then don't.",
+				"monkey_king_bar":"Never buy this, you aren't a carry.",
+				"radiance":"No, you won't even survive enough in the fight, and other items are better.",
+				"butterfly":"Situational, can be a very good item against heavy carries.",
+				"greater_crit":"Never buy this, you aren't a carry.",
+				"basher":"Never buy this, you aren't a carry, and it's not good on ranged heroes.",
+				"bfury":"Never buy this, you aren't a carry, and it's so bad on ranged heroes.",
+				"manta":"Good active that dispels skills, bonus damage on towers, movement speed and stats.",
+				"lesser_crit":"Never buy this, you aren't a carry.",
+				"armlet":"Armlet? sure, if you wanna die.",
+				"invis_sword":"Free invisibility to get out of sticky situations, not bad for what you can use it for.",
+				"sange_and_yasha":"I don't know, it's worthless in my eyes, manta is better.",
+				"satanic":"You won't rightclick, and you won't need this.",
+				"mjollnir":"Yeah, it would be nice to have the active on all heroes, But this is just too expensive and you won't need the passive stats in anything.",
+				"skadi":"Good stats, but too expensive, don't buy it.",
+				"sange":"Sange? I don't know, but it's useless in my eyes.",
+				"helm_of_the_dominator":"Doesn't work with rearm, worthless.",
+				"maelstrom":"Good for pushing but other items are better, and you already got your MotM",
+				"desolator":"Never buy this, you aren't a carry.",
+				"yasha":"Good movement speed bonus.",
+				"mask_of_madness":"No, don't even think about it.",
+				"diffusal_blade":"You won't need this, it also has charges.",
+				"ethereal_blade":"A good item if you wanna extend your nukes, but its very expensive, only buy it if you got a lot of money.",
+				"soul_ring":"This item is a MUST, it greatly increases your mana pool when you use it, and it refreshes with rearm, very good for pushing.
+
+DON'T SKIP THIS!",
+				"arcane_boots":"It doesn't rearm and you will need your BoT.",
+				"orb_of_venom":"No.",
+				"ancient_janggo":"Pretty good item as it gives stats and an aura to the whole team and it's also cheap.",
+				"medallion_of_courage":"You won't need medallion in anything, your support should buy one though.",
+				"smoke_of_deceit":"Don't buy it, your supports are supposed to buy the smoke, And only if your whole team has communication",
+				"veil_of_discord":"Yeah, it's a good item, but you should focus on the other items instead.",
+				"rod_of_atos":"Very good item, gives health and a slow, and it also got buffed.",
+				"abyssal_blade":"Good item for the disable it has, but very expensive.
+The only advantage it has over hex and euls that it goes through BKB, but it's also melee range, so you will probably die if you try to use it.",
+				"heavens_halberd":"Very good against heavy carries like Faceless void, but you still have your laser.",
+				"ring_of_aquila":"No, you have your bottle and don't need this, useless agility too.",
+				"tranquil_boots":"No, You will need your BoT.",
+				"shadow_amulet":"You will need this for the shadowblade, the active is very bad for its price, the attackspeed is meh."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_heat_seeking_missile",
+			"3":"tinker_laser",
+			"4":"tinker_heat_seeking_missile",
+			"5":"tinker_laser",
+			"6":"tinker_heat_seeking_missile",
+			"7":"tinker_laser",
+			"8":"tinker_heat_seeking_missile",
+			"9":"tinker_rearm",
+			"10":"tinker_march_of_the_machines",
+			"11":"tinker_march_of_the_machines",
+			"12":"tinker_march_of_the_machines",
+			"13":"tinker_march_of_the_machines",
+			"14":"tinker_rearm",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"This is one of the best skills I've ever seen, 320 pure damage, a 100% blind (makes all attacks miss) to enemies, very good in lane and lategame.
+Mess with the timing of using this to stop your opponents from taking lasthits.",
+				"tinker_heat_seeking_missile":"Good skill if the enemy is going as 5, just W soulring R W soulring R till your mana ends then TP back to base, this hits the closest 2 heroes in 2000 range, if there's no hero no damage will be applied, you need to have vision on the target or it wont hit it.",
+				"tinker_march_of_the_machines":"This skill is a great source of DPS in fights and in pushing, 2 MotM is enough to quickly take out a whole creepwave alone, deals large damage in teamfights, don't spam it in your carry's lane to not ruin his farm.",
+				"tinker_rearm":"This skill is your signature skill, it makes every single thing you have repeatable.
+List of items that doesn't get rearmed:
+Black king bar
+Arcane boots
+Helm of the dominator
+Hand of midas
+Refresher Orb
+Linken's sphere
+Necronomicon
+
+You don't level this at level 11 because you won't have enough mana",
+				"attribute_bonus":"Stats."
+		}
+	}
+}

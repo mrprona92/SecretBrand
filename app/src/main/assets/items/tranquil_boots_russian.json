@@ -1,0 +1,20 @@
+{
+  "attrib": "+ 90 к скорости передвижения<br/>+ 4 к броне<br/>+ 12 к регенерации здоровья",
+  "cd": 13.0,
+  "components": [
+    "boots",
+    "ring_of_protection",
+    "ring_of_regen"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Пассивная: Break — Tranquil Boots теряют регенерацию здоровья и 25 скорости передвижения на 13 секунд, если владелец атаковал или был атакован.",
+  "dname": "Tranquil Boots",
+  "dotaId": "tranquil_boots",
+  "mc": false,
+  "img": "tranquil_boots_lg.png",
+  "lore": "Хоть эти сапоги и увеличивают выживаемость обладателя, они не слишком надежны.",
+  "id": 214,
+  "created": true,
+  "cost": 1000
+}

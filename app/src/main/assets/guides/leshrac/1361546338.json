@@ -1,0 +1,104 @@
+{
+	"Hero":"leshrac",
+	"Title":"GET LESHREKT",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"branches",
+				"gauntlets",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"bracer",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"blade_mail",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"power_treads",
+				"heart",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"This will build into a bracer.",
+				"branches":"Cheap, disposable stats. You'll build these into a Magic Wand.",
+				"magic_wand":"A Magic Wand can save your life!",
+				"clarity":"If you don't have to buy the courier, buy four Clarities!",
+				"tango":"Basic Regen.",
+				"courier":"You may have someone else buying the courier, but if not, get one!",
+				"travel_boots":"If the game progresses to the point where Boots of Travel become relevant, they're an excellent pickup on Leshrac.",
+				"power_treads":"Treads are nice when set to Strength, they'll give you that extra little bit of survivability.",
+				"bracer":"A holdover until your bigger items.",
+				"ultimate_scepter":"Your ultimate will be your main source of damage, so make sure it's performing at its maximum potency.",
+				"heart":"More survivability. You want a massive HP pool!",
+				"black_king_bar":"Much like Blade Mail, a BKB will let you stay in the fight for longer.",
+				"bloodstone":"Bloodstone gives you enough mana regen to spam spells and keep your ultimate running in teamfights. Just make sure you keep your stacks high.",
+				"blade_mail":"The longer a fight goes on, the more damage Leshrac will end up doing to the enemy team. Blade Mail serves as a disincentive for the enemy to attack you.",
+				"arcane_boots":"Disassemble these to build your Bloodstone."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_diabolic_edict",
+			"4":"leshrac_split_earth",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"leshrac_lightning_storm",
+			"10":"leshrac_pulse_nova",
+			"11":"leshrac_pulse_nova",
+			"12":"leshrac_lightning_storm",
+			"13":"leshrac_lightning_storm",
+			"14":"leshrac_lightning_storm",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Leshrac's stun does good damage and leveling it up will increase its radius. With a setup stun, landing it becomes a cakewalk and will almost guarantee a kill in the early game.",
+				"leshrac_diabolic_edict":"Edict does insane single target damage when you're chasing lone heroes or just happen to come across someone alone in the lane or in the jungle. Pop it and let it do the job.
+
+Edict is incredibly effective versus towers, so try to position yourself so that all the instances of damage hit the tower.",
+				"leshrac_lightning_storm":"While Lightning Storm can potentially be maxed first and serve as quite a potent multi-target damaging spell, this will often just push the lane out.
+
+If you're expecting a lot of teamfights or pushes early in the game, it might be wise to max this first instead of Edict.",
+				"leshrac_pulse_nova":"Leshrac will typically lack the mana to sustain his ultimate at level 6, so pick it up at level 10. In teamfights, simply turn your ultimate on and make sure you're in the middle of it, pulsing for massive damage.",
+				"attribute_bonus":"Stats gonna stats."
+		}
+	}
+}

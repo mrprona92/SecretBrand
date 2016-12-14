@@ -1,0 +1,88 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"[DMX] Storm Spirit (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"bloodstone",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"black_king_bar",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"orchid",
+				"sphere",
+				"cyclone",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_static_remnant",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_static_remnant",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_static_remnant",
+			"8":"storm_spirit_electric_vortex",
+			"9":"storm_spirit_electric_vortex",
+			"10":"storm_spirit_electric_vortex",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_overload",
+			"13":"storm_spirit_overload",
+			"14":"storm_spirit_overload",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"Ce sort est votre nuke principal, son tout petit cooldown vous permet de push et dépush très facilement.",
+				"storm_spirit_electric_vortex":"Votre disable, vous devez l'utiliser pour ramener votre ennemi au corps à corps.",
+				"storm_spirit_overload":"Un passif qui slow et qui inflige de bons dégâts bonus. En fin de game vous spammerez vos sorts  et vous aurez très souvent ce passif.",
+				"storm_spirit_ball_lightning":"Un sort de mobilité extrème qui vous permet d'engager depuis très loin ou de vous enfuir très facilement.
+De plus vous êtes invulnérable lorsque vous utilisez l'ulti. 
+Vous pouvez également utiliser des items pendant votre ulti."
+		}
+	}
+}

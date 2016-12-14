@@ -1,0 +1,40 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_puck",
+	"Title":"Recommended items for Puck",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"gauntlets",
+			"circlet"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"bracer",
+			"bottle"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"blink",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"sheepstick",
+			"bloodstone",
+			"ultimate_scepter",
+			"dagon",
+			"shivas_guard",
+			"sphere",
+			"cyclone"
+		]
+	}
+}

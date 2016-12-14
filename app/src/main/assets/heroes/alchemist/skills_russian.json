@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Acid Spray",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Распыляет кислоту по указанной области. Находящиеся в зараженной области враги получают периодический урон; кроме этого, их броня временно снижается.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">625</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">16</font></b><br/>УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">12/16/20/24</font></b><br/>СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">4/5/6/7</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 130/140/150/160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 22",
+        "lore": "Используя семейные рецепты рода Темноваров, Разил получает едкую кислоту, которая разрушает даже самые прочные металлы.",
+        "hurl": "Alchemist",
+        "name": "alchemist_acid_spray",
+        "youtube":"MUE1KNbho4Q",
+        "id": 0
+    },
+    {
+        "dname": "Unstable Concoction",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Alchemist смешивает взрывоопасные компоненты в колбе, которую может бросить во вражеского героя, оглушая его и нанося урон всем врагам в радиусе взрыва. Чем больше времени Alchemist встряхивает смесь, тем больше урона получат враги, и тем дольше будет длиться оглушение. Через 5 секунд с момента смешивания заклинание достигает максимального эффекта. Однако через 5,5 секунд колба разорвется и оглушит самого Alchemist, если ее не выбросить до этого момента.",
+        "notes": "Во время подготовки заклинания Alchemist может передвигаться и действовать как обычно.<br/>Таймер над головой Alchemist показывает время, оставшееся до взрыва. Противники видят этот таймер.<br/>Этой способностью можно совершить самоубийство.<br/>Снаряд этой способности нельзя сбить с цели.<br/>После броска Unstable Concoction не усиливается.",
+        "dmg": "",
+        "attrib": "МАКС. ОГЛУШЕНИЕ: <b><font color=\"#ffffff\">1.75/2.5/3.25/4</font></b><br/>МАКС. УРОН: <b><font color=\"#ffffff\">150/220/290/360</font></b><br/>РАДИУС ВЗРЫВА: <b><font color=\"#ffffff\">175</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16",
+        "lore": "Хоть превращение горы в золото и потерпело провал, благодаря ему была получена летучая микстура с разрушительным потенциалом.",
+        "hurl": "Alchemist",
+        "name": "alchemist_unstable_concoction",
+        "youtube":"12jG2U6LH6s",
+        "id": 1
+    },
+    {
+        "dname": "Greevil's Greed",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Alchemist синтезирует дополнительное золото из своих врагов и рун. С каждым убийством Alchemist получает базовый бонус к золоту, а также дополнительный бонус. Если Alchemist убивает еще одного юнита в течение 30 секунд, к предыдущему дополнительному золоту добавляется еще один бонус. Руны богатства приносят в 4 раза больше золота, чем обычно.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ВРЕМЯ МЕЖДУ УБИЙСТВАМИ: <b><font color=\"#ffffff\">30</font></b><br/>НАЧАЛЬНЫЙ БОНУС ЗОЛОТА: <b><font color=\"#ffffff\">6/8/10/12</font></b><br/>ДОП. ЗОЛОТО: <b><font color=\"#ffffff\">3</font></b><br/>МАКС. ДОП. ЗОЛОТО ЗА УБИЙСТВО: <b><font color=\"#ffffff\">12/20/28/36</font></b>",
+        "cmb": "",
+        "lore": "Пускай эксперимент с горой и не удался, зато превращение в звонкую монету структур поменьше дается Разилу с легкостью.",
+        "hurl": "Alchemist",
+        "name": "alchemist_goblins_greed",
+        "youtube":"uHDQHquQk6E",
+        "id": 2
+    },
+    {
+        "dname": "Chemical Rage",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Alchemist поит своего огра химической смесью, увеличивая скорость передвижения, атаки и регенерации.",
+        "notes": "Трансформация длится 0,35 секунды, которые можно использовать для уклонения от летящих в вас снарядов и оглушений.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">25</font></b><br/>ЗАДЕРЖКА ПЕРЕД АТАКОЙ: <b><font color=\"#ffffff\">1.4/1.2/1</font></b><br/>ДОП. РЕГЕН ЗДОРОВЬЯ: <b><font color=\"#ffffff\">50/75/100</font></b><br/>ДОП. РЕГЕН МАНЫ: <b><font color=\"#ffffff\">3/7.5/12</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">30/40/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/100/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 45",
+        "lore": "Варево, которым Разил напоил огра во время их побега из тюрьмы, стало полезным в сражении зельем.",
+        "hurl": "Alchemist",
+        "name": "alchemist_chemical_rage",
+        "youtube":"7SrgzbFp9Rw",
+        "id": 3
+    },
+    {
+        "dname": "Unstable Concoction Throw",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бросайте, пока не взорвалось!",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Alchemist",
+        "name": "alchemist_unstable_concoction_throw",
+        "id": 4
+    }
+]

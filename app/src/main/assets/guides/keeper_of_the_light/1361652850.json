@@ -1,0 +1,105 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"Creepy Old Man With a Flashlight [Keeper of the Light]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"tranquil_boots",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"necronomicon",
+				"rod_of_atos",
+				"sheepstick",
+				"ancient_janggo",
+				"travel_boots",
+				"invis_sword",
+				"ghost",
+				"cyclone"
+			],
+			"Updated for 6.81":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Another item to concider if you need to survive longer in a team fight. Unless they have big nukes on the enemy team this is a good item to get for when the enemy carry starts to three shot you.",
+				"ward_observer":"You should always have ward money. Try to keep the shop constantly out of stock.",
+				"travel_boots":"There are usually items that you want over Boots of Travel, but if the enemy has a strong split pusher like Nature's Profit it should be considered.",
+				"mekansm":"Since the change to scepter a mek just isn't as strong. However, if you are having trouble getting items then this is the way to go.",
+				"sheepstick":"Always good for keeping the enemy carry down during team fights. If they don't have a BKB by the time you get this they will be forced to get it.",
+				"cyclone":"After Ahgs, if you feel there is an enemy that needs to be taken out of a fight for moment then pick this up before the force staff.",
+				"force_staff":"After getting Ahgs a Force Staff can help get around, save teammates or put enemy heroes in bad situations if used correctly. ",
+				"necronomicon":"Especially good for when the other team has nasty invisible heroes such as Nyx Assassin. Getting this to level 3 will give your team great pushing and the true sight provided by the melee Necronomicon warrior will be a great help.",
+				"ultimate_scepter":"Despite the price tag a scepter gives so much for the cost. The best way to earn the money for this is to stack jungle camps.",
+				"invis_sword":"A very rare item to see on Keeper of the Light it can be very helpful when you want to get around the map but you aren't close to your team. If you feel you are being picked off too much and there aren't any other invisible heroes on your team it can be a good pick up.",
+				"ancient_janggo":"Good cheap stats and the movement speed will help you get around.",
+				"rod_of_atos":"Gives good stats and health. A great pick up if there are strong melee heroes that you need to keep away from."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_illuminate",
+			"6":"keeper_of_the_light_spirit_form",
+			"7":"keeper_of_the_light_chakra_magic",
+			"8":"keeper_of_the_light_illuminate",
+			"9":"keeper_of_the_light_chakra_magic",
+			"10":"keeper_of_the_light_mana_leak",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"It is important to note that in the early laning stage one should avoid hitting the creep waves. If you decide it is necessary remember to stack and pull if you are in the safe lane.
+Once at max level this can be used to clear the small creep camp in one hit making it an easy source of money.",
+				"keeper_of_the_light_mana_leak":"Generally one should wait till both Q and E are maxed, but if the enemy has a hero such as a Dark Seer one point should be picked up to try to lock him down.",
+				"keeper_of_the_light_recall":"Allows your team's carry to be farming and always show up for the team fights. If it is off cooldown, possibly urge a teammate to buy back during a team fight and pull them back into the action.",
+				"keeper_of_the_light_blinding_light":"Reserve this spell until you are sure you can hit the enemy's strongest auto attacker. Even if you only catch him in it, it will be worth it.",
+				"keeper_of_the_light_spirit_form":"Activate any time a team fight erupts."
+		}
+	}
+}

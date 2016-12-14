@@ -1,0 +1,102 @@
+{
+	"Hero":"spectre",
+	"Title":"6.82 - Standard Spectre (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"diffusal_blade"
+			],
+			"luxury":
+			[
+				"vitality_booster",
+				"radiance"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"heart",
+				"butterfly",
+				"greater_crit"
+			],
+			"Last updated: 29/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"vitality_booster":"This will give you extra health because of Spectre's frail situation. It may not be needed, hence situational.",
+				"poor_mans_shield":"Spectre suffers during the laning phase and needs the Poor Man's Shield to actively farm and reduce the amount of damage intake from harassment.",
+				"heart":"We typically get Heart of Tarrasque to survive longer, letting Dispersion to its job.",
+				"radiance":"If you can farm this, get it! Otherwise, your mid-game core item of Diffusal Blade will greatly help you pick off foes with Haunt and Diffusal Blade's slow.",
+				"butterfly":"Health from Heart of Tarrasque and Evasion from Butterfly makes Spectre an incredible annoyance and nearly unkillable before Spectre dies.",
+				"manta":"Definitely a good item with Diffusal Blade and your passive abilities. Dish out further damage as you gank foes and pop Manta Style to be triple the threat.",
+				"diffusal_blade":"Get level 2 if you run out of Diffusal charges, this is a great item when you are ganking for lonely supports or weakened lane-pushers. ",
+				"ancient_janggo":"The survivability, aura and extra speed are intermission items to keep Spectre alive and make early ganks all the more worthwhile for him."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_spectral_dagger",
+			"2":"spectre_dispersion",
+			"3":"spectre_spectral_dagger",
+			"4":"spectre_desolate",
+			"5":"spectre_spectral_dagger",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_desolate",
+			"9":"spectre_desolate",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_dispersion",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"Spectral Dagger can also be used to get out of ganks and dangerous areas. You can go through trees and hills with this ability and following the path.",
+				"spectre_desolate":"This ability works great when you're ganking enemies via Haunt. We max this second as we ramp up ganks and the use of our Diffusal Blade.",
+				"spectre_dispersion":"The longer you stay alive, the more damage you can deal to others. Consider getting more health-related items if you want to take advantage of this.",
+				"spectre_haunt":"Cast Haunt to gank heroes who are farming alone as you can take them out fast. In addition, consider Haunt as a Boots of Travel whereas you can push another lane and use Haunt to get in on team-fights without delay! There is no cooldown to the number of times you can use Reality, so use it often!"
+		}
+	}
+}

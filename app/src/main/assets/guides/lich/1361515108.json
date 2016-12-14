@@ -1,0 +1,101 @@
+{
+	"Hero":"lich",
+	"Title":"[DMX] Lich (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"tranquil_boots",
+				"mekansm",
+				"force_staff",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"cyclone",
+				"hood_of_defiance",
+				"pipe",
+				"phase_boots",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_frost_nova",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_frost_armor",
+			"9":"lich_frost_armor",
+			"10":"lich_frost_armor",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_dark_ritual",
+			"14":"lich_dark_ritual",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Votre principal nuke, utilisez le sur les héros pour les harass et sur les creeps pour dépusher plus facilement.
+Le ralentissement est très pratique pour rattraper un fuyard.",
+				"lich_frost_armor":"Un excellent sort souvent sous estimé qui rendra toute votre équipe tanky. Spammez le !",
+				"lich_dark_ritual":"Un très bon sort qui vous assure une tenue de lane très facile. De plus la régénération de mana vous permet de spammer vos autres sorts.",
+				"lich_chain_frost":"Un très bon ultimate de zone qui inflige de bons dégâts. Attention cependant à l'utilser quand il n'y a pas beaucoup de creeps et quand les héros ennemis sont regroupés pour ne pas le gâcher."
+		}
+	}
+}

@@ -1,0 +1,130 @@
+{
+	"Hero":"terrorblade",
+	"Title":"Oldschool Kappablade [6.80]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches"
+			],
+			"Lane phase":
+			[
+				"boots",
+				"poor_mans_shield",
+				"magic_stick"
+			],
+			"Early game":
+			[
+				"power_treads",
+				"magic_wand",
+				"yasha",
+				"helm_of_the_dominator",
+				"tpscroll"
+			],
+			"Core items":
+			[
+				"black_king_bar",
+				"manta"
+			],
+			"Late game":
+			[
+				"skadi",
+				"butterfly",
+				"satanic"
+			],
+			"Situational items":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"sphere",
+				"sange_and_yasha",
+				"heart",
+				"travel_boots"
+			],
+			"Getting freefarm?":
+			[
+				"hand_of_midas",
+				"radiance"
+			],
+			"LOL ONESHOT [4fun]":
+			[
+				"invis_sword",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Helps you as a melee hero.",
+				"magic_stick":"Always helps.",
+				"magic_wand":"One of the best item in early game that will save the day again and again.",
+				"tpscroll":"Always keep it.",
+				"travel_boots":"A very usefull boots for late game, frees a TP slot and allows you to do combo \"Buyback-TP in fight\".",
+				"power_treads":"Switch to str against strong casters, to agi for farm and to int when you cast spells.",
+				"hand_of_midas":"Try to get it untill 10 min.",
+				"poor_mans_shield":"Better laning against agressive range heroes.",
+				"dagon":"Sunder, pew!",
+				"heart":"Fat clones of a big demon.",
+				"black_king_bar":"An item that every carrier need for good teamfights.",
+				"sphere":"Prevents initiation on you, like batrider's lasso.",
+				"monkey_king_bar":"If someone gets evasion.",
+				"radiance":"Your illusions can very quickly farm woods with it.",
+				"butterfly":"Even stronger illusions, even more survivality and DPS. Best option for agi-carry.",
+				"greater_crit":"One of the best options for damage dealers. Go for it instead of skadi if you need damage.",
+				"manta":"Debuffs things, can save you from focus and increases your push potential as well.",
+				"invis_sword":"Make neutrals hit you under 10% hp...",
+				"sange_and_yasha":"If you are snowballing or simple don't like Manta.",
+				"satanic":"Time to upgrade our Helm and become an immortal demon.",
+				"skadi":"Gives all what TB need and strongly improves illusions.",
+				"helm_of_the_dominator":"Allows you to always be on full hp at farming and also you can pretty easy clean ancient stacks with it.",
+				"yasha":"Great synergy with TB attack and movespeed, also can be upgraded further."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"terrorblade_reflection",
+			"2":"terrorblade_metamorphosis",
+			"3":"terrorblade_metamorphosis",
+			"4":"terrorblade_conjure_image",
+			"5":"terrorblade_metamorphosis",
+			"6":"terrorblade_sunder",
+			"7":"terrorblade_metamorphosis",
+			"8":"terrorblade_conjure_image",
+			"9":"terrorblade_conjure_image",
+			"10":"terrorblade_conjure_image",
+			"11":"terrorblade_sunder",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"terrorblade_sunder",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"terrorblade_reflection",
+			"24":"terrorblade_reflection",
+			"25":"terrorblade_reflection"
+		},
+		"AbilityTooltips":
+		{
+				"terrorblade_reflection":"Slow at any level always will be 60% @ 5 sec, so get it once and use on their main-carry further.",
+				"terrorblade_conjure_image":"If you press it in range form, illusions will be range also.",
+				"terrorblade_metamorphosis":"Your bread and butter, max it ASAP and use wisely.",
+				"terrorblade_sunder":"Only 250 range, be careful and use it on closest target to you. Can save allies as well."
+		}
+	}
+}

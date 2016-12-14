@@ -1,0 +1,94 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"Shadow Shaman Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"ward_observer",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ward_observer",
+				"blink",
+				"urn_of_shadows"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"cyclone",
+				"ultimate_scepter",
+				"sheepstick",
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Works great for surprise initiations and ward trapping.",
+				"mekansm":"Great for pushing line-ups, as well as a generally good item for any team.",
+				"cyclone":"Provides plenty of mana regen and makes ward trapping a piece of cake.",
+				"ultimate_scepter":"Scepter makes your wards hit like a truck (or trucks? lol).",
+				"refresher":"If you manage to get this, the game has been over for the past 30 minutes and your team just wants to have fun and not push for the win.",
+				"arcane_boots":"Arcane Boots provide you with the ability to actually use all of your abilities with little to no worry about being short of mana.",
+				"ancient_janggo":"Another great and cheap pushing item for the team."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_shackles",
+			"2":"shadow_shaman_ether_shock",
+			"3":"shadow_shaman_voodoo",
+			"4":"shadow_shaman_ether_shock",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_voodoo",
+			"9":"shadow_shaman_voodoo",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"shadow_shaman_shackles",
+			"24":"shadow_shaman_shackles",
+			"25":"shadow_shaman_shackles"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"Amazing nuke; worth noting that it deals 140 damage at level 1!",
+				"shadow_shaman_voodoo":"Great long disable, perfect for ward trapping heroes as it makes their models smaller and easier to trap in.",
+				"shadow_shaman_shackles":"2.5 second disable at level 1? Yes, please! Doesn`t scale particularly great though, so is maxed last.",
+				"shadow_shaman_mass_serpent_ward":"Use it to push towers or team fight. Don`t be afraid to use it on a single enemy to trap them in between the wards (by using them right on top of the hero). If you manage to successfully ward trap someone who doesn`t have Phase Boots or a Blink-like ability, it guarantees you a kill in most cases."
+		}
+	}
+}

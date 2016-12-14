@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Mana Break",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Сжигает ману врага с каждым ударом. Mana Break наносит противнику урон в размере 60% от сожженной маны.<br/>Mana Break — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+        "notes": "Блокируется невосприимчивостью к заклинаниям.<br/>Если на вас действует аура вампиризма, урон, нанесенный этой способностью, будет восстанавливать ваше здоровье.",
+        "dmg": "",
+        "attrib": "СЖИГАЕТ МАНЫ ЗА УДАР: <b><font color=\"#ffffff\">28/40/52/64</font></b>",
+        "cmb": "",
+        "lore": "Измененная техника турстаркурийских монахов по обращению волшебной энергии против самого чародея.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_mana_break",
+        "youtube":"5n9dPC349Lw",
+        "id": 0
+    },
+    {
+        "dname": "Blink",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Телепортация на короткую дистанцию, позволяющая Anti-Mage врываться в схватку и быстро возвращаться назад.",
+        "notes": "Многие снаряды могут быть сбиты с цели применением этой способности.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1000/1075/1150/1150</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/60/60/60<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/9/7/5",
+        "lore": "В своих схватках с мертвыми богами Anti-Mage познал ценность неуловимости.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_blink",
+        "youtube":"HCJe7ilCyXo",
+        "id": 1
+    },
+    {
+        "dname": "Spell Shield",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Увеличивает сопротивление Anti-Mage магическому урону.",
+        "notes": "Сочетается по закону убывающей полезности с другими источниками сопротивления магии.",
+        "dmg": "",
+        "attrib": "СОПРОТИВЛЕНИЕ: <b><font color=\"#ffffff\">26%/34%/42%/50%</font></b>",
+        "cmb": "",
+        "lore": "Годы медитации и одержимость местью защищают кожу Anti-Mage от вражеских заклятий.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_spell_shield",
+        "youtube":"pQ6OlMLiA-A",
+        "id": 2
+    },
+    {
+        "dname": "Mana Void",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "За каждую отсутствующую у цели единицу маны ей и окружающим противникам наносится урон. Основная цель кратковременно оглушается.",
+        "notes": "Оглушение проходит сквозь невосприимчивость к заклинаниям.<br/>Урон основывается на количестве маны у цели, на которую вы собираетесь применить способность, но урон наносится всем противникам в радиусе действия способности.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">0.6/0.85/1.1</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">0.1/0.2/0.3</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">500</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/200/275<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 70",
+        "lore": "Одолев врагов, Anti-Mage карает их за использование тайных искусств.",
+        "hurl": "Anti-Mage",
+        "name": "antimage_mana_void",
+        "youtube":"qi1_xFE6nBI",
+        "id": 3
+    }
+]

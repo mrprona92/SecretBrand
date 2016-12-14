@@ -1,0 +1,110 @@
+{
+	"Hero":"life_stealer",
+	"Title":"[DMX] Lifestealer - Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"quelling_blade",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"armlet",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"hyperstone",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"desolator",
+				"abyssal_blade",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnel":
+			[
+				"hand_of_midas",
+				"mjollnir",
+				"black_king_bar",
+				"blink",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Si vous n'arrivez jamais à atteindre vos cible, une blink dagger peut être la solution pour arriver directement au corps à corps.",
+				"quelling_blade":"La quelling blade vous permettra de tuer les creeps plus rapidement. Vous pourrez également vous déplacez plus vite entre les camps en coupant les arbres aux bons endroits.",
+				"stout_shield":"Un item très pratique pour tanker les dégâts des creeps neutres au début de la partie.",
+				"magic_wand":"Magic Wand est un très bon item en toute situation, et son actif vous sauvera la vie plus d'une fois !",
+				"tango":"Même si vous aurez de la régénération grâce à votre passif, vous avez besoin de ces tangos au début de partie pour vous soigner contre les creeps les plus puissants.",
+				"tpscroll":"Indispensable pour avoir de la mobilité sur la map ou pour aider ses alliés en toutes circonstances.",
+				"travel_boots":"Les Boots of Travels sont les meilleures bottes de late game, car elles vous permettent de gagner en mobilité tout en libérant un slot d'inventaire pris par vos parchemins de tp.",
+				"hyperstone":"Lifestealer profite énormément de la vitesse d'attaque, n'hésitez donc pas à acheter l'hyperstone en premier pour votre future assault cuirass ou votre futur Mjollnir.",
+				"power_treads":"De très bonnes bottes pour lifestealer, elles augmentent sa vitesse d'attaque et sa force (et donc ses dommages). Vous pouvez également les switcher en intelligence pour lancez un sort.",
+				"hand_of_midas":"Si vous farmez très bien, faites un hand of midas pour accroître encore plus cet avantage de gold.",
+				"assault":"Un très bon item, qui vous donnera de l'attaque speed, et beaucoup de tanking contre les dps physiques, tout en réduisant l'armure de vos ennemis.",
+				"heart":"Si vous voulez tanker plus, Heart of Tarrasque est l'item parfait, vous donnant force et régénération accrue.",
+				"black_king_bar":"Si votre rage n'est pas suffisante, faites une BKB pour encore plus d'immunité magique !",
+				"armlet":"Un excellent item sur Lifestealer, qui vous permettra de retourner dans le combat même si vous n'avez que très peu de hp. Combiné à votre passif, vous pourrez laisser armlet actif durant le teamfight ou lorsque vous faites les creeps anciens.",
+				"mjollnir":"Un très bon item car il vous donne énormément d'attaque speed. De plus son actif vous permet d'infliger encore plus de dégâts sur les ennemis qui vous focus.",
+				"desolator":"Lifestealer dispose déjà d'un lifesteal, desolartor constitue donc l'un des meilleurs modifieurs d'attaques possibles pour lui. Cet item permettra d'enlever l'armure des ennemis et des bâtiments que vous attaquez, afin de les réduire en cendres encore plus rapidement !",
+				"abyssal_blade":"Abyssal blade vous permet d'augmenter vos dommages de façon significative et vous apporte un contrôle supplémentaire. Utilisez son actif sur les cibles qui disposent d'une immunité magique afin de les empêcher de fuir.",
+				"heavens_halberd":"Un très bon item pour contrer un hardcarry qui vous ferait trop de dégâts."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_feast",
+			"2":"life_stealer_open_wounds",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_rage",
+			"5":"life_stealer_feast",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_feast",
+			"8":"life_stealer_rage",
+			"9":"life_stealer_rage",
+			"10":"life_stealer_rage",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_open_wounds",
+			"13":"life_stealer_open_wounds",
+			"14":"life_stealer_open_wounds",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"life_stealer_rage":"Une immunité magique très utile qui augmente votre attaque speed. A utiliser pour éviter les sorts ennemis ou lorsque vous voulez maximisez votre dps.",
+				"life_stealer_feast":"Ce passif fait de naix un excellent jungler. Plus la cible aura de points de vie, plus vous lui ferez mal et vous soignerez. En fin de partie, ce passif vous permettra de tuer n'importe quel tank en un rien de temps.
+(Ne fonctionne pas sur Roshan).",
+				"life_stealer_open_wounds":"Un très bon ralentissement qui vous aidera à gank au début de la partie. De plus chaque allié qui touchera l'ennemi ciblé se soignera, ce qui peut être très pratique lorsque vous faites roshan par exemple.
+",
+				"life_stealer_infest":"Un ultimate qui peut être utilisé offensivement en vous plaçant dans un de vos alliés (essayez de vous mettre dans un allié qui a une bonne mobilité) Défensivement il vous permettra de vous cacher dans un creep."
+		}
+	}
+}

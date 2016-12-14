@@ -1,0 +1,119 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"SKILL MAGI: how to skilshot in pubs",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"force_staff",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"orchid",
+				"ancient_janggo",
+				"ward_observer",
+				"pipe",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"blink",
+				"bloodstone",
+				"soul_ring",
+				"veil_of_discord",
+				"ghost",
+				"cyclone",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"does your team lack an iniciator? are you having decent farm because you went solo or your lanemate left early to gank or you got some kills?
+this is the item for you. nothing scares the enemy more than a sudden skill magi out of nowhere. dont iniciate on 5 tough, its \"catch the lonely one\" and 4vs5",
+				"stout_shield":"as a melee support, you may suffer a lot of harrass from jealous unskilled enemies",
+				"branches":"most cost efficient item in the game, always fill your inventory with it when you already got the other items",
+				"magic_wand":"is your unskilled noob enemy spamming their spells?
+do you want health and mana?
+then this is the item you want. buy it against trigger happy enemies and use it on clutch moments for a quick heal or when you are missing some mana for that last skillstun that gets your carry the kill.",
+				"ghost":"their have 4 carries and you went into the late game, you buy this. it will save you and let you survive to use that mek or pipe you bought, and use your skills on the enemies.",
+				"flask":"regen to keep you alive in lane, you cant get exp for those lvls on your spells if you dont stay in lane.",
+				"ward_observer":"no matter how skilled you are, you will most likely be a support, so buy these. its cheap and it can grant you kills/ save you from deaths",
+				"tango":"dont you hate trees? they just stand there looking, so when ever you are missing some hp go and DEVOUR THEM",
+				"mekansm":"get this or pipe, depending on what the other supports do. the actives and the auras can make you completly dominate the teamfights, or turn around the ones you are losing. ",
+				"pipe":"get this or mek, depending on what the other supports do. the actives and the auras can make you completly dominate the teamfights, or turn around the ones you are losing. ",
+				"orchid":"what if there was an item that could give skill magi all he wants and more? a silence, more damage on his skillshots,mana and mana regen, and attack speed and damage to go along with its BLOOOOOOOODLUUUUUUUUUST.
+also its great to stop unskilled enemy casters that just rape your team with big ults",
+				"cyclone":"always good to have one. get it if you arent doing too well or if your skillmates arent getting it. it gives you mana and mana regen, so you cant say it doesnt fit you. remember to NEVER use it on the enemy you want to focus, but rather on the enemy that can turn the tides.",
+				"force_staff":"Even in your infinite amounts of skill, ogre magi lacks good movility, other than the \"not so amazing\" movement speed buff on BLOOOOOOOD LUUUUUUUSTT
+so you get this not only to escape from bad situations, but to get in range for your skilshots.
+use it on not so skilled allies that need it too.",
+				"necronomicon":"you need pushing skills? there you go. in lvl 3 those little demons pack quite a punch, and i belive you can BLOOOOOOODLUUUUUUUST them.",
+				"ultimate_scepter":"DO NOT GET THIS EARLY. in your infinite desire of more skill you might think this is great early game, but it isnt. unrefined fireblast takes a LOT of mana, and its really only good when you have enough mana regen to use it on a constant basis.",
+				"bloodstone":"this will be rare to get unless it goes for too long and you get some kills. but honestly, its amazing on skillmaster magi. of course if you are losing go for something more cheap, dont tell your team you arent buying wards because you are getting a bloodstone.",
+				"soul_ring":"ogre magi has a decent str gain, so if you are looking to be trigger happy you could try this. its a pretty decent item. dont spam it too much tough, you cant skill if you have 100 hp and they kill you by touching you.",
+				"arcane_boots":"those skillshots cost a LOT of mana early, and well, always. mana boots arent honestly really good when it comes to mana regen, but since you are a support, to be able to give mana to your allies with your skill mana boots is important.",
+				"ancient_janggo":"every team should have this. ask your skillmates if they are making it, and remember to activate it on chase scenes and when pushing a tower with creeps. a quick tip is that to recharge it you need to buy a new recipe.",
+				"veil_of_discord":"the ropes of your ancestors. its a bit expensive but its quite good if your team is spell heavy. really underrated."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_ignite",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_multicast",
+			"10":"ogre_magi_bloodlust",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"your most imporant skillshot. it does good damage, it stuns and with your ult it can do that 4 times in a row with a single cast.
+you obviously need to be tremendously skilled to use this ability, so practice with it. also chooisng the correct target is an art, that can change the tide of the fight",
+				"ogre_magi_ignite":"awesome slow with damage included, when you get your ult you can throw it further away and it will have AoE instead of being single target. dont undervalue this skill, as its amazing in teamfights and chases.
+always try to hit more than one enemy with it.",
+				"ogre_magi_bloodlust":"amazing steroid for all your allies, since it can multicast too. great for pushing too, since you can cast it on necronomicon demons and on siege units.
+FUCK TOWERS.",
+				"ogre_magi_unrefined_fireblast":"COSTS A LOT OF MANA. be wise when you want to use it.",
+				"ogre_magi_multicast":"the base of all your skill. in this skill guide i dont level it up until level 9 because it adds quite the mana to the  fireblast, and its usually better when you actually can actually spam with the reduced cooldowns. its also viable to get on lvl 6 instead of slow if you find yourself fine in mana."
+		}
+	}
+}

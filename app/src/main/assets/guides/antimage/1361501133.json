@@ -1,0 +1,87 @@
+{
+	"Hero":"antimage",
+	"Title":"[DMX] Antimage (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"vanguard",
+				"manta",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"butterfly",
+				"heart",
+				"abyssal_blade",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bfury",
+				"vladmir",
+				"black_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"antimage_blink",
+			"2":"antimage_mana_break",
+			"3":"antimage_blink",
+			"4":"antimage_mana_break",
+			"5":"antimage_blink",
+			"6":"antimage_mana_void",
+			"7":"antimage_blink",
+			"8":"antimage_mana_break",
+			"9":"antimage_mana_break",
+			"10":"antimage_spell_shield",
+			"11":"antimage_mana_void",
+			"12":"antimage_spell_shield",
+			"13":"antimage_spell_shield",
+			"14":"antimage_spell_shield",
+			"15":"attribute_bonus",
+			"16":"antimage_mana_void",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"antimage_mana_break":"Le sort qui fait de vous un dps monstrueux, vu votre vitesse d'attaque vous aurez vite fait de bruler tout le mana de votre cible. ",
+				"antimage_blink":"Votre sort d'escape. un très faible cooldown qui vous permet de pouvoir farmer très safe partout sur la carte.",
+				"antimage_spell_shield":"Vous êtes l'antimage, ce bouclier en est la preuve, car il réduira drastiquement tous les dégâts des sorts ennemis.",
+				"antimage_mana_void":"Un très bon ultimate à utiliser en finisher lorsque vous avez brulé tout le mana d'un ennemi."
+		}
+	}
+}

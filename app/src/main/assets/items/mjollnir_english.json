@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 24 Damage<br/>+ 80 Attack Speed<br/>CHANCE TO CHAIN: 25%<br/>CHAIN DAMAGE: 150",
+  "cd": 35.0,
+  "components": [
+    "hyperstone",
+    "maelstrom"
+  ],
+  "qual": "artifact",
+  "notes": "Static Charge cannot trigger more than one per second.Static Charge\u0027s lightning deals 200 magical damage, the damage source and secondary targets cannot be more than 900 range away, the 3 targets hit must be in a cone with 125 starting radius, 475 distance and 300 final radius.",
+  "desc": "Active: Static Charge - Places a charged shield on a target unit<br/>Passive: Chain Lightning - Grants a chance to release Chain Lighting on attack, dealing damage to multiple targets.<br/><br/>Mjollnir is a Unique Attack Modifier that stacks with other Unique Attack Modifiers, but overrides them when Chain Lightning occurs.",
+  "dname": "Mjollnir",
+  "dotaId": "mjollnir",
+  "mc": 50.0,
+  "img": "mjollnir_lg.png",
+  "lore": "Thor\u0027s magical hammer, made for him by the dwarves Brok and Eitri.",
+  "id": 158,
+  "created": true,
+  "cost": 5700
+}

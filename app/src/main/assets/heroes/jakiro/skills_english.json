@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Dual Breath",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "An icy blast followed by a wave of fire launches out in a path in front of Jakiro. The ice slows enemies, while the fire delivers damage over time.",
+        "notes": "Can hit units up to 1000 range away.<br/>Has a 0.3 second interval between each breath.",
+        "dmg": "",
+        "attrib": "START RADIUS: <b><font color=\"#ffffff\">200/200/200/200</font></b><br/>END RADIUS: <b><font color=\"#ffffff\">250/250/250/250</font></b><br/>BURN DAMAGE: <b><font color=\"#ffffff\">16/36/56/76</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">28%/32%/36%/40%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">28/32/36/40</font></b><br/>DURATION: <b><font color=\"#ffffff\">5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 135/140/155/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "Pyrexae dragons have tremendously dangerous breath for each branch of the species; combining them is unimaginable.",
+        "hurl": "Jakiro",
+        "name": "jakiro_dual_breath",
+        "youtube":"TF0T7EZuxqU",
+        "id": 0
+    },
+    {
+        "dname": "Ice Path",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Creates a path of ice that stuns and damages enemies that touch it.",
+        "notes": "It takes 0.5 seconds for the path to reach its full extent.",
+        "dmg": "",
+        "attrib": "FORMATION DELAY: <b><font color=\"#ffffff\">0.5</font></b><br/>DURATION: <b><font color=\"#ffffff\">1/1.4/1.8/2.2</font></b><br/>RADIUS: <b><font color=\"#ffffff\">150</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">50</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/11/10/9",
+        "lore": "Jakiro\u0027s cunning right head calls upon its frozen heritage, glazing the earth with blistering cold.",
+        "hurl": "Jakiro",
+        "name": "jakiro_ice_path",
+        "youtube":"opuYKyouxJk",
+        "id": 1
+    },
+    {
+        "dname": "Liquid Fire",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Auto-Cast, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Jakiro burns his enemies in an area of effect with fire added to his attack, while slowing their attacks.<br/>Liquid Fire is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+        "notes": "Works on both units and buildings.",
+        "dmg": "",
+        "attrib": "ATTACK SLOW: <b><font color=\"#ffffff\">20/30/40/50</font></b><br/>RADIUS: <b><font color=\"#ffffff\">300/300/300/300</font></b><br/>BURN DAMAGE: <b><font color=\"#ffffff\">12/16/20/24</font></b><br/>DURATION: <b><font color=\"#ffffff\">5/5/5/5</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/15/10/4",
+        "lore": "The left maw of Jakiro opens, laying waste to any in its path.",
+        "hurl": "Jakiro",
+        "name": "jakiro_liquid_fire",
+        "youtube":"cdBmGuFveks",
+        "id": 2
+    },
+    {
+        "dname": "Macropyre",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Jakiro exhales a wide line of lasting flames, which deals damage per second to any enemy units caught in the fire.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Macropyre destroys trees in its path.",
+        "dmg": "",
+        "attrib": "DAMAGE PER SECOND: <b><font color=\"#ffffff\">100/140/180</font></b><br/>FLAME LENGTH: <b><font color=\"#ffffff\">900</font></b><br/>FLAME WIDTH: <b><font color=\"#ffffff\">240</font></b><br/>DURATION: <b><font color=\"#ffffff\">10</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE PER SECOND:</font></b> <b><font color=\"#ffffff\">125/175/225</font></b><br/><font color=\"#6fe871\">SCEPTER FLAME LENGTH:</font></b> <b><font color=\"#ffffff\">1800</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">20</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 220/330/440<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60",
+        "lore": "Ice and fire combine to rip the battlefield to shreds with extreme temperatures.",
+        "hurl": "Jakiro",
+        "name": "jakiro_macropyre",
+        "youtube":"RWGgjf-GEy4",
+        "id": 3
+    }
+]

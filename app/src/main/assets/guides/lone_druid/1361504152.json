@@ -1,0 +1,88 @@
+{
+	"Hero":"lone_druid",
+	"Title":"[DMX] Lone Druid - Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"boots"
+			],
+			"coreItems":
+			[
+				"radiance",
+				"phase_boots",
+				"tpscroll",
+				"orb_of_venom"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"pipe",
+				"desolator",
+				"abyssal_blade",
+				"butterfly",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"hand_of_midas",
+				"hand_of_midas",
+				"vladmir",
+				"mjollnir",
+				"skadi"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lone_druid_spirit_bear",
+			"2":"lone_druid_synergy",
+			"3":"lone_druid_spirit_bear",
+			"4":"lone_druid_synergy",
+			"5":"lone_druid_spirit_bear",
+			"6":"lone_druid_true_form",
+			"7":"lone_druid_spirit_bear",
+			"8":"lone_druid_synergy",
+			"9":"lone_druid_synergy",
+			"10":"lone_druid_rabid",
+			"11":"lone_druid_true_form",
+			"12":"lone_druid_rabid",
+			"13":"lone_druid_rabid",
+			"14":"lone_druid_rabid",
+			"15":"attribute_bonus",
+			"16":"lone_druid_true_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lone_druid_spirit_bear":"Votre compagnon pour la vie ! Il tankera pour vous et infligera de bon dégâts.",
+				"lone_druid_rabid":"Vous permet de courir à une vitesse très correcte et d'avoir une excellente attaque speed, de plus son cooldown fait que vous pouvez l'avoir toujours activé.",
+				"lone_druid_synergy":"Buffera grandement votre ours !",
+				"lone_druid_true_form":"Vous permet de tanker beaucoup plus, par contre vous perdrez un peu de vitesse de déplacement."
+		}
+	}
+}

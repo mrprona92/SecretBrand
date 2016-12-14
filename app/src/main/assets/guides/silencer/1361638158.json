@@ -1,0 +1,108 @@
+{
+	"Hero":"silencer",
+	"Title":"6.82 - Standard Silencer (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"orchid",
+				"refresher"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"shivas_guard",
+				"ultimate_scepter",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"The attack speed and extra Intelligence is what you want. Treads is the best boots throughout the game in comparison to the other two.",
+				"mekansm":"Mekansm is a supportive item for Silencer where he is desperate for armour and healing ",
+				"sheepstick":"If looking for long-term items to further disable your opponent, consider this.",
+				"orchid":"Orchid Malevolence is a bit redundant on Silencer but can great if you want to start carrying as it offers attack speed and amplifies Silencer's Damage.",
+				"force_staff":"Escape or engage better with Force Staff. Since you are a bit tanky, it isn't always needed.",
+				"ultimate_scepter":"Curse of the Silence should be maxed by the time you get this important item.",
+				"refresher":"Refresher allows for longer silences and to dismiss any invulnerabilities your opponent may have. Initiate with your ultimate and re-silence when foes activate BKB or Manta Style.  Depending how you want to play Silencer, Refresher's Orb takes a backseat to some other items Silencer may need.",
+				"assault":"Silencer late into the game has incredible damage but unsupportive attack speed. This item should help your main carry and Silencer whip out massive damage.",
+				"black_king_bar":"If you find yourself being the damage-dealer, Black King Bar can ensure you maintain that title.",
+				"bloodstone":"If carrying, pick this item to snowball out of control.",
+				"ancient_janggo":"Sometimes the extra speed and life is great. However, Silencer has a great str. gain and this may not be necessary.",
+				"rod_of_atos":"More intelligence, more health, a long-range slow. What more could you want?"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_last_word",
+			"2":"silencer_glaives_of_wisdom",
+			"3":"silencer_last_word",
+			"4":"silencer_curse_of_the_silent",
+			"5":"silencer_last_word",
+			"6":"silencer_global_silence",
+			"7":"silencer_last_word",
+			"8":"silencer_curse_of_the_silent",
+			"9":"silencer_curse_of_the_silent",
+			"10":"silencer_curse_of_the_silent",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_glaives_of_wisdom",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"silencer_curse_of_the_silent":"Curse of the Silent is also an incredible ability and should be considered max if your opponent's team has very expensive mana spells, it forces them to use up their mana at inconvenient times, making your farm all the more safe.",
+				"silencer_glaives_of_wisdom":"We delay this because of its dependency on intelligence and how low your intelligence is at the initial start of the game. During the laning phase, your harassment tools are superior.",
+				"silencer_last_word":"Harass with this, at level 1 it deals incredible damage, forces opponents to use an ability or otherwise become disarmed.",
+				"silencer_global_silence":"It's better to use this early than too late. Even if you're not in the fight, prevent ganks or fleeing foes from casting abilities with your ultimate."
+		}
+	}
+}

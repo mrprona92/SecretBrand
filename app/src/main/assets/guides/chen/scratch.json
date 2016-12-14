@@ -1,0 +1,112 @@
+{
+	"Hero":"chen",
+	"Title":"Chen - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"courier",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"buckler",
+				"boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"arcane_boots"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"vladmir",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"blade_mail",
+				"ghost"
+			],
+			"De Support":
+			[
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			],
+			"Necromicon lvl 3":
+			[
+				"necronomicon",
+				"necronomicon_2",
+				"necronomicon_3"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Para hacer el Anillo de Basilus",
+				"ward_observer":"Siempre tiene que haber wards en el mapa. Si alguien los compra tu compra courier y si te sobra oro unos sentry o smoke",
+				"courier":"Compra courier y wards y pide al otro support que compre sentry wards.",
+				"mekansm":"Muy util para curar a tu equipo, ayudar a pushear, etc.",
+				"vladmir":"Puedes hacerlo a partir de tu Anillo de Basilus anterior",
+				"flying_courier":"Upgrade your team's courier as fast as possible.",
+				"buckler":"Con este item y el Anillo de Basilus ya podeis pushear torres, para este momento ya tendras la capacidad de usar 2 creeps. Activalo junto a tus aliados y derriba alguna torre si es posible.",
+				"necronomicon":"Mas creeps que controlar pero son buenisimos, tanquean, pushean, etc. Si lo crees oportuno mejoralo mas de nivel.",
+				"ultimate_scepter":"Te permite usar constantemente tu ultimate y es buenisimo para ayudar a aliados, pushear, curar tus creeps etc",
+				"blade_mail":"Si te focusean mucho puede ser una opcion.",
+				"helm_of_the_dominator":"Although the lifesteal and dmg dont have so much use, the one extra creep which you can control with it can improve your overall performance since you mostly rely on your controlled units early game.",
+				"arcane_boots":"Si vas muy bien de farm o crees que ayudaria a tu equipo porque consumen mucho maná o nadie mas tiene botas de maná, compralas.",
+				"smoke_of_deceit":"Para gankear junto a tus creeps a la safe lane, roshan, etc"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_test_of_faith",
+			"4":"chen_holy_persuasion",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chen_penitence":"Usalo sobre objetivos prioritarios en las teamfights y para gankear a los que escapan.",
+				"chen_test_of_faith":"Usalo para quitar mucho daño de una vez en ganks,etc. Cuando tengas tu Q combinalo lanzando tu Q y luego esta habilidad para hacer mas daño.",
+				"chen_holy_persuasion":"Intenta coger siempre los creeps mas grandes de los campamentos.",
+				"chen_hand_of_god":"Tienes que usarla con cuidado hasta tener el Aghanim. Curas a todos los aliados."
+		}
+	}
+}

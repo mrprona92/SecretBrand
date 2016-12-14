@@ -1,0 +1,112 @@
+{
+	"Hero":"queenofpain",
+	"Title":"Detailed Guide to Queen of Pain (QOP)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_wand",
+				"boots",
+				"point_booster"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"ward_observer",
+				"arcane_boots",
+				"soul_booster",
+				"bloodstone",
+				"oblivion_staff",
+				"orchid",
+				"sheepstick",
+				"shivas_guard",
+				"sphere",
+				"black_king_bar",
+				"desolator",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"The most cost efficient item in the game. Grab a handful of these to make last hitting slightly easier as well as giving you health to survive those early encounters. Component of Magic Wand. Save the rest of your gold to purchase a quick Bottle.",
+				"boots":"Basic boot. The movement speed granted from this should suffice until after purchasing a component of a mid game item (Point Booster, Oblivion Staff, etc.) Upgrade to either Power Treads or Arcane Boots.",
+				"magic_wand":"With max charges, this item is effectively a Point Booster, allowing you to survive early and mid game encounters. It can also give you enough mana to cast that crucial last spell to finish an opponent off.",
+				"flask":"Basic healing consumable. You need to have one of these to make sure you can stay in lane and get levels.",
+				"bottle":"A must for any mid lane solo. Make sure you use all your charges before bottling a rune as it will replenish the charges. Whenever you are sitting in the well, make sure you spam this to regenerate health and mana quicker. Observer Wards (Situational Items) will help you gain rune control.",
+				"ward_observer":"If no one on your team is buying Observer Wards, you may want to purchase some of your own to scout the rune spots. Rune control can swing momentum into your favor by providing you powerful buffs such as Invisibility while also refilling your Bottle, allowing you to stay active on the map.",
+				"tango":"Basic healing consumable. You need to have these to make sure you can stay in lane and get levels. I suggest using these prior to using your Healing Salve as their effectiveness decreases as the game drags on.",
+				"point_booster":"If your game has gone well so far and your farm is good, you can purchase this before finishing Power Treads. Component of Aghanim's Scepter.",
+				"power_treads":"Boot of choice for Queen of Pain. The bonus attack speed synergizes well with Shadow Strike's slow, allowing you to get extra attacks in during a gank. I suggest keeping the selected attribute on strength at least until finishing a mid game item (Aghanim's, Orchid Malevolence, Bloodstone, etc.)",
+				"oblivion_staff":"Solid early to mid game option if you want to acquire Orchid Malevolence. Oblivion Staff boosts your damage, attack speed, and mana regen.",
+				"sheepstick":"Strong late game option. Provides Queen of Pain with a seemingly endless mana pool, respectable damage, and a powerful active ability Hex to give you some form of crowd control.",
+				"orchid":"An alternative mid game option that provides significant damage, attack speed, and mana regeneration. The active ability Soul Burn is useful for ganking casters as well as stealth heroes (Clinkz, Bounty Hunter, etc.) The bonus damage from Soul Burn synergizes well with your skill set.",
+				"ultimate_scepter":"Significantly reduces the cooldown and increases the damage of Sonic Wave. Also provides Queen of Pain with a good amount of health and mana. Other options are Orchid Malevolence or Bloodstone, both pictured in  the Situational Items section of the guide.",
+				"black_king_bar":"Black King Bar (BKB) is useful if you are constantly being targeted by enemy spell casters. The stats don't provide Queen of Pain with very much besides health, but the active ability Avatar will allow you to last throughout dragged out team fights.",
+				"shivas_guard":"Provides a significant amount of armor, an aura that will reduce enemy attack speed, and an active ability Arctic Blast that deals decent magical damage as well as slowing enemies. A strong choice if survivability is an issue.",
+				"bloodstone":"Solid mid to late game option. Provides exceptional health, mana, and regeneration. Purchase Acane Boots then disassemble them and use the Energy Booster to build Soul Booster. With enough stacks of Bloodpact, your respawn can become instant after dying.",
+				"sphere":"Provides incredible survivability on top of significant mana regeneration. Spellblock allows Queen of Pain to Blink in more aggressively.",
+				"soul_booster":"A good mid game option if you want to rush Bloodstone. I would suggest purchasing the Point Booster first followed by Vitality Booster. Purchase this before Perseverance.",
+				"monkey_king_bar":"A more expensive option than Desolator, but Monkey King Bar (MKB) provides significant burst damage. True Strike will prevent your physical attacks from missing and Mini-Bash will interrupt channeled abilities while also dealing a decent amount of damage.",
+				"desolator":"A solid mid to late game option if physical damage is something you are looking to increase. Allows Queen of Pain to be able to constantly dish out significant damage in between her spell cooldowns. Arguably the best Unique Attack Modifier (UAM) when compared to Mjollnir and Eye of Skadi.",
+				"arcane_boots":"A better boot than Power Treads if you want to get a quick Bloodstone. These boots can be disassembled and the Energy Booster used to create Soul Booster. Additionally, in conjunction with Bottle, Replenish Mana will help you manage your mana during the mid game."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_blink",
+			"2":"queenofpain_shadow_strike",
+			"3":"queenofpain_shadow_strike",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_shadow_strike",
+			"6":"queenofpain_scream_of_pain",
+			"7":"queenofpain_shadow_strike",
+			"8":"queenofpain_scream_of_pain",
+			"9":"queenofpain_scream_of_pain",
+			"10":"queenofpain_sonic_wave",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_blink",
+			"13":"queenofpain_blink",
+			"14":"queenofpain_blink",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Shadow Strike is arguably the best form of harassment in the game. Deals initial damage followed by damage over time while also slowing the target, allowing you to get attacks in. Early ranks in this will help you win the lane and force your opponent to use any regeneration he brought to the lane.",
+				"queenofpain_blink":"Range increases per level while cooldown decreases. One rank of this to survive any level 1 ganks is crucial. We can rank this up later after our other spells are more potent.",
+				"queenofpain_scream_of_pain":"Deals significant damage, but the mana cost increases with each subsequent rank. The cooldown is very short, making it useful not only for ganking but for quickly farming creep waves once your mana problems are solved.",
+				"queenofpain_sonic_wave":"Now that you are higher level, you have a high enough mana pool to effectively use Sonic Wave. The blast travels a huge distance in a cone shape. Try hitting multiple opponents with Sonic Wave during a team fight.",
+				"attribute_bonus":"Once all your other abilities are max rank, there's no other option but Attribute Bonus."
+		}
+	}
+}

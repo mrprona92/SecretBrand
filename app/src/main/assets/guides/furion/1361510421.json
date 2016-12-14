@@ -1,0 +1,102 @@
+{
+	"Hero":"furion",
+	"Title":"[DMX] Nature's Prophet - Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Fin de jeu":
+			[
+				"sheepstick",
+				"desolator",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"necronomicon",
+				"mekansm",
+				"medallion_of_courage",
+				"hand_of_midas",
+				"ultimate_scepter",
+				"orchid",
+				"mjollnir",
+				"manta",
+				"greater_crit",
+				"assault",
+				"shivas_guard",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"furion_force_of_nature",
+			"2":"furion_teleportation",
+			"3":"furion_force_of_nature",
+			"4":"furion_sprout",
+			"5":"furion_teleportation",
+			"6":"furion_wrath_of_nature",
+			"7":"furion_teleportation",
+			"8":"furion_teleportation",
+			"9":"furion_sprout",
+			"10":"furion_force_of_nature",
+			"11":"furion_wrath_of_nature",
+			"12":"furion_force_of_nature",
+			"13":"furion_sprout",
+			"14":"furion_sprout",
+			"15":"attribute_bonus",
+			"16":"furion_wrath_of_nature",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"furion_sprout":"Très bon sort de contrôle si les adversaires n'ont pas d'escape.
+Attention à ne pas vous enfermer avec votre adversaire !
+Vous pouvez également mettre ce sort sur vous pour profiter du fog of war et vous téléporter en sureté.",
+				"furion_teleportation":"Un sort qui vous donne une mobilité extrème, ce qui vous donne la possibilité de gank, de push très facilement.
+GANKEZ les autres lanes et aidez vos alliés grâce à ce sort !",
+				"furion_force_of_nature":"Permet de faire les woods assez facilement, vos invocations vous donneront du dps supplémentaire et tankeront pour vous.
+Plus tard dans la game, ce sort vous aidera à push ou à faire le roshan.
+N'hésitez pas à faire votre sprout pour créer les tréants s'il n'y a pas d'arbres à proximité.",
+				"furion_wrath_of_nature":"Un ultimate global qui fait de plus en plus de dégâts à chaque rebond. Vous pouvez l'utiliser pour dépush à l'autre bout de la carte mais cet ulti fait aussi de très bon dégâts en teamfight.
+Cliquez sur la minimap loin de l'endroit du teamfight pour que les derniers rebonds arrivent sur les héros."
+		}
+	}
+}

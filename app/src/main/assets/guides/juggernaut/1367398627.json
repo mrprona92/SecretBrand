@@ -1,0 +1,71 @@
+{
+	"Hero":"juggernaut",
+	"Title":"GreyShark.Juggernaut",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"quelling_blade",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"phase_boots",
+				"pers"
+			],
+			"Mid Game":
+			[
+				"bfury",
+				"desolator",
+				"sange_and_yasha"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"ultimate_scepter",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"juggernaut_blade_dance",
+			"3":"juggernaut_blade_fury",
+			"4":"juggernaut_blade_dance",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_healing_ward",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_healing_ward",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_healing_ward",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

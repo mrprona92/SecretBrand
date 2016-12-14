@@ -1,0 +1,132 @@
+{
+	"Hero":"lycan",
+	"Title":"The Flawless Lycan Jungle Build (Updated)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"quelling_blade"
+			],
+			"Alternative Starting Items":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"lifesteal",
+				"boots",
+				"belt_of_strength"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"power_treads",
+				"basher",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"necronomicon",
+				"heart",
+				"abyssal_blade",
+				"desolator",
+				"assault",
+				"monkey_king_bar",
+				"travel_boots",
+				"satanic",
+				"helm_of_the_dominator"
+			],
+			"Extra":
+			[
+				"smoke_of_deceit",
+				"tpscroll",
+				"ward_sentry",
+				"ward_observer",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Kill Creeps faster",
+				"stout_shield":"Helps you survive in jungle",
+				"belt_of_strength":"A belt can be purchased first after you finish vlads. Get these before boots because you wont really need boots with your ultimate up",
+				"lifesteal":"This should be bought right after ring of basilus. Once you get this item, you are pretty much safe in the jungle. Always tank for your wolves with this item ",
+				"gem":"For those pesky invisible heros ",
+				"ward_observer":"If nobody is warding, someone has to",
+				"ward_sentry":"If even smoke isnt enough for rosh",
+				"tango":"Tank for your wolves early game with these",
+				"tpscroll":"Try to carry at least 1 of these with you after finishing at least 1 core item. Map control is key",
+				"travel_boots":"For backdooring and splitpushing later in the game ",
+				"power_treads":"Keep them on Strength. As soon as you get either this item or medallion, go for Roshan Solo",
+				"hand_of_midas":" VERY situational, get this only if you are very far behind for some reason and need to catch up",
+				"vladmir":"Rush this item on Lycan because it gives Aura lifesteal for your wolves and armour. Also allows you to solo roshan easily with power treads or Medallion. Basically, with this item, you can jungle forever without stopping",
+				"ring_of_basilius":"You can either start with this item so you can have a bit extra mana regen, base armour, and finish vlads faster, but i find that with the quelling blade + stout shield start you kill camps faster and take less damage. If you are running the stout + qblade starting build, get this right after.",
+				"necronomicon":"With this item, you can split push like a monster since it synergizes with your Howl (increased Damage), Feral Impulse (Increased Attack speed and Damage), AND your Ultimate (by giving them Max Movespeed). The Necromonicon warriors, combined with you and your wolves, shred through towers very fast",
+				"assault":"Another amazing item on Lycan as it gives aoe enemy armour reduction and armour + attack speed for you and your wolves. Once you build this item and a heart, you will become very durable, not to mention deal a hell of a lot more damage",
+				"heart":"The Ultimate tank item. Gives lycan a decent amount of damage as well since he is a strength hero.
+",
+				"black_king_bar":"Stuns are effective on lycan, after getting BKB you will become an almost unstoppable force with your ultimate active as well. This is key for escaping, and reaching the squishies in teamfights. Depending on the enemy team heros, this could be your first core item after Vlads",
+				"monkey_king_bar":"For when going up against those annoying heros with dodge, such as phantom assassin",
+				"basher":"You must have this item because lycan has no built in ability to slow or stun enemies. Basher can later be built into abyssal. If the enemy team doesnt have too much crowd control, get this item straight after Vlads.",
+				"satanic":"Amazingly, this item and Helm of the dominator STACK with vlads! Gives you some amazing stats and not to mention an awesome active. Lifesteal OP",
+				"helm_of_the_dominator":"A Great item for Lycan, awesome for both splitpushing and overall damage.
+
+You can use it on a Hellbear for the AOE slows, or a Centaur for the nice stun, but i prefer the Big crit Wolf because his passive gives you extra damage AND you hear a cool quote from lycan when you dominate it :)",
+				"desolator":"Rush this item if you are really far ahead, and want to absolutely destroy the enemies, and their towers :)",
+				"medallion_of_courage":"This item is great for shredding squishies and roshan , but isnt necessarily Core on lycan. Gives a bit of mana regen too",
+				"smoke_of_deceit":"For going into Rosh undetected",
+				"abyssal_blade":"Upgrade from basher if wanted. Gives bonus stats for lycan, and a strong 2 second stun that goes through magic immunity... awesome!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_summon_wolves",
+			"8":"lycan_feral_impulse",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lycan_summon_wolves":"You want to tank for your wolves early game until you reach at least level 4. Max this skill out first. Remember to micro your wolves, dont let them die.
+",
+				"lycan_howl":"Great skill for such a low mana cost. Gives damage buffs to all heros on your team for a decent duration, and all units under your teams control. Synergizes really well with heros that can spawn their own minions such as Natures prophet. Not leveled until a but later in the game though",
+				"lycan_feral_impulse":"Buffs you and all units you control. Max this second.",
+				"lycan_shapeshift":"Gives you attack speed, crit, max move speed, more vision, health, and the immunity to all slows for an 18 second duration. use this for an easy escape, or an easy kill(s) :P"
+		}
+	}
+}

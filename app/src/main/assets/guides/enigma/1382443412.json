@@ -1,0 +1,92 @@
+{
+	"Hero":"enigma",
+	"Title":"Jungler Enigma",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"black_king_bar",
+				"blink",
+				"arcane_boots"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"radiance",
+				"bloodstone",
+				"pipe",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Быстрое отступление и инициация не помешает",
+				"mekansm":"Вы прежде всего сапорт и этот артефакт будет полезен команде",
+				"pipe":"Собирать если в команде противника много магического урона",
+				"ultimate_scepter":"Если хороший фарм и игра идёт в вашу пользу покупайте или если против вас противники с большим колличеством хп, сжигает по процентам, а не по хп",
+				"black_king_bar":"Против большинства станов и магий, что бы не сбили блекхоул",
+				"bloodstone":"Если не умираете первым и постоянно в гуще событий",
+				"radiance":"Если противники с малым колличеством хп"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_malefice",
+			"8":"enigma_demonic_conversion",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"enigma_midnight_pulse",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"attribute_bonus",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_demonic_conversion":"Основной скил для леса, делает из крипов Эйдолонов, не действует на древних крипов",
+				"enigma_midnight_pulse":"Используйте постоянно перед блекхоулом если против вас противники с большим колличеством хп, сжигает по процентам, а не по хп",
+				"enigma_black_hole":"Самый главный скил Энигмы, включаете БКБ-Блинк Дагер-Блекхоул. Использовать надо точно, так как кулдаун большой"
+		}
+	}
+}

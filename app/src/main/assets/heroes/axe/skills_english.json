@@ -1,0 +1,59 @@
+[
+    {
+        "dname": "Berserker\u0027s Call",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Axe taunts nearby enemy units, forcing them to attack him, while he gains bonus armor during the duration.",
+        "notes": "Affects units with spell immunity.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">300</font></b><br/>BONUS ARMOR: <b><font color=\"#ffffff\">40</font></b><br/>DURATION: <b><font color=\"#ffffff\">2/2.4/2.8/3.2</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/90/100/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16/14/12/10",
+        "lore": "Mogul Khan\u0027s warcry taunts opponents into engaging in an unconquerable battle with the Axe.",
+        "hurl": "Axe",
+        "name": "axe_berserkers_call",
+        "youtube":"EYSMC12J9vw",
+        "id": 0
+    },
+    {
+
+        "dname": "Battle Hunger",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Enrages an enemy unit, causing it to be slowed and take damage over time until it kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger.",
+        "notes": "Destroying buildings will also remove the debuff.<br/>Units affected by Battle Hunger cannot be denied.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">16/24/32/40</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">10</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">12%</font></b><br/>SPEED BONUS: <b><font color=\"#ffffff\">12%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/15/10/5",
+        "lore": "Ordinary heroes cannot withstand Mogul Khan\u0027s rage for battle, such that it injures them until it is satisfied.",
+        "hurl": "Axe",
+        "name": "axe_battle_hunger",
+        "youtube":"1Xmzu79iaX0",
+        "id": 1
+    },
+    {
+        "dname": "Counter Helix",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "When attacked, Axe performs a helix counter attack, dealing damage to all nearby enemies.",
+        "notes": "Counter Helix triggers when the attack hits.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/135/170/205</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">275</font></b><br/>CHANCE TO HELIX: <b><font color=\"#ffffff\">20%</font></b>",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 0.45/0.40/0.35/0.30",
+        "lore": "Axe is the only reinforcement this army needs.",
+        "hurl": "Axe",
+        "name": "axe_counter_helix",
+        "youtube":"vSvMgF_gAqo",
+        "id": 2
+    },
+    {
+        "dname": "Culling Blade",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Axe spots a weakness and strikes, instantly killing an enemy unit with low health, or dealing moderate damage otherwise. When an enemy hero is killed with Culling Blade, its cooldown is reset, and Axe and nearby allied units gain bonus movement speed.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "KILL THRESHOLD: <b><font color=\"#ffffff\">250/325/400</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">150/250/300</font></b><br/>KILL MOVE SPEED BONUS: <b><font color=\"#ffffff\">30%</font></b><br/>KILL ATTACK SPEED BONUS: <b><font color=\"#ffffff\">30</font></b><br/>KILL SPEED DURATION: <b><font color=\"#ffffff\">6</font></b><br/>KILL SPEED RADIUS: <b><font color=\"#ffffff\">900</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">6/6/6</font></b><br/><font color=\"#6fe871\">SCEPTER KILL THRESHOLD:</font></b> <b><font color=\"#ffffff\">300/425/550</font></b><br/><font color=\"#6fe871\">SCEPTER SPEED DURATION:</font></b> <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/120/180<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/65/55",
+        "lore": "Mogul Khan is the embodiment of battle and fury, launching into a gruesome fatality against those who dare engage the Axe in combat.",
+        "hurl": "Axe",
+        "name": "axe_culling_blade",
+        "youtube":"iSkNp5ty7xI",
+        "id": 3
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "dotaId": "assault",
+  "id": 112,
+  "img": "assault_lg.png",
+  "dname": "Assault Cuirass",
+  "qual": "epic",
+  "cost": 5250,
+  "desc": "Passive: Assault Aura - Grants attack speed and armor to nearby allied units, and decreases the armor of nearby enemies.<br/><br/>Multiple instances of Assault Aura do not stack.",
+  "notes": "",
+  "attrib": "+ 35 Attack Speed<br/>+ 10 Armor<br/>AURA ATTACK SPEED: 20<br/>AURA ALLY BONUS ARMOR: 5<br/>AURA ENEMY ARMOR REDUCTION: 5",
+  "mc": false,
+  "cd": false,
+  "lore": "Forged in the depths of the nether reaches, this hellish mail provides an army with increased armor and attack speed.",
+  "components": [
+    "platemail",
+    "hyperstone",
+    "chainmail"
+  ],
+  "created": true
+}

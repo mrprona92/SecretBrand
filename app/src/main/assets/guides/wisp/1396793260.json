@@ -1,0 +1,96 @@
+{
+	"Hero":"wisp",
+	"Title":"GreyShark.IO (Wisp)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"Early Game":
+			[
+				"urn_of_shadows",
+				"tranquil_boots",
+				"mekansm"
+			],
+			"Mid Game":
+			[
+				"pipe"
+			],
+			"Late Game":
+			[
+				"heart",
+				"sheepstick"
+			],
+			"Situation":
+			[
+				"ancient_janggo",
+				"travel_boots",
+				"medallion_of_courage",
+				"vladmir",
+				"invis_sword",
+				"shivas_guard"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"В глубочайшем лейте можно собрать чтобы всегда быть с тимой",
+				"mekansm":"Ну тут думаю всё ясно, много брони, аура, лечение",
+				"vladmir":"Если у вашего кери нет места чтобы собрать вампиризм, можно сделать, аура и немного статов",
+				"pipe":"Повышается выживаемость, много регена, помогает в замесах",
+				"urn_of_shadows":"Дает реген маны и немного силы. Самое главное очень много регена ХП на ирли и мид гейме. Можно хилить себя и привязаться к союзнику и лечение будет одинаковое у обоих !",
+				"sheepstick":"Много статов и лишний дизейбл !",
+				"heart":"Во первых висп силач, даст много урона, хотя он нам не нужен, лечение с тараски передается по тизеру нашему союзнику ! ",
+				"shivas_guard":"АОЕ дамаг, замедление, много брони всё что нужно !",
+				"invis_sword":"Есть один акулий секрет, привязывается тизеров и уходить в инвиз, иногда очень полезно и необычно. Опять такие предмет по ситуации, можете попробывать",
+				"ancient_janggo":"Можно сделать вместо урны",
+				"medallion_of_courage":"Неплохой арт, если вы привязаны всегда к сильному дамагеру, будет гораздо проще убивать",
+				"tranquil_boots":"Из за того что у виспа очень мало брони и любое лечение передается по тизеру, то транквилы наш выбор, тем более нам нужно всегда быть с нашим союзником и не уходить на базу, с транквилами будет легче."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_spirits",
+			"4":"wisp_tether",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_overcharge",
+			"9":"wisp_tether",
+			"10":"wisp_tether",
+			"11":"wisp_relocate",
+			"12":"wisp_overcharge",
+			"13":"wisp_overcharge",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

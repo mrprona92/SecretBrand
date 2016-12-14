@@ -1,0 +1,90 @@
+{
+	"Hero":"omniknight",
+	"Title":"OmniLove Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"courier",
+				"clarity",
+				"clarity",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"ward_observer"
+			],
+			"Situational items":
+			[
+				"cyclone",
+				"pipe",
+				"sheepstick",
+				"rod_of_atos",
+				"assault",
+				"shivas_guard",
+				"blade_mail",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"Early manapots = you being able to play more offensively or letting your carry go more agressively.",
+				"ward_observer":"Get wards if the other support doesn`t or if you're the only support.",
+				"courier":"If someone else bought the courier, take wards or a strength bracelet.",
+				"soul_ring":"The bread and butter item of Omni. Also good for baiting enemy to think you are out of mana, and then -Healing and harm!-"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_repel",
+			"2":"omniknight_purification",
+			"3":"omniknight_purification",
+			"4":"omniknight_repel",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_degen_aura",
+			"9":"omniknight_repel",
+			"10":"omniknight_repel",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_degen_aura",
+			"13":"omniknight_degen_aura",
+			"14":"omniknight_degen_aura",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"omniknight_purification":"Both heal and harm. Use it on melee champs in close combat to damage enemies or yourself if harassing. Also, you can use it on friendly creeps to damage melee champions trying to last hit. Max it first for lane sustain.",
+				"omniknight_repel":"A must to prevent early stun-ganks on the lane. And if the enemy team has a lot of crowd control use this on your initiator or carry; a free Black King Bar. Max it second, unless they have a massive crowd control team.",
+				"omniknight_degen_aura":"Stay close to enemy heroes trying to exit ganks with low hp so the carry can catch up and snatch a kill. Or initiate with your -W- and then run up to the enemy/enemies and keep them slowed until your team reaches them.",
+				"omniknight_guardian_angel":"A skill not to be wasted. Save it for teamfights or if needing to backdoor a tower and you lack the tankiness for it."
+		}
+	}
+}

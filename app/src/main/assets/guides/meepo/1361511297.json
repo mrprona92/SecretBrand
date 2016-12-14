@@ -1,0 +1,95 @@
+{
+	"Hero":"meepo",
+	"Title":"Meepwn The Geomancer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"ring_of_protection",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ancient_janggo",
+				"tranquil_boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"vladmir",
+				"mekansm",
+				"blink",
+				"ultimate_scepter"
+			],
+			"Late game items":
+			[
+				"travel_boots",
+				"assault"
+			],
+			"Situational":
+			[
+				"medallion_of_courage",
+				"invis_sword",
+				"pipe",
+				"necronomicon",
+				"cyclone",
+				"desolator",
+				"manta",
+				"heart",
+				"orchid",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Buy only if you have good micro. If you dont, buy Shadow Blade.",
+				"vladmir":"MUST HAVE in my opinion. Very useful lifesteal aura.",
+				"pipe":"Take it if your enemies have nukers.",
+				"necronomicon":"Takes out invisible enemies.",
+				"ultimate_scepter":"MUST HAVE! Gives you 5th Meepo and 100% stats for clones.",
+				"invis_sword":"Replacement of Blink Dagger."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_geostrike",
+			"3":"meepo_poof",
+			"4":"meepo_poof",
+			"5":"meepo_poof",
+			"6":"meepo_divided_we_stand",
+			"7":"meepo_poof",
+			"8":"meepo_earthbind",
+			"9":"meepo_earthbind",
+			"10":"meepo_earthbind",
+			"11":"meepo_divided_we_stand",
+			"12":"meepo_geostrike",
+			"13":"meepo_geostrike",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"meepo_divided_we_stand",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"Hero":"treant",
+	"Title":"Rooftrellen: The Ultimate Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"clarity",
+				"stout_shield",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"headdress",
+				"bracer",
+				"ring_of_basilius"
+			],
+			"Mid Game":
+			[
+				"arcane_boots",
+				"mekansm",
+				"blink",
+				"ancient_janggo"
+			],
+			"Late Game":
+			[
+				"heart",
+				"assault",
+				"refresher"
+			],
+			"luxury":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"pipe",
+				"vladmir",
+				"heavens_halberd",
+				"shivas_guard",
+				"black_king_bar",
+				"vanguard",
+				"radiance"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"treant_natures_guise",
+			"2":"treant_living_armor",
+			"3":"treant_living_armor",
+			"4":"treant_leech_seed",
+			"5":"treant_living_armor",
+			"6":"treant_overgrowth",
+			"7":"treant_living_armor",
+			"8":"treant_natures_guise",
+			"9":"treant_natures_guise",
+			"10":"treant_natures_guise",
+			"11":"treant_overgrowth",
+			"12":"treant_leech_seed",
+			"13":"treant_leech_seed",
+			"14":"treant_leech_seed",
+			"15":"attribute_bonus",
+			"16":"treant_overgrowth",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,115 @@
+{
+	"Hero":"axe",
+	"Title":"Jungler initiator",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_health",
+				"vanguard",
+				"hood_of_defiance",
+				"arcane_boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"blade_mail",
+				"bloodstone"
+			],
+			"Situational":
+			[
+				"heart",
+				"heavens_halberd",
+				"shivas_guard",
+				"assault",
+				"pipe",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Farm it up before going into team fights.",
+				"ring_of_protection":"Lowers dmg while farming in the forest and goes into tranquil boots later. The main reason why you want ring or protection and not ring or regan is because this one cannot be bought in the side shop.",
+				"stout_shield":"Lowers dmg while grinding and goes into vanguard later.",
+				"boots":"Used to get mana boots, later on get boots of travel.",
+				"gem":"If no support wants to buy one... well gz you're buying it.",
+				"talisman_of_evasion":"The evasion makes you more tanky. Don't worry spin to win still works even if you evade first.",
+				"tango":"8 tangos will keep you alive until you get a ring of health.",
+				"travel_boots":"Get boots of travel after the core if you have a natures prophet or some other pusher. If they have no pusher, get boots after you get 1 situational item.",
+				"ring_of_health":"Buy the ring of health as soon as you can fom the side shop. Upgrade afterwards into a vanguard or a hood.",
+				"void_stone":"Bloodstone tips: Void stone ->  Ring of Health -> Point Booster -> Vitality Booster -> disassemble mana boots for Energy Booster",
+				"energy_booster":"Use for mana boots, later on use it for a bloodstone.",
+				"point_booster":"Bloodstone tips: Void stone ->  Ring of Health -> Point Booster -> Vitality Booster -> disassemble mana boots for Energy Booster",
+				"vitality_booster":"Bloodstone tips: Void stone ->  Ring of Health -> Point Booster -> Vitality Booster -> disassemble mana boots for Energy Booster",
+				"pers":"Bloodstone tips: Void stone ->  Ring of Health -> Point Booster -> Vitality Booster -> disassemble mana boots for Energy Booster",
+				"pipe":"If you already have a hood, feel free to upgrade it.",
+				"ultimate_scepter":"This is an initiator build, not a ganking build. Getting an aghanim is too expensive and does not help you tank. Get this if you have already won the game and your just having fun.",
+				"assault":"If no one on your team has one and they have 3 or more carry/semicarrys, get a AC. The bonus attack speed won't realy help your dmg, so you only get this if no one else has one.",
+				"heart":"If you're not sure what to get later on, just buy a heart.",
+				"black_king_bar":"Not realy needed since you should be initiating the fights. But if you have the core and dislike dying, well go ahead and grab it.",
+				"shivas_guard":"If they have 3 or more carry/semi-carrys (right clickers) get this. The pasive aura will hurt their dmg. Cast it after you cast everything else.",
+				"bloodstone":"Solve HP and mana problems, heals other around when you die (which you most likely will after an initiate because everyone follows in too late) and reduces respwan time.",
+				"sphere":"If there are 0 carry/semicarrys (rigthclickers) you can get this instead of a bloodstone. That shouldn't ever happen, but hey pugs are fun places.",
+				"vanguard":"If they have 3 or more meleers buy a vanguard.
+
+DON'T buy BOTH a vanguard and a hood. (If you're not sure, get a vanguard)",
+				"blade_mail":"Gives you more chance to survive an initiate.",
+				"soul_booster":"Bloodstone tips: Void stone ->  Ring of Health -> Point Booster -> Vitality Booster -> disassemble mana boots for Energy Booster",
+				"hood_of_defiance":"If they have 3 or more magic nukers buy a hood.
+
+DON'T buy BOTH a vanguard and a hood. (If you're not sure, get a vanguard)",
+				"bfury":"No. Your dmg sucks. Getting more cleave will not help since you're a sucky rightclicker. Just focus on starting a good teamfight and turning your HP into dmg.",
+				"invis_sword":"You can get a shadow blade instead of a blinker if your newer to the game and still not good with blinking. I wouldn't recommend it. It costs more is a worse item then the blinker and you need to learn to use blink to be a good initiator.",
+				"arcane_boots":"Disassemble later for Bloodstone.",
+				"rod_of_atos":"If you are reading the tooltip for this item, I would like to ask you if you are crazy or not? In other words, great item for axe if you're crazy. Requires a certain amount of skill and timing to be used to gank. Get this instead of a blademail. How to use it, you'll learn with time.",
+				"heavens_halberd":"If they have 1 carry, get this. Click to disarm and win team fights. The evasion makes you more tanky. Don't worry spin to win still works even if you evade first.",
+				"tranquil_boots":"Costs 800 gold with this build, can be bought in the side shop, so as soon as you have 800 gold, go get them.
+
+Pop them when you're running to a new camp."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_counter_helix",
+			"4":"axe_berserkers_call",
+			"5":"axe_counter_helix",
+			"6":"axe_culling_blade",
+			"7":"axe_counter_helix",
+			"8":"axe_berserkers_call",
+			"9":"axe_berserkers_call",
+			"10":"axe_berserkers_call",
+			"11":"axe_culling_blade",
+			"12":"axe_battle_hunger",
+			"13":"axe_battle_hunger",
+			"14":"axe_battle_hunger",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

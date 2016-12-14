@@ -1,0 +1,102 @@
+{
+	"Hero":"shredder",
+	"Title":"6.82 - Standard Timbersaw (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"power_treads",
+				"black_king_bar",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"ultimate_scepter",
+				"heart",
+				"sheepstick"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"platemail":"First item that should be on Timbersaw when building into Shiva's Guard.",
+				"power_treads":"Follow up with these boots after making Bloodstone.",
+				"ultimate_scepter":"The second Chakram is incredible but may drain more mana then you can manage. Definitely be wary of how you are doing overall before considering a second Aghanim's Scepter.",
+				"black_king_bar":"Nothing is more annyoing than being prevented from spamming your abilities. Definitely consider it if the circumstances rings true above.",
+				"shivas_guard":"Shiva's Guard is the next great item for Timbersaw as he welcomes the mana, suffers from low armor and puts a damper on fleeing enemies with its active.",
+				"bloodstone":"This is so core that it should be a separate section. Without this, you will not have the mana to survive in battle and spam your abilities, ultimately bringing though your utility.",
+				"arcane_boots":"Be sure to disassemble your boots to make Bloodstone quicker.",
+				"ancient_janggo":"Though not necessary, if you find yourself having trouble reaching Bloodstone or needed in team fights early, get Drums of Endurance to bolster your team.",
+				"heavens_halberd":"The evasion and the disability on physical carries makes Heaven's Halberd a good item under special circumstances."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_whirling_death",
+			"3":"shredder_reactive_armor",
+			"4":"shredder_timber_chain",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Consider Whriling Death both as a debuff and as a damage-dealer. This works great alongside Timber Chain. Get in close to your opponent with Timber Chain and follow it up with Whirling Death. Your ultimate should help keep your opponents still to keep using those two abilities.",
+				"shredder_timber_chain":"Timber Chain is your Escape and ability to move quickly in team-fights. With it's low cooldown, incredible range and great damage. This ability works wonders to deal the necessary hurt you need.",
+				"shredder_reactive_armor":"Reactive Armor is a great tool for tanking creeps and farming while also keeping you alive in battle. We are only getting one level early on to max out Timber Chain since you will not be hit more than a few times (so more stacks is pointless since it can't be reached)",
+				"shredder_chakram":"Chakram is a great way to control of the battle and keep your opponents at bay or keep them from running. If doing solid with your Blood Stone, you can keep this on for long periods of time as most of your damage comes from your abilities, not your attacks."
+		}
+	}
+}

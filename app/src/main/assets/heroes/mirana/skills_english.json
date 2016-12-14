@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Starstorm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Calls down a wave of meteors to damage nearby enemy units. The closesest enemy unit to Mirana in a 325 radius will be struck a second time for 75% of the damage.",
+        "notes": "Starstorm is not blocked by Linken\u0027s Sphere.<br/>Starstorm cannot hit invisible units.<br/>Starstorm will choose a new target for the second star if the first died before impact.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">625</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/120/140/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "The Goddess breaks the strata to empower her Princess in the time of need.",
+        "hurl": "Mirana",
+        "name": "mirana_starfall",
+        "youtube":"d1FZp9axctE",
+        "id": 0
+    },
+    {
+        "dname": "Sacred Arrow",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Fires an long-range arrow with deadly precision, which stuns and damages the first enemy unit it strikes. The stun duration ranges from 0.01 to 5 seconds, with bonus damage up to 140 added, based on the distance the arrow travels to its target.",
+        "notes": "For every 150 distance the arrow travels, the stun duration upon impact increases by 0.5 seconds, and the bonus damage added increases by 14.<br/>Sacred Arrow can hit invisible units.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">50/140/230/320</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">3000</font></b><br/>MINIMUM STUN: <b><font color=\"#ffffff\">0.01</font></b><br/>MAXIMUM STUN: <b><font color=\"#ffffff\">5</font></b><br/>MAXIMUM BONUS DAMAGE: <b><font color=\"#ffffff\">140</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 17",
+        "lore": "Lunar energies make the Princess of the Moon\u0027s arrows more deadly than most.",
+        "hurl": "Mirana",
+        "name": "mirana_arrow",
+        "youtube":"BG-WZoCv3PA",
+        "id": 1
+    },
+    {
+        "dname": "Leap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Mirana leaps forward into battle, empowering allied units with a ferocious roar that grants bonus attack and movement speed. Speed bonus lasts 10 seconds.",
+        "notes": "You can use Leap to dodge incoming projectiles.",
+        "dmg": "",
+        "attrib": "DISTANCE: <b><font color=\"#ffffff\">600/700/800/900</font></b><br/>MOVEMENT BONUS: <b><font color=\"#ffffff\">4%/8%/12%/16%</font></b><br/>ATTACK SPEED BONUS: <b><font color=\"#ffffff\">8/16/24/32</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 40/35/30/20<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/26/22/18",
+        "lore": "Both friend and foe alike recognize Mirana\u0027s iconic white beast in the heat of battle.",
+        "hurl": "Mirana",
+        "name": "mirana_leap",
+        "youtube":"gB6cL5h6DgI",
+        "id": 2
+    },
+    {
+        "dname": "Moonlight Shadow",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Turns Mirana and all allied heroes invisible. If a hero is revealed, invisibility will restore after the fade delay as long as Moonlight Shadow\u0027s duration has not expired.",
+        "notes": "Units affected will not auto attack enemies.<br/>Spell Immune allies will be affected.",
+        "dmg": "",
+        "attrib": "FADE DELAY: <b><font color=\"#ffffff\">2.5/2/1.5</font></b><br/>DURATION: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/120/100",
+        "lore": "Her tenure with Selemene allows Mirana to eclipse the ground, wrapping her allies in a cloak of shadows.",
+        "hurl": "Mirana",
+        "name": "mirana_invis",
+        "youtube":"FjieOflgUg0",
+        "id": 3
+    }
+]

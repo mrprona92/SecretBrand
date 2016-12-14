@@ -1,0 +1,19 @@
+{
+  "dotaId": "octarine_core",
+  "id": 235,
+  "img": "octarine_core_lg.png",
+  "dname": "Octarine Core",
+  "qual": "rare",
+  "cost": 5900,
+  "desc": "Passive: Cooldown Reduction - Reduces the cooldown time of all spells and items by 25%.<br/><br/>Passive: Spell Lifesteal - A percentage of damage caused by spells is returned to the caster as health.",
+  "notes": "",
+  "attrib": "+ 25 Intelligence<br/>+ 450 Health<br/>+ 400 Mana<br/>+ 4 HP Regeneration<br/>+ 100% Mana Regeneration<br/>COOLDOWN REDUCTION: 25%<br/>HERO SPELL LIFESTEAL: 25%<br/>CREEP SPELL LIFESTEAL: 5%",
+  "mc": false,
+  "cd": false,
+  "lore": "At the core of spellcraft are spectrums only the very gifted can sense.",
+  "components": [
+    "mystic_staff",
+    "soul_booster"
+  ],
+  "created": true
+}

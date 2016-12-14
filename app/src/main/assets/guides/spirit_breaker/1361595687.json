@@ -1,0 +1,106 @@
+{
+	"Hero":"spirit_breaker",
+	"Title":"6.82 - Standard Spirit Breaker (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"urn_of_shadows",
+				"armlet",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"monkey_king_bar",
+				"greater_crit",
+				"butterfly",
+				"heart"
+			],
+			"Last updated: 3/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"urn_of_shadows":"Make ganking more effective and more desirable with Urn of Shadows. Finish off foes you couldn't with your ultimate via Urn of Shadows.",
+				"assault":"After your core, you open up a variety of options including helping out the main carry with this aura-giving item! Very handy to keep you alive as well.",
+				"black_king_bar":"As you are usually the frontrunner in engagements, keep up the damage output and chance to bash with this.",
+				"monkey_king_bar":"Knock down foes who are dodge physical attacks like Void and Phantom Assassin with this item.",
+				"armlet":"Another good item to help with your attack power and speed. Consider this if you need help with the damage and additional health.",
+				"mask_of_madness":"Mask of Madness is to increase your attack speed and cause Greater Bash to occur (more attacks, more likelihood of it occurring). ",
+				"ancient_janggo":"This will add to your damage given the extra movement speed and Spirit Breaker's passive.",
+				"heavens_halberd":"Get this item to disable other threatening physical carry heroes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spirit_breaker_charge_of_darkness",
+			"2":"spirit_breaker_greater_bash",
+			"3":"spirit_breaker_empowering_haste",
+			"4":"spirit_breaker_charge_of_darkness",
+			"5":"spirit_breaker_charge_of_darkness",
+			"6":"spirit_breaker_nether_strike",
+			"7":"spirit_breaker_charge_of_darkness",
+			"8":"spirit_breaker_empowering_haste",
+			"9":"spirit_breaker_empowering_haste",
+			"10":"spirit_breaker_empowering_haste",
+			"11":"spirit_breaker_nether_strike",
+			"12":"spirit_breaker_greater_bash",
+			"13":"spirit_breaker_greater_bash",
+			"14":"spirit_breaker_greater_bash",
+			"15":"attribute_bonus",
+			"16":"spirit_breaker_nether_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spirit_breaker_charge_of_darkness":"At level 1, use Charge of Darkness to escape and make your way across map. It is not meant to be used to gank until you get your ultimate. You have the choice to either max this or Empowering Haste, depending how you prefer to play this hero. After charge, you will perform your passive: Greater Bash",
+				"spirit_breaker_empowering_haste":"Empowering haste is pretty good if you want the damage over the speed of Charge of Darkness. With this maxed out after Greater Bash, you will deal more damage in single engagements.
+
+Activate this ability to increase your damage right after your hit someone with your charge.",
+				"spirit_breaker_greater_bash":"We are maxing our Greater Bash first as it is guaranteed after Charge of Darkness and thus, more damage upon each gank. Your ultimate also offers you a Greater Bash, giving you two greater bashes at level 6 and thus more bonus damage.",
+				"spirit_breaker_nether_strike":"Follow-up your Charge of Darkness with this ultimate ability to extend the stun duration. It does go through Black King Bar. However, be wary that there is a delay while casting where you will not be immune to disables."
+		}
+	}
+}

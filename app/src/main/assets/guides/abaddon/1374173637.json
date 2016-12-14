@@ -1,0 +1,94 @@
+{
+	"Hero":"abaddon",
+	"Title":"Support abbadon!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"courier",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"headdress",
+				"magic_stick",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"magic_wand",
+				"urn_of_shadows",
+				"assault",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"refresher",
+				"sphere",
+				"travel_boots",
+				"shivas_guard",
+				"orchid",
+				"cyclone",
+				"sheepstick",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"assault":"For your carries if they don't build it"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_death_coil",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_death_coil",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_aphotic_shield",
+			"8":"abaddon_death_coil",
+			"9":"abaddon_death_coil",
+			"10":"abaddon_frostmourne",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_frostmourne",
+			"13":"abaddon_frostmourne",
+			"14":"abaddon_frostmourne",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"you'll want heal and protection early game",
+				"abaddon_aphotic_shield":"you'll want heal and protection early game",
+				"abaddon_frostmourne":"very good buff and debuff"
+		}
+	}
+}

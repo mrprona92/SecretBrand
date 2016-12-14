@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/hero_row_width"
+    android:layout_height="wrap_content"
+    android:background="?attr/clickableItemBackground"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/half_view_padding"
+    android:paddingRight="@dimen/half_view_padding"
+    android:paddingTop="@dimen/half_view_padding">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/hero_row_height"
+        android:adjustViewBounds="true"
+        android:src="@drawable/default_img" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="@dimen/hero_row_text_width"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:lines="2"
+        android:text="Ancient Apparation"
+        android:textSize="@dimen/hero_row_textSize"
+        android:textStyle="bold" />
+</LinearLayout>

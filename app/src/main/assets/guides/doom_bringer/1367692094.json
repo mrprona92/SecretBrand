@@ -1,0 +1,117 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"6.82 - Standard Doom (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"stout_shield",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius"
+			],
+			"Core Items - Carry":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"invis_sword",
+				"assault",
+				"heart"
+			],
+			"Core - Ganker":
+			[
+				"arcane_boots",
+				"mekansm",
+				"blink",
+				"shivas_guard",
+				"refresher",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"vladmir",
+				"ultimate_scepter",
+				"black_king_bar",
+				"heavens_halberd"
+			],
+			"Last Updated: 17/10/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Fast Blink Dagger let's Doom get the jump on an opponent and prevent him and tear him down before they can sufficiently get away.",
+				"hand_of_midas":"Since you're jungling, your farm will be slower, but much more safe. Rushing Midas will be your way to compensate.",
+				"mekansm":"Coordinated teams may want to get this before Blink Dagger. Mekansm gives Doom a needed boost in armor and makes him a great holder for heals given he is deep in battles.",
+				"vladmir":"Vladmir's Offering gives you the aura you want during the mid-game shift. It isn't always necessary and depends how you want to play Doom.",
+				"pipe":"This item is situational depending if the team hosts a lot of magic damage-dealers. If so, this item may prove to be more useful than Mekansm.",
+				"ultimate_scepter":"Aghanim's Scepter is an incredible addition to Doom's ultimate. However it depends on your enemies' line-up. If Faceless Void is on the other team, his ultimate and passive abilities can be annoying in which Aghanim's Scepter is justified.
+
+If you want to just stop initiators, then no Aghanim's.",
+				"refresher":"Getting Refresher after Midas, Black King Bar, Blink Dagger and Shiva's Guard makes you a crazy powerhouse with insane mana. All your abilities, including your ultimate, reset!",
+				"assault":"You have the extra damage, but now you need to improve your armor and attack speed. This item fills in the weak gaps of Doom to make him a monster powerhouse",
+				"heart":"With this item, you should be reaching 4,000 health and an incredible amount of regeneration. Definitely overpowered on Doom.",
+				"black_king_bar":"If you're finding yourself the target of a lot stuns and disables, Black King Bar is the obvious choice here.",
+				"shivas_guard":"Shiva's Guard works great with Blink Dagger and your Scorched Earth. It will keep enemies in place, constantly taking damage and making you a huge menace.",
+				"radiance":"For much later in the game. Compensate for any loss of damage when going down this path with Radiance.",
+				"armlet":"Armlet serves great given its draining life issue is nullified by Doom's Scorched Earth! So you get the nice stats without any repercussions.",
+				"invis_sword":"Sneak up on unsuspecting foes near your jungle to hit them hard then Doom them. Great escape, great intiation, all terror.",
+				"arcane_boots":"Arcane Boots gives the mana Doom needs to use his ultimate as well as Mekansm. Don't forget that you are also liberated to use any neutral creep abilities you picked up!",
+				"ancient_janggo":"Drums of Endurance let's you maintain chase on foes, keeps you strong and overall contributes in fights.",
+				"abyssal_blade":"Though the damage and disabling is nice, Abyssal may not be necessary every game, especially when you Refresher Orb is available.",
+				"heavens_halberd":"Keep physical carries down with Halberd, furthering adding to the disability of your Doom. By activating your ultimate before Halberd, you prevent the enemy from dispelling the Halberd effect with Black King Bar."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_scorched_earth",
+			"9":"doom_bringer_scorched_earth",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"This will be your fastest method of farming. Max this skill first to maximize your farming potential in the forest. The two best forest creeps to eat are either the Dire Wolves (major damage increase and chance of critical strikes) or the Wildkins which give Doom the needed armor.",
+				"doom_bringer_scorched_earth":"This is how you will survive in the forest. It has a high mana cost, so try and activate it after taking some damage. This will inflict damage on foes around you similar to Radiance and also regenerate your health astronomically.",
+				"doom_bringer_lvl_death":"Because LVL? Death is maxed very late, the importance of this skill will come when you need to deal damage to your foes. It isn't your major damage-dealer, but it can end some enemies who are still in the fight and are very weak.",
+				"doom_bringer_doom":"Doom goes through everything, deciding which foe to select this ability on depends on the fight. Typically, strong nuke casters are the best, however heroes that rely on their Black King Bar to survive and dish out major damage are also ideal here!"
+		}
+	}
+}

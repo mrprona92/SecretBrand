@@ -1,0 +1,106 @@
+{
+	"Hero":"lich",
+	"Title":"6.82 - Standard Lich (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"ring_of_protection",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"mekansm"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"force_staff",
+				"veil_of_discord",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support, it is generally viewed to buy either the courier or the wards.",
+				"courier":"As a support, it is generally viewed to buy either the courier or the wards.",
+				"bracer":"Purchase bracers if needing the extra survivability.",
+				"mekansm":"Mekansm gives more armour for Lich and makes him an incredible carrier for Mekansm given his strong overall survivability and ability to stay at the rim of fights and needing few items to fight.",
+				"force_staff":"Force Staff is a great item for Lich to provide situationally positioning capabilities. Sometimes you may need to use it on yourself to run away or help allies chase after straying foes. The situation is unlimited and you need to be aware of when you can assist.",
+				"ultimate_scepter":"Aghanim's Scepter is the next logical step for Lich given it makes his ultimate unlimited bounces to make fights completely in your favour.",
+				"veil_of_discord":"As your ultimate is bouncing, cast Veil of Discord to really amplify his damage and truly cripple enemy teams. Veil of Discord can be bought before Aghanim's Scepter if you can't seem to afford it."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_frost_nova",
+			"4":"lich_dark_ritual",
+			"5":"lich_frost_nova",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_frost_armor",
+			"9":"lich_dark_ritual",
+			"10":"lich_dark_ritual",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Straight-up damage and a good slow. Use often in combination with Sacrifice to consistently have mana. This is your initaition and way to slow foes at a great range. Avoid using it near creeps so it doesn't push the lane.",
+				"lich_frost_armor":"Make sure to set this to auto-cast as it is incredible on heroes that are targeted by the enemy team. It works best on melee heroes and 50% on range. Additionally, this slow debuff stacks with your Frost Blast ability.
+
+Also can be casted on towers to prevent pushes.",
+				"lich_dark_ritual":"Be sure to use sacrifice on your own ranged creeps to prevent your lane from being pushed as hard. Using it on melee creeps returns a larger amount of mana, so alternate.
+
+Constantly use sacrifice even at full mana and for more experience for Lich.",
+				"lich_chain_frost":"Use this ultimate when there are less creeps around and more heroes. This works very well with initiators who keep foes together like Tidehunter, Engima and Dark Seer."
+		}
+	}
+}

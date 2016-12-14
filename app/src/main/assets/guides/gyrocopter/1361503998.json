@@ -1,0 +1,95 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"[DMX] Gyrocopter (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"clarity",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"wraith_band"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"invis_sword",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"butterfly",
+				"assault",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"arcane_boots",
+				"bottle",
+				"poor_mans_shield",
+				"force_staff",
+				"black_king_bar",
+				"manta",
+				"sphere",
+				"helm_of_the_dominator"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_homing_missile",
+			"2":"gyrocopter_rocket_barrage",
+			"3":"gyrocopter_rocket_barrage",
+			"4":"gyrocopter_homing_missile",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_homing_missile",
+			"9":"gyrocopter_homing_missile",
+			"10":"gyrocopter_flak_cannon",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_flak_cannon",
+			"13":"gyrocopter_flak_cannon",
+			"14":"gyrocopter_flak_cannon",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"gyrocopter_rocket_barrage":"Ce sort est votre principal nuke durant la partie, essayez le plus possible d’isoler un ennemi pour qu’il se prenne toutes les roquettes. En effet si une cible prend toutes les roquettes il recevra 330/420/510/600 dommages, ce qui est vraiment énorme !",
+				"gyrocopter_homing_missile":"Ce sort est votre seul disable, et il met assez longtemps à s’activer. Cependant il peut se lancer d’une bonne distance et lorsqu’il est parti, il est très difficile pour votre cible de le détruire. De plus il étourdit 2.5 secondes quelque soit son niveau ce qui est très pratique !",
+				"gyrocopter_flak_cannon":"Ce sort est également très utile lors des teamfights pour toucher plusieurs héros. Il peut aussi vous servir à farmer dans les bois.",
+				"gyrocopter_call_down":"Cet ultimate est très pratique pour infliger de gros dégâts de zone durant les teamfights ainsi que pour slow tous les ennemis ! De plus avec l’Agahnim’s Scepter, vous pouvez aider vos alliés depuis n’importe quel endroit !"
+		}
+	}
+}

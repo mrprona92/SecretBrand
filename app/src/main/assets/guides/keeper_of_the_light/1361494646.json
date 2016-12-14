@@ -1,0 +1,103 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"Ezalor the Super Support",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"tango",
+				"tango",
+				"branches"
+			],
+			"coreItems":
+			[
+				"ring_of_basilius",
+				"tranquil_boots",
+				"mekansm"
+			],
+			"Luxuries":
+			[
+				"vladmir",
+				"travel_boots",
+				"sheepstick",
+				"cyclone"
+			],
+			"Situational":
+			[
+				"dagon",
+				"pipe",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"\"GG\" branches always help out!",
+				"ward_observer":"When supports are played, they are the ones that get the courier and/or the wards. Later in the game, one support should buy the majority of the wards. Since Ezalor is not very item dependent, you can safely purchase these throughout the game for your team.",
+				"tango":"Getting two tangoes on KOTL rather than a Tango-Salve combo helps in the fact that you can stay in the jungle fairly safely after stacking and pulling the lanes if you are in safe lane, plus you can pass these to your lane parter. If you're in the long lane, just get a Tango-Salve.",
+				"courier":"When supports are played, they are the ones that get the courier and/or the wards. At the start, it is recommended that one support on your team buys the courier and one the wards. Be sure to look if the other support bought a courier first, however. You don't want to waste money!",
+				"travel_boots":"If your team is moving around from lane to lane frequently, Boots of Travel can be used to reduce the time wasted. They can also be used to help counter-push lanes when necessary, as Illuminate is arguably the best spell in the game for that purpose.",
+				"mekansm":"Mekansm is one of the standard purchases for any support. You should gain plenty of gold with hero kills and jungle farm by using your illuminate, and this purchase should be swift!",
+				"vladmir":"Vladimir's Offering has an aura that really helps if you have a melee carry. Many supports pick this up specifically for their carries, and if KOTL gets enough farm it would be a wise pick up since you already have the RoB required.",
+				"ring_of_basilius":"Ring of Basilius helps out your lane partner by giving them a solid 0.65 mana regen and 2 bonus armour, with an extra +1 to you. Be sure to keep it turned off unless you're pushing the lane to take a tower, however! You don't want your creeps to survive.",
+				"pipe":"Pipe of Insight is an amazing item that should be picked up by one of your heroes. If the other support is alreadying getting Mekansm, you should pick this up. Don't waste getting both Pipe and Mek on yourself, however.",
+				"sheepstick":"The Sheepstick is always a great pickup for intelligence heroes. Use it on the enemy team's important heroes in a team fight to lock them down and make the fight easier for your side!",
+				"cyclone":"Much like Scythe of Vyse, Eul's can be used to disable one of the enemy team's heroes during a team fight to make it easier on your team. However, Eul's can be used on yourself as well, and it can help you dodge attacks or spells if use correctly. Both are good picks, though!",
+				"dagon":"Almost all of KOTL's spells are utility spells, and he has no real damage output (less his Illuminate). Picking up a Dagon can help supplement this and make him much more devastating.",
+				"shivas_guard":"Shiva's Guard is normally picked up on bulkier intelligence heroes, but it's nice on any of them. Good stats and an activatable slow make it an excellent choice if you think your team could use one.",
+				"arcane_boots":"Arcane Boots, while at first are not recommended, become a good replacement for Tranquils later in the game because they lose effectiveness. Just disassemble your Tranquils and build these!",
+				"tranquil_boots":"Tranquil Boots are the best choice for KOTL because it gives him some nice HP regen (his HP pool is miniscule at that). He doesn't need Arcane Boots due to his Chakra Magic."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_illuminate",
+			"4":"keeper_of_the_light_chakra_magic",
+			"5":"keeper_of_the_light_illuminate",
+			"6":"keeper_of_the_light_chakra_magic",
+			"7":"keeper_of_the_light_illuminate",
+			"8":"keeper_of_the_light_chakra_magic",
+			"9":"keeper_of_the_light_spirit_form",
+			"10":"keeper_of_the_light_mana_leak",
+			"11":"keeper_of_the_light_spirit_form",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_mana_leak",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"Illuminate is one of the most incredible pushing and counter-pushing spells in the game. Use it to pull out some massive damage to heroes, to push lanes, or to kill camps in the jungle. Use this whenever you can during a team fight, as it packs quite a punch.",
+				"keeper_of_the_light_mana_leak":"Mana Leak is SO annoying if you are on the receiving end. It's not a reliable stun, but it can make mana or spell-dependent heroes practically useless.",
+				"keeper_of_the_light_chakra_magic":"Chakra Magic is a beautiful spell that can be used on KOTL or on his team mates. Use it when you or your team mates need mana, because it pays for itself. Be sure to not be greedy with it, too!",
+				"keeper_of_the_light_recall":"Recall can save your team mates from the brink of death or dash them right into a fight with its global cast range. Try not to mess up your team while casting it, though!",
+				"keeper_of_the_light_blinding_light":"Blinding Light can be used to knock back enemies chasing you or your team mates, bring them closer to you for a kill, or to make your enemies miss a hell of a lot. Use caution, as this can mess up kills if you're not careful!",
+				"keeper_of_the_light_spirit_form":"Spirit Form gives Ezalor two extra utility abilities that are quite useful, plus it makes it so you don't have to stand still while charing Illuminate! It's not important to max this as soon as possible, however, because Illuminate and Chakra Magic are just too useful to pass up. ",
+				"keeper_of_the_light_illuminate_end":"Let 'em have it!",
+				"keeper_of_the_light_spirit_form_illuminate":"When in Spirit Form, your Illuminate charges itself! Let 'em loose!",
+				"attribute_bonus":"Only grab stats when you can't level up your other abilities. "
+		}
+	}
+}

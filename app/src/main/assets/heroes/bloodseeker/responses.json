@@ -1,0 +1,1870 @@
+[
+  {
+    "name": "Spawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bloodseeker. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Blod_spawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am Bloodseeker. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Blod_spawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The search for blood begins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Blod_spawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I will claim first blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Blod_spawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My blade sings for blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Blod_spawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am called Bloodseeker. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Blod_spawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the Flayed Twins, I seek blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Blod_spawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I smell blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/79/Blod_spawn_08.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Moving",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Blod_move_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I go. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Blod_move_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As you wish. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Blod_move_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I smell blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Blod_move_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So it shall be. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Blod_move_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Enough hide and seek. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Blod_move_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Very well. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d1/Blod_move_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The search continues. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Blod_move_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By the Flayed ones. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4b/Blod_move_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " As the twins direct. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/72/Blod_move_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Flayed Twins guide me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Blod_move_13.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attacking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I strike. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Blod_attack_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood feud. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Blod_attack_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out for blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/68/Blod_attack_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your blood is mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Blod_attack_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I will drain you dry. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/48/Blod_attack_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the raw twins! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Blod_attack_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the Flayed ones. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Blod_attack_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood calls to blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Blod_attack_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Open your veins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Blod_attack_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hemorrhage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1c/Blod_attack_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting a Spell",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood calls! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/92/Blod_cast_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Such blood! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7c/Blod_cast_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh-he-he. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Blod_cast_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Bloodrage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bloodrage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0a/Blod_ability_blodrage_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Like the taste of blood? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Blod_ability_blodrage_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Choke! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2c/Blod_ability_blodrage_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Using Thirst",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I thirst! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Blod_ability_thirst_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I smell blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Blod_ability_thirst_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood is in the air. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Blod_ability_thirst_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heyaaaa! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Blod_ability_thirst_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Casting Rupture",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Why are you not running? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Blod_ability_rupture_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Go ahead…run. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Blod_ability_rupture_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Most fools run! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Blod_ability_rupture_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Lie down…have a cookie. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Blod_ability_rupture_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Failing to Kill a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Blod_ability_failure_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hrrrrrah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Blod_ability_failure_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Dying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I fail the Twins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Blod_death_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You have…blood on your hands. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Blod_death_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Flayed Ones…mourn me. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Blod_death_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My veins…run…dry. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Blod_death_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I bleed my last. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Blod_death_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My blood runs cold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Blod_death_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My hunt ends here. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Blod_death_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I seek no more. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Blod_death_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Flayed…alive. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/84/Blod_death_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My blood on your hands. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Blod_death_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bloodless. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/52/Blod_death_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Sangre…sagrada. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Blod_death_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heuhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Blod_death_13.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bloodbath! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Blod_ability_blodbath_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your blood is mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1d/Blod_kill_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bleeeeed! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d3/Blod_kill_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bleed out. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Blod_kill_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You feed the Flayed Twins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Blod_kill_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Flayed Ones drink your blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/32/Blod_kill_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your veins run empty. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Blod_kill_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bleed your last. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Blod_kill_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I drain you dry. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b1/Blod_kill_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I claim your blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Blod_kill_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " So much blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Blod_kill_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " He-ha-ha, blood for the twins! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Blod_kill_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-ha-ha-ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Blod_kill_12.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " New Blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Blod_respawn_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood calls for blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dd/Blod_respawn_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I seek anew! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4d/Blod_respawn_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The blood hunt continues. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Blod_respawn_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My heart beats again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Blod_respawn_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I live to fight another day! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Blod_respawn_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the Twins, I am reborn to hunt again! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Blod_respawn_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " From blood-shrouded peaks, I return. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cb/Blod_respawn_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Flayed Ones send me for blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Blod_respawn_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Don\u0027t be negative…be positive! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Blod_respawn_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, transfused! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Blod_respawn_11.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Rare",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The vital liquor of each vein I open flows to the Flayed Twins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Blod_rare_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You should be honored to bleed so that the Flayed ones may live. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Blod_rare_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " By blood oath, I am bound to the Flayed Ones. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Blod_rare_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I drift on a river of blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c3/Blod_rare_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing an Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Expensive, but worth the price. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Blod_purch_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bled my coin pouch dry. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Blod_purch_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood money well spent. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Blod_purch_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taking Aegis of the Immortal",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-huh-huh-huh-huh-huh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Blod_immort_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Immortality! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Blod_immort_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I cheat red death. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Blod_immort_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Denying",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Denied. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/72/Blod_deny_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh-uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Blod_deny_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Em-meh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Blod_deny_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " You get nothing. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Blod_deny_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Oh, no. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Blod_deny_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Uh-uh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7e/Blod_deny_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I deny you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/37/Blod_deny_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " None for you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cf/Blod_deny_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No blood for you. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Blod_deny_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh-huhhh, no. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Blod_deny_10.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Last Hitting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Blod_lasthit_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood money. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Blod_lasthit_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood-gold. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/12/Blod_lasthit_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " What\u0027s yours is mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Blod_lasthit_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Gold! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Blod_lasthit_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood to let. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Blod_lasthit_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the Twins! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Blod_lasthit_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-huh-huh-huhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Blod_lasthit_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hmuhhhhhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Blod_lasthit_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Losing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nooo! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Blod_lose_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Defeated. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3a/Blod_lose_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Blod_lose_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Winning",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Blod_win_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Victory! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Blod_win_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Flayed Ones veins run full! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Blod_win_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Bottling a Rune",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Bottled for later. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Blod_bottle_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " When the time is right. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/64/Blod_bottle_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Put this aside for now. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Blod_bottle_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Broke the blood bank. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Blod_bottle_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Haste",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Haste! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cc/Blod_haste_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood\u0027s a runner. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c5/Blod_haste_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My blood runs quick. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Blod_haste_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing Blink Dagger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hah-hah-hah-huh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Blod_blink_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Double Damage",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Double damage! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Blod_doubdam_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Twice the blood shall I shed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/91/Blod_doubdam_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Regeneration",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Regeneration! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Blod_regen_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I am renewed in a font of blood! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Blod_regen_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Illusion",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Illusion! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Blod_illus_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Blood runs in circles around you! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6a/Blod_illus_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Invisibility",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Invisibility! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Blod_invis_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Nothing shall the foe see. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Blod_invis_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The silent killer. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3e/Blod_invis_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Activating Bounty",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " For the Twins! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/24/Blod_lasthit_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Gaining a Level",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I grow stronger! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Blod_level_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I gain strength. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/30/Blod_level_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My blood runs strong. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/80/Blod_level_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My strength grows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ef/Blod_level_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Flayed Ones send me strength. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Blod_level_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " He-ha-ha-haaah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Blod_level_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " He-ha-ha-haaah. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Blod_level_07.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pain",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ohhhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Blod_pain_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ehhheh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Blod_pain_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ahhhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Blod_pain_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " dohhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Blod_pain_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " dohhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/ff/Blod_pain_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " uhhoh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Blod_pain_06.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability on Cooldown",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Blod_notyet_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4a/Blod_notyet_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Blod_notyet_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Blod_notyet_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a3/Blod_notyet_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Blod_notyet_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e2/Blod_notyet_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m not ready. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Blod_notyet_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It\u0027s not time yet. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d9/Blod_notyet_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Attempting to Use an Ability without Mana",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Blod_nomana_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Blod_nomana_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Blod_nomana_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Blod_nomana_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Blod_nomana_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Blod_nomana_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Out of mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0e/Blod_nomana_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " No mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c9/Blod_nomana_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Not enough mana. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Blod_nomana_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ehhhhrrehhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/50/Blod_anger_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ehhhrrrrrhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Blod_anger_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ehhhye. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1d/Blod_anger_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ehhhhhhhrrhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a0/Blod_anger_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " RaeauuuuH ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/85/Blod_anger_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Neuuuuuhhh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Blod_anger_06.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Happiness",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Eh-ha-ha-ha-ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0d/Blod_happy_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yeeeeessss! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Blod_happy_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Laughter",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hmm-heh-huh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Blod_laugh_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hmm-heh-heh-heh-heh-ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Blod_laugh_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh-heh-heh-heh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Blod_laugh_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-heh-heh-heh-heh-heh-heh! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7d/Blod_laugh_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huh-huh-huh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Blod_laugh_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-heh-heh-huh-huh-huh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Blod_laugh_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " He-ha-hah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/25/Blod_laugh_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-heh-hehhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Blod_laugh_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hah-hah-hah! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Blod_laugh_09.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Growling",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Snarahahuhuh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f9/Blod_growl_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heruhuhuhuhuh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Blod_growl_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hehuhhhhh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/42/Blod_growl_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Grruuhhhlheh. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Blod_growl_04.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Acknowledgment",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Hmmm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Blod_acknow_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huuhrr. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Blod_acknow_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Raaarrr. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Blod_acknow_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Breathing",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huheh-huh-eh-huh-eh-heh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Blod_breathing_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huheh-huh-eh-huh-eh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Blod_breathing_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huheh-huh-eh-huh-eh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Blod_breathing_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Huheh-huh-eh-huh-eh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6f/Blod_breathing_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " He-huh-he-huh-he-huh-he-huh-he-huh-he-huh ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Blod_breathing_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Taunting",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " It’s in the bag! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Blod_inthebag_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Shitty Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Shitty wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Blod_shitwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Crummy Wizard",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Crummy wizard! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Blod_crumwiz_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Meeting an Ally",
+    "responses": [
+      {
+        "heroes": [
+          "batrider"
+        ],
+        "items": [],
+        "title": " Ah, Batrider, we shall boil their blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/31/Blod_ally_01.mp3"
+      },
+      {
+        "heroes": [
+          "pudge"
+        ],
+        "items": [],
+        "title": " The Twins are pleased with your work, Pudge. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Blod_ally_02.mp3"
+      },
+      {
+        "heroes": [
+          "luna"
+        ],
+        "items": [],
+        "title": " Ah, you have a reputation for bloodlust, Luna. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Blod_ally_03.mp3"
+      },
+      {
+        "heroes": [
+          "magnataur"
+        ],
+        "items": [],
+        "title": " Soak your horn in their blood, Magnataur. The Twins demand it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Blod_ally_04.mp3"
+      },
+      {
+        "heroes": [
+          "dark_seer"
+        ],
+        "items": [],
+        "title": " We will spatter the wall, Dark Seer. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Blod_ally_05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Beginning the Battle",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Over the field of battle, the smell of blood rises like a promise. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Blod_begin_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I love the smell of serum in the morning. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ee/Blod_begin_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Common Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " My drive for blood has found a donor! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Blod_drop_common_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Medium Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Yes, a treasure as fine as the rarest blood type! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f6/Blod_drop_medium_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Finding a Rare Cosmetic Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m seeing red...and it\u0027s amazing! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1a/Blod_drop_rare_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Respawning Quickly",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, blood calls to blood! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Blod_fastres_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Drawing First Blood",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " First Blood! The Twins shall not thirst for long! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Blod_first_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Purchasing a Specific Item",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, yes, scepter. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Blod_purch_scepter_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " Ah, scepter! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/14/Blod_sceptor_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "ultimate_scepter"
+        ],
+        "title": " This scepter will come as a shock to my enemies. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/30/Blod_sceptor_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "blink"
+        ],
+        "title": " Yes, this dagger shall be drenched in blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Blod_blink_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "bloodstone"
+        ],
+        "title": " I\u0027m only buying this because it has blood in it. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c3/Blod_purch_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "radiance"
+        ],
+        "title": " Radiance! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/36/Blod_items_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "butterfly"
+        ],
+        "title": " Butterfly! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Blod_items_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "butterfly"
+        ],
+        "title": " Blooderfly! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Blod_items_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "desolator"
+        ],
+        "title": " Desolator! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Blod_items_04.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "satanic"
+        ],
+        "title": " Satanic! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6b/Blod_items_05.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "sphere"
+        ],
+        "title": " Linken\u0027s Sphere! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Blod_items_06.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "black_king_bar"
+        ],
+        "title": " Black King Bar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/75/Blod_items_07.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "black_king_bar"
+        ],
+        "title": " Blood King Bar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fb/Blod_items_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "greater_crit"
+        ],
+        "title": " Daedalus! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Blod_items_08.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "monkey_king_bar"
+        ],
+        "title": " Monkey King Bar! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1d/Blod_items_09.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "sange_and_yasha"
+        ],
+        "title": " Sange and Yasha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/2/23/Blod_items_10.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "assault"
+        ],
+        "title": " Assault Cuirass! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Blod_items_11.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [
+          "heart"
+        ],
+        "title": " Heart of Tarrasque! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9d/Blod_items_12.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Calling a Missing Hero",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing top! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5f/Blod_missing_lane_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing middle! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d8/Blod_missing_lane_02.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Missing bottom! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/cd/Blod_missing_lane_03.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Killing a Rival",
+    "responses": [
+      {
+        "heroes": [
+          "life_stealer"
+        ],
+        "items": [],
+        "title": " Heh,Your blood was a prisoner begging me to set it free. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Blod_rival_01.mp3"
+      },
+      {
+        "heroes": [
+          "batrider"
+        ],
+        "items": [],
+        "title": " Let the seas run red. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Blod_rival_02.mp3"
+      },
+      {
+        "heroes": [
+          "morphling"
+        ],
+        "items": [],
+        "title": " Heeeh, blood in the water. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7a/Blod_killmorph_01.mp3"
+      },
+      {
+        "heroes": [
+          "tidehunter"
+        ],
+        "items": [],
+        "title": " I\u0027ll spill from you an ocean of blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f5/Blod_rival_03.mp3"
+      },
+      {
+        "heroes": [
+          "brewmaster"
+        ],
+        "items": [],
+        "title": " This blood must be one hundred eighty proof! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b8/Blod_rival_04.mp3"
+      },
+      {
+        "heroes": [
+          "brewmaster"
+        ],
+        "items": [],
+        "title": " The Twins shall grow drunk on this one\u0027s blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Blod_rival_05.mp3"
+      },
+      {
+        "heroes": [
+          "brewmaster"
+        ],
+        "items": [],
+        "title": " To drink from this one\u0027s blood is to risk blindness. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Blod_rival_06.mp3"
+      },
+      {
+        "heroes": [
+          "brewmaster"
+        ],
+        "items": [],
+        "title": " The Twins shall drink your blood and eat the worm. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fc/Blod_rival_07.mp3"
+      },
+      {
+        "heroes": [
+          "invoker"
+        ],
+        "items": [],
+        "title": " Invoker\u0027s blood has a sour taste indeed. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/d/de/Blod_rival_08.mp3"
+      },
+      {
+        "heroes": [
+          "invoker"
+        ],
+        "items": [],
+        "title": " Drink from Invoker and the Flayed Ones pucker. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/6/69/Blod_rival_09.mp3"
+      },
+      {
+        "heroes": [
+          "enchantress"
+        ],
+        "items": [],
+        "title": " Hung by your hooves, your blood shall fill the sacred gutters. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Blod_rival_10.mp3"
+      },
+      {
+        "heroes": [
+          "omniknight"
+        ],
+        "items": [],
+        "title": " My gods demand your god\u0027s sacrifice. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/80/Blod_rival_11.mp3"
+      },
+      {
+        "heroes": [
+          "chen"
+        ],
+        "items": [],
+        "title": " The god who drinks no blood deserves no worshipers. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a1/Blod_rival_12.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, what bloodless Wisp is this? ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Blod_rival_13.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Ah, there is no blood in this. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Blod_rival_14.mp3"
+      },
+      {
+        "heroes": [
+          "obsidian_destroyer"
+        ],
+        "items": [],
+        "title": " My blades can scarcely bleed this one, but still the essence flows. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/97/Blod_rival_15.mp3"
+      },
+      {
+        "heroes": [
+          "undying"
+        ],
+        "items": [],
+        "title": " Even rancid blood pleases the Twins. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f8/Blod_rival_16.mp3"
+      },
+      {
+        "heroes": [
+          "brewmaster"
+        ],
+        "items": [],
+        "title": " I think that one had some blood in his alcohol stream. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5d/Blod_rival_17.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Thanking",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Deepest thanks. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e7/Blod_thanks_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " The Flayed Ones keep you safe. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Blod_thanks_02.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Coming Under Attack",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I\u0027m under attack! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Blod_underattack_01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Unused",
+    "responses": [
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Heh-ha-huh-huh-ha! ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bf/Blod_ability_blodbath_01.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " Your power is mine. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Blod_ability_blodbath_03.mp3"
+      },
+      {
+        "heroes": [],
+        "items": [],
+        "title": " I bathe in your blood. ",
+        "url": "http://hydra-media.cursecdn.com/dota2.gamepedia.com/9/95/Blod_ability_blodbath_04.mp3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+{
+	"Hero":"beastmaster",
+	"Title":"Mid Beastmaster is Bestmaster",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"gem",
+				"urn_of_shadows",
+				"arcane_boots",
+				"ancient_janggo",
+				"necronomicon",
+				"ultimate_scepter",
+				"blink",
+				"pipe",
+				"travel_boots"
+			],
+			"Luxuries":
+			[
+				"assault",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink is a great item if picked up early on BM, particularly if your team lacks initiation.  Get blink dagger if you need to be the one initiating fights and killing heroes instantly, like panda brewmaster or juggernaut.",
+				"stout_shield":"Massively reduces damage from ranged heroes.  Is excellent with BM's large health pool
+",
+				"branches":"LOVELY STATS!",
+				"boots":"Should be your next item after bottle.",
+				"gem":"Beastmaster is one of the best gem holders in the game, even extremely early.  Only pick this up if you specifically want to control the entire map from mid game onwards and have a plan for it.
+
+To deward safely with gem, simply use his bird to scout the cliffs and his boar to kill the ward. ",
+				"magic_wand":"Gives BM the burst hp and mana regen which he desperately needs as an early - mid game ganker.",
+				"flask":"Always a good 'just in case' item to recover from a gank or heavy harass damage.",
+				"bottle":"As a mid hero, BM benefits greatly from a bottle.  ",
+				"tango":"Essential to recover from harass until you get your bottle.  Use them freely.",
+				"travel_boots":"Post haste deserves special mention because you can tp to your bird and boar with them.  Always worth considering late game or if you get insane earlygame farm.  Your skills lend themselves to teamfighting more than split pushing though, so only get this after considering your teams plan.",
+				"power_treads":"Treads allow you to get the most regen out of your bottle through tread switching.  Consider arcane boots if one of your supports aren't getting them. ",
+				"mekansm":"BM can get a mekanism up really quickly to benefit the team.  If you don't know what to get, mek is fantastic all round - you can't go wrong with it.  BM's item build is extremely situational though.",
+				"pipe":"Pipe is great against heavy magic damage teams.  Although not an optimal item for beastmaster, its ok on him if you're the only logical hero to carry it.",
+				"urn_of_shadows":"BM makes use of both the mana regen and the burst heal from urn.  Purchase it if you're very active on the map and are securing kills.",
+				"sheepstick":"Sheepstick is always a good pickup lategame, and as a utility hero you might be the one to pick it up.  The disable is fantastic against pretty much everything.  Don't prioiritise this over cheaper items though - its more important to make an impact early than to have no items until 30 minutes.",
+				"necronomicon":"Necro Book is one of the best items for BM to pick up.  It offers excellent mid game prowess, pushing ability, raw dps and synergy with his abilities (attack speed aura and roar).
+
+This is a great pickup against invisible heroes or heroes dependent on small mana pools like tiny or CK.",
+				"ultimate_scepter":"Aghanim's Scepter increases the range of BM's ult to a whopping 950, making it the perfect counter initiation against heroes such as Enigma or Bane Elemental.  Pick up this item when you need to able to interrupt channeling abilities or lock down extremely mobile heroes such as anti mage or weaver",
+				"assault":"AC is a good lategame item for BM since it will increase the effectiveness of pushing and provide additional dps for your entire team.  ",
+				"arcane_boots":"Arcane's are a viable alternative to treads that provide more sustain but less burst damage.  A decent choice if you're not controlling runes and your supports aren't also going arcanes.",
+				"ancient_janggo":"Drums is a good all round item, but it may delay BM's other core ones.  Pick up drums if your team needs the chasing ability it provides because of pesky heroes like clinkz.",
+				"smoke_of_deceit":"Absolutely essential for any early game ganker.  Having a smoke will make it far easier to gank through lanes and keep your opponents guessing where you are and what you're doing.  While supports can pick these up as well, a smoke in base -> tp to lane can lead to easy kills with roar."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_call_of_the_wild",
+			"4":"beastmaster_wild_axes",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"Axes are your main source of damage early on.  Max axes to get the most use out of them.  They have a huge range and do mixed damage, meaning it goes through magic immunity.  They can also clear trees, making them an excellent anti-juking tool.  ",
+				"beastmaster_call_of_the_wild":"Your boar provides an excellent movement speed and attack speed slow that goes through magic immunity.  It has a small hp pool though, so make sure to micro it constantly to avoid damage.
+
+Your bird is a moving ward with huge sight range.  Position it over trees to help keep it alive.",
+				"beastmaster_inner_beast":"Your aura provides extra dps for your team through better attack speed.  Its best left for lategame since the return in dps will be much higher.  Consider getting it earlier if you're running a heavy minion based strat that could benefit from the extra damage though.",
+				"beastmaster_primal_roar":"Your roar does big damage, slows nearby enemies and stuns for 4 seconds even through bkb.  This ultimate skill is best dropped on either a bkbed carry, to channel bkbd channeling abilities (enigma, bane etc.) or on a priority target to prevent key skills being cast (panda split, magnus ult). "
+		}
+	}
+}

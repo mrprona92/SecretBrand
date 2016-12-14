@@ -1,0 +1,97 @@
+{
+	"Hero":"chaos_knight",
+	"Title":"[DMX] Chaos Knight (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"ancient_janggo",
+				"armlet",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"heart",
+				"satanic",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"phase_boots",
+				"bfury",
+				"manta",
+				"diffusal_blade",
+				"sange_and_yasha"
+			]
+		},
+		"ItemTooltips":
+		{
+				"diffusal_blade":"A combiner avec manta style pour être vraiment efficace."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chaos_knight_chaos_bolt",
+			"2":"chaos_knight_reality_rift",
+			"3":"chaos_knight_chaos_bolt",
+			"4":"chaos_knight_reality_rift",
+			"5":"chaos_knight_chaos_bolt",
+			"6":"chaos_knight_reality_rift",
+			"7":"chaos_knight_chaos_bolt",
+			"8":"chaos_knight_reality_rift",
+			"9":"chaos_knight_chaos_strike",
+			"10":"chaos_knight_phantasm",
+			"11":"chaos_knight_phantasm",
+			"12":"chaos_knight_chaos_strike",
+			"13":"chaos_knight_chaos_strike",
+			"14":"chaos_knight_chaos_strike",
+			"15":"attribute_bonus",
+			"16":"chaos_knight_phantasm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"chaos_knight_chaos_bolt":"Un stun monocible pouvant étourdir très longtemps et infliger de bons dommages. Coûte cher en mana, ne le gâchez pas !",
+				"chaos_knight_reality_rift":"Un bon sort pour engager votre adversaire tout en vous donnant un bonus de dégâts. De plus vos illusions seront également téléportées.",
+				"chaos_knight_chaos_strike":"Un des critiques les plus puissants du jeu, malheureusement il a peu de chance de proc. Heureusement vos illusions ont aussi ce sort et pourront donc infliger d'énormes dégâts.",
+				"chaos_knight_phantasm":"Cet ultimate vous transforme en armée du rohan ! Vous êtes véritablement une machine à dps lorsque vos illusions sont avec vous. Essayez de focus le carry adverse !"
+		}
+	}
+}

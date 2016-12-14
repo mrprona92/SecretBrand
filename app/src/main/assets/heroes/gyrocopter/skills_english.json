@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Rocket Barrage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Launches a salvo of rockets at nearby enemy units in a radius around the Gyrocopter.  Lasts 3 seconds.",
+        "notes": "Rocket Barrage can\u0027t hit units Gyrocopter has no vision over.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">11/15/19/23</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">400</font></b><br/>ROCKETS PER SECOND: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/90/90/90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 7/6.50/6/5.50",
+        "lore": "Aurel\u0027s new craft has an increased payload for rockets, enhancing their rapid-fire capabilities.",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_rocket_barrage",
+        "youtube":"JvJK0Y94TTU",
+        "id": 0
+    },
+    {
+        "dname": "Homing Missile",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Fires a homing missile to seek the targeted enemy unit. The missile gains speed over time, dealing damage and stunning when it impacts the target.  Homing Missile deals greater damage the further it has traveled.  Enemy units can destroy the missile before it reaches its target.",
+        "notes": "Towers do half damage to the missile.<br/>The crosshair effect is visible to allies only.<br/>Maximum damage is reached when the missile is 1500 units away.<br/>The missile will follow and hit invisible units.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">125/250/375/500</font></b>",
+        "attrib": "HITS TO DESTROY: <b><font color=\"#ffffff\">3/3/4/5</font></b><br/>TOWER HITS TO DESTROY: <b><font color=\"#ffffff\">6/6/8/10</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">2.2/2.4/2.6/2.8</font></b><br/>MINIMUM DAMAGE: <b><font color=\"#ffffff\">50</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/130/140/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/17/14/11",
+        "lore": "The biggest missile Aurel could possibly attach to his craft, The Bomb&trade; has carefully calculated aerodynamics and explosives for maximum impact.",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_homing_missile",
+        "youtube":"nS_Qw-l6_OM",
+        "id": 1
+    },
+    {
+        "dname": "Flak Cannon",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Gyrocopter\u0027s attacks hit all enemy units in an area around it for a limited number of attacks.  Only the main target of attacks will receive attack bonuses such as Critical Strike.  Lasts 15 seconds or until the attacks are used.",
+        "notes": "Attack range for the primary attack is unchanged.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">1000</font></b><br/>MAX ATTACKS: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/50/50/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30",
+        "lore": "This newly revamped Gyrocopter has attached enough armaments to assault in a 360 degree radius.",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_flak_cannon",
+        "youtube":"vuAGkLLSJRE",
+        "id": 2
+    },
+    {
+        "dname": "Call Down",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Call down an aerial missile strike on enemy units in a target area.  Two missiles arrive in succession, the first dealing major damage and minor slow for 2 seconds; the second dealing minor damage and major slow for 4 seconds.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The visual indicator is visible to allies only.<br/>The slow goes through spell immunity.",
+        "dmg": "",
+        "attrib": "MISSILE ONE DAMAGE: <b><font color=\"#ffffff\">250/300/350</font></b><br/>MISSILE TWO DAMAGE: <b><font color=\"#ffffff\">100/150/200</font></b><br/>MISSILE ONE SLOW: <b><font color=\"#ffffff\">30%</font></b><br/>MISSILE TWO SLOW: <b><font color=\"#ffffff\">60%</font></b><br/>RADIUS: <b><font color=\"#ffffff\">600</font></b><br/><font color=\"#6fe871\">SCEPTER MISSILE TWO DAMAGE:</font></b> <b><font color=\"#ffffff\">175/225/275</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/125/125<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 55/50/45",
+        "lore": "\u0027Bombs Away!\u0027",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_call_down",
+        "youtube":"3YjjKN0VajU",
+        "id": 3
+    }
+]

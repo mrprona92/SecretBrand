@@ -1,0 +1,105 @@
+{
+	"Hero":"axe",
+	"Title":"HOW TO FUCKING PLAY AXE",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"ring_of_protection",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"pipe",
+				"soul_ring"
+			],
+			"luxury":
+			[
+				"blink",
+				"shivas_guard",
+				"mekansm",
+				"heart",
+				"ultimate_scepter",
+				"travel_boots",
+				"orb_of_venom",
+				"blade_mail"
+			],
+			"CORE ON ALL HEROES":
+			[
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"FUCKING ARMOR OF MANLINESS
+",
+				"stout_shield":"BLOCK PUSSY CREEPS
+",
+				"travel_boots":"BE AN ANNOYING AXE EVERYWHERE AT ONCE",
+				"mekansm":"ARMOR AND HEALTH. FUCK YOUR TEAM USE IT WHENEVER YOU WANT - YOU ARE AXE
+",
+				"pipe":"SMOKE BLUNTS GET KILLS 420 BLAZE IT",
+				"ultimate_scepter":"FOR KILL STEALING ONLY",
+				"vanguard":"FOR BLOCKING PUSSY CREEPS AND OTHER DAMAGE
+",
+				"blade_mail":"RAM THEIR DICK BACK IN THEIR FACES
+",
+				"bfury":"BATTLEFURY IS CORE ON ALL HEROES. ALL HEROES. NO EXCEPTIONS!",
+				"soul_ring":"SPAM HUNGER",
+				"orb_of_venom":"TO STOP THOSE NASCAR FAGGOTS LIKE LUNA"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_counter_helix",
+			"4":"axe_battle_hunger",
+			"5":"axe_berserkers_call",
+			"6":"axe_counter_helix",
+			"7":"axe_battle_hunger",
+			"8":"axe_counter_helix",
+			"9":"axe_battle_hunger",
+			"10":"axe_berserkers_call",
+			"11":"axe_berserkers_call",
+			"12":"axe_berserkers_call",
+			"13":"axe_culling_blade",
+			"14":"axe_culling_blade",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"axe_berserkers_call":"FACT #232 ABOUT AXE: NOBODY CAN RESIST YOUR RED GIRTH",
+				"axe_battle_hunger":"TO SEND YOUR VAGINA ENEMIES FLEEING",
+				"axe_counter_helix":"SPIN TO WIN",
+				"axe_culling_blade":"USE THIS TO KILL STEAL
+"
+		}
+	}
+}

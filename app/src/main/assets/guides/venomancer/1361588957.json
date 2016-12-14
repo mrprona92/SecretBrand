@@ -1,0 +1,95 @@
+{
+	"Hero":"venomancer",
+	"Title":"Mayple's Hard Support Venomancer Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"ring_of_protection",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"magic_wand",
+				"boots",
+				"ward_observer",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"pipe",
+				"mekansm",
+				"ultimate_scepter",
+				"invis_sword",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gem":"Plague Wards make dewarding easy. After a Shadow Blade picking up a gem is perfect against wards.",
+				"ward_observer":"Although Plague Wards are great for vision, you should keep some spots on the map more permanently warded. ",
+				"ward_sentry":"Make sure the enemy team does not have anything warded. Venomancer has an easy time dewarding since he can put a Plague Ward on any spot an Observer Ward can be making dewarding very easy.",
+				"courier":"You are playing the hard support role so buy either a courier or a set of Observer Wards at the start.",
+				"tpscroll":"Your Venomous Gale and Plague Wards are very powerful tools for attacking and defending. Be sure to always keep a few TPs when you see a tower may get pushed to give ample time to set up enough Plague Wards.",
+				"mekansm":"Don't buy both a pipe and a mek. Only buy this if your team does not have one.",
+				"ring_of_basilius":"This should be the first item you buy outside of your starting items. You can almost constantly spam your Plague Wards with just this amount of regen.",
+				"pipe":"Provided you have money buying a pipe is good for the team. Venomancer should be in every teamfight and if defending, before the teamfight occurs. This makes him a logical choice for holding the pipe.",
+				"ultimate_scepter":"Greatly boosts Venomancer's Poison Nova damage and reduces its cooldown by 40 seconds at max level. If you have the money for it, this is a great item for Venomancer.",
+				"invis_sword":"If you find yourself with leftover gold and wards are up and the enemy's wards have been taken care of, a Shadow Blade is a good next pickup. You can pop up in the middle of a battle to hit Poison Nova much more safely and this gives you a chance to get away as well.",
+				"arcane_boots":"Your Nova and Gale cost a decent amount of mana so grabbing these will help in that regard. Remember to be close to allies that need mana before hitting these."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_venomous_gale",
+			"9":"venomancer_venomous_gale",
+			"10":"venomancer_venomous_gale",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_poison_sting",
+			"13":"venomancer_poison_sting",
+			"14":"venomancer_poison_sting",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"Arguably Venomous Gale is the most powerful level 1 ability. It does decent damage but it has a 50% slow which if used aggressively can result in lots of kill opportunities early on.",
+				"venomancer_poison_sting":"Poison Sting is a passive which really helps when chasing down enemies. Even if Venomous Gale is on cooldown you should be trying to hit people with your auto attack to keep a minor slow on them. This is also a good way to harass the enemy provided you don't pull creeps onto yourself.",
+				"venomancer_plague_ward":"Plague Wards are extremely powerful and cheap to use. One ward is not going to do much in terms of damage, but since they cost only 20 mana you can spam them for vision across the tree line or put a group of them in front of the tower to clear out a creep wave.",
+				"venomancer_poison_nova":"A powerful AoE poison which should be hit every large teamfight. Don't use it too often before level 10 since it has a high mana cost. Be sure to hit heroes affected by this with an auto attack and/or a Venomous Gale since Poison Nova alone will not kill an enemy."
+		}
+	}
+}

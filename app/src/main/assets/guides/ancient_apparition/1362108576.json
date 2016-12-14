@@ -1,0 +1,74 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"AA do Filhão",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"clarity",
+				"clarity",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Itens Básicos":
+			[
+				"arcane_boots",
+				"force_staff",
+				"cyclone"
+			],
+			"End Game":
+			[
+				"bloodstone",
+				"sheepstick",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"shivas_guard",
+				"ancient_janggo",
+				"orchid"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_ice_vortex",
+			"3":"ancient_apparition_cold_feet",
+			"4":"ancient_apparition_ice_vortex",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_ice_vortex",
+			"9":"ancient_apparition_ice_vortex",
+			"10":"ancient_apparition_chilling_touch",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_chilling_touch",
+			"13":"ancient_apparition_chilling_touch",
+			"14":"ancient_apparition_chilling_touch",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

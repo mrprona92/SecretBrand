@@ -1,0 +1,89 @@
+{
+	"Hero":"faceless_void",
+	"Title":"Faceless Void - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"mask_of_madness",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"bfury",
+				"monkey_king_bar",
+				"mjollnir",
+				"satanic",
+				"butterfly",
+				"ultimate_scepter"
+			],
+			"Hero_Guide_Editor_Item_Section_Untitled":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Pontelas en Agilidad (Verde)",
+				"hand_of_midas":"Solo si tienes free farm al principio y puedes conseguirla rapidamente (antes del min 7 aprox).",
+				"ultimate_scepter":"En mi opinion es mas recomendable comprar otros de los objetos que recomiendo, pero puedes comprarlo si ves que te servira en la partida!",
+				"mask_of_madness":"Recuerda usarla con tu ultimate."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_backtrack",
+			"4":"faceless_void_time_lock",
+			"5":"faceless_void_backtrack",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_backtrack",
+			"8":"faceless_void_time_lock",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_time_lock",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"Para saltar y tirar la ulti, perseguir a los que huyen o para iniciar. Tambien es util para escapar de los enemigos.",
+				"faceless_void_chronosphere":"Saltas con Q y lanzas la ulti. Intenta coger a la mayor cantidad de heroes posibles dentro de la burbuja. Si tienes mascara de la locura es el momento de usarla!. Cuidado de no atrapar a tus aliados dentro (avisalos!)."
+		}
+	}
+}

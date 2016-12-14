@@ -1,0 +1,113 @@
+{
+	"Hero":"phoenix",
+	"Title":"6.82 - Standard Phoenix (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"urn_of_shadows",
+				"mekansm"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"ghost",
+				"ultimate_scepter",
+				"pipe"
+			],
+			"Extension Items":
+			[
+				"heavens_halberd",
+				"shivas_guard",
+				"refresher",
+				"sheepstick"
+			],
+			"Last Updated: 6/10/14":
+			[
+			],
+			"See also: Lane Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Given how few items Phoenix needs, a Mekansm makes him an ideal holder given his strong health and always be at the fight.",
+				"urn_of_shadows":"As a mid, you will be ganking relatively early. The extra health and early mana regeneration is much desired by Phoenix.",
+				"necronomicon":"As you are using Supernova, your Necronomicon units can be dishing out damage. You can also use Icarus Dive to activate them mid-flight to damage your foes from all sides. ",
+				"ultimate_scepter":"Aghanim's Scepter is situationally good. It interrupts heroes with channeling abilities, so it's best to use it on heroes you either want to save from certain demise or who need time to refresh their abilities (or wait for their cooldown to end).
+
+Both heroes die if your ultimate is destroyed.",
+				"refresher":"All your abilities have incredibly high cooldown timers and maybe you don't want to use your Supernova yet. This is an alternative.",
+				"heart":"Survive longer, charge harder. This is a given. With Phoenix's abilities costing health, Heart of Tarrasque makes it a cinch to spam your abilities as much as you want.",
+				"shivas_guard":"Given how close in battle you are. Shiva's Guard keeps your enemies slowed and in range for your ultimate ability.",
+				"heavens_halberd":"Evasion, Disable and more health? All things Phoenix likes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_fire_spirits",
+			"4":"phoenix_icarus_dive",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_icarus_dive",
+			"9":"phoenix_icarus_dive",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_sun_ray",
+			"13":"phoenix_sun_ray",
+			"14":"phoenix_sun_ray",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Use Icarus Dive to get an initiation on your foes and/or to escape. It is a great ability that doesn't disable your capabilities to deal other damage. Use it also to have stuns chase you such as Sven's or Vengeful Spirit.",
+				"phoenix_fire_spirits":"Incredible damage, incredible attack slow. In combination with your Icarus Dive, you can be slowing foes in all the right places, nearly disabling them entirely. Finish them off with a Supernova stun as your team cleans them up.",
+				"phoenix_sun_ray":"Use this ability to pick off fleeing enemies, dive towers or to heal allies safely. Caution that Sun Ray does cost life and you move much more slowly (when activating the ability)",
+				"phoenix_supernova":"This can be activated in the middle of Icarus Dive. Use it to refresh your life, reset your cooldown'd abilities and deal massive damage around you. Just be wary that you are vulnerable during this phase.",
+				"phoenix_sun_ray_toggle_move":"Be sure to activate this if you want to actually move around!"
+		}
+	}
+}

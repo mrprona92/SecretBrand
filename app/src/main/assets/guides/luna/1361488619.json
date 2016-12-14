@@ -1,0 +1,89 @@
+{
+	"Hero":"luna",
+	"Title":"Nova? Nova? [Zhou Build]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"magic_wand",
+				"ring_of_aquila",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"yasha",
+				"manta"
+			],
+			"End Game/Situational":
+			[
+				"butterfly",
+				"greater_crit",
+				"satanic",
+				"travel_boots",
+				"ethereal_blade",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Great late-game replacement for Tranquils, will free up an inventory slot and with Drum+Manta you will have close to 500 move speed.",
+				"black_king_bar":"It's generally better to buy the Ogre Club first.",
+				"monkey_king_bar":"Grab if you're going against an enemy with Evasion, either through an item (Butterfly, Heaven's Halberd, Talisman of Evasion) or skill (Phantom Assasin).",
+				"ring_of_aquila":"Remember to toggle the aura off when you're farming the lane, and back on when you want to push.",
+				"tranquil_boots":"You can finish these at the side-shop, and will allow you to stay in lane and heal after engagements."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lunar_blessing",
+			"2":"luna_lucent_beam",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_moon_glaive",
+			"9":"luna_lunar_blessing",
+			"10":"luna_lunar_blessing",
+			"11":"luna_eclipse",
+			"12":"luna_moon_glaive",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"luna_eclipse":"Your Beams can hit creeps, so try and use it when there are just enemy heroes around."
+		}
+	}
+}

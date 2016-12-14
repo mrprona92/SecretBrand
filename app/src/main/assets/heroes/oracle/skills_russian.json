@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Fortune's End",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — собирает всю мощь героя в снаряд выжигающей энергии, который останавливает врагов в области вокруг цели, наносит им урон и снимает с них положительные эффекты. Максимальное время прочтения: 2.5 секунды. Время обездвиживания врагов равно времени чтения заклинания.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">75/150/225/300</font></b><br/>МИН. ДЛИТЕЛЬНОСТЬ ОБЕЗДВИЖИВАНИЯ: <b><font color=\"#ffffff\">0.5</font></b><br/>МАКС. ДЛИТЕЛЬНОСТЬ ОБЕЗДВИЖИВАНИЯ: <b><font color=\"#ffffff\">2.5</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">215</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Звездная сфера трещит от мощности, и чистая энергия вырывается, временно разрывая связь врага с его собственным телом.",
+        "hurl": "Oracle",
+        "name": "oracle_fortunes_end",
+        "youtube": "uoC4rmz5pL4",
+        "id": 0
+    },
+    {
+        "dname": "Fate's Edict",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Наполняет цель счастьем, обезоруживая ее и даруя сопротивление магии в 100%, при этом повышая получаемый урон от других типов урона. Можно применять как на союзников, так и на врагов.",
+        "notes": "Невозможно рассеять ни одним заклинанием, кроме Fortune's End.",
+        "dmg": "",
+        "attrib": "УВЕЛИЧЕНИЕ УРОНА: <b><font color=\"#ffffff\">50%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Нерушимое пророчество гласит: да не явится магия источником страданий для избранного союзника. Что же касается других страданий...",
+        "hurl": "Oracle",
+        "name": "oracle_fates_edict",
+        "youtube": "-5MLuLQ92_w",
+        "id": 1
+    },
+    {
+        "dname": "Purifying Flames",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Выжигает всю скверну цели, нанося ей огромный урон, а затем со временем восстанавливает ее жизненные силы. Количество восстанавливаемого здоровья больше урона. Можно применять как на союзников, так и на врагов.",
+        "notes": "Лечение от нескольких применений Purifying Flames складывается.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">90/180/270/360</font></b><br/>ЛЕЧИТ В СЕКУНДУ: <b><font color=\"#ffffff\">11/22/33/44</font></b><br/>ВСЕГО ЛЕЧЕНИЯ: <b><font color=\"#ffffff\">99/198/297/396</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">9</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/60/70/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 2.50",
+        "lore": "Как зеркальные залы могут усиливать свет одной свечи, так и разбитые стены вселенной могут превратить свет пророчества в горящий факел.",
+        "hurl": "Oracle",
+        "name": "oracle_purifying_flames",
+        "youtube": "YP2ZXzx6kX4",
+        "id": 2
+    },
+    {
+        "dname": "False Promise",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b>",
+        "desc": "Отсрочивает судьбу союзника, откладывая любое лечение и получение урона до конца действия этой способности. Любое лечение, примененное во время действия этой способности, удваивается. Во время действия снимает с цели большинство отрицательных эффектов.",
+        "notes": "Отложенный урон и исцеление будут учитывать броню и сопротивление магии, когда будут получены.<br/>Эффекты отложенного урона и лечения сработают тогда, когда цель будет уязвима.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6/7/8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/60/40",
+        "lore": "Лжепророки не видят будущего, а ваши враги не видят ваших союзников.",
+        "hurl": "Oracle",
+        "name": "oracle_false_promise",
+        "youtube": "q_OHyoGf9Ns",
+        "id": 3
+    }
+]

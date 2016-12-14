@@ -1,0 +1,19 @@
+{
+  "dotaId": "guardian_greaves",
+  "id": 231,
+  "img": "guardian_greaves_lg.png",
+  "dname": "Guardian Greaves",
+  "qual": "rare",
+  "cost": 5300,
+  "desc": "Active: Mend - Restores 250 health and 160 mana to nearby allies, and removes most negative buffs from the caster.<br/><br/>Passive: Guardian Aura - Provides nearby allies with 4 health regeneration and 2 bonus armor. If an allied hero\u0027s health falls below 20%, they receive 15 health regeneration and 15 armor.",
+  "notes": "The aura boost only applies to heroes.",
+  "attrib": "+ 55 Movement Speed<br/>+ 250 Mana<br/>+ 5 All Attributes<br/>+ 5 Armor<br/>AURA HEALTH REGEN: 4<br/>AURA ARMOR: 2<br/>AURA BOOST HEALTH REGEN: 15<br/>AURA BOOST ARMOR: 15<br/>AURA BOOST THRESHOLD: 20%<br/>MEND HEAL: 250<br/>MEND MANA RESTORE: 160<br/>AURA\/MEND RADIUS: 900",
+  "mc": false,
+  "cd": 45,
+  "lore": "One of many holy instruments constructed to honor the Omniscience.",
+  "components": [
+    "mekansm",
+    "arcane_boots"
+  ],
+  "created": true
+}

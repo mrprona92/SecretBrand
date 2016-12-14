@@ -1,0 +1,19 @@
+{
+  "dotaId": "buckler",
+  "id": 86,
+  "img": "buckler_lg.png",
+  "dname": "Buckler",
+  "qual": "rare",
+  "cost": 800,
+  "desc": "Active: Armor Bonus - Gives +2 to all allied units in a 900 radius.  Lasts 25 seconds on heroes, 30 seconds on units.",
+  "notes": "",
+  "attrib": "+ 5 Armor<br/>+ 2 All Attributes<br/>ARMOR CAST RADIUS: 900",
+  "mc": 10,
+  "cd": 25,
+  "lore": "A powerful shield that imbues the bearer with the strength of heroes past, it is capable of protecting entire armies in battle.",
+  "components": [
+    "chainmail",
+    "branches"
+  ],
+  "created": true
+}

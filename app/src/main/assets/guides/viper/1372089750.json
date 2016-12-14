@@ -1,0 +1,70 @@
+{
+	"Hero":"viper",
+	"Title":"GreyShark.Viper",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"power_treads",
+				"vanguard",
+				"invis_sword"
+			],
+			"Mid Game":
+			[
+				"manta",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_corrosive_skin",
+			"3":"viper_poison_attack",
+			"4":"viper_nethertoxin",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_poison_attack",
+			"8":"viper_nethertoxin",
+			"9":"viper_nethertoxin",
+			"10":"viper_nethertoxin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

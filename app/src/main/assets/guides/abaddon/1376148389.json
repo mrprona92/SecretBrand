@@ -1,0 +1,118 @@
+{
+	"Hero":"abaddon",
+	"Title":"Fight me.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"blades_of_attack",
+				"gloves",
+				"mithril_hammer"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"maelstrom",
+				"mask_of_madness",
+				"hyperstone",
+				"lesser_crit",
+				"armlet"
+			],
+			"Mid/Late Game":
+			[
+				"mjollnir",
+				"heart",
+				"assault",
+				"basher"
+			],
+			"Situational":
+			[
+				"desolator",
+				"abyssal_blade",
+				"monkey_king_bar",
+				"butterfly",
+				"travel_boots",
+				"greater_crit",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Get around the map faster to own more noobs",
+				"phase_boots":"These boots when active plus activated MoM will give you max move speed as well as these boots giving you early game damage.",
+				"hyperstone":"This build uses a combination of damage with ultra fast attack speed.  This hyperstone will eventually build into your mojillnir and will add with your active MoM to give you insane early game attack speed.",
+				"assault":"An good dota player knows that there is a ratio of armor/health that any tanky hero needs.  In most cases the base level for that ratio is for every 500 health above 1000 health you need 10 armor.  This ratio maximizes your EHP (effective hit points).",
+				"heart":"This item gives you a little extra damage (because you are a str hero and a heart gives extra str) and it will allow you to take a little more hits before your ult triggers and heal up even more after it does.",
+				"monkey_king_bar":"There are only three reasons to every build a Monkey King Bar:
+1. to get the sweet little 100 damage bash (as i recommend in my slardar build)
+2. to get 100% true shot (to counter FV or PA or etc.)
+3. to get the bonus damage, which is very effective in itself.",
+				"butterfly":"Another way to increase your EHP is to get evasion.  Butterfly is an obvious choice; however, heavens halberd is another viable build as it provides evasion as well.  Butterfly is a better item though because it adds damage, and attack speed as well as the evasion.",
+				"greater_crit":"MAJOR CRITS",
+				"basher":"Great to add with your attack speed to do extra damage plus keep them from getting away.  Aslo builds into Abyssal Blade for more damage and an active stun",
+				"lesser_crit":"Crits are pretty much a must-have on any hard carry and since this build describes a hard cary abaddon, you will need them as well",
+				"armlet":"This is a good early game substitute to a quick malestrom and before crits.  Still follow the items after it but it can be put into that.",
+				"mjollnir":"The second best item to get on abaddon is mojillnir behind MoM.  It allows you to get those precious chain lightnings in fights doing damage to everything in your wake.  You will lifesteal with MoM every time unless chain lightning procs.  So they work well together.",
+				"maelstrom":"Builds into Mojillnir",
+				"desolator":"Desolator is just all around a great item to get for a carry because for every \"hit\" you get on your enemy, the damage output increases (to a max of -20 armor).  This will allow you to kill even more easily and effectively, and this is, in my opinion, the best situational item recommended.",
+				"mask_of_madness":"MoM is the most important item to get as it provides essential lifesteal as well as attack sped/movement speed.  The bonus damage taken when active does not need to bother you as you have your ult to save you :D",
+				"abyssal_blade":"Being a melee hero, this item will provide you with huge bashes along with a lot of extra damage and a stun to help you beat down your opponents.",
+				"heavens_halberd":"This is another item for evasion with also the active to use on their hard carry and some nice str as well"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_frostmourne",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_frostmourne",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_frostmourne",
+			"8":"abaddon_aphotic_shield",
+			"9":"abaddon_frostmourne",
+			"10":"abaddon_death_coil",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_death_coil",
+			"13":"abaddon_death_coil",
+			"14":"abaddon_death_coil",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"In my opinion.. this ability is the worst of abaddons skills.  It is a support like ability and is only effective for this build in one way: kill stealing :D but that is why it is leveled last.",
+				"abaddon_aphotic_shield":"This is a great skill and one of his best as it provides him with invulnerability and does some good damage to other people around him.  It should be leveled first and used very often in lane to harrass and last hit with ease.  It also allows you to rosh solo when you get your mojillnir/MoM/phase/cr",
+				"abaddon_frostmourne":"This abliity is incredible for early game kills.  It is a very effective slow that also increases your attack speed (also adding to your super fast hitting capabilities).  This ability is best paired with a good support stunner in your lane so you can get that early kill gold.",
+				"abaddon_borrowed_time":"Officially one of the best ults in the game; however, easily \"countered\" by \"intelligent\" players who decide not to attack you while it is active.  That is their demise.  You have a MoM and the damage output to heal yourself regardless of your ult.  So just kill them all while they refuse to fight u"
+		}
+	}
+}

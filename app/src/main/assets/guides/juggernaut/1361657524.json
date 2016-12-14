@@ -1,0 +1,95 @@
+{
+	"Hero":"juggernaut",
+	"Title":"6.79 - [AriStar] Juggernaut Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"phase_boots",
+				"pers",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"mask_of_madness",
+				"vladmir"
+			],
+			"Luxury Items":
+			[
+				"butterfly",
+				"assault",
+				"heart",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tpscroll":"Core on every hero. Do not get caught without a TP Scroll.",
+				"ultimate_scepter":"Makes your ultiamate a whole lot better.",
+				"mask_of_madness":"Using this before Omnislash increases the number of strikes inbetween Omnislash strikes. In most cases skip this item.",
+				"soul_ring":"Works really well with healing ward, especially considering your low mana pool.",
+				"orb_of_venom":"Good for slowing down enemies. Skip if it doesnt fit your playstyle."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"juggernaut_healing_ward",
+			"3":"juggernaut_blade_fury",
+			"4":"juggernaut_blade_dance",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_healing_ward",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_healing_ward",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"A great skill. Does AoE damage. If your lane partner has a slow feel free to attempt a first blood with this skill.",
+				"juggernaut_healing_ward":"A great pushing skill. Provides a huge amount of regeneration. Use it to stay longer in lane and to push down towers. Once cast keep it away from enemies as it dies in 1 hit.",
+				"juggernaut_omni_slash":"Early game you can finish off enemies caught without a creep wave. Later on use it in teamfights to dish out as much damage as possible."
+		}
+	}
+}

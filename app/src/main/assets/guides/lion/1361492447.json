@@ -1,0 +1,67 @@
+{
+	"Hero":"lion",
+	"Title":"Pay2Lose - Lion for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"gauntlets",
+				"courier",
+				"branches",
+				"branches"
+			],
+			"Mid Game":
+			[
+				"flying_courier",
+				"arcane_boots",
+				"mekansm",
+				"blink"
+			],
+			"Late Game":
+			[
+				"dagon",
+				"ultimate_scepter",
+				"sheepstick"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_voodoo",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_voodoo",
+			"9":"lion_voodoo",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_mana_drain",
+			"13":"lion_mana_drain",
+			"14":"lion_mana_drain",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "dotaId": "travel_boots",
+  "id": 48,
+  "img": "travel_boots_lg.png",
+  "dname": "Boots of Travel",
+  "qual": "common",
+  "cost": 2450,
+  "desc": "Active: Teleport - Teleports you to an allied non-hero unit or structure. Double-click to teleport to your team's base fountain. Upgradable to allow you to teleport to allied heroes.<br/><br/>Flat movement speed bonuses from multiple pairs of boots do not stack.",
+  "notes": "Shares cooldown with Town Portal Scrolls.",
+  "attrib": "+ 100 Movement Speed",
+  "mc": 75,
+  "cd": 45,
+  "lore": "Winged boots that grant omnipresence.",
+  "components": ["boots"],
+  "created": true
+}

@@ -1,0 +1,93 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"[DMX] Troll Warlord (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"lifesteal",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"helm_of_the_dominator",
+				"invis_sword",
+				"black_king_bar",
+				"lesser_crit",
+				"tpscroll"
+			],
+			"Fin de Partie":
+			[
+				"greater_crit",
+				"satanic",
+				"travel_boots",
+				"butterfly"
+			],
+			"Situationnels":
+			[
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"hand_of_midas":"Si vous arrivez à farmez très vite en début de partie, prenez un Hand of Midas pour accroître encore plus votre gold income.",
+				"invis_sword":"Cet item est très bon pour des parties publiques de bas niveau ou de niveau moyen. Il vous permettra de vous placer au corps à corps très facilement."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_whirling_axes_ranged",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_fervor",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_fervor",
+			"9":"troll_warlord_fervor",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_berserkers_rage",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_berserkers_rage",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"Ce sort est essentiel car il vous permet de changer de forme. Prenez le en premier.",
+				"troll_warlord_whirling_axes_ranged":"Votre principal nuke et disable, montez le en premier ! N'hésitez pas à changer de forme pour profiter des deux versions du sort (les cd de ces deux sorts ne sont PAS partagés).",
+				"troll_warlord_fervor":"Un passif très utile qui vous permettra d'aller dans les woods dès lors que vous aurez un lifesteal. Essayez de focus un seul ennemi durant les teamfight pour profiter de ce skill un maximum.",
+				"troll_warlord_battle_trance":"Un ultimate global qui vous aidera dans les teamfights, pour pusher ou pour faire roshan. Usez et abusez-en car il a un cooldown très faible !"
+		}
+	}
+}

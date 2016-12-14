@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Illusory Orb",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Puck launches a magic orb that floats in a straight path, damaging enemy units along the way. At any point, Puck may teleport to the orb\u0027s location using Ethereal Jaunt.",
+        "notes": "The Illusory Orb grants flying vision around its location while it travels.<br/>Jaunting to the Orb will disjoint projectiles.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">70/140/210/280</font></b>",
+        "attrib": "DISTANCE: <b><font color=\"#ffffff\">1800/1800/1800/1800</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/150/150/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "lore": "The playful Faerie Dragon delights in confusing others, vanishing and reappearing where unexpected.",
+        "hurl": "Puck",
+        "name": "puck_illusory_orb",
+        "youtube":"St6DymTgpjc",
+        "id": 0
+    },
+    {
+        "dname": "Waning Rift",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Puck releases a burst of faerie dust that deals damage and silences enemy units nearby.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/160/220/280</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">400/400/400/400</font></b><br/>DURATION: <b><font color=\"#ffffff\">0.75/1.5/2.25/3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/110/120/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "With a mischievous grin, Puck spreads its enchanted powder which disrupts magical flow.",
+        "hurl": "Puck",
+        "name": "puck_waning_rift",
+        "youtube":"kM91nc9KFzg",
+        "id": 1
+    },
+    {
+        "dname": "Phase Shift",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Channeled</font></b>",
+        "desc": "Puck briefly shifts into another dimension where it is immune from harm.",
+        "notes": "Puck retains collision size while under the effects of Phase Shift.<br/>Issuing any action will cancel Phase Shift.<br/>Puck is invulnerable during Phase Shift.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">0.75/1.5/2.25/3.25</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 0/0/0/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 6",
+        "lore": "With a quip and flash, Puck returns to the alien dimension from whence it came.",
+        "hurl": "Puck",
+        "name": "puck_phase_shift",
+        "youtube":"fQM9lmdO3a4",
+        "id": 2
+    },
+    {
+        "dname": "Ethereal Jaunt",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Teleports Puck to a flying Illusory Orb.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Puck",
+        "name": "puck_ethereal_jaunt",
+        "youtube":"lh-wFZu85N0",
+        "id": 3
+    },
+    {
+        "dname": "Dream Coil",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Creates a coil of volatile magic that latches onto enemy Heroes, stunning them for .5 seconds and damaging them.  If the enemy hero stretches the coil by moving too far away, it snaps, stunning and dealing additional damage.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "COIL DURATION: <b><font color=\"#ffffff\">6/6/6</font></b><br/>INITIAL DAMAGE: <b><font color=\"#ffffff\">100/150/200</font></b><br/>BREAK RADIUS: <b><font color=\"#ffffff\">600/600/600</font></b><br/>BREAK STUN DURATION: <b><font color=\"#ffffff\">1.5/2.25/3</font></b><br/>BREAK DAMAGE: <b><font color=\"#ffffff\">100/150/200</font></b><br/><font color=\"#6fe871\">SCEPTER COIL DURATION:</font></b> <b><font color=\"#ffffff\">8</font></b><br/><font color=\"#6fe871\">SCEPTER BREAK DAMAGE:</font></b> <b><font color=\"#ffffff\">200/250/300</font></b><br/><font color=\"#6fe871\">SCEPTER BREAK STUN DURATION:</font></b> <b><font color=\"#ffffff\">1.5/3/4.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/150/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 85",
+        "lore": "The Faerie Dragon sows confusion by forcing its enemies to vividly dream about their own mortality.",
+        "hurl": "Puck",
+        "name": "puck_dream_coil",
+        "youtube":"DyAcAYncwXE",
+        "id": 4
+    }
+]

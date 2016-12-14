@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="carousel_width">366dp</dimen>
+    <dimen name="carousel_height">512dp</dimen>
+
+    <dimen name="carousel_anim_width">354dp</dimen>
+    <dimen name="carousel_anim_height">506dp</dimen>
+
+    <dimen name="carousel_main_attr_width">49dp</dimen>
+    <dimen name="carousel_main_attr_height">49dp</dimen>
+    <dimen name="carousel_main_attr_margin_top">10dp</dimen>
+    <dimen name="carousel_main_attr_margin_right">13dp</dimen>
+    <dimen name="carousel_name_margin_left">4dp</dimen>
+    <dimen name="carousel_name_margin_top">35dp</dimen>
+    <dimen name="carousel_name_text_size">18sp</dimen>
+    <dimen name="carousel_role_holder_margin_top">90dp</dimen>
+    <dimen name="carousel_role_holder_width">80dp</dimen>
+    <dimen name="carousel_role_holder_height">60dp</dimen>
+    <dimen name="carousel_role_size">40dp</dimen>
+    <dimen name="skill_role_holder_margin_bottom">20dp</dimen>
+    <dimen name="skill_role_holder_padding">2dp</dimen>
+    <dimen name="skill_role_holder_height">72dp</dimen>
+    <dimen name="skill_role_bkg_size">72dp</dimen>
+    <dimen name="skill_role_size">68dp</dimen>
+    <dimen name="hero_row_textSize">14sp</dimen>
+    <dimen name="hero_row_text_width">128dp</dimen>
+    <dimen name="item_row_image_size">90dp</dimen>
+    <dimen name="hero_skill_row_image_size">100dp</dimen>
+    <dimen name="hero_skill_affects_textSize">16sp</dimen>
+    <dimen name="hero_skill_name_textSize">20sp</dimen>
+    <dimen name="item_receipt_textSize">14sp</dimen>
+    <dimen name="match_player_summary_width">78dp</dimen>
+    <dimen name="match_player_summary_height">59dp</dimen>
+
+    <dimen name="hero_row_width">256dp</dimen>
+    <dimen name="hero_row_height">134dp</dimen>
+</resources>

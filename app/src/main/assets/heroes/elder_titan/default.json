@@ -1,0 +1,42 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_elder_titan",
+	"Title":"Recommended items for Elder Titan.",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"clarity",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"power_treads",
+			"ancient_janggo",
+			"magic_wand",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"vanguard",
+			"hood_of_defiance",
+			"pipe",
+			"heavens_halberd",
+			"assault",
+			"shivas_guard",
+			"blade_mail",
+			"sheepstick",
+			"refresher",
+			"black_king_bar"
+		]
+	}
+}

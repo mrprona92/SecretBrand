@@ -1,0 +1,101 @@
+{
+	"Hero":"necrolyte",
+	"Title":"Necrolyte Tanky Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"heart",
+				"cyclone",
+				"ancient_janggo",
+				"ghost",
+				"black_king_bar",
+				"rod_of_atos",
+				"force_staff"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"2 Iron Branches, needed for Mekansm later.",
+				"ghost":"Just for more survivability against Physical Carries. You dont really need to Attack to deal damage, you carry through your skills",
+				"travel_boots":"Must-have Item later on when you cant affor to waste an item slot with carrying TPs around.",
+				"power_treads":"I usually go Power Treads over any other Type of Boots. PT provide good Int and Str to make you more durable, you dont need Arcane Boots because of the Mana regeneration 'Sadist' gives you, and the Attritbute toggling allows for more effective regeneration with 'Sadist'.",
+				"null_talisman":"You might want to skip getting Circlet and Null Talisman, depending on the heroes your up against. If you think you need the extra Int to last hit and Str to survive in the Laning phase, go for it. Otherwise just skip it.",
+				"mekansm":"Mekansm is an absolute MUST on Necrolyte, even though he is by no means a support and many people dont want to buy Mekansm because it is labeled as support item. Mekansm gives you all the armor and additional health you need and is very beneficial for your team since you can farm it rather fast.",
+				"sheepstick":"If your team lacks disable, you might want to consider getting Scythe instead of Shivas as first big item, but you should definitely get it later on anyway in most cases, since the huge int boost and disable are really nice to have.",
+				"cyclone":"If you have trouble farming early on or you need the disable ASAP, go for Euls. Its the poor mans Scythe and can save your life or set up kills more often than not.",
+				"force_staff":"Obivously always a acceptable choice if you need to chatch up or get away from enemies.",
+				"heart":"Sometimes all you need is more Survivability. Heart provides exactly that.",
+				"black_king_bar":"Obviously always a good choice if your having a hard time surviving against many disables.",
+				"shivas_guard":"Shivas is the perfect Item for you. It gives you more Int and Armor, as well as more AoE damage.",
+				"ancient_janggo":"I sometimes really like to get drums if noone from my team has them already. Very nice stats, nice movement and attackspeed, ideal for early aggression and more tankiness.",
+				"rod_of_atos":"Very usefull since you need both HP and Int and the slow is extremely strong for chasing purposes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_death_pulse",
+			"4":"necrolyte_sadist",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_death_pulse",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_heartstopper_aura",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"You should probably max this skill first, since its damage and heal at the same time is very very good in early game and teamfights. Also helpful when you try to flashfarm faster. Your main damage source early on.",
+				"necrolyte_heartstopper_aura":"This is what makes you so damn strong in lategame. Just by being alive you deal tons of damage in a long teamfight, similiar to a Radiance. However, your Aura is direct HP-Removal, which means it can NOT be blocked by BKB or Magic resistance. Very strong lateron, devasting versus Strength Heroes.",
+				"necrolyte_sadist":"This spell gives you huge survivability in laning phase and teamfights when used correctly. Try to get as many last hits and denies as possible so you can benefit from it the most. Also, you should make sure to kill someone in a teamfight since the bonus Regeneration will make you so hard to kill.",
+				"necrolyte_reapers_scythe":"Perfect vs heroes with huge HP pool such as Pudge, Centaur, Spectre, Lifestealer, ect. You should probably make sure to get the kill with it when your in a teamfight, due to Sadist. Obviously should be used when target is at around 50% HP in most cases for maximum Damage."
+		}
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"Hero":"pugna",
+	"Title":"Good Pugna (Rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"tango",
+				"boots"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"mekansm",
+				"cyclone"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"bloodstone",
+				"orchid",
+				"dagon"
+			],
+			"luxury":
+			[
+				"sphere",
+				"travel_boots",
+				"shivas_guard",
+				"heart",
+				"skadi",
+				"rod_of_atos",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Будем быстро убегать от смерти",
+				"clarity":"Нужная вещь для начала...",
+				"tango":"Это уже по стандарту берем танго...",
+				"travel_boots":"Это если много лишних денег...",
+				"power_treads":"Eto pomozjet v nachale v shvatkah odin na odin",
+				"mekansm":"Надо, просто надо...",
+				"sheepstick":"Для общей картины берем и это...",
+				"orchid":"Тоже берем для общей картины...",
+				"cyclone":"Для начала регенить ману подойдет, да и убежать мы сможем еще быстрее...",
+				"dagon":"На всякий случай берем и дагон...",
+				"ultimate_scepter":"Самая важная и нужная вещь! Поможет без перерыва высасывать жизни противника!",
+				"heart":"Поможет быть с \"богатырским\" здоровьем!",
+				"shivas_guard":"Не советую брать из-за ненадобности...",
+				"bloodstone":"Нужная штука для повышения здоровья нашего героя...",
+				"sphere":"Это можно взять если против вас много магов или есть у них скилы, которые станят...",
+				"skadi":"Вещь иногда хорошая, чтобы противник не убежал от ульта...",
+				"arcane_boots":"Сделаем такие ботиночки, а то маны всегда не хватает после 1 скила...",
+				"veil_of_discord":"И это для общей картины...",
+				"rod_of_atos":"Для ульта тоже можно взять в помощь!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pugna_nether_blast",
+			"2":"pugna_decrepify",
+			"3":"pugna_nether_ward",
+			"4":"pugna_nether_blast",
+			"5":"pugna_nether_blast",
+			"6":"pugna_life_drain",
+			"7":"pugna_decrepify",
+			"8":"pugna_nether_blast",
+			"9":"pugna_nether_ward",
+			"10":"pugna_decrepify",
+			"11":"pugna_life_drain",
+			"12":"pugna_decrepify",
+			"13":"pugna_nether_ward",
+			"14":"pugna_nether_ward",
+			"15":"attribute_bonus",
+			"16":"pugna_life_drain",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pugna_nether_blast":"Хорошо ломать таверы в начале, да и в конце, так что качаем в начале!",
+				"pugna_decrepify":"Нужен для избежания смерти или для усиления ульта!",
+				"pugna_nether_ward":"Ставим если противник готов использовать скилл!",
+				"pugna_life_drain":"Осторожно! Если тебя застанят, то не избежать беды, но если есть аганим, то все будет нормально!"
+		}
+	}
+}

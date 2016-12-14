@@ -1,0 +1,105 @@
+{
+	"Hero":"dazzle",
+	"Title":"Dazzle - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity",
+				"ward_observer",
+				"courier",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"pipe",
+				"soul_ring",
+				"ancient_janggo",
+				"cyclone",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"tpscroll",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dust":"Si tienen enemigos invisibles o shadow blade compra dust si o si!",
+				"ward_observer":"Si alguien compra wards tu compra courier y si te sobra dinero compra sentrys.",
+				"courier":"Si alguien ha comprado courier tu compra wards y si te sobra dinero sentry.",
+				"tpscroll":"Siempre lleva tp encima!",
+				"travel_boots":"Si te sobra oro al final de la partida puedes comprar esto para no necesitar llevar tp encima.",
+				"mekansm":"Si otro compra mek tu ve a por pipe para ayudar a tu equipo.",
+				"flying_courier":"As a support it is your job to make sure the courier can fly.  It helps everyone on the team and makes you seem like a generous guy!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_shallow_grave",
+			"2":"dazzle_shadow_wave",
+			"3":"dazzle_shadow_wave",
+			"4":"dazzle_poison_touch",
+			"5":"dazzle_shadow_wave",
+			"6":"dazzle_poison_touch",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_poison_touch",
+			"9":"dazzle_weave",
+			"10":"dazzle_shallow_grave",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_poison_touch",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"Es realmente util al lvl 3 por eso lo subes mas tarde porque primero subes la W y E para mantener al carry vivo en la linea. Usalo para stuns y ganks y hacer dmg siempre que puedas.",
+				"dazzle_shallow_grave":"De lo mejor para un support ya que desde nivel 1 te permite salvar a un aliado durante unos segundos vitales.",
+				"dazzle_shadow_wave":"Ayuda a curar constantemente al principio al carry en linea. Tambien tiene su parte ofensiva haciendo dmg a enemigos segun el numero de aliados cerca. Maxeala lo primero.",
+				"dazzle_weave":"Super util para las teamfights en late game. Es una habilidad que puede dar la vuelta a la partida si la usas correctamente."
+		}
+	}
+}

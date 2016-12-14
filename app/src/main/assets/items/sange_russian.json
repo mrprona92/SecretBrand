@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 10 к урону<br/>+ 16 к силе<br/>ШАНС ИСКАЛЕЧИТЬ: 15%<br/>ЗАМЕДЛЕНИЕ: 20%",
+  "cd": false,
+  "components": [
+    "ogre_axe",
+    "belt_of_strength"
+  ],
+  "qual": "artifact",
+  "notes": "",
+  "desc": "Пассивная: Lesser Maim — дает шанс, что ваша атака уменьшит скорость передвижения врага на 4.0 секунд.",
+  "dname": "Sange",
+  "dotaId": "sange",
+  "mc": false,
+  "img": "sange_lg.png",
+  "lore": "Sange отыскивает слабые места врагов и бьет точно в них.",
+  "id": 162,
+  "created": true,
+  "cost": 2050
+}

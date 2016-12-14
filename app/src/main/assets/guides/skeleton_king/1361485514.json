@@ -1,0 +1,149 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"CAPS LOCK LEORIC ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"circlet",
+				"branches",
+				"flask",
+				"tango",
+				"magic_stick",
+				"quelling_blade"
+			],
+			"BOOTS AND WAND":
+			[
+				"power_treads",
+				"phase_boots",
+				"magic_wand"
+			],
+			"ITEMS TO GO FOR":
+			[
+				"armlet"
+			],
+			"ITEM AFTER ARMLET TIER":
+			[
+				"desolator",
+				"black_king_bar",
+				"assault"
+			],
+			"ITEM AFTER ITEM AFTER ARMLET TIER (SITUATIONAL)":
+			[
+				"satanic",
+				"heart",
+				"vladmir",
+				"orchid",
+				"mjollnir",
+				"pipe"
+			],
+			"BALLER TIER":
+			[
+				"refresher",
+				"rapier"
+			],
+			"ONLY IF I CAN GET 6 OF THEM TIER":
+			[
+				"bfury",
+				"bfury",
+				"bfury",
+				"bfury",
+				"bfury",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"SOME COMBINATION OF THESE ITEMS",
+				"gauntlets":"SOME COMBINATION OF THESE ITEMS",
+				"branches":"SOME COMBINATION OF THESE ITEMS",
+				"circlet":"SOME COMBINATION OF THESE ITEMS",
+				"magic_stick":"SOME COMBINATION OF THESE ITEMS",
+				"magic_wand":"AM I SEEING MUCH MANA LOSS ACTION AND WANT TO BE HARRY POTTER?
+
+GET A MAGIC WAND",
+				"flask":"SOME COMBINATION OF THESE ITEMS",
+				"tango":"SOME COMBINATION OF THESE ITEMS",
+				"phase_boots":"EITHER. BUT NOT BOTH DESPITE THE FACT THAT YOU HAVE TWO FEET. (COMMON MISTAKE) FINISH BOOTS AFTER ARMLET FOR MOST GAMES AS THE +15/40 MS IS OUTWEIGHED BY ALL THE SEXY THAT ARMLET GIVES YOU.",
+				"power_treads":"EITHER. BUT NOT BOTH DESPITE THE FACT THAT YOU HAVE TWO FEET. (COMMON MISTAKE) FINISH BOOTS AFTER ARMLET FOR MOST GAMES AS THE +15/40 MS IS OUTWEIGHED BY ALL THE SEXY THAT ARMLET GIVES YOU.",
+				"vladmir":"IS MY TEAM ALL MELEE BECAUSE COLLECTIVELY WE HAVE A LEARNING DISABILITY?
+
+GET A VLAD'S",
+				"refresher":"AM I A BALLER?
+
+GET REFRESHER ORB",
+				"assault":"DO I WANT A GOOD ITEM THAT I MAY OR MAY NOT BE ABLE TO COMPLETE?
+
+GET AN ASSAULT CUIRASS",
+				"heart":"DO I FEEL LIKE TIN MAN FROM WIZARD OF OZ?
+
+GET HEART",
+				"black_king_bar":"ARE MY ENEMIES CASTING A LOT OF SHIT IN MY GENERAL DIRECTION?
+
+GET A BKB",
+				"rapier":"GOT A DIVINE RAPIER AFTER YOUR REFRESHER ORB?
+
+YOU ARE NOW BALLING OUT OF CONTROL",
+				"bfury":"DO I HAVE A PING OF 9000 AND CANNOT LAST HIT?
+
+GET A BFURY",
+				"armlet":"ASK YOURSELF THIS FIRST:
+AM I PLAYING LEORIC?
+
+YES: GET AN ARMLET
+NO: GET AN ARMLET",
+				"satanic":"DO I WANT A RIDICULOUS AMOUNT OF LIFESTEAL?
+
+GET A SATANIC",
+				"mjollnir":"DO NOT GET BOTH DESOLATOR AND MJOLLNIR THOUGH. IT'S AGAINST THE RULES.",
+				"desolator":"DO I WANT TO CARRY?
+
+GET A DESOLATOR"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"attribute_bonus",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"attribute_bonus",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_mortal_strike",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_mortal_strike",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_vampiric_aura",
+			"16":"skeleton_king_reincarnation",
+			"17":"skeleton_king_vampiric_aura",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"DO NOT HARASS WITH HELLFIRE BLAST. REAL MEN DO NOT HARASS. THE STUN IS WORTH MORE THAN THE DAMAGE. USE IT WHEN YOU KNOW YOU, YOUR TOWER, AND/OR YOUR CREEPS CAN GET IN A FEW HITS. IF YOU'RE LANED AGAINST A LOW HP MELEE HERO, STAB HIS FACE ANY CHANCE YOU GET.",
+				"skeleton_king_vampiric_aura":"VAMPIRIC AURA EARLY IS LIKE A MAN USING OVERSIZED CONDOMS. NOT ONLY WILL IT PROBABLY NOT DO ITS JOB, IT WILL MAKE YOUR PERFORMANCE WORSE. IT IS DANGEROUS FOR YOU AND YOUR PARTNER AS IT WILL PUSH YOUR CREEPS CLOSER TO THE ENEMY TOWER.",
+				"skeleton_king_reincarnation":"IT IS CUSTOMARY TO QUOTE ARNOLD SCHWARZENEGGER WHENEVER YOU DIE."
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"bane",
+	"Title":"Bane - Ganker Initiator Build Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"circlet",
+				"mantle",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"null_talisman",
+				"soul_ring",
+				"magic_wand",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"ghost",
+				"ward_observer"
+			],
+			"Advanced Items":
+			[
+				"black_king_bar",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allowes you to jump from place to place. If you are attacked, cooldown sets to 3. can be used to initiate, combining NIGHTMARE and FIEND'S GRIP, and to escape.
+",
+				"magic_wand":"Stacks charges of 15 HP and Mana when enemies use spells near you, which can be used later any time you want, up to 15 stacks. Very useful during fights.",
+				"ghost":"Makes you invulnerable to physical attacks for 4 seconds but increases taken magical damage. Can be used to give enough time to load Blink Dagger's cooldown and escape. Careful, don't activate if there is a potential for recieving spell damage.",
+				"ward_observer":"While pushing, place the Observer Ward in key places so you would know if you are being ganked. If the enemy team has junglers, place it in their jungle so your team could gank, also can be placed in your jungle to protect junglers in your team.",
+				"travel_boots":"Grants alot of movement speed as well as the ability to teleport to an allied building or creep every 60 seconds.",
+				"ultimate_scepter":"Improves your FIEND'S GRIP.
+Should be bought unless the enemy team has annoying disablers. In that case skip it and buy Black King Bar.",
+				"black_king_bar":"Makes you invulnerable to most spells.
+Can be used before activating FIEND'S GRIP.",
+				"soul_ring":"Has base HP and Mana regeneration. When used, drains 150 HP and gives 150 Mana for 10 seconds. Unless more then 150 Mana was used, your Mana returns to the original state. Great for self healing while combined with BRAIN SAP.",
+				"arcane_boots":"Gives you and nearby allies 135 Mana."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_brain_sap",
+			"2":"bane_nightmare",
+			"3":"bane_brain_sap",
+			"4":"bane_nightmare",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_brain_sap",
+			"8":"bane_nightmare",
+			"9":"bane_nightmare",
+			"10":"bane_enfeeble",
+			"11":"bane_fiends_grip",
+			"12":"bane_enfeeble",
+			"13":"bane_enfeeble",
+			"14":"bane_enfeeble",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bane_enfeeble":"Reduces enemy's physical damage.
+Should be casted on the highest physical damage potential enemy as first priority. The more the better.",
+				"bane_brain_sap":"Drains the enemy's HP and gives it to you.
+Should be used after casting FIEND'S GRIP to ensure your kill, unless you just need to heal - in that case Soul Ring can assist for saving mana.",
+				"bane_nightmare":"Disables a friendly or enemy target. If the target is physically attacked, the disables goes to the attacker. If the target is magically attacked, it stops the disable. Targets under the effect take damage.
+Can be used for initiation, disabling and denying allies and yourself.",
+				"bane_fiends_grip":"Drains enemy's Mana for yourself and does damage. Channeled spell, 5 seconds duration.
+In team fights, should be casted on the enemy's key player.",
+				"bane_nightmare_end":"Use to cancel self Nightmare effect."
+		}
+	}
+}

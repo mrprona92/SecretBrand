@@ -1,0 +1,57 @@
+[
+    {
+        "dname": "Meat Hook",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Launches a bloody hook toward a unit or location. The hook will snag the first unit it encounters, dragging the unit back to Pudge and dealing damage if it is an enemy.",
+        "notes": "Interrupts channeling spells of the primary target if it\u0027s an enemy.<br/>Meat Hook hits invisible units.<br/>Meat Hook can go through trees, cliffs, buildings, and mechanical units.<br/>Meat Hook can drag friendly units, but they won\u0027t be damaged.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">90/180/270/360</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">1000/1100/1200/1300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/120/130/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14/13/12/11",
+        "lore": "The Butcher\u0027s hook is a symbolic nightmare, its curved blade a frightening reminder of his slaughterous intent.",
+        "hurl": "Pudge",
+        "name": "pudge_meat_hook",
+        "youtube":"5Y_PSSK5bDc",
+        "id": 0
+    },
+    {
+        "dname": "Rot",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Toggle</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "A toxic cloud that deals intense damage and slows movement--harming not only enemy units but Pudge himself.",
+        "notes": "Using Rot doesn\u0027t interrupt channeling.<br/>Rot hits invisible units.<br/>If Pudge is silenced, he can\u0027t deactivate Rot if it\u0027s activated.<br/>Pudge can deny himself with this ability.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">35/60/85/110</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">250</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">20%/22%/24%/26%</font></b>",
+        "cmb": "",
+        "lore": "A foul odor precedes a toxic, choking gas, emanating from the Butcher\u0027s putrid, ever-swelling mass.",
+        "hurl": "Pudge",
+        "name": "pudge_rot",
+        "youtube":"bzyCOE9V3tI",
+        "id": 1
+    },
+    {
+        "dname": "Flesh Heap",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Gives Pudge resistance to magic damage, as well as bonus strength that increases each time Pudge kills an enemy Hero or it dies in his vicinity.  Flesh Heap is retroactive, meaning it can gain charges before it is skilled, which then become active.",
+        "notes": "Stacks multiplicatively with other spell resistance sources.",
+        "dmg": "",
+        "attrib": "MAGIC RESISTANCE: <b><font color=\"#ffffff\">6%/8%/10%/12%</font></b><br/>STRENGTH BONUS: <b><font color=\"#ffffff\">1/1.5/2/2.5</font></b><br/>RANGE: <b><font color=\"#ffffff\">450</font></b>",
+        "cmb": "",
+        "lore": "The Butcher gives new meaning to the words \u0027meat shield.\u0027",
+        "hurl": "Pudge",
+        "name": "pudge_flesh_heap",
+        "id": 2
+    },
+    {
+        "dname": "Dismember",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "CHANNELED - Pudge chows down on an enemy unit, disabling it and dealing damage over time. Lasts 3 seconds on Heroes, 6 seconds on creeps.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Dismember will disable Spell Immune units, but not damage them.<br/>If a unit becomes invisible while Dismembered, it will still be under the effects of Dismember.",
+        "dmg": "",
+        "attrib": "DAMAGE PER SECOND: <b><font color=\"#ffffff\">75/125/175</font></b><br/><font color=\"#6fe871\">SCEPTER STRENGTH MULTIPLIER:</font></b> <b><font color=\"#ffffff\">1</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/130/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30",
+        "lore": "\u0027When I\u0027m through with these vermin, they\u0027ll be fit for a pie!\u0027",
+        "hurl": "Pudge",
+        "name": "pudge_dismember",
+        "youtube":"e46jjuekNeU",
+        "id": 3
+    }
+]

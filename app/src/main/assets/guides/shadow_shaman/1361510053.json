@@ -1,0 +1,107 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"[DMX] Shadow Shaman (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"blink",
+				"force_staff",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"shivas_guard",
+				"bloodstone",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"ancient_janggo",
+				"phase_boots",
+				"cyclone",
+				"necronomicon",
+				"ghost",
+				"flying_courier",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_shackles",
+			"2":"shadow_shaman_ether_shock",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_voodoo",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_voodoo",
+			"9":"shadow_shaman_voodoo",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_shackles",
+			"13":"shadow_shaman_shackles",
+			"14":"shadow_shaman_shackles",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"Votre principal nuke, très utile en lane pour harass vos ennemis ou pour faire des kills avec votre allié.
+En fin de game utilisez le pour push et dépush.",
+				"shadow_shaman_voodoo":"Un très bon contrôle avec une bonne range, utilisez le en premier, car il n'a pas de temps d'incantation.",
+				"shadow_shaman_shackles":"Un bon contrôle, mais qui vous immobilise totalement, à utiliser avec parcimonie.",
+				"shadow_shaman_mass_serpent_ward":"Un très bon ultimate, qui vous permet de défendre, de push ou d'infliger de gros dégâts en teamfight.
+Essayez d'immobiliser un ennemi grâce à vos contrôles à portée de vos wards pour le tuer facilement."
+		}
+	}
+}

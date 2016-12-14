@@ -1,0 +1,82 @@
+{
+	"Hero":"venomancer",
+	"Title":"The TRUE Venomancer!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"courier",
+				"flask",
+				"tango",
+				"branches",
+				"clarity"
+			],
+			"Early Game -Rich-":
+			[
+				"flying_courier",
+				"ward_observer",
+				"smoke_of_deceit",
+				"boots",
+				"ward_sentry"
+			],
+			"Early Game -Poor-":
+			[
+				"flying_courier",
+				"ward_observer",
+				"smoke_of_deceit"
+			],
+			"Core -Rich-":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"ward_observer",
+				"ward_sentry",
+				"invis_sword"
+			],
+			"Core -Poor-":
+			[
+				"ward_observer",
+				"arcane_boots",
+				"ghost"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_venomous_gale",
+			"9":"venomancer_poison_sting",
+			"10":"venomancer_venomous_gale",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_venomous_gale",
+			"13":"venomancer_poison_sting",
+			"14":"venomancer_poison_sting",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

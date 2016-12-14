@@ -1,0 +1,112 @@
+{
+	"Hero":"clinkz",
+	"Title":"The vita la vita™ guide to Effective Clinkz",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"sobi_mask",
+				"robe",
+				"robe"
+			],
+			"coreItems":
+			[
+				"boots",
+				"orchid"
+			],
+			"Mid Game":
+			[
+				"power_treads",
+				"orchid",
+				"lesser_crit"
+			],
+			"Situational Options":
+			[
+				"black_king_bar",
+				"ring_of_aquila",
+				"greater_crit",
+				"monkey_king_bar",
+				"sheepstick",
+				"magic_wand"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Builds into Ring of Basilius at side shop",
+				"robe":"We prefer the components of the Orchid which will help out with mana issues in the early game.",
+				"boots":"Boots of Speed are fine until after Orchid - prioritize rushing your Orchid",
+				"magic_wand":"Early game option for laning phase depending on how often the enemy is casting",
+				"power_treads":"Swap your treads to INT when casting your ultimate, both to help offset the relatively high mana cost, and to get more healing out of the ability.",
+				"ring_of_basilius":"When you're ready to create your second Oblivion Staff to go into Orchid, split this ring up to use the Sage's Mask.",
+				"sheepstick":"Luxury item",
+				"orchid":"Rushing Orchid is a must. This item is what allows you to become one of the most feared solo gankers in the game.",
+				"black_king_bar":"Good candidate for 4th core item depending on the heroes you're up against.",
+				"monkey_king_bar":"Luxury damage item
+",
+				"greater_crit":"Luxury damage item",
+				"ring_of_aquila":"Helpful for early game, easy to build into with random gold, though not absolutely necessary."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_searing_arrows",
+			"2":"clinkz_wind_walk",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_wind_walk",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_strafe",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_strafe",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_wind_walk",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"We only need 1 level of Strafe at level 8 because this should be about the time that we get Orchid. 4 seconds of attack speed is more than enough time to kill an enemy hero.
+
+Before Orchid, we do not have the mana pool to support Strafe, so put it off until the Orchid comes out.",
+				"clinkz_searing_arrows":"Wait until you get to lane to determine if you can grab Searing Arrows at level 1 - if you are against a lane that is looking for a level 1 first blood, opt for Skeleton Walk.
+
+This build prioritizes Searing Arrows for the huge damage it gives you early on. Make sure to orb walk!",
+				"clinkz_wind_walk":"Wait until you get to lane to determine if you can grab Searing Arrows at level 1 - if you are against a lane that is looking for a level 1 first blood, opt for Skeleton Walk.
+
+We prioritize Skeleton Walk over Strafe. The movespeed/duration bonus allows permanent invisibility and high mobility",
+				"clinkz_death_pact":"Most of the time, you want to be eating a large creep in the jungle to get the most out of this ability. We rush mana/intelligence items in order to support casting this ability nearly every cooldown.
+
+Can be used to control lane position for static farming by eating a friendly creep."
+		}
+	}
+}

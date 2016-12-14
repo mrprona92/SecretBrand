@@ -1,0 +1,20 @@
+{
+  "dotaId": "vladmir",
+  "id": 81,
+  "img": "vladmir_lg.png",
+  "dname": "Vladmir's Offering",
+  "qual": "rare",
+  "cost": 2325,
+  "desc": "Passive: Vladmir's Aura - Grants lifesteal, health regeneration, mana regeneration, bonus attack damage, and armor to allies in a 900 radius.  The lifesteal percentage is based on whether the equipped hero is melee or ranged.<br/><br/>Multiple instances of Vladmir's Aura do not stack.",
+  "notes": "Does not stack with armor auras from Ring of Basilius, Ring of Aquila, or Vladmir's Offering.",
+  "attrib": "+ 2 All Attributes<br/>AURA HEALTH REGEN: 3<br/>AURA MANA REGEN: 0.8<br/>AURA BONUS ARMOR: 5<br/>AURA BONUS ATTACK DAMAGE: 15%<br/>AURA MELEE LIFESTEAL: 15%<br/>AURA RANGED LIFESTEAL: 10%<br/>AURA RADIUS: 900",
+  "mc": false,
+  "cd": false,
+  "lore": "An eerie mask that is haunted with the malice of a fallen vampire.",
+  "components": [
+    "headdress",
+    "ring_of_basilius",
+    "lifesteal"
+  ],
+  "created": true
+}

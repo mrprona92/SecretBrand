@@ -1,0 +1,107 @@
+{
+	"Hero":"riki",
+	"Title":"Carry Riki",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"diffusal_blade",
+				"yasha"
+			],
+			"Late Game":
+			[
+				"manta",
+				"butterfly",
+				"black_king_bar",
+				"heart"
+			],
+			"Aternative":
+			[
+				"sange_and_yasha",
+				"vladmir",
+				"skadi",
+				"abyssal_blade",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Damage block will help keep you in lane.",
+				"slippers":"Gives more damage and will be upgraded later.",
+				"boots":"Need boots to move faster.",
+				"flask":"Good burst regen if you get low.",
+				"tango":"Regen over time to counter act harass.",
+				"power_treads":"Give attack speed and damage, exactly what you need.",
+				"poor_mans_shield":"Good agility and damage block.",
+				"vladmir":"Not recommended but can be good if you team can benefit form the aura.",
+				"heart":"Gives you tons of HP.",
+				"black_king_bar":"Allows you to stay alive and not get stunned. Also provides some HP and damage.",
+				"monkey_king_bar":"Get this to hit heroe's with evasion.",
+				"butterfly":"Give tons of DPS as well as evasion.",
+				"manta":"Gives you good stats and your illusions will deal good damage.",
+				"sange_and_yasha":"Get this if you need more HP.",
+				"skadi":"Alternative to Diffusal, give great stats but is much more expensive.",
+				"yasha":"Give good DPS and allows you to chase better.",
+				"diffusal_blade":"Gives good agility and mana burn is nice. Most importantly you can use the active to trap enemies in Smoke Cloud.",
+				"abyssal_blade":"Gives you good stunning power."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"riki_permanent_invisibility",
+			"2":"riki_backstab",
+			"3":"riki_permanent_invisibility",
+			"4":"riki_backstab",
+			"5":"riki_permanent_invisibility",
+			"6":"riki_blink_strike",
+			"7":"riki_permanent_invisibility",
+			"8":"riki_backstab",
+			"9":"riki_smoke_screen",
+			"10":"riki_backstab",
+			"11":"riki_blink_strike",
+			"12":"riki_smoke_screen",
+			"13":"riki_smoke_screen",
+			"14":"riki_smoke_screen",
+			"15":"attribute_bonus",
+			"16":"riki_blink_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"riki_smoke_screen":"Makes killing people in it easy but no more than one level needed early since your team can provide stuns to help keep the enemies in place for you to kill them.",
+				"riki_blink_strike":"Use to chase enemies in fights and pick them off as they run. Remember to use on allies to escape if needed.",
+				"riki_backstab":"Allows you to do massive damage when you gank. Remember to hit them in the back. Very good with lots of agility items.",
+				"riki_permanent_invisibility":"This allows you to run around unseen and gank lanes effectively. Also makes you hard to kill, also provides health in lane and between ganks. Watch out for the enemy buying invisibility detection.",
+				"attribute_bonus":"No reason to take this before you have to."
+		}
+	}
+}

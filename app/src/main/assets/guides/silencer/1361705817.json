@@ -1,0 +1,114 @@
+{
+	"Hero":"silencer",
+	"Title":"Supporting Lane Silencer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"mantle",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"null_talisman",
+				"boots",
+				"tpscroll",
+				"headdress",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"force_staff",
+				"power_treads",
+				"vitality_booster"
+			],
+			"Lategame Items":
+			[
+				"rod_of_atos",
+				"sheepstick",
+				"shivas_guard"
+			],
+			"luxury":
+			[
+				"arcane_boots",
+				"gem",
+				"ghost",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mantle":"Builds into early Null Talisman and gives you more early damage and mana pool.",
+				"boots":"For obvious reasons.",
+				"gem":"For those nasty invis heroes and antiwarding.",
+				"ghost":"If youre getting pwnd from autoattacks. Also gives nice stats.",
+				"clarity":"Clarities allow you to spam those spells on lane.",
+				"flask":"More regen.",
+				"tango":"Your basic regen.",
+				"courier":"Get courier or wards for your team, both if nobody else is buying them.",
+				"tpscroll":"Always carry at least one of these.",
+				"vitality_booster":"Gives some much needed health and later builds into Rod of Atos.",
+				"power_treads":"Survavibility and attack speed to dish out those Glaives.",
+				"null_talisman":"For some early durability, damage and mana pool.",
+				"mekansm":"Great for your team and gives you some survavibility in the form of stats and armor.",
+				"headdress":"For your Mekansm.",
+				"sheepstick":"Lots of intelligence, lots of damage and spells. Extra hex is always very useful in lategame.",
+				"force_staff":"Helps to stack your intelligence and gives an escape mechanism. Regeneration is good too. Usually its worthwhile to get your mek first and then go for Treads, but if youre encountering something like Lifestealer or Riki who chop you into pieces, get this as soon as possible.",
+				"black_king_bar":"If the enemy team has a lot lockdown, magic immunity lets you use your spells and rightclick in peace. Also gives a nice strenght and damage boost.",
+				"shivas_guard":"Gives lots of armor, intelligence and good lategame aura/nuke. Usually hex is still a better choice.",
+				"arcane_boots":"Only if there is not enough in your team.",
+				"rod_of_atos":"Rod of Atos gives you a nice health and int boost, the two things Nortrom needs. Very costefficient item, and should be your last item in a decent game. In the case your farm is going up thrugh the roof, Scythe of Vyse is a better choice."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_last_word",
+			"2":"silencer_curse_of_the_silent",
+			"3":"silencer_glaives_of_wisdom",
+			"4":"silencer_curse_of_the_silent",
+			"5":"silencer_curse_of_the_silent",
+			"6":"silencer_global_silence",
+			"7":"silencer_curse_of_the_silent",
+			"8":"silencer_last_word",
+			"9":"silencer_last_word",
+			"10":"silencer_last_word",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_glaives_of_wisdom",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"silencer_curse_of_the_silent":"CotS drains your enemys mana and health or forces them to use spells in situations they otherwise wouldn`t. Skill this first, if your enemy has low mana pool or high mana costs (Skeleton King, Chaos Knight, Bane). Against heroes with spammable spells this is not very useful (Venomancer,Storm Spirit)",
+				"silencer_glaives_of_wisdom":"One level of GoW is taken to increase your damage output for kills and harrassment. Use manually in early game to avoid creep aggro and save your mana. Autocast only in fights. One level is enough to steal the enemys int and as a support your other spells do more damage until you get that int up.",
+				"silencer_last_word":"LW is a nice nuke and silence, and possibly disarms. Use this on lane to harass, as 150 dmg on lvl1 is a lot. Max before CotS in the case the enemy has spammable spells. In mid to lategame use this on the enemy carry to disarm.",
+				"silencer_global_silence":"Global Silence is a very good teamfight ulti, that silences the whole enemy team and their summons. Usually best used just after the initial cc in a teamfight, giving your team time to dish out damage without worrying about their spells. Avoid using as inititation, as the enemy will simply walk away",
+				"attribute_bonus":"In some cases you can take stats instead of maxing CotS or Glaives."
+		}
+	}
+}

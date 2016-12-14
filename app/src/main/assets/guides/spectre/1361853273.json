@@ -1,0 +1,113 @@
+{
+	"Hero":"spectre",
+	"Title":"Mid-game Oriented Spectre",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"poor_mans_shield",
+				"magic_wand",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"diffusal_blade",
+				"manta",
+				"heart"
+			],
+			"luxury":
+			[
+				"vitality_booster",
+				"yasha",
+				"power_treads",
+				"radiance",
+				"butterfly",
+				"greater_crit",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Spectre's base mana and health pools aren't huge, so pick up a Wand to allow for regen in teamfights.",
+				"tango":"If you'd like, you can buy a second set of tangoes instead of the last 2 branches.",
+				"phase_boots":"Phase boots have become popular on Spectre because of their incredible chasing power and early damage. They pair well with Drums.",
+				"vitality_booster":"An early health booster for a later heart is always an option if you desperately need the HP pool. Drums has taken its place in most standard builds.",
+				"power_treads":"Treads provide better defensive stats (HP, armor) and lategame damage than phase.",
+				"poor_mans_shield":"Poor Mans Shield is essential when laning against ranged opponents and is incredibly cost efficient.",
+				"heart":"Grabbing a Heart will allow you to walk all over the enemy team during fights.  They will now have to burn through a rediculous amount of health to kill you, which is great for getting the most out of Dispersion.",
+				"radiance":"If you are getting completely free farm early, Radiance is still a strong option since it's a huge dps boost midgame. Your ultimate can nearly kill underleveled supports once Radiance is up and running. Its buildup is much worse than Drums/Diffusa, so do not aim for it if you expect to be disturbed",
+				"butterfly":"The extra stats from Butterfly are always useful on Spectre, and the evasion makes it very difficult for most carries to take you down.  It is best when you have a bunch of items, so you'll want to save it for after your core.",
+				"greater_crit":"Daedalus is one of the last items you'll buy, since it's not amazing on Spectre, but is still very good late-game damage.",
+				"manta":"Your Manta illusions will have Desolate and Mana Burn, so if you can find a lone hero, they will drop very quickly.  It can also be used to disjoint some projectiles and dodge stuns.",
+				"sange_and_yasha":"If you're very, very far behind, you can opt for a Sange & Yasha since it has a fantastic buildup and can be disassembled for a Manta and Heaven's Halberd. It's very rare that you'll ever want to do this, however.",
+				"yasha":"If you're doing very well, you can get greedy and buy a Yasha before diffusal.
+
+Yasha's bonus attack speed synergizes amazingly well with Desolate, as well as giving you some cost-efficient damage and movespeed that will make it very hard for enemies to get away from you and your illusions",
+				"diffusal_blade":"When you have a Diffusal, the purge makes you an incredible ganker when combined with your ultimate. The mana burn synergizes well with your ultimate, as the illusions gain the effect.
+
+You generally only want to upgrade to level 2 for a refill when you have used all/most of your purge charges.",
+				"ancient_janggo":"Drums give fantastic, cheap stats to make Spectre beefier early game. Remember to use charges in teamfights.",
+				"medallion_of_courage":"Medallion is fantastic on any ganker, and it also opens up the possibility of an early Roshan with the debuff.",
+				"heavens_halberd":"A Halberd is a fantastic way to shut down an enemy carry, and the extra health pool and evasion are great on Spectre.",
+				"tranquil_boots":"Tranquils are very strong on carries, since they let you stay in lane (and in some jungle camps) for seemingly forever, which allows you to farm quicker.
+
+If you're not being harassed, feel free to skip tranquils for your standard boots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_spectral_dagger",
+			"2":"spectre_desolate",
+			"3":"spectre_desolate",
+			"4":"spectre_spectral_dagger",
+			"5":"spectre_desolate",
+			"6":"spectre_haunt",
+			"7":"spectre_desolate",
+			"8":"spectre_dispersion",
+			"9":"spectre_dispersion",
+			"10":"spectre_dispersion",
+			"11":"spectre_haunt",
+			"12":"spectre_dispersion",
+			"13":"spectre_spectral_dagger",
+			"14":"spectre_spectral_dagger",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"spectre_spectral_dagger":"Dagger should be used primarily to slow your target and make it impossible for him to juke you.  Though I only take 2 points early, you can choose to max it before dispersion if you don't need the extra survivability.
+
+Use this to run over cliffs/trees and escape ganks as well.",
+				"spectre_desolate":"Desolate is most of what makes you relevant in the midgame, as well as late.  The damage is pure, unreduced by armor or magic resist, so if you can isolate a hero, it's counterpart in physical damage would be even more than a Sacred Relic.  This is devastating against low-health pool heroes midgame.",
+				"spectre_dispersion":"Dispersion is what makes you tankier than most carries, since Spectre's natural health pool is not that incredible.  This is what makes you want to build straight Health instead of armor or magic resist as it will reflect post-reduction damage.  If you have a high health pool, this will be a lot.",
+				"spectre_haunt":"Haunt allows you to safely farm a lane away from your team and teleport onto an enemy hero with Reality from across the map, letting you always be efficient.  This is a strong ganking tool once you've got some items, and becomes very strong in teamfights with max desolate and dispersion."
+		}
+	}
+}

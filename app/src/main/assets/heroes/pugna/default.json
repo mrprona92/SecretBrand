@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_pugna",
+	"Title":"Recommended items for Pugna",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"gauntlets",
+			"circlet",
+			"clarity",
+			"tango",
+			"flask"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"arcane_boots",
+			"ultimate_scepter",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"mekansm",
+			"rod_of_atos",
+			"sheepstick",
+			"shivas_guard",
+			"dagon",
+			"black_king_bar",
+			"ancient_janggo"
+		]
+	}
+}

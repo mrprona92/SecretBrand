@@ -1,0 +1,81 @@
+{
+	"Hero":"oracle",
+	"Title":"[6.82c] Oracle - IceFrog",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"cyclone",
+				"mekansm"
+				],
+			"Late Game":
+			[
+				"bloodstone",
+				"sheepstick",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"[†] Magic Stick → Recipe",
+				"mekansm":"Headdress → Buckler → Recipe",
+				"sheepstick":"Ultimate Orb → Void Stone → Mystic Staff",
+				"orchid":"Oblivion Staff → Oblivion Staff → Recipe",
+				"cyclone":"Void Stone → Staff of Wizardry → Mage's Mask → Recipe",
+				"bloodstone":"Soul Ring → Soul Booster → Recipe"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"oracle_fates_edict",
+			"2":"oracle_purifying_flames",
+			"3":"oracle_purifying_flames",
+			"4":"oracle_fortunes_end",
+			"5":"oracle_purifying_flames",
+			"6":"oracle_false_promise",
+			"7":"oracle_purifying_flames",
+			"8":"oracle_fortunes_end",
+			"9":"oracle_fortunes_end",
+			"10":"oracle_fortunes_end",
+			"11":"oracle_false_promise",
+			"12":"oracle_fates_edict",
+			"13":"oracle_fates_edict",
+			"14":"oracle_fates_edict",
+			"15":"attribute_bonus",
+			"16":"oracle_false_promise",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

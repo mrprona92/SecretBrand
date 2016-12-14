@@ -1,0 +1,111 @@
+{
+	"Hero":"tinker",
+	"Title":"6.82 - Standard Tinker (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"blink"
+			],
+			"Disabler Items":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"orchid"
+			],
+			"Damage-Dealer Items":
+			[
+				"dagon",
+				"ethereal_blade",
+				"ultimate_scepter"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink is to initiate on the foe unsuspectingly, follow this up with Ethereal Blade and your Laser/Heat-Seeker Missile and Dagon. Rearm to do it all again.
+
+We get this very fast so you can blink into the trees, start your March of the Machines and then rearm to teleport out safely.",
+				"bottle":"You want runes and you want mana. Bottle rush is definitely key to a smooth transition into your core items.",
+				"travel_boots":"You need this item on Tinker otherwise you will be rendered useless and an utter failure in the eyes of your teammate.
+
+Be sure to use Rearm after using it immediately to regenerate your health and mana from being in the fountain previously.",
+				"sheepstick":"Scythe of Vyse works with Rearm, so be sure to use it constantly during team fights in order to ensure the enemy team is constantly disabled.",
+				"orchid":"If you want to amplify your abilities against foes; Orchid can work great and works with your Rearm; crippling key ability-users that you don't want them to initiate/nuke/disable.",
+				"dagon":"It is very popular to build Tinker as purely a damage-dealer. With Dagon at Level 5; you can nuke down foes at an incredible rate with all your other abilities.",
+				"ultimate_scepter":"Aghanim's gives you double the missile, double the damage. Great item for Tinker who want to nuke down their foes incredible fast; especially at the range that Missiles can be used at.",
+				"shivas_guard":"Shiva's works with Rearm and gives further survivability for Tinker. Another great item that keeps enemies down and away from you.",
+				"ethereal_blade":"Ethreal Blade with Dagon is an expensive combination but thanks to Tinker's form, he can get it at an incredible rate. Open with Ethreal Blade, Dagon, Missiles and Laser before Rearming and doing it all again.",
+				"soul_ring":"Soul Ring works with your ultimate: Rearm. So the combination of with your Boots of Travel, March of the Machines and Soul Ring to get Rearm up faster works well."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_march_of_the_machines",
+			"3":"tinker_march_of_the_machines",
+			"4":"tinker_heat_seeking_missile",
+			"5":"tinker_march_of_the_machines",
+			"6":"tinker_heat_seeking_missile",
+			"7":"tinker_march_of_the_machines",
+			"8":"tinker_heat_seeking_missile",
+			"9":"tinker_rearm",
+			"10":"tinker_heat_seeking_missile",
+			"11":"tinker_rearm",
+			"12":"tinker_laser",
+			"13":"tinker_laser",
+			"14":"tinker_laser",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"One in Laser for the miss debuff, the rest is for later given how important the range of missiles and the farm March offers you.
+
+Laser let's you prevent foes from dealing that last shred of damage as they get blinded and is a fast nuke.",
+				"tinker_heat_seeking_missile":"Missiles has an incredible range and can pick-off fleeing foes. We're getting this second to ensure you have lane-control and to fend off attacks. Also great for catching fleeing foes who are incredibly far away and thinking they are safe.",
+				"tinker_march_of_the_machines":"Generally, you need two waves of March of the Machines for each creep wave you're farming before having to go back to your fountain to regenerate.
+
+We're maxing March first for the control of the lane, fast gold and to control runes.",
+				"tinker_rearm":"This ultimate works in combination with various item-casting abilities as well including, but not limited to, Dagon, Scythe of Vyse, Eth. Blade and more! ="
+		}
+	}
+}

@@ -1,0 +1,99 @@
+{
+	"Hero":"disruptor",
+	"Title":"Disruptor (Support)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"courier",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"mekansm",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"shivas_guard",
+				"pipe",
+				"bloodstone",
+				"necronomicon",
+				"veil_of_discord",
+				"flying_courier",
+				"rod_of_atos",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Vision is hugely important for surviving ganks and surprising the enemy. It also allows you to use that huge glimpse range.",
+				"ward_sentry":"Definitely keep these coming when you've got invisible enemies giving your team grief.",
+				"mekansm":"If someone else isn't getting this pick it up!  Health Regen, Armor, and Int are nice.  Don't forget to use this for the extra boost of HP during team fights.",
+				"force_staff":"Nice for the Int boost and of course for escaping.",
+				"ultimate_scepter":"This now can add 2 seconds to the Static Storm and silences items as well. Expensive, but can be a nice addition late game.",
+				"arcane_boots":"You need to keep your Mana up for you and your teammates!",
+				"veil_of_discord":"More Int and boosting the damage of your Thunder Strike and Static Storm?  Yes please!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_kinetic_field",
+			"2":"disruptor_thunder_strike",
+			"3":"disruptor_kinetic_field",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_thunder_strike",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_kinetic_field",
+			"8":"disruptor_glimpse",
+			"9":"disruptor_thunder_strike",
+			"10":"disruptor_kinetic_field",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_glimpse",
+			"13":"disruptor_thunder_strike",
+			"14":"disruptor_glimpse",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Nice damage and it hits enemies around the target as well.  If they've picked up a Linken's Sphere you can cast this on them first and then your Glimpse so that Glimpse will succeed.",
+				"disruptor_glimpse":"My favorite skill.  The maximum range is ludicrous and can send enemies who thought they had long escaped back to your allies' blades!  Also, hilarious is sending enemies back to the fountain after they've TP'ed to the front lines.",
+				"disruptor_kinetic_field":"This and your ultimate fit like they were made for each other!  Use this to group the enemies together and to prevent them from pursuing you.  Remember to cast in front of you if you are running so that you don't have to turn towards them first and then cast.",
+				"disruptor_static_storm":"Nice damage output.  Fits right inside your Kinetic Field.  Very important to remember that this silences as well and with Aghanim's Scepter now it can even silence items. For those who like to blink away remember that you can cast this first and then the Kinetic Field to hold them tight."
+		}
+	}
+}

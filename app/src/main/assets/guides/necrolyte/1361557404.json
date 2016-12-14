@@ -1,0 +1,114 @@
+{
+	"Hero":"necrolyte",
+	"Title":"DIE HARD!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"sobi_mask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"headdress",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ultimate_scepter",
+				"mekansm",
+				"urn_of_shadows"
+			],
+			"luxury":
+			[
+				"ward_observer",
+				"courier",
+				"flying_courier",
+				"black_king_bar",
+				"ghost",
+				"bloodstone",
+				"sheepstick",
+				"shivas_guard",
+				"heart",
+				"cyclone"
+			],
+			"Very Situational Items":
+			[
+				"pipe",
+				"sphere",
+				"assault",
+				"vanguard",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sobi_mask":"Early mana regen, after you will do a urn.",
+				"ghost":"Nice item against right clickers.",
+				"ward_observer":"Sometimes you need to support your team too.",
+				"mekansm":"Nice team Item, and give you a lot of survivability.",
+				"urn_of_shadows":"You can use offensive too, this with your aura and pulse will easily kill a support.",
+				"headdress":"Pre-Mekans a little life regen.",
+				"sheepstick":"Gives you a disable other than the ult. A really nice item in the late game against the enemy carry.",
+				"cyclone":"An ok disable, that guarantee a little survivability",
+				"ultimate_scepter":"Nice overall stasts.
+And you can kill with your ult more easily.",
+				"heart":"Tank item. ",
+				"black_king_bar":"you cant heal if you are stunned.",
+				"shivas_guard":"Nice to chase, nice to tank, nice mana pool and nice damage.
+Really good item against some heroes.",
+				"bloodstone":"You wont die item, with enough charges you can spam pulse.",
+				"blade_mail":"Nice against glass cannons."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_death_pulse",
+			"2":"necrolyte_sadist",
+			"3":"necrolyte_heartstopper_aura",
+			"4":"necrolyte_sadist",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_sadist",
+			"8":"necrolyte_sadist",
+			"9":"necrolyte_death_pulse",
+			"10":"necrolyte_death_pulse",
+			"11":"necrolyte_reapers_scythe",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"necrolyte_heartstopper_aura",
+			"18":"necrolyte_heartstopper_aura",
+			"19":"necrolyte_heartstopper_aura",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"necrolyte_death_pulse":"Nice skill overall, to farm, to kill, to survive, to spam.
+If you suffer a gank, spam this skill and you have  a higher chance of survive.",
+				"necrolyte_heartstopper_aura":"I like just a point in the early levels to harass your opponents without pushing much your lane.",
+				"necrolyte_sadist":"If you have a good skills last hitting, this passive is awesome. Kill a hero and you are almost full mana/life to keep killing.",
+				"necrolyte_reapers_scythe":"This ultimate is really nice, you can stun a immune target or kill a high life pool opponent."
+		}
+	}
+}

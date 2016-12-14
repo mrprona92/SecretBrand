@@ -1,0 +1,92 @@
+{
+	"Hero":"necrolyte",
+	"Title":"NecroSupport",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"mantle",
+				"flask",
+				"tango",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_regen",
+				"headdress",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"veil_of_discord",
+				"rod_of_atos",
+				"ultimate_scepter",
+				"pipe",
+				"bloodstone",
+				"shivas_guard",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Everybody need boots. Bulid them into Phase Boots for escape or to get inn the middle of a team fight to spam Death Pulse.",
+				"flask":"Take it for you in a calm situation, or better give it to your carry.",
+				"ward_observer":"Always have at least 2 wards on the map! Always.",
+				"tango":"The resouce of hp in the first minutes. Later on you will not need any health regenerating items because of your Death Pulse, Sadist and Mekansm.",
+				"courier":"Buy it. ",
+				"phase_boots":"Escape or get into the middle of the fight. Or just follow your team mates, because necro is really slow.",
+				"mekansm":"This item can change a team fight to your benefit. There should always be one supporter in your team with mek!",
+				"pipe":"If you are against heavy casting heroes, this will shield you and your team. If someone else already bought, forget it.",
+				"ultimate_scepter":"If you are against tanky enemies, buy it. Or if you like to ult more. It also gives you some nice general stats.",
+				"bloodstone":"If not too late in game, its perfekt for a better surving.",
+				"veil_of_discord":"GIves some survailability, extra damage and enhances your DEATH PULSE and REAPER'S SCYTHE wonderful. If you buy it, maybe forget about Aghanim's. Fits perfekt to a supporting Necro. (thx to Spacebear)",
+				"rod_of_atos":"i havent tried it yet, but it seem to be good in mid game for ganking. Try it out."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"necrolyte_heartstopper_aura",
+			"2":"necrolyte_death_pulse",
+			"3":"necrolyte_sadist",
+			"4":"necrolyte_death_pulse",
+			"5":"necrolyte_death_pulse",
+			"6":"necrolyte_reapers_scythe",
+			"7":"necrolyte_sadist",
+			"8":"necrolyte_death_pulse",
+			"9":"necrolyte_sadist",
+			"10":"necrolyte_sadist",
+			"11":"necrolyte_reapers_scythe",
+			"12":"necrolyte_heartstopper_aura",
+			"13":"necrolyte_heartstopper_aura",
+			"14":"necrolyte_heartstopper_aura",
+			"15":"attribute_bonus",
+			"16":"necrolyte_reapers_scythe",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "dotaId": "claymore",
+  "id": 5,
+  "img": "claymore_lg.png",
+  "dname": "Claymore",
+  "qual": "component",
+  "cost": 1400,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 21 УРОНА",
+  "mc": false,
+  "cd": false,
+  "lore": "Меч, способный пробить броню — это обычный выбор начинающих меченосцев.",
+  "components": null,
+  "created": false
+}

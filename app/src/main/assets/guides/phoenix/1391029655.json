@@ -1,0 +1,157 @@
+{
+	"Hero":"phoenix",
+	"Title":"As Bright as a Star",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"tranquil_boots",
+				"power_treads"
+			],
+			"Shiva's or Heart?":
+			[
+				"mystic_staff",
+				"reaver"
+			],
+			"Core":
+			[
+				"shivas_guard",
+				"heart",
+				"radiance"
+			],
+			"Situational":
+			[
+				"bottle",
+				"hood_of_defiance",
+				"pipe",
+				"ancient_janggo",
+				"soul_ring",
+				"veil_of_discord",
+				"rod_of_atos",
+				"heavens_halberd",
+				"necronomicon",
+				"force_staff",
+				"travel_boots",
+				"ultimate_scepter"
+			],
+			"VERY Situational ":
+			[
+				"magic_wand",
+				"mekansm",
+				"vanguard",
+				"blade_mail",
+				"assault",
+				"ethereal_blade",
+				"blink",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Since patch 6.80, Blink Dagger no longer requires mana to be used. I added this here to encourage people to try it, the extra choice in mobility adds convenience and versatility. Add feedback if you do. ",
+				"stout_shield":"Get a stout IF you're being harassed. ",
+				"gauntlets":"Since Phoenix is health based, don't worry about a clarity and get two Gauntlets.
+",
+				"branches":"GG",
+				"gem":"Damn you Riki. Screw you Broodmother.  ",
+				"magic_wand":"Are you going against anti-mana heroes like Anti-Mage, Lion, and Outworld Devourer? Are they stopping you from using Supernova? Then Bippity-Boppity-Boo, burst mana for you. Oh and more Stats. ",
+				"flask":"Tangos and Salve. Basic Regen.",
+				"bottle":"Going mid? Bottle's good. Spam them Fire Spirits. ",
+				"tango":"Tangos and Salve. Basic Regen.",
+				"travel_boots":"By the off chance that you're 6 slotted, or you need more movement speed and constantly need TPs. BoT will take care of your boots and TP needs. ",
+				"reaver":"After you get Treads (or Tranquil), here's the big question. Heart or Shiva's? If things are going very well, get a Reaver for Heart. But if things aren't in your favor, get a Staff for Shiva's. ",
+				"mystic_staff":"After you get Treads (or Tranquil), here's the big question. Heart or Shiva's? If things are going very well, get a Reaver for Heart. But if things aren't in your favor, get a Staff for Shiva's. ",
+				"power_treads":"Treads offer more health, and a boost in right click ability. Although it is not as reliable as Tranquil's HP regen and faster speed, it allows you to be more offensive, but it's more expensive. I recommend Treads if the enemy team has a lot of squishy targets.
+
+Dota Standards: DON'T get both. ",
+				"mekansm":"As Phoenix, you also want to think about HP regen rather than just how much you have. Mekansm's burst healing is excellent and many people gets Mek as Phoenix, but I think it's better to be held by your team's Support. If you actually are supporting, then that's a different situation. ",
+				"vladmir":"I've been told Vladimir's aura works with Supernova. But if you have a hero who absolutely needs Vlads (like Ursa, Lycan, or Meepo), don't even THINK about getting this. ",
+				"pipe":"Get a pipe if you built a Headdress or a Hood of Defiance, and your team requires magic resistance. Patch 6.81 added Headdress's healing aura to Pipe. ",
+				"urn_of_shadows":"This will be your basic healing and mana regen tool. ",
+				"headdress":"Headdress is one of the best basic upgrade for HP regen. If you need it really badly, then save it for Pipe of Insight. Try to save Mekansm for your support. (Hope you kept that GG branch if you're considering this.)",
+				"force_staff":"Force Staff offers more HP regen, and more mana to work with. It also adds another mobility skill for Phoenix to utilize for himself and his team. I recommend this item if the game is really going bad for you. ",
+				"necronomicon":"Scaling Strength and Intelligence, I recommend maxing out Necrobook if you're getting it at all. Remember, you can summon the warriors during Icarus Dive and they can substitute you in team fights while you're under Supernova.",
+				"ultimate_scepter":"Patch 6.82: With scepter, you can use your ultimate to &amp;quot;rebirth&amp;quot; an ally hero. You can refresh your carry during a team fight if they get focused, or feed a double kill. Remember scepter turns your ult into a unit target skill instead of cast. ",
+				"assault":"Assault Cuirass is only useful if Phoenix has a lot of damage (ex. from Radiance) to utilize the attack speed with. Under Supernova, only AC's armor aura is being used. Since armor amount doesn't matter under supernova, think carefully before buying this item. ",
+				"heart":"Phoenix is a hero whose ability revolves around his Maximum HP. So the two things he absolutely need is HP amount, and HP regeneration. Heart offers both, so it's a natural core for him.
+
+Getting both Shiva's and Heart is very beneficial, but try to save that for late game.",
+				"black_king_bar":"Although BKB does offer more health, and magic immunity is always reliable, there are better choices for Phoenix since he becomes immune to Spells during Supernova anyway.
+I don't recommend this, but it's up to your preference. ",
+				"shivas_guard":"Shiva's Guard makes Phoenix more tanky, and makes up for his low mana pool. It also slows enemy auto attack speed which will benefit your Ultimate. Not as useful as Heart for Phoenix, but it helps.
+
+Getting both Shiva's and Heart is very beneficial, but try to save that for late game.",
+				"bloodstone":"Bloodstone is an item for Mana-based Heroes. Phoenix being a Health-based Hero, doesn't benefit from this. ",
+				"vanguard":"As a ranged hero, I don't recommend vanguard on Phoenix. Although it provides health and regen, the damage block is weak on ranged units. ",
+				"blade_mail":"If the enemy team has a tendency to focus you before or after your ultimate, Blademail is a decent pick up. Just remember, armor and magic resistance is null during Supernova, so think carefully before purchase.
+",
+				"hood_of_defiance":"Hood of Defiance has much more reliable HP regen, and offers spell resistance compared to Headress. Only it lacks the healing aura of Headress and is much more expensive. ",
+				"radiance":"I am Phoenix, I come from afar.
+I fight for the good, as Bright as a star. 
+
+Radiance stacks with all of your spells DPS, and the extra damage is great against heroes with lower HP. Although I listed Radiance as a Core, I actually DON'T consider it to be Mandatory.  ",
+				"ethereal_blade":"After building a Heart, people seem to enjoy building an E-Blade. Although E-Blade takes full advantage of the Strength points given by Heart and makes your spells do more damage, the individual pieces to build this item is expensive, so consider this a Luxury item.",
+				"soul_ring":"It offers some regen, and you might need the sudden mana regen for your ult. But that's really up to your preference. ",
+				"ancient_janggo":"Drum's extra HP and mana, as well as its aura is beneficial. But your team's carry who's potentially getting drum has more priority to get it than you, so make sure he or she isn't getting one before considering Drums. ",
+				"veil_of_discord":"Veil of Dischord offers more stats, HP regen, and some tankiness. But its ability to amplify magic damage benefits you greatly. The enemy team will literally melt. ",
+				"rod_of_atos":"Any item that offers more HP benefits Phoenix. And the slow from Atos will benefit your team. The slow has pretty good range, so it combos well with Sun Ray. Patch 6.81 lowered the cooldown by 2 seconds.",
+				"heavens_halberd":"Halberd requires Sange to build, which gives Phoenix more HP. Disarm will greatly benefit you since it will stop someone from attacking your team or your Supernova. Finally, evasion is a very nice bonus. ",
+				"tranquil_boots":"Get either a Treads or a Tranquils.
+Tranquil boots is the fastest boot upgrades after Boots of Travel. It also is one of the best basic upgrades for HP regeneration, something Phoenix also has to worry about. Potentially best boots for Phoenix because of its cost, speed, and uses. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_sun_ray",
+			"4":"phoenix_fire_spirits",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_sun_ray",
+			"9":"phoenix_sun_ray",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_icarus_dive",
+			"13":"phoenix_icarus_dive",
+			"14":"phoenix_icarus_dive",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Icarus Dive is your primary mobility skill. You can use it as a gap closer, or an escape. Remember that you are still a valid target for spells during flight.",
+				"phoenix_fire_spirits":"This is your primary source of damage as Phoenix in the early game. The missile speed of each spirit is quite slow, so aiming is key. Just remember, hitting the same target more than once only refreshes the DPS duration; the damage doesn't stack. ",
+				"phoenix_sun_ray":"Sun Ray is your go-to skill during team fights. The idea is to catch both teams to heal your allies and decimate enemies. Since you can also turn and ignore terrain with this skill, it's also a valid finisher ability. ",
+				"phoenix_supernova":"Remember, only attacks from enemy heroes will register. Enemy creeps, structures, and even the fountain cannot destroy the Supernova. DON'T initiate with this skill, but rather use as a re-engage when you're low and on cooldown. Remember, ALL of your auras still function under Supernova.  "
+		}
+	}
+}

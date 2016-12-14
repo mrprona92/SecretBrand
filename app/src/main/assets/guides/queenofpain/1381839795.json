@@ -1,0 +1,82 @@
+{
+	"Hero":"queenofpain",
+	"Title":"[RUS] QoP - Super Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mjollnir",
+				"greater_crit",
+				"skadi",
+				"ultimate_scepter",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Самый начальный предмет. ",
+				"power_treads":"Апгрейд для ботинок, желательно ставить на силу или ману, т.к. квопа не такой толстый герой",
+				"ultimate_scepter":"Уменьшает кд и повышает дамаг от вашей ульты",
+				"greater_crit":"Невероятные криты, которые будут жарить анус вашим противникам как в середине, так и в конце игры",
+				"orb_of_venom":"На ранних стадиях игры будет наносит огромный дамаг вместе с первой способностью"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_shadow_strike",
+			"2":"queenofpain_blink",
+			"3":"queenofpain_scream_of_pain",
+			"4":"queenofpain_shadow_strike",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_shadow_strike",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_blink",
+			"14":"queenofpain_scream_of_pain",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Будет наносить огромный урон в начале игры вместе с Orb of Venom, что даст вам гораздо больше фарма",
+				"queenofpain_blink":"Замечательный скилл как для инициации ганка, так и для эскейпа"
+		}
+	}
+}

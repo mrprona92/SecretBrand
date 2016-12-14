@@ -1,0 +1,111 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Solo Mid TA",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"phase_boots",
+				"magic_wand",
+				"bottle",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"desolator",
+				"manta",
+				"monkey_king_bar",
+				"greater_crit",
+				"dust",
+				"sphere",
+				"medallion_of_courage"
+			],
+			"Luxury items":
+			[
+				"travel_boots",
+				"butterfly",
+				"skadi",
+				"heart",
+				"rapier",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"I recommend pressuring mid lane until you get this item, if your lane opponent leaves the lane to gank, push the tower as hard as you can, undefended towers go down quickly against TA.",
+				"branches":"Get 3 or 4 branches depending on your opponent at the lane.",
+				"magic_wand":"I would recommend almost always getting this item, because of the sustainability it gives you in fights.",
+				"flask":"You want to keep around 300 gold so that you can get your bottle as soon as possible, preferably before the second rune spawns.",
+				"dust":"Since you will  be ganking a lot, get this if there are heroes with invisability against you.",
+				"bottle":"Since TA has a low health and mana pool, with low mana cost spells, bottle is very efficient at recovering health and mana for recfraction spamming.                     Since you can kill a creep wave so fast thanks to psi blades and refraction, you should not have a problem with getting runes.",
+				"tpscroll":"Always carry a TP. If the other team dives under the tower on one of the other lanes, TPing can sometimes score easy kills, as well as saving the life of your team mates.",
+				"travel_boots":"For when you no longer have an item slot left over for a TP scroll, and for counter-pushing potential.",
+				"phase_boots":"Gives you more chasing potential, as well as mobility in fights, and they make it easier to last hit creeps.
+
+Note: These boots do not scale as well as power treads do with refraction ",
+				"power_treads":"Power treads is more often than not better than phase boots because of the following reasons:
+1. Attack speed scales well with refraction damage.
+2. Makes you more tanky.
+3. Switch to int treads before using refraction for maximum mana efficiency.",
+				"black_king_bar":"Get bkb as your first or second \"big\" item depending on the the other team`s heroes.",
+				"sphere":"Great for added tankiness, as well as sustainability. Good item versus heroes like bane elemental, beastmaster, or doom.",
+				"rapier":"GG",
+				"monkey_king_bar":"If your opponents are getting a butterfly or heavens halberd, or you are facing heroes with evasion such as  phantom assassin or panda get this item.",
+				"greater_crit":"For added burst damage. Feels good to one-shot the supports with a crit!",
+				"manta":"Very good item for added mobility and attack speed, as well as illusions for added pushing potential and confusion to your opponents. Can also be used to disjoint stuns from various heroes, or even dispel certain debuffs or annoying damage-over-time spells.",
+				"desolator":"Usually get this item because of the extremely high burst damage you can dish out combined with the negative armor from meld.",
+				"medallion_of_courage":"Can work as an alternative to desolator with the negative armor. Great for killing roshan super fast."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_refraction",
+			"2":"templar_assassin_psi_blades",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

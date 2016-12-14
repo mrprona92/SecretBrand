@@ -1,0 +1,83 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"Witch Doctor - Ping Pong ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"tango",
+				"flask",
+				"gauntlets",
+				"courier"
+			],
+			"Early ":
+			[
+				"boots",
+				"bracer",
+				"ward_observer",
+				"magic_stick"
+			],
+			"Core":
+			[
+				"bloodstone",
+				"phase_boots"
+			],
+			"Situational":
+			[
+				"arcane_boots",
+				"black_king_bar",
+				"ultimate_scepter",
+				"urn_of_shadows",
+				"sheepstick",
+				"mekansm",
+				"orchid",
+				"force_staff",
+				"shivas_guard",
+				"dagon"
+			],
+			"Ping Pong invis":
+			[
+				"invis_sword"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_maledict",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_maledict",
+			"9":"witch_doctor_voodoo_restoration",
+			"10":"witch_doctor_maledict",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_voodoo_restoration",
+			"13":"witch_doctor_voodoo_restoration",
+			"14":"witch_doctor_voodoo_restoration",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

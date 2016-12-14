@@ -1,0 +1,78 @@
+{
+	"Hero":"viper",
+	"Title":"[DeX] GodLike Viper",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"wraith_band",
+				"wraith_band"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"manta",
+				"heart"
+			],
+			"luxury":
+			[
+				"vanguard",
+				"butterfly",
+				"assault",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Only if in MID(Solo) getting all last hits.",
+				"vanguard":"Only if you suffering meele damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_nethertoxin",
+			"2":"viper_poison_attack",
+			"3":"viper_nethertoxin",
+			"4":"viper_poison_attack",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_corrosive_skin",
+			"8":"viper_nethertoxin",
+			"9":"viper_poison_attack",
+			"10":"viper_corrosive_skin",
+			"11":"viper_viper_strike",
+			"12":"viper_nethertoxin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

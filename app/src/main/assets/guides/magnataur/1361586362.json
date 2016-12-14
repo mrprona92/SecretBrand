@@ -1,0 +1,96 @@
+{
+	"Hero":"magnataur",
+	"Title":"6.82 - Standard Magnus (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink"
+			],
+			"luxury":
+			[
+				"mask_of_madness",
+				"assault",
+				"greater_crit"
+			],
+			"Extension Items":
+			[
+				"black_king_bar",
+				"shivas_guard",
+				"refresher"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"To further add situating your engagement. When Skewer won't do, try opening with Blink Dagger, Reverse Polarity and then charge them further back.",
+				"refresher":"If looking to be more of an initiator throughout the game. Refresher is the cherry on top for your intentions.",
+				"black_king_bar":"In case someone is initiating before you can, Black King Bar will change all that; giving you dominance and reassurance from your team that you can land your Reverse Polarity.",
+				"greater_crit":"Mask of Madness and Daedlus work great in-synx with Magnus ability: Empower, but it isn't what's essential to Magnus' main role.",
+				"mask_of_madness":"Mask of Madness and Daedlus work great in-synx with Magnus ability: Empower, but it isn't what's essential to Magnus' main role.",
+				"ancient_janggo":"If feeling uncomfortable after Bottle, Drum of Endurance would give you the stats you need and more movement speed."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"magnataur_skewer",
+			"2":"magnataur_shockwave",
+			"3":"magnataur_shockwave",
+			"4":"magnataur_skewer",
+			"5":"magnataur_shockwave",
+			"6":"magnataur_reverse_polarity",
+			"7":"magnataur_shockwave",
+			"8":"magnataur_skewer",
+			"9":"magnataur_skewer",
+			"10":"magnataur_empower",
+			"11":"magnataur_reverse_polarity",
+			"12":"magnataur_empower",
+			"13":"magnataur_empower",
+			"14":"magnataur_empower",
+			"15":"attribute_bonus",
+			"16":"magnataur_reverse_polarity",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"magnataur_shockwave":"Use Shockwave to last hit and destroy opponents who are escaping or trapped in your Reverse Polarity.",
+				"magnataur_empower":"This ability is amazing both on Magnus and on any other physical carry. Use it constantly to help others farm or attack.",
+				"magnataur_skewer":"Your Skewer can be used to initiate until you have Blink Dagger and then used to foes towards your allies. Remember that Skewer can be used to go over cliffs and through trees.",
+				"magnataur_reverse_polarity":"Reverse Polarity works through Black King Bar. Be sure to Skewer or Blink Dagger in first before initiating with Reverse Polarity."
+		}
+	}
+}

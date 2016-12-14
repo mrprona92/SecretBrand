@@ -1,0 +1,94 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"[DMX] Skeleton King (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"power_treads",
+				"black_king_bar",
+				"desolator",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"heart",
+				"travel_boots",
+				"rapier"
+			],
+			"Situationnels":
+			[
+				"vanguard",
+				"sange_and_yasha",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"vanguard":"Vous pouvez faire un Vanguard en début de partie pour tanker plus facilement.",
+				"monkey_king_bar":"Vous pouvez faire monkey king bar pour augmenter encore plus votre dps.",
+				"sange_and_yasha":"Sange et Yasha est un bon item qui vous donne du dps et de tanking. Faites le si vous avez quelques problèmes pour farmer."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_mortal_strike",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_vampiric_aura",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"Votre seul sort actif, un stun monocible infligeant quelques dégâts. Servez vous en pour engager une cible ou pour fuir plus facilement en retenant un ennemi.",
+				"skeleton_king_vampiric_aura":"Une aura très pratique pour vous régénérez. Elle vous permet d'aller dans les woods dès que vous aurez quelques items.",
+				"skeleton_king_reincarnation":"Votre ultimate vous permettra de renaitre de vos cendres, très pratique, surtout au niveau trois où le cooldown est ridicule. Essayez de vous faire focus sur votre première vie pour que vos alliés soient plus tranquilles."
+		}
+	}
+}

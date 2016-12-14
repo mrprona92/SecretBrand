@@ -1,0 +1,92 @@
+{
+	"Hero":"shadow_shaman",
+	"Title":"Support Shadow Shaman",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"flask",
+				"tango",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"ward_observer",
+				"flying_courier",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"cyclone",
+				"ancient_janggo",
+				"blink"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"ghost",
+				"refresher",
+				"ultimate_scepter",
+				"force_staff"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"A very good Position-Tool",
+				"ghost":"If the enemy team got strong right clicker and not much magical damage nuke the ghost scepter is aver good choice.",
+				"ward_observer":"If you laning on the safe lane and your team go already a stack of wards and courier you should buy sentry wards to deward the pullcamp, so your lane get the exp and gold advantage.",
+				"cyclone":"If u more like Force Staff u can instead of the euls go for it.",
+				"ultimate_scepter":"If your team need the extra oushing power and you got the gold, refresher orb and aghanims are the right choices.",
+				"refresher":"If your team need the extra oushing power and you got the gold, refresher orb and aghanims are the right choices."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_shaman_shackles",
+			"2":"shadow_shaman_ether_shock",
+			"3":"shadow_shaman_ether_shock",
+			"4":"shadow_shaman_voodoo",
+			"5":"shadow_shaman_ether_shock",
+			"6":"shadow_shaman_mass_serpent_ward",
+			"7":"shadow_shaman_ether_shock",
+			"8":"shadow_shaman_voodoo",
+			"9":"shadow_shaman_voodoo",
+			"10":"shadow_shaman_voodoo",
+			"11":"shadow_shaman_mass_serpent_ward",
+			"12":"shadow_shaman_shackles",
+			"13":"shadow_shaman_shackles",
+			"14":"shadow_shaman_shackles",
+			"15":"attribute_bonus",
+			"16":"shadow_shaman_mass_serpent_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_shaman_ether_shock":"A very powerful nuke to harass the enemys in laning phase and in teamfights. ",
+				"shadow_shaman_voodoo":"very good disable if u dont have the position for a shakle use it or for ward trapping enemys. Note, that the enemy wont be slowed if he has haste anctivated",
+				"shadow_shaman_shackles":"Very long disable but u need a good position in teamfight to dont get interrupted.",
+				"shadow_shaman_mass_serpent_ward":"nice skill to push towers, less effective in teamfights but if u can hold the enemys in place its also very good in teamfights."
+		}
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"Hero":"broodmother",
+	"Title":"라인의 지배자! 강력한 푸싱 스킬을 가진 영웅!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_basilius",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"butterfly",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"체력이 부족하므로 힘으로 설정해주는 편이 좋습니다.",
+				"vladmir":"생존을 위한 가장 중요한 아이템. 마나와 아머까지 증가 시켜 줍니다.",
+				"ring_of_basilius":"Q스킬 마나 소모가 심한 편이므로 마나 회복 효과가 있는 좋은 시작 아이템",
+				"heart":"이것은 사실 모든 캐릭터들에게 좋은 아이템인데, 거미 여왕은 특히 HP가 낮은 편이지 때문에 정말 좋습니다.",
+				"butterfly":"민첨 캐리의 아이템!",
+				"greater_crit":"캐리의 코어템이죠.",
+				"soul_ring":"마나 소모가 극심한 편이므로 가장 1순위로 맞춰야 합니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"broodmother_spin_web",
+			"2":"broodmother_spawn_spiderlings",
+			"3":"broodmother_incapacitating_bite",
+			"4":"broodmother_spawn_spiderlings",
+			"5":"broodmother_spawn_spiderlings",
+			"6":"broodmother_insatiable_hunger",
+			"7":"broodmother_spawn_spiderlings",
+			"8":"broodmother_incapacitating_bite",
+			"9":"broodmother_spin_web",
+			"10":"broodmother_incapacitating_bite",
+			"11":"broodmother_insatiable_hunger",
+			"12":"broodmother_incapacitating_bite",
+			"13":"broodmother_spin_web",
+			"14":"broodmother_spin_web",
+			"15":"attribute_bonus",
+			"16":"broodmother_insatiable_hunger",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"broodmother_spawn_spiderlings":"거미 여왕이 적에게 일정 데미지를 주고 이 효과가 유지 되는 동안 적에게 막타를 성공하면 새기 거미들이 태어납니다. 거미 여왕의 주력 파밍 스킬.
+마나 소모량이 크므로 초반 남발은 금물.",
+				"broodmother_spin_web":"거미줄을 칩니다. 그 주변의 아주 조금 시야가확보되고 들어갈경우 투명화와 생명력 재생 효과를 받습니다.
+와드에 취약한 약점이 있지만, 거미 여왕의 파밍력을 극대화 시켜주는 스킬이죠.",
+				"broodmother_incapacitating_bite":"거미 여왕의 독으로 적 유닛을 중독시켜 움직임을 둔화 시킵니다. 공격도 빗나가게 만드는 스킬. 고유 공격 변형치로 다른 고유 공격 변형치와 중첩 되지 않습니다.",
+				"broodmother_insatiable_hunger":"사용하면 일정시간동안 공격력과 흡혈량이 대폭 상승!
+이 스킬 덕분에 초반에 아이템이 안 나와도 폭발적인 딜링이 가능합니다."
+		}
+	}
+}

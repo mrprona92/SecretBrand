@@ -1,0 +1,110 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"Dracik's Gondar Build/Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"slippers",
+				"slippers"
+			],
+			"Optional starting items":
+			[
+				"tango",
+				"flask",
+				"ward_sentry",
+				"branches",
+				"slippers"
+			],
+			"Early game":
+			[
+				"boots",
+				"ring_of_basilius",
+				"poor_mans_shield"
+			],
+			"Core":
+			[
+				"vladmir",
+				"power_treads",
+				"bottle"
+			],
+			"Situational":
+			[
+				"ancient_janggo",
+				"desolator",
+				"black_king_bar",
+				"heavens_halberd",
+				"assault",
+				"abyssal_blade",
+				"butterfly",
+				"orchid",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Get bottle if you find yourself lacking regen early game. Not a usual pickup though.",
+				"ward_sentry":"Buy sentries when you suspect the enemy team to buy them against you.",
+				"power_treads":"I like Treads better than Phase Boots for the health boost and attack speed boost. I find having no trouble chasing with Jinada and Track to need Phase.",
+				"poor_mans_shield":"Good early game item. Some damage, attack speed and a damage reduction from autoattacks.",
+				"vladmir":"A great item for Gondar as well as the team. Gives you everything you need, mana regen, armor, damage, lifesteal.",
+				"orchid":"Get this item to assassinate THAT mage that keeps stunning and killing your team.",
+				"assault":"Armor and attack speed for you and your teammates, armor reduction for the enemies. What's not to love?",
+				"black_king_bar":"Get this if their team team has lots of stuns. Also gives some damage and hp. Good item overall.",
+				"monkey_king_bar":"A must have if the enemy carry has a Butterfly (counters the dodge chance).",
+				"butterfly":"The ultimate carry item. Don't get this if the enemy has a Monkey King Bar.",
+				"desolator":"Good damage item, nice armor shredding. I get this item often.",
+				"ancient_janggo":"Get this if you have a bad early game and are having trouble farming for the bigger items.",
+				"abyssal_blade":"Damage, bash chance and a great two second stun that goes throuch magic immunity. Get only if fairly fed though.",
+				"heavens_halberd":"Nice tanky stats, great counter against their damage carry (Disarm prevents them from attacking)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_shuriken_toss",
+			"3":"bounty_hunter_jinada",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_wind_walk",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_shuriken_toss",
+			"8":"bounty_hunter_shuriken_toss",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_jinada",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"Good damage early game, great for killing running heroes and canceling TPs. Best maxed early.",
+				"bounty_hunter_jinada":"Get a level before 6 for the slow and better last hitting, max after Shuriken.",
+				"bounty_hunter_wind_walk":"Get two levels before 6, so the duration is longer than the cooldown.",
+				"bounty_hunter_track":"One of the best ultimates in the game. Make sure to use it every fight for the extra gold. Useful when chasing and running away because of the speed boost."
+		}
+	}
+}

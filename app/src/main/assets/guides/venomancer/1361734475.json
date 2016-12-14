@@ -1,0 +1,91 @@
+{
+	"Hero":"venomancer",
+	"Title":"Venomancer Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"ring_of_basilius",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"force_staff",
+				"ultimate_scepter",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Very good boots on Venomancer. You can also consider getting Arcane Boots if you have severe mana problems and no one on the team has them.",
+				"mekansm":"You are the support - Mekanism can easily swing the fight in your favor.",
+				"cyclone":"A cheap way to increase your mana regen and a way to disable an important enemy. Not advisable to buy if you`ve chosen to go with Arcane Boots.",
+				"force_staff":"Overall great utility, not too expensive as well.",
+				"ultimate_scepter":"If somehow you have money, consider getting this. If the enemy team has no Mek or Pipe, they are doomed.",
+				"ancient_janggo":"Nice stats, cheap item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_poison_sting",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_poison_sting",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_poison_sting",
+			"8":"venomancer_plague_ward",
+			"9":"venomancer_plague_ward",
+			"10":"venomancer_plague_ward",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_venomous_gale",
+			"13":"venomancer_venomous_gale",
+			"14":"venomancer_venomous_gale",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"One of the best slows in the game at level 1. It is not always easy to hit however, so keep that in mind. The damage is very nice and the skill is worth maxing. Be wary though - this skill makes heroes deniable when on low health.",
+				"venomancer_poison_sting":"A great ability when used in combination with your other damage over time (DoT) effects.",
+				"venomancer_plague_ward":"Incredibly useful ability when it comes to counter-pushing. Low cooldown, low manacost - the wards rip creeps apart. Not so great for pushing as the wards do reduced damage to buildings but still great to scout and clear creep waves.",
+				"venomancer_poison_nova":"Absolutely devastating ability. Just make sure to hit as many people as possible with it and with Gale and that`s your job done."
+		}
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"Hero":"faceless_void",
+	"Title":"Darkterror, the Faceless Void Guide by The Unforgiven",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"magic_stick",
+				"poor_mans_shield",
+				"power_treads",
+				"mask_of_madness"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"maelstrom",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"butterfly"
+			],
+			"Final Items":
+			[
+				"power_treads",
+				"mask_of_madness",
+				"bfury",
+				"greater_crit",
+				"mjollnir",
+				"butterfly"
+			],
+			"Optional":
+			[
+				"medallion_of_courage",
+				"heart",
+				"travel_boots",
+				"black_king_bar",
+				"ultimate_scepter",
+				"desolator",
+				"monkey_king_bar",
+				"satanic",
+				"skadi"
+			],
+			"Last Updated 09-08-2014":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"I wouldnt say this is essential at early game, but it really helps with last hitting.",
+				"stout_shield":"Stout shield will help you with early game incoming harrass. Upgrade to PMS.",
+				"slippers":"These slippers of agility will help you to get some extra Agility and either you build Wraith band or Poor mans. My personal opinion is Poor mans shield.",
+				"magic_stick":"Buy magic stick to get some health and mana back enemy spells. You will get 1 charge per spell and each charge will heal you for 15 mana and heath (max 15 charges if upgraded to magic wand, while magic stick only saves 10 charges)",
+				"magic_wand":"If you need extra help with mana and/or health, use magic wand to counter enemy spells.",
+				"flask":"For early game survivability. Farm a little then get this if you think you really need it.",
+				"tango":"For early game survivability.",
+				"travel_boots":" Why not buy these after you've already bought all your desired items? This way no one will escape when you're chasing them and you can TP for free.
+",
+				"hyperstone":"Hyperstone will boost you with extra attack speed wich you will need inside the chrono.
+",
+				"power_treads":"My boots of choice. In my opinion, buy in the order I placed. Poor mans, Hand of midas, MoM then Treads. However you can get Boots of speed after morbid mask, then rush MoM and finish your threads. It all depends on your needs.",
+				"hand_of_midas":"Hand of midas is optional, however I would advice to only get this before at most 9 minutes.",
+				"poor_mans_shield":"A little tankiness for void at the beginning. First Item you should get.",
+				"vladmir":"Buy Vlads only if you feel that you need extra lifesteal, extra armor, HP and mana regen.
+",
+				"ultimate_scepter":"Very usefull in care of low farm and high Teamfight necessity.",
+				"assault":" Assault Cuirass will turn Void into an attack speed and armor distribution factory. He will be A LOT tankier and deadlier.  If there is already a Assault Cuirass build Mjollnir.",
+				"heart":"This gives you a lot of HP and regen. Buy this if you feel like you need to become tankier.
+",
+				"black_king_bar":"Black King Bar is a good choice if the enemy team has too many disables and can jeoperdize your teamfights while you are inside a chrono.",
+				"monkey_king_bar":"-Replaces Mask of Madness-
+A lot of damage, a small boost of attack speed and bashes that DO STACK with your Timelock.
+Appart from the bashes and everything else, it also gives you true strike, this means no means of evasion can prevent your attack (apart from Backtrack, but that wont be a problem)",
+				"butterfly":"Butterfly will be your Last item, once you build this you are unstoppable. I would either advise to sell Hand of midas and get  Talisman of evasion first or Eaglesong, but preferably get Talisman which is cheaper and the evasion stacks with Backtrack. Just perfect.",
+				"greater_crit":"Daedalus is going to be the rape sign for the enemy team, EXCELLENT damage plus more percentage of crit damage.",
+				"bfury":"Battle Fury is the heart of your Chronospheres because it will distribute 33% of your damage into and 225 AoE.
+The regen will also sustain you during the early game and mid-game.
+The damage from your cleave penetrates armor.",
+				"lesser_crit":"The perfect amount of dmg you need. Also crits will help a lot in the chrono and the cleave will distribute the crit dmg to the other heroes, therefore, think on adding this to your arsenal.",
+				"satanic":"Satanic can replace MKB. It gives you a huge lifesteal and will make you almost impossible to kill.
+",
+				"mjollnir":" Mjollnir has the highest atack speed bonus. Apart from attack speed it also gives you damage, a chain of thunders and a little tankability because of its active ability. Stacks with Desolator.
+",
+				"skadi":"Moviment slow, extra Agi, extra Str., extra Intel. and attack speed slow on your asic attacks. Do not fear for Skadi stacks with any kind of lifesteal.
+	",
+				"maelstrom":"A great addition to your arsenal, gives a good dmg, decent attack speed and you have a chance of chain lightning, excellent in chronos and mix it with BF and you will make those cowards flee.",
+				"desolator":"Desolator is a great item to chose due to its damage and armor debuff. If you want to build this replace MoM.",
+				"mask_of_madness":"Fourth Item you should buy. It will give you a nice Lifesteal and some nice Attack speed. However Be aware of the secondary effects, You get 30% more damage when it is activated. Use it wisely in the early stage of the game.",
+				"medallion_of_courage":"Use this to farm larger ceeps in the jungle/ancient jungling.
+Main purpose of Medalion is to remove the enemie's armor inside the chrono while you eat your enemies alive."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_time_lock",
+			"3":"faceless_void_backtrack",
+			"4":"faceless_void_time_lock",
+			"5":"faceless_void_time_walk",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_time_lock",
+			"8":"faceless_void_time_walk",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_time_walk",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_backtrack",
+			"13":"faceless_void_backtrack",
+			"14":"faceless_void_backtrack",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"faceless_void_time_walk":"This Skill is really really good, It will add some defensive bonuses on your hero, for example, if someone is ganking you can just Blink out of the scene and make a perfect escape or blink in and Chrono.
+
+",
+				"faceless_void_backtrack":"Backtrack will Evade ONLY the damage, both from spells and attacks, WILL NOT evade the spell effects. Does not evade HP REMOVAL. WILL EVADE MAGICAL, PHYSICAL and PURE damage.
+
+",
+				"faceless_void_time_lock":"A mini stun perfect to just smash your enemies in the chrono. This ability will have Extra dmg while in the chrono so it will be a good skill to have at a good level.
+
+
+",
+				"faceless_void_chronosphere":"The perfect ultimate, this beast will stop time for EVERYONE who are NOT YOU OR UNITS YOU CONTROL. So be careful where you use it.
+perfect for teamfights if used correctly.
+"
+		}
+	}
+}

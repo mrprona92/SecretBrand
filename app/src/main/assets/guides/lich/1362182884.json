@@ -1,0 +1,120 @@
+{
+	"Hero":"lich",
+	"Title":"Bitchin` Lichin`",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"ward_observer",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"flying_courier",
+				"headdress",
+				"ward_observer",
+				"ward_sentry",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"mekansm",
+				"magic_wand",
+				"ward_sentry",
+				"ward_observer",
+				"dust",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"pipe",
+				"force_staff",
+				"gem",
+				"shivas_guard",
+				"refresher",
+				"ultimate_scepter",
+				"veil_of_discord",
+				"sheepstick",
+				"ancient_janggo",
+				"ghost",
+				"cyclone"
+			],
+			"Alternative - Solo mid":
+			[
+				"phase_boots",
+				"mekansm",
+				"ancient_janggo",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_stick":"Great bit of survivability as well as an extra bit of mana for that last nuke, very useful.",
+				"magic_wand":"Great bit of survivability as well as an extra bit of mana for that last nuke, very useful.",
+				"ghost":"Get this to survive enemy right clickers and/or stuff like Jugger's ulti. Very nice item.",
+				"courier":"Just buy the courier, it's your job. If Someone else get's it, buy wards. If someone else gets those too, go nuts and grab your ring of protection. Only part of the tranquils that can't be got in the side shops. ",
+				"mekansm":"Lich is a great Mek carrier. Obviously get pipe or drums or something if anyone else on your team gets their first or is a better Mek carrier.",
+				"pipe":"Good if others go mek, just remember to use it before the teamfight.",
+				"headdress":"Getting this early can really help your carry stay in lane longer. Build it into your Mek.",
+				"sheepstick":"Amazing item for crowd control or picking someone with an escape mechanism. One of the best items in the game, full stop.",
+				"cyclone":"Not normally great for Lich but some nice crowd control, more movement speed and less reliance on the creep wave for mana if you're roaming. Not a terrible item.",
+				"force_staff":"More mana, more regen, escape. Brilliant item",
+				"ultimate_scepter":"Good extra damage on the Chain Frost and a bit of tankiness, not sure the extra cast range is a help or a hindrance, the enemie hear it coming from way off and scatter easily. If you get this rich get a sheepstick instead.",
+				"shivas_guard":"Not the best on Lich, but a strong item if you need some more armour.",
+				"veil_of_discord":"Great for teamfights generally but very powerful combined with Chain Frost as well, not mentioning the extra armour and health regen.",
+				"tranquil_boots":"The regen is so useful because sacrifice keeps you full of mana, these keep you full of health. The perfect early game boots for Lich. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lich_dark_ritual",
+			"2":"lich_frost_nova",
+			"3":"lich_dark_ritual",
+			"4":"lich_frost_nova",
+			"5":"lich_frost_nova",
+			"6":"lich_chain_frost",
+			"7":"lich_frost_nova",
+			"8":"lich_dark_ritual",
+			"9":"lich_frost_armor",
+			"10":"lich_dark_ritual",
+			"11":"lich_chain_frost",
+			"12":"lich_frost_armor",
+			"13":"lich_frost_armor",
+			"14":"lich_frost_armor",
+			"15":"attribute_bonus",
+			"16":"lich_chain_frost",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lich_frost_nova":"Use this to harrass, finish off and slow escaping enemies. not much damage until you get level 3. Spam it often and fill up your mana with sacrifice.",
+				"lich_frost_armor":"Useful for teamfights, survivability and keeping towers alive. The slow it causes works on both ranged and melee enemies, very annoying. Spam on teammates. Fill up mana with sacrifice.",
+				"lich_dark_ritual":"Take first, stand where the creeps first spawn and take the lead melee creep. Using this gives XP to ALL heroes in the area, enemies included. Try to back away as it comes off cooldown and take a creep from the approaching wave.Can take lvl 3 Sac instead of lvl 3 Frost Blast.",
+				"lich_chain_frost":"Mini-stuns on the first bounce, will cancel teleports and channelling spells. Try to wait for some stuns, (black hole, chrono, ravage, etc), and when there are as little creeps, illusions and minions around as possible, start with a Frost Blast if you have the mana as the slow keeps enemies in range"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Blade Fury",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Вызывает вихрь из сокрушительных ударов клинком вокруг Juggernaut, делая его невосприимчивым к магии и нанося урон врагам поблизости. Действует 5 секунд.",
+        "notes": "Эта способность не действует на механических юнитов.<br/>Во время действия этой способности можно использовать предметы.<br/>Juggernaut может продолжать атаковать в течение действия способности Blade Fury. Однако подобные удары будут наносить урон лишь тем юнитам, на которых не действует Blade Fury — например, вардам и постройкам.<br/>Всего наносит 400/500/600/700 урона.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/100/120/140</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">250</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/110/100/90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 42/34/26/18",
+        "lore": "Знаменитой техники владения катаной Юрнеро боятся и воины, и маги.",
+        "hurl": "Juggernaut",
+        "name": "juggernaut_blade_fury",
+        "youtube":"0XijKqh4EJI",
+        "id": 0
+    },
+    {
+        "dname": "Healing Ward",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Призывает Healing Ward, лечащий всех союзников неподалеку в течение 25 сек. и способный передвигаться со скоростью 420. Скорость лечения зависит от максимального здоровья союзника.",
+        "notes": "Healing Ward можно управлять.<br/>Эффект от нескольких Healing Ward не складывается.",
+        "dmg": "",
+        "attrib": "МАКС. ЗДОРОВЬЯ В СЕКУНДУ: <b><font color=\"#ffffff\">2%/3%/4%/5%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/125/130/135<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60",
+        "lore": "Среди ритуалов, выученных на острове Масок, навык залечивания ран с толикой магии вуду оказался довольно полезным.",
+        "hurl": "Juggernaut",
+        "name": "juggernaut_healing_ward",
+        "youtube":"Wvh64L7ndTs",
+        "id": 1
+    },
+    {
+        "dname": "Blade Dance",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Дает Juggernaut шанс нанести двойной урон при каждой атаке.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "КРИТИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">200%</font></b><br/>ШАНС КРИТА: <b><font color=\"#ffffff\">20%/25%/30%/35%</font></b>",
+        "cmb": "",
+        "lore": "Как последний представитель своего культа, Юрнеро должен убедиться, что вы запомните стиль его боя.",
+        "hurl": "Juggernaut",
+        "name": "juggernaut_blade_dance",
+        "youtube":"J0i1IyxpvB0",
+        "id": 2
+    },
+    {
+        "dname": "Omnislash",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Juggernaut прыгает ко врагу, атакуя его, а затем врагов рядом с ним, нанося от 200 до 225 урона за одну атаку. При атаке Juggernaut становится неуязвимым. <br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Во время действия этой способности можно использовать предметы.<br/>Можно применять на невосприимчивых к заклинаниям врагов.<br/>Интервал между ударами — 0,4 секунды.<br/>Убивает крипов одним ударом.",
+        "dmg": "",
+        "attrib": "УДАРОВ: <b><font color=\"#ffffff\">3/6/9</font></b><br/>РАДИУС СКАЧКА: <b><font color=\"#ffffff\">425</font></b><br/><font color=\"#6fe871\">УДАРОВ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">6/9/12</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">70</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/275/350<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 130/120/110",
+        "lore": "«Тяжело в учении — легко в бою».",
+        "hurl": "Juggernaut",
+        "name": "juggernaut_omni_slash",
+        "youtube":"T4HOd3lIgyQ",
+        "id": 3
+    }
+]

@@ -1,0 +1,134 @@
+{
+	"Hero":"winter_wyvern",
+	"Title":" 6.83 - Standard Winter Wyvern (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"cyclone",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"arcane_boots",
+				"ghost",
+				"blink",
+				"mekansm",
+				"rod_of_atos"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"refresher",
+				"sheepstick"
+			],
+			"Luxury Items":
+			[
+				"skadi",
+				"travel_boots"
+			],
+			"Last updated: 14/2/15":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink Dagger let's you jump in and out of battle. It is true that your abilities have incredible range, but you also need to follow-up with your ultimate and your Q with subsequent damage, begging you to immediately either be in or out of battle - Blink Dagger makes that possible.",
+				"mekansm":"If you're playing a more core role where you're earning a steady stream of gold, go for Mekansm: otherwise typically you won't get the gold to get this at a good time.",
+				"sheepstick":"Scythe of Vyse is core on many intelligence heroes and Winter Wyvern is no exception.",
+				"cyclone":"After Eul's Scepter, you won't need to worry about any mana issues for the rest of the game. Popping Eul's Scepter then following up with Cold Embrace delays attacks for a whopping 6.5 seconds, enough to maybe Blink Dagger away or for your abilities to refresh.",
+				"force_staff":"Force Staff alongside your Blink Dagger can really play out your chasing enemies. Blink or Force Staff in, disrupt, slow, Force Staff/Blink away to a siege position and attack safely.",
+				"refresher":"All your abilities can definitely take advantage of Refresher Orb. With your ultimate refreshed, that is a maximum of 6 seconds with your new Arctic Burn [Q] refreshed on its slow and movement.",
+				"shivas_guard":"Shiva's Guard works a bit uncomfortable in comparison to your ultimate that wants them to attack, but it also a good way to end that ultimate: as your foes will be huddled together and available to take more slows.",
+				"skadi":"Eye of Skadi is your final item. With nothing left to buy, it's time to take advantage of Winter Wyvern's amazing stats and put them to good use. Eye of Skadi amplifies everything from Winter Wyvern and adds a slow on top of the others slows she can do.",
+				"soul_ring":"With your level 1 Cold Embrace, you can regenerate the life lost from Soul Ring and constantly use it to harass your foes with your Q and stack jungle camps with your W.",
+				"arcane_boots":"Arcane Boots if you're play a more core role or buying Mekansm, you won't always need Arcane, especially at the higher levels, but if you find yourself being particularly aggressive: Arcane Boots will mitigate the need to go back to base.",
+				"medallion_of_courage":"In synergy with your ultimate and your slows, Medallion of Courage can be a niche pick-up to really take advantage of your early-game harassment and early-to-midgame ganks.",
+				"rod_of_atos":"Rod of Atos with your Arctic Burn [Q] can keep your foes infinitely slowed and constantly at your range to harass and dish damage.",
+				"tranquil_boots":"Why not Arcane Boots? Given your incredible siege range for your abilities, the lackluster movement speed and your general tankiness, Tranquil Boots plays into your role better than Arcane Boots, however Arcane is a good alternative."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"winter_wyvern_arctic_burn",
+			"2":"winter_wyvern_cold_embrace",
+			"3":"winter_wyvern_splinter_blast",
+			"4":"winter_wyvern_splinter_blast",
+			"5":"winter_wyvern_splinter_blast",
+			"6":"winter_wyvern_winters_curse",
+			"7":"winter_wyvern_splinter_blast",
+			"8":"winter_wyvern_arctic_burn",
+			"9":"winter_wyvern_arctic_burn",
+			"10":"winter_wyvern_arctic_burn",
+			"11":"winter_wyvern_winters_curse",
+			"12":"winter_wyvern_cold_embrace",
+			"13":"winter_wyvern_cold_embrace",
+			"14":"winter_wyvern_cold_embrace",
+			"15":"attribute_bonus",
+			"16":"winter_wyvern_winters_curse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"winter_wyvern_arctic_burn":"Arctic Burn is your harassment tool. At level 6, open with your ultimate: Winter's Curse [R] and then follow-up with your nuke: Splinter Blast [W] and Arctic Burn [Q].
+
+Arctic Burn cannot be stacked, so when you activate it, spread it to as many enemies as you can. 
+
+Also a good escape tool.",
+				"winter_wyvern_splinter_blast":"Splinter Blast is your nuke and main damage dealer. Due to its range and low cooldown, it is also your jungle stacking tool if the mana allows it. Stack camps with this ability at a safe distance and save your time lost not in lane getting exp.
+
+It's maxed because you can clear camps and waves fast.",
+				"winter_wyvern_cold_embrace":"Cold Embrace immobilizes your allies, so be sure to use it during, say, Faceless Void's ultimate and you want to save your friend or when ganked by Slark or Troll Warlord. However, they can still get stunned or dealt magic damage, so use wisely.
+
+Also used in lane to regenerate from Soul Ring use.",
+				"winter_wyvern_winters_curse":"This is your amazing ultimate ability, it is great to use on a support or initiator to ruin their initiation. By
+
+Combo: [R]-[W]-[Q]: With this, you gather all your foes together to kill the initiator or support, you slow them with Splinter (targeting the ulted foe) and then [Q] to prevent fleeing.",
+				"attribute_bonus":"Celebrating 50 MILLION total subscriptions across 143 guides. Thank you so much for using these guides and supporting my work.
+
+Follow me on Twitter: @TorteDeLini or check out my website for the full breakdown of this project at: ArmchairAthleticism.com"
+		}
+	}
+}

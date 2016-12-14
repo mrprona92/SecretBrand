@@ -1,0 +1,110 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"6.82 - Standard Gyrocopter (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"helm_of_the_dominator",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"invis_sword",
+				"satanic"
+			],
+			"Extension Items":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Damage and speed is what Gyrocopter needs. While the early-game may be a bit difficult to survive, towards the late-game, these boots may prove their worth.",
+				"ultimate_scepter":"Get Aghanim's to counter-push waves you cannot reach or to help out in ganks or fights you're not near enough to participate in.",
+				"monkey_king_bar":"We rush Monkey King Bar for the damage in combination with your Flak Cannon. Monkey King Bar is among the best items for rush damage and works properly with Flak Cannon.",
+				"butterfly":"Evasion and Attack Speed are key elements to wrapping up Gyrocopter's ability to destroy teams fast.",
+				"greater_crit":"Daedalus, while the critical doesn't spread across with your Flak Cannon, does give direct damage and effect to your main target.",
+				"invis_sword":"Shadow Blade works amazingly well with Gyrocopter in combination with his Rocket Barrage. Cast Rocket Barrage, move at an incredible speed while freely taking down your foes.",
+				"satanic":"Though a great item for life-steal, it will take a backseat to your more extension damage-dealing items.",
+				"helm_of_the_dominator":"Stack ancients with Helm of the Dominator. You are going for late-game, so you will need those Ancients for a lot of your Extension Items",
+				"yasha":"If someone got drums, Yasha is a decent alternative, albeit offering a bit less in terms of stats.",
+				"arcane_boots":"Consider replacing this with Phase Boots for the added chasing ability or if you feel you do not need the mana.",
+				"ancient_janggo":"Some survivability and extra speed is nothing to shy away from as Gyrocopter. Get Drums of Endurance to help you farm better and safely.",
+				"ring_of_aquila":"Aquila gives you the survivability you need to avoid harass and a little extra damage to make last-hitting much easier.",
+				"tranquil_boots":"Disassemble later to make Treads."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_rocket_barrage",
+			"2":"gyrocopter_flak_cannon",
+			"3":"gyrocopter_homing_missile",
+			"4":"gyrocopter_rocket_barrage",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_flak_cannon",
+			"9":"gyrocopter_flak_cannon",
+			"10":"gyrocopter_flak_cannon",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_homing_missile",
+			"13":"gyrocopter_homing_missile",
+			"14":"gyrocopter_homing_missile",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"gyrocopter_rocket_barrage":"Rocket Barrage is your self-defensive item that can also be used within the first few levels to snag a first-blood as it is incredible damage when it targets a specific enemy (and away from creeps).",
+				"gyrocopter_homing_missile":"Homing Missile works great as a setup for future ganks and has a range that rivals many other stunners. Use Homing Missile as your allies are about to stun so enemies are notified of the incoming death.",
+				"gyrocopter_flak_cannon":"Flak Cannon can also be a good way to farm lanes early in the game if preferred to max first. It has an incredible range (farther than your regular attack) and can be a safe way to last-hit units.",
+				"gyrocopter_call_down":"This is your initiation AFTER STARTING HOMING MISSILE and has a great range to cast for Gyrocopter.
+
+It's initial slow can keep foes in range to start your Flak Cannon and at a movement speed you can easily keep on a leash."
+		}
+	}
+}

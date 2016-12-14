@@ -1,0 +1,42 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_brewmaster",
+	"Title":"Recommended items for Brewmaster",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"stout_shield",
+			"branches",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"bracer",
+			"bottle"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"magic_wand",
+			"blink",
+			"ancient_janggo",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ultimate_scepter",
+			"ancient_janggo",
+			"assault",
+			"shivas_guard",
+			"heart",
+			"radiance",
+			"vladmir",
+			"heavens_halberd"
+		]
+	}
+}

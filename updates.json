@@ -1,0 +1,8 @@
+{
+    "versionCode": 777,
+    "message":
+    {
+        "en-us": "-Some fixes from 762 version\n-Refactoring\n-Added trackdota leagues support\n-6.84c update.\n-Added minimap on match details\n-Added sections on responses\n-Fixed services (players search, stats, joindota)\n-Other fixes",
+        "ru": "-Исправлены ошибки и вылеты после обновления 762\n-Рефакторинг\n-Добавлены лиги в trackdota\n-Изменения 6.84c\n-Исправлены ошибки в скилах\n-Добавлена миникарта в информации по матчу\n-Добавлены разделы в репликах\n-Исправлены неработающие сервисы (поиск игроков, статистика, joindota)\n-Другие исправления и улучшения"
+    }
+}

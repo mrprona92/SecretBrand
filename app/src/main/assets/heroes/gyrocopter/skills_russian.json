@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Rocket Barrage",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Запускает ракеты залпом на ближайших вражеских юнитов вокруг Gyrocopter. Длится 3 секунды.",
+        "notes": "Не наносит урона юнитам вне зоны видимости.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">11/15/19/23</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">400</font></b><br/>РАКЕТ В СЕКУНДУ: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/90/90/90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 7/6.50/6/5.50",
+        "lore": "Новый вертолет Аурела оснащен улучшенной системой подачи ракет, увеличивающей скорострельность.",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_rocket_barrage",
+        "youtube":"JvJK0Y94TTU",
+        "id": 0
+    },
+    {
+        "dname": "Homing Missile",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Запускает самонаводящуюся ракету в цель. Во время полета ракета набирает скорость, а при столкновении с врагом наносит урон и оглушает его. Урон, наносимый ракетой, зависит от дальности ее полета. Пока ракета не достигла своей цели, враги могут ее уничтожить.",
+        "notes": "Башни наносят ракете только половину урона.<br/>Эффект прицела виден только союзникам.<br/>Максимальный урон наносится на расстоянии в 1500 единиц.<br/>Ракета работает и на невидимых целях.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">125/250/375/500</font></b>",
+        "attrib": "УДАРОВ ДЛЯ УНИЧТОЖЕНИЯ: <b><font color=\"#ffffff\">3/3/4/5</font></b><br/>УДАРОВ БАШНИ ДЛЯ УНИЧТОЖЕНИЯ: <b><font color=\"#ffffff\">6/6/8/10</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">2.2/2.4/2.6/2.8</font></b><br/>МИНИМАЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">50</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/130/140/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/17/14/11",
+        "lore": "Самый большой снаряд, какой Аурел смог прицепить к своему вертолету, Бомба™, сочетает в себе тщательно рассчитанную аэродинамику и наносящую максимально возможный урон взрывчатку.",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_homing_missile",
+        "youtube":"nS_Qw-l6_OM",
+        "id": 1
+    },
+    {
+        "dname": "Flak Cannon",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Атаки Gyrocopter наносят урон всем вражеским юнитам вокруг него в течение ограниченного количества атак. Только главная цель атак получит бонусы атаки, такие как критический удар. Длится 15 секунд или до тех пор, пока не израсходуются все атаки.",
+        "notes": "Дальность атаки по основной цели не изменяется.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">1000</font></b><br/>МАКС. АТАК: <b><font color=\"#ffffff\">3/4/5/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/50/50/50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30",
+        "lore": "Обновленный Gyrocopter позволяет стрелять на все 360 градусов.",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_flak_cannon",
+        "youtube":"vuAGkLLSJRE",
+        "id": 2
+    },
+    {
+        "dname": "Call Down",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Вызывает воздушный удар на выбранную область. С неба падает 2 снаряда: первый наносит большой урон и немного замедляет всех в области на 2 секунды, а второй наносит незначительный урон, но сильно замедляет врагов на 4 секунды.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Указатель над целью виден только союзникам.<br/>Замедление проходит сквозь невосприимчивость к заклинаниям.",
+        "dmg": "",
+        "attrib": "УРОН ОТ ПЕРВОГО СНАРЯДА: <b><font color=\"#ffffff\">250/300/350</font></b><br/>УРОН ОТ ВТОРОГО СНАРЯДА: <b><font color=\"#ffffff\">100/150/200</font></b><br/>ЗАМЕДЛЕНИЕ ОТ ПЕРВОГО СНАРЯДА: <b><font color=\"#ffffff\">30%</font></b><br/>ЗАМЕДЛЕНИЕ ОТ ВТОРОГО СНАРЯДА: <b><font color=\"#ffffff\">60%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">600</font></b><br/><font color=\"#6fe871\">УРОН ВТОРОГО СНАРЯДА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">175/225/275</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/125/125<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 55/50/45",
+        "lore": "«Ракеты пошли!»",
+        "hurl": "Gyrocopter",
+        "name": "gyrocopter_call_down",
+        "youtube":"3YjjKN0VajU",
+        "id": 3
+    }
+]

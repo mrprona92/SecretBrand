@@ -1,0 +1,105 @@
+{
+	"Hero":"wisp",
+	"Title":"Io, Hard Support (Updated for 6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity"
+			],
+			"coreItems":
+			[
+				"soul_ring",
+				"arcane_boots",
+				"mekansm",
+				"urn_of_shadows",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"bloodstone",
+				"heart",
+				"vladmir",
+				"ghost",
+				"gem",
+				"blade_mail",
+				"black_king_bar",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"flying_courier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Two gauntlets or ring of health depending on whether you're building Soul Ring or Urn of Shadows.",
+				"ring_of_regen":"Two gauntlets or ring of health depending on whether you're building Soul Ring or Urn of Shadows.",
+				"magic_wand":"Heals and mana are essential to everyone, and your tether buddy will receive an increased amount of regen.",
+				"ghost":"If you are being focused by high physical damage this is great for survivability.",
+				"ward_observer":"Courier or wards.",
+				"courier":"Courier or wards.",
+				"mekansm":"Essential regen and healing as support.",
+				"vladmir":"Great lifesteal for a melee carry to support.",
+				"urn_of_shadows":"Provides large early heals with successful ganks.",
+				"heart":"High health for Io and amazing HP regen for both you and your tethered partner.",
+				"black_king_bar":"Buy this to counter high disable teams.",
+				"bloodstone":"If your team has a large lead and you are part of many successful ganks, this will allow an almost constant overcharge.",
+				"blade_mail":"Blade mail damage reflection makes you less likely to be focused, and provides extra damage if you are focused. As Io is a high priority target, this buys you precious time in a team fight.",
+				"soul_ring":"Buy this if someone else is building an urn.",
+				"arcane_boots":"Solves early mana problems with Soul Ring or Urn of Shadows.",
+				"tranquil_boots":"Tranquils may be purchased instead of arcane boots if you feel that you need the heal rather than the mana."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_spirits",
+			"4":"wisp_tether",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_tether",
+			"9":"wisp_tether",
+			"10":"wisp_overcharge",
+			"11":"wisp_relocate",
+			"12":"wisp_overcharge",
+			"13":"wisp_overcharge",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"wisp_tether":"When used at a great enough distance this ability will zip you towards it's target. Try flanking enemy heroes with this for a free stun and quick burst spirit damage.",
+				"wisp_spirits":"Try to use this to kill heroes that would otherwise get away. Provides strong early burst for easy ganks.",
+				"wisp_overcharge":"One point is taken at level 4 for the huge 40 attack speed for both you and your tethered partner. With the introduction of the nerfed tether in 6.79 your overcharge is now maxed after spirits as tether does not currently scale. Very useful end-game on a well farmed carry.",
+				"wisp_relocate":"Use this ability to teleport with a partner for ganks as soon as possible. Can also be used to save an ally in a gank. With this global teleport you should be present for the majority of ganks."
+		}
+	}
+}

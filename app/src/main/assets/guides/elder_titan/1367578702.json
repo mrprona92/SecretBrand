@@ -1,0 +1,121 @@
+{
+	"Hero":"elder_titan",
+	"Title":"[DMX] Elder Titan - Semi Support (EN)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"urn_of_shadows",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"tpscroll"
+			],
+			"Late Game":
+			[
+				"assault",
+				"heart",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnal":
+			[
+				"courier",
+				"ward_observer",
+				"hood_of_defiance",
+				"pipe",
+				"veil_of_discord",
+				"blade_mail",
+				"black_king_bar",
+				"shivas_guard",
+				"power_treads"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Iron Banches give you some stats, and a step ahead to build your Magic Wand.",
+				"magic_wand":"Magic Wand is a very good item given you stats and instant regen.",
+				"clarity":"You need some regen to be aggressive on the lane.",
+				"flask":"You need some regen to be aggressive on the lane.",
+				"ward_observer":"If no one already bought some wards, then do it.",
+				"tango":"You need some regen to be aggressive on the lane.",
+				"courier":"If no one already bought the courier, then do it.",
+				"tpscroll":"Always keep a Town Portal Scroll in your inventory to help your allies or escape if needed.",
+				"travel_boots":"The best late game boots, replace your old ones by these ones during the end game.",
+				"power_treads":"Power Treads can also be a good option since it gives you some stats as well as attack speed and even damage with their strength form.",
+				"pipe":"It’s even better to build the Pipe of the Insight if you already have the Hood of Defiance.",
+				"urn_of_shadows":"Urn of Shadow gives you better tanking, some mana regen and an interesting heal/dot.",
+				"sheepstick":"One of the best items of the whole game, pretty useful to give some more control to your team. A hex is always welcome!",
+				"assault":"Assault Cuirass is perfect for Elder Titan since it has a good synergy with your 3rd spell while giving you some badass tanking.",
+				"heart":"One of the best items for strength heroes, giving you a good strength boost, and some HP and regen.",
+				"black_king_bar":"If your opponents always prevent you from casting your Echo Stomp, or that there are too much crowd controls, build a freakin’ BKB yo !",
+				"shivas_guard":"Shiva’s Guard gives armor and mana, two important assets for Elder Titan. Moreover, the slow will give you a bit more burst and some more control.",
+				"vanguard":"Vanguard is a good item for Elder Titan giving him some pretty good tanking for team fights.",
+				"blade_mail":"Blade Mail is a good option if you are often focused during team fights.",
+				"hood_of_defiance":"If the enemy team has a lot of magical damage, Hood of Defiance is a very good item to increase your tanking.",
+				"arcane_boots":"Arcane Boots are useful on Elder titan since he needs to use his spells as much as possible to deal damage.",
+				"veil_of_discord":"Veil of Discord is a good item to weaken your enemies before a fight. It also has a goof synergy with your 3rd spell."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_echo_stomp",
+			"2":"elder_titan_ancestral_spirit",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_echo_stomp",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_echo_stomp",
+			"9":"elder_titan_echo_stomp",
+			"10":"elder_titan_natural_order",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_natural_order",
+			"13":"elder_titan_natural_order",
+			"14":"elder_titan_natural_order",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"A very good spell to engage and make your combo, or even to earn some time waiting for your allies to come and help you. Be careful to not get this ability cancelled while you’re channeling it! You can also use Echo Stomp to put to sleep the enemies chasing you.",
+				"elder_titan_ancestral_spirit":"This spell is useful in almost every situation. It deals good damage, has a great range, allows you to use easily your Echo Stomp and is a safe way to scout the map while being completely safe. During team fights, it will also give a high damage bonus.",
+				"elder_titan_natural_order":"A neat passive ability, especially while you’ve reached mid game and that the first team fights start. It will enable your whole team to deal more damage, either physical or magical.",
+				"elder_titan_earth_splitter":"An impressive ultimate, which deals good damage, even on tanks. It has a long range, but is kinda hard to use efficiently. Try to activate it after you used your Echo Stomp, or when your allies have disabled your opponents.",
+				"attribute_bonus":"Stats are your best friends mate!"
+		}
+	}
+}

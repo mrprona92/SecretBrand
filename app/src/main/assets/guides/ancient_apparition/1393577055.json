@@ -1,0 +1,111 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"6.82 - Standard Ancient Apparition (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"mekansm",
+				"rod_of_atos"
+			],
+			"Aghanim's Core Build":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"cyclone"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"Extension Items":
+			[
+				"force_staff",
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Mekansm let's your whole team push without fear of death. Ancient Apparition is a great Mekansm holder given the range of his abilities and capability to prevent the other team from healing from his ultimate.",
+				"urn_of_shadows":"Given the high mana cost for your abilities, Urn helps alleviate the demand and let's you take advantage of your ganking abilities to the max.",
+				"cyclone":"Eul's Scepter of Divinity works great with your Cold Feet. Be sure to cast it as soon as Cold Feet starts and place Ice Vortex just below the cyclone. Finish with your ultimate for a nice kill.",
+				"force_staff":"For Escaping or reaching a fleeing enemy hero. This is also a great item to change from being in the back to more mid-range attacks and abilities.",
+				"ultimate_scepter":"Aghanim's Scepter on Ancient Apparition means an immense duration where the enemies cannot heal and take even more damage. A very strong late-game item to give AA even more of an impact.",
+				"rod_of_atos":"At such an incredible range, you can open with Atos and then Cold Feet to ensure they stay. With Rod of Atos, you can keep enemies close to be stunned and receive all the damage compared to Eul's Scepter of Divinity."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_chilling_touch",
+			"3":"ancient_apparition_cold_feet",
+			"4":"ancient_apparition_chilling_touch",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_chilling_touch",
+			"9":"ancient_apparition_chilling_touch",
+			"10":"ancient_apparition_ice_vortex",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_ice_vortex",
+			"13":"ancient_apparition_ice_vortex",
+			"14":"ancient_apparition_ice_vortex",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ancient_apparition_cold_feet":"Cold Feet is your stun and damage-dealer. If you have Eul's Scepter of Divinity, be sure to cast it right after your Cold Feet. They are timed together to disable and then stun consecutively (6+ seconds)",
+				"ancient_apparition_ice_vortex":"Make sure when casting Cold Feet to cast Ice Vortex as well, the extra damage and slow could net you that stun that you need. Ice Vortex is also a great way to see up cliffs and fogged areas.",
+				"ancient_apparition_chilling_touch":"Early points in Chilling Touch can make ganks especially more successful and also help your ally last-hit much more easily. However it has a higher mana cost and should be used sparingly.",
+				"ancient_apparition_ice_blast":"Use this to harass lanes or to also push back lanes that you are not in. This works best from an extreme range given how much large the area-of-effect becomes."
+		}
+	}
+}

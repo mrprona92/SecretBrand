@@ -1,0 +1,101 @@
+{
+	"Hero":"night_stalker",
+	"Title":"Roaming Nightstalker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"quelling_blade",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ultimate_scepter",
+				"helm_of_the_dominator",
+				"basher"
+			],
+			"Late Game":
+			[
+				"heart",
+				"assault",
+				"satanic"
+			],
+			"Situational":
+			[
+				"black_king_bar",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"DMG for last hits. Cuts ganking paths anew. Counters Furion.",
+				"gauntlets":"DMG for last hits. HP for lane staying power. Builds into urn.",
+				"gem":"The support should buy this, but if you have to get yourself, do so. Obvious counter to pesky invis heroes.",
+				"flask":"Replenish health when critical.",
+				"bottle":"Rush this first. Invaluable for rune control and mana replenishment.",
+				"tango":"Harassment mitigation.",
+				"power_treads":"Screw phaseboots. Extra IAS, HP and DMG. Int swapping for a bit more mana. Tower dive like a pro.",
+				"urn_of_shadows":"Some people skip this over bottle. I take both. Regen for you, damage for foes.",
+				"ultimate_scepter":"Maphack.",
+				"assault":"Even MORE IAS and extra survivability.",
+				"heart":"Remain a behemoth in the lategame with this item. Dive in and out of battle to trigger regen when necessary.",
+				"black_king_bar":"Consider BKB after basher if the enemy team is high on disables.",
+				"basher":"Your attack speed is insane. Basher will give you free mini stuns.",
+				"satanic":"The game should never get this far.",
+				"helm_of_the_dominator":"Lifestealing helps with those towerdives, builds into a Satanic much later."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_crippling_fear",
+			"3":"night_stalker_void",
+			"4":"night_stalker_hunter_in_the_night",
+			"5":"night_stalker_void",
+			"6":"night_stalker_darkness",
+			"7":"night_stalker_void",
+			"8":"night_stalker_hunter_in_the_night",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_hunter_in_the_night",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"Max this first no matter what.",
+				"night_stalker_crippling_fear":"You may delay this in favor of Hunter In The Night if the enemy team lacks disables.",
+				"night_stalker_hunter_in_the_night":"IAS and MS. Max this after void. You may choose to skip crippling fear early depending on how many disables the enemy has.",
+				"night_stalker_darkness":"Use this to extend the night cycle, max it ASAP."
+		}
+	}
+}

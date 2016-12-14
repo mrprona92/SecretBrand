@@ -1,0 +1,42 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_beastmaster",
+	"Title":"Recommended items for Beastmaster",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"stout_shield",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"bracer",
+			"ring_of_basilius"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"ancient_janggo",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"necronomicon_3",
+			"pipe",
+			"ultimate_scepter",
+			"blink",
+			"heart",
+			"assault",
+			"heavens_halberd",
+			"vladmir",
+			"refresher"
+		]
+	}
+}

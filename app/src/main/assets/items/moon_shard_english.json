@@ -1,0 +1,19 @@
+{
+  "dotaId": "moon_shard",
+  "id": 247,
+  "img": "moon_shard_lg.png",
+  "dname": "Moon Shard",
+  "qual": "common",
+  "cost": 4300,
+  "desc": "Use: Consume the Moon Shard to permanently gain 60 attack speed. Does not stack.<br/><br/>Passive: Shade Sight - Grants 250 bonus night vision.",
+  "notes": "The bonus night vision works during Night Stalker\u0027s Darkness ability.",
+  "attrib": "+ 120 Attack Speed<br/>SHADE BONUS NIGHT VISION: 250<br/>CONSUME ATTACK SPEED: 60",
+  "mc": false,
+  "cd": false,
+  "lore": "Said to be a tear from the lunar goddess Selemene.",
+  "components": [
+    "hyperstone",
+    "hyperstone"
+  ],
+  "created": true
+}

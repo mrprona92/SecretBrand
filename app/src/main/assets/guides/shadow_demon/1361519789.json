@@ -1,0 +1,101 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"[DMX] Shadow Demon - Support (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"clarity",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"urn_of_shadows",
+				"magic_wand",
+				"ward_observer",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"travel_boots",
+				"ward_observer"
+			],
+			"Situationnels":
+			[
+				"power_treads",
+				"mekansm",
+				"necronomicon",
+				"bloodstone",
+				"sphere",
+				"rod_of_atos",
+				"cyclone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_soul_catcher",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_soul_catcher",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_soul_catcher",
+			"8":"shadow_demon_disruption",
+			"9":"shadow_demon_disruption",
+			"10":"shadow_demon_disruption",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_shadow_poison",
+			"13":"shadow_demon_shadow_poison",
+			"14":"shadow_demon_shadow_poison",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"Un disable très utile, qui permettra à votre équipe de placer leurs sorts aisément.
+Vous pouvez également l'utiliser sur un allié pour le sauver d'une situation difficile.",
+				"shadow_demon_soul_catcher":"Un sort qui permet d'augmenter la puissance de vos ganks et de vos agressions sur la lane.
+Essayez de bien vous placer pour que seuls les héros puissent être la cible de ce sort.",
+				"shadow_demon_shadow_poison":"Un poison très utile pour donner la vision et pour push/dépush en fin de game.",
+				"shadow_demon_demonic_purge":"Une purge qui passe par dessus l'immunité magique et qui inflige de bons dégâts, parfait pour contre engager ou pour initier une action."
+		}
+	}
+}

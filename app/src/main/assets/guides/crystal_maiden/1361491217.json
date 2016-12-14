@@ -1,0 +1,67 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Pay2Lose - Crystal Maiden for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"clarity",
+				"branches",
+				"branches",
+				"courier"
+			],
+			"Mid Game":
+			[
+				"tranquil_boots",
+				"magic_wand",
+				"mekansm"
+			],
+			"Late Game Options":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"sphere",
+				"bloodstone"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_crystal_nova",
+			"2":"crystal_maiden_frostbite",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_frostbite",
+			"5":"crystal_maiden_frostbite",
+			"6":"crystal_maiden_freezing_field",
+			"7":"crystal_maiden_frostbite",
+			"8":"crystal_maiden_crystal_nova",
+			"9":"crystal_maiden_crystal_nova",
+			"10":"crystal_maiden_crystal_nova",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_brilliance_aura",
+			"13":"crystal_maiden_brilliance_aura",
+			"14":"crystal_maiden_brilliance_aura",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

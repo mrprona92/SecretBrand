@@ -1,0 +1,82 @@
+{
+	"Hero":"brewmaster",
+	"Title":"The Brewmaster of Oyo",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"ring_of_health",
+				"magic_wand",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"vanguard",
+				"blink",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"heart",
+				"assault",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Although Stout Shield does not provide the ease of last hitting that Quelling Blade does, it builds into one of the best early/mid game tank items: Vanguard. Since Brewmaster is a melee hero, it is beneficial for him to be able to handle creep aggro and ranged support aggression.",
+				"branches":"What's not to love about the most cost efficient stat item in the game?",
+				"magic_wand":"What's not to love about this item?",
+				"flask":"More often than not, I will never even use my Healing Salve in lane due to Brewmaster's survivability and tankiness.",
+				"tango":"Tangoes give great early sustain until he can afford a Ring of Health.",
+				"phase_boots":"Whereas some people opt for Arcane Boots over Phase, being able to stick to your target while your panda isn't up allows Brewmaster to set up easy kills in conjunction with his Thunder Clap.",
+				"ring_of_health":"Although I don't always build this up into a Vanguard, Ring of Health gives such awesome laning presence for Brewmaster that I just can't pass it up."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_haze",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"attribute_bonus",
+			"10":"brewmaster_drunken_brawler",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_brawler",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_haze",
+			"15":"brewmaster_drunken_haze",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

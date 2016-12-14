@@ -1,0 +1,127 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Standard Support Offensive/Defensive",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"gauntlets",
+				"courier",
+				"ward_observer",
+				"circlet"
+			],
+			"Defensive":
+			[
+				"tranquil_boots",
+				"bracer"
+			],
+			"Offensive":
+			[
+				"phase_boots",
+				"urn_of_shadows"
+			],
+			"Consumables":
+			[
+				"tpscroll",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit"
+			],
+			"Situational":
+			[
+				"mekansm",
+				"pipe",
+				"force_staff",
+				"cyclone",
+				"sheepstick",
+				"ghost",
+				"black_king_bar",
+				"veil_of_discord",
+				"ancient_janggo",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"HP-Boost and builds into Bracer or Urn of Shadows",
+				"circlet":"If there is an allied ganker-type Hero who will get an Urn of Shadows at some point (Pudge, Spirit Breaker, Nightstalker,...) start with a Circlet instead of Gauntlets of Strength which you can turn into a Bracer or Null Talisman / Veil of Discord later.",
+				"ghost":"Get this if you want to pull your ulti off and the enemy team has many rightklickers (especially those with bash-abilities like Faceless Void, Slardar, Sniper....).",
+				"clarity":"This Clarity will improve your early lane presence until you leveled Arcane Aura.",
+				"flask":"Start with one Tango and one Salve.",
+				"ward_observer":"Buy if you are going offlane and repeatedly buy throughout the game.",
+				"ward_sentry":"Use these to gain vision on invisible heroes and enemy wards.",
+				"tango":"Start with one Tango and one Salve.",
+				"courier":"Buy if you are going safe lane or noone else does.",
+				"tpscroll":"Always have one and have an eye on the minimap.TP in to safe allies from ganks or help them get a kill. One Frostbite might be all it takes...",
+				"phase_boots":"Get these if the enemies are constantly overextending or you´re doing great harassing them. Good for chasing or to escape ganks.",
+				"bracer":"Good HP-Bonus,
+eventually builds into Drum of Endurance",
+				"mekansm":"First item to buy after the core if noone else does.
+Adds a lot of survivability. Be sure to use the active in every teamfight.",
+				"pipe":"Buy if you have NOT bought Mekansm AND the enemy team has a lot of magic damage. Some allies might get this item easier than you (Pudge, Centaur) for they normally get a Hood of Defiance anyway.",
+				"urn_of_shadows":"Great for healing and manareg. ONLY buy if you´re sure you´ll get charges.
+Don´t hesitate to use charges offensively to kill off fleeing foes.",
+				"sheepstick":"Additional disable, use to shut down one troublesome enemy, stronger disable than Eul´s Scepter. Get Eul´s over this if you are low on funds.",
+				"cyclone":"Additional disable, use to shut down one troublesome enemy, cheaper variant to the Scythe of Vyse. Get Scythe over this if you can afford it.",
+				"force_staff":"Great for positioning and adds a bit of lifereg. Can be swapped for a Blink Dagger if you prefer.",
+				"ultimate_scepter":"Increases Freezing Fields attack- / movespeedreduction from 30% to 50% and damage by 24%. Compare: Veil of Discord gives 25% for ALL your spells AND your teammates. VERY situational item. Do not get it, if you can´t guarantee you won´t be interupted.",
+				"black_king_bar":"Get this if you want to pull your ulti off and the enemy team has high magic damage or stuns.",
+				"shivas_guard":"Great in public games with 3-4 carries on the enemy team but very expensive.
+Should better be bought by your teams initiator.",
+				"ancient_janggo":"If you need stats and already got a Bracer. The movement bonus helps your team a lot.",
+				"smoke_of_deceit":"Useful item to start ganks across the river and bypass enemy wards.",
+				"veil_of_discord":"Nice defensive stats, active skill lets your ulti hurt a whole lot more. ONLY buy if there are other nukers on your team to benefit from the active.",
+				"tranquil_boots":"Get these if the enemies are playing offensively and do a good job harassing you or if they are playing very defensively and you won´t get any kills."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_crystal_nova",
+			"2":"crystal_maiden_brilliance_aura",
+			"3":"crystal_maiden_frostbite",
+			"4":"crystal_maiden_brilliance_aura",
+			"5":"crystal_maiden_frostbite",
+			"6":"crystal_maiden_frostbite",
+			"7":"crystal_maiden_frostbite",
+			"8":"crystal_maiden_freezing_field",
+			"9":"crystal_maiden_crystal_nova",
+			"10":"crystal_maiden_crystal_nova",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_crystal_nova",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"crystal_maiden_brilliance_aura",
+			"25":"crystal_maiden_brilliance_aura"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Crystal Nova is a nice harassment tool even at level 1 and is pretty spammable due to Arcane Aura. Try to always hit multiple enemies and maybe get a lasthit alongside. During teamfights its slow-effect is most important so try to hit heroes who need to position themselves or melee attackers.",
+				"crystal_maiden_frostbite":"Frostbite is a very strong disable and therefor extremely useful for ganking and roaming.
+In teamfights try to use it on a strong rightklicker since it will not prevent the enemy from casting spells. However it will deal a ministun so try to interupt channeling ultimates like Black Hole.",
+				"crystal_maiden_brilliance_aura":"Arcane Aura is a HUGE supportskill and will improve the laning experience of your whole team although your teammates will likely not notice this is because of you.",
+				"crystal_maiden_freezing_field":"Freezing Field is tricky to use but can turn the tide of a teamfight. Level 1 does not do crazy damage  but the slow can be very helpful. To get a proper ulti off you would like to have a teammate with an aoe-stun or a Ghostscepter/BKB which you likely won´t be able to afford."
+		}
+	}
+}

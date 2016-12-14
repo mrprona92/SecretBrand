@@ -1,0 +1,94 @@
+{
+	"Hero":"lina",
+	"Title":"PRO LINA BUILD (CHUAN TAKE NOTES)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"cyclone",
+				"desolator",
+				"ultimate_scepter",
+				"monkey_king_bar"
+			],
+			"EXTRA PRO STUFF":
+			[
+				"hand_of_midas",
+				"orchid",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"RIGHT CLICK DAMAGE.",
+				"magic_wand":"WAND IS GOOD. BUY WAND.
+",
+				"clarity":"NEED MANA EARLY USE FOR MANA.",
+				"flask":"IT MAKES COOL SOUND WHEN USED.",
+				"tango":"LINA GETS HUNGRY NEED FOOD.",
+				"power_treads":"NO NEED FOR ARCANES WHEN YOU HAVE 8 MIN EULS.
+",
+				"hand_of_midas":"HOLLA HOLLA GET $$$",
+				"orchid":"SILENCE KEY ENEMIES.
+GOOD SYNERGY WITH ULTIMATE.",
+				"cyclone":"BEST ITEM IN GAME.
+USE TO KILL ENEMIES.",
+				"ultimate_scepter":"RANGE IS VERY GOOD.
+USE EARLY TO MAXIMIZE DAMAGE EFFICIENCY.
+REMEMBER LINA NEVER KILLSTEALS ALL KILLS BELONG TO LINA.",
+				"assault":"FOR FUNZIES.",
+				"monkey_king_bar":"ATTK SPEED DMG GOOD.
+SOME ENEMIES TRY TO HIDE BEHIND EVASION WITH NOOB ITEMS GET THIS TO FIND THEM.",
+				"desolator":"ESSENTIAL FOR TERRORIZING THE ENEMY.
+DECREASE ARMOUR AND SHOOTER REDDER FIRE."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_fiery_soul",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_fiery_soul",
+			"9":"lina_fiery_soul",
+			"10":"lina_fiery_soul",
+			"11":"lina_laguna_blade",
+			"12":"lina_light_strike_array",
+			"13":"lina_light_strike_array",
+			"14":"lina_light_strike_array",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

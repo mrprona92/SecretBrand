@@ -1,0 +1,21 @@
+{
+  "dotaId": "ultimate_scepter",
+  "attrib": "+ 10 ко всем атрибутам<br/>+ 200 к здоровью<br/>+ 150 к мане",
+  "cd": false,
+  "components": [
+    "point_booster",
+    "staff_of_wizardry",
+    "ogre_axe",
+    "blade_of_alacrity"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Пассивная: Ultimate Upgrade — улучшает ульты некоторых героев.",
+  "dname": "Aghanim\u0027s Scepter",
+  "mc": false,
+  "img": "ultimate_scepter_lg.png",
+  "lore": "Скипетр колдуна, наделенный силами, присущими полубогам.",
+  "id": 108,
+  "created": true,
+  "cost": 4200
+}

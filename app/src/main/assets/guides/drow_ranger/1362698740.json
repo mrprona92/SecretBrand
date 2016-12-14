@@ -1,0 +1,82 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"Drow Ranger Mid  (Bidu)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"circlet",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"power_treads",
+				"helm_of_the_dominator",
+				"invis_sword",
+				"lesser_crit",
+				"butterfly"
+			],
+			"Itens final":
+			[
+				"power_treads",
+				"satanic",
+				"invis_sword",
+				"greater_crit",
+				"manta",
+				"butterfly"
+			],
+			"Itens final-2":
+			[
+				"travel_boots",
+				"greater_crit",
+				"butterfly",
+				"satanic",
+				"manta",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_trueshot",
+			"2":"attribute_bonus",
+			"3":"drow_ranger_trueshot",
+			"4":"attribute_bonus",
+			"5":"drow_ranger_trueshot",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_trueshot",
+			"8":"drow_ranger_frost_arrows",
+			"9":"drow_ranger_wave_of_silence",
+			"10":"drow_ranger_frost_arrows",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_frost_arrows",
+			"13":"drow_ranger_wave_of_silence",
+			"14":"drow_ranger_frost_arrows",
+			"15":"drow_ranger_wave_of_silence",
+			"16":"drow_ranger_marksmanship",
+			"17":"drow_ranger_wave_of_silence",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

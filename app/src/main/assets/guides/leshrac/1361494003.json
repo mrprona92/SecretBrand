@@ -1,0 +1,111 @@
+{
+	"Hero":"leshrac",
+	"Title":"STAND AROUND AND GET KILLS - Mid Leshrac",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots"
+			],
+			"Buildup to Core":
+			[
+				"point_booster",
+				"void_stone",
+				"ring_of_health",
+				"vitality_booster"
+			],
+			"coreItems":
+			[
+				"bloodstone"
+			],
+			"Late Game/Situational Items":
+			[
+				"black_king_bar",
+				"ultimate_scepter",
+				"blade_mail",
+				"phase_boots"
+			],
+			"Honorable Mentions.":
+			[
+				"sheepstick",
+				"mekansm",
+				"rod_of_atos",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink is a fun item to get on Lesh. I find he's more useful shooting for some HP, but he benefits from the mobility as well. Split Earth's cast range is good, but often you'll find you miss it because you can't lead it far enough. Blink dagger will REALLY help here.",
+				"bottle":"Yay! Runes! Yay! Regen! Lesh is happy. This item will carry you through the early game if you use it properly. With Lesh, you can think about selling it once you have your perseverance if you really want the 300g. Definitely think about getting rid of it once you have your Bloodstone.",
+				"tango":"Tangos and Branches. The Eco-build for a mid hero. 4-5 last hits and you'll have a bottle by 2 minutes. It's spam time baby.",
+				"travel_boots":"Once Arcanes have been split in favour of bloodstone, Lesh can benefit from damn near every other kind of boot under the sun. Travels to split push, Phase for the mobility/positioning, Treads for a bit of added bulk. Generally, I prefer Phase. Positioning is a HUGE part of Dota, and Phase helps.",
+				"phase_boots":"Once Arcanes have been split in favour of bloodstone, Lesh can benefit from damn near every other kind of boot under the sun. Travels to split push, Phase for the mobility/positioning, Treads for a bit of added bulk. Generally, I prefer Phase. Positioning is a HUGE part of Dota, and Phase helps.",
+				"ring_of_health":"See notes for 'Void Stone'.",
+				"void_stone":"Void Stone and ROH are interchangeable after you have grabbed your early HP steroid. (PB or VB) Feel the game out. If you're low on mana a lot, get VS, and if you're low on hp a lot, get ROH. Try to combine them fairly soon though. Perseverance is really useful.",
+				"point_booster":"I usually pick up a point booster shortly after my Arcanes. It gives you a chunk of HP and Mana, and is a building block for Bloodstone. Lesh needs to be alive as long as he can. Point Booster really helps.",
+				"vitality_booster":"Vit booster is usually the last item I get before I disassemble my boots and crank out the bloodstone. That's just my preference though. It gives more HP than a point booster so if you're worried about early survival this is a REALLY strong pickup straight after your Arcanes.",
+				"mekansm":"REALLY good EHP. Cheap. Best utility item in the game. Worth getting if you're not getting much money. If so, probably best to forget bloodstone, and shoot for more supporty items. (Force Staff, Atos etc)",
+				"sheepstick":"Mana regen. Base mana. Damage. AND a disable? Why build bloodstone when this item is SO GOOD? The buildup. The items that make a bloodstone are cheaper AND benefit Lesh more in the early/mid game. You don't notice the BS buildup, but you do for hex. Also, the lack of HP hurts this item.",
+				"force_staff":"Force Staff is a phenominal utility item. Generic though. I'm personally not a huge fan of it on Lesh, but it's worth getting if you're finding yourself having to pick up some more utility.",
+				"ultimate_scepter":"I like Scepter. But it's full potential is only realised if you AREN'T being focused by the other team (ie. they are stupid) or AFTER you have achieved a blademail or BKB. It gives a significant boost to your ult that makes your presence in a fight all the more intimidating.",
+				"black_king_bar":"It's a BKB. You know why you're getting it. I would pop it early to give yourself 5-10 seconds of Happy Rainbow Super Lesh Party Time, then pop blademail afterwards so that when the other team sees their opportunity to slow down the blue rapetrain, they end up killing themselves anyway.",
+				"bloodstone":"Disassemble your Arcane boots to make this.Once you have this, you wont miss the mana from the boots as the Bloodstone will give you plenty. The price tag on this item is high, but the buildup is REALLY easy. That's why there is a Buildup item section. All the buildup items are useful. ",
+				"blade_mail":"You are Leshrac. You walk into teamfights with all your abilities firing off like its fucking New Years eve. If you aren't focused down, you rip open the conjoined anus of the other team and wear their mangled bodies as a party hat. Blademail means that if/when they focus you, you make them pay.",
+				"arcane_boots":"Regen. Lesh likes regen. Couple this with a bottle and this early core will function to give you the mana you need to sustain a teamfight before you can afford your larger items. You're a glass cannon with this build though, so play carefully, and if you need to, pick up an early point/vit booster.",
+				"rod_of_atos":"I'm starting to love Atos. HP + mana. Strong long range slow. NOT expensive. If any item could potentially dethrone BS as the main core item on Lesh, it's Atos. Gives him everything he needs for only 3100g. I still find BS to be more effective, but this item is REALLY good. Worth playing with."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"leshrac_split_earth",
+			"2":"leshrac_diabolic_edict",
+			"3":"leshrac_diabolic_edict",
+			"4":"leshrac_split_earth",
+			"5":"leshrac_diabolic_edict",
+			"6":"leshrac_split_earth",
+			"7":"leshrac_diabolic_edict",
+			"8":"leshrac_split_earth",
+			"9":"attribute_bonus",
+			"10":"leshrac_pulse_nova",
+			"11":"leshrac_pulse_nova",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"leshrac_pulse_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"leshrac_lightning_storm",
+			"23":"leshrac_lightning_storm",
+			"24":"leshrac_lightning_storm",
+			"25":"leshrac_lightning_storm"
+		},
+		"AbilityTooltips":
+		{
+				"leshrac_split_earth":"Split earth is taken at 1 for potential first blood, and to potentially save your squishy ass from an opposing first blood. I max it after edict because the AOE increases, making it a lot easier to land. The damage is good too. If you're not finding opportunities to edict, then max it first.",
+				"leshrac_diabolic_edict":"This skill rips shit up. Land a stun. Fire off an edict. Profit. Huge damage to players and huge damage to towers. Maxing this first means that if your opponent leaves the lane, you melt the tower, and if you choose to gank, you have huge damage. Good for teamfights. Hell, it's good for everything.",
+				"leshrac_lightning_storm":"Y U NO MAX THUNDER WTF? This skill is really good. No questions there. But I play Lesh with more of a focus on survivability and having his ult do as much damage as possible, so I find I'm better off with the stats early on. Stun + 1 tick of ult clears waves just as fast but for a bit more mana.",
+				"leshrac_pulse_nova":"The hardest aspect of Lesh to use effectively imo. Knowing when to turn it on/off and managing your mana is key to playing Lesh well. Edict will push towers for free and be great in ganks, but its the ult that is going to win the teamfights. More regen/base mana = more ult. Manage it well = win more",
+				"attribute_bonus":"Stats are great on lesh. More useful than on most heroes. He needs to stand long enough for his skillset to have an impact, so he needs every bar of hp and mana he can get. I genuinely feel it helps him more than lightning does. Stats add to ult duration, which is the crux of Lesh's teamfight."
+		}
+	}
+}

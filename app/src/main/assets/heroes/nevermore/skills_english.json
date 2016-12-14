@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shadowraze",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Shadow Fiend razes the area in front of him, dealing damage to enemy units in an area.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">200</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/75/75/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "Nevermore\u0027s trademark for harvesting souls.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_shadowraze1",
+        "youtube":"lznv0dtz-EI",
+        "id": 0
+    },
+    {
+        "dname": "Necromastery",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Shadow Fiend steals the soul from units he kills, gaining bonus damage. If the killed unit is a hero, he gains 12 souls.  On death, he releases half of them from bondage.",
+        "notes": "Denies, neutral creeps, and buildings also provide bonus damage through Necromastery.",
+        "dmg": "",
+        "attrib": "DAMAGE PER SOUL: <b><font color=\"#ffffff\">2</font></b><br/>MAX SOULS: <b><font color=\"#ffffff\">15/22/29/36</font></b>",
+        "cmb": "",
+        "lore": "Harvested souls swirl in and out of the Abysm, empowering the Shadow Fiend to increase the size of his collection.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_necromastery",
+        "youtube":"uC3aaPBr8-Y",
+        "id": 1
+    },
+    {
+        "dname": "Presence of the Dark Lord",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive, Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Shadow Fiend\u0027s presence reduces the armor of nearby enemies.",
+        "notes": "Stacks fully with other armor reduction abilities and aura.",
+        "dmg": "",
+        "attrib": "REDUCTION: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>RADIUS: <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "",
+        "lore": "Even being near Nevermore eats away at one\u0027s soul.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_dark_lord",
+        "youtube":"fPfxz4wGRsk",
+        "id": 2
+    },
+    {
+        "dname": "Requiem of Souls",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Shadow Fiend gathers his captured souls to release them as lines of demonic energy. Units near Shadow Fiend when the souls are released can be damaged by several lines of energy. Any unit damaged by Requiem of Souls will have its movement speed and attack damage reduced. Lines of energy are created for every 2 souls captured through Necromastery. Requiem of Souls is automatically cast whenever Shadow Fiend dies, regardless of its cooldown.",
+        "notes": "One line is generated from Shadow Fiend for every 2 souls in his possession, for a maximum of 18 lines.<br/>The movement and attack damage reductions from Requiem of Souls go through spell immunity.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">80/120/160</font></b>",
+        "attrib": "CAST DELAY: <b><font color=\"#ffffff\">1.67</font></b><br/>MOVEMENT REDUCTION: <b><font color=\"#ffffff\">25%</font></b><br/>DAMAGE REDUCTION: <b><font color=\"#ffffff\">50%</font></b><br/>REDUCTION DURATION: <b><font color=\"#ffffff\">5.000000</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/175/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/110/100",
+        "lore": "The captured souls of those past slain are released to ravage their former allies.",
+        "hurl": "Shadow_Fiend",
+        "name": "nevermore_requiem",
+        "youtube":"bYIdWp3A49M",
+        "id": 3
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Fireblast",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Поражает врага огненной волной, нанося урон и оглушая цель.",
+        "notes": "При многократном действии оглушения наносятся с интервалом в 0,3 секунды.<br/>Расход маны при изученной способности Multicast увеличивается на 20/40/60.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">55/110/165/220</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/85/95/105<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Ogre Magi легко развлечь, они часами любят забавляться игрою с огнем.",
+        "hurl": "Ogre_Magi",
+        "name": "ogre_magi_fireblast",
+        "youtube":"sEWGzFIZQtU",
+        "id": 0
+    },
+    {
+        "dname": "Ignite",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Обливает цель летучими химикатами, провоцируя возгорание. Жертва испытывает невероятную боль, получает урон и замедляется.",
+        "notes": "Бонус от Multicast: дает заклинанию атаку по площади вокруг цели (150/300/450).<br/>Бонус от Multicast: каждый уровень Multicast увеличевает радиус использования заклинания на 150.<br/>Бонус от Multicast: имеется шанс применить способность на нескольких вражеских юнитов в радиусе 1400 единиц.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>УРОН ОТ ОГНЯ: <b><font color=\"#ffffff\">26/34/42/50</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">20%/22%/24%/26%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 95/105/115/125<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15",
+        "lore": "Сможешь отбить мою подачу?",
+        "hurl": "Ogre_Magi",
+        "name": "ogre_magi_ignite",
+        "youtube":"Nj6AXWAl2s0",
+        "id": 1
+    },
+    {
+        "dname": "Bloodlust",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Заставляет союзника впасть в бешенство, повышая скорость его атаки и передвижения.",
+        "notes": "При многократном действии способность подействует сразу на нескольких союзников в радиусе 575 единиц.<br/>Действует на катапульты.<br/>Можно использовать на союзников, не восприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">30</font></b><br/>СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/12%/14%/16%</font></b><br/>СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">20/30/40/50</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20",
+        "lore": "«Бегать не так весело, как драться… Вообще не весело».",
+        "hurl": "Ogre_Magi",
+        "name": "ogre_magi_bloodlust",
+        "youtube":"J3py9ylBrjQ",
+        "id": 2
+    },
+    {
+        "dname": "Unrefined Fireblast",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Поражает врага потоком огня, нанося урон и оглушая его. На использование этой способности уходит 60% текущего запаса маны героя.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">275</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 400<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6",
+        "lore": "Спор с самим собой о том, кто применит заклинание первым, решается одновременным применением заклинания обоими.",
+        "hurl": "Ogre_Magi",
+        "name": "ogre_magi_unrefined_fireblast",
+        "youtube":"tJgO6bPCNBk",
+        "id": 3
+    },
+    {
+        "dname": "Multicast",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Позволяет Ogre Magi быстрее использовать заклинания, увеличивая их потенциал. Дает шанс использования заклинания несколько раз за одно применение. Увеличивает расход маны и уменьшает время перезарядки Fireblast, добавляет область действия для Ignite, уменьшает время перезарядки Bloodlust и дает шанс, что его действию подвергнутся случайные союзники вокруг Ogre Magi.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "УВЕЛИЧЕНИЕ ЗАТРАТ МАНЫ FIREBLAST: <b><font color=\"#ffffff\">20/40/60</font></b><br/>УМЕНЬШЕНИЕ ПЕРЕЗАРЯДКИ FIREBLAST: <b><font color=\"#ffffff\">2/4/6</font></b><br/>ОБЛАСТЬ ДЕЙСТВИЯ IGNITE: <b><font color=\"#ffffff\">150/300/450</font></b><br/>УВЕЛИЧЕНИЕ ДАЛЬНОСТИ ПРОИЗНЕСЕНИЯ IGNITE: <b><font color=\"#ffffff\">150/300/450</font></b><br/>ОБЛАСТЬ ДЕЙСТВИЯ BLOODLUST: <b><font color=\"#ffffff\">575</font></b><br/>УМЕНЬШЕНИЕ ПЕРЕЗАРЯДКИ BLOODLUST: <b><font color=\"#ffffff\">5/10/15</font></b><br/>ШАНС 2Х: <b><font color=\"#ffffff\">40%/50%/60%</font></b><br/>ШАНС 3Х: <b><font color=\"#ffffff\">0%/20%/25%</font></b><br/>ШАНС 4Х: <b><font color=\"#ffffff\">0%/0%/12.5%</font></b>",
+        "cmb": "",
+        "lore": "Несмотря на ущемленность в интеллекте, успех Ogre Magi в битвах гарантирован их мастерством.",
+        "hurl": "Ogre_Magi",
+        "name": "ogre_magi_multicast",
+        "id": 4
+    }
+]

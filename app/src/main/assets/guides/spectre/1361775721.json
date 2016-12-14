@@ -1,0 +1,99 @@
+{
+	"Hero":"spectre",
+	"Title":"IMBA GUIDE SPECTRE. CAPS 100%",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"poor_mans_shield",
+				"magic_wand",
+				"orb_of_venom",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"manta",
+				"mjollnir"
+			],
+			"luxury":
+			[
+				"radiance",
+				"greater_crit",
+				"abyssal_blade",
+				"satanic",
+				"skadi",
+				"assault",
+				"butterfly",
+				"ancient_janggo",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"NC",
+				"power_treads":"Good item for Spectre, after nerfing Tranquil",
+				"poor_mans_shield":"NC",
+				"assault":"HAVE ENEMY WITH MORE -ARMOR? GET IT!",
+				"heart":"NC",
+				"radiance":"GET IT ONLY IF ENEMY TEAM DONT HAVE CARRY WITH BKB",
+				"butterfly":"NEED EVESION? GET IT!",
+				"greater_crit":"NEED DPS? GET IT! LIKE 5 OR 6 ITEM1",
+				"manta":"ILLUS DO 65 TRUE DMG! SO I THINK THIS IS NC!",
+				"armlet":"110% WIN RATE ITEM! P.S. ONLY FOR PEOPLE WHO RLY CAN USE IT LIKE BRAWS",
+				"satanic":"GOOD REPLCEMENT FOR TARRASQUE",
+				"mjollnir":"MORE AC = MORE TRUE DMG ( DMG from Diffus = Dmg from mjolnir, but mjolnir helps farm not bad)",
+				"skadi":"IMBA SLOW + NICE STATS AND HP, BUT COST TO MUCH! SO THINK TWICE BEFORE GET IT",
+				"orb_of_venom":"JUST IMBA SLOW, NO ONE RUN FROM U",
+				"ancient_janggo":"1 skill + drums + manta = 500+ ms",
+				"abyssal_blade":"NEED TO COUNTER BKB CARRYS? GET IT!",
+				"tranquil_boots":"IN THE MIDDLE GAME U MUST TO CHANGE IT ON PT"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_dispersion",
+			"2":"spectre_spectral_dagger",
+			"3":"spectre_desolate",
+			"4":"spectre_desolate",
+			"5":"spectre_desolate",
+			"6":"spectre_haunt",
+			"7":"spectre_spectral_dagger",
+			"8":"spectre_spectral_dagger",
+			"9":"spectre_desolate",
+			"10":"spectre_spectral_dagger",
+			"11":"spectre_dispersion",
+			"12":"spectre_dispersion",
+			"13":"spectre_dispersion",
+			"14":"spectre_haunt",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

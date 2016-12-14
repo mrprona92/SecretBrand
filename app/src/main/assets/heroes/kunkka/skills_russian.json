@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Torrent",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "После небольшой задержки создает мощный поток воды, который подбрасывает врагов в небо, оглушает их, а затем наносит урон и снижает скорость их передвижения.",
+        "notes": "Мгновенный эффект на земле виден только союзникам.<br/>Юниты, подброшенные в воздух, будут оглушены, и их можно будет атаковать.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">120/180/240/300</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">225</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">35%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.53/1.53/1.53/1.53</font></b><br/>ЗАДЕРЖКА: <b><font color=\"#ffffff\">1.6/1.6/1.6/1.6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Адмирал вызывает мощный всплеск воды, который вырывается на поверхность прямо из центра мира.",
+        "hurl": "Kunkka",
+        "name": "kunkka_torrent",
+        "youtube":"2NeN4ToMrfY",
+        "id": 0
+    },
+    {
+        "dname": "Tidebringer",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Легендарный меч Kunkka увеличивает урон героя на один удар и рубит врагов на большой площади перед ним.",
+        "notes": "Урон неосновным целям снижается типом брони, но не ее значением.<br/>Урон неосновным целям проходит через иммунитет к заклинаниям.<br/>При добивании союзников способность не активируется.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">500/500/500/600</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">15/30/45/60</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13/10/7/4",
+        "lore": "Потерянная душа кладдского офицера поселилась в верном мече Адмирала под названием Tidebringer, придавая ему силу уничтожать демонов Катаракты.",
+        "hurl": "Kunkka",
+        "name": "kunkka_tidebringer",
+        "youtube":"GrJOoGLZyWg",
+        "id": 1
+    },
+    {
+        "dname": "X Marks the Spot",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Помечает место расположения дружественного или вражеского героя крестом и через несколько секунд или по нажатию кнопки возвращает его на это самое место. На союзниках длится вдвое дольше.",
+        "notes": "Если после использования способности цель стала невосприимчива к заклинаниям, то к кресту она не вернется.<br/>Прерывает прочтение заклинаний.",
+        "dmg": "",
+        "attrib": "ЗАДЕРЖКА ДЛЯ ВРАГОВ: <b><font color=\"#ffffff\">4</font></b><br/>ЗАДЕРЖКА ДЛЯ СОЮЗНИКОВ: <b><font color=\"#ffffff\">8</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">350/550/750/1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 19/16/13/10",
+        "lore": "Ряд мистических способностей Адмирала можно использовать как для битвы, так и для развлечения.",
+        "hurl": "Kunkka",
+        "name": "kunkka_x_marks_the_spot",
+        "youtube":"uF1OsHjC-tY",
+        "id": 2
+    },
+    {
+        "dname": "Ghostship",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Вызывает призрачный корабль, который прорывается сквозь битву, а затем разбивается, оглушает вражеских юнитов и наносит им урон. Все союзники, задетые кораблем, оказываются под ливнем рома, получая дополнительную скорость передвижения и замедленную реакцию на 50% урона.",
+        "notes": "Damage dealt after Rum wears off is non-lethal and can never kill a hero.<br/>Зона поражения от крушения корабля больше самого корабля.<br/>Корабль передвигается со скоростью 650.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">400/500/600</font></b>",
+        "attrib": "ЗАДЕРЖКА УДАРА: <b><font color=\"#ffffff\">3</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1000/1000/1000</font></b><br/>ШИРИНА: <b><font color=\"#ffffff\">425/425/425</font></b><br/>УСКОРЕНИЕ ОТ РОМА: <b><font color=\"#ffffff\">10%/10%/10%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА: <b><font color=\"#ffffff\">10</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1.4/1.4/1.4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/200/250<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/50/40",
+        "lore": "Последний корабль кладдского флота — не более чем фантом. Однако для врагов Адмирала он весьма реален.",
+        "hurl": "Kunkka",
+        "name": "kunkka_ghostship",
+        "youtube":"lfnAIKZ6suE",
+        "id": 3
+    },
+    {
+        "dname": "Return",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Возвращает выбранного героя к кресту.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1",
+        "lore": "",
+        "hurl": "Kunkka",
+        "name": "kunkka_return",
+        "id": 4
+    }
+]

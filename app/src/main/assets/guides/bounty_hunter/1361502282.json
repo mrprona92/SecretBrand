@@ -1,0 +1,152 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"Bounty Hunter, the Right Way: Ganking for Fun and Profit",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"Laning Phase":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"magic_stick"
+			],
+			"Ganking time! Post-Lane Core Items":
+			[
+				"urn_of_shadows",
+				"magic_wand",
+				"tpscroll",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"bottle"
+			],
+			"What now? Situational Core Items":
+			[
+				"desolator",
+				"black_king_bar",
+				"vladmir",
+				"orchid",
+				"tpscroll"
+			],
+			"Luxuries and Fun Stuff. Situational Items":
+			[
+				"assault",
+				"diffusal_blade",
+				"heart",
+				"rod_of_atos",
+				"monkey_king_bar",
+				"basher",
+				"skadi",
+				"gem",
+				"abyssal_blade",
+				"sheepstick",
+				"heavens_halberd",
+				"butterfly"
+			],
+			"Very Situational Items":
+			[
+				"mjollnir",
+				"dagon",
+				"sange_and_yasha",
+				"invis_sword",
+				"bfury"
+			],
+			"As Requested - Basic Universal Build":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"desolator",
+				"black_king_bar",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"As a melee hero, you will likely be taking some harass from ranged opponents in lane. A Stout Shield is a great way to increase your survivability against physical harass.",
+				"gem":"Since I originally wrote this guide, I`ve really changed my opinion on this item. While Dust, Sentries and Track are all great detection methods, none of them can hold a candle to Gem. If you`ve got an advantage over an invis hero and want to secure it, there`s nothing better.",
+				"magic_stick":"A magic stick is great for almost any hero, because in-combat burst healing and mana is expensive and difficult to buy. Managing your charges carefully can make the difference between a successful kill and letting your enemy escape with 5hp and no mana for a shuriken.",
+				"magic_wand":"It`s not always necessary to upgrade your Magic Stick. Spending 150 gold for 5 extra charges and some slots can be a waste sometimes. However, if you`re a little behind and need a really cheap small boost, or up against an ultra-spammy hero like Bristleback, this can be worth it.",
+				"bottle":"I, personally, don`t use bottle very often, but many Bounty Hunter players will recommend it. Since you`re constantly roaming, you often have opportunities to refill it from runes. But don`t bother if your mid is reliant on getting runes (e.g. Night Stalker) - you`ll only screw over your teammate.",
+				"tango":"Having regen in lane is always important. You probably won`t need more than one set of tangos and a salve, since you can always pop your invisibility if things get too hot.",
+				"tpscroll":"TP scrolls are incredibly important for every hero in Dota 2, but especially so for Bounty Hunter. If you`re not participating in ganks because you`re spending all your time walking across the map, then you`re not getting any gold or experience. Always leave a slot open for one of these!",
+				"phase_boots":"The next item you`ll want is likely Phase Boots. The active ability makes you difficult to escape, but the real meat of the item lies in the bonus damage. This will give your Jinada a real power boost and make your ganks that much better.",
+				"poor_mans_shield":"The agility on this item affords you greater last-hitting power, and the guaranteed block will make you even hardier against enemy harass.",
+				"vladmir":"This item adds a nice array of bonuses to your hero. Since some of them are percentage based, it makes sense to buy this item late when the bonus will be substantial. Note that any of your supports can buy this item instead and it will be just as good. Since 6.78c, this item now stacks with AC!",
+				"urn_of_shadows":"Bounty Hunter tends to have mana problems early on. Grabbing either an Urn of Shadows or a Medallion of Courage can solve this, while also offering you some utility. The Urn gives you an easy way to heal up after ganks and can help eke out that last bit of damage on fleeing enemies.",
+				"sheepstick":"Scythe of Vise (aka Sheepstick) is really, really good, and like Abyssal almost every team should have it in a game that goes late. Unlike regular stuns, morph disables many passives. Faceless Void Backtracking all your attacks? Hex him and beat his face in!",
+				"orchid":"Are you up against heroes with multiple or low-cooldown escape abilities like Anti-Mage, Weaver, Storm Spirit or QoP? This item keeps them locked down and unable to escape before you can (hopefully) kill them off. The mana regen is absolutely fabulous for you too.",
+				"dagon":"Make your burst EVEN BURSTIER. You should only ever build this if you can get it very early (before 12 minutes or so) and then don`t bother upgrading it.",
+				"assault":"If you want to take that armour reduction one step further. Do note that enemies can see the debuff even if you are invisible, so be careful with hanging around them if they have dust or sentries.",
+				"heart":"Your invisibility gives you an easy way to slip away and start regenerating with this item`s passive.",
+				"black_king_bar":"By now the enemy team probably considers you a priority target, and there`s certain to be a lot of stuns heading your way. Black King Bar will save your ass time and time again. Activating it also removes dust.",
+				"monkey_king_bar":"While the attack speed is kind of wasted, the damage is very nice for you. Note that True Strike isn`t as useful as it seems for you - crits cannot miss, and Jinada will be your main source of damage in the late game.",
+				"butterfly":"I`m not a huge fan of Butterfly, but it has its uses. The damage isn`t spectacular for the price, with the main meat of the item in the evasion - except this doesn`t stack with Halberd, generally a better item for you, so that part is wasted. If you`re stuck in the hard carry role, there`s worse.",
+				"basher":"Not an AMAZING item, but if your team lacks for stuns you can always grab this in a pinch. However, this does upgrade into the fantastic Abyssal Blade, so it`s useful as a stepping stone to an actually good item.",
+				"bfury":"This item is not good for Bounty Hunter. However, in Dota there`s no such thing as an item you should NEVER get, and Battlefury has some extremely situational uses. If you`re being shut down in ganks, you could maybe pick this up for split pushing purposes, or for killing Spiderlings.",
+				"invis_sword":"RIP Jinada + Shadowblade crits. While this item used to be a great pickup, since Valve fixed the bug where the 150 damage was multiplied by Jinada there`s literally no point to buying this. Again, no such thing as something being totally rejected - maybe you can find a use for this.",
+				"sange_and_yasha":"You already have a great maim, and half the stats are wasted on you. It disassembles into Halberd - a decent item for you - and Manta - not so decent for you. Generally avoid, but if you`re really behind you can use it as a cheap crutch to catch up.",
+				"mjollnir":"You really don`t need attack speed, and the damage it offers is mediocre at best.",
+				"skadi":"Oh, i`m sorry, were you going somewhere? Skadi combined with your main makes you incredibly sticky and hard to escape. It`s very expensive for what it offers, though.",
+				"desolator":"Gondar doesn`t need attack speed so much as raw damage. Desolator gives you a nice chunk of damage and -armour for your ENTIRE team. That means everybody in a gank is hitting harder. Combined with your Medallion, even a Dragon Knight can be vulnerable to your attacks.",
+				"diffusal_blade":"While not the best item for Gondar, it gives you okay damage, and most importantly the active Purge can remove dust from yourself. It`s probably not worth picking up just for that purpose though. If the enemy is fielding a Warlock then grab this - the active will instantly kill his golem.",
+				"ancient_janggo":"Quite apart from the decent aura, the stats that Drums offer you are incredibly efficient for the price. Having one of these makes you tougher, faster, deadlier and much harder to take down. Between the active on this, Phase Boots, and the Track speed boost, you`re almost impossible to escape.",
+				"medallion_of_courage":"Bounty Hunter tends to have mana problems early on. Grabbing either an Urn of Shadows or a Medallion of Courage can solve this, while also offering you some utility. Since the recent Track nerf, having a source of -armour is even more important for Gondar, and this item fits perfectly.",
+				"rod_of_atos":"My personal favourite item! It`s not the most cost-efficient use of gold, but nobody ever sees it coming. The range on the slow is gigantic (1200 units, the same as experience range) so you can catch people out very easily. The stats also afford you some nice mana and HP.",
+				"abyssal_blade":"A Basher is not a fantastic item for you, because you generally don`t have the attack speed to get many procs. However, the upgrade Abyssal Blade is invaluable for any team going late-game. It provides a huge chunk of damage, but more importantly a powerful BKB-piercing disable.",
+				"heavens_halberd":"Since the buff that prevents Manta Style from dispelling the disarm, Halberd has become much more useful. If you`re against any kind of autoattacking carry, you can use this to make them useless for a while. A very underrated item! Note that the evasion does not stack with Butterfly."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_wind_walk",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_jinada",
+			"8":"bounty_hunter_jinada",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_wind_walk",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_shuriken_toss",
+			"13":"bounty_hunter_shuriken_toss",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"Shuriken Toss scales oddly; while the raw damage goes up across levels, you get the best mana-to-damage ratio with two points in the skill. Remember that this ability ministuns! This means you can interrupt TP scrolls and channeled abilities with it. Try not to throw it at the start of a fight.",
+				"bounty_hunter_jinada":"Ah, your bread and butter. This offers you incredible burst damage when combined with your Shadow Walk. Since this is your main damage steroid, and it has a fixed cooldown, attack speed is not very useful for you. Instead, you want to pile on raw damage to push the crit to higher levels.",
+				"bounty_hunter_wind_walk":"This is best taken at level 1 to give you a good escape in lane. However, if you`re up against something very easy to survive (like a dual melee lane) then you can probably take Jinada first for the last-hitting power. Wait until you reach lane to decide.",
+				"bounty_hunter_track":"This ability is utterly incredible just for the bonus gold. You turn 1v1 trades into advantages for your team, and it only increases with every tracked kill you earn. Get this off a few times in teamfights and your team will be rolling in it. The true sight is really just a bonus compared to this.",
+				"attribute_bonus":"What else are you going to spend it on?"
+		}
+	}
+}

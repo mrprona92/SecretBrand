@@ -1,0 +1,93 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"Skywrath Mage - Ganking Nuker build - Mid",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"mantle",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"null_talisman",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"travel_boots",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"cyclone",
+				"shivas_guard",
+				"sphere",
+				"tranquil_boots",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sheepstick":"More expensive than RoA, but this allows you to contribute more in teamfights.",
+				"cyclone":"Another tool to use if you are getting jumped on a lot in teamfights.",
+				"force_staff":"Your spells have huge range, so you shouldn't put yourself in a bad position. Get this if the enemy team is constantly targetting you in teamfights.",
+				"bloodstone":"Absolute core. You need high mana regen to cast multiple Mystic Flares in teamfights. Dissemble your Arcane Boots to build it.",
+				"ethereal_blade":"For when you're so far ahead and just want to add insult to injury.",
+				"tranquil_boots":"You can get this or Phase Boots after dissembling your Arcane Boots if you can't get the farm for BoT."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_ancient_seal",
+			"9":"skywrath_mage_ancient_seal",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_concussive_shot",
+			"13":"skywrath_mage_concussive_shot",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skywrath_mage_arcane_bolt":"Use it to harass constantly in lane, or to last hit at level 1.",
+				"skywrath_mage_concussive_shot":"Use this to initiate.",
+				"skywrath_mage_ancient_seal":"For lower levels, cast Ancient Seal after firing your Arcane Bolt to get the most out of the damage increase.",
+				"skywrath_mage_mystic_flare":"Make sure you have mana for this when ganking,  as the damage from your combo at level 6 is huge."
+		}
+	}
+}

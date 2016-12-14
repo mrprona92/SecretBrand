@@ -1,0 +1,96 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"[MORTRED] Правильный гайд на кэрри",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"armlet",
+				"vladmir",
+				"phase_boots",
+				"black_king_bar"
+			],
+			"Для поздней игры":
+			[
+				"monkey_king_bar",
+				"manta",
+				"mjollnir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Можно и не покупать, если у вас все хорошо с ластхитом. Я не очень хорошо играю, поэтому приходится брать. ",
+				"ring_of_protection":"Позже сделаем из него базилку. Крайне полезная вещь",
+				"stout_shield":"Если не купили топор, имеет смысл взять это. ",
+				"boots":"Сапог. Куда ж без него.",
+				"tango":"Без комментариев.",
+				"phase_boots":"Дамаг с нашими критами будет не лишним, а скорость передвежения и прохождение сквозь крипов помогут доганять врага.",
+				"poor_mans_shield":"Добавит выживаемости.",
+				"vladmir":"Дает необходимый вампиризм + процент дамага + броня, которая никогда не будет лишней. На мой взгляд этот арт лучше сатаника. Деньги мы потратим на что-то другое.",
+				"ring_of_basilius":"Урон и броня. Отличное сочетание.",
+				"black_king_bar":"Не раз спасет вам задницу.",
+				"monkey_king_bar":"Обычно я покупаю МКБ, так как в игре кто-то начинает собирать уклонения. Вообще, полезный арт, много дамаг+мини баш.",
+				"manta":"Плюсы манты очевидны - скорость передвижения + 2 иллюзии, которые увеличивают шанс критануть, да и вообще ебашат как надо.",
+				"armlet":"Дамаг, хп, скорость атаки, возможность абузить его в трудных ситуациях. Великолепный арт для мортредки.",
+				"mjollnir":"Крутой, хоть и чересчур дорогой арт. Если игра идет хорошо - можно взять."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Имба скилл. Достаем противника, ластхитим крипов, доминируем лайн.",
+				"phantom_assassin_phantom_strike":"На первом уровне поможет уйти от внезапного ганка. Да и вообще крутой скилл. Важно помнить, что после прыжка нельзя ничего нажимать, иначе спадет баф на скорость атаки.",
+				"phantom_assassin_blur":"Уклонения круче, чем от батерфляя + не видно на карте, если рядом есть враг.",
+				"phantom_assassin_coup_de_grace":"ЙОБА-криты. К концу игры можно ваншотить всех, кроме танков."
+		}
+	}
+}

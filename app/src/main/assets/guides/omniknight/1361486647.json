@@ -1,0 +1,116 @@
+{
+	"Hero":"omniknight",
+	"Title":"Support Omnikinght",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"flask",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"arcane_boots",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"pipe",
+				"sheepstick"
+			],
+			"Late Game":
+			[
+				"ultimate_scepter",
+				"assault",
+				"heart",
+				"refresher"
+			],
+			"Alternative":
+			[
+				"magic_wand",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"tranquil_boots",
+				"heavens_halberd",
+				"vladmir"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Gives some stats and can be upgraded later.",
+				"magic_wand":"Good if you are against enemies that cast a lot.",
+				"clarity":"More Mana for when you get low.",
+				"flask":"Good heal if you get low.",
+				"ward_observer":"All teams need wards.",
+				"tango":"Heal to help against harass.",
+				"courier":"All teams need a courier, if someone else buys it get wards instead.",
+				"mekansm":"A very good item that will keep your team alive. Your team only needs one so if some else gets one buy wards instead.",
+				"vladmir":"A nice aura for the team. Your team only needs one so if some else gets one buy wards instead.",
+				"flying_courier":"Upgrade the courier when you have some extra money, if its already upgraded, buy some wards.",
+				"pipe":"Protects your team against magic. Your team only needs one so if some else gets one buy wards instead.",
+				"urn_of_shadows":"Good heal for the team and good stats for you. Your team only needs one so if some else gets one buy wards instead.",
+				"sheepstick":"Very powerful item if you can afford it.",
+				"ultimate_scepter":"A good upgrade that allows you to defend.",
+				"refresher":"A double ult will make your team very hard to kill.",
+				"assault":"Very good aura for the team.",
+				"heart":"Makes you very tanky.",
+				"soul_ring":"Gives a very nice amount of Mana.",
+				"arcane_boots":"Allows you to have lots of Mana as well as give some to the team.",
+				"ancient_janggo":"A good aura and upgrades form a Bracer if you decide to buy one. Your team only needs one so if some else gets one buy wards instead.",
+				"heavens_halberd":"Good cheaper alternative to Scythe of Vyse since it can disarm carries.",
+				"tranquil_boots":"If you do not need the Mana form Arcane boots get these instead."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_purification",
+			"2":"omniknight_degen_aura",
+			"3":"omniknight_purification",
+			"4":"omniknight_repel",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_degen_aura",
+			"9":"omniknight_degen_aura",
+			"10":"omniknight_degen_aura",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_repel",
+			"13":"omniknight_repel",
+			"14":"omniknight_repel",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"omniknight_purification":"Very good heal and nuke use it as needed in lane. In team fights use it to keep people alive.",
+				"omniknight_repel":"Very good spell for keeping people alive, one level has enough duration early on.",
+				"omniknight_degen_aura":"A nice aura that will keep the enemy form running.",
+				"omniknight_guardian_angel":"Powerful ultimate, try to save it for team fights to keep everyone alive.",
+				"attribute_bonus":"No need to take this until you have to."
+		}
+	}
+}

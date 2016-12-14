@@ -1,0 +1,107 @@
+{
+	"Hero":"bloodseeker",
+	"Title":"Purge's guide to Bloodseeker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"urn_of_shadows",
+				"stout_shield",
+				"magic_stick",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"urn_of_shadows",
+				"tpscroll",
+				"poor_mans_shield",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"radiance",
+				"assault",
+				"blade_mail",
+				"abyssal_blade",
+				"butterfly",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"Stout is really fantastic in the mid lane, as it will reduce the harassment that you take from enemies while still giving you last hits.",
+				"ogre_axe":"Picking up an Ogre Club here prepares you for your core item build while giving you some much neede 190 hp. Hp is SUPER important on Bloodseeker because it allows you to 1v1 trade with an enemy hero, who if you kill, gives you some hp. Use this to either build into a Black King Bar, or a Halberd!",
+				"magic_stick":"Magic stick is situational, but I recommend it against mana drainers, or against heavy burst nukers, as the extra burst heal and mana will sometimes keep you alive. I don't recommend upgrading to a wand, because you won't want it late game, and you'll run out of slots soon.",
+				"flask":"The salve in lane CAN be unnecessary. If you want to get a quelling blade instead, it's a bit risky but it can get you more last hits! It's a hard decision to make, but this build is safer.",
+				"tpscroll":"It's very important to carry a TP scroll as a bloodseeker because you should be ganking side lanes as the mid hero, and covering your allies when they get ganked.",
+				"phase_boots":"I really like phase for a couple reasons. It helps you last hit, which helps with Bloodbath, and the extra movement speed helps you chase down kills and get in position for kills. I like it much more than treads since Bloodseeker doesn't need to tread switch for mana much!",
+				"poor_mans_shield":"I like upgrading the poor mans shield usually because when you rupture someone they will usually turn and hit you, and the +6 damage is useful since the item build I like doesn't focus as much on damage items. You don't have to upgrade to poor mans if you want to shave a little gold off.",
+				"urn_of_shadows":"Urn is fantastic for Bloodseeker because it gives you some extra mana regen to cast more, some hp to survive diving, and the offensive killing potential ends up helping in the early game! 1 Urn charge does MORE damage than Force staff with a lv. 1 Rupture and costs WAY less money!",
+				"force_staff":"Force staff is an inexpensive way to get more single target damage out of your hero, but I do NOT recommend getting it before your Rupture is lv. 2. Level 1 Rupture with Force Staff only does 120 pure damage, and Force Staff stats do virtually nothing for your hero compared to an early Sange.",
+				"assault":"AC is an ok item on Bloodseeker if you are worried about physical damage being done to you and need to push or help kill enemy heroes, AC can be the right choice.",
+				"black_king_bar":"Black King Bar is often required versus heroes that have a lot of stuns to prevent you from getting chain stunned! If they are stun heavy I'll pick it up after phase and urn, depending on how well I'm doing. Try to save your charges for teamfights or on really important ganks!",
+				"blade_mail":"Blade Mail is sometimes the right item to pick up because it's an inexpensive way to leverage your hp into damage. When you Rupture someone, they will often use their nukes on you, and squeezing out an extra 300 damage can sometimes be hard, but reflecting that damage with blademail can do it!",
+				"radiance":"Radiance is quite situational, but is generally the best damage item for chasing heroes. I do NOT like getting this early game because then you're just a squishy diving hero who happens to have a radiance. It can be okay after the early game if you need damage as Bloodseeker though.",
+				"butterfly":"Butterfly gives you some serious damage output and survivability when you bloodrage yourself because the % damage is increased by your stat attribute.",
+				"invis_sword":"Shadow blade allows you to snowball by finding kills on low level supports, which gives you a better shot at carrying in the mid game.",
+				"abyssal_blade":"This is another utility item that can be useful on Bloodseeker because of the nice + damage as well as anti carry mechanisms.",
+				"heavens_halberd":"This item is situational with Black King Bar, but I think Heavens Halberd is more fun. Heavens halberd gives you 10 more strength, and the evasion and active are great anti carry tools if your opponent is a dps carry without BkB. If they have a lot of stuns you HAVE to get BkB before this item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bloodseeker_blood_bath",
+			"2":"bloodseeker_bloodrage",
+			"3":"bloodseeker_blood_bath",
+			"4":"bloodseeker_thirst",
+			"5":"bloodseeker_thirst",
+			"6":"bloodseeker_rupture",
+			"7":"bloodseeker_thirst",
+			"8":"bloodseeker_thirst",
+			"9":"bloodseeker_bloodrage",
+			"10":"bloodseeker_bloodrage",
+			"11":"bloodseeker_rupture",
+			"12":"bloodseeker_bloodrage",
+			"13":"bloodseeker_blood_bath",
+			"14":"bloodseeker_blood_bath",
+			"15":"attribute_bonus",
+			"16":"bloodseeker_rupture",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bloodseeker_bloodrage":"Bloodrage is your basic silence. This ability is REALLY GOOD as it gives you a low cd silence to use on opponents.The cast rage is very long so you can cast on stunners outside of their range. You want to level this in the mid game to increase duration and in case you want to use for damage.",
+				"bloodseeker_blood_bath":"Blood Bath allows you to heal every time you get a last hit or deny, and this is the way that Bloodseeker can stay in lane so well! If you are better at last hitting, I recommend only 1 level of this before 6. You also get healed by dying enemy heroes!",
+				"bloodseeker_thirst":"Thirst gives you vision of enemy heroes and huge movement speed when your foes are low on hp. This can be used to counter invisible heroes as well as run circles around enemies in teamfights. Look for ganks early on with this skill and avoid death while looking for kill openings.",
+				"bloodseeker_rupture":"Rupture is your main damage dealing spell that is used for ganks and teamfights. It does pure damage and goes through magic immunity, so either use it on an out of position hero, or an enemy carry. With urn, Rupture, and Bloodrage, you should be able to right click down an enemy hero and get a kill!"
+		}
+	}
+}

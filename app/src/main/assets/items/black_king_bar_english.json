@@ -1,0 +1,19 @@
+{
+  "dotaId": "black_king_bar",
+  "id": 116,
+  "img": "black_king_bar_lg.png",
+  "dname": "Black King Bar",
+  "qual": "epic",
+  "cost": 3975,
+  "desc": "Active: Avatar - Grants Spell Immunity and 100% Magic Damage Resistance.  Duration and cooldown decrease with each use.  Some abilities are able to disable through Avatar.",
+  "notes": "Purchasing another Black King Bar will not reset its immunity duration.<br/>Using Black King Bar may remove some positive buffs.",
+  "attrib": "+ 10 Strength<br/>+ 24 Damage<br/>AVATAR DURATION: 10/9/8/7/6/5",
+  "mc": false,
+  "cd": 80,
+  "lore": "A powerful staff imbued with the strength of giants.",
+  "components": [
+    "ogre_axe",
+    "mithril_hammer"
+  ],
+  "created": true
+}

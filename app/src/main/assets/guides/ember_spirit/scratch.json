@@ -1,0 +1,119 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"[AnGeliroN] Pew Pew Spirit [RUS]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"MUST HAVE":
+			[
+				"poor_mans_shield",
+				"magic_wand",
+				"boots",
+				"ring_of_health"
+			],
+			"ВАРИАНТ №1":
+			[
+				"tranquil_boots",
+				"bfury",
+				"bfury",
+				"greater_crit",
+				"black_king_bar"
+			],
+			"ВАРИАНТ №2":
+			[
+				"power_treads",
+				"assault",
+				"desolator",
+				"mjollnir"
+			],
+			"luxury":
+			[
+				"vanguard",
+				"vladmir"
+			],
+			"Если в лес...":
+			[
+				"quelling_blade",
+				"tango",
+				"stout_shield"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_health":"Кусочек батлфури =)
+Или вангварда (:",
+				"poor_mans_shield":"Повысит нашу выносливость в ранних стадиях игры, а ее нам очень не хватает.",
+				"vladmir":"Если никто не собрал в команде, почему бы нет?",
+				"assault":"Очень важный для нас итем, собираем в первую очередь после основных предметов.",
+				"black_king_bar":"Собирается для врывов в толпу \"вражины\" т.к. после ульты можно словить стан и вся эффективность от вас уйдет в \"НИПАИГРАТЬ\".",
+				"vanguard":"Если на линии очень тяжело, имеет место быть. Дает шанс блока, реген и немного здоровья",
+				"greater_crit":"Две батлфури и это - всем конец!",
+				"bfury":"Дает хороший реген мп и хп, неплохой прирост урона, и самое главное отлично работает со второй способностью.
+Также можно собрать две \"батлфури\" - вполне уместно!",
+				"lesser_crit":"Дает отличный прирост дамага на средних стадиях игры и криты.
+На более поздних стадиях стоит улучшить до Daedalus",
+				"mjollnir":"Начинаем с маелшторма и потом \"довариваем\" в мъолнир",
+				"desolator":"Благодаря второй способности будет работать почти как ульта Дазла, понижающая всем броню =)
+Плюс прирост урона, отличная штука."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_searing_chains",
+			"2":"ember_spirit_flame_guard",
+			"3":"ember_spirit_flame_guard",
+			"4":"ember_spirit_searing_chains",
+			"5":"ember_spirit_flame_guard",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_searing_chains",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_searing_chains",
+			"10":"ember_spirit_sleight_of_fist",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_sleight_of_fist",
+			"13":"ember_spirit_sleight_of_fist",
+			"14":"ember_spirit_sleight_of_fist",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"Хороший стан по трем целям, плохо то, что цели выбираются случайно. Маленький АOE поэтому стоит стоять близко к цели при использовании, также действует на крипов, поэтому лучше чтобы крипов рядом не было. ",
+				"ember_spirit_sleight_of_fist":"Хороший масскилл, сначало салбый, но с приобретением артов на урон Ксин начинает раздавать нехилый дамаг в замесах.
+Стоит помнить, что во время каста Ксин неуязвим и сбрасывает с себя дебаффы. 
+З.Ы.: Работает в куполе войда, даже если вы в нем =)",
+				"ember_spirit_flame_guard":"Дает сопротивление магическому урону.
+Хороший скилл для фарма в лесу. За один каст можем зафармить 2 точки нейтралов. ",
+				"ember_spirit_activate_fire_remnant":"Активация копии и перемещение вас к ней",
+				"ember_spirit_fire_remnant":"Обеспечивающий нас высокой мобильностью.
+Хороший скилл для врыва и ухода. 
+Все просто ставишь копию потом летишь к ней, можно ставить до 3-х копий. После подлетания к копии проиходит масс дамаг по всем окружающим врагам.",
+				"attribute_bonus":"ПЛЮСЕГИ!!!!"
+		}
+	}
+}

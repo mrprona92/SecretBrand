@@ -1,0 +1,111 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"Hard lane solo Bounty Hunter",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots",
+				"bottle"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"desolator",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"vladmir",
+				"black_king_bar",
+				"urn_of_shadows"
+			],
+			"Luxury Items":
+			[
+				"monkey_king_bar",
+				"abyssal_blade",
+				"butterfly",
+				"rapier",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"You get it at the start of the game because it can only be bought from the base. Turn it into a Ring of Basilius as soon as possible by buying a Sage Mask from the side shop.",
+				"boots":"Early Boots after Ring of Basilius are paramount. You need the movement speed bonus as soon as possible to be able to run away when the enemy goes after you.",
+				"flask":"A more powerful consumable to help you stay in the lane and get experience. Use it if you lost more than 400 HP to take full effect of its healing power.  Stay back while healing, since if you are attacked, the effect is lost.",
+				"bottle":"By the time you get a Bottle, you should be level 6 or close to it. Once you reach 6, leave your lane and roam the river in search of kills with Track. You will need Bottle to restore your mana and HP back after each gank. If your solo mid has a Bottle, leave the runes. Else, you take them.",
+				"ward_observer":"As a long lane solo, planting a ward at the start of the game to block the enemy pull camp and another one to detect hostiles coming from the jungle is critical. Most of the time, allies won't buy wards for you to plant, so just buy them yourself.",
+				"tango":"Basic regeneration item. Use it when you are hurt to stay in lane and get experience. If you lost more than 400 HP, fall back and use Healing Salve instead.",
+				"tpscroll":"Always carry one of these. You must be able to join fights quickly to keep the Track gold flowing, as it is your main source of income, since you will not be spending much time farming. If you get Boots of Travel, no longer buy them.",
+				"travel_boots":"This should be your last item. Replace your Phase Boots with this and you will no longer need to save an inventory slot for teleport scrolls.",
+				"phase_boots":"Phase Boots should quickly follow after Bottle. They enhance your Jinada hits and greatly improve your chasing power and mobility.",
+				"vladmir":"If nobody else on your team is getting it, put your Ring of Basilius to good use and get this item. It's an awesome support item for your melee carries and low armored support heroes.",
+				"ring_of_basilius":"Get it as soon as you can. Turn it off so your creeps don't get bonus armor and push the lane as a result. The +6 damage is key for grabbing last hits and the mana regeneration will give you the mana to go invisible at will.",
+				"urn_of_shadows":"Get Urn of Shadows if nobody else on your team plans on getting one. Urn is an excellent item to compliment Bounty Hunter's agressive ganking style. Don't forget to use the charges. Don't make the mistake of having over 6 charges at once.",
+				"black_king_bar":"Get this if you are the main focus of the enemy team. Use it to survive and get as many Tracks going as possible.",
+				"rapier":"Get this only if you have balls of steel. Your burst damage will be so high, that you will pretty much instagib anybody, but if you feed the Rapier to an enemy carry... good luck.",
+				"monkey_king_bar":"Raw damage items are the way to go for Bounty Hunter. MkB will greatly enhance your Jinada burst damage and will counter any kind of evasion enemies may have.",
+				"butterfly":"If your team needs you to carry a bit harder, buy a Butterfly. Buy the Talisman of Evasion first, so you can get the evasion right away and frustrate enemy carries.",
+				"desolator":"Your main damage item. It's one of the cheapest raw damage items and will greatly increase the damage of your Jinada and Shadow Walk backstab, as the -6 armor debuff is applied before the damage is dealt.",
+				"ancient_janggo":"A perfect all-rounded item for Bounty Hunter. It gives a bit of everything: HP, mana, damage and mobility. It's very effective given its cheap price. Buy the Bracer component first.",
+				"medallion_of_courage":"If you are having a rough game and can't get any money, replace Desolator with a Medallion. Though you lose 60 damage, the -armor effect is still the same. You can also get it after Desolator to reduce up to 12 armor on one target.",
+				"abyssal_blade":"For times in which your team needs more disables, buy Abyssal Blade. Its bonus 100 damage will greatly increase your Jinada damage. The bonus 10 Strength is also handy, as Bounty Hunter doesn't have much HP."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_wind_walk",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_wind_walk",
+			"8":"bounty_hunter_wind_walk",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_jinada",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_shuriken_toss",
+			"14":"bounty_hunter_shuriken_toss",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"Early game it's not worth leveling this past rank 2. Ranks 1 and 2 increase its damage by 100, while ranks 3 and 4 increase damage by 50 and 75. You are better off maxing Shadow Walk and Jinada instead, maxing Shuriken Toss last.",
+				"bounty_hunter_jinada":"Early game, save it to secure last hits. Later, when you rack up damage items, you will hit like a beast with it, Don't underestimate the slow, as it allows allies to catch up to the target. Max Jinada after Shadow Walk.",
+				"bounty_hunter_wind_walk":"This allows you to long lane solo. Make sure you always have mana for it if you need to escape a gank. Be aware of enemy Sentry Wards and dusts, as they will render this skill useless. Hit an enemy twice in a row with it for maximum burst damage.",
+				"bounty_hunter_track":"This is your main source of gold. The more tracked people die, the richer you and your allies become. Don't waste time farming creeps after you hit 6. Look for kills, use Track any time you can and you and your team will rack up items like there's no tomorrow.",
+				"attribute_bonus":"Get stats last. Your other skills are much more important."
+		}
+	}
+}

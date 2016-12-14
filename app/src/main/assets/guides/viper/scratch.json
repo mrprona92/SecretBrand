@@ -1,0 +1,89 @@
+{
+	"Hero":"viper",
+	"Title":"MrD_Viper(русская сборка)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"slippers",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"vanguard",
+				"invis_sword",
+				"point_booster"
+			],
+			"coreItems":
+			[
+				"manta",
+				"skadi",
+				"monkey_king_bar"
+			],
+			"Поздняя игра":
+			[
+				"heart",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"tango":"Обычный предмет , позволяющий восстанавливать немного здоровья",
+				"point_booster":"Из него собираем Eye of Skadi",
+				"black_king_bar":"Защищает от магии ,а также даёт силу и урон",
+				"vanguard":"Продать после тараски",
+				"monkey_king_bar":"Этот предмет будет очень полезен , так как вайпер часто мажет. Также не помешают дополнительный урон и оглушение",
+				"invis_sword":"Продать после батерфлая",
+				"skadi":"Заменитиль скипетра. Постоянное замедление , как от ульты (при сочетании с 1 скилом), а атрибуты гораздо выше агейма"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_nethertoxin",
+			"2":"viper_poison_attack",
+			"3":"viper_nethertoxin",
+			"4":"viper_poison_attack",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_corrosive_skin",
+			"8":"viper_nethertoxin",
+			"9":"viper_corrosive_skin",
+			"10":"viper_poison_attack",
+			"11":"viper_viper_strike",
+			"12":"viper_nethertoxin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"При сочетании с EoS никогда не ставить на автомат. Чередование ударов : 2 удара скилом, 1 EoS, 2 удара скилом ,1 EoS и т. д.",
+				"viper_nethertoxin":"Позволяет быстро убивать героев , у которых осталось мало здоровья, а также эффективно добивать крипов",
+				"viper_corrosive_skin":"Позволяет вам наносить урон атакующим врагам",
+				"viper_viper_strike":"Довольно сильное замедление и переодический урон",
+				"attribute_bonus":"Атрибуты лишними не бывают..."
+		}
+	}
+}

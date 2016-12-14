@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Arc Lightning",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Бросает молнию, которая перескакивает с одного врага на другого.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">85/100/115/145</font></b>",
+        "attrib": "ПРЫЖКОВ: <b><font color=\"#ffffff\">5/7/9/15</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 65/70/75/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 1.75",
+        "lore": "Для уничтожения жалких смертных Zeus предпочитает использовать Arc Lightning.",
+        "hurl": "Zeus",
+        "name": "zuus_arc_lightning",
+        "youtube":"uHcb8gCUP3s",
+        "id": 0
+    },
+    {
+        "dname": "Lightning Bolt",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ударяет молнией врага, нанося ему урон и кратковременно оглушая. В радиусе 750 вокруг цели способность ненадолго раскрывает туман войны и невидимых юнитов. Может быть применена на землю — тогда способность подействует на ближайшего вражеского героя в радиусе 325.",
+        "notes": "Этой способностью можно прерывать чтение заклинаний.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/175/275/350</font></b>",
+        "attrib": "ДАЛЬНОСТЬ ОБЗОРА: <b><font color=\"#ffffff\">750</font></b><br/>ДЛИТЕЛЬНОСТЬ ОБЗОРА: <b><font color=\"#ffffff\">4.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/95/115/135<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6",
+        "lore": "Ошеломляющее наказание для мятежных язычников.",
+        "hurl": "Zeus",
+        "name": "zuus_lightning_bolt",
+        "youtube":"S5xDQfHBSw4",
+        "id": 1
+    },
+    {
+        "dname": "Static Field",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Zeus ошеломляет врагов поблизости каждый раз, когда произносит заклинание, при этом нанося урон, пропорциональный уровню их текущего здоровья.",
+        "notes": "Урон от этой способности наносится раньше, чем урон от прочтенного заклинания.<br/>Использование предметов не активирует эту способность.<br/>Действует на юнитов вне видимости.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1200</font></b><br/>СНИЖЕНИЕ ЗДОРОВЬЯ: <b><font color=\"#ffffff\">5%/7%/9%/11%</font></b>",
+        "cmb": "",
+        "lore": "Небеса сотрясаются, когда бог грома ступает по земле.",
+        "hurl": "Zeus",
+        "name": "zuus_static_field",
+        "youtube":"mZm0z2mlPvY",
+        "id": 2
+    },
+    {
+        "dname": "Thundergod's Wrath",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Ударяет каждого врага молнией вне зависимости от его местоположения. Thundergod's Wrath также дает True Sight вокруг каждого ударенного героя в радиусе 900. Если враг невидим, то он не получит урона, но True Sight все равно будет создан.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС РАСКРЫТИЯ НЕВИДИМОСТИ: <b><font color=\"#ffffff\">500</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3/3/3/3</font></b><br/>УРОН: <b><font color=\"#ffffff\">225/350/475</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">440/540/640</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 225/325/450<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 90",
+        "lore": "Повелитель небес сокрушает всех, кто противостоит ему, независимо от того, близко или далеко они находятся.",
+        "hurl": "Zeus",
+        "name": "zuus_thundergods_wrath",
+        "youtube":"IGhJdGh8CH8",
+        "id": 3
+    }
+]

@@ -1,0 +1,100 @@
+{
+	"Hero":"jakiro",
+	"Title":"Jakiro - We Done Good! Teamfight Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"veil_of_discord",
+				"mekansm",
+				"ward_observer",
+				"ward_sentry"
+			],
+			"Luxury Items":
+			[
+				"ultimate_scepter",
+				"cyclone",
+				"sheepstick",
+				"shivas_guard",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Cheap Stats, builds into Magic Wand",
+				"sobi_mask":"A lone Sage's Mask should provide good regen in the laning phase. It is more powerful than the Ring of Basilius, which you only get for the Pushing build.",
+				"magic_wand":"Cheap Stats and an active that's great for clutch plays when you run out of mana.",
+				"ward_observer":"Wards win games. You are a support. Buy them.
+
+Early lane wards are very powerful. Jakiro doesn't need much early game, so you can often afford these.",
+				"courier":"Every team needs one. You are a support, buy one.",
+				"mekansm":"Your team will need one and you're an ideal candidate. Great stats and a more effective heal on Jakiro's tanky butt.",
+				"sheepstick":"Best item in the game. If you can farm a Mystic Staff then you can't go wrong with Scythe of Vyse",
+				"cyclone":"Cheapest mana regen item in the game, which gives you a great escape and setup for your Ice Path in skirmishes",
+				"necronomicon":"If you're REALLY fed, you can get this. It's a great item but a lot of other items are just more effective on Jakiro.",
+				"ultimate_scepter":"Powerful in certain lineups (like with Faceless Void) but Veil of Discord is better in almost every way. Get this if you're doing really well and you have another support.",
+				"shivas_guard":"Scythe of Vyse is often a better choice but the Armor is great on Jakiro and the auras and active give more magic damage and area slows to compliment Jakiro's skills even more.",
+				"arcane_boots":"Jakiro uses a ton of mana, especially in this build. Every little helps.",
+				"veil_of_discord":"If you do very well, rush this. It's very powerful. All of Jakiro's spells cause magical damage and this buffs them all. The stats are also great on a tanky support like Jakiro."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"jakiro_dual_breath",
+			"2":"jakiro_ice_path",
+			"3":"jakiro_dual_breath",
+			"4":"jakiro_ice_path",
+			"5":"jakiro_dual_breath",
+			"6":"jakiro_ice_path",
+			"7":"jakiro_dual_breath",
+			"8":"jakiro_ice_path",
+			"9":"jakiro_macropyre",
+			"10":"jakiro_liquid_fire",
+			"11":"jakiro_macropyre",
+			"12":"jakiro_liquid_fire",
+			"13":"jakiro_liquid_fire",
+			"14":"jakiro_liquid_fire",
+			"15":"attribute_bonus",
+			"16":"jakiro_macropyre",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"jakiro_dual_breath":"One of the highest damage nukes in the game. Hits in 2 waves. Use it to clear creep waves and hit multiple targets in team fights.",
+				"jakiro_ice_path":"Excellent AoE Stun, one of the best follow-up stuns in the game with a tiny cooldown and mana cost. Aim right down the center of Teamfights or cut off escape routes with diagonal positioning.",
+				"jakiro_liquid_fire":"SLOWS TOWER ATTACK SPEED! Very powerful ability which helps push towers, but we skip it until later in this Teamfight build. Drop it on enemy carries to heavily reduce their damage output.",
+				"jakiro_macropyre":"Macropyre > Ice Path > Wait > Dual Breath. Your power combo. Melts squishies and deals heavy damage to anyone who stays in the area too long. Great in narrow areas like the Roshan Pit. Devastating used with abilities like Chronosphere and Black Hole"
+		}
+	}
+}

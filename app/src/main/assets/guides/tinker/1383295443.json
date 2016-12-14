@@ -1,0 +1,96 @@
+{
+	"Hero":"tinker",
+	"Title":"	TINKERING ABOUT.....TINKER  (русская)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"mantle",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_regen",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"bottle",
+				"soul_ring"
+			],
+			"Для сборки серьёз. предм.":
+			[
+				"staff_of_wizardry",
+				"pers",
+				"ultimate_orb"
+			],
+			"Серьёзные предметы":
+			[
+				"dagon",
+				"blink",
+				"sphere"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Поможет, если  вам нужно отойти из замеса, не получив заметного урона!",
+				"gauntlets":"Если думаете,что на линии против вас будет стоять харасящий герой! Но если думаете, что сможете их нагибать, а они вам ничего не сделают, берите мантии. (Впоследсвии можно продать)",
+				"mantle":"Берём, так как повышает основную характеристику нашего героя, а именно - интеллект! Увеличиваем кол-во самой маны, её реген и урон автоатакой. (Впоследствии можно продать)	",
+				"bottle":"Стережём рунки и используем их в зависимости от ситуации. Поверьте, тинкера они часто выручают.",
+				"travel_boots":" ЭТО главное для эффективного тинкера. В связке с ультом делает вас идеальным ганкером на поле боя!",
+				"dagon":"Учитывая, что у тинкера и так мощный урон, то, прокачав дагон, вы сможете стать ещё более сильным и ваншотить! Ведь у вас есть реарм!",
+				"sphere":"Неплохая пассивная способность плюс отличная регенирирующая способность! Просто отлично подходит под тинкера.	",
+				"soul_ring":"Часто будет выручать вас, пополняя в нужный момент жизненно необходимую ману!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_heat_seeking_missile",
+			"3":"tinker_laser",
+			"4":"tinker_heat_seeking_missile",
+			"5":"tinker_laser",
+			"6":"tinker_heat_seeking_missile",
+			"7":"tinker_laser",
+			"8":"tinker_heat_seeking_missile",
+			"9":"tinker_rearm",
+			"10":"tinker_march_of_the_machines",
+			"11":"tinker_march_of_the_machines",
+			"12":"tinker_march_of_the_machines",
+			"13":"tinker_march_of_the_machines",
+			"14":"tinker_rearm",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"Лучше использовать в дуэльной битве 1 на 1",
+				"tinker_heat_seeking_missile":"Ни что так хорошо не догоняет двух убегающих от вас врагов, как эти чертовки! Так вам ещё и не нужно заботиться об их наведении! Отличная вещь.",
+				"tinker_march_of_the_machines":"Отлично пушит и помогает фармить",
+				"tinker_rearm":"То, что делает тинкера ... ТИНКЕРОМ"
+		}
+	}
+}

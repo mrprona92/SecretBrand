@@ -1,0 +1,113 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"Shadow Demon - Support Disabler Build Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"circlet",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"null_talisman",
+				"magic_wand",
+				"boots",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"cyclone",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"bottle",
+				"ghost",
+				"dagon",
+				"shivas_guard",
+				"ward_observer"
+			],
+			"Advanced Items":
+			[
+				"rod_of_atos"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allowes you to jump from place to place. If you are attacked, cooldown is set to 3 seconds. Can be used to initiate while combined with DISRUPTION, and to escape while combined with Eul.",
+				"sobi_mask":"Optional item, it might take you a while to get Arcane Boots, Sage's Mask will help you to regenerate Mana.",
+				"magic_wand":"Stacks charges of 15 HP and Mana when enemies use spells near you, which can be later used any time you want. Stacks up to 15 stacks. Very useful during fights.",
+				"ghost":"Makes you invulnerable to physical attacks for 4 seconds but increases taken magical damage by 40%. Can be used to give enough time to load Blink Dagger's cooldown and escape. Careful, don't activate if there is a potential for recieving spell damage.",
+				"bottle":"Useful for regenerating HP and Mana points but delays the purchase of the important Blink Dagger. Can be bought in cases you play defensively.",
+				"ward_observer":"While pushing, place the Observer Ward in key places so you would know if you are being ganked. If the enemy team has junglers, place it in their jungle so your team could gank, also can be placed in your jungle to protect junglers in your team.",
+				"cyclone":"Disables a target for 2.5 seconds.
+Should be used to disable key role enemies as well as saving yourself, use on yourself and then fast Blink away.",
+				"dagon":"Shoots brust damage, upgradable.
+As a support, use your dagon to assist your team during fights. Don't wait to last hit a kill.",
+				"shivas_guard":"Creates an ice wave that slows movement speed. Passively reduces attack speed on enemies.
+Should be bought only if the enemy team has too many team fight spells and damage.
+Should be used at the beginning of the fight.",
+				"arcane_boots":"Gives you and nearby allies 135 Mana.",
+				"rod_of_atos":"Slows the enemy's movement speed by 60% for 4 seconds."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_disruption",
+			"2":"shadow_demon_shadow_poison",
+			"3":"shadow_demon_shadow_poison",
+			"4":"shadow_demon_soul_catcher",
+			"5":"shadow_demon_shadow_poison",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_shadow_poison",
+			"8":"shadow_demon_soul_catcher",
+			"9":"shadow_demon_soul_catcher",
+			"10":"shadow_demon_soul_catcher",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shadow_demon_disruption":"Disables a target for 2.5 seconds. During that duration, SOUL CATCHER and SHADOW POISON can be used to affect the target. Upon returning, creates 2 illusions of the target. Should be used to initiate, rescue team mates and yourself.",
+				"shadow_demon_soul_catcher":"Curses a target to take increased damage.
+Goes through DISRUPTION.
+Should be casted at the beginning of the fight.",
+				"shadow_demon_shadow_poison":"Generates a poison to deal stackable damage. After the fourth stack, each stack deals 50 damage. Goes through DISRUPTION.
+Should be used during all stages of the fight, constantly combined with your physical attacks.
+Can also be used for last hitting and pushing.
+Gives cast and target vision.",
+				"shadow_demon_shadow_poison_release":"Releases the SHADOW POISON that was stacked on all targets. Can be used to last hit creeps.
+In fights, should be triggered only to ensure a kill.",
+				"shadow_demon_demonic_purge":"Slows and removes positive buffs. The damage is dealt after 5 seconds. Isn't disturbed by DISRUPTION. Goes through Black King Bar.
+Most effective after casting SOUL CATCHER, but can also be used as initiative spell."
+		}
+	}
+}

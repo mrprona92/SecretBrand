@@ -1,0 +1,104 @@
+{
+	"Hero":"sven",
+	"Title":"How to SLAPFEST MCSLAP!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"armlet"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"heart",
+				"assault",
+				"mask_of_madness",
+				"blink",
+				"hand_of_midas",
+				"vanguard",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"WHEN YOU NEED TO BE TRUE MAN AND GET UP IN SOME BITCHES FACE YA NEED A DAGGAR! Makes sven a pseudo-initiator with good position for stuns.",
+				"quelling_blade":"Buy this if lane will be very passive and you will have to last hit under tower often. Either take this or the Stout Shield at start but not both.",
+				"stout_shield":"This is go to for most games. Keeps you alive in harass lane and lets you play agressive in creep wave. Take either this or Quelling Blade at start, but not both. ",
+				"branches":"GGGGGGGGGGGGGGGGGGGGG",
+				"magic_wand":"This is optional if you are against heavy caster lane or spammer noobs.",
+				"tpscroll":"ALWAYS HAVE ONE SO YOU CAN PUT TEAM ON BACK AND MAKE BIG JUKES! WODOTA!",
+				"power_treads":"When you get good you can toggle these to get more out of regen items and more stun casts.",
+				"hand_of_midas":"For the games when you have to be Atlas and put the world on your back. Its good to inform team they won't see you until the 30 minute mark.",
+				"assault":"Makes cleave stronger and makes push harder. Try to get to synergize with other physical DEEPS team mates.",
+				"heart":"If you decide to not get lifesteal but still need sustain.",
+				"black_king_bar":"Basically core you should get one 10/10 games so you can man up and spend less time dazed and confused.",
+				"vanguard":"For that game when you are forced to buy 45 tangos because you get stuck in lane in the dreaded 2 melee vs. 2 ranged lane.",
+				"greater_crit":"CRITS STRONK. COMBO WITH CLEAVE MAKE BIG HIT.",
+				"armlet":"Remember to toggle in 1v1's you baddie.",
+				"mask_of_madness":"ONLY IF YOUR TEAM CAN PROTECT YOU! GET FOR FASTER SLAPS. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"attribute_bonus",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_great_cleave",
+			"9":"sven_great_cleave",
+			"10":"sven_great_cleave",
+			"11":"sven_gods_strength",
+			"12":"sven_great_cleave",
+			"13":"sven_warcry",
+			"14":"sven_warcry",
+			"15":"sven_warcry",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"MAX FIRST CAUSE STUN.",
+				"sven_great_cleave":"CAN BE LEVELED AT 4 IF YOU ARE REALLY JEW AND PEOPLE STACK FOR YOU.",
+				"sven_warcry":"1 POINT WONDER! Makes chasing and pushing better for everyone near you.",
+				"sven_gods_strength":" 'WHAT IS SLAP?' -Alex Trebek"
+		}
+	}
+}

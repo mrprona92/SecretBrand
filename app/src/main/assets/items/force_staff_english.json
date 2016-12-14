@@ -1,0 +1,19 @@
+{
+  "dotaId": "force_staff",
+  "attrib": "+ 10 Intelligence<br/>+ 4 HP Regeneration",
+  "cd": 20.0,
+  "components": [
+    "staff_of_wizardry",
+    "ring_of_regen"
+  ],
+  "qual": "rare",
+  "notes": "Quick-cast will cause you to use Force on yourself.Force Staff doesn\u0027t interrupt the target\u0027s actions.Will not work on a unit inside Chronosphere or Black Hole.",
+  "desc": "Active: Force - Pushes any target unit 600 units in the direction it is facing.  Double click to self-cast.",
+  "dname": "Force Staff",
+  "mc": 25.0,
+  "img": "force_staff_lg.png",
+  "lore": "Allows you to manipulate others, for good or evil.",
+  "id": 102,
+  "created": true,
+  "cost": 2250
+}

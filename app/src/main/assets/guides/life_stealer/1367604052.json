@@ -1,0 +1,69 @@
+{
+	"Hero":"life_stealer",
+	"Title":"GreyShark.Lifestealer",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"armlet",
+				"basher",
+				"hyperstone"
+			],
+			"Late Game":
+			[
+				"assault",
+				"heavens_halberd",
+				"abyssal_blade",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_feast",
+			"2":"life_stealer_open_wounds",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_rage",
+			"5":"life_stealer_feast",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_feast",
+			"8":"life_stealer_open_wounds",
+			"9":"life_stealer_open_wounds",
+			"10":"life_stealer_open_wounds",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_rage",
+			"13":"life_stealer_rage",
+			"14":"life_stealer_rage",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

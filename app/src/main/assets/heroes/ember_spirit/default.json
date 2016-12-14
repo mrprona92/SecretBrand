@@ -1,0 +1,41 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_ember_spirit",
+	"Title":"Recommended items for Ember Spirit",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"branches",
+			"stout_shield"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"bracer",
+			"bottle"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"ancient_janggo",
+			"bfury",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"greater_crit",
+			"bfury",
+			"black_king_bar",
+			"skadi",
+			"desolator",
+			"assault",
+			"mjollnir",
+			"satanic",
+			"bfury"
+		]
+	}
+}

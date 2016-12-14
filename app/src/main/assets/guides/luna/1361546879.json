@@ -1,0 +1,78 @@
+{
+	"Hero":"luna",
+	"Title":"Perfect Luna Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"tranquil_boots",
+				"magic_wand",
+				"ring_of_aquila"
+			],
+			"Core Items":
+			[
+				"black_king_bar",
+				"helm_of_the_dominator",
+				"manta",
+				"power_treads"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"satanic"
+			],
+			"Optional":
+			[
+				"monkey_king_bar",
+				"greater_crit",
+				"ancient_janggo"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"luna_lunar_blessing",
+			"2":"luna_lucent_beam",
+			"3":"luna_lucent_beam",
+			"4":"luna_lunar_blessing",
+			"5":"luna_lucent_beam",
+			"6":"luna_eclipse",
+			"7":"luna_lucent_beam",
+			"8":"luna_lunar_blessing",
+			"9":"luna_lunar_blessing",
+			"10":"luna_moon_glaive",
+			"11":"luna_eclipse",
+			"12":"luna_moon_glaive",
+			"13":"luna_moon_glaive",
+			"14":"luna_moon_glaive",
+			"15":"attribute_bonus",
+			"16":"luna_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"[DMX] Crystal Maiden (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"clarity",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"mekansm",
+				"force_staff",
+				"ward_observer",
+				"flying_courier",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"black_king_bar",
+				"blink",
+				"power_treads",
+				"arcane_boots",
+				"phase_boots",
+				"ghost",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier à déjà été pris, prenez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_crystal_nova",
+			"2":"crystal_maiden_frostbite",
+			"3":"crystal_maiden_frostbite",
+			"4":"crystal_maiden_crystal_nova",
+			"5":"crystal_maiden_crystal_nova",
+			"6":"crystal_maiden_frostbite",
+			"7":"crystal_maiden_crystal_nova",
+			"8":"crystal_maiden_frostbite",
+			"9":"crystal_maiden_freezing_field",
+			"10":"crystal_maiden_brilliance_aura",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_brilliance_aura",
+			"13":"crystal_maiden_brilliance_aura",
+			"14":"crystal_maiden_brilliance_aura",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Un très bon slow de zone, parfait pour harass vos opposant.",
+				"crystal_maiden_frostbite":"Un bon snare, attention cependant les ennemis pris dans le sort peuvent toujours utiliser leurs sorts.",
+				"crystal_maiden_brilliance_aura":"Une aura plutot efficace durant toute la game qui permet à tous vos alliés de régénérer plus vite leur mana
+",
+				"crystal_maiden_freezing_field":"Un ultime de zone dévastateur mais très difficile à placer car vous êtes très fragile.
+C'est une canalisation."
+		}
+	}
+}

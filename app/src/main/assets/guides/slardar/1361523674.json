@@ -1,0 +1,99 @@
+{
+	"Hero":"slardar",
+	"Title":"Fishy Fishy Fishy",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"helm_of_iron_will"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"black_king_bar",
+				"desolator",
+				"heavens_halberd",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"blink",
+				"assault",
+				"vladmir",
+				"blade_mail"
+			],
+			"Luxury":
+			[
+				"heart",
+				"shivas_guard",
+				"monkey_king_bar",
+				"greater_crit",
+				"mjollnir",
+				"abyssal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Get this if you are one of the only initiators, it provides you the ability to blink in and stun multiple enemies and allow your team to follow up.",
+				"boots":"BUY IN SIDESHOP",
+				"magic_stick":"BUY IN SIDESHOP",
+				"phase_boots":"BUY IN SIDESHOP - I Choose this over Power Treads",
+				"ring_of_health":"BUY IN SIDESHOP",
+				"vladmir":"If you are multiple melees without an Lifesteal, provide this item for your team.",
+				"armlet":"I am well aware that the suggested item is Vanguard, however you should focus on getting Armlet as it provides in-combat Health, Damage & Attack Speed which Vanguard doesn't. It is merely a survivability item which Armlet can also be used as.",
+				"heavens_halberd":"Lesser Main is NOT an Orb Effect. It stacks with Desolator!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_sprint",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_bash",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_sprint",
+			"10":"slardar_sprint",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_bash",
+			"13":"slardar_bash",
+			"14":"slardar_bash",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Since v6.78 - Sprint cooldown is reduced to 28 seconds. Great buff!",
+				"slardar_bash":"In v6.78 - Bash is no longer Magic Damage, but Physical Damage, which means both the Stun + Damage goes through Black King Bar!"
+		}
+	}
+}

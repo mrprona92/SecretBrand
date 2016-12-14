@@ -1,0 +1,105 @@
+{
+	"Hero":"morphling",
+	"Title":"MORPH By Felix Miller(rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"magic_stick",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"ring_of_aquila",
+				"power_treads"
+			],
+			"coreItems":
+			[
+				"skadi",
+				"ring_of_aquila",
+				"power_treads",
+				"magic_wand"
+			],
+			"Выбор на позднюю игру":
+			[
+				"greater_crit",
+				"sange_and_yasha",
+				"yasha",
+				"lesser_crit"
+			],
+			"Hе советую покупать":
+			[
+				"desolator",
+				"rapier",
+				"bottle"
+			],
+			"Альтернативное начало":
+			[
+				"wraith_band",
+				"tango"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Советую купить для аквилы",
+				"magic_stick":"Потом собираем Magic Wand",
+				"magic_wand":"Помогает выжить во многих замесах (так же используя перекачку на хп)",
+				"power_treads":"Самый подходящий сапог для морфа",
+				"wraith_band":"Обеспечит хорошее добивание крипов",
+				"greater_crit":"Даедалус будет кстати!",
+				"lesser_crit":"Можно собрать, а после продолжать с Даедалусом",
+				"sange_and_yasha":"Можно купить Сашу и Яшу или же просто ЯШУ",
+				"skadi":"Морф станет крепче и начнет кидать снежки.",
+				"yasha":"Можно купить просто Яшу вместо их обоих",
+				"ring_of_aquila":"Та самая аквила"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"morphling_waveform",
+			"2":"morphling_morph_str",
+			"3":"morphling_waveform",
+			"4":"morphling_morph_str",
+			"5":"morphling_waveform",
+			"6":"morphling_morph_str",
+			"7":"morphling_waveform",
+			"8":"morphling_morph_str",
+			"9":"morphling_adaptive_strike",
+			"10":"morphling_replicate",
+			"11":"morphling_adaptive_strike",
+			"12":"morphling_replicate",
+			"13":"morphling_adaptive_strike",
+			"14":"attribute_bonus",
+			"15":"morphling_adaptive_strike",
+			"16":"morphling_replicate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"morphling_waveform":"Будем качать 1 и 3 скиллы (на начало игры они важны)",
+				"morphling_adaptive_strike":"Kачаем сразу после полной прокачки первого и третьего скилла",
+				"morphling_replicate":"Не самое важно, однако иногда помогает"
+		}
+	}
+}

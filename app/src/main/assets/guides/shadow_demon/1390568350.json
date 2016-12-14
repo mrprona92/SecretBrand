@@ -1,0 +1,89 @@
+{
+	"Hero":"shadow_demon",
+	"Title":"[RUS] SHADOW DEMON",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"mantle",
+				"mantle",
+				"clarity",
+				"tango"
+			],
+			"Обязом покупаем":
+			[
+				"bottle",
+				"null_talisman",
+				"boots"
+			],
+			"Наиболее важные итемы":
+			[
+				"dagon",
+				"arcane_boots",
+				"cyclone"
+			],
+			"Для разных ситуаций":
+			[
+				"invis_sword",
+				"orchid",
+				"heavens_halberd",
+				"veil_of_discord",
+				"force_staff",
+				"shivas_guard",
+				"sheepstick",
+				"necronomicon",
+				"desolator",
+				"blink",
+				"rod_of_atos",
+				"phase_boots"
+			],
+			"Забиндил, шоб не лазить в лавку":
+			[
+				"ward_sentry",
+				"ward_observer"
+			],
+			"updated 09/02/14":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shadow_demon_shadow_poison",
+			"2":"shadow_demon_disruption",
+			"3":"shadow_demon_soul_catcher",
+			"4":"shadow_demon_shadow_poison",
+			"5":"shadow_demon_soul_catcher",
+			"6":"shadow_demon_demonic_purge",
+			"7":"shadow_demon_shadow_poison",
+			"8":"shadow_demon_soul_catcher",
+			"9":"shadow_demon_shadow_poison",
+			"10":"shadow_demon_soul_catcher",
+			"11":"shadow_demon_demonic_purge",
+			"12":"shadow_demon_disruption",
+			"13":"shadow_demon_disruption",
+			"14":"shadow_demon_disruption",
+			"15":"attribute_bonus",
+			"16":"shadow_demon_demonic_purge",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

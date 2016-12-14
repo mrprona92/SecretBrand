@@ -1,0 +1,99 @@
+{
+	"Hero":"meepo",
+	"Title":"Meepo carry [guide]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"ring_of_protection",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"ring_of_basilius",
+				"tpscroll",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"vladmir",
+				"tpscroll",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"blink",
+				"invis_sword",
+				"heart",
+				"pipe",
+				"ancient_janggo",
+				"medallion_of_courage",
+				"sheepstick",
+				"assault",
+				"mekansm"
+			],
+			"Boots":
+			[
+				"phase_boots",
+				"power_treads",
+				"travel_boots",
+				"tranquil_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sobi_mask":"Поможет нам с недостатком маны в начале. Далее понадобится для Vladmir’a",
+				"power_treads":"Выставляем на силу, поможет с недостатком хп.",
+				"pipe":"Стоит собрать, если против вас играет много магов. ",
+				"heart":"Стоит собирать только после \"Аганима\"",
+				"invis_sword":"Альтернатива Blink dagger'y",
+				"tranquil_boots":"В начале поможет нам выживать."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_earthbind",
+			"2":"meepo_poof",
+			"3":"meepo_divided_we_stand",
+			"4":"meepo_poof",
+			"5":"meepo_poof",
+			"6":"meepo_earthbind",
+			"7":"meepo_poof",
+			"8":"meepo_geostrike",
+			"9":"meepo_earthbind",
+			"10":"meepo_divided_we_stand",
+			"11":"meepo_earthbind",
+			"12":"meepo_geostrike",
+			"13":"meepo_geostrike",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"attribute_bonus",
+			"17":"meepo_divided_we_stand",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_poof":"На ранней стадии игры поможет с фармом."
+		}
+	}
+}

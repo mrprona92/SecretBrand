@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Spirit Lance",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Метает в противника магическое копье, которое наносит цели урон и замедляет ее, а также создает атакующую ее союзную иллюзию.",
+        "notes": "Ближайшие иллюзии повторят анимацию броска.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/150/200/250</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">3.25</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>ВРЕМЯ ЖИЗНИ ИЛЛЮЗИИ: <b><font color=\"#ffffff\">2/4/6/8</font></b><br/>УРОН ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">20%/20%/20%/20%</font></b><br/>УРОН ПО ИЛЛЮЗИЯМ: <b><font color=\"#ffffff\">400%/400%/400%/400%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/130/135/140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 7",
+        "lore": "Навыки Азрафа в ловле рыбы гарпуном оказались очень полезными на поле боя.",
+        "hurl": "Phantom_Lancer",
+        "name": "phantom_lancer_spirit_lance",
+        "youtube":"RVaioCWQeK0",
+        "id": 0
+    },
+    {
+        "dname": "Doppelganger",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Phantom Lancer ненадолго исчезает с поля боя. Через 1 секунду он, все его иллюзии неподалеку, а также две новые иллюзии появляются в случайных точках в указанной области. Эти две новые иллюзии различаются: одна получает обычный урон, но не наносит его, а другая — получает 600% и наносит 20% урона.",
+        "notes": "This ability can be used to dodge projectiles, and dispell debuffs.<br/>Деревья вокруг появившегося юнита будут уничтожены.<br/>Phantom Lancer и его союзники видят, какая иллюзия получает 100% урона.",
+        "dmg": "",
+        "attrib": "ВЕЛИЧИНА ОБЛАСТИ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">325</font></b><br/>ДАЛЬНОСТЬ СБОРА ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">900</font></b><br/>ЗАДЕРЖКА ПОЯВЛЕНИЯ: <b><font color=\"#ffffff\">1</font></b><br/>ВРЕМЯ ЖИЗНИ ДВОЙНИКОВ: <b><font color=\"#ffffff\">8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 25/20/15/10",
+        "lore": "Смерть мага страха Ворна дала Phantom Lancer возможность искривлять и дробить все спектры света.",
+        "hurl": "Phantom_Lancer",
+        "name": "phantom_lancer_doppelwalk",
+        "youtube":"ut6pFFo7lcw",
+        "id": 1
+    },
+    {
+        "dname": "Phantom Rush",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Выбрав цель атаки, Phantom Lancer быстро сближается с ней. Иллюзии героя также обладают этой способностью.",
+        "notes": "Если отменить атаку, дополнительная скорость передвижения будет потеряна.<br/>Скорость передвижения при рывке — 800.",
+        "dmg": "",
+        "attrib": "МИН. РАССТОЯНИЕ ДЛЯ РЫВКА: <b><font color=\"#ffffff\">300</font></b><br/>МАКС. РАССТОЯНИЕ ДЛЯ РЫВКА: <b><font color=\"#ffffff\">600/700/800/900</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/12/8/4",
+        "lore": "Азраф знает, что на поле боя скорость может значить всё.",
+        "hurl": "Phantom_Lancer",
+        "name": "phantom_lancer_phantom_edge",
+        "youtube":"o6wAimQW5fA",
+        "id": 2
+    },
+    {
+        "dname": "Juxtapose",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Phantom Lancer может раздробиться надвое, создав свою иллюзию. Иллюзии также имеют возможность раздробиться. Иллюзии, созданные самим героем, живут 8 секунд, а иллюзии, созданные другими иллюзиями — 4 секунды.",
+        "notes": "Иллюзии, созданные Juxtapose, будут атаковать цель, на которую сработала способность.",
+        "dmg": "",
+        "attrib": "МАКС. ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">5/7/9</font></b><br/>ШАНС СРАБАТЫВАНИЯ У ГЕРОЯ: <b><font color=\"#ffffff\">40%/45%/50%</font></b><br/>ШАНС СРАБАТЫВАНИЯ У ИЛЛЮЗИИ: <b><font color=\"#ffffff\">8%</font></b><br/>УРОН ИЛЛЮЗИЙ: <b><font color=\"#ffffff\">16%</font></b><br/>УРОН ПО ИЛЛЮЗИЯМ: <b><font color=\"#ffffff\">500%</font></b>",
+        "cmb": "",
+        "lore": "Каждая атака копья Азрафа как будто проводится двумя воинами… или тремя… или четырьмя…",
+        "hurl": "Phantom_Lancer",
+        "name": "phantom_lancer_juxtapose",
+        "youtube":"MqftdGmq-LY",
+        "id": 3
+    }
+]

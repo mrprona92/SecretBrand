@@ -1,0 +1,139 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"The doctor is IN.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"ring_of_protection",
+				"branches",
+				"branches"
+			],
+			"LANE":
+			[
+				"flying_courier",
+				"ring_of_basilius",
+				"boots",
+				"arcane_boots",
+				"ward_observer"
+			],
+			"CORE":
+			[
+				"mekansm",
+				"ultimate_scepter"
+			],
+			"situational/luxury/late":
+			[
+				"phase_boots",
+				"bracer",
+				"force_staff",
+				"black_king_bar",
+				"cyclone",
+				"invis_sword",
+				"sheepstick"
+			],
+			"alt rush-Aghs build":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"magic_wand",
+				"branches",
+				"branches",
+				"branches",
+				"boots",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"This quickly builds into your Ring of Basilius.",
+				"branches":"If you plan on building Mek, you can start with some branches, otherwise it is not usually necessary but if you expect to have to trade hits in lane then the extra stats could provide you the edge you need.",
+				"magic_wand":"buy the recipe and 3 branches at the start, pick up the wand from the side shop.",
+				"clarity":"Optional clarity if you have the gold. You only need this if you are going to be using Cask early a lot to control the lane, but ideally you will not be using your abilities that much.",
+				"ward_observer":"Knowing when and where to ward comes with experience, but generally after completing items, extra gold should be spent on wards to retain map vision as the game progresses.",
+				"tango":"ALWAYS take some form of regen to lane. If you bought the courier or wards you won't be able to afford both tango and salve, so take the tango for extra utility, lane sustain during harassing and to share with your allies.",
+				"courier":"Always buy the courier OR wards at the beginning of a match.",
+				"phase_boots":"SITUATIONAL: Arguably better boots for a roaming, positional support, but you will most likely be building Arcanes for your team.
+
+Phase gives you the needed speed to roam to aid allies with your Mek and to regroup after stunning and maledicting.",
+				"bracer":"SITUATIONAL: If you are flush with gold after Mek, or you feel like you need extra sustainability to stay around in teamfights, then bracer is what you should build before starting Aghanims. You can later turn it into a drum which is a great support item in any match.",
+				"mekansm":"Witch Doctors heal is extremely mana intensive and unsustainable early on. When I play WD I instead opt to max his much stronger team fight and counter-initiation abilities first, and build a Mekansm, which in pub games you will probably build anyway. Again, the armour further beefs up WD.",
+				"flying_courier":"Upgrade the courier if you bought wards at the beginning, or you scored some early assists/kills, or you`re simply feeling friendly (or nobody else is doing it).",
+				"ring_of_basilius":"Basilius for the flat mana regen bonus. Check your carries starting items and avoid stacking this aura item. Toggle the aura off/on to control lane push. Increase to damage means you can pretty much always harass favourably. The armour will provide more later in the game.",
+				"urn_of_shadows":"can be an alternative to Mekansm if you`re going for an early Aghanims pickup. ",
+				"sheepstick":"LATE: Farming up this item is no enviable task for a support, but if the game is going late and you already have a certain amount of gold after Mek and/or Aghanims, then you should probably attempt to build this item. It will more than likely give you the conclusive edge in any later teamfights.",
+				"cyclone":"SITUATIONAL: Eul`s is an excellent cheaper disable which can turn around fights where your team does not have the clear edge. It is no hex (Vyse) but it also costs nearly 3000 less gold.
+
+Also provides useful move speed bonus.",
+				"force_staff":"LUXURY: Force staff saves lives, and helps secure kills. You will use it on teammates who are trying to escape from battle, and for those who are pursuing enemies low on health, to help them secure the kill.
+
+Also makes possible escapes over cliffs when being chased.",
+				"ultimate_scepter":"The upgrade that Aghanim`s provides to WD`s ult is absolutely devasting. In all likelihood your game may finish before you can build this item, however, you should start building it for a potential late game/to win every sucessive team fight.
+
+Do not kill steal with his ult!",
+				"black_king_bar":"LATE: a great item to get WD`s ult working without immediately being disabled. The extra strength is also of great benefit.",
+				"invis_sword":"LUXURY: Using shadow blade after popping his ult will render you invisible but it will not break the channel. This means that you MAY stand a better chance of not being disabled unless the other team is heavily AOE orientated.
+
+Also gives you escape ability and extra roaming speed.",
+				"arcane_boots":"**Disassemble later and sell booster to build your Aghanims!**
+
+You will probably be building arcane boots as a support unless others naturally are.
+
+If you do not feel that mana will be a big issue for the team and/or there is someone else providing mana, then go with Phase Boots."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_maledict",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_maledict",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_maledict",
+			"8":"witch_doctor_paralyzing_cask",
+			"9":"witch_doctor_voodoo_restoration",
+			"10":"witch_doctor_maledict",
+			"11":"witch_doctor_death_ward",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"witch_doctor_voodoo_restoration",
+			"24":"witch_doctor_voodoo_restoration",
+			"25":"witch_doctor_voodoo_restoration"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"Your bread and butter ability with multiple situational uses. Can be used throughout the entire match.
+
+1. Allows allies to escape dangerous situations.
+2. Initiation or anti-initiation for/during team fights.
+3. Sets up use of Maledict and Ult.",
+				"witch_doctor_voodoo_restoration":"The high mana cost of sustaining this spell really prevents you using it much early on. The advantage to leveling Cask and Maledict over this is they give you a much larger, damaging and controlling influence. They are proactive abilities. A single point taken later can still save fleeing allies.",
+				"witch_doctor_maledict":"For use during teamfights and ganks. After stunning your targets with Cask, ideally a group of bunched heroes, immediately land this ability squarely on their heads. The more damage they then take the greater its power. This ability can be the difference between securing kills and them escaping.",
+				"witch_doctor_death_ward":"Timing and positioning are key. Ideally the enemy team are stunned from Cask, Maledicted and being engaged by your allies. Stand off and drop your ult to ensure that the fight swings in your favour (not to steal kills). You can also use Ward defensively to cover retreats or slow base sieges."
+		}
+	}
+}

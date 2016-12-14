@@ -1,0 +1,108 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"6.82 - Standard Storm Spirit (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"orchid",
+				"black_king_bar"
+			],
+			"Core Items - Bloodstone":
+			[
+				"soul_ring",
+				"arcane_boots",
+				"bloodstone"
+			],
+			"Situational Items:":
+			[
+				"monkey_king_bar",
+				"sphere"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"skadi"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Even the smallest amount of Mana can help you escape or keep a foe in place, Wand helps with giving you that boost.",
+				"orchid":"Lately, Orchid seems to be the safer and more rational choice over Bloodstone because of the added attack speed, the amplified damage and how much easier it is to build. Both Orchid and Bloodstone are good for Storm Spriit, so don't shy away from either.",
+				"black_king_bar":"Though Linken's Sphere is ideal for the stats and Spell Block, Black King Bar is a cheaper alternative.",
+				"bloodstone":"More mana, more maneuverability, more options to do! This is a great way to take your lead and go further, but it all depends on how confident you are with the game.",
+				"sphere":"All-around good item for Storm Spirit who needs the Spell Block for abilities he cannot dodge and the mana regeneration.",
+				"monkey_king_bar":"When needing to be more physical due to BKB users or strong carries, consider Monkey King Bar.",
+				"skadi":"Great extra damage and further ability to tear down foes and controlling physical carries. Eye of Skadi gives a lot of stats and keeps you kiting and tearing down a team's damage output!",
+				"soul_ring":"Soul Ring is a good item when in a pinch and want to either flee or snag an enemy hero for a specifically longer period of time. Be wary of using it as you won't always need it, but the jolt of mana may just be enough.",
+				"arcane_boots":"If building into Bloodstone quickly, be sure to get Arcane boots as your initial boots, then disassemble them to finish Blood stone. Get Treads immediately after."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_overload",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_overload",
+			"10":"storm_spirit_electric_vortex",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_static_remnant",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_static_remnant",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"This is your &amp;quot;bomb&amp;quot; that you place after Electric Vortex. It can also help with farms and pushing back lanes. It has a moderate cost and a long duration, so use it zone lanes during the early-game as well.",
+				"storm_spirit_electric_vortex":"When casting Electric Vortex, you are also free to cast other or move other abilities such as Static Remnant (which is a common combination).",
+				"storm_spirit_overload":"Use your ultimate: Ball Lightning to trigger this passive. It is a great slow and can help keep enemies nearby until your Electric Vortex comes back up.",
+				"storm_spirit_ball_lightning":"Use Ball Lightning to move around the map. To initiate or to get away. Be sure to leave enough mana for you to do your other abilities. This can go over cliffs or through trees."
+		}
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"Hero":"keeper_of_the_light",
+	"Title":"Keeper of the Light - Pusher Build Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"circlet",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"boots",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"force_staff",
+				"invis_sword",
+				"ward_observer",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"ghost",
+				"shivas_guard"
+			],
+			"Advanced Items":
+			[
+				"necronomicon",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Makes you invulnerable to physical attacks for 4 seconds but increases taken magical damage. Careful, don't activate if there is a potential for recieving spell damage.",
+				"ward_observer":"While pushing, place the Observer Ward in key places so you would know if you are being ganked. If the enemy team has junglers, place it in their jungle so your team could gank, also can be placed in your jungle to protect junglers in your team.",
+				"tpscroll":"Use to teleport yourself to an allied building, channeled.",
+				"travel_boots":"Grants alot of movement speed as well as the ability to teleport to an allied building or creep every 60 seconds.",
+				"force_staff":"Pushes a target to the direction it is looking at. Optional item, should be bought only if the enemy team has annoying disablers and slowers. In that case it can save you and your team mates.",
+				"necronomicon":"Summons a warrior and an archer, upgradable. Use them in fights and for pushing. At level 3, your Necronomicon warrior is able to see invisible heros.",
+				"shivas_guard":"Creates an ice wave that slows movement speed. Passively reduces attack speed on enemies. Should be bought only if the enemy team has too many team fight spells and damage. Should be used at the beginning of the fight.",
+				"invis_sword":"Makes you invisible for 12 seconds, grants bonus movement speed. If you attack while invisible, it adds 150 bonus physical damage to that attack.
+Should be used to escape after pushing or while channeling ILLUMINATE.",
+				"tranquil_boots":"Use to heal 170 HP."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"keeper_of_the_light_illuminate",
+			"2":"keeper_of_the_light_chakra_magic",
+			"3":"keeper_of_the_light_chakra_magic",
+			"4":"keeper_of_the_light_illuminate",
+			"5":"keeper_of_the_light_illuminate",
+			"6":"keeper_of_the_light_mana_leak",
+			"7":"keeper_of_the_light_illuminate",
+			"8":"keeper_of_the_light_spirit_form",
+			"9":"keeper_of_the_light_chakra_magic",
+			"10":"keeper_of_the_light_chakra_magic",
+			"11":"keeper_of_the_light_mana_leak",
+			"12":"keeper_of_the_light_mana_leak",
+			"13":"keeper_of_the_light_mana_leak",
+			"14":"keeper_of_the_light_spirit_form",
+			"15":"attribute_bonus",
+			"16":"keeper_of_the_light_spirit_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"keeper_of_the_light_illuminate":"Shoots brust damage, channeled.
+Try to hide while you channeling ILLUMINATE, this way your enemy won't see it coming.",
+				"keeper_of_the_light_mana_leak":"Drains enemy's Mana only he moves. Stuns if his Mana is emptied while MANA LEAK is active.
+Should be casted at the beginning of the fight and while the enemy is escaping.",
+				"keeper_of_the_light_chakra_magic":"Use to give Mana points for yourself and allied heros.
+Remember, your team mates also need mana.",
+				"keeper_of_the_light_recall":"Teleports an allied hero to your location as long as it is not being attacked.",
+				"keeper_of_the_light_blinding_light":"Knocks and makes enemies miss attacks.
+",
+				"keeper_of_the_light_spirit_form":"Gives 2 new spells and makes ILLUMINATE as an automatic spell.",
+				"keeper_of_the_light_illuminate_end":"Use to release ILLUMINATE channeling. Full channeling is not always necessary.",
+				"keeper_of_the_light_spirit_form_illuminate":"Automatic ILLUMINATE channeling. Can be used only after activating SPIRIT FORM."
+		}
+	}
+}

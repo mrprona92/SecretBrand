@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Penitence",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Заставляет вражеского юнита передвигаться медленнее и получать больше урона от атак и заклинаний.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">14%/18%/22%/26%</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">14%/18%/22%/26%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14/13/12/11",
+        "lore": "Несмотря на то, что знаменитый навык Chen порабощения животных не способен подчинять умы вражеских героев, это все равно большая нагрузка для их рассудка в разгаре битвы.",
+        "hurl": "Chen",
+        "name": "chen_penitence",
+        "youtube":"Q0lQaxZ2bG8",
+        "id": 0
+    },
+    {
+        "dname": "Test of Faith",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#d61107\">чистый</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Проверяя веру врага, наносит ему случайный урон.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "МИН. УРОН: <b><font color=\"#ffffff\">50/100/150/200</font></b><br/>МАКС. УРОН: <b><font color=\"#ffffff\">100/200/300/400</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 175/175/175/175<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 24",
+        "lore": "Рыцари церкви обладают фанатичной формой магии, которая считается достаточно неуклюжей большинством остальных пользователей мистических искусств.",
+        "hurl": "Chen",
+        "name": "chen_test_of_faith",
+        "youtube":"NfeyK2IK4mg",
+        "id": 1
+    },
+    {
+        "dname": "Test of Faith",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Перемещает союзника обратно на базу. Крипы перемещаются мгновенно, герои имеют задержку перед телепортом. Если заклинание направлено на Chen, то все юниты под контролем способности Holy Persuasion будут телепортированы к нему после задержки.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ЗАДЕРЖКА ДЛЯ ГЕРОЕВ/СЕБЯ: <b><font color=\"#ffffff\">6/5/4/3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/200/200/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 24",
+        "lore": "",
+        "hurl": "Chen",
+        "name": "chen_test_of_faith_teleport",
+        "youtube":"TY-WEAij0KM",
+        "id": 2
+    },
+    {
+        "dname": "Holy Persuasion",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b>",
+        "desc": "Подчиняет вражеского или нейтрального крипа, если его здоровье ниже минимальной планки, то поднимает его до этой планки.<br/>Улучшается с Aghanim's Scepter, позволяя герою подчинять древних крипов. Количество древних крипов, которых можно подчинить, зависит от уровня способности Hand of God.",
+        "notes": "С Aghanim's Scepter эту способность можно использовать на древних крипах.<br/>При превышении максимального количества подчиненных крипов самый ранний из них умрет.",
+        "dmg": "",
+        "attrib": "МАКС. ЮНИТОВ: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>МИНИМАЛЬНАЯ ПЛАНКА ЗДОРОВЬЯ: <b><font color=\"#ffffff\">700/800/900/1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/26/22/18",
+        "lore": "Несмотря на то, что они, может быть, и не рыцари, Chen обращает монстров в единоверцев так же, как когда-то он был обращен сам.",
+        "hurl": "Chen",
+        "name": "chen_holy_persuasion",
+        "youtube":"Jhk_gA5AeZo",
+        "id": 3
+    },
+    {
+        "dname": "Hand of God",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Полностью регенерирует крипов под контролем Chen и лечит всех дружественных героев на карте.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Лечит юнитов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ЛЕЧЕНИЕ: <b><font color=\"#ffffff\">200/300/400</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">30</font></b><br/><font color=\"#6fe871\">МАКСИМУМ ДРЕВНИХ КРИПОВ СО СКРИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">1/2/3</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/300/400<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 160/140/120",
+        "lore": "Используя ментальную связь со своими рабами, Chen поддерживает здоровье и хорошее самочувствие всех, кто разделяет его фанатизм.",
+        "hurl": "Chen",
+        "name": "chen_hand_of_god",
+        "youtube":"BxXGyInKTpQ",
+        "id": 4
+    }
+]

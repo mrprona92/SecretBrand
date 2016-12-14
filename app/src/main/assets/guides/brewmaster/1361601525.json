@@ -1,0 +1,101 @@
+{
+	"Hero":"brewmaster",
+	"Title":"Team Fight Brewmaster",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"gauntlets",
+				"circlet"
+			],
+			"earlyGame":
+			[
+				"ancient_janggo",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"ultimate_scepter",
+				"blink"
+			],
+			"Late Game":
+			[
+				"heart",
+				"assault"
+			],
+			"Alternative":
+			[
+				"magic_wand",
+				"vanguard",
+				"vladmir",
+				"sange_and_yasha",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Allows you to initiate very well.",
+				"gauntlets":"Gives early HP and damage.",
+				"circlet":"Good early stats.",
+				"magic_wand":"Get this if the enemy team casts a lot of spells.",
+				"flask":"Restores HP when you are low.",
+				"tango":"Use this to regen up when you are harassed.",
+				"phase_boots":"Gives good damage and lets you chase better.",
+				"vladmir":"Buy this if the team needs the aura.",
+				"pipe":"A good item to buy if no one else on the team does.",
+				"ultimate_scepter":"Makes you Primal Split much better, also gives you good stats.",
+				"assault":"A good aura and gives good armor.",
+				"heart":"Gives tons of HP and damage.",
+				"vanguard":"Get this if you want more HP and regen and you need damage block.",
+				"sange_and_yasha":"Get this if you want more DPS.",
+				"ancient_janggo":"Gives good stats and has a nice aura."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_brawler",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_haze",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"Good damage and slow. Try to hit a lot of enemies with this.",
+				"brewmaster_drunken_haze":"Makes enemies walk very slow and miss attacks.",
+				"brewmaster_drunken_brawler":"Allows you to tank more and deal more damage.",
+				"brewmaster_primal_split":"Very good ability, use it early to get kills an later in team fights to initiate and wreak havoc. Remember to use each spirits abilities.",
+				"attribute_bonus":"Take these once you have to."
+		}
+	}
+}

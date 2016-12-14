@@ -1,0 +1,98 @@
+{
+	"Hero":"sven",
+	"Title":"[DMX] Sven (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"clarity",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"black_king_bar",
+				"mask_of_madness",
+				"armlet",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"assault",
+				"heart",
+				"greater_crit",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"ancient_janggo",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Très pratique pour engager un adversaire qui se trouve loin de vous. Si vous avez du mal à attraper vos adversaires, faire une dagger peut s'avérer très utile.",
+				"mask_of_madness":"MoM augmentera drastiquement votre vitesse d'attaque et fera de vous un monstre lorsque votre ultimate sera activé. Attention cependant, vous serez un peu plus fragile lorsque vous l'utiliserez.",
+				"ancient_janggo":"Un bon mix de toutes les stats nécessaires sur sven, à faire si vous êtes mal dans votre partie."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"attribute_bonus",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"sven_warcry",
+			"9":"sven_warcry",
+			"10":"sven_warcry",
+			"11":"sven_gods_strength",
+			"12":"sven_great_cleave",
+			"13":"sven_great_cleave",
+			"14":"sven_great_cleave",
+			"15":"sven_great_cleave",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"Votre seul contrôle et votre seul nuke. Attention à ne pas le spammez car vous ne disposez que de très peu de mana. Lors des teamfights essayez de le placer au centre de la mélee pour toucher plusieurs adversaires.",
+				"sven_great_cleave":"Cette cleave vous permettra de push et dépush très facilement les lanes. Lors des teamfights vous pourrez infliger d'énormes dégâts de zone grâce à ce passif.",
+				"sven_warcry":"Warcry augmentera la vitesse de déplacement et l'armure de tous vos alliés proches de vous, n'hésitez pas à l'utilisez pour fuir ou rattraper une cible, ainsi que lors des teamfights pour tanker plus facilement.",
+				"sven_gods_strength":"L'ultimate de sven est une rune de double damage ambulante ! Il vous permettra d'infliger d'énormes dégâts avec vos auto -attaques. Attention cependant, l'ultimate n'augmente que vos dégâts de base et non pas les dégâts apportés par vos items.",
+				"attribute_bonus":"Sven manque cruellement de mana, montez vos stats vous permettra de palier un peu à ce problème."
+		}
+	}
+}

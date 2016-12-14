@@ -1,0 +1,88 @@
+{
+	"Hero":"venomancer",
+	"Title":"Carry or Support Venom",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"flask"
+			],
+			"Carry Items":
+			[
+				"ring_of_aquila",
+				"wraith_band",
+				"invis_sword",
+				"ultimate_scepter",
+				"power_treads",
+				"yasha",
+				"butterfly",
+				"orchid",
+				"mjollnir"
+			],
+			"Support Items":
+			[
+				"courier",
+				"ward_observer",
+				"tango"
+			],
+			"Supp late":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"urn_of_shadows",
+				"mekansm",
+				"sheepstick"
+			],
+			"If u support":
+			[
+				"ward_observer",
+				"ward_observer",
+				"ward_observer",
+				"ward_observer",
+				"ward_observer",
+				"ward_observer"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_venomous_gale",
+			"4":"venomancer_poison_sting",
+			"5":"venomancer_venomous_gale",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_poison_sting",
+			"8":"venomancer_poison_sting",
+			"9":"venomancer_venomous_gale",
+			"10":"attribute_bonus",
+			"11":"venomancer_poison_nova",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"venomancer_plague_ward",
+			"23":"venomancer_plague_ward",
+			"24":"venomancer_plague_ward",
+			"25":"venomancer_plague_ward"
+		}
+	}
+}

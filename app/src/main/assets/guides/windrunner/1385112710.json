@@ -1,0 +1,94 @@
+{
+	"Hero":"windrunner",
+	"Title":"The Simple WindRunner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"branches",
+				"branches",
+				"ring_of_protection",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"ring_of_basilius",
+				"flying_courier",
+				"void_stone"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"cyclone",
+				"mekansm"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"ultimate_scepter",
+				"monkey_king_bar",
+				"orchid",
+				"force_staff"
+			],
+			"The Wards ":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Shoes Always before any other Core Items",
+				"void_stone":"Need this for Mana!",
+				"mekansm":"This Only if your main Support your party really needs the heals",
+				"orchid":"Ive been using this one lately. It great all around. ",
+				"cyclone":"This Item After Purple Shoes no Matter what. Will get you out of Jams and Help in Group Battles. ",
+				"force_staff":"This Item before Mekansm if not Main Support!",
+				"greater_crit":"This if your team is Pwning!",
+				"skadi":"This one just for Fun. but Sometimes Helpfull!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_shackleshot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_focusfire",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_shackleshot",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

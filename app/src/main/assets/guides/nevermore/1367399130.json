@@ -1,0 +1,70 @@
+{
+	"Hero":"nevermore",
+	"Title":"GreyShark.Shadow Fiend",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ring_of_aquila",
+				"power_treads",
+				"invis_sword"
+			],
+			"Mid Game":
+			[
+				"black_king_bar",
+				"desolator"
+			],
+			"Late Game":
+			[
+				"greater_crit",
+				"butterfly"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_shadowraze1",
+			"4":"nevermore_necromastery",
+			"5":"nevermore_necromastery",
+			"6":"nevermore_shadowraze1",
+			"7":"nevermore_necromastery",
+			"8":"nevermore_shadowraze1",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

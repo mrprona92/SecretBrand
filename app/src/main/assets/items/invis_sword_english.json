@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 22 Damage<br/>+ 30 Attack Speed",
+  "cd": 28.0,
+  "components": [
+    "shadow_amulet",
+    "claymore"
+  ],
+  "qual": "epic",
+  "notes": "Has a 0.3 second fade time.If the invisibility ends without attacking, the bonus damage is lost.",
+  "desc": "Active: Shadow Walk - Makes you invisible until the duration ends, or until you attack or cast a spell.  While Shadow Walk is active, you move 20% faster and can move through units.  If attacking to break the invisibility, you gain 150 bonus damage on that attack.  Lasts 14 seconds.",
+  "dname": "Shadow Blade",
+  "dotaId": "invis_sword",
+  "mc": 75.0,
+  "img": "invis_sword_lg.png",
+  "lore": "The blade of a fallen king, it allows you to move unseen and strike from the shadows.",
+  "id": 152,
+  "created": true,
+  "cost": 2800
+}

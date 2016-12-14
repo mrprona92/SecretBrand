@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "The Swarm",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Weaver выпускает рой из 12 жуков, которые цепляются за любого врага на своем пути, атакуя и снижая его броню до тех пор, пока не будут убиты.",
+        "notes": "Жук остается на цели, пока его не убъют или не закончится время действия заклинания.<br/>Жуки невосприимчивы к заклинаниям, и герой может убить их за четыре удара, а прочие юниты — за восемь.<br/>Жуки дают обзор в радиусе 321 днем и ночью, но отпадают от целей, ушедших в невидимость.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">20</font></b><br/>ИНТЕРВАЛ АТАК ЖУКОВ: <b><font color=\"#ffffff\">1.4/1.25/1.1/0.95</font></b><br/>КОЛ-ВО: <b><font color=\"#ffffff\">12/12/12/12</font></b><br/>СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">1/1/1/1</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">16</font></b><br/>АТАК ДЛЯ УНИЧТОЖЕНИЯ: <b><font color=\"#ffffff\">8/8/8/8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 36/33/30/27",
+        "lore": "Скитскур разрывает материю пространства и времени, позволяя молодым жукам проскользнуть через эту дыру, чтобы помочь ему в битве.",
+        "hurl": "Weaver",
+        "name": "weaver_the_swarm",
+        "youtube":"YfngG2WLpfc",
+        "id": 0
+    },
+    {
+        "dname": "Shukuchi",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Weaver уходит из зоны видимости, что позволяет ему проходить через юнитов на максимальной скорости. Врагам, через которых он проходит, наносится урон.",
+        "notes": "Наносит урон каждому врагу только единожды.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">75/100/125/150</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">175/175/175/175</font></b><br/>ВРЕМЯ ДО НЕВИДИМОСТИ: <b><font color=\"#ffffff\">0.25/0.25/0.25/0.25</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4/4/4/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/60/60/60<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/10/8/6",
+        "lore": "Когда ткачи работали над материей мироздания, маленькие пространственно-временные туннели позволяли им скользить сквозь время, чтобы лучше выполнять свою работу.",
+        "hurl": "Weaver",
+        "name": "weaver_shukuchi",
+        "youtube":"d5tRF1b5L5E",
+        "id": 1
+    },
+    {
+        "dname": "Geminate Attack",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Позволяет Weaver атаковать противника дважды.",
+        "notes": "Вторая атака не наносит удары с эффектами наподобие оглушения или критического урона.<br/>Weaver атакует во второй раз через четверть секунды после первой атаки вне зависимости от расстояния до цели.",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 6/5/4/3",
+        "lore": "Возможность манипулировать временем позволяет Скитскуру мгновенно повторять свои действия дважды.",
+        "hurl": "Weaver",
+        "name": "weaver_geminate_attack",
+        "youtube":"UGW_dID1W5c",
+        "id": 2
+    },
+    {
+        "dname": "Time Lapse",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b>",
+        "desc": "Weaver возвращается в положение, в котором он был пять секунд назад, восстанавливая уровень здоровья и маны на былой уровень. Не действует на перезарядку, золото и опыт.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Снимает с вас большинство отрицательных эффектов.",
+        "dmg": "",
+        "attrib": "<font color=\"#6fe871\">ДАЛЬНОСТЬ ПРИМЕНЕНИЯ НА СОЮЗНИКОВ:</font></b> <b><font color=\"#ffffff\">1000</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/75/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/50/40",
+        "lore": "Если Скитскур считает, что текущая реальность не удовлетворяет его желаниям, он просто уползает назад во времени, к тому моменту, когда что-то пошло не так.",
+        "hurl": "Weaver",
+        "name": "weaver_time_lapse",
+        "youtube":"cmgRjaiscEg",
+        "id": 3
+    }
+]

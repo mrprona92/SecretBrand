@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Earthshock",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Ursa slams the earth, causing a powerful shock to damage and slow all enemy units in a nearby area for 4 seconds.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">90/140/190/240</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">385</font></b><br/>SLOW: <b><font color=\"#ffffff\">25%/35%/45%/55%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/75/75/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 6",
+        "lore": "The very steps of a male ursine shake the ground as well as the resolve of opposing warriors.",
+        "hurl": "Ursa",
+        "name": "ursa_earthshock",
+        "youtube":"hfR3yMqVxYU",
+        "id": 0
+    },
+    {
+        "dname": "Overpower",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Using his skill in combat, Ursa gains increased attack speed for a number of subsequent attacks.",
+        "notes": "Overpower isn\u0027t removed by Black King Bar.",
+        "dmg": "",
+        "attrib": "ATTACKS: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>BONUS ATTACK SPEED: <b><font color=\"#ffffff\">400/400/400/400</font></b><br/>DURATION: <b><font color=\"#ffffff\">15</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 45/55/65/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "For a behemoth of his size, Ursa is deceptively nimble.",
+        "hurl": "Ursa",
+        "name": "ursa_overpower",
+        "youtube":"lCatLtA-JFk",
+        "id": 1
+    },
+    {
+        "dname": "Fury Swipes",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Ursa\u0027s claws dig deeper wounds in the enemy, causing consecutive attacks to the same enemy to deal more damage.  If the same target is not attacked after 15 seconds, the bonus damage is lost.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RESET TIME: <b><font color=\"#ffffff\">15</font></b><br/>RESET TIME (ROSHAN): <b><font color=\"#ffffff\">6</font></b><br/>DAMAGE PER ATTACK: <b><font color=\"#ffffff\">15/20/25/30</font></b>",
+        "cmb": "",
+        "lore": "In nature, the wounded rarely survive the attacks of hungry predators.",
+        "hurl": "Ursa",
+        "name": "ursa_fury_swipes",
+        "youtube":"7VvTKb4Tb7Q",
+        "id": 2
+    },
+    {
+        "dname": "Enrage",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Ursa goes into a frenzy, multiplying his Fury Swipes damage and causing him to take 80% less damage. Removes any existing debuffs.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "FURY SWIPES MULTIPLIER: <b><font color=\"#ffffff\">1.5/2/2.5</font></b><br/>DAMAGE REDUCTION: <b><font color=\"#ffffff\">80%</font></b><br/>DURATION: <b><font color=\"#ffffff\">4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 0/0/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/45/40",
+        "lore": "Ulfsaar succumbs to his ancient spirit, becoming the most ferocious creature on the battlefield.",
+        "hurl": "Ursa",
+        "name": "ursa_enrage",
+        "youtube":"TzY-5jQIFmg",
+        "id": 3
+    }
+]

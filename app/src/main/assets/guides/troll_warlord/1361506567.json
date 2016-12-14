@@ -1,0 +1,116 @@
+{
+	"Hero":"troll_warlord",
+	"Title":"6.82 - Standard Troll Warlord (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots"
+			],
+			"Start Jungling":
+			[
+				"lifesteal"
+			],
+			"Roshan at Level 11":
+			[
+				"helm_of_the_dominator",
+				"smoke_of_deceit"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"heavens_halberd",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"satanic",
+				"greater_crit",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"lifesteal":"With Morbid Mask, you can start freely jungling without fear of dying. Use this safe area to farm up your needed items and levels to eventually do Roshan.",
+				"monkey_king_bar":"Get Monkey King Bar as soon as possible after your core items if you opponent dodges many attacks (Faceless Void, Brewmaster's Drunken Haze, Phantom Assassin).",
+				"butterfly":"Butterfly is not always necessary, but is quite good thanks to its active: Flutter which can help you chase down foes if your slow wasn't sufficient or add to your damage thanks to the amazing AGI stat.",
+				"greater_crit":"Damage to follow your amazing attack speed. It is without a doubt that Daedalus is pinnacle to making sure Troll Warlord can shred teams and rivaling carries alike.",
+				"sange_and_yasha":"Sange &amp;amp; Yasha is your shortcut to start team-fighting early. This is an old-school item that still works very well with all of Troll Warlord's abilities and stats.",
+				"satanic":"Follow-up with Helm of the Dominator with insane lifesteal thanks to its active ability and your ultimate: Battle Trance!",
+				"helm_of_the_dominator":"Use Helm of the Dominator to take control of a creep and stack ancients. This will further your farm to extreme levels. It's also around this time you can do Roshan.",
+				"smoke_of_deceit":"After Helm of the Dominator and reaching level 11, you can fight Roshan alone using your ultimate and in melee stance.
+
+Use Smoke of Deceit to sneak in!",
+				"heavens_halberd":"Heaven's Halberd is for those rivaling carries that are just a nuisance to take out. If your Whirling Axes didn't work, this will and will add some evasion for Troll Warlord."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"troll_warlord_berserkers_rage",
+			"2":"troll_warlord_whirling_axes_ranged",
+			"3":"troll_warlord_whirling_axes_ranged",
+			"4":"troll_warlord_fervor",
+			"5":"troll_warlord_whirling_axes_ranged",
+			"6":"troll_warlord_battle_trance",
+			"7":"troll_warlord_whirling_axes_ranged",
+			"8":"troll_warlord_fervor",
+			"9":"troll_warlord_fervor",
+			"10":"troll_warlord_fervor",
+			"11":"troll_warlord_battle_trance",
+			"12":"troll_warlord_berserkers_rage",
+			"13":"troll_warlord_berserkers_rage",
+			"14":"troll_warlord_berserkers_rage",
+			"15":"attribute_bonus",
+			"16":"troll_warlord_battle_trance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"troll_warlord_berserkers_rage":"Berseker's Rage is incredibly useful later in the game. Most of its stats are constant at level 1 while movement speed and bash damage are increased per level. The stats that are increased are desired later in the game when team fights and engagements occur more often than not.",
+				"troll_warlord_whirling_axes_ranged":"Whirling Axe is your main nuke and technical ability. In Ranged form, Whirling Axe allows you to slow your opponent to either catch up to them or run away. Your Melee form of Whirling Axe blinds opponents to miss and deals incredible damage.
+
+These abilities have separate cooldowns so use both!",
+				"troll_warlord_whirling_axes_melee":"Whirling Axe is your main nuke and technical ability. In Ranged form, Whirling Axe allows you to slow your opponent to either catch up to them or run away. Your Melee form of Whirling Axe blinds opponents to miss and deals incredible damage.
+
+These abilities have separate cooldowns so use both!",
+				"troll_warlord_fervor":"Fervor is an important ability both for Roshan (which you can do at level 11 with Helm of Dominator) and for engagements. Be sure to switch between Berserker's Rage to ensure opponents who escape, get those last Troll attacks.",
+				"troll_warlord_battle_trance":"Battle Trance is a global effect that has a low mana cost and cooldown. Use extensively even for farming or to help out allies take down opponents!"
+		}
+	}
+}

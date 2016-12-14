@@ -1,0 +1,93 @@
+{
+	"Hero":"huskar",
+	"Title":"The Unstoppable Monster",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"lifesteal",
+				"boots"
+			],
+			"coreItems":
+			[
+				"helm_of_the_dominator",
+				"power_treads",
+				"black_king_bar",
+				"armlet"
+			],
+			"luxury":
+			[
+				"satanic",
+				"blade_mail",
+				"mjollnir",
+				"heart",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"The bonus strength and attackspeed give you more survivability and more damage.",
+				"heart":"Still feeling squishy? Get this item.",
+				"black_king_bar":"If they have disablers, this item is VERY important. Disables are what counters you.",
+				"blade_mail":"Get this to counter evil carry's from the enemy team.",
+				"armlet":"Try to use the armlet toggle technique when you are very low on HP.",
+				"satanic":"Get this when you are the tank in the team and feel that you are gonna eat a lot of damage.",
+				"mjollnir":"Even faster attacks, even more damage. Go insane.",
+				"helm_of_the_dominator":"Dominate a creep early and stack your ancient camp with it. This item provides the lifeleech you really need.",
+				"heavens_halberd":"If the enemy has a scary carry, disarm him and enjoy your bounty."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"attribute_bonus",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_berserkers_blood",
+			"4":"attribute_bonus",
+			"5":"huskar_berserkers_blood",
+			"6":"huskar_life_break",
+			"7":"huskar_berserkers_blood",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"huskar_inner_vitality",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"huskar_burning_spear",
+			"23":"huskar_burning_spear",
+			"24":"huskar_burning_spear",
+			"25":"huskar_burning_spear"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"Sweet extra heal later on.",
+				"huskar_berserkers_blood":"The lower hp you get, the faster and harder you attack. Huskar loves to have low hp. Lifeleech is gonna keep you alive (hopefully).",
+				"huskar_life_break":"Time to kill. Jump your enemy and get fed. Hope you got your lifeleech items already. Take care of disablers, they counter you. Using BKB before this skill will make you lose no HP, which aint always good though.",
+				"attribute_bonus":"More damage, more survivability, more kills."
+		}
+	}
+}

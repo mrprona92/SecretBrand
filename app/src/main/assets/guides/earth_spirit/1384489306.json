@@ -1,0 +1,52 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"Earth Spirit - tanke",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"clarity",
+				"tango",
+				"gauntlets",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"bottle",
+				"bracer",
+				"pers"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"basher",
+				"mask_of_madness",
+				"ancient_janggo",
+				"vanguard",
+				"bfury"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"assault",
+				"heart",
+				"skadi",
+				"mekansm",
+				"pipe",
+				"invis_sword",
+				"sange_and_yasha",
+				"diffusal_blade",
+				"hand_of_midas"
+			]
+		}
+	}
+}

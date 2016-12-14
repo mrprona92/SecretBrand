@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 30 Damage<br/>CRITICAL CHANCE: 20%<br/>CRITICAL DAMAGE: 175%",
+  "cd": false,
+  "components": [
+    "broadsword",
+    "blades_of_attack"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Passive: Critical Strike - Grants a chance to deal critical damage on an attack.",
+  "dname": "Crystalys",
+  "dotaId": "lesser_crit",
+  "mc": false,
+  "img": "lesser_crit_lg.png",
+  "lore": "A blade forged from rare crystals, it seeks weak points in enemy armor.",
+  "id": 149,
+  "created": true,
+  "cost": 2120
+}

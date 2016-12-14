@@ -1,0 +1,130 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"DK RUS",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_basilius",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"black_king_bar",
+				"assault",
+				"heart"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"abyssal_blade",
+				"hand_of_midas",
+				"invis_sword",
+				"sange_and_yasha",
+				"greater_crit",
+				"manta",
+				"monkey_king_bar",
+				"satanic",
+				"ancient_janggo",
+				"heavens_halberd",
+				"armlet"
+			],
+			"Без имени":
+			[
+				"bottle",
+				"blade_mail",
+				"shivas_guard",
+				"pipe",
+				"urn_of_shadows"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Для контроля рун,если вы стоите мид!",
+				"travel_boots":"Чтобы  всегда  быть с командой !",
+				"power_treads":"Лучше сапога на дк нету!",
+				"hand_of_midas":"Если  хороший фарм на линии.",
+				"mekansm":"А почему бы и нет?,быстро фармиться,собирать стоит  в том случаее если нет саппортов,все таки  это предмет!",
+				"ring_of_basilius":"Не много брони ,регена маны  и   для  пуша таверов.",
+				"pipe":"Хорошая  аура,блокирует 400 магического урона.Поможете команде   этим артефактом.",
+				"assault":"Кираса  даст  много брони ,скорости атаки   и  ауру  союзникам  и минус  армор    противникам ,Очень хороший артефакт.Совет собирать после бкб",
+				"heart":"Тараска  очень крутой  артефакт на ДК!,Собирать стоит.Очень много хп  ,хорошая регенерация ,а так живучесть!что для нас очень важно ,мы же танк!",
+				"black_king_bar":"Самый важный артефакт на дк, даже если есть 1 стан в  команде  противников, то стоит собирать.",
+				"shivas_guard":"Много брони  ,хорошее  замедление ,не много урона,в замесе  будет в  самый раз!",
+				"blade_mail":"Обратка  будет  отражать урон наносимый  вам.
+Если в команде противников   есть сильные дамегеры,такие  как: урса ,гуля ,мотра лукантроп ,алхимик  и тд.",
+				"monkey_king_bar":"С этим артефактом  от вас никто больше не увернется!
+И конечно много урона +  микро станы!",
+				"greater_crit":"Очень много  урона  ,хорошие криты,будет классно  смотреться   с Сатаником.",
+				"manta":"А почему бы и нет?,много статов ,3 иллюзии  в форме дракона  ,быстрый  пущ!",
+				"armlet":"Армлет,самый дешевый предмет  который  приносить   много пользы.Но в   последним обновление его по фиксили,теперь после   выключения  1  секундная  задержка ,так что  будьте  осторожны  при игре  армлетом! ",
+				"invis_sword":"Очень хороший артефакт для  инициации.
+Если вы стоите мид,то обязательно собирайте! ",
+				"sange_and_yasha":"Хороший артефакт,хорошая  прибавка к  статам+отличное замедление которое будет хорошо смотреться   с 3  драконом!",
+				"satanic":"Очень полезный артефакт!,большое количество вампиризма,прибавка  к хп!вы будете не убиваем.",
+				"mjollnir":"Много скорости атаки,Хороший урон от молний ,что поможет в замесе. ",
+				"helm_of_the_dominator":"Очень хороший артефакт ,дает достаточно брони  ,лайфстил  и  потом переходит в сатаник!",
+				"ancient_janggo":"Очень полезный  артефакт на ранних стадиях  игры.Сразу можете  идти  в  атаку  со своей  командой!",
+				"abyssal_blade":"Крутой  артефакт ,пробивает  бкб  ,можно за дизейблить вражеского кери героя..",
+				"heavens_halberd":"Алебарда- даст вам  25% уклонения,и  на  4.5  секунды.Хорошо сможет заглушить  вражеского  керри  героя!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_tail",
+			"2":"dragon_knight_dragon_blood",
+			"3":"dragon_knight_breathe_fire",
+			"4":"dragon_knight_dragon_blood",
+			"5":"dragon_knight_breathe_fire",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_breathe_fire",
+			"8":"dragon_knight_dragon_blood",
+			"9":"dragon_knight_breathe_fire",
+			"10":"dragon_knight_dragon_blood",
+			"11":"dragon_knight_elder_dragon_form",
+			"12":"dragon_knight_dragon_tail",
+			"13":"dragon_knight_dragon_tail",
+			"14":"dragon_knight_dragon_tail",
+			"15":"attribute_bonus",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_breathe_fire":"С этим  скилом хорошо фармить,довольно много урона.но требует много маны ,так что лучше добивать противника ,нам же нужен  фарм!",
+				"dragon_knight_dragon_tail":"Стан,довльно долгий не советую качать больше  чем на 1 ,имеит маленький радиус ,но форму дракона он увеличиваеться!",
+				"dragon_knight_dragon_blood":"Не много регена ,брони  поможет стоять на линии.Если    на линии  слишком  тяжко то советаю  за  максить этот скил!Даст много живучести.",
+				"dragon_knight_elder_dragon_form":"Всегда использйте  эту форму  в  замесах!или при пуше таверов."
+		}
+	}
+}

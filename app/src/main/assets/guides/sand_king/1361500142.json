@@ -1,0 +1,146 @@
+{
+	"Hero":"sand_king",
+	"Title":"Infinite Sand -6.80-",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"blink"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"veil_of_discord",
+				"shivas_guard",
+				"black_king_bar",
+				"heart",
+				"travel_boots",
+				"cyclone",
+				"force_staff",
+				"sphere"
+			],
+			"Optional Utilities":
+			[
+				"soul_ring",
+				"ward_observer",
+				"ward_sentry",
+				"bottle",
+				"urn_of_shadows",
+				"smoke_of_deceit",
+				"courier",
+				"tpscroll",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The mother of all ganking items.",
+				"branches":"For the extra stats, beneficial in early game. Will be upgraded into wand.",
+				"boots":"But of course.",
+				"gem":"Shiny-thingy that reveals everything.",
+				"magic_wand":"Greatly helps in this Sand Storm build for those annoying spammers.",
+				"clarity":"Use this after getting lvl 2 stun.",
+				"flask":"Burst regen FTW.",
+				"bottle":"This one is for those sk's that want to roam.",
+				"ward_observer":"For ganking, anti-gank and rune control.",
+				"ward_sentry":"Dewarding and for those stupid invisible Heroes.",
+				"tango":"You need that HP regen.",
+				"courier":"Support your team.",
+				"tpscroll":"This can make a difference, I promise.",
+				"travel_boots":"That epic backup.",
+				"bracer":"Extra stats and survivability. You can skip this if everything is going well.",
+				"mekansm":"Take this if the team needs one badly.",
+				"pipe":"Great for those bigtime clashes and when it's time to push.",
+				"urn_of_shadows":"Mana regen, strength stats and burst HP regen for you and your teammate.",
+				"sheepstick":"Hex ftw.",
+				"orchid":"Silence and damage amplifier.",
+				"cyclone":"Movement Speed and Mana Regen.. plus the benefits of flying.",
+				"force_staff":"For that long-ass stun: blink-forcestaff-stun or v/v.",
+				"dagon":"KS.",
+				"necronomicon":"Push strat. check.
+True sight. check.
+DPS. check.
+Be sure to upgrade it to level 3.
+",
+				"ultimate_scepter":"Extra pulse, extra damage. Low cooldown on Epicenter, plus the benefits of all attributes.",
+				"refresher":"That double Epicenter.",
+				"assault":"That minus armor against epicenter.",
+				"heart":"Mother of all tank items.",
+				"black_king_bar":"\"No one's gonna stop me\"",
+				"shivas_guard":"Synergizes with Epicenter.",
+				"bloodstone":"One tough scorpion.",
+				"sphere":"Who doesn't want this sphere.",
+				"radiance":"Troll build FTW. You gotta troll sometimes. ^_^",
+				"satanic":"YOLO.",
+				"skadi":"There is no escape.",
+				"soul_ring":"Health and Mana Burst for spamming purposes to annoy the hell out of your enemy.",
+				"arcane_boots":"Combo Blink+Epicenter+Burrowstrike+Sand Storm. You got to have this.",
+				"ancient_janggo":"That bonus helps alot.",
+				"smoke_of_deceit":"That deadly gank.",
+				"veil_of_discord":"You want more damage of course."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_sand_storm",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_sand_storm",
+			"9":"sandking_sand_storm",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_caustic_finale",
+			"13":"sandking_caustic_finale",
+			"14":"sandking_caustic_finale",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"sandking_burrowstrike":"Bread. Stun atleast 2-3 or better yet, get 5 of them especially after epicenter and for that epic juke together with your Butter and Blink Dagger. Money-maker 1.",
+				"sandking_sand_storm":"Butter. For harassment/lane control, dps and that epic juke together with your Bread and Blink Dagger. Money-maker 2.",
+				"sandking_caustic_finale":"Juice. That bomb surely hurts of course, helps with harassment/lane control. Money-maker 3.",
+				"sandking_epicenter":"Bacon. That ultimate teamfight will always be epic with this, thus, it's called EPICENTER. Money-maker 4.",
+				"attribute_bonus":"Steak. It'll make you beefy in all aspects."
+		}
+	}
+}

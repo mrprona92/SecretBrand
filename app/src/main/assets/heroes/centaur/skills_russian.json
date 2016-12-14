@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Hoof Stomp",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Сотрясает землю, оглушая ближайших вражеских юнитов и нанося им урон.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">315</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">2/2.25/2.5/2.75</font></b><br/>УРОН: <b><font color=\"#ffffff\">100/150/200/250</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13",
+        "lore": "Когда кентавр бьет своим могучим копытом по земле, за далекие километры с домов сыпется пыль.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_hoof_stomp",
+        "youtube":"FuWaTlMJwjM",
+        "id": 0
+    },
+    {
+        "dname": "Double Edge",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Centaur наносит сокрушительный удар, нанося урон себе, жертве и всем в небольшом радиусе от нее. Centaur не может погибнуть от использования Double Edge.",
+        "notes": "Наносит магический урон как цели, так и вам самим.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">175/250/325/400</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 0/0/0/0<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8",
+        "lore": "Иногда Брэдводен сражается так свирепо, что в пылу битвы может задеть даже самого себя.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_double_edge",
+        "youtube":"PsHWOHEq5-Q",
+        "id": 1
+    },
+    {
+        "dname": "Return",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Centaur отвечает на каждый удар, нанося атакующему его врагу урон в процентах от своей силы.",
+        "notes": "Срабатывает при завершении удара по Centaur Warrunner.<br/>Наносит урон башням.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">16/18/20/22</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН ОТ СИЛЫ: <b><font color=\"#ffffff\">26%/34%/42%/50%</font></b>",
+        "cmb": "",
+        "lore": "Брэдводену даже не нужно парировать атаки противника — его кожа, больше похожая на броню, сама отвечает на любое нападение.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_return",
+        "youtube":"b0obuqv_n5I",
+        "id": 2
+    },
+    {
+        "dname": "Stampede",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Centaur Warrunner ведет союзников в яростную атаку, что позволяет им проходить сквозь врагов на максимальной скорости, при этом останавливая их. Урон зависит от силы Centaur Warrunner. Каждый враг может получить урон от этой способности только один раз.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Не действует на врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ СПОСОБНОСТИ: <b><font color=\"#ffffff\">3.75</font></b><br/>МНОЖИТЕЛЬ УРОНА ЗА СИЛУ: <b><font color=\"#ffffff\">1/2/3</font></b><br/>ДЛИТЕЛЬНОСТЬ ОСТАНОВКИ: <b><font color=\"#ffffff\">1.5</font></b><br/>РАДИУС ТОПОТА: <b><font color=\"#ffffff\">105</font></b><br/><font color=\"#6fe871\">УМЕНЬШЕНИЕ УРОНА:</font></b> <b><font color=\"#ffffff\">60%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/75/60",
+        "lore": "Великий пояс Омекса, доказывающий звание Брэдводена как величайшего воина его вида, побуждает его товарищей по арене следовать за ним в самые жестокие схватки.",
+        "hurl": "Centaur_Warrunner",
+        "name": "centaur_stampede",
+        "youtube":"QTuJyXRa1DI",
+        "id": 3
+    }
+]

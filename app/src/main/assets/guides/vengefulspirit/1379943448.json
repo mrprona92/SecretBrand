@@ -1,0 +1,111 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Carry Veng [LTPS]  (UPDATED)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"clarity",
+				"circlet",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"lifesteal"
+			],
+			"coreItems":
+			[
+				"butterfly",
+				"monkey_king_bar",
+				"satanic"
+			],
+			"luxury":
+			[
+				"invis_sword",
+				"manta",
+				"sange_and_yasha",
+				"assault",
+				"sphere",
+				"black_king_bar",
+				"skadi",
+				"mask_of_madness",
+				"heart"
+			],
+			"RAMPAGE":
+			[
+				"skadi",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"lifesteal":"Мы же должны как-то хилиться, будучи тонким персом",
+				"power_treads":"Включили ловкость - даем люлей. Убегаем - включаем силу. После покупки барабана можно оставить на силе и не трогать.",
+				"vladmir":"Не работает на дальников",
+				"urn_of_shadows":"Немного ХП и регена маны не помешают.
+К лейту продаем и покупаем что-нибудь полезное.",
+				"heart":"Сатаник+Тараска = РРРРРЭМПЕЙДЖ",
+				"monkey_king_bar":"Много урона, небольшое добавление к скорости атаки, а также баш.",
+				"butterfly":"Бабочка? Да, именно бабочка. Уклонение и немалая прибавка к нашей основной характеристике сделает нас опаснее. ",
+				"lesser_crit":"В случае, если не захотели собирать дезоль.",
+				"invis_sword":"Допустим, против нас играет тини или пудж. Так как венга достаточно тонкая, то лотар поможет избежать смерти от жиробасов. Либо в случае, когда на нас пошли всей тимой.",
+				"satanic":"Получаем броню+вампиризм и становимся просто ультра-нагибатором.",
+				"skadi":"Стакается с Сатаником или МОМом.",
+				"mask_of_madness":"Либо МОМ, либо Сатаник. ",
+				"ancient_janggo":"Дает статы, что в начале довольно неплохо. После покупки бабочки продаем. ",
+				"rod_of_atos":"ДОГОНЯЙ, УЛЬТУЙ, УБИВАЙ"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_command_aura",
+			"2":"vengefulspirit_magic_missile",
+			"3":"vengefulspirit_wave_of_terror",
+			"4":"vengefulspirit_magic_missile",
+			"5":"vengefulspirit_wave_of_terror",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_wave_of_terror",
+			"9":"vengefulspirit_magic_missile",
+			"10":"vengefulspirit_wave_of_terror",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"vengefulspirit_command_aura",
+			"18":"vengefulspirit_command_aura",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Надо максить вместе с 2-им скиллом. ВЕДЬ Я ЖЕ КЕРРИ, Я ХОЧУ ВСЕХ СТАНИТЬ И НАГИБАТЬ!!",
+				"vengefulspirit_wave_of_terror":"Отличный минус армор.",
+				"vengefulspirit_command_aura":"Я НЕ САППОРТ, Я КЕРРИ. НАФИГА МНЕ КАЧАТЬ АУРУ?! А затем, что нам ластхитить легче с ней будет на начальных лвлах. Пусть будет на 1 у нас.
+",
+				"vengefulspirit_nether_swap":"УБЕГАЕШЬ - КИДАЕШЬ В СОЮЗНИКА-САППОРТА. ДОГОНЯЕШЬ - КИДАЕШЬ ВО ВРАГА. БУДЬ ПЛОХИМ ПАРНЕМ",
+				"attribute_bonus":"СТАТЫ НАМ ДАЮТ ИТЕМЫ, ПОЭТОМУ КАЧАЕМ ПЛЮСЫ С 13 ЛВЛ"
+		}
+	}
+}

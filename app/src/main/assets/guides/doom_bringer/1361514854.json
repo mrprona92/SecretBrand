@@ -1,0 +1,107 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Carry Doom",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"radiance",
+				"sange",
+				"vladmir"
+			],
+			"Late Game":
+			[
+				"heart",
+				"heavens_halberd",
+				"assault",
+				"black_king_bar"
+			],
+			"Alternative":
+			[
+				"power_treads",
+				"hand_of_midas",
+				"ultimate_scepter",
+				"vanguard",
+				"abyssal_blade",
+				"necronomicon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Gives you more protection early.",
+				"flask":"Good HP regen when you are low.",
+				"tango":"Good heal to counteract harass.",
+				"phase_boots":"Allow you to chase and gives good damage.",
+				"power_treads":"If you do not get Phase Boots, get these instead.",
+				"hand_of_midas":"Get this if you have lots of gold early on.",
+				"vladmir":"Gives you more damage and lifesteal, builds from Ring of Basilius.",
+				"ring_of_basilius":"Gives you Mana regen and armor early on. Turn it off when in lane.",
+				"necronomicon":"Works with Scorched Earth making the summons more powerful.",
+				"ultimate_scepter":"Gives good stats and allows you to solo kill with Doom better. Do not get to caught up in chasing.",
+				"assault":"Gives you lots of armor for survivabilty and attack speed for DPS.",
+				"heart":"Tons of HP and damage.",
+				"black_king_bar":"Allows you to not get stunned while you kill enemies.",
+				"vanguard":"Get this early if you need more HP and regen as well as damage block.",
+				"radiance":"Powerful item when you get it early. Gives good damage and powerful aura.",
+				"sange":"Gives HP and damage.",
+				"abyssal_blade":"A good stun and damage item.",
+				"heavens_halberd":"Gives you evasion and can disarm enemy carries."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_scorched_earth",
+			"9":"doom_bringer_scorched_earth",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Gives you lots of gold through out the game.",
+				"doom_bringer_scorched_earth":"Use this to chase down enemies or run away and heal. ",
+				"doom_bringer_lvl_death":"Use this to help get kills later on in the game.",
+				"doom_bringer_doom":"Use this to totally shut down the target. Great for early ganking and winning team fights.",
+				"attribute_bonus":"Take these when you have to."
+		}
+	}
+}

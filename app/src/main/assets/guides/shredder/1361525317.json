@@ -1,0 +1,99 @@
+{
+	"Hero":"shredder",
+	"Title":"[DMX] Timbersaw (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"clarity",
+				"flask",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"tpscroll"
+			],
+			"Fin de Partie":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots",
+				"assault",
+				"heart"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"black_king_bar",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"urn_of_shadows":"Si vous participez à beaucoup de kills, son actif vous permettra de vous régénérez ou d'infliger une petit DoT très pratique pour accenteur vos dégâts.",
+				"black_king_bar":"Si l'équipe ennemie a beaucoup de contrôles, cet item est indispensable.",
+				"bloodstone":"Bloodstone vous permettra de ganker plus faiclement sur la map en vous octroyant une très bonne régénération.",
+				"blade_mail":"Si vous vous faîtes beaucoup focus, vous pouvez partir sur une blademail qui dissuadera vos adversaires.",
+				"ancient_janggo":"Si vous êtes en mauvaise posture et que vous n'arrivez pas à farmer, faire un drum of endurance vous apportera les stats dont vous avez besoin."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_whirling_death",
+			"3":"shredder_timber_chain",
+			"4":"shredder_whirling_death",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_reactive_armor",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Votre principal nuke, n'oubliez pas de vous rapprocher des arbres pour infliger plus de dommages.",
+				"shredder_timber_chain":"Ce sort est très pratique pour fuir ou rattraper vos cibles grâce à son cooldown très faible ! Ses dommages sont également très corrects.",
+				"shredder_reactive_armor":"Passif très pratique pour tanker lorsque vous vous faîtes focus.",
+				"shredder_chakram":"Cet ultimate vous donne une grosse présence en teamfight, avec ses bons dommages et son slow de zone. Attention cependant, il consomme beaucoup de mana et vous ne pourrez pas attaquer avec vos auto-attaques lorsque la scie tournera."
+		}
+	}
+}

@@ -1,0 +1,113 @@
+{
+	"Hero":"dazzle",
+	"Title":"6.82 - Standard Dazzle (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"clarity",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"mekansm"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"pipe",
+				"force_staff",
+				"cyclone",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"ultimate_scepter"
+			],
+			"Last updated: 6/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"Buy the courrier or ward. As a support hero, most teams will expect you to buy one or the other. ",
+				"courier":"Buy the courrier or ward. As a support hero, most teams will expect you to buy one or the other. ",
+				"mekansm":"Split the need for Mekansm and Pipe of Insight with other support heroes.",
+				"pipe":"Split the need for Mekansm and Pipe of Insight with other support heroes.",
+				"urn_of_shadows":"Urn is used if you are roaming (leaving your lane often to gank other lanes and help your allies) and aiming to gank a lot of heros. Urn may be used offensively or defensively, so be sure to use the item appropriately when the opportunity arises.",
+				"cyclone":"For further added crowd control. While Dazzle is great at making sure the team stays alive, Eul's Scepter can also add some even better methods to keep the foes at bay (or at least isolated).",
+				"force_staff":"Force staff can be used either for yourself to get away or in combination with Shallow Grave (Shallow Grave then use force staff for your ally to get away with just an inch of his life left).",
+				"ultimate_scepter":"Aghnamin's Scepter adds a larger AOE and longer duration on Dazzle's ultimate. Dazzle's ultimate has a very large AOE making Aghanmin's not necessarily the best investment of your money. Purchase if desired.",
+				"medallion_of_courage":"To further add on top of your ultimate ability. The armor reduction on Medallion is always great, just be sure that you are at a safe distance from the fight to use this item and avoid being killed yourself.",
+				"veil_of_discord":"Veil works great when your team is usually composed of magic-ability users."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dazzle_poison_touch",
+			"2":"dazzle_shadow_wave",
+			"3":"dazzle_shallow_grave",
+			"4":"dazzle_shadow_wave",
+			"5":"dazzle_shadow_wave",
+			"6":"dazzle_weave",
+			"7":"dazzle_shadow_wave",
+			"8":"dazzle_poison_touch",
+			"9":"dazzle_poison_touch",
+			"10":"dazzle_poison_touch",
+			"11":"dazzle_weave",
+			"12":"dazzle_shallow_grave",
+			"13":"dazzle_shallow_grave",
+			"14":"dazzle_shallow_grave",
+			"15":"attribute_bonus",
+			"16":"dazzle_weave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dazzle_poison_touch":"At Level 3, this slow also stuns at the end of its run. It can be used very well for ganking and such and if leveled first, level it to level 3 for the stun (and no more until the rest is maxed).",
+				"dazzle_shallow_grave":"Leveling Shallow Grave only increases the range you can cast it, not the duration.
+
+Now works on allies using Black King Bar or are Magic Immune!",
+				"dazzle_shadow_wave":"Your best healing and damage-dealing ability. Be sure to max this out second or third typically as it really helps you stay in battle as well as your allies.",
+				"dazzle_weave":"Make sure to cast this during the start of each major team-fight. Either on your allies or the enemies. It isn't important that you grab them all in your radius, but the most you can reach. It lasts 24 seconds, so don't hesitate to use it at any sense of a fight (40-second cooldown)"
+		}
+	}
+}

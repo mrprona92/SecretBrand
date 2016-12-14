@@ -1,0 +1,85 @@
+{
+	"Hero":"warlock",
+	"Title":"Warlock can rule Team Fights!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"sobi_mask",
+				"branches",
+				"clarity",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bracer",
+				"ring_of_basilius"
+			],
+			"1st Core Item":
+			[
+				"ultimate_scepter"
+			],
+			"Early Game Situational Items":
+			[
+				"arcane_boots",
+				"mekansm",
+				"pipe"
+			],
+			"2nd Core Item":
+			[
+				"refresher"
+			],
+			"Mid Game Situational Items":
+			[
+				"travel_boots",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ultimate_scepter":"Get Scepter first."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_shadow_word",
+			"2":"attribute_bonus",
+			"3":"warlock_shadow_word",
+			"4":"attribute_bonus",
+			"5":"warlock_shadow_word",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_shadow_word",
+			"8":"warlock_upheaval",
+			"9":"warlock_upheaval",
+			"10":"warlock_fatal_bonds",
+			"11":"warlock_rain_of_chaos",
+			"12":"warlock_fatal_bonds",
+			"13":"warlock_fatal_bonds",
+			"14":"warlock_fatal_bonds",
+			"15":"warlock_upheaval",
+			"16":"warlock_rain_of_chaos",
+			"17":"warlock_upheaval",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"attribute_bonus":"Stats will build up your resistance to rush your Aghanims."
+		}
+	}
+}

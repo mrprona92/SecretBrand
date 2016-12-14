@@ -1,0 +1,142 @@
+{
+	"Hero":"juggernaut",
+	"Title":"Teach Me How To Jugger",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"magic_wand",
+				"ancient_janggo",
+				"pers",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"bfury",
+				"ultimate_scepter",
+				"mjollnir",
+				"helm_of_the_dominator"
+			],
+			"Complete Build":
+			[
+				"bfury",
+				"ultimate_scepter",
+				"mjollnir",
+				"butterfly",
+				"satanic",
+				"travel_boots"
+			],
+			"Situational":
+			[
+				"manta",
+				"abyssal_blade",
+				"monkey_king_bar",
+				"assault",
+				"black_king_bar",
+				"sheepstick",
+				"sange_and_yasha",
+				"skadi",
+				"diffusal_blade"
+			],
+			"Cheap Build":
+			[
+				"tranquil_boots",
+				"vladmir",
+				"ultimate_scepter",
+				"desolator",
+				"black_king_bar",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"slippers":"These will help with last hitting creeps in the laning phase and will build into Poor Man’s Shield for some early game defense. ",
+				"branches":"Branches are picked up for boosting early game damage and to boost your int to make sure you can get your Blade Fury + Omnislash combo off.",
+				"magic_wand":"Branches are cheap but I hate throwing things away, so I build them into a wand. I get them on every hero since they can be a lifesaver. ",
+				"flask":"Always good for some fast regeneration when your HP is low or when a life saving heal is needed.",
+				"tango":"Branches for HP regeneration are always good early on.",
+				"tpscroll":"Always carry TP scrolls...always!",
+				"travel_boots":"Before getting that last item, you’re going to need BoT so pick them up and swap them for Phase Boots. With Phase Boots being slowed down, try to get them instead.",
+				"phase_boots":"Phase Boots give you extra damage and the extra movement speed combined with phase is perfect for Juggernaut. If you’re getting a lot of free farm, go for Boots of Travel instead since it saves up lots of gold and the movement speed is even better.",
+				"pers":"Depending on the situation, you can pick up Ring of Health before Drums. I prefer going Drums first to boost movement speed and total mana. If you find yourself wasting money on salves, pick up a ring instead.",
+				"poor_mans_shield":"These are finished first, put your first 250 gold in buying a shield to increase your lane presence. With the extra attack damage you should be able to pick it up fast to secure your early game defense.",
+				"vladmir":"Only pick it up when you go Desolator. ",
+				"sheepstick":"Very underrated on carries, it used to be common on POTM and Sniper and since you’re going into lategame, it’s great to have another disable to help out in teamfights.",
+				"ultimate_scepter":"In my previous build I did not advise on scepter, but with the buffs Omnislash received, you just have to pick it up. Go for it after battlefury and get mjollnir after.",
+				"assault":"AC instead of MKB if you need to tank it out and you have another semi-carry in your team that can use the extra attack speed and armor bonus.",
+				"black_king_bar":"As pointed out by some people, this can be needed and useful in some situations. I do feel it's easily countered and there's no need for BKB once you've got your Satanic up and running. Pick it up when you're the only carry and your team needs your DPS output. ",
+				"monkey_king_bar":"Time to increase your damage, with MKB you can’t go wrong. You’ll attack so fast by now that you’ll spam minibashes dealing extra damage and making your crits hit even harder. If a stun is needed, you can pick up an Abyssal Blade instead, but I prefer the MKB. ",
+				"butterfly":"After Helm of the Dominator I pick up my Butterfly. This makes you hit like a truck and boosts your defense with evasion and armor. In case you’re having problems with staying alive in fights, only pick up the Talisman of Evasion and finish Satanic first before finishing Butterfly. ",
+				"bfury":"Battlefury is a no-brainer, it helps with farming and boosts your ultimate. I’ve been picking this item up as a core for the last 7 years and I’m sticking to it. Shadow Blade has become a decent alternative, but I prefer to man up and beast my way through. ",
+				"manta":"Manta is great, extra damage, extra movement speed, extra everything you need with a nice active to trick your opponents. The perfect substitution for your Drums. Pick it up in case you prefer picking up a Yasha after your Drums and Battle Fury.",
+				"sange_and_yasha":"This doesn’t add much to the equation late game unless you’re having problems keeping up with your opponent after selling your drums. Manta or Skadi is a better pickup if you ask me. ",
+				"satanic":"I love Satanic, it helps you so much better than Black King Bar lategame and since you’re hitting like a truck your HP will be back in no time. ",
+				"mjollnir":"Sell your Poor Man’s Shield and go for Mjollnir. This will boost your ultimate more than Aghanim`s Scepter ever will. You can get up to 10 extra hits during slashes with this item, and the 160 lightning damage hurts even more. 6.79 makes this item even stronger!",
+				"skadi":"Another option is Skadi, selling your Drums makes you slower so you can either go for a nice mix of damage, HP, armor with a slow but you will have to choose your orb. Manta is a better pick up!",
+				"helm_of_the_dominator":"Time to sell your wand and go for lifesteal instead. This will boost your damage and will heal you between lightning attacks.",
+				"desolator":"The reason I don't pick up a Desolator is for the sole reason I put my focus on Satanic. If you do prefer a Desolator, make sure you pick up a Vlads. ",
+				"yasha":"Yasha is a great item combined with Drums and is a great alternative build. Get it before Mjollnir and make a Manta out of it or a Sange and Yasha if you prefer that. Manta has my vote though.",
+				"diffusal_blade":"Diffusal can be good in rare situations, think of Warlock's ultimate and Omniknight and is also the reason why those heroes don't get picked up more often. ",
+				"ancient_janggo":"I’ve fallen in love with this item, +9 all attributes, +3 damage and all the movement speed Juggernaut needs. This item will give you the perfect amount of mana to secure your early game dominance. There’s nothing worse than being forced to run back to base because you’re out of mana.",
+				"abyssal_blade":"Abyssal Blade instead of MKB if a stun is needed. ",
+				"tranquil_boots":"Tranquil boots are really strong after the buffs, but since I go Drums in my core I think Phase Boots are still better since the extra movement speed is based on percentages. In the cheap build, picking up Tranquil Boots is a must. "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"attribute_bonus",
+			"3":"juggernaut_blade_fury",
+			"4":"juggernaut_healing_ward",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_blade_dance",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_blade_dance",
+			"13":"juggernaut_healing_ward",
+			"14":"juggernaut_healing_ward",
+			"15":"juggernaut_healing_ward",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"Blade Fury should always be picked up and maxed out first. It gives you the highest damage output early on and gives you a BKB-like getaway which you can use with teleporting out. Go for rightclicks lategame and keep it to get out of fights or to engage.",
+				"juggernaut_healing_ward":"Focus on ganking early game, 1 level is enough and max it out around level 13 when your team starts pushing. In 1v2 or 1v3 fights, put the ward into the trees  and beast your way through victory with some hidden healing.",
+				"juggernaut_blade_dance":"You can get this at level 2 if the game goes easy, but your most damage output will come from Blade Fury and Omnislash so it is better to start leveling this up once you are starting to build up your damage items.",
+				"juggernaut_omni_slash":"Probably the best spell there is. Scepter is finally worth it, get it after Bfury and make it even more ridiclous with Mjollnir and Bfly. Agility and Mjollnir for extra slashes and lightning procs. Buff your ulti to the max!",
+				"attribute_bonus":"I prefer getting a stat at level 2 to secure my Blade Fury
+and Omnislash combo. You can level stats up at level 13-14-15 instead of healing ward, but that depends on the situation."
+		}
+	}
+}

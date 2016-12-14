@@ -1,0 +1,90 @@
+{
+	"Hero":"viper",
+	"Title":"침 좀 뱉고 독 좀 씹는 귀여운 비행청소뱀 바이퍼.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"wraith_band",
+				"vitality_booster"
+			],
+			"coreItems":
+			[
+				"manta",
+				"vanguard",
+				"invis_sword"
+			],
+			"luxury":
+			[
+				"heart",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"맞아도 안아프게 튼튼한 방패를 껴주세요. 선봉방패의 하위 재료이기도 하죠.",
+				"slippers":"막타 먹기 조금 더 쉽게 민첩의 신발을 사주세요, 어차피 망령의 고리를 만드는데 필요합니다.",
+				"vitality_booster":"선봉방패의 하위 아이템이며 체력을 늘려주는 활력 강화석!",
+				"power_treads":"공격 속도와 민첩을 올려줍니다. 좋아요 좋아.",
+				"wraith_band":"초반 민첩 캐리에게 유용한 아이템입니다.",
+				"heart":"게임이 아직도 안 끝났으면, 타라스크를 사세요. 엄청난 탱키함에 적들은 바이퍼를 죽이기도 전에 바이퍼의 독에 녹아내릴겁니다.",
+				"vanguard":"선봉 방패 하나만 가도 바이퍼는 적과 동일하게 컸다는 전자하에 절대 1:1을 지지 않습니다.",
+				"butterfly":"게임이 안 끝났지만 난 탱키보다 더 빨리 죽이는 게 좋아! 라는 분들은 나비검을 구매해주세요. 그래도 탱키해요! 왜냐구요? 민첩이 올라가면 방어력이 올라가고, 나비검에는 회피 35% 옵션이 있으니깐요!",
+				"manta":"능력치도 올려주며 민첩과 공격속도 이동속도 다 올려줍니다. 추가로 황천독극을 사용하는 침 좀 뱉는 친구 두 명을 더 생성하죠. 좋은 아이템입니다.",
+				"invis_sword":"공격속도와 공격력이 올라가며, 갱킹시 기습하여 독을 촤악 뿌려주고, 도주 시 스르륵 도망갑니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"viper_poison_attack",
+			"2":"viper_nethertoxin",
+			"3":"viper_poison_attack",
+			"4":"viper_corrosive_skin",
+			"5":"viper_poison_attack",
+			"6":"viper_viper_strike",
+			"7":"viper_poison_attack",
+			"8":"viper_nethertoxin",
+			"9":"viper_nethertoxin",
+			"10":"viper_nethertoxin",
+			"11":"viper_viper_strike",
+			"12":"viper_corrosive_skin",
+			"13":"viper_corrosive_skin",
+			"14":"viper_corrosive_skin",
+			"15":"attribute_bonus",
+			"16":"viper_viper_strike",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"viper_poison_attack":"바이퍼의 초중반 딜링 스킬의 주력 기술입니다. 당연히 먼저 마스터!",
+				"viper_nethertoxin":"공격 속도가 좀 빨라지기 시작하면 이 기술이 바이퍼의 주력 딜링 기술이 됩니다. 레벨 10까지는 다 마스터하세요!",
+				"viper_corrosive_skin":"바이퍼를 탱키하게 해주며 적들을 은근히 골치 아프게 하는 기술입니다. 하지만 바이퍼는 탱커이기 전에 딜러이니 마지막에 마스터해주세요.",
+				"viper_viper_strike":"바이퍼를 진정으로 침 뱉는 비행청소뱀으로 만들어주는 궁극기입니다. 1대1 싸움에서 무조건 궁극기를 먼저 사용하고 싸우세요. 절대 안 집니다, 절대."
+		}
+	}
+}

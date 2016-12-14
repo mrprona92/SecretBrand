@@ -1,0 +1,121 @@
+{
+	"Hero":"abaddon",
+	"Title":"6.82 - Standard Abaddon (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"vladmir"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem"
+			],
+			"luxury":
+			[
+				"blade_mail",
+				"heavens_halberd",
+				"necronomicon"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"assault",
+				"shivas_guard",
+				"heart"
+			],
+			"Last updated: 30/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_regen":"Buy the recipe of Soul Ring",
+				"ward_observer":"As a support, generally buying the courrier or wards is suggested.Buy wards constantly as a support.",
+				"courier":"As a support, generally buying the courrier or wards is suggested.",
+				"phase_boots":"Phase to help with chasing and speed. The extra damage and speed is definitely Abaddon enjoys.",
+				"mekansm":"Mekansm is a situational item here due to the high mana cost and the role Abaddon ends up falling into. Definitely worth considering if no one else will get it.",
+				"vladmir":"Among the best Vlad's Offering holders out there due to his tankiness and the the aura he offers. Overall: good item regardless of how you play Abaddon.",
+				"urn_of_shadows":"For further life, stats and survivability. Urn is a great long-term cheap investment that makes you a great support throughout the game!",
+				"necronomicon":"Necrobook works in affiliation with your passive, giving you more pushing power and presence! Definitely consider it if the enemy team is against your favour.",
+				"ultimate_scepter":"This item is good to reduce the amount of damage taken from your allies and redirect it to you. Don't forget to use Blade Mail to return that to enemies!",
+				"assault":"Aid your physical carries with the attack speed boost and the aura buff/debuff. This increases Abaddon's presence and damage he can deal despite being a more supportive role.",
+				"blade_mail":"With your Aphotic Shield, Life Sacrificing Mist Coil ability and your ultimate, Borrowed Time, Blade Mail can work as an intermission between all those abilities and further reflect the damage your foes dish out to you.",
+				"sange_and_yasha":"Sange &amp;amp;amp; Yasha fits into the semi-roles that Abaddon can play. It gives the movement speed and agility as well as the strength and slow.",
+				"soul_ring":"Buy the recipe of Soul Ring as the other ingredient items can be bought by the side-lane shop.We're getting Soul Ring to utilize your Aphotic Shield ability more during the laning phase.",
+				"arcane_boots":"To support your abilties, the team and your mekansm use, you'll need arcane. You don't need Treads and Phase Boots is not always necessary.",
+				"ancient_janggo":"More strength, more movement speed, a bit of intelligence. All things Abaddon thrives off of."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"abaddon_aphotic_shield",
+			"2":"abaddon_death_coil",
+			"3":"abaddon_aphotic_shield",
+			"4":"abaddon_death_coil",
+			"5":"abaddon_aphotic_shield",
+			"6":"abaddon_borrowed_time",
+			"7":"abaddon_aphotic_shield",
+			"8":"abaddon_death_coil",
+			"9":"abaddon_death_coil",
+			"10":"abaddon_frostmourne",
+			"11":"abaddon_borrowed_time",
+			"12":"abaddon_frostmourne",
+			"13":"abaddon_frostmourne",
+			"14":"abaddon_frostmourne",
+			"15":"attribute_bonus",
+			"16":"abaddon_borrowed_time",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"abaddon_death_coil":"Mist Coil is an instant heal/damage-dealer. It is your finisher if you can't reach your foe or the healing grace to save your ally. Use it wisely to shift the battle, not for the last hit.Use this ability on others to also self-damage yourself to pop your Shield faster for more damage!",
+				"abaddon_aphotic_shield":"This is your laning phase power button. It is also great for yourself or physical carries who are getting into the muck of things. Damage is dealt whether or not the shield's threshold of damage is reached.Consider using this on heroes caught in stuns to delay their demise or save them!",
+				"abaddon_frostmourne":"We're maxing this amazing passive last because of the importance of the other abilities early-game as well as its use later on during the ganking and pushing phase.",
+				"abaddon_borrowed_time":"Be careful about this ability as it does not activate if nuked down from a certain health level to 0. Axe's Culling Blade (his ultimate) also demolishes Abaddon, so be wary."
+		}
+	}
+}

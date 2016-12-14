@@ -1,0 +1,101 @@
+{
+	"Hero":"clinkz",
+	"Title":"Flaming Death Ball Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"ring_of_aquila",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"orchid"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"greater_crit",
+				"skadi",
+				"monkey_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Used to build Tranquil boots or Ring of Basilius depending on whether you are trying to farm a lane or push.",
+				"sobi_mask":"Aquiring 2 Sage Masks are for the early mana regen which is needed in order to use Searing Arrows to last hit creeps,have mana for Skeleton Walk and to keep Death Pact always on cool down.
+They will eventually be made into Oblivion Staff's and then into an Orchid",
+				"magic_wand":"Always a handy item that could save your life or give you the boost of health or mana to snatch a hero kill.",
+				"tango":"Remember to use a tango before a fight because the extra regen could end up saving your life.",
+				"power_treads":"Power Treads for the extra boost of attack speed and Health/  Damage and Armour / Mana.",
+				"orchid":"With this item  AND a Death Pacted creep,you are able to solo kill most heroes and Tier 1 towers with ease.",
+				"black_king_bar":"For teams with a lot of magic damage or a lot of stuns/disables.
+If it comes to the late game,you have used  the Black King Bar more than a few times and you have maxed out your other items,you can sell the Item and buy another Black King Bar to reset the spell immunity duration back to 10 seconds.",
+				"monkey_king_bar":"Provides A LOT of damage when you allready have good attack speed and is great to counter heroes with evasion like Phantom Assasin or items like that use Talisman of evasion.",
+				"greater_crit":"Since Clinkz allready recieves enough damage from using Death Pact on a creep and gets a lot of attack speed from Strafe, Daedalus synergises perfectly with the hero.
+Side note.
+Getting Crystalis is normally a better option.",
+				"skadi":"IMPORTANT : This item WORKS with Searing Arrows.
+Provides a great slow which Clinkz lacks and provides many great stats.",
+				"ring_of_aquila":"Nice for the extra pushing power,stats and mana regen.",
+				"tranquil_boots":"Provides early survivability in lane and can be disassembled mid game for Power Treads if needed or  Boots of Travel in the late game.
+TIP:
+Use Tranquil boots before devouring a creep to gain more hp out of the use."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"clinkz_wind_walk",
+			"2":"clinkz_searing_arrows",
+			"3":"clinkz_searing_arrows",
+			"4":"clinkz_wind_walk",
+			"5":"clinkz_searing_arrows",
+			"6":"clinkz_death_pact",
+			"7":"clinkz_searing_arrows",
+			"8":"clinkz_wind_walk",
+			"9":"clinkz_wind_walk",
+			"10":"clinkz_strafe",
+			"11":"clinkz_death_pact",
+			"12":"clinkz_strafe",
+			"13":"clinkz_strafe",
+			"14":"clinkz_strafe",
+			"15":"attribute_bonus",
+			"16":"clinkz_death_pact",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"clinkz_strafe":"I chose to max this later because it mostly effective once you have obtained your Orchid.Great ability solo killing heroes,team fights,killing Roshan and pushing down towers.",
+				"clinkz_searing_arrows":"Since Clinkz has a really bad attack animation in the early game,using Searing Arrows to last hit and harras makes it much easier. Using (Not auto casting) Searing Arrows on an enemy hero when harrasing will NOT pull creeps towards you so keep that in mind.",
+				"clinkz_wind_walk":"Maxing this early allows Clinkz to move around the map and farm easily unitl you obtain your Orchid,then you can start roaming around and hunt and solo kill most heroes.
+TIP: Before engaging on an enemy hero,try and wait for your Skeleton Walk to be ready for a quick escape.",
+				"clinkz_death_pact":"This ability turns Clinkz from a squishy annoying pest into a hell raising demon (Not literally).Try and always use this ability when it's available and try to use it on a creep with A LOT of HP.Going into the Jungle/Woods and killing the biggest creep in the harder camps is preferable."
+		}
+	}
+}

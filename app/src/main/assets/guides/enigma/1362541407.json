@@ -1,0 +1,120 @@
+{
+	"Hero":"enigma",
+	"Title":"Darchrow: The Mobile Manaful Enigma",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"ring_of_basilius"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"blink",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"black_king_bar",
+				"magic_wand"
+			],
+			"Luxury Items":
+			[
+				"shivas_guard",
+				"refresher",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"travel_boots",
+				"ghost",
+				"pipe",
+				"cyclone",
+				"soul_ring"
+			],
+			"Assist your team!":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"courier",
+				"smoke_of_deceit",
+				"dust",
+				"flying_courier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The Blink Dagger is absolutely essential on Enigma, due to the fact that this item will allow him to properly initiate with Black Hole. Mind the 3 second cooldown brought about by taking enemy hero damage. This item offers great mobility and escape. It may be worth it to acquire Mekansm before this.",
+				"magic_stick":"Like the Magic Wand, but less effective. At max charges this item restores 150 health and mana which can be beneficial for giving you mana or health you might need in an emergency.",
+				"magic_wand":"One of the most overlooked items by lower-level players, the magic wand offers a few stats for the early game. The active can save your life in a pinch. At max charges the wand will restore 225 health and mana which could give you just enough mana for another spell, or just enough health to escape.",
+				"ghost":"This item is extremely useful versus enemy carries that attempt to right-click you to death. You are unable to be auto-attacked while in Ghost Form, but be aware that you will take much more magic damage while using this item.",
+				"clarity":"Having two clarities at the beginning of the game should be enough to see you through until you acquire Arcane Boots (or a Soul Ring). Keep in mind the restoration effect is lost if you take damage.",
+				"dust":"Dust is always handy for catching invisible heroes unaware. Note that diffusal blade carriers can purge themselves or the dust debuff, but at the cost of a diffusal charge.",
+				"ward_observer":"If your team needs them, buy them.",
+				"ward_sentry":"Useful for pushing against, or defending against, an invisible hero like Rikimaru or Bounty Hunter. If it would help your team, you should buy these.",
+				"courier":"In the event that nobody on your team picks up a courier, Enigma definitely should. Playing without a courier is a poor choice and will lead to a strenuous early game. Skip the ring of protection for basilius and grab the sage's mask.",
+				"travel_boots":"In the late game, it may be beneficial to sell your arcane boots and pick these up. These will help you get around the map quickly and assist you with pushing and defending. Boots of travel are very versatile and can be especially potent since you can teleport onto your own Eidolons.",
+				"energy_booster":"It is recommended that you pick this item up before the boots of speed themselves when building arcane boots.",
+				"mekansm":"If there are no other heros on your team who plan to get Mekansm, you must. This item is absolutely essential for all teams. The +250 AoE heal offers a huge advantage in teamfights if acquired before the other team. In certain instances, this item takes priority over Blink Dagger.",
+				"flying_courier":"If the supports on your team are strapped for cash, feel free to help them out by purchasing the flying courier for them. The flying courier is a necessity as it makes courier sniping much more difficult and allows items to be devlivered more quickly.",
+				"ring_of_basilius":"While preferential, purchasing an early Ring of Basilus allows for some reliable mana regeneration as well as an armor buff for your Eidolons. This item provides more forgiveness for mistakes with Eidolon micromanagement.",
+				"pipe":"This is a must-have item if nobody else on your team picks it up. Additionally, it also helps versus teams with high magic damage trying to nuke you. The active offers your team a good deal of magic damage absorption but it must be used preventatively.",
+				"sheepstick":"This item offers excellent crowd control (hex) and a sizeable amount of intelligence and mana regeneration. Every team should try and have one of these so if the gold is available, purchase one.",
+				"cyclone":"This item offers crowd control, movespeed, and stats relevant to Enigma all for only 2800 gold. This item may be useful to get if it is unlikely that you get a Scythe of Vyse. The cyclone effect can be used on all enemies or yourself. It is able to disjoint enemy projectiles.",
+				"refresher":"This item is probably the most important luxury item on Enigma. With this item you can extend the duration of Black Hole to eight (8) seconds. Make sure not to cancel the first Black Hole early when using this item and beware of its enormous mana cost.",
+				"black_king_bar":"An essential Enigma item that allows you to Black Hole where you would otherwise be stunned or controlled in some way. This item offers Enigma a good chunk of health and the active blocks all incoming magical damage and crowd control. Crowd control from ultimates still pierces BKB.",
+				"shivas_guard":"This item makes Enigma significantly more tanky through its high armor value and offers good intelligence. The active makes the ability excellent for chasing, escaping, and for a little post-Black Hole control.",
+				"soul_ring":"This item is very good on Enigma. It ensures a good source of mana. This build is more focused around fast Arcane Boots and Blink Dagger but getting  Soul Ring can be beneficial if it suits your playstyle. When used at full mana, a mana buffer is created allowing you to spend 150 mana with no loss.",
+				"arcane_boots":"In this build I've opted for fast Arcane Boots over a Soul Ring. This build will benefit your team a little more in the early game than a Soul Ring will but depending on the situation it is advised to purchase a Soul Ring. With these boots, you essentially have unlimited mana for farming.",
+				"smoke_of_deceit":"A smoke gank can be effective method of turning a game around quickly. Smoke provides a 15% move speed buff and temporary invisibility that break when close to enemy heroes. Use smoke to surprise your enemies or pass by observer wards unseen."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_demonic_conversion",
+			"8":"enigma_malefice",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"enigma_midnight_pulse",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"attribute_bonus",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_malefice":"Malefice is one of the best abilities in the game for preventing enemy heros from escaping. Since the ability acts as a damage over time with a multiple stun component it can easily interrupt channeled abilities and teleports.",
+				"enigma_demonic_conversion":"Eidolons will be the main source of your jungling ability and pushing power. Each Eidolon must attack six times before it splits so it is important to individually move low-health Eidolons away from danger to ensure they reach six attacks.",
+				"enigma_midnight_pulse":"This ability is extremely powerful against heros with high health pool because the damage is percent based  and as such, will hit very hard against these heros. This ability is excellent to drop on your own towers to prevent a push from the enemy.",
+				"enigma_black_hole":"The signature ability of Enigma, the Black hole is a channeled, AoE 4 second disable that deals damage and pulls enemys in a decently sized radius towards the center. This ability is literally a game changer, as a good black hole can win a game singlehandedly. Aim for as many targets as possible.",
+				"attribute_bonus":"Stats do not become important for Enigma until the latest point due to the fact that his abilities are so strong. Neglect points in this area until all other skills are maxed."
+		}
+	}
+}

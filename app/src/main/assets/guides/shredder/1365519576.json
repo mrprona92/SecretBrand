@@ -1,0 +1,98 @@
+{
+	"Hero":"shredder",
+	"Title":"I'm a Lumberjack and I'm Ok",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"cyclone"
+			],
+			"luxury":
+			[
+				"blink",
+				"force_staff",
+				"rod_of_atos",
+				"shivas_guard",
+				"black_king_bar",
+				"sphere",
+				"pipe",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you are a big fan of mobility, pick up a Blink Dagger.  This will give you the positioning you need to latch onto trees.  This is even more effective when you are trying to break into the opponents base.  You can bink in, then utilize the trees on the side to get off your Timber Chain.",
+				"stout_shield":"Stout Shield allows you to be a bit more tanky during the laning phase.  It is effective when you are solo in the long lane and need the survivability.",
+				"magic_wand":"Magic Wand is an awesome item on Timbersaw because you will always be front and center during fights.  The instant health / mana will allow you to pick up a kill or escape a situation.",
+				"clarity":"If you are long lane and want to pick up some Observer Wards to block creep camp spawns, skip the Clarity + 2 Branches and buy wards.",
+				"pipe":"Pipe is always a good choice if no one else is building it.  If you have the gold to do it, take advantage of it and help your team win.",
+				"cyclone":"Eul's is actually great for Timbersaw.  If gives you bonus move speed for positioning.  It gives you mana.  It also allows you to use the active to save yourself or to set up an opponent.  If you throw them into the tornado, you can easily line yourself up to get a full combo off on them.",
+				"force_staff":"Force Staff is a personal thing.  If you think you will be unable to purchase a Blink Dagger, go Force Staff.  The components will let you build it up easier over time.  It will give you additional positioning to be able to maximize your Timber Chain.",
+				"black_king_bar":"Pick this up if you feel that the opposing team is really shutting you down.  You will be able to get off your full combo of skills easily while you are magic immune.  ",
+				"shivas_guard":"Pick this up if your team has a lot of AOE damage.  You can jump into the middle of the fight, pop it off, and then allow your team to take advantage of the slowed opposition.",
+				"bloodstone":"After the 6.78 changes, this is not a necessity.  If you have an amazing start, go for it.  If you do not, your mana needs can be serviced by cheaper items.",
+				"sphere":"This is really rare to pick up, however if they have a major single target ability that is ruining your day...this will let you avoid it.  ",
+				"arcane_boots":"Pick up the Arcane Boots as soon as possible.  The mana will greatly help your ability to participate in fights and pick up kills.",
+				"rod_of_atos":"Rod of Atos is great if you want to beat a target down.  You can slow them, then drop Chakram on top of them.  Plus while they are slowed it will make your abilities easier to line up.  The stats will give you health and mana, both of which are pretty good I hear."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_reactive_armor",
+			"3":"shredder_timber_chain",
+			"4":"shredder_whirling_death",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"Whirling Death will give you a lot of burse damage through the mid game.  Between this, Timber Chain, and Chakram you should have enough damage to pick up kills / assists.",
+				"shredder_timber_chain":"Timber Chain is your bread and butter.  Use it every possible chance you get.  Early game it will allow you to escape ganks and the rest of the game it is a large portion of your damage.  Always pay attention to where trees are and how you can position yourself correctly.",
+				"shredder_reactive_armor":"Reactive Armor is what allows Timbersaw to be so effective in the long lane.  You can efficiently trade hits with an enemy and just regen the health back.  If you are being harassed a lot, go ahead and pick up Rank 2 at level 4.",
+				"shredder_chakram":"Chakram is what makes Timbersaw just work.  Being able to slow the enemy and then setting up your full combo of Whirling Death / Timber Chain can be deadly.  Be smart to where you throw it so you can maximize the damage and slow."
+		}
+	}
+}

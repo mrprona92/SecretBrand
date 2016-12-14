@@ -1,0 +1,132 @@
+{
+	"Hero":"witch_doctor",
+	"Title":"The PABLO SERIES Guide to Witch Doctor",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"flying_courier",
+				"gauntlets"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"tpscroll",
+				"bracer"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"cyclone",
+				"dagon",
+				"orchid",
+				"mekansm"
+			],
+			"Tryhard Tier":
+			[
+				"smoke_of_deceit",
+				"dust",
+				"ward_sentry",
+				"ward_observer"
+			],
+			"DAT MAKE A BIG MESS":
+			[
+				"ultimate_scepter",
+				"black_king_bar",
+				"shadow_amulet"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Wash and glove your hands before surgery, kids.",
+				"branches":"GG Branches, for GGs! Or Iron Branches, for iron? Grab these instead of a gauntlet.",
+				"circlet":"ANATOMY WITH PABLO 101: Does anyone know what part of the body this goes on? I don't. ",
+				"boots":"ONE FOR EACH FOOT, said no one ever.",
+				"magic_stick":"PABLO TRIVIA 347: Pablo thinks sticks are neat.",
+				"magic_wand":"MY MANA BOOTS (THAT I BOUGHT BECAUSE I FOLLOW THE BUILD) ARE ON CD WHAT DO I DO PABLO? Pop dat magic wand, son.",
+				"clarity":"Pablo uses only the freshest of FRESH POTS.",
+				"flask":"FOR MORE OF YOUR HEALTH",
+				"dust":"Want to be stylish like Pablo but still troll Drows dumb enough to buy Shadow Blade? BAM. DUSTY FANNYPACK. It's European.",
+				"ward_observer":"You know who hates Peekaboo? Pablo. YELLOW EYE STICK. Use these by the river to spot incoming ganks, and for blocking pull camps in lane. ",
+				"ward_sentry":"I AM FEEDING THIS *INVIS HERO* LIKE A NOOB, WAT DO PABLO? Blue Eye stick. TRYHARD BONUS QUEST: Deward your enemies! Killing wards lands you 50 gold. Fat stacks!",
+				"tango":"FOR YOUR HEALTH",
+				"courier":"Report yourself if you leave fountain without the team having a courier. ",
+				"tpscroll":"YO PABLO, WHAT IS THE BEST WAY TO SUDDENLY SHOW UP AND TROLL THE OTHER TEAM WITH PABLO SERIES GLORIOUS ULTS? TP scroll, boys.",
+				"phase_boots":"BUT PABLO, I WANT TO GET PHASE BOOTS. Don't get phase boots. FOLLOW THE GUIDE, IT'S THERE FOR A REASON. I get why you want to buy them, but mana boots are going to help you and your team more.",
+				"energy_booster":"MANA SHOES, MANA SHOES, DOES WHATEVER A MANA CAN.",
+				"bracer":"BUT PABLO, you say, THEY HARASS ME TOO HARD. Bam, Bracer, your move.",
+				"mekansm":"BUT PABLO, WHY ISN'T THIS CORE? I prefer leveling up Voodoo Restoration and use the gold you would have spent on this to get Aghanims. BUT PABLO, I REALLY WANT MEK. Okay, go for it, it's still a boss item. I ain't too mad.",
+				"flying_courier":"BUTTERFLY IN THE SKYYYYYYY",
+				"sheepstick":"Can you afford sheepstick? if yes: buy sheepstick. You can never have enough sheepsticks. All dem mad PABLO SERIES disables. Also cute little piggies.",
+				"orchid":"HEY PABLO, HOW CAN I BE SUPER ANNOYING AND DO EVEN MORE DAMAGE? Orchid their face, yo. What are they going to do about it? Nothing, they are silenced and taking mad damage. It's like a second maledict, kinda!",
+				"cyclone":"BUT I WANTED TO PLAY INVOKER, LIKE PABLO. Now you can tornado, too! Also I am terrible at Invoker, please report me if I am playing Invoker. use this to buy you some setup time for your standard cask-maledict-ult combos",
+				"dagon":"I'M BUYING DAGON BECAUSE PABLO SAID SO. Never actually do this. Dagon is used exclusively for ksing your closest friends while stomping in pubs. Consider yourself reported otherwise.",
+				"ultimate_scepter":"You may be asking yourself, HOW DO I MAKE BIG PLAYS LIKE PABLO? Big Plays Stick, kid. Use your PABLO SERIES GLORIOUS ULTS to acquire the currency to get this. This is basically a core item if you can afford it.",
+				"black_king_bar":"I know, I know. You want to make big plays, while having the free time to chat up the ladies, like Pablo. BOOM! BKB, son. BUT PABLO, I WANT A SHADOW BLADE. Garbage item, you get more out of a BKB and still get to cast your ult while being untouchable.",
+				"invis_sword":"HEY YOU. YEAH, YOU. LOOK HERE. WHY ARE YOU EVEN LOOKING AT THIS. 1) Anyone above HOW DO I SHOT WEB level will buy dust against you. 2) Shadow Amulet gives you the same hilarious ult powers and is cheaper! Now go buy a BKB already. -PABLO, 2013",
+				"arcane_boots":"BUT I WANNA GET PHASE BOOTS, PABLO. 9 out of 10 doctors use Mana Boots (TM). You and your team will benefit more from these than phase. CAN'T GLORIOUS ULT WITH NO MANA.",
+				"smoke_of_deceit":"Don't ask Pablo what is in this, just use it allday erryday if you are going SUPER TRYHARD. Great for setting up the perfect cask-maledict-ult combo of victory.",
+				"shadow_amulet":"BUT PABLO, INVIS ITEMS ARE FOR SCRUBS! Correct! If you get this and they buy truesight, you have wasted 1600 gold. Never build this into a Shadowblade."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"witch_doctor_paralyzing_cask",
+			"2":"witch_doctor_maledict",
+			"3":"witch_doctor_paralyzing_cask",
+			"4":"witch_doctor_voodoo_restoration",
+			"5":"witch_doctor_paralyzing_cask",
+			"6":"witch_doctor_death_ward",
+			"7":"witch_doctor_paralyzing_cask",
+			"8":"witch_doctor_maledict",
+			"9":"witch_doctor_maledict",
+			"10":"witch_doctor_maledict",
+			"11":"witch_doctor_death_ward",
+			"12":"witch_doctor_voodoo_restoration",
+			"13":"witch_doctor_voodoo_restoration",
+			"14":"witch_doctor_voodoo_restoration",
+			"15":"attribute_bonus",
+			"16":"witch_doctor_death_ward",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"witch_doctor_paralyzing_cask":"PABLO SAYS: Stun early, stun often. Max this first, use it when away from creeps for MAXIMUM OH LOOK AT IT GO!",
+				"witch_doctor_voodoo_restoration":"HOW CAN I BE SO FIT AND HEALTHY LIKE PABLO? Grab one of these things! You won't need it until level 4 as your starting gold regen should last you this long. Later in the game with your Mana Boots and Ags, you should have no problem having the mana pool to support having this on during all fights.",
+				"witch_doctor_maledict":"WAIT FOR IT WAIT FOR IT. Grab this second. Drop onto any heroes who are going to take damage. Always use maledict before casting your ult!",
+				"witch_doctor_death_ward":"Cask, Maledict, BIG PLAYS. I'm not going to say best ult in the game, but best ult in the game.",
+				"attribute_bonus":"PABLO NO GOOD WITH NUMBERS"
+		}
+	}
+}

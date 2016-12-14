@@ -1,0 +1,125 @@
+{
+	"Hero":"invoker",
+	"Title":"Grimorum: v6.82b: 4-0-4-1",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"gauntlets",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"tpscroll",
+				"magic_wand",
+				"clarity",
+				"urn_of_shadows"
+			],
+			"Mid Game: Choose one or two":
+			[
+				"necronomicon",
+				"force_staff",
+				"rod_of_atos",
+				"cyclone",
+				"blink",
+				"ancient_janggo"
+			],
+			"Late Game: Aghanim before Refresher":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"travel_boots",
+				"sphere",
+				"black_king_bar",
+				"sheepstick",
+				"ghost",
+				"skadi"
+			],
+			"Buy if under 6 min.  Deadline = 10th min":
+			[
+				"hand_of_midas"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Great mobility item in conjunction with force staff. Decent item to assist you in positioning for ice wall, cold snap, etc. I prefer forcestaff in most occasions. However, this item works well with max exort skill build. Eul/SS/Meteor/Blast deals about 1100 damage after reductions. Dagger can help y",
+				"ghost":"Good stats gain and survivability against Ursa, SA, Huskar, etc.",
+				"tango":"- Charges increased from 3 to 4
+- Gold cost increased from 90 to 125
+- Is no longer shareable
+- Tango can be targeted on an allied hero to create a 1 charge non-stacking tango item in their inventory. If the inventory is full, the item will be placed on the ground. This item has a 60s cooldown.",
+				"travel_boots":"- Now prioritizes nearby structures first within 325 AoE from targeting position (when ground targeted)",
+				"phase_boots":"Phase Boots is very helpful against SF and Bloodseeker in mid lane.",
+				"hand_of_midas":"Get this item if you can do so around the 6th minute. Otherwise, forget it. Invoker is more concerned about levels than gold, so transmute level six creeps for 2.5x the experience! Note: an entire set of beginning creep wave gives 227 XP. Transmuting with Midas on a level 6 creep gives 297 XP!",
+				"null_talisman":"6.79 has made Nulls and Wand more important for Invoker due to roaming supports and invoker's new buff:
+- Invoke Max Spells rescaled from 1/2/2/2 to 2",
+				"urn_of_shadows":"Urn Charge triggers Cold Snap multiple times!",
+				"sheepstick":"Best item for ganking. Very costly, but it is worth the price. Get this item before Aghanim Scepter if you are desperate to end the game.",
+				"cyclone":"Great item for any invoker build. However, it does not solve the low damage output of wex invoker. The 2.5 second lift duration is a perfect setup for sunstrike, meteor, and blast combo (Around 1100 damage after reduction). Also works great with dagger; Eul's 2.5 second invulnerability will buy time",
+				"force_staff":"Great item for the team! This item has the most flexibility. Highly recommended against Stealth Assassin, nature's prophet, and clock. In addition, you can push enemies out of position, save your team, force enemy onto impassable terrain, etc. If you have fast reflexes, Force Staff yourself to dodge",
+				"necronomicon":"Amazing synergy with spirits/snap combo. True sight makes this item very useful against TA/BH etc. Great defense against Pudge's hooks. 4 summons and Cold Snap will likely kill your target. 4 summons plus alacrity can hurt towers real good.",
+				"ultimate_scepter":"This is my favorite item. However, Doom, Silencer, Nyx, OD, and NS counters this item. I like to get this item after one of the following: Force Staff, Drums of Endurance, Euls Scepter, Rod of Atos, or Orchid Malevolence.",
+				"refresher":"I discourage 99% of invoker users to get this item. It is highly situational and requires perfect spell executions as well as positioning. Furthermore, BKB users will laugh in your face. You will need a minimum of 1700 mana to make good use of this item.",
+				"black_king_bar":"Great item for the Hybrid invoker. Activate this item after Silencer uses his ultimate. Enemies will charge in thinking they have impunity. Now is your best chance to Tornado, Meteor, Blast, and Ice Wall. On the other hand, if you activate BKB too early, Silencer can penetrate your BKB with ultimate",
+				"sphere":"Great item against Doom, Nyx, and sudden Hex/Orchid. However, this item is very costly.",
+				"skadi":"Slow effect penetrates magic immune heroes! Very good item choice to counter back! If many opponents have magic immunity, consider skipping aghanim scepter all together.",
+				"rod_of_atos":"Works supremely well for the hybrid invoker. Unfortunately, Force Staff and blink counters this item. I find this item a lifesaver against Nyx Assassin. The active slow ignores spiked carapace, and the extra health helps invoker to survive Nyxs deadly combo.2"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_exort",
+			"2":"invoker_quas",
+			"3":"invoker_invoke",
+			"4":"invoker_exort",
+			"5":"invoker_exort",
+			"6":"invoker_quas",
+			"7":"invoker_quas",
+			"8":"invoker_exort",
+			"9":"invoker_quas",
+			"10":"invoker_wex",
+			"11":"invoker_exort",
+			"12":"invoker_exort",
+			"13":"invoker_exort",
+			"14":"invoker_invoke",
+			"15":"invoker_invoke",
+			"16":"invoker_wex",
+			"17":"invoker_invoke",
+			"18":"invoker_wex",
+			"19":"invoker_wex",
+			"20":"invoker_wex",
+			"21":"invoker_wex",
+			"22":"invoker_wex",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		},
+		"AbilityTooltips":
+		{
+				"invoker_cold_snap":"Cold Snap has 1000 range, but Invokers attack range is 600. If Quas is low level, cast Cold Snap with a distance around 300 or your next attack will not trigger Cold Snap because it will be on cooldown. Most of the time, it is a good idea to use animation canceling during Cold Snap's duration. Damag",
+				"invoker_ghost_walk":"Ghost walk can dodge certain projectiles. Invoke interrupts TP scroll, but Ghost Walk does not. Ghost Walk's slow aura is not blocked by magic immunity! In the lane phase, if you have QQQ orbs active, you could quickly hit WRV to Ghost Walk. Eul self, then shift QQWR works in Dota 1, but not in Dota",
+				"invoker_tornado":"Tornado can be used to stack creep camps by lifting them in at the spawn time. Tornado is a good spell to have ready against Pudge. If hooked, Tornado nearby anywhere asap and you can prevent Dismember. Tornado also gives a great area of vision! You can use it for Sun Strikes or hunt heroes in the t",
+				"invoker_emp":"Works great with Eul's scepter or two second stuns by allies. If someone is using TP scroll with low health, but your Sun Strike will not hit him/her before he/she TP, then target near the fountain instead. Bloodseeker may discreetly guide your Sun Strikes with vision. Sun Strikes provides XP if you",
+				"invoker_alacrity":"Besides your team carry, Alacrity on Forge Spirits or siege creep is a great way to push towers from a distance. Make sure to put Alacrity on Void.",
+				"invoker_chaos_meteor":"Meteor provides a small vision; Cold Snap quickly! Double Meteor does not stack anymore; however, if you keep the distance between two Meteors more than 300, Meteor will deal 90% or more of it's damage. Meteor with one level of Exort can be used as a scare tactic (Do not consider this without Aghani",
+				"invoker_forge_spirit":"This build focuses in double forge spirits by level 9.
+Spirits with 6 levels of quas attacks further than towers. Send a Forge Spirit to destroy bottom rune at the 46th second and grab top rune at 55th second (during lane phase)",
+				"invoker_ice_wall":"If Ice Wall deals 10 or more damage after reduction, it will trigger Cold Snap. Ice wall with two or more Exort will remove Templar Assassins refraction every second. Casting ice Wall in front of your tower can provide a great defense. Although opposing heroes are unlikely to be caught, you can dest",
+				"invoker_deafening_blast":"This spell can push opponents on/off cliffs.
+Deaf Blast can counter BKB.  Disarm is not removed after BKB activation.  Blast is a great spell to combo with Sun Strike. Blast can also be used to &quot;PULL&quot; targets! Use Tornado or Eul first, then time blast so that target gets hit by back end of blast."
+		}
+	}
+}

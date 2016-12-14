@@ -1,0 +1,93 @@
+{
+	"Hero":"puck",
+	"Title":"Puck - The slippery faerie dragon",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"mantle",
+				"mantle",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"bottle",
+				"arcane_boots",
+				"blink"
+			],
+			"Extension":
+			[
+				"sheepstick",
+				"mekansm",
+				"shivas_guard",
+				"cyclone"
+			],
+			"Luxury":
+			[
+				"dagon",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"One very important core item. This allows you to blink in and immediately silence the enemy + hold them in place with your ultimate.",
+				"mantle":"When you are mid (hopefully) you can think about skipping a mantle for a fast bottle.",
+				"bottle":"Puck is a mid hero and can control runes very easily - thats why bottle is your friend.",
+				"mekansm":"This is situational of course. Puck is a good Mek carry since he has a quite high mana pool.",
+				"sheepstick":"Hex is a great item for puck as it allows you to burst down heroes that may otherwise escape.",
+				"cyclone":"With Eul and Blink dagger you are almost unkillable. If the enemies have a lot of disables you could consider this (or as a cheaper alternative for hex).",
+				"dagon":"If you want to go all out damage - this item is not a bad choice.",
+				"ultimate_scepter":"Not very common - but the bonus stat and improved ultimate can be worth the money.",
+				"shivas_guard":"Shiva synergises very well with puck. With his blink abilities he can ensure to hit a lot of enemies with shivas blast. The other attributes (mana+int) help him as well.",
+				"arcane_boots":"Since puck is very maneuverable with his orb - boots don't have a very high priority. BUT if you have mana issues you should definitely get arcanes quite early."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_phase_shift",
+			"3":"puck_illusory_orb",
+			"4":"puck_waning_rift",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"Orb is your primary nuke in this build - max it first for maximum damage",
+				"puck_waning_rift":"As your secondary damage spell - max it after orb.",
+				"puck_phase_shift":"One level in phase shift early should be enough to avoid most ganks.",
+				"puck_dream_coil":"Well it is your ultimate ... so skill it whenever possible."
+		}
+	}
+}

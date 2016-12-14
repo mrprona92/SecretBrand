@@ -1,0 +1,79 @@
+{
+	"Hero":"windrunner",
+	"Title":"Windranger make a First Blood! (Carry build) ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"null_talisman"
+			],
+			"PH mod ON":
+			[
+				"phase_boots",
+				"bottle",
+				"force_staff",
+				"tpscroll"
+			],
+			"AB mod ON":
+			[
+				"arcane_boots",
+				"force_staff",
+				"tpscroll"
+			],
+			"Basic  + PH or AB ":
+			[
+				"lesser_crit",
+				"desolator",
+				"greater_crit",
+				"monkey_king_bar",
+				"tpscroll"
+			],
+			"Situation items":
+			[
+				"mask_of_madness",
+				"bottle",
+				"butterfly",
+				"rapier"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_shackleshot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_shackleshot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_powershot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_windrun",
+			"13":"windrunner_windrun",
+			"14":"windrunner_focusfire",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

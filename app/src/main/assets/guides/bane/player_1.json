@@ -1,0 +1,46 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "bane_brain_sap",
+        "2": "bane_nightmare",
+        "3": "bane_brain_sap",
+        "4": "attribute_bonus",
+        "5": "bane_brain_sap",
+        "6": "bane_fiends_grip",
+        "7": "attribute_bonus",
+        "8": "attribute_bonus",
+        "10": "attribute_bonus",
+        "11": "attribute_bonus",
+        "12": "attribute_bonus",
+        "13": "bane_fiends_grip",
+        "14": "attribute_bonus",
+        "15": "attribute_bonus",
+        "16": "attribute_bonus",
+        "17": "attribute_bonus",
+        "18": "bane_fiends_grip",
+        "19": "bane_nightmare",
+        "20": "bane_nightmare",
+        "21": "bane_nightmare",
+        "22": "bane_enfeeble",
+        "23": "bane_enfeeble",
+        "24": "bane_enfeeble",
+        "25": "bane_enfeeble"
+    },
+    "AbilityTooltips": {
+        "bane_nightmare": "спасет от бешеного врага "
+    }
+}, "Hero": "bane", "ItemBuild": {
+    "ItemTooltips": {
+        "courier": "порадуем тиму",
+        "necronomicon": "можно завалить сразу пару героев",
+        "oblivion_staff": "можно собрать по желанию не плохие посохи",
+        "force_staff": "неплохо замедлить убегающего врага",
+        "mekansm": "неплохо восстанавливает хп если нету манны"
+    },
+    "Items": {
+        "начальная": ["courier", "boots"],
+        "для ранний игры": ["tpscroll", "quarterstaff", "phase_boots"],
+        "основные": ["oblivion_staff", "mekansm", "necronomicon"],
+        "по обстоятельствам": ["ultimate_scepter", "blink", "force_staff", "necronomicon_3", "shivas_guard"],
+        "мой набор": ["ultimate_scepter", "mekansm", "arcane_boots", "oblivion_staff", "magic_wand"]
+    }
+}, "Title": "bane_rak_evildgl"}

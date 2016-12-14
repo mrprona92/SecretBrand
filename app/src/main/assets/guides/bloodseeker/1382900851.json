@@ -1,0 +1,77 @@
+{
+	"Hero":"bloodseeker",
+	"Title":"GreyShark.Bloodseeker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Game":
+			[
+				"bfury",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"black_king_bar",
+				"basher",
+				"greater_crit"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"abyssal_blade"
+			],
+			"Situation ":
+			[
+				"ethereal_blade",
+				"radiance",
+				"hand_of_midas"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bloodseeker_blood_bath",
+			"2":"bloodseeker_thirst",
+			"3":"bloodseeker_blood_bath",
+			"4":"bloodseeker_thirst",
+			"5":"bloodseeker_blood_bath",
+			"6":"bloodseeker_rupture",
+			"7":"bloodseeker_blood_bath",
+			"8":"bloodseeker_thirst",
+			"9":"bloodseeker_thirst",
+			"10":"bloodseeker_bloodrage",
+			"11":"bloodseeker_rupture",
+			"12":"bloodseeker_bloodrage",
+			"13":"bloodseeker_bloodrage",
+			"14":"bloodseeker_bloodrage",
+			"15":"attribute_bonus",
+			"16":"bloodseeker_rupture",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,117 @@
+{
+	"Hero":"death_prophet",
+	"Title":"iFeed's Guide to Death Prophet ( SOLO MID )",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"point_booster"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"phase_boots",
+				"heart"
+			],
+			"luxury":
+			[
+				"rod_of_atos",
+				"black_king_bar",
+				"ghost",
+				"medallion_of_courage",
+				"shivas_guard",
+				"ancient_janggo",
+				"skadi",
+				"heavens_halberd",
+				"veil_of_discord",
+				"refresher",
+				"sheepstick",
+				"urn_of_shadows"
+			],
+			"Luxary items":
+			[
+				"assault",
+				"blade_mail",
+				"travel_boots",
+				"medallion_of_courage"
+			],
+			"Supporting Items":
+			[
+				"ward_observer",
+				"courier",
+				"flying_courier",
+				"ward_sentry",
+				"dust",
+				"smoke_of_deceit",
+				"gem",
+				"mekansm",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Death Prophet is rather squishy early game and can get nuked down pretty easly. This item will solve most of your health and mana problems if you have rune control. It will also open up ganking opportunitys ",
+				"phase_boots":"This item is not used for the damage as much since you should have enough mana by this point to spam spells but more for the movement speed. If you have enough gold for \"Boots of travel\", i would suggest them instead.",
+				"point_booster":"This item helps with Death prophets squishyness and mana problems. If you are going more a farming role you can focus on other items for the bloodstone depending on the situation.",
+				"heart":"This item is fantastic on death prophet. The longer you stay alive in team fights the more damage you do with your ultimate, this item is pretty much as good as it gets. Once you have these core items you should play highly aggresive ( BUT DONT DIE ! )",
+				"bloodstone":"This is Death Prophets primary item, once getting this item you can pretty much spam your spells all day long without worrying about mana. After this item you need to tank up.",
+				"blade_mail":"You are tanky and you want to take the nuke damage so why not reflect it back? :D",
+				"arcane_boots":"Arcane boots will give you mana regeneration until you get your Bloodstone. You will need to disemble your Arcane boots to finish your bloodstone saving yourself 1000 gold. Then buy Phase boots.",
+				"medallion_of_courage":"Death prophets ultimate deals physical damage meaning if the targets armor is low it does more damage, Medalion is underated and is actually more effective then you may think.",
+				"rod_of_atos":"This item is great for DP, it gives health and mana while providing a massive slow to really focus your DPS"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_witchcraft",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_witchcraft",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_silence",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_carrion_swarm":"This skill is your bread and butter for the hero. Once you have blood stone you should spam this skill as much as possible, sucking up all the gold and dealing mass damage to enemy heros.",
+				"death_prophet_silence":"If you are laned with a nuker i recommend getting this skill earlyer then stated in the guide.",
+				"death_prophet_exorcism":"*PRO TIP* When your ultimate ends the spirits regain alot of your health at level 2 and 3. If you are tanky you can run away with low health waiting for your ultimate to finish so you can go back in the fight with full HP and wreck the enemy team. Luring enemys with this technique works great"
+		}
+	}
+}

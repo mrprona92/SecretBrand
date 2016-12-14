@@ -1,0 +1,118 @@
+{
+	"Hero":"legion_commander",
+	"Title":"SNOWBALL [Allifreyr]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"magic_wand",
+				"armlet",
+				"assault"
+			],
+			"Late Game":
+			[
+				"blade_mail",
+				"desolator"
+			],
+			"luxury":
+			[
+				"mjollnir",
+				"black_king_bar",
+				"abyssal_blade",
+				"satanic",
+				"blink",
+				"monkey_king_bar",
+				"medallion_of_courage",
+				"greater_crit",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Might be useful on some situations when you need to get up close to your enemy and duel.
+
+If you want to snowball fast during the early stages then this is the way to go.",
+				"assault":"Assault Cuirass is amazing on you. Get it as soon as you can. The aura works while Duelling and it gives lots of Armor and Attack Speed.",
+				"heart":"Who doesn't love heart?",
+				"black_king_bar":"Really great if the enemy team has a lot of disables as an example.
+
+Only use this before a duel if you are afraid someone might nuke you while you're dueling (example: Lina's ulti).",
+				"blade_mail":"Great item, works well vs physical heroes with a lot of damage & reflects damage on nukers and such",
+				"greater_crit":"Helps you wipe the enemy team after winning many duels.",
+				"armlet":"Use this and Press the Attack before a duel.",
+				"satanic":"Lifesteal works really well with Legion Commander.",
+				"mjollnir":"I highly recommend Mjollnir, you might even want it over Desolator. It's situational.",
+				"desolator":"Huge advantage in duels and is overall awesome on her. Get this or Mjollnir.",
+				"medallion_of_courage":"Medallion Of Courage is a really useful item. If you find yourself with either great quantity of Gold or with terribly low quantity then get it. Gives Mana Regeneration, which you need, and it's Armour reducing skill is a great addition for Duel.",
+				"heavens_halberd":"Heaven's Halberd is your next item. Disarm the target and proceed to own with Duel.
+
+Note that the Evasion does not work when Duelling."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"legion_commander_press_the_attack",
+			"2":"legion_commander_moment_of_courage",
+			"3":"legion_commander_overwhelming_odds",
+			"4":"legion_commander_press_the_attack",
+			"5":"legion_commander_moment_of_courage",
+			"6":"legion_commander_duel",
+			"7":"legion_commander_press_the_attack",
+			"8":"legion_commander_press_the_attack",
+			"9":"legion_commander_moment_of_courage",
+			"10":"legion_commander_moment_of_courage",
+			"11":"legion_commander_duel",
+			"12":"legion_commander_overwhelming_odds",
+			"13":"legion_commander_overwhelming_odds",
+			"14":"legion_commander_overwhelming_odds",
+			"15":"attribute_bonus",
+			"16":"legion_commander_duel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"legion_commander_overwhelming_odds":"Nuke and chase.
+
+Works really well against heroes such as Phantom Lancer.",
+				"legion_commander_press_the_attack":"Nice amount of heal, amazing attack speed and is able to remove debuffs/disables from allies.
+
+Use this before you duel.",
+				"legion_commander_moment_of_courage":"Helps you jungle, kill and survive. Works with any unique modifier.",
+				"legion_commander_duel":"This is what enables you to snowball.
+
+Use this wisely and coordinate with your team (both you and your enemy will be disabled for the duration), make sure you and your team kills the dueled target before the time runs out or before you die.
+
+It's often good to target low health enemies in a fight."
+		}
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"Hero":"beastmaster",
+	"Title":"6.82 - Standard Beastmaster (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"arcane_boots",
+				"ultimate_scepter"
+			],
+			"Ancient-Farming":
+			[
+				"bottle",
+				"soul_ring"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"mekansm",
+				"black_king_bar",
+				"necronomicon",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"shivas_guard",
+				"heart"
+			],
+			"Last updated: 4/10/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This will help improve your initiation by many folds if needed. With Aghanim's, you won't be as necessary, if you can't reach Aghanim's, Blink Dagger is a quick-fix.",
+				"mekansm":"Mekansm gives the pushing power that Beastmaster loves and keeps his team safe and sound in team-fights.",
+				"vladmir":"As a pusher and team-fighter, Vladmir's Offering suits the auras your team likes and desires early in the game.",
+				"pipe":"If no other support is getting it, pick this up as well.",
+				"necronomicon":"For further crowd-control, damage and stats gain: Necromonicon is right up Beastmaster's alley. The extra attack speed helps everyone on his team and in his arsenal (Boar)",
+				"ultimate_scepter":"Aghanim's Scepter on Beastmaster improves his ultimate stupendously. It improves range and cooldown to an acceptable level that really makes it potent in team-fights.",
+				"assault":"If not initiating, keep up the auras and damage-dealing with Assault Cuirass.",
+				"heart":"Beastmaster can be an incredible tank with Heart of Tarrasque. In combination with Shiva's Guard, Beastmaster becomes nearly unkillable a mean presence in fights.",
+				"shivas_guard":"With Beastmaster deep in battle and using his Boar to slow foes: Shiva's Guard would only heighten his presence and tankiness.",
+				"crimson_guard":"Crimson Guard is your team-fighting ability to provide further survivability with your team.",
+				"arcane_boots":"Be able to cast Mekansm and your abilities freely with Arcane Boots.",
+				"ancient_janggo":"Drums of Endurance is an early-game item that gives Beastmaster more mana, survivability and attack speed to gank foes with his ultimate.",
+				"heavens_halberd":"Shut down physical carries with this item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"beastmaster_wild_axes",
+			"2":"beastmaster_call_of_the_wild",
+			"3":"beastmaster_call_of_the_wild",
+			"4":"beastmaster_wild_axes",
+			"5":"beastmaster_wild_axes",
+			"6":"beastmaster_primal_roar",
+			"7":"beastmaster_wild_axes",
+			"8":"beastmaster_call_of_the_wild",
+			"9":"beastmaster_call_of_the_wild",
+			"10":"beastmaster_inner_beast",
+			"11":"beastmaster_primal_roar",
+			"12":"beastmaster_inner_beast",
+			"13":"beastmaster_inner_beast",
+			"14":"beastmaster_inner_beast",
+			"15":"attribute_bonus",
+			"16":"beastmaster_primal_roar",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"beastmaster_wild_axes":"Enemies can be hit twice with this attack. However each axe must touch the target. Use it for its range, to tear down trees and deal huge damage in team-fights.",
+				"beastmaster_call_of_the_wild":"Use the Hawk to scout for ganks, runes and areas you want to gank. It cannot be seen at its max level if kept still and is a great to tool to keep your allies aware of their surroundings.",
+				"beastmaster_call_of_the_wild_boar":"The Boar has an incredible slow that really keep foes at bay. Use it to target fleeing enemies or to diminish physical carry's attack speed.",
+				"beastmaster_inner_beast":"Great effect to help ally physical carries deal faster damage. We max it last due to Beastmaster's more appealing capabilities.",
+				"beastmaster_primal_roar":"This is a unit-target. You must target a specific unit for this ability to work. Try and target an enemy at an angle that affects the most enemy heroes."
+		}
+	}
+}

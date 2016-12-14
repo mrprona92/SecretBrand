@@ -1,0 +1,127 @@
+{
+	"Hero":"tusk",
+	"Title":"Tusk -- Burst damage semi-carry build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"tango",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"urn_of_shadows",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"armlet"
+			],
+			"Luxury items":
+			[
+				"desolator",
+				"assault",
+				"heart",
+				"rapier",
+				"monkey_king_bar"
+			],
+			"Situational items":
+			[
+				"heavens_halberd",
+				"invis_sword",
+				"black_king_bar",
+				"shivas_guard"
+			],
+			"Cheap items":
+			[
+				"medallion_of_courage",
+				"ancient_janggo",
+				"orb_of_venom"
+			],
+			"DO NOT EVER EVER EVER":
+			[
+				"mask_of_madness",
+				"sange_and_yasha",
+				"greater_crit"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Build these into your urn.",
+				"boots":"Every hero needs a good pair of boots, for chasing, for running away, and to protect their feet from the pointy stones they might step on.",
+				"flask":"Mixed regen is important. Using a salve when you only have 200hp missing is a waste, and when you have very little HP, using tangos is too slow.",
+				"bottle":"Tusk is a guy out for a good drink, and you should give him one, especially as he's such a mana thirsty guy.",
+				"tango":"You need lotsa regen as you'll probably get harassed a lot.",
+				"phase_boots":"For chasing and more burst damage with your ultimate. Treads are viable, but not preferable. Arcane boots if nobody in your team has picked them up, but generally, I like phase.",
+				"urn_of_shadows":"Every time you gank a guy you get a free salve, nice, right?",
+				"assault":"Not really needing the attack speed, but less armour for your enemies is great, and more armour for your team is even better.",
+				"heart":"Tank up, and more damage. If you're gonna be in the centre of a fight, you may as well be strong enough to survive.",
+				"black_king_bar":"Magic getting you down? Head on down to the Black King's Bar and immunity your sorrows away.",
+				"shivas_guard":"If you're gonna ball into the centre of a fight, why not have an AOE slow around you too? Quite difficult to farm for, but if you need better initiation, this thing will clean up fights.",
+				"rapier":"1200 potential ult damage. On the upside, it could absolutely destroy an enemy team. On the downside, you could drop it.",
+				"monkey_king_bar":"Lotsa damage.",
+				"greater_crit":"Doesn't stack with Walrus Punch. :c",
+				"armlet":"More than 60 damage for a STR hero for less than 3000 gold? Wowsers. That's 240 bonus damage to your ultimate.",
+				"invis_sword":"The 150 bonus damage isn't multiplied by Walrus PUNCH, but the mobility and potential scaring the hell out of people more than make up for that.",
+				"sange_and_yasha":"You don't benefit at all from the Yasha part, aside from the movement speed you can easily get elsewhere. Sange's maim is useless. Just don't.",
+				"desolator":"Less armour means more damage, and you're a burst damage... Smilodon... Walrus... thing.",
+				"mask_of_madness":"Tusk doesn't want nor need attack speed, and he's quite likely to die as is without the 30% damage amp's help.",
+				"orb_of_venom":"Stacks with your ulty's slow and is less than 300 gold. Simples!",
+				"ancient_janggo":"Every team should have atleast one drum, and you're quite a good holder for it. However, don't always aim for it, someone like Chen, or Rylai, might buy one, and both would probably make better use of it, so you can go ahead and buy some other stuff.",
+				"medallion_of_courage":"Mini-desolator. Not much else to say. ",
+				"heavens_halberd":"Strength for damage and surviability, evasion for survivability, and a disarm because enemy carries can go stick their heads in a walrus."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_ice_shards",
+			"2":"tusk_snowball",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_frozen_sigil",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tusk_ice_shards":"Careful with this skill! Like Earthshaker's great wall of oops-sorry-you-can't-get-away-from-the-tower, this skill can be as much of a help as a hinderance to your team, but it's a great nuke, and with some practice, you'll be able to easily land it every time.",
+				"tusk_snowball":"Maxing this and Ice Shards as soon as possible gives you the highest nuking potential, for bursting people into ult's 400% range. More stun length too!",
+				"tusk_frozen_sigil":"This thing feeds a heavy bounty, but is excellent in a team fight. Try and keep this thing out of the way, by default, it follows you, and will get stuck in your snowball.",
+				"tusk_walrus_punch":"SHOW ME YA MOVES
+
+Use this sort of like an infinitely scaling culling blade. As soon as someone hits 50% HP, use it. Remember it applies to magic immune targets, so you can use it on them too. I like to prep it before I ball in, so I don't accidentally not cast it.",
+				"attribute_bonus":"Get stats when you can't get skills. No skill is less valuable than stats."
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_nevermore",
+	"Title":"Recommended items for Nevermore",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"flask",
+			"tango",
+			"slippers",
+			"slippers",
+			"branches"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"power_treads",
+			"black_king_bar",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"invis_sword",
+			"assault",
+			"greater_crit",
+			"desolator",
+			"butterfly",
+			"monkey_king_bar",
+			"skadi"
+		]
+	}
+}

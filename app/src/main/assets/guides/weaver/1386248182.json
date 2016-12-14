@@ -1,0 +1,100 @@
+{
+	"Hero":"weaver",
+	"Title":"Weaver (HARD LANE) Нагибай-унижай",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"slippers",
+				"tango",
+				"circlet"
+			],
+			"10-15 мин":
+			[
+				"ring_of_aquila",
+				"boots",
+				"pers"
+			],
+			"Тотальное доминирование(15-35)":
+			[
+				"power_treads",
+				"sphere",
+				"vanguard",
+				"monkey_king_bar",
+				"lesser_crit"
+			],
+			"luxury":
+			[
+				"desolator",
+				"heart",
+				"butterfly",
+				"rapier",
+				"travel_boots",
+				"greater_crit",
+				"shivas_guard",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Покупаем для выживаемости, потом пригодится для Ring of Aquila",
+				"slippers":"Советую вместо этого взять рецепт Wraith Band, ведь после пары крипов можно зайти в боковую и прикупитьэтот предмет",
+				"circlet":"Прибавка к статам на первых уровнях пригодится, потом превращаем в Wraith Band, а уже потом в Ring of Aquila",
+				"boots":"Покупаем сапог для скорости, пока не апаем, но если на линии вас угнетают, то можно апнуть до Power Treads
+",
+				"tango":"А что можно написать про хилку? Она хилит...",
+				"travel_boots":"В замену Power Treads",
+				"power_treads":"Советую взять Power Treads, так как у вивера не лучший прирост силы, пока ставим на силу",
+				"pers":"После того как нафармим на этот артефакт, то фарм значительно облегчится",
+				"assault":"Как вариант в замену вангарда на позней стадии игры",
+				"heart":"В сочетании с вангардом или рёбрами, это полная выживаемость при дамажным прокастам со стороны врага",
+				"shivas_guard":"Очень помогает, если в стане врага кто то собрал некрачей, ведь вангард мгновенно уничтожает призваных существ",
+				"sphere":"Это класика, если в стане противника есть противные нюкеры (Nyx, Lion, тд.). Это наша основная защита против них, желательно собрать до 20 минуты!",
+				"vanguard":"Вот тоже хорошая защита против нюков с физ уроном, при хорошем фарме уже на 20 - 25 минутах он у нас в кармане, а также имеем в районе 2к хп",
+				"rapier":"GG WP",
+				"monkey_king_bar":"Если на 25-35 минутах вы собрали этот артефакт  то победа в кармане, но это если не тима раков за вас играет",
+				"lesser_crit":"Хороший предмет, но учтите что он не сочетается с пасивой вивера, то есть когда срабатывает пасивка, то крита не будет",
+				"desolator":"Дезолятор + кираса + МКБ = килл любого в считаные секунды",
+				"ring_of_aquila":"Один из главных артефактов для Вивера на первых уровнях"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"weaver_shukuchi",
+			"2":"weaver_geminate_attack",
+			"3":"weaver_shukuchi",
+			"4":"weaver_geminate_attack",
+			"5":"weaver_shukuchi",
+			"6":"weaver_time_lapse",
+			"7":"weaver_shukuchi",
+			"8":"weaver_geminate_attack",
+			"9":"weaver_geminate_attack",
+			"10":"weaver_the_swarm",
+			"11":"weaver_time_lapse",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"weaver_time_lapse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"weaver_the_swarm",
+			"24":"weaver_the_swarm",
+			"25":"weaver_the_swarm"
+		}
+	}
+}

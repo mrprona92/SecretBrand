@@ -1,0 +1,106 @@
+{
+	"Hero":"death_prophet",
+	"Title":"Speedy Team Fight/Pusher Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"mantle",
+				"mantle",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"pers"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"travel_boots",
+				"assault",
+				"shivas_guard",
+				"heart"
+			],
+			"luxury":
+			[
+				"pipe",
+				"blade_mail",
+				"black_king_bar",
+				"ancient_janggo",
+				"sheepstick",
+				"heavens_halberd",
+				"gem"
+			],
+			"If you have massive farm":
+			[
+				"radiance",
+				"rapier"
+			],
+			"Don't buy these":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"courier",
+				"flying_courier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gem":"The anti-stealth item of choice. Death Prophet is a great choice to carry a gem thanks to her very fast movement speed and heavy survival power.",
+				"ward_observer":"You're not a support so save your money for your core items. If the team argues with you about your role refer them to this guide.",
+				"travel_boots":"The bread and butter of this build. Boots of Travel will allow you to push, depush, and farm lanes. Combined with your passive the movespeed will also allow you to chase down any hero and escape from any bad situation. Best built right after finishing bloodstone.",
+				"pipe":"A good pickup if faced against magic damage heavy lineups that can ignore your armor and HP advantage (eg. Leshrac, Zeus, Lina, etc.). If survivability against nukers isn't a problem, skip it.",
+				"assault":"Death Prophet's ultimate is physical damage rather than magic. An assault curiass will enable your ultimate to do massive damage to even the most durable of heroes. The armor reduction aura also applies to buildings.",
+				"heart":"The holy grail of survival items. Gigantic HP boost as well as a huge regen bonus. The center-piece of your survival based item build.",
+				"shivas_guard":"Another tank item with several benefits. Shiva's gives you some extra AOE power while at the same time increasing not only your defensives but your team's by lowering the other team's attack speed. ",
+				"bloodstone":"Should be your first major pick up. Disassemble your mana boots to build this as early as possible. Bloodstone opens up the possibility of nonstop crypt wave spam which allows for excellent farming, harassing, and team fight power. Don't neglect the suicide button to deny yourself.",
+				"rapier":"Rub your crushing victory into the other team's collective faces. If you're at this point you shouldn't have any trouble killing anyone, but why take the risk of anyone surviving?",
+				"radiance":"If you've been utterly dominating in the farming and kills game and can get a radiance by the 25 or so minute mark it can be a fun item that will increase your  team fight presence even more. Skip otherwise.",
+				"arcane_boots":"These allow you to spam more waves early game for more farm + harass. They should be broken down and built into your bloodstone and boots of travel by mid game.",
+				"ancient_janggo":"The aura from drums is always welcome on any team. However, try to convince someone else to make these if you can to make room for more tank items.",
+				"heavens_halberd":"A great all around item when faced with a high DPS carry. The extra strength and evasion add to your survival power and the disarm active will allow you to cripple their own offensive power."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_silence",
+			"3":"death_prophet_witchcraft",
+			"4":"death_prophet_carrion_swarm",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_witchcraft",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

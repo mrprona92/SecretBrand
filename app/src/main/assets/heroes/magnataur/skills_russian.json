@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shockwave",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Magnus посылает ударную волну, нанося урон врагам на линии.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДИСТАНЦИЯ: <b><font color=\"#ffffff\">1150</font></b><br/>УРОН: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/90/90/90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10/9/8/7",
+        "lore": "Гора Йорлак всегда была весьма нестабильной, и Magnus научился направлять ее раскаты в нужном направлении.",
+        "hurl": "Magnus",
+        "name": "magnataur_shockwave",
+        "youtube":"FP8R8T5_kbc",
+        "id": 0
+    },
+    {
+        "dname": "Empower",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Дает союзнику дополнительный урон и прорубающую атаку.",
+        "notes": "Дополнительный урон подсчитывается на основе базового урона и урона от основной характеристики.<br/>Урон неосновным целям снижается типом брони, но не ее значением.<br/>Урон неосновным целям проходит через иммунитет к заклинаниям.<br/>Юниты дальнего боя не получат прорубающую атаку.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">40/40/40/40</font></b><br/>ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>УРОН СОСЕДНИМ ЦЕЛЯМ: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/40/50/60<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Могучим утробным рыком Magnus демонстрирует свою недюжинную силу.",
+        "hurl": "Magnus",
+        "name": "magnataur_empower",
+        "youtube":"xjkhguSB_xY",
+        "id": 1
+    },
+    {
+        "dname": "Skewer",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Magnus бросается вперед, пронзая врагов своим массивным бивнем. Если на пути попадутся вражеские герои, то их отталкивает к месту назначения, после чего они получат урон и будут замедлены.",
+        "notes": "Не действует на врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "СКОРОСТЬ: <b><font color=\"#ffffff\">950</font></b><br/>РАССТОЯНИЕ: <b><font color=\"#ffffff\">750/900/1050/1200</font></b><br/>ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">40%/40%/40%/40%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">2.5</font></b><br/>УРОН: <b><font color=\"#ffffff\">70/140/210/280</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/80/80/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30",
+        "lore": "Рога магноцеросов очень дороги. Их ценность пропорциональна опасности, которой себя подвергают предполагаемые продавцы.",
+        "hurl": "Magnus",
+        "name": "magnataur_skewer",
+        "youtube":"8zXtB2Ip1w8",
+        "id": 2
+    },
+    {
+        "dname": "Reverse Polarity",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Magnus изменяет свойства материи, притягивая всех врагов на позицию перед собой и оглушая их мощным хлопком, а также при этом нанося им урон.",
+        "notes": "Оглушение и стяжка проходят сквозь невосприимчивость к заклинаниям.",
+        "dmg": "",
+        "attrib": "РАДИУС ПРИТЯЖЕНИЯ: <b><font color=\"#ffffff\">410</font></b><br/>УРОН: <b><font color=\"#ffffff\">50/125/200</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ ГЕРОЕВ: <b><font color=\"#ffffff\">2.25/3/3.75</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ КРИПОВ: <b><font color=\"#ffffff\">3/4/5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/250/300<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/110/100",
+        "lore": "Magnus сражается с яростью извергающейся горы Йорлак.",
+        "hurl": "Magnus",
+        "name": "magnataur_reverse_polarity",
+        "youtube":"PMBM_CbFlyM",
+        "id": 3
+    }
+]

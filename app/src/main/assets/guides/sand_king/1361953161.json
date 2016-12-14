@@ -1,0 +1,81 @@
+{
+	"Hero":"sand_king",
+	"Title":"Sand King Top/Bot by Zibi17k",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"bottle"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"belt_of_strength",
+				"gloves",
+				"blink",
+				"black_king_bar"
+			],
+			"Next Items":
+			[
+				"point_booster",
+				"staff_of_wizardry",
+				"ogre_axe",
+				"blade_of_alacrity"
+			],
+			"Late Items":
+			[
+				"heart",
+				"shivas_guard"
+			],
+			"Your Choice":
+			[
+				"black_king_bar",
+				"blade_mail"
+			]
+		},
+		"ItemTooltips":
+		{
+				"black_king_bar":"If a lot of stuners and nukers
+If no buy Blade Mail",
+				"blade_mail":"If no buy Black King Bar
+If a lot of dps enemy"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_sand_storm",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_sand_storm",
+			"9":"sandking_sand_storm",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_caustic_finale",
+			"13":"sandking_caustic_finale",
+			"14":"sandking_caustic_finale",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

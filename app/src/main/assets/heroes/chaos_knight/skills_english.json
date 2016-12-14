@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Chaos Bolt",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Throws a mysterious bolt of energy at the target unit. It stuns for a random duration and deals random damage.",
+        "notes": "The stun duration and damage values dealt are inversely related.",
+        "dmg": "",
+        "attrib": "MINIMUM STUN: <b><font color=\"#ffffff\">1/1/1/2</font></b><br/>MAXIMUM STUN: <b><font color=\"#ffffff\">2/3/4/4</font></b><br/>MINIMUM DAMAGE: <b><font color=\"#ffffff\">75/100/125/150</font></b><br/>MAXIMUM DAMAGE: <b><font color=\"#ffffff\">200/225/250/275</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/140/140/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 10",
+        "lore": "Even Chaos Knight cannot predict this manifest of unholy energy.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_chaos_bolt",
+        "youtube":"O0qGKxIvJgw",
+        "id": 0
+    },
+    {
+        "dname": "Reality Rift",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Teleports you, any images you have and the target unit to a random point along the line between the two of you. Gives you bonus attack damage for one attack.",
+        "notes": "Chaos Knight and the target unit are made to face each other, and Chaos Knight and his phantasms are issued an attack order against the target.",
+        "dmg": "",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">550/600/650/700</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">60/80/100/120</font></b><br/>BONUS DURATION: <b><font color=\"#ffffff\">1.2</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 24/18/12/6",
+        "lore": "Armageddon rides between the planes, bringing Chaos Knight to his victim wherever he may hide.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_reality_rift",
+        "youtube":"5aT3Q78qtzQ",
+        "id": 1
+    },
+    {
+        "dname": "Chaos Strike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Chaos Knight\u0027s mojo gives him a chance to deal bonus damage.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "CRITICAL DAMAGE: <b><font color=\"#ffffff\">150%/200%/250%/300%</font></b><br/>CRITICAL CHANCE: <b><font color=\"#ffffff\">10%/10%/10%/10%</font></b>",
+        "cmb": "",
+        "lore": "Chaos Knight\u0027s unwieldy power bludgeons those who stand before him, crushing the thickest of armors.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_chaos_strike",
+        "youtube":"Oi8uwcdvz_s",
+        "id": 2
+    },
+    {
+        "dname": "Phantasm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Summons several phantasmal copies of the Chaos Knight from alternate dimensions. There is a 50% chance an extra phantasm will be summoned. The phantasms deal full damage, but take double damage.",
+        "notes": "Removes most negative buffs from Chaos Knight.<br/>Chaos Knight is invulnerable for 0.5 seconds when casting, allowing him to dodge stuns and damage.",
+        "dmg": "",
+        "attrib": "NUMBER OF PHANTASMS: <b><font color=\"#ffffff\">1/2/3</font></b><br/>EXTRA PHANTASM CHANCE: <b><font color=\"#ffffff\">50%</font></b><br/>PHANTASM DURATION: <b><font color=\"#ffffff\">42</font></b><br/>PHANTASM DAMAGE: <b><font color=\"#ffffff\">100%/100%/100%</font></b><br/>PHANTASM DAMAGE TAKEN: <b><font color=\"#ffffff\">200%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/200/275<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 140",
+        "lore": "Drawing on his battles fought across many worlds and many times, phantasms of the Chaos Knight rise up to quell all who oppose him.",
+        "hurl": "Chaos_Knight",
+        "name": "chaos_knight_phantasm",
+        "youtube":"P-DaVdeSUiI",
+        "id": 3
+    }
+]

@@ -1,0 +1,102 @@
+{
+	"Hero":"disruptor",
+	"Title":"Bendar's Rider of the Storm Support Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"clarity",
+				"tango",
+				"branches",
+				"branches",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"flying_courier",
+				"tpscroll",
+				"headdress",
+				"buckler",
+				"ward_observer",
+				"ward_sentry",
+				"dust"
+			],
+			"coreItems":
+			[
+				"mekansm",
+				"veil_of_discord",
+				"bloodstone"
+			],
+			"luxury":
+			[
+				"rod_of_atos",
+				"shivas_guard",
+				"necronomicon",
+				"cyclone"
+			],
+			"Items for Hiding":
+			[
+				"blink",
+				"tango"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you're getting owned, just blink in a spot where they can't kill you!",
+				"ward_observer":"Ward, ward, and ward some more, and never stop!",
+				"tpscroll":"Always have a Teleport Scroll in hand to turn those ganks around!",
+				"mekansm":"Great item combined with Mana Boots, turns you into a fountain!",
+				"arcane_boots":"Always mana intensive, get these!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_thunder_strike",
+			"2":"disruptor_kinetic_field",
+			"3":"disruptor_thunder_strike",
+			"4":"disruptor_glimpse",
+			"5":"disruptor_thunder_strike",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_thunder_strike",
+			"8":"disruptor_glimpse",
+			"9":"disruptor_kinetic_field",
+			"10":"disruptor_kinetic_field",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_kinetic_field",
+			"13":"disruptor_glimpse",
+			"14":"disruptor_glimpse",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Getting a second point at 3 makes herrasing even stronger.",
+				"disruptor_glimpse":"Level 2 Glimps is much better then level 1 Glimps in range, making it actually decent to use until you've maxed out all the importent abilities first.
+
+Try to use this after an enemy has teleported, it's the biggest troll thing you can do!",
+				"disruptor_static_storm":"If you have enough farm, using this with Veil of Discord while the enemy is trapped in Kinetic Field under Thunder Strike is devastating.
+
+Also, do not forget about the silence aspect of this skill which is often forgotten, it can be the differance between a win and a loss."
+		}
+	}
+}

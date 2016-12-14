@@ -1,0 +1,138 @@
+{
+	"Hero":"razor",
+	"Title":"meiXkai's Razor Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"circlet",
+				"branches",
+				"branches",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand",
+				"bottle",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"blade_mail",
+				"desolator",
+				"black_king_bar",
+				"pipe",
+				"mekansm",
+				"ancient_janggo",
+				"power_treads"
+			],
+			"Speedy Gonzales":
+			[
+				"manta",
+				"sange_and_yasha",
+				"cyclone",
+				"travel_boots",
+				"mask_of_madness",
+				"invis_sword"
+			],
+			"Luxury Items":
+			[
+				"ultimate_scepter",
+				"butterfly",
+				"refresher",
+				"ghost"
+			],
+			"Tanky as a Tank":
+			[
+				"heart",
+				"satanic",
+				"abyssal_blade",
+				"vanguard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"One of the items used for your Core Items.",
+				"magic_wand":"Turn your three Iron Branches into this Magic Wand.",
+				"travel_boots":"Wanna say, \"Screw Phase, I got my Movement Speed items.\" Well sure, buy this. Perma Movement Speed.",
+				"phase_boots":"Buy these for extra gankability. :)",
+				"vitality_booster":"Build this for Heart. Vanguard is terrible for ranged heroes.",
+				"bracer":"Build these for Drums.",
+				"mekansm":"One of the better alternatives to Vanguard(Dont buy if one of your supports is buying mek.)",
+				"orchid":"Although it is not recommended, you can deal tons of damage to the enemy affected by Orchid.",
+				"cyclone":"Faster + Static Link combo if you know how to use it, but I'll put the steps.
+
+1. Static Link hero.
+2. Use Euls on Static Link hero.
+
+Simple.",
+				"ultimate_scepter":"You can buy this glorious Aghanim's Scepter not only for ganking, but for pushing towers. :)",
+				"refresher":"Two storms = Too many.",
+				"heart":"Tired of Vanguard? Replace it with Heart of Tarrasque!",
+				"black_king_bar":"Rush BKB. Use to survive in teamfights.",
+				"vanguard":"Razor may be squishy, buy Vanguard to keep Razor in good health.",
+				"blade_mail":"Use to survive teamfights. You are the main target there, so use this to reflect damage. That way, you are RAZOR SHARP!",
+				"rapier":"DIVINE RAPIER ARE YOU F*CKING KIDDING ME??? IODFNSLKGSNFLKDFSLDSDSDFJODF:DDJSDSNDVS:DS:DFS:DFSMDF. Divine Rapier can f*ck your opponents right up t___*INTERMISSION*___",
+				"monkey_king_bar":"Keep hitting enemy. No miss. never.",
+				"manta":"Although It's not recommended, you can disassemble your Sange and Yasha and make Manta. This will provide gankability. Faster.
+",
+				"invis_sword":"Can be used for escaping. You can use Eye of the Storm then Shadow Blade. Just... be careful of wards... and dust... and gem...",
+				"sange_and_yasha":"This is Razor's genuine Sandvich. It will give extra movement and attack speed, damage, strength and agility. Faster.
+",
+				"satanic":"If you are farmed enough, you can OWN at teamfights with Satanic, as it gives you a 175% Lifesteal. If you steal a lot of damage, you can get a really large lifesteal.
+",
+				"mask_of_madness":"You can use this for more DMG and more move speed. You may take more damage to yourself, so a Blade Mail is recommended.",
+				"ancient_janggo":"One of the better altenatives for Vanguard, They give you more movement speed.",
+				"abyssal_blade":"More damage"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_static_link",
+			"2":"razor_unstable_current",
+			"3":"razor_plasma_field",
+			"4":"razor_plasma_field",
+			"5":"razor_static_link",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_static_link",
+			"9":"razor_plasma_field",
+			"10":"razor_unstable_current",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_static_link",
+			"13":"razor_unstable_current",
+			"14":"razor_unstable_current",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"razor_plasma_field":"Used to chase down heroes with low health remaining. Can be used to harass the enemy Early Game.",
+				"razor_static_link":"This ability can steal damage from enemies, such as the right-clicking Sniper and Drow Ranger. If you are a mid, you can harass the enemy with this ability.",
+				"razor_unstable_current":"This Passive damages, purges, and slows the enemy if an abiity targets you.",
+				"razor_eye_of_the_storm":"Use this in teamfights or use it for pushing(if you have Aghanim's Scepter)."
+		}
+	}
+}

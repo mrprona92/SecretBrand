@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Summon Wolves",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Summons two wolves to fight for Lycan.  Level 2-4 wolves have Critical Strike, level 3-4 wolves have permanent invisibility, and level 4 wolves have 15 HP regen.",
+        "notes": "If wolves are summoned during the duration of Howl, they will receive the buff until the end of its duration.<br/>Spirit Wolves have 80% magic damage resistance.<br/>Using this spell will replace currently active Spirit Wolves.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">55/55/55/55</font></b><br/>BASE ATTACK TIME: <b><font color=\"#ffffff\">1.25/1.2/1.15/1.1</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">18/29/37/46</font></b><br/>HP: <b><font color=\"#ffffff\">200/240/280/320</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 145<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30",
+        "lore": "The very enchantment that twisted his being also summons canine familiars.",
+        "hurl": "Lycan",
+        "name": "lycan_summon_wolves",
+        "youtube":"jgij5OMHj0M",
+        "id": 0
+    },
+    {
+        "dname": "Howl",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Grants bonus damage to Lycan, all allied heroes and all units under their control.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">10</font></b><br/>HERO BONUS DAMAGE: <b><font color=\"#ffffff\">14/26/38/50</font></b><br/>MINION BONUS DAMAGE: <b><font color=\"#ffffff\">5/10/15/20</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 15/20/25/30<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/45/40/35",
+        "lore": "Blood-curdling wolf cries signal to opponents that Banehallow is among them.",
+        "hurl": "Lycan",
+        "name": "lycan_howl",
+        "youtube":"5vyHuopd3zQ",
+        "id": 1
+    },
+    {
+        "dname": "Feral Impulse",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Increases the damage and attack speed of Lycan and all units under his control.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">900/900/900/900</font></b><br/>BONUS ATTACK SPEED: <b><font color=\"#ffffff\">15/20/25/30</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b>",
+        "cmb": "",
+        "lore": "His animalistic symbiosis with canine kind gives Banehallow enhanced reflexes and hunting capabilities.",
+        "hurl": "Lycan",
+        "name": "lycan_feral_impulse",
+        "youtube":"bmNQfQmSPzc",
+        "id": 2
+    },
+    {
+        "dname": "Shapeshift",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Lycan assumes his lupine form, granting him critical strikes and added vision at night.  During Shapeshift, Lycan and all units under his control move at increased speed and cannot be slowed.",
+        "notes": "Hex doesn\u0027t remove Lycan\u0027s movement speed.<br/>Lycan has a smaller collision size in this state.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">18/18/18</font></b><br/>SHAPESHIFT MOVE SPEED: <b><font color=\"#ffffff\">650</font></b><br/>BONUS NIGHT VISION: <b><font color=\"#ffffff\">1000</font></b><br/>CRITICAL CHANCE: <b><font color=\"#ffffff\">30%/30%/30%</font></b><br/>CRITICAL DAMAGE: <b><font color=\"#ffffff\">170%/170%/170%</font></b><br/>TRANSFORM TIME: <b><font color=\"#ffffff\">1.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/90/60",
+        "lore": "Forever a slave to his lycanthropy, Banehallow has come to accept his curse, and embrace his own savagery.",
+        "hurl": "Lycan",
+        "name": "lycan_shapeshift",
+        "youtube":"b2Uh7so6wiE",
+        "id": 3
+    }
+]

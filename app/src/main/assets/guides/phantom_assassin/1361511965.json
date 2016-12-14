@@ -1,0 +1,95 @@
+{
+	"Hero":"phantom_assassin",
+	"Title":"Armlet no-longer-squishy guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"quelling_blade",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"armlet"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"helm_of_the_dominator"
+			],
+			"luxury":
+			[
+				"bfury",
+				"monkey_king_bar",
+				"satanic",
+				"heart",
+				"abyssal_blade",
+				"vladmir",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"If tou think that you won't get harassed that much, it will greatly help you to farm.
+OTHERWISE, consider getting more regen instead",
+				"stout_shield":"Must have, unless you are going on a trilane against a solo",
+				"travel_boots":"Late game boots. Almost must have on 50+ minute",
+				"phase_boots":"Some mobility + damage is always good",
+				"vladmir":"Lifesteal if you don't plan buying a satanic at the late game, unless one of your teammates has it.",
+				"heart":"Makes you even more tanky. Consider getting it ASAP if you don't have an intend on buying a BKB",
+				"black_king_bar":"Must have in 95% of games. You need to land your hits, and you are not that tanky to survive several controls in a row in a teamfight.",
+				"monkey_king_bar":"Take instead of BF if there is at least one hero with evasion in the enemy team (void excluded, windrunner included) or it's 30+ minute already",
+				"bfury":"Good DPS item plus good farming boost",
+				"armlet":"Main item of the build. Gives you 500 hp when activated, some regen, and dps. That HP boost will help you A LOT.",
+				"satanic":"Makes you way more tanky",
+				"helm_of_the_dominator":"Your main lifesteal, consider buying satanic in a lategame. Plus, if you have a BF, stacking your ancients with a dominated creep would be handy.",
+				"abyssal_blade":"Buy instead of MKB if you feel that you need some sort of control if there are no heroes with evasion on the other team."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phantom_assassin_phantom_strike",
+			"2":"phantom_assassin_stifling_dagger",
+			"3":"phantom_assassin_stifling_dagger",
+			"4":"phantom_assassin_blur",
+			"5":"phantom_assassin_stifling_dagger",
+			"6":"phantom_assassin_coup_de_grace",
+			"7":"phantom_assassin_stifling_dagger",
+			"8":"phantom_assassin_phantom_strike",
+			"9":"phantom_assassin_phantom_strike",
+			"10":"phantom_assassin_phantom_strike",
+			"11":"phantom_assassin_coup_de_grace",
+			"12":"phantom_assassin_blur",
+			"13":"phantom_assassin_blur",
+			"14":"phantom_assassin_blur",
+			"15":"attribute_bonus",
+			"16":"phantom_assassin_coup_de_grace",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phantom_assassin_stifling_dagger":"Main farming skill, if things are getting tough",
+				"phantom_assassin_phantom_strike":"Mostly chasing ability. Pretty useful",
+				"phantom_assassin_blur":"Great passive; Level it on your level 4 and forget about it for a while, that 20% are really great (though upgrading your other skills is a priority)",
+				"phantom_assassin_coup_de_grace":"The reason why you're playing PA."
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"6.82 - Standard Wraith King (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"blink",
+				"armlet",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"blade_mail",
+				"heavens_halberd",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"mjollnir",
+				"abyssal_blade",
+				"assault",
+				"desolator"
+			],
+			"Daddy's Sword":
+			[
+				"rapier"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Jungle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"If you don't have enough mana for your ultimate to activate, use this to see if you can get that shred of mana back.",
+				"hand_of_midas":"For your early-farm. Hand of Midas can be situationally good depending on your lane and if you are truly aiming for the late-game. Hand of Midas let's you ensure consistent gold per minute.",
+				"assault":"Assault Cuirass is a more team-based item and can be more ideal than Mjollnir depending your line-up. The armor buff/debuff works well with his constant presence and the attack speed is just right. ",
+				"black_king_bar":"Use this ability after you reincarnate. You will be able to tank all the stuns they inflict on you. With your ultimate's slow and then your Black King Bar, you will be unstoppable.",
+				"blade_mail":"The issue with Wraith King is that you'll get kited  a lot.  Blade Mail let's you return the damage and keeps you in the playing field, contributing.
+
+Get Blade Mail after Blink Dagger but don't bother if enemies will be getting Black King Bar.",
+				"rapier":"See instruction manual on how to reload lives.",
+				"monkey_king_bar":"For Evasive Heroes or you simply want more damage. Monkey King Bar can be a good option.",
+				"armlet":"Stronger critical strikes, more speed, armor and strength. This is an overall good item. If you die and your ultimate activates, be sure to activate this.",
+				"mjollnir":"Mjllonir is a great item to give Wraith King further damage, further speed and even more opportunity to return damage when he is getting kited.",
+				"desolator":"Skeleton King has everything to be a hard-hitter, except the damage; boost this up even more with this.",
+				"soul_ring":"If wand doesn't reassure you to have enough mana for your ult, soul ring should do the trick.",
+				"medallion_of_courage":"Great for early-game ganks and damage. If you want to start being active early with Skeleton King: Medallion of Courage can be nice.",
+				"abyssal_blade":"Abyssal Blade keeps foes in place, dishes immense damage and works as a great follow-up with your Blink Dagger, opening up more opportunities for your own Wraithfire Blast",
+				"heavens_halberd":"Cripple rivaling physical carries with Heaven's Halberd while keeping your life overall high."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"attribute_bonus",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_hellfire_blast",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_vampiric_aura",
+			"9":"skeleton_king_mortal_strike",
+			"10":"skeleton_king_mortal_strike",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_mortal_strike",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"skeleton_king_vampiric_aura",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"Good damage, but the stun duration is limited. Simply get this because of the inefficiency of Critical Strike and the damage it can do towards ganking foes. This is your escape card and your ganking initiation.",
+				"skeleton_king_vampiric_aura":"Vampric Aura can be great if you need to jungle or simply because of your line-up has a lot of hitters. ",
+				"skeleton_king_reincarnation":"Two lives in one! Max this out whenever possible, just be sure you have the mana for it. Use magic wand just before you die just to be sure you have enough to Reincarnate.",
+				"attribute_bonus":"We get stats to help bolder Skeleton King's mana pool to stun twice and to improve his last-hitting."
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"Hero":"puck",
+	"Title":"[DMX] Puck - Mid (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"bottle",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"blink",
+				"arcane_boots",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"sheepstick",
+				"shivas_guard",
+				"ultimate_scepter",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"force_staff",
+				"cyclone",
+				"bloodstone",
+				"sphere",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"puck_illusory_orb",
+			"2":"puck_phase_shift",
+			"3":"puck_waning_rift",
+			"4":"puck_illusory_orb",
+			"5":"puck_illusory_orb",
+			"6":"puck_dream_coil",
+			"7":"puck_illusory_orb",
+			"8":"puck_waning_rift",
+			"9":"puck_waning_rift",
+			"10":"puck_waning_rift",
+			"11":"puck_dream_coil",
+			"12":"puck_phase_shift",
+			"13":"puck_phase_shift",
+			"14":"puck_phase_shift",
+			"15":"attribute_bonus",
+			"16":"puck_dream_coil",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"puck_illusory_orb":"Ce sort est votre principal nuke et la source de votre extrême mobilité. Vous pouvez engager ou vous échapper grâce à cette compétence tout en infligeant de bons dégâts, que demander de plus ?",
+				"puck_waning_rift":"Ce sort ajoute à votre burst tout en effectuant un très bon silence de zone. Utilisez le après votre Illusionary Orb afin d’infliger un maximum de dégâts. Vous pouvez également vous en servir pour farmer rapidement les creeps.",
+				"puck_phase_shift":"Ce sort ne coûte pas de mana et possède un cooldown de 6 secondes, n’hésitez pas à en abuser pour éviter les sorts et les attaques de vos adversaires !
+Grâce à phase Shift,  Puck peut éviter n’importe quel danger avec quelques réflexes. Cela vous permettra de survivre même dans les pires conditions.",
+				"puck_dream_coil":"Cet ultimate est parfait pour engager les teamfights, car il oblige les héros ennemis à ne pas sortir de la zone du Dream Coil sous peine d’être étourdis de longues secondes. Il permet donc à votre team de placer facilement tous ses sorts tandis ce que la mobilité des adversaires est entravée. "
+		}
+	}
+}

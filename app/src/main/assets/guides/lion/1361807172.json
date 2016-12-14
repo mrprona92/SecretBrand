@@ -1,0 +1,92 @@
+{
+	"Hero":"lion",
+	"Title":"search and destroy",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"circlet",
+				"mantle",
+				"courier",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"null_talisman",
+				"staff_of_wizardry",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"dagon",
+				"ultimate_scepter",
+				"blink"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"refresher",
+				"shivas_guard",
+				"sphere",
+				"veil_of_discord",
+				"force_staff",
+				"cyclone",
+				"invis_sword"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Helps you gank enemies, stun more enemies and escape if something goes wrong",
+				"mekansm":"Heal you and your teammate. Help you to survive",
+				"cyclone":"For disable or escape",
+				"force_staff":"Help to escape or for more &amp;quot;close meeting&amp;quot; with your victim",
+				"dagon":"Use Dagon with your ultimate skill and you will deal huge damage ",
+				"ultimate_scepter":"More damage for your ultimate. Buy after dagon",
+				"refresher":"You don't died?! How about one more time?",
+				"sphere":"If your enemies are strong mages and stunners",
+				"invis_sword":"Want for more sudden gank? Or maybe they use BKB? Also help you escape",
+				"veil_of_discord":"You have hood of defiance?! I don't think so...",
+				"tranquil_boots":"This artifact helps you to survive and will heal you after ganks"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_mana_drain",
+			"3":"lion_voodoo",
+			"4":"lion_impale",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_mana_drain",
+			"9":"lion_voodoo",
+			"10":"lion_voodoo",
+			"11":"lion_finger_of_death",
+			"12":"lion_mana_drain",
+			"13":"lion_voodoo",
+			"14":"lion_mana_drain",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

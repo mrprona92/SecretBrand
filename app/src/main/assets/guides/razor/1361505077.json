@@ -1,0 +1,90 @@
+{
+	"Hero":"razor",
+	"Title":"[DMX] Razor (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"vanguard",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"heart",
+				"butterfly",
+				"ultimate_scepter",
+				"assault",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"desolator",
+				"sange_and_yasha",
+				"hood_of_defiance",
+				"pipe"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"razor_plasma_field",
+			"2":"razor_unstable_current",
+			"3":"razor_plasma_field",
+			"4":"razor_static_link",
+			"5":"razor_plasma_field",
+			"6":"razor_eye_of_the_storm",
+			"7":"razor_plasma_field",
+			"8":"razor_static_link",
+			"9":"razor_static_link",
+			"10":"razor_static_link",
+			"11":"razor_eye_of_the_storm",
+			"12":"razor_unstable_current",
+			"13":"razor_unstable_current",
+			"14":"razor_unstable_current",
+			"15":"attribute_bonus",
+			"16":"razor_eye_of_the_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"razor_plasma_field":"Très bon sort pour harass ou farmer rapidement.",
+				"razor_static_link":"Ce lien vous permettra d'avoir d'énormes dégâts même sans stuff. De plus il réduira le héros sur lequel vous l'avez fait au statut de gros creep.",
+				"razor_unstable_current":"Ce passif est parfait pour contrer les adversaires qui essayent de vous agresser grâce à sa purge et à son bonus de movespeed.",
+				"razor_eye_of_the_storm":"Très bon ultimate pour 1v1 Ou pour pousser les batiments lorsque vous avez l'aghanim's."
+		}
+	}
+}

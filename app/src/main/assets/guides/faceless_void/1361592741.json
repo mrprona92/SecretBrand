@@ -1,0 +1,90 @@
+{
+	"Hero":"faceless_void",
+	"Title":"6.79 - [AriStar] Faceless Void Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"power_treads",
+				"poor_mans_shield",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"mask_of_madness",
+				"bfury",
+				"greater_crit"
+			],
+			"luxury":
+			[
+				"hand_of_midas",
+				"ultimate_scepter",
+				"monkey_king_bar",
+				"mjollnir"
+			],
+			"Luxury Items":
+			[
+				"butterfly",
+				"heart",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_health":"If you are getting harassed a lot in lane pick up a Ring of Health. This will later build into your Battle Fury.",
+				"hand_of_midas":"Only get this item if you can get it before 8 minutes.",
+				"poor_mans_shield":"Only needed if you are being harrassed a lot in lane. If not, feel free to skip this item.",
+				"monkey_king_bar":"If they have a carry that builds evasion items, or if playing against Phantom Assassin, Brewmaster, etc.",
+				"greater_crit":"A good follow up to Mask of Madness, more attacks means more chances to critical strike.",
+				"bfury":"Pick this up if you feel the need to farm or if you picked up a Ring of Health early on.",
+				"mask_of_madness":"A cost effective item to increase your attack speed. The faster you attack the more likely you will bash."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"faceless_void_time_walk",
+			"2":"faceless_void_backtrack",
+			"3":"faceless_void_backtrack",
+			"4":"faceless_void_time_lock",
+			"5":"faceless_void_backtrack",
+			"6":"faceless_void_chronosphere",
+			"7":"faceless_void_backtrack",
+			"8":"faceless_void_time_lock",
+			"9":"faceless_void_time_lock",
+			"10":"faceless_void_time_lock",
+			"11":"faceless_void_chronosphere",
+			"12":"faceless_void_time_walk",
+			"13":"faceless_void_time_walk",
+			"14":"faceless_void_time_walk",
+			"15":"attribute_bonus",
+			"16":"faceless_void_chronosphere",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

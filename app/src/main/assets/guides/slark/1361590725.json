@@ -1,0 +1,112 @@
+{
+	"Hero":"slark",
+	"Title":"6.82 - Standard Slark (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"black_king_bar"
+			],
+			"Small Purchases":
+			[
+				"magic_wand",
+				"orb_of_venom"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"ancient_janggo",
+				"orchid",
+				"sange_and_yasha"
+			],
+			"Extension Items":
+			[
+				"abyssal_blade",
+				"skadi",
+				"satanic",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Build":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"If in a lot of team-fights and/or needing the extra charges and stats for survivability early-game, this is not a bad item to consider. Situational at best.",
+				"orchid":"Gank better with Orchid to prevent foes from fleeing and so you can deal stronger damage with Dark Pact.",
+				"black_king_bar":"Black King Bar is essentially to keep you in the game after your first two stealths wear off. Definitely a preferred item for Slark.",
+				"armlet":"Because of your ultimate's passive and active ability: the life drain from this item is heavily negated, giving you great perks without any drawbacks.",
+				"invis_sword":"Great initiating item. Open with Shadow Blade, get an initial extra-damaging hit - follow up with pounce and Dark Pact to seal the deal! ",
+				"sange_and_yasha":"The extra movement speed, the extra health and the damage are all things Slark loves. If you have a strong lead, but a bit frail; go for S&amp;amp;amp;Y.",
+				"skadi":"Cripple and defeat all opposing forces with Eye of Skadi. Great idea that inflcits its debuff and let's you continuously steal Essence Shift.",
+				"diffusal_blade":"Not quite Skadi, but at a shaving of a price, definitely a strong consideration if picking this up.",
+				"orb_of_venom":"Great slow, helps with harassment to trade hits, keeps foes closer to you for a little longer. Also not bad if last-hitting is becoming a bit difficult to determine.",
+				"ancient_janggo":"Drums of Endurance is to enable further survivability and for ganking potential, it is a great transitional item into Armlet of Mordiggian.",
+				"abyssal_blade":"Keep foes in place enough to Essence Shift their agility. Strong damage item, great end-game goal."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_dark_pact",
+			"3":"slark_pounce",
+			"4":"slark_essence_shift",
+			"5":"slark_pounce",
+			"6":"slark_shadow_dance",
+			"7":"slark_pounce",
+			"8":"slark_dark_pact",
+			"9":"slark_dark_pact",
+			"10":"slark_dark_pact",
+			"11":"slark_shadow_dance",
+			"12":"slark_essence_shift",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slark_dark_pact":"Make sure to use Dark Pact to both purge any abilities that hindering you as well as doing massive damage to heroes around you (can also be used to farm creeps). Dark Pact is like Purging yourself of debuffs and dealing massive damage around you for your own health (works great with your ultimate).",
+				"slark_pounce":"Your Pounce works more as a clip-on ability than a skill shot. Be sure to either be near your opponent to Pounce or where he would typically land. ",
+				"slark_shadow_dance":"Think of Shadow Dance's passive as a bonus when hiding. Stay out of sight of where enemy heroes might see you and you'll regenerate a massive amount of items (and movement speed).
+
+Your active ability works as an invisibility cloak, gaining your passive of Shadow Dance and allowing you to sap AGI."
+		}
+	}
+}

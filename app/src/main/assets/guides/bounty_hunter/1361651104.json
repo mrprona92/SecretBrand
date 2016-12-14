@@ -1,0 +1,118 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"Boba Fett would love this!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"poor_mans_shield",
+				"phase_boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"orchid"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"desolator",
+				"diffusal_blade",
+				"assault",
+				"black_king_bar",
+				"sphere",
+				"abyssal_blade",
+				"butterfly",
+				"monkey_king_bar",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"sange_and_yasha"
+			],
+			"NEVER":
+			[
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"for lasthitingcreepandfoetanking just great and it's uped
+fast on the sideshop for just 300G witch is of cause good for mare of that earlier sizzle.",
+				"branches":"Good luck and have fun!
+",
+				"magic_stick":"Evergreen",
+				"magic_wand":"Big boys got big staffs and more space in the inventory.",
+				"flask":"it's recomendet but u can trade it for tangos.
+",
+				"tango":"Never go with out.
+",
+				"phase_boots":"dps and swoosh",
+				"poor_mans_shield":"300g = plus 6 agi and sure block",
+				"vladmir":"Roshan eneabled",
+				"urn_of_shadows":"If no one getting it is a good trade of for vlads.",
+				"orchid":"This is what makes ur ganks brutal and give u the ability to solo kill most squishy heroes.
+Just overall good stats, nice easy build up and six seconds silence. 
+from this item on you are free to go for what ever you think sutes the situation best.
+And to make this clear DONT GET F%@KN BATTLEFURY!!!",
+				"assault":"Go for Hyperstone first",
+				"black_king_bar":"If u need more staying power and teamfighting alot.",
+				"monkey_king_bar":"Doge? What is That?",
+				"butterfly":"I GOT MONEY TO BLOW O O O OOOH! O O O OOOH!
+
+",
+				"bfury":"Just don't!",
+				"sange_and_yasha":"You and/or team failing too hard.",
+				"desolator":"since track doesnt help in this regared it very viable.",
+				"diffusal_blade":"If dust getting a problem XD",
+				"ancient_janggo":"If no one getting it or you are broke.",
+				"abyssal_blade":"more DPS for the critz!
+Plus a STUN! AWESOME!!!! "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_jinada",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_jinada",
+			"8":"bounty_hunter_jinada",
+			"9":"bounty_hunter_wind_walk",
+			"10":"bounty_hunter_shuriken_toss",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_shuriken_toss",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

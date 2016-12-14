@@ -1,0 +1,103 @@
+{
+	"Hero":"nevermore",
+	"Title":"6.82 - Standard Shadow Fiend (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"invis_sword",
+				"black_king_bar"
+			],
+			"SituationaI tems":
+			[
+				"medallion_of_courage",
+				"ancient_janggo",
+				"skadi"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"desolator",
+				"greater_crit",
+				"butterfly",
+				"satanic"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"black_king_bar":"Black King Bar is to let you safely auto-attack and cast your ultimate without fear of being interrupted. Since you want to be as close as possible to your enemies, Black King Bar does away with any fears of not being able to pull off your ultimate.",
+				"butterfly":"Evasion and maintain your damage. Butterfly works out great to Shadow Fiend's otherwise decent attack speed.
+
+Thanks to Flutter, Shadow Fiend can freely move around the field with ease and grace!",
+				"manta":"Push harder, deal faster damage and gain much needed attack and movement speed. Manta Style can also be used to break some disables and silences.",
+				"invis_sword":"Use this item to move in and out of battle. You can also use it to cast your ultimate Requiem of Souls right in the center of the fight.",
+				"satanic":"Does not work with Desolator. Satanic is great if you desperately need the survivability or can't defeat your foes fast enough.",
+				"skadi":"Eye of Skadi functions with Satanic. The pair work well along with one another as Eye of Skadi keeps rival physical carries weakened and slower than Shadow Fiend.",
+				"desolator":"Synergizes well with Shadow Fiend's Presence of the Dark Lord armor debuff. With Desolator and your Presence of the Dark Lord, you debuff enemies up to -13 armor letting you rip them into pieces even harder."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_shadowraze1",
+			"4":"nevermore_necromastery",
+			"5":"nevermore_shadowraze1",
+			"6":"nevermore_necromastery",
+			"7":"nevermore_shadowraze1",
+			"8":"nevermore_necromastery",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nevermore_shadowraze1":"Shadowraze is a skill shot ability that works in three-ranges: Short, Medium, Large. Be sure to follow-up with one after the other if the opponent is coming towards you or fleeing. ",
+				"nevermore_necromastery":"Delay Necromastery if you can't seem to get the last hits. Remember that denying last hits also nets you souls, so try to do both often.",
+				"nevermore_requiem":"This ultimate has a small casting time and requires you to be untouched during that delay. Items like BKB or Shadow's Blade helps you get into position to pull it off! Each time you die, you will also automatically cast Requiem of Souls, so account for that too for double the effect."
+		}
+	}
+}

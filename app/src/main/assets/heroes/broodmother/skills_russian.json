@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Spawn Spiderlings",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Broodmother инфицирует врага, нанося ощутимый урон. Если цель умрет, находясь под действием этого заклинания, из ее трупа появится несколько паучков.",
+        "notes": "Если цель заклинания умрет в течение 2 секунд после попадания, на ее месте появятся паучки.<br/>Из юнитов, которые умрут от лап Spiderling, появятся Spiderites, паучки послабее.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">75/150/225/300</font></b><br/>КОЛИЧЕСТВО: <b><font color=\"#ffffff\">1/2/3/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Паучиха продолжает взращивать свое потомство даже на поле битвы. Выводок быстро понимает, как поддержать мать.",
+        "hurl": "Broodmother",
+        "name": "broodmother_spawn_spiderlings",
+        "youtube":"HsrNXKf_QOY",
+        "id": 0
+    },
+    {
+        "dname": "Spin Web",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b>",
+        "desc": "Плетет паутину, в которой Broodmother становится невидимой, быстрее передвигается, проходит через препятствия и быстрее восстанавливает здоровье. Во время невидимости дополнительная скорость удваивается. Заряды способности восстанавливаются каждые 40 секунд. Если вы получите урон, то не сможете проходить через препятствия в течение 6 секунд. Если новая паутина касается старой, то она может быть сплетена из любой точки карты. Время существования паутин не ограничено по времени, и их можно уничтожить вручную. Если превысить максимально возможное количество паутин, то самая старая из них исчезнет.",
+        "notes": "Задержка перед невидимостью — 2 секунды.<br/>Действует на Spiderling и Spiderites.<br/>Если свободное передвижение прекратилось, вы уничтожите ближайшие деревья.",
+        "dmg": "",
+        "attrib": "МАКСИМУМ ПАУТИН: <b><font color=\"#ffffff\">2/4/6/8</font></b><br/>РЕГЕН ЗДОРОВЬЯ: <b><font color=\"#ffffff\">2/4/6/8</font></b><br/>УСКОРЕНИЕ: <b><font color=\"#ffffff\">40%/50%/60%/70%</font></b><br/>МАКСИМУМ ЗАРЯДОВ ПАУТИНЫ: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>ВРЕМЯ ВОССТАНОВЛЕНИЯ ЗАРЯДА: <b><font color=\"#ffffff\">40</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Сплетенное из блестящих нитей ложе оберегает паучиху и ее потомство, а также служит дурным знаком для наступающих противников.",
+        "hurl": "Broodmother",
+        "name": "broodmother_spin_web",
+        "youtube":"rTMrFJkcWTk",
+        "id": 1
+    },
+    {
+        "dname": "Incapacitating Bite",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Яд Broodmother ослабляет врагов, замедляя их и увеличивая шанс, что жертва промахнется при атаке.",
+        "notes": "Шанс промаха складывается с шансом уворота от способностей и особенностей ландшафта.",
+        "dmg": "",
+        "attrib": "ШАНС ПРОМАХА: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
+        "cmb": "",
+        "lore": "Клыки паучихи выделяют парализующие токсины, вызывая медленную и мучительную смерть у тех, кто угодил в ее паутину.",
+        "hurl": "Broodmother",
+        "name": "broodmother_incapacitating_bite",
+        "youtube":"fewADuqpwLM",
+        "id": 2
+    },
+    {
+        "dname": "Insatiable Hunger",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Неистовая жажда убийства живых существ увеличивает урон Broodmother и наделяет ее вампиризмом.",
+        "notes": "Полностью складывается с другими источниками вампиризма.<br/>Эффекты от способности можно рассеять при помощи очищения.",
+        "dmg": "",
+        "attrib": "ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">60/90/120</font></b><br/>ВАМПИРИЗМ: <b><font color=\"#ffffff\">60%/80%/100%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">14/14/14</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/100/100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 45",
+        "lore": "Несмотря на то, что большая часть добычи завернута в блестящие коконы и сохранена для выводка, сама Broodmother также имеет вкусы на блуждающих героев.",
+        "hurl": "Broodmother",
+        "name": "broodmother_insatiable_hunger",
+        "youtube":"zxPfDpll2II",
+        "id": 3
+    }
+]

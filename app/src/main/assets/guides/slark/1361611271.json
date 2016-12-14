@@ -1,0 +1,77 @@
+{
+	"Hero":"slark",
+	"Title":"Slark der Carry",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade"
+			],
+			"Early Game":
+			[
+				"stout_shield",
+				"power_treads"
+			],
+			"Mid Game":
+			[
+				"vanguard",
+				"mask_of_madness",
+				"hyperstone"
+			],
+			"Late Game":
+			[
+				"abyssal_blade",
+				"sange_and_yasha",
+				"desolator"
+			],
+			"Situational":
+			[
+				"sphere",
+				"heart",
+				"black_king_bar",
+				"greater_crit",
+				"vladmir",
+				"manta"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slark_pounce",
+			"2":"slark_essence_shift",
+			"3":"slark_dark_pact",
+			"4":"slark_dark_pact",
+			"5":"slark_dark_pact",
+			"6":"slark_shadow_dance",
+			"7":"slark_dark_pact",
+			"8":"slark_essence_shift",
+			"9":"slark_pounce",
+			"10":"slark_pounce",
+			"11":"slark_shadow_dance",
+			"12":"slark_pounce",
+			"13":"slark_essence_shift",
+			"14":"slark_essence_shift",
+			"15":"attribute_bonus",
+			"16":"slark_shadow_dance",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

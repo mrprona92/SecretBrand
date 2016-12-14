@@ -1,0 +1,121 @@
+{
+	"Hero":"gyrocopter",
+	"Title":"Wegee's Carry Gyrocopter Guide by Wegee - 6.81 UPDATED",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"magic_wand",
+				"phase_boots",
+				"ancient_janggo"
+			],
+			"coreItems":
+			[
+				"black_king_bar",
+				"helm_of_the_dominator"
+			],
+			"luxury":
+			[
+				"butterfly",
+				"monkey_king_bar",
+				"satanic"
+			],
+			"Endgame":
+			[
+				"rapier",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"Early armor and it allows for a quick build into Ring of Basillius or tranquil boots from the sideshop.",
+				"magic_wand":"Only 2/3 of the RoA, Wand, and Drum should be built. ",
+				"phase_boots":"Preferred boots if the lane is going well. It's a good boost to flak damage.",
+				"black_king_bar":"If the other team has 3+ stuns then this should be rushed immediately. Adds good damage and some survivability. If the other team has poor disables, this can be diregarded in favor of a quick manta/MKB.",
+				"rapier":"Because flak cannon scales hardest with flat damage, Divine rapier is actually a viable choice on him. In the late game, a divined Gyro can 1v5 entire teams. Please don't buy unless you have BKB/Aegis.",
+				"monkey_king_bar":"Synergizes well with Flak Cannon because it benefit from high damage.",
+				"butterfly":"High damage and a great pickup if dealing with multiple carries on the other team.",
+				"manta":"Very money efficient item. Remember to use the active to break slows and other soft CC.",
+				"invis_sword":"If other team has poor detection or you find yourself needing to kite melee carries, this item works. Keep in mind you can turn on rocket barrage and then go invisible!",
+				"satanic":"Build after either Manta/MKB. Do not buy until your 5th or 6th item. Remember the active!",
+				"helm_of_the_dominator":"Can be grabbed before BKB if having a good early game.  Dominate a creep and start stacking ancients. Keep in mind that lifesteal does not apply to the extra projectiles in flak cannon.
+With the new 6.78 nerfs to Flak, you should only do the ancient when 3 or 4 stacked because of the time required",
+				"yasha":"Decent on it's own, it should eventually be built into manta. The movespeed helps early on for chasing heroes with rocket barrage and getting better positioning.",
+				"ancient_janggo":"If you need immediate health in a rough lane, pick up the drum.
+
+Only 2/3 of the RoA, Wand, and Drum should be built. ",
+				"ring_of_aquila":"Remember to finish the basilius at the side shop early on. Finish the aquila after basic boots.
+
+Only 2/3 of the RoA, Wand, and Drum should be built. ",
+				"tranquil_boots":"Useful in a rough lane if suffering a lot of harassment.
+
+If you're going to be using flak less often in lane, then these boots are preferred."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"gyrocopter_rocket_barrage",
+			"2":"gyrocopter_homing_missile",
+			"3":"gyrocopter_flak_cannon",
+			"4":"gyrocopter_rocket_barrage",
+			"5":"gyrocopter_rocket_barrage",
+			"6":"gyrocopter_call_down",
+			"7":"gyrocopter_rocket_barrage",
+			"8":"gyrocopter_flak_cannon",
+			"9":"gyrocopter_flak_cannon",
+			"10":"gyrocopter_flak_cannon",
+			"11":"gyrocopter_call_down",
+			"12":"gyrocopter_homing_missile",
+			"13":"gyrocopter_homing_missile",
+			"14":"gyrocopter_homing_missile",
+			"15":"attribute_bonus",
+			"16":"gyrocopter_call_down",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"gyrocopter_rocket_barrage":"One of the best DPS skills in the game. For best effect, attempt to peel heroes away from creep waves so that rockets aren't wasted.
+
+If you have a support who can CC, try to play aggressive early.",
+				"gyrocopter_homing_missile":"One point wonder. Used mostly for the CC and to force heroes into running where you can get them seperated for rocket barrage.
+",
+				"gyrocopter_flak_cannon":" Scales off of damage which is why Phase/Helm/BKB are so good on him. Remember you can shoot at creeps in order to extend the range and harass heroes much further away.
+
+Because of nerfs, you must decide between flakking the lane or the jungle. Use wisely.
+
+Only the main attack uses modif'iers.",
+				"gyrocopter_call_down":"Used often as an initiation, try to predict the path of heroes because of it's cast time.
+
+It can also be used while retreating because of the slow affect, just throw it on top of yourself before running back,.",
+				"attribute_bonus":"Gyro needs stats badly because of his squishy nature and poor range.
+"
+		}
+	}
+}

@@ -1,0 +1,136 @@
+{
+	"Hero":"windrunner",
+	"Title":"CHASER SERIES: Windrunnin' Solo",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"ring_of_protection",
+				"branches",
+				"branches",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ring_of_basilius",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"force_staff",
+				"tpscroll"
+			],
+			"Situational - Semi-Carry":
+			[
+				"sheepstick",
+				"monkey_king_bar",
+				"mjollnir",
+				"orchid",
+				"sphere"
+			],
+			"Situational - Support":
+			[
+				"arcane_boots",
+				"mekansm",
+				"cyclone",
+				"shivas_guard",
+				"pipe",
+				"ward_observer",
+				"ward_sentry",
+				"dust"
+			],
+			"Extra-Situational":
+			[
+				"blink",
+				"travel_boots",
+				"greater_crit",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Extra mobility, will make setting up shackles that much easier. But really, at this point you're just jumping around for the fun of it.",
+				"ring_of_protection":"The armor is nice, but the Ring of Basilius is the main goal here. You can grab a set of wards instead of this, if you don't think you'll need Basi's mana regen.",
+				"branches":"I wish you could carry thousands of these.",
+				"boots":"One for each foot!",
+				"magic_stick":"How they get this bent stick into the nice smooth wand is a mystery to me.",
+				"magic_wand":"Press a button, get health and stuff. It's magic!",
+				"flask":"A staple of most starting builds. It's hard to go wrong with some burst healing.",
+				"dust":"Invisible things still suck.",
+				"ward_observer":"Pick one of these up early if you want to block the enemy's pull camp. Later on, these are a necessity if you're taking on a support role. They're like inexpensive map hacks, so there's really no excuse.",
+				"ward_sentry":"Invisible things suck. ",
+				"tango":"Grabbing two of these is a good idea for the hard lane (Not as recommended with the 6.79 changes, but worth considering). People want to see gingers, like yourself, fail. Eat some trees so that doesn't happen.",
+				"tpscroll":"Carry these always. Seriously.",
+				"travel_boots":"For the late (late) game, and you need the inventory space.",
+				"phase_boots":"They're like boots but better. You can phase with them! ",
+				"mekansm":"Depending on your team's composition, you might want to be the one picking this up - and the earlier, the better. Gingers doin' all the work.",
+				"ring_of_basilius":"Mana regen, armor, and some last hitting/harassing power. Why not, I say.",
+				"pipe":"Pick this up if your team composition calls for it. Keep in mind the damage output of the opposing team, as this will not always be worth the gold.",
+				"sheepstick":"Nearly a core item, albeit expensive. Great utility, mana pool/regen, and lets you hit a little bit harder. And you can turn people into farm animals, so there's that.",
+				"orchid":"For the woman who needs to shut somebody up, and wants some damage, mana regen, and attack speed to go with it.",
+				"cyclone":"Move (even) faster, set up kills, and save yourself. All in one scepter.",
+				"force_staff":"In combination with Windrun and phase boots, this will ensure you almost always have options - be it to escape or to position yourself for a shackle. You are now really mobile, is the important takeaway.",
+				"black_king_bar":"Not recommended, as your positioning and mobility should keep the spells off of you. But in the most dire of circumstances, it's not a bad place to turn.",
+				"shivas_guard":"Although Windrun will keep most physical damage off of you, sometimes you will need the extra armor. Its active is fantastic in certain situations, and generally just looks rad.",
+				"sphere":"Dig in and get that shackle off, spells be damned.",
+				"monkey_king_bar":"If you're focused on damage, get this and/or Mjollnir as soon as possible. The bash works with Focus Fire, which is about as awesome as that sounds.",
+				"greater_crit":"If you can afford this and it seems like a good idea, you probably already won your game. So you might as well go out hitting hilariously hard.",
+				"mjollnir":"Like with the MKB, get this quickly if you're focused on your damage output. The Chain Lightning will also work with Focus Fire, so it's pretty cool.",
+				"arcane_boots":"I generally prefer phase boots, but these are a solid alternative if your team needs them."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_windrun",
+			"2":"windrunner_powershot",
+			"3":"windrunner_powershot",
+			"4":"windrunner_shackleshot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_shackleshot",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_windrun",
+			"11":"windrunner_windrun",
+			"12":"windrunner_windrun",
+			"13":"windrunner_focusfire",
+			"14":"windrunner_focusfire",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"windrunner_shackleshot":"Your go-to skill for team fights and ganks. Make sure you understand the shackle's range and angle, and try not to waste attempts.
+
+That said, a 0.75 stun is still a stun, so if you need to disrupt a channeling spell or TP, don't be afraid to throw one out.",
+				"windrunner_powershot":"This is a super important tool at most stages of the game. Use it to harass, last hit, scout, and as an early/mid game nuke. And as a solo laner, you'll be able to use this to keep creeps off of your tower and delay pushes.
+
+Bonus points if you nail a blind powershot kill, which feels damn good.",
+				"windrunner_windrun":"Pick this up at Level 1 in order to avoid ganks/make hilarious escapes. If your lane is especially difficult, grab another one at Level 3. Safety first.",
+				"windrunner_focusfire":"Ignore this skill until Level 13, at the least - it does not become valuable until you're hitting a little harder.
+Only consider it earlier if your team is aggressively pushing, and try not to waste it - its mana cost is significant."
+		}
+	}
+}

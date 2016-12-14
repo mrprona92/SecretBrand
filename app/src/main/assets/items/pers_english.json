@@ -1,0 +1,19 @@
+{
+  "dotaId": "pers",
+  "attrib": "+ 10 Damage<br/>+ 5 HP Regeneration<br/>+ 125% Mana Regeneration",
+  "cd": false,
+  "components": [
+    "ring_of_health",
+    "void_stone"
+  ],
+  "qual": "common",
+  "notes": "Perseverance is shareable.",
+  "desc": "",
+  "dname": "Perseverance",
+  "mc": false,
+  "img": "pers_lg.png",
+  "lore": "A gem that grants heart to the bearer.",
+  "id": 69,
+  "created": true,
+  "cost": 1750
+}

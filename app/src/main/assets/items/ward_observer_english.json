@@ -1,0 +1,16 @@
+{
+  "dotaId": "ward_observer",
+  "id": 42,
+  "img": "ward_observer_lg.png",
+  "dname": "Observer Ward",
+  "qual": "consumable",
+  "cost": 75,
+  "desc": "Use: Plants an Observer Ward, an invisible watcher that gives vision of its surrounding area to your team. Lasts 7 minutes.<br/><br/>Hold Control to give one Observer Ward to an allied hero.",
+  "notes": "",
+  "attrib": "VISION RANGE: 1600<br/>DURATION (MINUTES): 7",
+  "mc": false,
+  "cd": 1,
+  "lore": "A form of half-sentient plant, often cultivated by apprentice wizards.",
+  "components": null,
+  "created": false
+}

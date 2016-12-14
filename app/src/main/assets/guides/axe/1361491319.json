@@ -1,0 +1,106 @@
+{
+	"Hero":"axe",
+	"Title":"6.82 - Standard Axe (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"stout_shield",
+				"flask",
+				"tango"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"blink",
+				"crimson_guard"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"cyclone",
+				"pipe",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"blade_mail",
+				"shivas_guard",
+				"heart"
+			],
+			"Last updated: 18/10/14":
+			[
+			],
+			"See also: Jungle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Use Blink Dagger to initiate on your opponent in fights. This is a core item, meaning it is essential to utilize Axe's abilities.",
+				"vitality_booster":"Skipping Vanguard and just getting this nice glob of extra health is suggested.",
+				"pipe":"Pipe of Insight should be your go-to item if you find the enemy team has a lot magic-based users. Going all the way to Pipe of Insight is important as your entire team will need the magic resistance.",
+				"urn_of_shadows":"Capitalize on your ganking potential with Urn of Shadows, giving you that bit of mana regeneration and further strength!",
+				"cyclone":"Axe suffers from massive mana withdrawal. Eul's Scepter gives him further movement speed to jump foes, disable then and the desperate mana regeneration.",
+				"shivas_guard":"Blink, Berserker's Call, Shiva's Guard. Keep foes nice, close and crippled as you active Shiva's Guard to truly put into effect your presence.",
+				"vanguard":"Obtain Hood or Vanguard depending on the offensive abilities of your opponent. Hood of Defiance is for magic types, Vanguard is for more physical users.",
+				"crimson_guard":"Obtain Hood or Vanguard depending on the offensive abilities of your opponent. Hood of Defiance is for magic types, Vanguard is for more physical users and subsequently: Crimson Guard.",
+				"blade_mail":"Synergizes great with Axe's first ability: Berserker's Call. Activate this item after activating your blink dagger and at the end of Berserker's Call in a team fight!
+
+Using this DURING Berserker's Call is counter-intuitive given that you will take less damage.",
+				"hood_of_defiance":"Obtain Hood or Vanguard depending on the offensive abilities of your opponent. Hood of Defiance is for magic types, Vanguard is for more physical users.",
+				"soul_ring":"Soul Ring works in combination with Tranquil boots as the HP cost to activate this item can be reduced via the boots activated effect. Use soul ring to continually harass your opponent with battle hunger (use on heros that are not last-hitting or cannot easily kill creeps).",
+				"arcane_boots":"Works in combination with Mekansm. Only get Mekansm if going Arcane Boots.",
+				"tranquil_boots":"These boots work in combination with soul ring to allow you to continually harass your opponent with battle hunger. These boots also work when taking damage from creeps, so do not hesitate to use them often due to their low mana cost."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_berserkers_call",
+			"3":"axe_counter_helix",
+			"4":"axe_battle_hunger",
+			"5":"axe_counter_helix",
+			"6":"axe_culling_blade",
+			"7":"axe_counter_helix",
+			"8":"axe_berserkers_call",
+			"9":"axe_berserkers_call",
+			"10":"axe_berserkers_call",
+			"11":"axe_culling_blade",
+			"12":"axe_battle_hunger",
+			"13":"axe_battle_hunger",
+			"14":"axe_battle_hunger",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"axe_berserkers_call":"Berserker's Call increases your armor and keeps your opponent attacking you. You only need  one in this during the laning phase to help with ganks as the interuption should be enough for your allies to take advantage of the opportunity.
+
+Works through Black King Bar.",
+				"axe_battle_hunger":"Battle Hunger is an incredible harassment item to put the pain on supports who may not be able to get any kills. It has a small slow and helps Axe move in and out of battle as well.",
+				"axe_counter_helix":"The chance to Helix an attacking enemy is constant (17%), leveling it further does not help the likelihood of it occurring. Nonetheless, we max it out to nail down foes we gank.",
+				"axe_culling_blade":"Culling Blade goes through everything like sliced bread. What's that? Dazzle's Shallow Grave slowin' someone's death down? Use this ability: it works. For each kill, it refreshes the use of Culling Blade, so use it constantly!"
+		}
+	}
+}

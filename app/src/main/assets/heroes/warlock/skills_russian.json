@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Fatal Bonds",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Соединяет несколько врагов магической связью, в результате чего 25% от урона, полученного любым из них, наносится и остальным.",
+        "notes": "Урон не запрещает использование способностей или предметов, зависящих от урона (например, Blink Dagger).",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "СВЯЗЫВАЕТ ВРАГОВ: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">25</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 25",
+        "lore": "Древнее заклятие, которое объединяет жизненные силы различных существ в единую сущность.",
+        "hurl": "Warlock",
+        "name": "warlock_fatal_bonds",
+        "youtube":"uRFLMNzJ7Vs",
+        "id": 0
+    },
+    {
+        "dname": "Shadow Word",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Warlock шепчет заклинание, излечивая дружественных юнитов или нанося урон вражеским на протяжении времени.",
+        "notes": "Враг под воздействием этой способности может быть добит союзниками, если уровень его здоровья опустится ниже 25%%.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">15/25/35/45</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">11</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/110/130/150<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16",
+        "lore": "Тайные искусства Демнока могут найти множество применений — будь то мощные исцеляющие чары либо страшное уничтожающее проклятье.",
+        "hurl": "Warlock",
+        "name": "warlock_shadow_word",
+        "youtube":"1ExGT5E8-FE",
+        "id": 1
+    },
+    {
+        "dname": "Upheaval",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — мощный замедляющий поток энергии, со временем становящийся сильнее. Действует до 16 секунд. Эффект сохраняется в течение 3 секунд после того, как враг покинул зону действия или заклинание прервалось.",
+        "notes": "Усиление замедление зависит от длительности заклинания, а не от времени нахождения в области его действия.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">650/650/650/650</font></b><br/>МАКС. ДЛИТЕЛЬНОСТЬ ПРОЧТЕНИЯ: <b><font color=\"#ffffff\">12.5/6.5/4.5/3.5</font></b><br/>МАКС. ЗАМЕДЛЕНИЕ: <b><font color=\"#ffffff\">84%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/110/120/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 50/46/42/38",
+        "lore": "Демнок управляет пространством и временем, смешивая с грязью целые армии.",
+        "hurl": "Warlock",
+        "name": "warlock_upheaval",
+        "youtube":"9VHxyxOkHek",
+        "id": 2
+    },
+    {
+        "dname": "Chaotic Offering",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Вызывает из пучин Голема, оглушающего врагов на 1 секунду. Время жизни голема — 60 секунд, он получает меньше урона от заклинаний и при атаке накладывает на жертву Permanent Immolation и Flaming Fists.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Оглушает врагов, невосприимчивых к заклинаниям.<br/>Уничтожает деревья в области действия.",
+        "dmg": "",
+        "attrib": "РАДИУС ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">600</font></b><br/>ЗДОРОВЬЕ ГОЛЕМА: <b><font color=\"#ffffff\">900/1200/1500</font></b><br/>УРОН ГОЛЕМА: <b><font color=\"#ffffff\">75/100/125</font></b><br/>БРОНЯ ГОЛЕМА: <b><font color=\"#ffffff\">6/9/12</font></b><br/>ВОССТАНОВЛЕНИЕ ЗДОРОВЬЯ ГОЛЕМА: <b><font color=\"#ffffff\">25/50/75</font></b><br/><font color=\"#6fe871\">ГОЛЕМОВ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">2</font></b><br/><font color=\"#6fe871\">ЗДОРОВЬЕ ГОЛЕМА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">675/900/1125</font></b><br/><font color=\"#6fe871\">УРОН ГОЛЕМА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">56/75/94</font></b><br/><font color=\"#6fe871\">СНИЖЕНИЕ НАГРАДЫ ЗА УБИЙСТВО СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">50%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/300/400<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 165",
+        "lore": "Демнок выпускает из своего дредвудского посоха плененного духа, который разрушает вражеские ряды.",
+        "hurl": "Warlock",
+        "name": "warlock_rain_of_chaos",
+        "youtube":"LlUYOShkrE0",
+        "id": 3
+    }
+]

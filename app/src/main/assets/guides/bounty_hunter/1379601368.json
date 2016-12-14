@@ -1,0 +1,84 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"[RUS] Победитель по жизни.",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"tango",
+				"tango",
+				"flask",
+				"slippers"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"yasha",
+				"vladmir",
+				"medallion_of_courage",
+				"desolator"
+			],
+			"Это если раскачаешься.":
+			[
+				"black_king_bar",
+				"monkey_king_bar",
+				"manta",
+				"butterfly",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"C ними вы будете быстрее бегать и успевать съебываться в сложных ситуациях.",
+				"vladmir":"Короч, удобная вещь, если она есть, то можно не бегать на респу, ебашь крипов - хилься.",
+				"black_king_bar":"В замесе хорошая вещь.",
+				"rapier":"Если ты раскачан и могуч, не убиваем, то рапира будет самое то, не завидую врагам если ты собрал. ",
+				"monkey_king_bar":"В догоне заебись.",
+				"butterfly":"Бабочка как и яша, только умноженое в несколько раз.",
+				"manta":"Это короч в замесе применять, хуярить в три раза больше, да с критами норм.",
+				"desolator":"Ну это если лень жмакать на кнопку, снижает броню у соперника, если он один - то ты его убьешь как младенца.",
+				"yasha":"Заебись вещь, повышение почти всех показателей, бери, норм будет.",
+				"medallion_of_courage":"Дабы не собирать и не тратить лишние бабульки на дезолятор - можешь собрать данную хуйню."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_wind_walk",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_shuriken_toss",
+			"8":"bounty_hunter_shuriken_toss",
+			"9":"bounty_hunter_jinada",
+			"10":"bounty_hunter_jinada",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_wind_walk",
+			"14":"bounty_hunter_wind_walk",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

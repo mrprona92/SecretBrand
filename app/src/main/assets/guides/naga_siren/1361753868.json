@@ -1,0 +1,102 @@
+{
+	"Hero":"naga_siren",
+	"Title":"6.82 - Standard Naga Siren (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ancient_janggo",
+				"diffusal_blade"
+			],
+			"Radiance Core Build":
+			[
+				"radiance",
+				"travel_boots",
+				"yasha"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"heart",
+				"butterfly"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"See also: Middle Guide":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Late in the game, you start becoming difficult to stop as you can start pushing down two lanes at a time with illusions and your ability to teleport in any lane with Boots of Travel.",
+				"mekansm":"Always something to consider if you're finding yourself not to be the main carry.",
+				"urn_of_shadows":"Making ganking more rewarding for Naga Siren with Urn of Shadows. The survivability and mana regeneration helps alongside your Ring of Aquila, giving you more oomph during the early to mid-game.",
+				"assault":"Assault Cuirass gives even more debuff of armor to enemies (up to 16 with Medallion of Courage and Rip Tide) and is a great item for your illusions and allies.",
+				"heart":"Your Heart of Tarrasque makes your illusions incredibly difficult to kill rapidly and let's you push harder or harass foes with Diffusal Blade's mana burn.",
+				"radiance":"If you can get this in 18 minutes, follow this Core Build route. Otherwise, opt for the more safe version of Core Items. Typically this will hasten your ability to push down lanes fast and keep you constantly bouncing around; farming your Extension Items.",
+				"manta":"Manta Style can let you defend lanes with your images (with Mirror Images) and keep you safe with your team. Definitely worth picking up. Great farming items that can let you transition into carry.",
+				"diffusal_blade":"You do not need to be active with Diffusal Blade nor level it up past the first level. This item is for team-fights whereas you want to mana burn your foes to with your illusions, making them practically worthless in team-fights.",
+				"ancient_janggo":"Extra Speed, extra tankiness for your illusions; more attack speed. Very decent pick-up for Naga Siren as she farms with her illusions and towards more items to aid her pushing ability.",
+				"medallion_of_courage":"Rip Tide works with Medallion of Courage, furthering the debuff in armor up to 11 armor."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_rip_tide",
+			"2":"naga_siren_ensnare",
+			"3":"naga_siren_rip_tide",
+			"4":"naga_siren_mirror_image",
+			"5":"naga_siren_rip_tide",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_rip_tide",
+			"8":"naga_siren_mirror_image",
+			"9":"naga_siren_mirror_image",
+			"10":"naga_siren_mirror_image",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_ensnare",
+			"13":"naga_siren_ensnare",
+			"14":"naga_siren_ensnare",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Use your mirror images to send down lanes you want to push, you can use your Mirror Images to trap foes and dish out the massive damage. Your mirror images also cast Rip Tide, so take advantage to hurt foes even when you are safely far away.",
+				"naga_siren_ensnare":"Ensnare goes through Black King Bar and all forms of target-immunity. Abuse it! Ensare's incredible range can be used to initiate ganks or prevent ranged stunners from reaching you.",
+				"naga_siren_rip_tide":"Rip Tide works with illusions. So be sure to cast this after activating Mirror Image. The armor reduction is immense and so is the damage.",
+				"naga_siren_song_of_the_siren":"Use this to escape or to set up ganks, either way, be sure to communicate if you're cutting it your song short. ",
+				"naga_siren_song_of_the_siren_cancel":"Shutting the fuck up."
+		}
+	}
+}

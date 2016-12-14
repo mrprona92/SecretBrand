@@ -1,0 +1,104 @@
+{
+	"Hero":"warlock",
+	"Title":"Capitan J Warlock (rus)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"void_stone",
+				"magic_wand",
+				"ward_observer",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"urn_of_shadows",
+				"refresher",
+				"mekansm",
+				"invis_sword",
+				"ultimate_scepter",
+				"desolator"
+			],
+			"luxury":
+			[
+				"pipe",
+				"dagon",
+				"rod_of_atos",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"А чем это не хилка?) меня спасало несколько раз хД",
+				"ward_observer":"Опять же, что бы уберечb себя и других вы должны видеть врагов)",
+				"void_stone":"После будем по чуть чуть собирать рефреш для большей эфективности персонажа)",
+				"mekansm":"Саппорт, Саппорт, Саппорт (если в команде есть кому собрать меку не собирайте переходите к следующему предмету)",
+				"pipe":"Все же защита иногда полезна)",
+				"urn_of_shadows":"не забываем что варлок все же саппорт и иногда 1 хилки не хватает)",
+				"orchid":"Что бы некоторые геры не убежали от вас своими способностями)",
+				"dagon":"Что бы некоторые геры не убежали от вас своими способностями)",
+				"ultimate_scepter":"и так, этот посох не дает хоршей ульты т.к. снижает параметры големов за счет из размножения до 2-ух, это по желнию собирать его или же нет. но лучше всегда 1 собирать рефреш чем этот посох.",
+				"refresher":"Основной предмет! он должен собираться прежде аганима! т.к. 2 больших лучше чем 4 маленьких)",
+				"invis_sword":"Бывает что враги такие как рики клинкс или сларк буквально охотятся за вами, что бы убежать от них надо уметь это делать)",
+				"desolator":"Помогите големам) снизьте броню врага)",
+				"arcane_boots":"на ранних стадиях игры ведь всегда не хватает маны правда? так будем исправлять)",
+				"rod_of_atos":"Идеальная замена 3-му скилу с прибавкой к иннтелекту)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"warlock_fatal_bonds",
+			"2":"warlock_shadow_word",
+			"3":"warlock_fatal_bonds",
+			"4":"warlock_shadow_word",
+			"5":"warlock_shadow_word",
+			"6":"warlock_rain_of_chaos",
+			"7":"warlock_fatal_bonds",
+			"8":"warlock_shadow_word",
+			"9":"warlock_fatal_bonds",
+			"10":"attribute_bonus",
+			"11":"warlock_rain_of_chaos",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"warlock_rain_of_chaos",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"warlock_upheaval",
+			"23":"warlock_upheaval",
+			"24":"warlock_upheaval",
+			"25":"warlock_upheaval"
+		},
+		"AbilityTooltips":
+		{
+				"warlock_fatal_bonds":"С помощью этой связки я делаю ФБ, используйте её мудро и вовремя)  так же используйте ее перед тем как бросить голема",
+				"warlock_shadow_word":"и хилка и проклятье которое наносит урон, так же можно юзать после связки что бы нанести урон. или же если герой с лол хп убегает и он в связке с другим гером юзайте что бы убить его )",
+				"warlock_upheaval":"Пфф...НИ РАЗУ не использовал сколько гонял за варлока, бесполезный скилл, было бы сало было бы полезней...",
+				"warlock_rain_of_chaos":"Ну и то за что вас так боятся) с ним можете инициировать и врываться как пожелаете, так же можно использовать для пропушивания) или же ломки зданий в щепки, ну и в конце концов идеальный противник рошану хД"
+		}
+	}
+}

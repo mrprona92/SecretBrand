@@ -1,0 +1,117 @@
+{
+	"Hero":"omniknight",
+	"Title":"6.82 - Standard Omniknight (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"medallion_of_courage"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"orb_of_venom",
+				"ancient_janggo",
+				"crimson_guard",
+				"pipe"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"ultimate_scepter"
+			],
+			"Last Updated: 18/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support hero, buy a courier or wards.",
+				"courier":"As a support hero, buy a courier or wards.",
+				"mekansm":"You are a strong, powerful support who don't need no man. But Mekansm is the follow-up to your first ability.",
+				"pipe":"Depending on the team line-up (if they are mostly magic casters or not), you may not need Pipe of Insight.",
+				"ultimate_scepter":"If you can reach it; go for it. This item may prove to be especially useful if you find that the enemy team is split-pushing and/or a fellow player has strayed from the team.",
+				"shivas_guard":"The extra armour should help you against physical carries who focus you specifically down. Also great to prevent fleeing foes with its AOE slow.",
+				"vanguard":"Depending on the enemy's line-up, Crimson Guard can be especially useful to keep fragile magic-users on your team alive for a little bit longer. Definitely an item to consider if your team needs it; however Mekansm should be enough.",
+				"crimson_guard":"Get Crimson Guard towards the later part of the game where you are needed for team-fights. Omniknight can extend the feeling of his ultimate thanks to Crimson Guard; truly mitigating the amount of physical damage taken.",
+				"soul_ring":"Soul Ring works well with Purification to keep your heroes alive and give you mana until you have Arcane Boots.",
+				"orb_of_venom":"This works in combination of your passive, Degen Aura, hitting them. It is considerably good if you're playing aggressive.",
+				"medallion_of_courage":"Use this when using your ultimate. You take no physical damage thus the armor reduction only really affects the target."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_purification",
+			"2":"omniknight_repel",
+			"3":"omniknight_purification",
+			"4":"omniknight_degen_aura",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_repel",
+			"9":"omniknight_repel",
+			"10":"omniknight_repel",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_degen_aura",
+			"13":"omniknight_degen_aura",
+			"14":"omniknight_degen_aura",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"omniknight_purification":"This heal ability also does damage to nearby heroes, if timed correctly, you can hit two birds with one stone.",
+				"omniknight_repel":"Purification can be a great way to keep Pudge from rotting himself to death or to give a physical carry the &amp;amp;amp;quot;Black King Bar&amp;amp;amp;quot; effect it needs to defeat opponents.",
+				"omniknight_guardian_angel":"Guardian Angel gives physical immunity, not magical, so spells can still stun and hurt your team for a lot."
+		}
+	}
+}

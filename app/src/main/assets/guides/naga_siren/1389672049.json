@@ -1,0 +1,113 @@
+{
+	"Hero":"naga_siren",
+	"Title":"Arteezy/Radiance Naga Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"slippers",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"wraith_band",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"radiance",
+				"travel_boots",
+				"manta",
+				"heart",
+				"diffusal_blade",
+				"butterfly",
+				"greater_crit"
+			],
+			"Situational":
+			[
+				"hand_of_midas",
+				"black_king_bar",
+				"ancient_janggo",
+				"sphere"
+			],
+			"Alternate Starting Items":
+			[
+				"branches",
+				"branches"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"Naga has ok base damage, but you need every last hit you can get with this build, so buy hatchet. If you think your lane opponent is going to be easy to last hit against you can skip this and get some gg branches.",
+				"slippers":"Get this to build into your wraith band.",
+				"branches":"FOR THIS YOU NEED TO GET POOLED 2 OR MORE TANGOS. If you spend only 100 gold, you can get bottle with only about 3 last hits, which is the amount of riptides you can use with your starting mana. Can be necessary or helpful against a strong mid opponent. Shoutout to Flux.",
+				"boots":"Get these to avoid ganks, but keep them just as brown boots until you have radiance.",
+				"bottle":"Bottle is 100% necessary for this build. You wont be buying any regen or tank items for a while, and you'll need a lot of mana to sustain illus and riptide, so get this early and crow constantly until you have your radiance up.",
+				"tango":"Honestly you should be getting pooled regen. But in pubs you often have to buy your own tangos.
+>Game is hard",
+				"travel_boots":"These should be first after radiance. They allow you to farm wherever is safest and give you great ms for chasing or escaping.",
+				"hand_of_midas":"This is not really recommended, as it delays radiance significantly, but if you get an absolutely insane gold boost from multiple kills / first blood and you can buy it before four minutes, it's good, but you probably would have won anyway.",
+				"wraith_band":"Get this for a little bit of damage so you can farm until radiance is up.",
+				"heart":"Usually I get this 3rd to allow me to participate in more teamfights and stay alive. Makes illusions very hard to kill, and also has great regen.",
+				"black_king_bar":"Get this if you're dying a lot in fights, you should be farmed enough that your opponents can't stand up to you and your army of illusions though. You can also get this after crit and put it on courier to follow you around for siqq 7 slot plays.",
+				"sphere":"Useful against strong single target disables like doom and fiends grip. Shoutout to [LSD] Swamp",
+				"radiance":"Getting this at 14 min or earlier is ideal, but up to 18-20 minutes is not game losing. Your illusions get the radiance aura, so you can use them to farm multiple lanes or jungle camps simultaneously, the primary strength of this build. Don't forget your illusions get riptide as well.",
+				"butterfly":"Gives sick damage and evasion to illusions and your main naga.",
+				"greater_crit":"After butterfly, sell your radiance and get crit. At this point in the game the burn damage is pretty negligible and with crit your illusions will be more effective than they were with the aura.",
+				"manta":"Buy this for more illusions and more splitpush opportunities. Once you have 5 nagas you can pretty much just throw them at towers and do pretty good damage. Shoutout to my boy TGG.",
+				"diffusal_blade":"Sometimes this is better to get before heart or manta if your opponents are mana dependent with low mana pools or just very squishy. Don't forget its slow, and remember you get more charges when upgrading to level 2. Definitely still worthwhile at any point of the game for the illusion buffup.",
+				"ancient_janggo":"Get this if you're struggling a lot in the early game. If you have to get this you should probably forget radiance travels and go for a standard naga carry diffusal into manta/bkb instead.",
+				"ring_of_aquila":"Alternately, if you're safelane, you can skip bottle and go aquila for regen. Also gives some nice damage, but the regen isn't nearly as good as bottle."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"naga_siren_rip_tide",
+			"2":"naga_siren_ensnare",
+			"3":"naga_siren_rip_tide",
+			"4":"naga_siren_mirror_image",
+			"5":"naga_siren_rip_tide",
+			"6":"naga_siren_song_of_the_siren",
+			"7":"naga_siren_rip_tide",
+			"8":"naga_siren_mirror_image",
+			"9":"naga_siren_mirror_image",
+			"10":"naga_siren_mirror_image",
+			"11":"naga_siren_song_of_the_siren",
+			"12":"naga_siren_ensnare",
+			"13":"naga_siren_ensnare",
+			"14":"naga_siren_ensnare",
+			"15":"attribute_bonus",
+			"16":"naga_siren_song_of_the_siren",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"naga_siren_mirror_image":"Spawns three illusions that use riptide when your main naga does and do decent damage. They each carry radiance aura, which allows for this build's main strength, farming in many places at once.",
+				"naga_siren_ensnare":"Strong disable that goes through BKB. One level is nice early for self defense and skirmishing, but really shines in shutting down a BKB carry later in the game.",
+				"naga_siren_rip_tide":"Does great damage and gives an armor reduction debuff. Your illusions use it as well as the main naga, but damage doesn't stack. Useful for farming, slowing down pushes, and teamfights.",
+				"naga_siren_song_of_the_siren":"VERY powerful escape or setup ability. Anybody can use this to escape ganks at any time in the game. If you are at all coordinated you can use this to setup sick teamfights, or isolate a BKB user after they pop it, as they will be the only one not slept. Remember you can CANCEL at any time.",
+				"naga_siren_song_of_the_siren_cancel":"FOR THE LOVE OF GOD IF YOUR ENIGMA IS ULTING CANCEL THE SLEEP",
+				"attribute_bonus":"Stats are nice but our other abilities are generally more useful.  You can argue to get them over net but a 5 second bkb piercing disable is insane. Only if your team has more lockdown than you could possibly need all of."
+		}
+	}
+}

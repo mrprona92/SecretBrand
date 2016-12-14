@@ -1,0 +1,110 @@
+{
+	"Hero":"pudge",
+	"Title":"6.82 - Standard Pudge (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"urn_of_shadows",
+				"hood_of_defiance"
+			],
+			"luxury":
+			[
+				"arcane_boots",
+				"blink",
+				"force_staff",
+				"black_king_bar",
+				"ward_observer",
+				"smoke_of_deceit"
+			],
+			"Extension Items":
+			[
+				"pipe",
+				"ultimate_scepter",
+				"heart",
+				"shivas_guard"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Can't seem to hook? Blink, ultimate and nuke them down easily with your Hook.",
+				"ward_observer":"To take full advantage of your hook's range, you'll need to see where your opponent's are. Get wards both for your benefit and the team.",
+				"phase_boots":"Generally to help with your chasing and rot. Also very useful for running away as Pudge is very fat and slow.",
+				"pipe":"If your team needs that extra bit of survivability, grab one of these.",
+				"force_staff":"For further escape and maneuverability.",
+				"ultimate_scepter":"Get this much later into the game, where you have built up a strong base of strength earned thanks to your ganks.",
+				"black_king_bar":"Pull off the full damage and duration of your Dismember ultimate with Black King Bar. As Pudge, you'll be targeted first in team-fights. Black King Bar removes that fear of being unable to fully incapacitate your foes.",
+				"shivas_guard":"As Pudge, late in the game, you should be extremely strong and with a lot of health. Shiva's Guard works furthermore with his presence and his 'Rot' slow.",
+				"hood_of_defiance":"Hood is used both to diminish magic damage and to resist how your ability Rot hurts you.",
+				"arcane_boots":"If you're having trouble nabbing your hooks, arcane boots can come in handy here.",
+				"smoke_of_deceit":"Be a sniper with Smoke of Deceit. Hook, Smoke, reposition. The range of the Hook is much farther than your smoke which makes it a great way to vanish without enemies finding the source of your hook shot.",
+				"tranquil_boots":"Keep up with the ganks and roaming around the map with Tranquil Boots. Tranquil Boots have incredible speed, very nice regeneration and decent armor. Making fights incredibly easy."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_rot",
+			"10":"pudge_flesh_heap",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"The higher level this ability is, the longer and more damage the hook is. Do not be afraid to use your hook to &amp;amp;amp;quot;finish&amp;amp;amp;quot; your opponent if you have them within rot range and used your ultimate.",
+				"pudge_rot":"Rot slows your foes and hurts them as well as yourself. Be sure to grab Hood of Defiance as soon as possible.",
+				"pudge_flesh_heap":"This ability is retroactive, so do not worry about getting this as soon as possible due to the number of kills you're racking up. Grab this after maximizing Hook.",
+				"pudge_dismember":"Dismember is your ultimate that has a slight delay if it follows your Hook. Be sure to cast Rot as soon as you cast your ultimate to increase the amount of damage you can inflict on your foe."
+		}
+	}
+}

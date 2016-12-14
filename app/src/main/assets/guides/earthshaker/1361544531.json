@@ -1,0 +1,236 @@
+{
+	"Hero":"earthshaker",
+	"Title":"Throwing Your Wall Dick At People: A Reference Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"courier"
+			],
+			"THIS ISN'T EVEN MY FINAL FORM":
+			[
+				"soul_ring",
+				"boots",
+				"magic_stick",
+				"branches",
+				"branches",
+				"ward_observer",
+				"tpscroll"
+			],
+			"I HAVE FINISHED FARMING":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"ward_observer",
+				"blink",
+				"soul_ring",
+				"ward_observer",
+				"tpscroll"
+			],
+			"RICH AS SHIT TIER":
+			[
+				"ultimate_scepter",
+				"refresher",
+				"travel_boots"
+			],
+			"CARRY SHAKER TIER":
+			[
+				"invis_sword",
+				"desolator",
+				"rapier",
+				"blink",
+				"rapier",
+				"rapier"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"You need this item for your ultimate because the synergy between them is just too good.
+
+This is also a useful item to get when you're an initiator and honestly, nothing says initiation like a wall dick to the face.",
+				"blades_of_attack":"Nothing this builds into is useful to you.",
+				"chainmail":"Maybe if your team wants to take an early and fast rosh you buy this to build into Medallion, but otherwise there's little point to getting this.",
+				"helm_of_iron_will":"If you're the riches Earthshaker ever AND you already have Scepter AND Refresher AND Shivas Guard AND still need to deal more damage you can pick this up to build into veil.",
+				"mithril_hammer":"Only if you're building a BKB and if it's gotten to the point where you're building a BKB, there's probably some other items that you should consider getting.",
+				"platemail":"There are very very very very very very rare games that go so long the carry needs more item slots so badly that he needs you to start carrying around his AC for him. Also those games where you feel like geting a Shivas Guard because Synergy with ECHO SLAM.",
+				"quelling_blade":"Only if you've read \"Timbersaws Guide To Making The World A Better Place.\" Otherwise there's far better things to spend your gold on.",
+				"ring_of_protection":"Maybe if you need to build Vlads for your team. Maybe. But otherwise don't.",
+				"stout_shield":"No",
+				"gauntlets":"if you're building a drum because nobody else on the team is and/or you feel like you need more stats before getting that blink dagger.",
+				"slippers":"You do not need a Poor Mans Shield.
+
+You do not need an aquila.
+
+You do not need this item",
+				"mantle":"DAGON!!!!!!1!!!1!1!1!!!!
+
+No but seriously, if you're ahead there's way funnier items to get than dagon. Don't bother with this.",
+				"branches":"3 GG sticks because their the best stat item in the game. You can get 4 if you didn't pick up a 4th clarity.",
+				"belt_of_strength":"There are only a handful of situtation you should be picking this up in:
+
+Building Necronomicon 1.
+Building Necronomicon 2.
+Building Necronomicon 3.
+
+Thus ends the reasons for buying this item.",
+				"boots_of_elves":"Although hilarious to go racecar build earthshaker and buy this to make a yasha. There's little reason to get this in a serious or close game.",
+				"robe":"Builds into drums!
+
+Don't get this if you're not building drums.",
+				"circlet":"Builds into bracers which builds into drums. It also builds into some other crap but that other crap is pretty useless to you.",
+				"ogre_axe":"SCEPTER.
+
+FUCK YEAH SCEPTER.",
+				"blade_of_alacrity":"SCEPTER.
+
+FUCK YEAH SCEPTER.",
+				"staff_of_wizardry":"SCEPTER.
+
+FUCK YEAH SCEPTER.",
+				"ultimate_orb":"Linkens and Skadi may be some of my favorite items because their funny as all hell, but YOU SHOULD ONLY BUY THIS IF YOU'RE BALLIN' OUTTA CONTROL AND WANT A SHEEP STICK (scythe of vyse)",
+				"gloves":"Hilarious as a lightning hammer is, don't buy this item UNLESS you're somehow best pro earth shaker and you can get yourself a 5 minute HAND OF MIDAS. Otherwise this is not a good item choice most of the time.",
+				"lifesteal":"No",
+				"ring_of_regen":"BUIDS INTO SOUL RING. BUY SECOND IF YOU'RE OUT HARASSING THE ENEMY WITH WALL DICKS AND NEED MORE WALL DICK JUICE.",
+				"sobi_mask":"BUILDS INTO SOUL RING. BUY SECOND IF THE ENEMY IS HARASSING YOU BETTER THAN YOU'RE WALL DICKING THEM.",
+				"boots":"You're a brownish color.
+
+These boots sorta look brown.
+
+I mean it's just a perfect fit.",
+				"gem":"You're not the worst gem holder. But usually you want this item on a ranged hero for dewarding purposes. As a support though, it might become necessary for you to buy this and possibly hold it for the team.",
+				"cloak":"If you're team needs a Pipe or you're fighting a zeus and plan to build this into a Hood then pick this up. Otherwise don't bother.",
+				"talisman_of_evasion":"Heavens Halberd only. Otherwise do not.",
+				"magic_stick":"Once you start Throwing your wall dick at people they're gonna start trying to kill you, probably with spells. The only solution to thi problem is to throw more wall dicks at them.
+
+Oh yeah, and also getting a \"your spells heal me\" stick. That usually helps too.",
+				"magic_wand":"Second best item in the game right after GG stick.",
+				"ghost":"If they have a good right click carry this is actually a really strong pick up as you blink in ECHO SLAM, throw your wall dick out and then pop this bad boy to walk away wtih the enemy carry unable to kill you for smashing his whole team in.",
+				"clarity":"You want to take enough regen with you to lane so that you can always throw at least 3 or 4 walls until you get your Soul Ring. Generally 3 Clarities is enough but a 4th can be obtained if you're worried.",
+				"flask":"Useful if you have the money for it during the laning phase, don't be afraid to buy one and have a courier bring it to you or your carry in lane.",
+				"dust":"enemy trying to hide from your wall dick with invisibility? Well, time to counter them entirely for the low low price of 180 gold.",
+				"bottle":"In most cases no. Don't bother because SOUL RING ARCANE BOOTS means infinity wall dicks and really what more could you ask for than infinity wall dicks?
+",
+				"ward_observer":"Third best item in the game, It's free eyeballs so you know when to throw your wall dick at people in the jungle.
+
+Just think of all the great walls you could throw at people's face when you can see them with this thing.",
+				"ward_sentry":"Sometimes you want to safe guard a farming spot, or you want a slightly sneakier invis ditection than  MASSIVE PURPLE EYEBALL DUST. That's where this comes in.",
+				"tango":"Because fuck trees",
+				"courier":"Buy this because if you don't your team will yell at you for not doing it. If someone else bought it, use this money to buy the SOUL RING recipe so you can finish it in lane.",
+				"tpscroll":"Look, I think we all have to admit at some point that we can't be everywhere at once and throw our wall dick at everyone's face.
+
+Oh wait, yes we can. Yes. We. Can.",
+				"travel_boots":"LOOK AT THESE THINGS! THEY LOOK FUCKING RAD. BUY IT ON THAT FACT ALONE.
+
+Also infinity TP scrolls. That's nice too.",
+				"phase_boots":"IF someone else on your team has ARCANE BOOTS AND IF you're team is ahead AND IF the enemy has squishy supprts Then these are kinda hilarious with your guaranteed crit stun. BUT MOST OF THE TIME: You'll want ARCANE BOOTS.",
+				"power_treads":"Nope, not even when playing carry Earthshaker. Not worth it.",
+				"oblivion_staff":"Refresher Orb stick.
+
+Rarely an Orchid if you're in a rare game where your team doesn't need to rely on you for initiation and so you can build more utility \"counter enemy heroes\" items.",
+				"pers":"Refresher Orb or Bust.",
+				"poor_mans_shield":"HELL. FUCKING. NO.",
+				"bracer":"If after you finish arcanes you feel like you need just a little more before you save up for blink dagger or you have some extra gold from getting early kills and you want some stats to show for it. Then buy this. IF YOU BUY THIS BUILD IT INTO DRUMS. You may have to wait till after blink dagger.",
+				"wraith_band":"Hell No",
+				"null_talisman":"Again, there are better and funnier items to build than Dagon, even when you're ahead, Do not buy this.",
+				"mekansm":"As a support, it's your job to make sure that your team have AT LEAST 1 of these and NO MORE THAN 1 of these. If that means you have to forget about getting blink to buy this for the team, then so be it.",
+				"vladmir":"If your team needds the Vlads because it has a lot of melee heroes or you're aura stacking for a push line up. Not the worst item to get.",
+				"flying_courier":"As a support, it's your job to make sure the carry buys this for you.",
+				"buckler":"For when you need to build mek.",
+				"ring_of_basilius":"No.",
+				"pipe":"Same as mek, also useful for breaching high ground tier 3s in base and when fighting a spell heavy line up.
+
+Or zeus. Also a billion times super useful when fighting zeus.",
+				"urn_of_shadows":"If you're in a ganking pushing line up and the team needs more heals. However do try to see if anyone else wants to build one as you really do super synergy with that blink and this item will delay Blink Dagger quite a bit.",
+				"headdress":"If you're the only support on the team and nobody else on your team wants the survivability of building a mek, then foret about your blink dagger and build this into a mek.",
+				"ultimate_scepter":"SCEPTER ADDS MORE DAMAGE TO YOUR ULTIMATE THAN VEIL OF DISCORD.
+
+Scepter's pretty cool guy. Kills shit and doesn't afraid of anyone.",
+				"refresher":"SCEPTER IS A CHEAPER REFRESHER WITH THIS GUYS ULTIMATE BASICALLY. ONLY GET THIS IF YOU ALREADY HAVE SCEPTER.",
+				"shivas_guard":"Not the worst item to pick up after a Scepter if the game is going long enough or you need just that extra oomph in a team fight to pull it your way.",
+				"rapier":"YOU STACK A MUCH OF THIS SHIT AS YOU CAN GET YOUR HANDS ON. 300 DAMAGE PLUS YOUR CRIT = CARRY.
+
+Every so extremely rarely often you'll run into a game where neither team has a carry. This is when I must point out that you have a guaranteed HUGE ASS CRIT on a short as fuck cooldown.",
+				"invis_sword":"Because Nothing says carry like a shadow blade.
+
+Every so extremely rarely often you'll run into a game where neither team has a carry. This is when I must point out that you have a guaranteed HUGE ASS CRIT on a short as fuck cooldown.",
+				"desolator":"This is Optional if you need room for more Divine Rapers.
+
+Every so extremely rarely often you'll run into a game where neither team has a carry. This is when I must point out that you have a guaranteed HUGE ASS CRIT on a short as fuck cooldown.",
+				"soul_ring":"Here's Some Math For You: Wall Dick cost 155 mana at level 3. You're going to have level 3 Wall Dick for awhile because you're a support, you get 6 levels and go roam forever.
+
+Anyway, back to the math: FISSURE 155 mana + SOUL RING 150 free mana = GETTING TO THROW YOUR WALL DICK INFINITELY FOREVER.",
+				"arcane_boots":"This item plus your Soul Ring will honestly mean you should never have mana troubles. ",
+				"ancient_janggo":"ONE LAST TIME: Get this if you feel you need more stats before you save for blink or if you have the room in your inventory after you get a blink dagger.",
+				"medallion_of_courage":"When your team wants to take an early fast rosh. You may need to buy this item for the team. Don't be afraid to sell it after you take rosh though, if you need the room for more important items or the cash to speed along that Blink Dagger.",
+				"smoke_of_deceit":"You'll be buying this anytime your team feels like a gank or they want to take a sneaky rosh and think the enemy has wards up.",
+				"ring_of_aquila":"READ MY LIPS. HELL. MOTHERFUCKING. NO.",
+				"tranquil_boots":"sometimes you lose the laning stage really badly and just need better than basic boots to get around. You can pick these up while you save for ARCANE BOOTS but you must turn the left over pieces into a vlads for the Aura buff to your team."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_enchant_totem",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_aftershock",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"THIS IS A MOTHERFUCKING WALL DICK. THIS IS YOU PULLING YOUR DICK OUT AND SMACKING THE ENEMY RIGHT IN THE FACE WITH IT.
+
+WHATS THAT? TEAM NEEDS A STUN? WALL DICK. 
+
+TEAM NEEDS TO GANK? WALL DICK.
+
+ENEMY ESCAPING? WALL DICK.
+
+ENEMY CARRY STILL ALIVE? WALL DICK.
+
+NOT ENOUGH DICKS ON THE MAP? WALL DICK",
+				"earthshaker_enchant_totem":"This skill lets Earth Shaker carry in those hyper rare as rarity games where neither side has any carries.
+
+Basically, it's a guaranteed crit and stun on a short cooldown. Why is it a guaranteed stun? Because of your third skill.",
+				"earthshaker_aftershock":"This skill basically just makes everything you do stun people. It's just that simple. It adds a passive AOE stun to all your spells.",
+				"earthshaker_echo_slam":"When you use this everything around you takes damaged based on how many things were around you.
+
+This skill is why you need blink dagger. So you can blink into the middle of the enemy ECHO SLAM them down to no health, and then for good measure throw your dick out at the survivors.",
+				"attribute_bonus":"STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS STATS "
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"Hero":"lina",
+	"Title":"6.82 - Standard Lina (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"ancient_janggo",
+				"cyclone"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"blink",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"ethereal_blade",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Pick up a Blink Dagger to better initiate on your opponents with Light Strike Array. Blink Dagger is ultimately the best item for Lina as it discards all fears of her lack of maneuverability.",
+				"boots":"Lina is desperate for maneuverability. This is why her starting items are rather low so she can get her Boots of Speed much, much faster.",
+				"ghost":"If fearful of physical carries, you can use this to protect yourself and freely cast all your abilities.",
+				"bottle":"If in the middle lane, pick this up.",
+				"courier":"As a support hero, pick up a courier or wards.",
+				"bracer":"For added survivability.",
+				"cyclone":"Extend the duration of Light Strike Array or time it even better with Eul's Scepter. Extra movement speed also helps with Lina's lack of maneuverability.",
+				"force_staff":"If you find yourself getting pinned down due or targeted, Force Staff can be your escape; especially if you need the stats in comparison to Blink Dagger",
+				"dagon":"This is your Aghanim's Scepter. More damage, less range, better cost. Get this.",
+				"ultimate_scepter":"Safely deal incredible damage with Aghanim's Scepter. This is a good item to rush on Lina if given the lead as it nearly one-shots a lot of heroes with your combination of spells.",
+				"bloodstone":"If intending to carry, Blood Stone is the perfect item to snwoball into a carry.",
+				"ethereal_blade":"The extra attack speed as well as how it suits your abilities makes this a fitting choice for Lina!",
+				"ancient_janggo":"Survivability, better movement speed and a great aura to help the team out.",
+				"veil_of_discord":"If your line-up is mostly magic base, Veil of Discord is a nice dash of extra power!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_light_strike_array",
+			"2":"lina_dragon_slave",
+			"3":"lina_dragon_slave",
+			"4":"lina_light_strike_array",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_light_strike_array",
+			"9":"lina_light_strike_array",
+			"10":"lina_fiery_soul",
+			"11":"lina_laguna_blade",
+			"12":"lina_fiery_soul",
+			"13":"lina_fiery_soul",
+			"14":"lina_fiery_soul",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lina_dragon_slave":"Your main way to push lanes, deal damage and destroy foes, it must be maxed first as it is your biggest damage-dealer after your ultimate.",
+				"lina_light_strike_array":"A small casting delay when casting this medium-sized AOE stun, so be wary when casting and try to cast where the opponent's going rather than where he is. The stun is the same regardless of the level, but improved damage.",
+				"lina_fiery_soul":"Traditionally you pick up one in Fiery Soul before level 6 for its movement speed bonus after several spells are casted. However, it isn't entirely necessary.",
+				"lina_laguna_blade":"Straight damage. Deal it on opponents you want to wear down quickly and avoid kill-stealing with it. You want to utilize all of its damage."
+		}
+	}
+}

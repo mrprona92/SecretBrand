@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Spectral Dagger",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target, Point Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Spectre flings a dagger to draw a Shadow Path, dealing damage and slowing the movement speed of any enemies along the trail. Units hit by the dagger also trail a Shadow Path. While treading the path, Spectre phases through otherwise impassable terrain.",
+        "notes": "Slows Spell Immune units.<br/>There is a 2 second grace period after leaving the path where no collision is preserved.",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">50/100/150/200</font></b><br/>MOVEMENT SPEED CHANGE: <b><font color=\"#ffffff\">8%/12%/16%/20%</font></b><br/>DURATION: <b><font color=\"#ffffff\">7/7/7/7</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 130/140/150/160<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "Mercurial\u0027s dagger eclipses the physical plane in shadow, a state in which mortals cower, but spectres thrive.",
+        "hurl": "Spectre",
+        "name": "spectre_spectral_dagger",
+        "youtube":"HqPfci6NzAc",
+        "id": 0
+    },
+    {
+        "dname": "Desolate",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Deals bonus pure damage when Spectre attacks an enemy hero who is alone.",
+        "notes": "Damage is dealt before Spectre\u0027s attack.<br/>Spectre\u0027s illusions also have Desolate.",
+        "dmg": "",
+        "attrib": "BONUS DAMAGE: <b><font color=\"#ffffff\">20/35/50/65</font></b><br/>RADIUS: <b><font color=\"#ffffff\">325/325/325/325</font></b>",
+        "cmb": "",
+        "lore": "Often times, warriors find themselves alone with a vision of Mercurial - the fated question is if it is the true Spectre.",
+        "hurl": "Spectre",
+        "name": "spectre_desolate",
+        "youtube":"kFwX40wvYbs",
+        "id": 1
+    },
+    {
+        "dname": "Dispersion",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Damage done to Spectre is reflected on her enemies, leaving her unharmed. The effect lessens with distance.",
+        "notes": "The reflected damage is not dealt to Spectre.<br/>Illusions don\u0027t get this ability.",
+        "dmg": "",
+        "attrib": "MIN RADIUS: <b><font color=\"#ffffff\">300/300/300/300</font></b><br/>MAX RADIUS: <b><font color=\"#ffffff\">1000/1000/1000/1000</font></b><br/>DAMAGE REFLECTED: <b><font color=\"#ffffff\">10%/14%/18%/22%</font></b>",
+        "cmb": "",
+        "lore": "A daunting task lies before enemies of Mercurial - killing a shadow with blade and magic.",
+        "hurl": "Spectre",
+        "name": "spectre_dispersion",
+        "youtube":"r-jRKC2Vhhw",
+        "id": 2
+    },
+    {
+        "dname": "Reality",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b>",
+        "desc": "Spectre exchanges places with a chosen Haunt.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "The scattered shadows unite into the one true Spectre.",
+        "hurl": "Spectre",
+        "name": "spectre_reality",
+        "youtube":"A4bKLBRVo8U",
+        "id": 3
+    },
+    {
+        "dname": "Haunt",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Creates a spectral nemesis to attack each enemy hero after a short delay. At any moment during the duration, Spectre can use Reality to exchange places of a given haunt.<br/>Haunt illusions are uncontrollable, take extra damage, and deal less damage than Spectre herself.  They move at 400 base movement speed and ignore terrain.",
+        "notes": "Haunt illusions are uncontrollable, move at 400 base movement speed, and cannot be disabled.<br/>There is a 1 second delay before illusions start attacking their target.",
+        "dmg": "",
+        "attrib": "HAUNT DURATION: <b><font color=\"#ffffff\">5/6/7</font></b><br/>HAUNT DAMAGE: <b><font color=\"#ffffff\">30%</font></b><br/>HAUNT DAMAGE TAKEN: <b><font color=\"#ffffff\">200%/200%/200%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/150/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120",
+        "lore": "At the height of combat, Mercurial\u0027s physical manifestation shatters, and the shadowy pieces haunt those who still cling to life.",
+        "hurl": "Spectre",
+        "name": "spectre_haunt",
+        "youtube":"wI0WOL1XEj4",
+        "id": 4
+    }
+]

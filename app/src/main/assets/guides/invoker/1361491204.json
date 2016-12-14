@@ -1,0 +1,107 @@
+{
+	"Hero":"invoker",
+	"Title":"Quas/Wex control Invoker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"blades_of_attack"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"magic_stick",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"force_staff",
+				"ancient_janggo",
+				"ultimate_scepter"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situational":
+			[
+				"blink",
+				"shivas_guard",
+				"cyclone",
+				"black_king_bar",
+				"refresher"
+			],
+			"Auto-Attack Damage":
+			[
+				"greater_crit",
+				"monkey_king_bar",
+				"skadi",
+				"abyssal_blade",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If your team needs a more reliable initiate",
+				"blades_of_attack":"Due to Invoker's low base damage, not taking Exort requires a blades of attack to last hit properly",
+				"branches":"Stats are useful.",
+				"tango":"You'll be focusing on Quas early game, so this is all the regen you'll be needing",
+				"travel_boots":"Will replace Phase Boots",
+				"phase_boots":"Getting these as early as possible makes a huge difference last hitting",
+				"bracer":"To build into a drum later",
+				"cyclone":"In case of mana problems, or if you just want to go faster",
+				"force_staff":"A great positioning tool. Use it offensively and defensively to give Invoker the mobility he lacks.",
+				"ultimate_scepter":"Time it to get around level 17 to use with level 4 Invoke",
+				"refresher":"If you're doing REALLY well. Core if you plan on making a youtube montage.",
+				"assault":"For very late game, if your team requires extra physical auto-attack damage. Because you can never attack too quickly",
+				"black_king_bar":"If you find yourself being focused too much in fights",
+				"shivas_guard":"Gives a whole new spell to your teamfight repertoire.",
+				"monkey_king_bar":"For very late game, if your team requires extra physical auto-attack damage",
+				"greater_crit":"For very late game, if your team requires extra physical auto-attack damage",
+				"skadi":"For very late game, if your team requires extra physical auto-attack damage",
+				"ancient_janggo":"Some more damage, and some more speed",
+				"abyssal_blade":"For very late game, if your team requires extra physical auto-attack damage"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"invoker_quas",
+			"2":"invoker_invoke",
+			"3":"invoker_quas",
+			"4":"invoker_wex",
+			"5":"invoker_wex",
+			"6":"invoker_quas",
+			"7":"invoker_invoke",
+			"8":"invoker_wex",
+			"9":"invoker_wex",
+			"10":"invoker_quas",
+			"11":"invoker_exort",
+			"12":"invoker_invoke",
+			"13":"invoker_wex",
+			"14":"invoker_wex",
+			"15":"invoker_wex",
+			"16":"invoker_exort",
+			"17":"invoker_invoke",
+			"18":"invoker_exort",
+			"19":"invoker_exort",
+			"20":"invoker_exort",
+			"21":"invoker_exort",
+			"22":"invoker_exort",
+			"23":"invoker_quas",
+			"24":"invoker_quas",
+			"25":"invoker_quas"
+		}
+	}
+}

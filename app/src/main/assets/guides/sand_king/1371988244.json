@@ -1,0 +1,71 @@
+{
+	"Hero":"sand_king",
+	"Title":"GreyShark.Sand King",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"clarity",
+				"magic_stick",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"arcane_boots",
+				"blink",
+				"black_king_bar"
+			],
+			"Mid Game":
+			[
+				"veil_of_discord",
+				"ultimate_scepter"
+			],
+			"Late Game":
+			[
+				"heart",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_burrowstrike",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_caustic_finale",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_burrowstrike",
+			"8":"sandking_caustic_finale",
+			"9":"sandking_caustic_finale",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_sand_storm",
+			"13":"sandking_sand_storm",
+			"14":"sandking_sand_storm",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,77 @@
+{
+	"Hero":"spectre",
+	"Title":"GreyShark.Spectre",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"Early Game":
+			[
+				"hand_of_midas",
+				"radiance",
+				"phase_boots"
+			],
+			"Mid Game":
+			[
+				"manta",
+				"basher",
+				"heart"
+			],
+			"Late Game":
+			[
+				"butterfly",
+				"abyssal_blade"
+			],
+			"Situation":
+			[
+				"diffusal_blade",
+				"black_king_bar"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"spectre_dispersion",
+			"2":"spectre_spectral_dagger",
+			"3":"spectre_dispersion",
+			"4":"spectre_spectral_dagger",
+			"5":"spectre_dispersion",
+			"6":"spectre_haunt",
+			"7":"spectre_dispersion",
+			"8":"spectre_spectral_dagger",
+			"9":"spectre_spectral_dagger",
+			"10":"spectre_desolate",
+			"11":"spectre_haunt",
+			"12":"spectre_desolate",
+			"13":"spectre_desolate",
+			"14":"spectre_desolate",
+			"15":"attribute_bonus",
+			"16":"spectre_haunt",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

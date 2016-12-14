@@ -1,0 +1,74 @@
+{
+	"Hero":"bane",
+	"Title":"GreyShark.Bane",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"tango",
+				"clarity",
+				"clarity",
+				"mantle",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"ward_observer",
+				"flying_courier",
+				"null_talisman",
+				"soul_ring"
+			],
+			"Mid Game":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"black_king_bar"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"refresher",
+				"shivas_guard"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_brain_sap",
+			"2":"bane_nightmare",
+			"3":"bane_brain_sap",
+			"4":"bane_nightmare",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_brain_sap",
+			"8":"bane_nightmare",
+			"9":"bane_nightmare",
+			"10":"bane_enfeeble",
+			"11":"bane_fiends_grip",
+			"12":"bane_enfeeble",
+			"13":"bane_enfeeble",
+			"14":"bane_enfeeble",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

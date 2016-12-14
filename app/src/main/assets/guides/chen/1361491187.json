@@ -1,0 +1,94 @@
+{
+	"Hero":"chen",
+	"Title":"100% Support Chen",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"headdress",
+				"boots",
+				"ward_observer",
+				"ward_sentry",
+				"ring_of_basilius",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"vladmir",
+				"ghost",
+				"necronomicon"
+			],
+			"All Game":
+			[
+				"ward_observer",
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Depending on how fast your team will need a mekansm, it differs on the boots. If you don't need a mekansm until about 15-20 minutes you should get arcane boots first because they will grant your team mana along with your creeps.",
+				"ghost":"If the enemy team is mainly physical damage buy this item because it makes you immune to physical damage (exorcism and omnislash).",
+				"flask":"When you grab the regen you want to give it to the carry, mid, or offlane because you will not need it in jungle because your creeps will be tanking most of the damage.",
+				"ward_observer":"One main part of winning in DotA is having vision on the map for your team and denying the enemies vision.",
+				"ward_sentry":"One main part of winning in DotA is having vision on the map for your team and denying the enemies vision.",
+				"tango":"When you grab the regen you want to give it to the carry, mid, or offlane because you will not need it in jungle because your creeps will be tanking most of the damage.",
+				"vladmir":"Vladmir's offering grants great pushing power, lifesteal and mana regen for all nearby creeps and heros. The lifesteal will not work on Chen though or any other ranged hero.",
+				"ring_of_basilius":"Ring of Basilius will help you and your creeps with mana problems. Builds into Vladmir's Offering.",
+				"headdress":"Early into the game this will help with the creeps regen.",
+				"necronomicon":"Necromonicon will pay for itself. Amazing pushing potential and bonus speed for every nearby allied unit.",
+				"ultimate_scepter":"Aghanim's Scepter on Chen is great because every 30 seconds you get a 200-400 heal depending on what level you are."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_penitence",
+			"4":"chen_holy_persuasion",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_penitence",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_test_of_faith",
+			"14":"chen_test_of_faith",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

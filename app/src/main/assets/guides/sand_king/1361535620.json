@@ -1,0 +1,87 @@
+{
+	"Hero":"sand_king",
+	"Title":"Midar Sand King (Mid) by Cube",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"flask",
+				"gauntlets",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"blink"
+			],
+			"Situational Nuker build":
+			[
+				"ultimate_scepter",
+				"veil_of_discord",
+				"radiance",
+				"shivas_guard",
+				"travel_boots",
+				"heart"
+			],
+			"Situational Carry build ":
+			[
+				"bfury",
+				"vladmir",
+				"radiance",
+				"rapier",
+				"heart",
+				"bloodstone",
+				"ultimate_scepter"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sandking_caustic_finale",
+			"2":"sandking_sand_storm",
+			"3":"sandking_burrowstrike",
+			"4":"sandking_caustic_finale",
+			"5":"sandking_burrowstrike",
+			"6":"sandking_epicenter",
+			"7":"sandking_caustic_finale",
+			"8":"sandking_burrowstrike",
+			"9":"sandking_burrowstrike",
+			"10":"sandking_caustic_finale",
+			"11":"sandking_epicenter",
+			"12":"sandking_sand_storm",
+			"13":"sandking_sand_storm",
+			"14":"sandking_sand_storm",
+			"15":"attribute_bonus",
+			"16":"sandking_epicenter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

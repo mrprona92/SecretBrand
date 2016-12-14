@@ -1,0 +1,92 @@
+{
+	"Hero":"meepo",
+	"Title":"Build 2 MeePwn",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"ring_of_protection",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"ogre_axe",
+				"poor_mans_shield",
+				"tpscroll",
+				"orb_of_venom"
+			],
+			"coreItems":
+			[
+				"travel_boots",
+				"ultimate_scepter",
+				"blink",
+				"reaver",
+				"ultimate_orb",
+				"sheepstick"
+			],
+			"luxury":
+			[
+				"manta",
+				"skadi",
+				"heart",
+				"pipe"
+			],
+			"increase poof damageee":
+			[
+				"ethereal_blade",
+				"veil_of_discord"
+			]
+		},
+		"ItemTooltips":
+		{
+				"reaver":"Bonus hp to all of your meepos useful for initiations",
+				"sheepstick":"Really nice for solo kills,also good attributes",
+				"skadi":"Pretty good attributes and nice slow stack with passive",
+				"orb_of_venom":"Good stack with your pasive"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"meepo_poof",
+			"2":"meepo_earthbind",
+			"3":"meepo_poof",
+			"4":"meepo_geostrike",
+			"5":"meepo_poof",
+			"6":"meepo_divided_we_stand",
+			"7":"meepo_geostrike",
+			"8":"meepo_poof",
+			"9":"meepo_geostrike",
+			"10":"meepo_earthbind",
+			"11":"meepo_divided_we_stand",
+			"12":"meepo_earthbind",
+			"13":"meepo_earthbind",
+			"14":"meepo_geostrike",
+			"15":"attribute_bonus",
+			"16":"meepo_divided_we_stand",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"meepo_poof":"Keep using this on you lane to get last hits since your damage is really low this helps alot that's the reason why u get this on level 1"
+		}
+	}
+}

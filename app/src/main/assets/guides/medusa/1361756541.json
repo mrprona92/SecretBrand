@@ -1,0 +1,113 @@
+{
+	"Hero":"medusa",
+	"Title":"6.82 - Standard Medusa (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"branches",
+				"branches",
+				"branches",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_aquila",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"yasha",
+				"sphere"
+			],
+			"luxury":
+			[
+				"ancient_janggo",
+				"black_king_bar",
+				"satanic"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"butterfly",
+				"skadi"
+			],
+			"Employee Discount":
+			[
+				"rapier"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"sphere":"We get Linken's Sphere over BKB because of the stats Medusa needs and Linken's effect. This is a core item for her because of how well it let's her farm her damage-dealing items.",
+				"rapier":"As seen on Showcase Showndown -back to you Bob Barker!",
+				"butterfly":"Mana Shield and Evasion work quite nicely for Medusa giving her more survivability without deviating from the stats she likes the most.
+
+Make sure to take advantage of the Flutter active to keep foes far away from you and consistently kiting them around.",
+				"manta":"Activating Manta Style will turn off your Mana Shield, be sure to turn it back on! Use this to split-push, disjoint incoming stuns and disables as well as trick opponents into wasting their abilities on your illusions.",
+				"satanic":"Lifesteal works with Eye of Skadi but strength is not a stat that helps Medusa's damage output. If you find yourself still melting and unable to stay alive to deal your damage: Satanic is a key item.",
+				"skadi":"Similar to Linken's Sphere and how quickly Medusa can now farm: Skadi diminishes the effectiveness of enemy physically carries while also giving her a huge boost in stats.",
+				"yasha":"Yasha is a great value item. It gives the speed, attack and is a great step towards Manta Style.",
+				"ancient_janggo":"For early-game fights in case the pace of the game is not going the way you want. Skip this if you are getting incredibly good farm and at a relatively good rate."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"medusa_mystic_snake",
+			"2":"medusa_mana_shield",
+			"3":"medusa_mystic_snake",
+			"4":"medusa_split_shot",
+			"5":"medusa_mystic_snake",
+			"6":"medusa_stone_gaze",
+			"7":"medusa_mystic_snake",
+			"8":"medusa_split_shot",
+			"9":"medusa_split_shot",
+			"10":"medusa_split_shot",
+			"11":"medusa_stone_gaze",
+			"12":"medusa_mana_shield",
+			"13":"medusa_mana_shield",
+			"14":"medusa_mana_shield",
+			"15":"attribute_bonus",
+			"16":"medusa_stone_gaze",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"medusa_split_shot":"Split Shot works later in the game where it is most needed to flash-farm lanes, counter-push and tear down foes incredibly fast. Orb effects do not work with Split Shot (only one of the arrows deals the extra orb effects).",
+				"medusa_mystic_snake":"Try and make the last jump be on a hero to improve harassment. Don't spam this ability all in one go, try and space them when needed for life and mana.
+
+When using your ultimate, this ability grants pure damage from every hero it hits, so be sure to utilize it!",
+				"medusa_mana_shield":"Make sure you keep enough mana for at least your ultimate. Mana Shield works great towards the late-game when you have an access amount of mana and want to take the damage foes engage you with.",
+				"medusa_stone_gaze":"Stone Gaze works even if your back is turned. So long as they are looking in your direction, they will still be slowed and crippled.
+
+This works on Black King Bar users; so fire away when they over-commit to fights."
+		}
+	}
+}

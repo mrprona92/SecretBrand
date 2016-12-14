@@ -1,0 +1,19 @@
+{
+  "attrib": "+ 7 к броне<br/>+ 50% к регенерации маны<br/>СНИЖЕНИЕ БРОНИ: 7",
+  "cd": 7.0,
+  "components": [
+    "chainmail",
+    "sobi_mask"
+  ],
+  "qual": "rare",
+  "notes": "",
+  "desc": "Активируемая: Valor — при использовании на союзника увеличивает его броню и снижает вашу. При использовании на противника снижает броню у вас и цели. Длится 7 секунд.",
+  "dname": "Medallion of Courage",
+  "dotaId": "medallion_of_courage",
+  "mc": false,
+  "img": "medallion_of_courage_lg.png",
+  "lore": "Его носитель не боится сражений.",
+  "id": 187,
+  "created": true,
+  "cost": 1200
+}

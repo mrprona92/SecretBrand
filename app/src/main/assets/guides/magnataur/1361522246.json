@@ -1,0 +1,101 @@
+{
+	"Hero":"magnataur",
+	"Title":"[DMX] Magnus (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"stout_shield",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"soul_ring",
+				"tpscroll",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"refresher",
+				"assault",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"mask_of_madness",
+				"heart",
+				"greater_crit",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"La dagger vous permettra de faire des engage parfait avec votre ultimate. Elle pourra également vous permettre de blink derrière vos adversaires et de les ramener avec skewer vers vos alliés.",
+				"bottle":"Si vous êtes parti au mid, une bottle est obligatoire pour avoir le contrôle des runes et vous régénérez sur la ligne.",
+				"tpscroll":"Ayez toujours un tp sur vous !",
+				"refresher":"Vous permettra de placer deux ultimates durant un teamfight ! Cependant attention à votre mana, car l'item coute très cher en mana.",
+				"greater_crit":"Très bien si vous êtes en mode \"carry\"",
+				"bfury":"Si vous farmez très bien, vous pouvez partir en mode \"carry\" et acheter une battlefury",
+				"mask_of_madness":"A faire pour des rampages de qualité si vous êtes en mode \"carry\"",
+				"soul_ring":"Faîtes soit les arcanes boots, soit le Soul ring, mais pas les deux.",
+				"arcane_boots":"Faîtes soit les arcanes boots, soit le Soul ring, mais pas les deux."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"magnataur_skewer",
+			"2":"magnataur_shockwave",
+			"3":"magnataur_shockwave",
+			"4":"magnataur_empower",
+			"5":"magnataur_shockwave",
+			"6":"magnataur_reverse_polarity",
+			"7":"magnataur_shockwave",
+			"8":"magnataur_skewer",
+			"9":"magnataur_skewer",
+			"10":"magnataur_skewer",
+			"11":"magnataur_reverse_polarity",
+			"12":"magnataur_empower",
+			"13":"magnataur_empower",
+			"14":"magnataur_empower",
+			"15":"attribute_bonus",
+			"16":"magnataur_reverse_polarity",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"magnataur_shockwave":"Il faut maxer shockwave en premier car ce sort vous permettra d'harass de loin ou de farmer sans prendre de coups.",
+				"magnataur_empower":"Un buff de dégâts et une cleave très sympathique. A utiliser sur votre hardcarry en priorité.",
+				"magnataur_skewer":"Prendre le skewer au niveau 1 vous permet d'avoir une escape en cas de problème.",
+				"magnataur_reverse_polarity":"Très bon ultimate de zone qui permettra a votre team de gagner facilement le teamfight si vous l'avez bien placé."
+		}
+	}
+}

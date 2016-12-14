@@ -1,0 +1,94 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Vengeful Spirit Alt-Tab Guide by Godlike",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"magic_wand",
+				"urn_of_shadows"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"force_staff",
+				"ancient_janggo",
+				"necronomicon",
+				"ghost",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Very situational - only get it against burst type right clickers such as Clinkz, Bounty Hunter, Lifestealer, etc. You can Ghost, then stun them or swap with someone to save yourself. Could be upgraded to Ethereal Blade if you have a heavy magic damage team.",
+				"power_treads":"Here is the big debate - what boots to get. If you are confident in Tread switching to save up some mana, get Treads. They also provide decent HP boost. For a cheap chasing mechanism, get Phase. If your team needs the extra mana and you are mostly roaming, get Arcanes.",
+				"mekansm":"If no one is getting a Mek, consider it. A Mek, coupled with Arcane Boots and your Aura make you such a devastating pusher with your team.",
+				"pipe":"Although not advisable for the same hero to carry both the Mekanism and the Pipe, a Pipe is always welcomed by any team. If you don`t have a hero that can build it for you and your team needs it, consider getting it. Still though, VS is not the best Pipe carrier in the world.",
+				"urn_of_shadows":"Provides extra HP and mana regen. Best used in conjuction with Phase Boots and is generally advised for a roaming VS. Do not get it if you are going for Arcane Boots or someone on the team already has it.",
+				"force_staff":"Grab a Force Staff if you die too fast after Swapping. You can Force yourself out after using your Nether Swap given that the enemy team doesn`t react in time and stun lock you down. Also helpful for the team in general.",
+				"necronomicon":"For even more pushing power! Your Vengeance Aura also makes these little guys a force to be reckoned with. They can be your Gem on demand and your own personal dewarding squad.",
+				"ancient_janggo":"You are the aura carrier after all - Drums make you tougher and chasing easier. Also helpful when pushing as 5."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_command_aura",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_command_aura",
+			"9":"vengefulspirit_command_aura",
+			"10":"vengefulspirit_command_aura",
+			"11":"vengefulspirit_nether_swap",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"vengefulspirit_wave_of_terror",
+			"24":"vengefulspirit_wave_of_terror",
+			"25":"vengefulspirit_wave_of_terror"
+		},
+		"AbilityTooltips":
+		{
+				"vengefulspirit_magic_missile":"Nothing to say here - very strong stun, max this first.",
+				"vengefulspirit_wave_of_terror":"Gives vision but most importantly reduces enemy`s armor. However, in most cases you won`t be able to hit more than 2 heroes at the same time with it. Only get this to level 4 before stats if you are not focused in fights and you think you can catch a lot of people with it.",
+				"vengefulspirit_command_aura":"This aura just makes your carries super carries. Right clicks hurt a lot when VS is around. Worth getting before Wave of Terror as it is permanent and does not require aiming.",
+				"vengefulspirit_nether_swap":"Interrupts channeled abilities and works on Magic Immune targets. You can swap with allies as well to save them. In teamfights either initiate with it if you catch someone out of position or wait for the opportunity to cancel a big channeled ability like Black Hole or Death Ward.",
+				"attribute_bonus":"Get stats over maxing Wave of Terror if you are having trouble staying alive or you are having a hard time hitting more than 1 or 2 enemy heroes with it."
+		}
+	}
+}

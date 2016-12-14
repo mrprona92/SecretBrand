@@ -1,0 +1,21 @@
+{
+  "dotaId": "bfury",
+  "id": 145,
+  "img": "bfury_lg.png",
+  "dname": "Battle Fury",
+  "qual": "epic",
+  "cost": 4575,
+  "desc": "Active: Chop Tree/Ward - Destroy a target tree or ward. Chop cast range is increased when targetting wards.<br/>Passive: Quell - Increases attack damage against non-hero units, based on whether the equipped hero is ranged or melee. Does not provide bonus damage against Roshan.<br/>Passive: Cleave - Deals a percent of attack damage in a 280 area around the target. Ranged units cannot Cleave.",
+  "notes": "Cleave damage is reduced by armor type but not by armor value.<br/>Cleave damage goes through spell immunity.<br/>If multiple sources of Cleave are present, each Cleave's damage is applied separately.",
+  "attrib": "+ 55 Damage<br/>+ 6 HP Regeneration<br/>+ 150% Mana Regeneration<br/>CLEAVE DAMAGE: 35%<br/>QUELL MELEE DAMAGE: 160%<br/>QUELL RANGED DAMAGE: 125%<br/>CHOP TREE CAST RANGE: 350<br/>CHOP WARD CAST RANGE: 450",
+  "mc": false,
+  "cd": 5,
+  "lore": "The bearer of this mighty axe gains the ability to cut down swaths of enemies at once.",
+  "components": [
+    "broadsword",
+    "claymore",
+    "pers",
+    "quelling_blade"
+  ],
+  "created": true
+}

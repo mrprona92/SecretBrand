@@ -1,0 +1,118 @@
+{
+	"Hero":"pudge",
+	"Title":"[DMX] Pudge (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"magic_wand",
+				"tranquil_boots",
+				"phase_boots"
+			],
+			"Items principaux":
+			[
+				"urn_of_shadows",
+				"hood_of_defiance",
+				"force_staff",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"heart",
+				"assault",
+				"travel_boots"
+			],
+			"Situationnel":
+			[
+				"vanguard",
+				"blade_mail",
+				"pipe"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gauntlets":"Pour augmenter vos points de vie",
+				"branches":"Quelques points de stats sont toujours bienvenues",
+				"magic_wand":"Bon item en lane contre des adversaires qui utilisent souvent leur sorts, il permet de récupérer vie et mana instantanément",
+				"clarity":"Un peu de mana vous permettra de tenter plus de hook",
+				"flask":"Une potion est indispensable en cas de coup dur",
+				"bottle":"Cet item est très bien si vous jouez au mid, car il vous permet de récupérer vie et mana entre deux ganks, de plus, vous pourrez stocker les runes trouvées dans la rivière",
+				"tango":"En début de partie un tango est toujours pratique pour résister à la pression de vos adversaires",
+				"tpscroll":"Il faut toujours avoir un TP sur soi",
+				"travel_boots":"Les seules bottes viables en late game, elles vous permettent d’avoir une très grande mobilité, élément essentiel pour pudge qui pourra gank et aider ses alliés partout sur la map. Changez vos bottes de début de partie par celles-ci en fin de game",
+				"phase_boots":"Le boost de vitesse de déplacement peut s'avérer très utile lors des ganks.
+(Bien sur n'achetez qu'une seule paire de bottes).",
+				"pipe":"C'est l'évolution du Hood Of Defiance alors n'hésitez pas si vous avez les moyens, il vous protégera lors d'un engagement de fight.",
+				"urn_of_shadows":"Cet item vous permet de disposer d’un heal ou d’un DoT enfonction des kills et des assists que vous faîtes. Sachant que pudge est un ganker, les charges de l’urn se rechargeront vite",
+				"force_staff":"Remplace une dagger, inaccessible pour le perso. Force staff donne quelques points d’intelligence. Il vous permet de vous échapper en traversant les arbres, les falaises et autres éléments du décor, mais aussi de rattraper une proie.Il permet aussi d’atteindre des endroits inaccessibles",
+				"ultimate_scepter":"L’Aghanim's vous permettra de rendre votre ultimate très efficace en fin de game, les dégâts supplémentaires qu’il apporte sont énormes et la capacité de soin est très utile, car votre ultimate n’a que 30 secondes de cooldown",
+				"assault":"L’Assault Cuirass vous permet d’accroître fortement votre armure et aide votre équipe à push grâce à son aura de vitesse d’attaque et de malus armure",
+				"heart":"Si vous voulez pouvoir activer votre “Rot” en permanence ou juste être un monstreux sac de point de vie, achetez l’Heart of Tarrasque. Elle vous donnera un bonus de vie et de force conséquent tout en vous offrant une regénération de points de vie incomparable",
+				"shivas_guard":"La Shiva’s Guard donne de la mana et de l’armure et “Arctic blast” un actif qui ralentit tous les ennemis sur une très large zone. De surcroît, cet actif donne la vision immédiate tout autour de pudge (719 de rayon) ce qui peut vous permettre de voir un ennemi caché dans le fog ou sur une falaise",
+				"vanguard":"Si l’équipe ennemie dispose de beaucoup de dommages physiques, Vanguard est une bonne option, vous permettant de tanker plus les auto-attaques et de disposer d’un capital de points de vie plus élevé",
+				"blade_mail":"Si vous voyez que vous manquez d’armure et que vous vous faîtes souvent focus en teamfight, Blademail est la solution, elle vous donne un peu d’intelligence, de l’armure et un actif permettant de renvoyer tous les dommages subis à vos adversaires",
+				"hood_of_defiance":"Cet item est parfait pour pudge car il se combine avec votre “Flesh Heap” et vous permet de tanker plus les dommages que vous infligeront votre “rot”, vous pourrez l’upgrade en “Pipe of insight” si votre équipe en a besoin",
+				"arcane_boots":"Parfait pour votre mana, vous donne une régen active qui vous permet de vraiment spammer votre hook. De plus votre réserve de mana sera plus élevée ce qui vous permettra d’enchainer plus vos sorts.
+(Bien sur n'achetez qu'une seule paire de bottes).",
+				"tranquil_boots":"Très bonnes bottes pour vous régénérez entre les ganks et vous donne un bonne vitesse de déplacement.
+(Bien sur n'achetez qu'une seule paire de bottes)."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pudge_rot",
+			"2":"pudge_meat_hook",
+			"3":"pudge_meat_hook",
+			"4":"pudge_rot",
+			"5":"pudge_meat_hook",
+			"6":"pudge_dismember",
+			"7":"pudge_meat_hook",
+			"8":"pudge_rot",
+			"9":"pudge_rot",
+			"10":"pudge_flesh_heap",
+			"11":"pudge_dismember",
+			"12":"pudge_flesh_heap",
+			"13":"pudge_flesh_heap",
+			"14":"pudge_flesh_heap",
+			"15":"attribute_bonus",
+			"16":"pudge_dismember",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pudge_meat_hook":"Ce sort est le skill signature de pudge, il est très puissant car il inflige de gros dégats purs et sa portée lui permet de tuer un fuyard ou d’isoler un ennemi de son équipe.
+Vous pourrez également sauver des héros alliés en les ramenant près de vous alors qu’ils sont dans la tourmente",
+				"pudge_rot":"Ce sort est très pratique pour chasser vos ennemis et les garder à portée, il peut également servir à farmer rapidement les vagues de creeps. Utilisé en combinaison avec votre ultimate, il permettra de faire encore plus de dégâts",
+				"pudge_flesh_heap":"Ce sort permet a Pudge de prendre moins de dégâts de son Rot et de devenir un tank horrible en fin de game, combinant grosse réserve de points de vie et résistance magique",
+				"pudge_dismember":"L’ultimate de pudge permet de stun un ennemi, de lui infliger des dommages et est parfait en combinaison avec votre Rot. Il peut être suivi ou précédé par un Hook pour un combo parfait. Son cooldown de 30 secondes seulement vous permet de l’avoir à disposition à chaque gank"
+		}
+	}
+}

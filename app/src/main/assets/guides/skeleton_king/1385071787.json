@@ -1,0 +1,119 @@
+{
+	"Hero":"skeleton_king",
+	"Title":"Wraith King Carry Build [Aidan]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"BOOTS!":
+			[
+				"boots",
+				"magic_stick"
+			],
+			" Core-ish Items":
+			[
+				"armlet",
+				"power_treads",
+				"desolator"
+			],
+			"Other Stuff":
+			[
+				"monkey_king_bar",
+				"assault",
+				"abyssal_blade",
+				"heavens_halberd",
+				"radiance",
+				"heart",
+				"rapier",
+				"black_king_bar"
+			],
+			"IF YER FARMIN":
+			[
+				"hand_of_midas",
+				"invis_sword"
+			],
+			"Maybe":
+			[
+				"ancient_janggo",
+				"bfury"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"They're small but the extra bonus to your early mana can mean the difference between securing a kill or not.",
+				"boots":"Dem' boots.  I would get these, perhaps after a helm, but not finish treads til after the armlet.",
+				"magic_stick":"This is vital for your stuns.  Early game you will get maybe 1 or 2 Q's off and be kaput on mana.  Having this charged up in reserve will ensure that extra emergency stun early game and be a huge boost for a small investment.",
+				"flask":"Most people (who are probably better than me) don't get salves a lot of the time to start, but if you're in a hard lane (which is a lot of lanes vs. early game SK), you'll need it for emergencies.",
+				"tango":"Gotta get dat tango",
+				"power_treads":"Get the basic boots first, then finish armlet, then go back to treads.  You can skip on the full boots for drums if you're having a really good early game, it sounds unconventional but I've tried it several times now and it works extremely well.",
+				"hand_of_midas":"This can definitely be a thing on you if you get it really, really fast, like any midas.  I wouldn't get it in more serious games but in pubs it CAN be a huge boost if they leave you alone in the jungle",
+				"assault":"Always an option.  Like most other items listed, it's situational.  If no one else on your team is getting an AC, you definitely should as the boost to your pushing and teamfight power is huge in the mid and late game.  It won't pack the same punch, but stacked with Deso, Armlet, and your E it hurts",
+				"heart":"It doesn't really give as great of damage as abyssal or MKB, but it is always an option if you're just trying to stay alive.  I don't prefer it but it's good in some circumstances where your team just has no tank and you need to take that role.",
+				"black_king_bar":"If you're getting stunned and magicked down, always an option.  Wreck face without worry!",
+				"rapier":"The big cahuna.  If you're ludicrously fed this is always an option.  When your ult is fully leveled you get a free revive (as long as you have the mana) every 60 seconds so it's not nearly as dangerous to carry as it is with some other heroes.",
+				"monkey_king_bar":"They have evasion?  Not anymore.",
+				"radiance":"If gotten early enough it can be effective as on most heroes, but I honestly wouldn't unless your team has like 4 other deso's and yours would be redundant.
+
+That being said, if they have blink-heavy heroes, this is fantastic for shutting them down and keeping them in fights as they can't escape.",
+				"bfury":"I very rarely get this on the King but it definitely can work.  You'll farm the jungle insanely fast with this and midas, and it helps your mana problem a good bit with some regen.  Only get it if you really feel the need.",
+				"armlet":"This is a must in most game to me, especially if your team does not have a tank.  Early game teamfights will become easysauce with this.  If your'e getting good farm I would refer to the \"FARMED EARLY?\" section.",
+				"invis_sword":"If you go the Midas route I would reccomend this as well.  Turn into a roaming kill machine, stunning people from the darkness.  It can catapult you to crazy fed territory.",
+				"mjollnir":"Not the greatest option as it doesn't go with your crit, but still powerful and can work in the right circumstances.",
+				"desolator":"I feel that Desolator is absolutely essential for Skeleton King.  By the mid game with this, you'll be basically 2 or 3 hitting enemies if you're not totally shut down.  Other items are situational; almost any damage item can work on Skeleton King depending on the situation and what your team needs.",
+				"ancient_janggo":"I've seen a few people get this very early on (Purge uses it to great effecT), as it covers some of your early mana needs and assists in chasing as you are a very kiteable guy. Every time I've tried it myself it has worked wondrously.",
+				"abyssal_blade":"This is definitely about the epitome of luxury, but getting at least the basher part of it if you don't have the moolah for the finished abyssal is big for the extra tankiness and the stun chance.  If you get the gold for it, this is one of the strongest options.",
+				"heavens_halberd":"If you're not fed and are serving more of a stunner support type role, this can be great.  Disarm is always a fantastic thing to have to shut down fed carries."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skeleton_king_hellfire_blast",
+			"2":"skeleton_king_mortal_strike",
+			"3":"skeleton_king_hellfire_blast",
+			"4":"skeleton_king_mortal_strike",
+			"5":"skeleton_king_mortal_strike",
+			"6":"skeleton_king_reincarnation",
+			"7":"skeleton_king_hellfire_blast",
+			"8":"skeleton_king_mortal_strike",
+			"9":"skeleton_king_hellfire_blast",
+			"10":"skeleton_king_vampiric_aura",
+			"11":"skeleton_king_reincarnation",
+			"12":"skeleton_king_vampiric_aura",
+			"13":"skeleton_king_vampiric_aura",
+			"14":"skeleton_king_vampiric_aura",
+			"15":"attribute_bonus",
+			"16":"skeleton_king_reincarnation",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skeleton_king_hellfire_blast":"A fantastic stun and the extra small DoT can help secure early kills.  Eats up most of your early mana though so use it extremely sparingly and with good coordination with your lane buddy.  Lategame you drop this and and wreck people before they can escape you",
+				"skeleton_king_vampiric_aura":"A nice ability later on in the game, but early it will make your minions push the lane too much, so avoid it unless you feel it's absolutely necessary. ",
+				"skeleton_king_mortal_strike":"Awesome.  Max it and your Q consistently.  I usually favor this over maxing the stun first, as the damage from your Q is minimal.  There are cases, when you are fighting EXTREMELY squishy lane opponents, where that extra damage over time from your Q may be warranted over leveling this skill.",
+				"skeleton_king_reincarnation":"Careful not to expend your mana if you're close to death, as this does take a considerable amount of mana to actually be usable. "
+		}
+	}
+}

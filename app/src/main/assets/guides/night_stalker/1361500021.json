@@ -1,0 +1,104 @@
+{
+	"Hero":"night_stalker",
+	"Title":"6.82 - Standard Night Stalker (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"armlet",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"ancient_janggo"
+			],
+			"Extension Items":
+			[
+				"ultimate_scepter",
+				"heart",
+				"assault",
+				"abyssal_blade"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"(Optional): Buy if you need help last-hitting. Night Stalker's base damage is very high however.",
+				"gauntlets":"Will be used to create Urn, to help with ganking and staying out in the field longer.",
+				"bottle":"Snag and utilize runes at your disposal. Helps regenerate the mana you will lose from your ganks and abilities.",
+				"urn_of_shadows":"Can be used offensively or defensively. Use it keep yourself roaming at night or to finish off opponents you cannot reach.",
+				"ultimate_scepter":"Grants you a very large field of vision to help with ganks or enemies that try to juke you in forest. Also allows you to safely farm jungle without fear of being ganked.",
+				"armlet":"This is an arguable item to get for Night Stalker. Urn helps alleviate the life-draining effect of Armlet and it works very well when ganking.
+
+This item would delay your much needed Black King Bar, so consider the cost."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"night_stalker_void",
+			"2":"night_stalker_hunter_in_the_night",
+			"3":"night_stalker_void",
+			"4":"night_stalker_hunter_in_the_night",
+			"5":"night_stalker_void",
+			"6":"night_stalker_darkness",
+			"7":"night_stalker_crippling_fear",
+			"8":"night_stalker_void",
+			"9":"night_stalker_hunter_in_the_night",
+			"10":"night_stalker_hunter_in_the_night",
+			"11":"night_stalker_darkness",
+			"12":"night_stalker_crippling_fear",
+			"13":"night_stalker_crippling_fear",
+			"14":"night_stalker_crippling_fear",
+			"15":"attribute_bonus",
+			"16":"night_stalker_darkness",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"night_stalker_void":"This is your main damage dealer and slow. Abuse this ability as much as possible to really take advantage of it.",
+				"night_stalker_crippling_fear":"This is your silence. The mana cost combined with Void can be a bit much for Night Stalker, so use it only on heros that can prevent you from finishing them off during the night.
+
+Get an early level in Silence if the ganks call for it due to escapes.",
+				"night_stalker_hunter_in_the_night":"This passive ability is incredible for Night Stalker and makes him very comfortable at night to chase and kill at a very rapid pace.",
+				"night_stalker_darkness":"Night Stalker's Ultimate creates night or extends the night. Use this as soon as night comes on as it allows you to extend the night as long as possible (does not count towards the nighttime's duration). It also shrouds vision for foes and wards on the map, allowing you surprise them even more!
+"
+		}
+	}
+}

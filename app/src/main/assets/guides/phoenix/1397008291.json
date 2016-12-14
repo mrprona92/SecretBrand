@@ -1,0 +1,142 @@
+{
+	"Hero":"phoenix",
+	"Title":"Attack of the Murder Bird (Updated for 6.81)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"tango",
+				"gauntlets",
+				"gauntlets"
+			],
+			"Core Support":
+			[
+				"ward_observer",
+				"mekansm",
+				"urn_of_shadows",
+				"tranquil_boots",
+				"magic_wand"
+			],
+			"Core Mid":
+			[
+				"power_treads",
+				"magic_wand",
+				"bottle",
+				"heavens_halberd"
+			],
+			"Utility Bird":
+			[
+				"phase_boots",
+				"sheepstick",
+				"cyclone",
+				"gem",
+				"pipe",
+				"force_staff",
+				"medallion_of_courage",
+				"assault",
+				"sphere",
+				"blade_mail"
+			],
+			"Murder Bird":
+			[
+				"shivas_guard",
+				"veil_of_discord",
+				"blink",
+				"rod_of_atos",
+				"dagon",
+				"radiance",
+				"necronomicon",
+				"refresher",
+				"heart",
+				"skadi"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"The new and vastly improved Blink Dagger makes for a fantastic addition to Phoenix's arsenal. Remember, you can use it to move around, disjoint projectiles, or mid dive to gain some sick distance.",
+				"ring_of_protection":"Phoenix starts with zero armor. This alleviates your troubles somewhat! They also build into Tranquil boots, which are a good option for Phoenix.",
+				"gauntlets":"Get two Gauntlets at the beginning to build into your Urn.",
+				"gem":"Put your bird's eye view to good use with one of these babies. Take out enemy wards, scout out invisible enemies, and dominate the vision war. Just, you know. Don't die.",
+				"magic_wand":"Clutch gaming, activate!",
+				"flask":"Mind your regen! Pick either this or a Tango depending on your would be lane partners.",
+				"bottle":"You can steal runes mid Icarus Dive. Let's see Queen of Pain try to fight you for the rune.",
+				"ward_observer":"Although Phoenix isn't a hero you want to turn into the ward bitch, these are nice to have. ",
+				"tango":"Mind your regen! Pick either this or a Salve depending on your would be lane partners.",
+				"phase_boots":"Sometimes you want to fly a little faster and hit a little harder. If you don't care for treads or Tranquils, then these are your best option",
+				"power_treads":"Tread Switching is an important skill to learn! That swap to int threads may be what gives you enough juice to cast your ulti, and a switch to str threads may give you enough strength to last.",
+				"mekansm":"Gives you armor, regen, and a sweet active that can be used during Icarus Dive. Need i say more?",
+				"pipe":"If someone else bought the Mek, this is a great item to buy!",
+				"urn_of_shadows":"Recommended! These provide mana regen, good strength, and yet another nuke / heal for Phoenix to use. Remember you can use Icarus Dive to use Urn on farther targets!",
+				"sheepstick":"Best item in the game. ",
+				"cyclone":"You want this for its active. You can use it to catch enemies out, or use it on yourself for a brief period of invincibility. DO NOT USE IT WHILE USING SUN RAY. The beam does nothing, and you still lose your health. Using it while diving will not interrupt the dive, but will purge debuffs from you.",
+				"force_staff":"Useful on every utility hero, do not underestimate how many allies you can rescue with a good dive + Force staff!",
+				"dagon":"This will never not be funny. Not recommended, but you ought to try it at least once!",
+				"necronomicon":"While you await your rebirth inside a Supernova, you can micro your little helpers to assist your mates in combat!",
+				"refresher":"Laughably situational, and definitely not to be taken first, it WILL however, make you look pro as hell if you manage to successfully use it to its full potential late game",
+				"assault":"Not recommended, but hey, if you're going for a minus armor strat, this is always an option!",
+				"heart":"The ultimate HP regen and strength item, grabbing this baby will give you enough fuel to set the world on fire.
+
+it has no special abilities in combat though, so do keep this in mind.",
+				"shivas_guard":"Large amounts of armor, an amazing active that synergizes with dive, an awesome aura, what's not to love? The buildup. Eurgh.",
+				"sphere":"Oh what the heck. You can save lives with this now, so why not?",
+				"blade_mail":"The Nova bug no longer works, but it's still a very nice way way to gain some armor with a sweet active!",
+				"radiance":"Not recommended, but you know you want to!",
+				"skadi":"Is this the real life?",
+				"medallion_of_courage":"Assist in battle with this cheap trinket!",
+				"veil_of_discord":"Literally gives you a little bit of everything, along with a sweet active that's sure to give your team the edge in a brawl. Highly recommended!",
+				"rod_of_atos":"Adds a long ranged, long lasting slow as well as solid HP, it combines great with Sun Ray!",
+				"heavens_halberd":"Force your enemies to drop it like its hot (Coz you're on fire!)",
+				"tranquil_boots":"Gives you armor, HP regen, and a lot of movespeed. A fine choice for the budget bird."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"phoenix_icarus_dive",
+			"2":"phoenix_fire_spirits",
+			"3":"phoenix_fire_spirits",
+			"4":"phoenix_sun_ray",
+			"5":"phoenix_fire_spirits",
+			"6":"phoenix_supernova",
+			"7":"phoenix_fire_spirits",
+			"8":"phoenix_sun_ray",
+			"9":"phoenix_sun_ray",
+			"10":"phoenix_sun_ray",
+			"11":"phoenix_supernova",
+			"12":"phoenix_icarus_dive",
+			"13":"phoenix_icarus_dive",
+			"14":"phoenix_icarus_dive",
+			"15":"attribute_bonus",
+			"16":"phoenix_supernova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"phoenix_icarus_dive":"Your most versatile skill, but comes with a long cooldown. Remember you can use items, attacks, and abilities while flying through the air. You may also pickup items on the ground (Like runes and the Aegis). You may stop it at any time by pressing the skill again for some schweet escapes.",
+				"phoenix_fire_spirits":"Think of these as your high powered missiles that win you any lane you desire. Large range, great damage, an attack speed slow and 4 charges, excellent aim and efficient use will make this babies sting. P.S: The debuff and damage doesn't stack, it is refreshed. So time your shots!",
+				"phoenix_sun_ray":"This bird's got Atomic Breath bitches. It heals allies and damages enemies, so try to catch as many targets as you can in the beam. Remember to adjust your aim!",
+				"phoenix_supernova":"Your last resort in a fight after you've blown your full load or are on the verge of death, please please PLEASE try to make sure you're positioned right. The burn range is enormous, try not to Nova up beside a billion enemies and zero allies.",
+				"phoenix_launch_fire_spirit":"Bombs away!",
+				"phoenix_icarus_dive_stop":"ABORT THE DIVE!",
+				"phoenix_sun_ray_stop":"The beam can be expensive. Stop it early if you need to!",
+				"phoenix_sun_ray_toggle_move":"Flying movement, ACTIVATE!"
+		}
+	}
+}

@@ -1,0 +1,126 @@
+{
+	"Hero":"centaur",
+	"Title":"Standard Offlane Centaur",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"ring_of_protection",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"tranquil_boots",
+				"magic_stick",
+				"blink"
+			],
+			"Core":
+			[
+				"ring_of_health",
+				"hood_of_defiance",
+				"heart"
+			],
+			"Situational ":
+			[
+				"blade_mail",
+				"pipe",
+				"assault",
+				"shivas_guard",
+				"heart",
+				"skadi",
+				"vanguard",
+				"radiance",
+				"heavens_halberd"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Use blink, followed by stomp and double edge to bring down enemy",
+				"ring_of_protection":"Will build into your boots, and saves you using courier to get them.",
+				"stout_shield":"Chances are you're going to be up against 1 or even 2 ballbag supports that want to keep hitting you to drive you back, this will help a little with that.",
+				"branches":"gg",
+				"magic_stick":"Magic stick works on any hero, and really shouldn't be underestimated. Can be upgraded at a later day to the wand, but I don't believe the extra stats are really worth it. The stick will occasionally save your life when escaping an early gank etc.
+
+For the little cost its probably worth it.",
+				"flask":"This may seem a little tough only going out with 1 salve - so get your supports to pool you 1 or 2 tangos.",
+				"ring_of_health":"Another regen item, and will eventually build into your hood.",
+				"pipe":"More health regen, and more spell resistance, get this if you have gone the Hood route.",
+				"assault":"This is a pretty expensive bit of kit, but unless someone else in your team is getting it, and you can see the game going late you may want to consider this.",
+				"heart":"As per the hood, its a tough call what to go for 1st.
+
+Take the Heart if the enemy have less than average spells and are more of a right click/disable lineup.
+
+As a side note there is also another Heart in \"Situational\" as if you desire you can go for more than 1 - but I wouldn't probably advise it",
+				"shivas_guard":"Slows the enemy, and almost as importantly gives you even more armour - remember with this character you are building a damage taker, so this item fits the bill.",
+				"vanguard":"If you're lacking in farm, and are worried about getting the Hood or Heart in decent time, then Vanguard is a cheaper (worse) option, but its better than losing the game trying to get something else. This may well fill the gap you're after.
+
+Doesn't scale well late game, but it getter than nothing.",
+				"blade_mail":"Not a massive fan of this item, but for the cost, and against heros that are going to be doing big hits then get this.
+
+Suggested to be used against team without BKB",
+				"hood_of_defiance":"For me its a bit of a toss up as regards to building this or heart 1st.
+
+Build this if team you're up against have powerful spells/magic damage.
+
+One of the key parts to this on Centaur is that is will soak up some of the damage returned to yourself when using the double edge.",
+				"radiance":"If you're getting a lot of cash early, then the Radiance is an option, but if you're considering buying this after the 40 min mark you may well be wasting a slot, and probably better off with Skadi.",
+				"skadi":"Skadi is an underrated item. It's probably better than a 2nd heart, and with its ability to slow enemies with a right click attack, and the extra boost in attributes and health/mana its a punchy item that shouldn't be overlooked.
+
+Mostly used if you are in position 1 or 2 (carry/damage dealer)",
+				"heavens_halberd":"Good for disarming oppositions carry towards late game, and as subscriber Blackjack correctly points out
+
+\"When gotten late game, the evasion + your passive means that people take damage for no reason. It also grants bonus strength which boosts the passive\"",
+				"tranquil_boots":"Helps you stay in lane, you don't want to have to go back to fountain at any point, and these bad boys will help you after 13 AFK seconds."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_return",
+			"2":"centaur_hoof_stomp",
+			"3":"centaur_double_edge",
+			"4":"centaur_double_edge",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_double_edge",
+			"8":"centaur_return",
+			"9":"centaur_return",
+			"10":"centaur_return",
+			"11":"centaur_stampede",
+			"12":"centaur_hoof_stomp",
+			"13":"centaur_hoof_stomp",
+			"14":"centaur_hoof_stomp",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"centaur_hoof_stomp":"This is your stun, its a pretty decent stun, but not a massive range. I only put 1 point in this early as this (and indeed most stuns) doesn't level up so well. So for me just the 1 point will do.",
+				"centaur_double_edge":"Having the Hood whilst using this attack removes some of the damage that you deal to yourself, making the hood a more powerful option for this character.",
+				"centaur_return":"This is a great skill, and further more is passive so you don't even have to worry about it. The basics of it are anything attacking you takes a fixed amount of damage based on level and also a % damage based on your strength. ",
+				"centaur_stampede":"This is a global speed boost, be wary of your team if they need it to escape or to initiate ganks. Centaur can help from the offlane thanks to this without being present himself.
+
+This will also give all your team a boost in team fights.
+"
+		}
+	}
+}

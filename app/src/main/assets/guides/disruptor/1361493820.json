@@ -1,0 +1,105 @@
+{
+	"Hero":"disruptor",
+	"Title":"[6.81] Hard Support Disruptor (5 position)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ultimate_scepter",
+				"blink"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"cyclone",
+				"pipe",
+				"veil_of_discord",
+				"ancient_janggo",
+				"ghost"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Setup super long range Glimpses. This item is superb if your team can easily and safely capitalize on pickoffs. You may rush it before Mekansm/Aghs scepter if someone else on your team is getting the Mekansm.",
+				"ghost":"For when you're REALLY poor  + they have a fed Clinkz",
+				"flask":"Selflessly heal your lane buddy.",
+				"ward_observer":"Ward spots early and/or block pull camps on the off lane with these. If your team is running a defensive trilane, pick up Sentry Wards instead OR give the Observer wards to your offlaner.",
+				"ward_sentry":"Sentrys aren't just to counter Rikimartin - buy them all game to deward where you KNOW the enemy warded and where you THINK they warded. Doing the latter is key when you want to take Roshan undetected.",
+				"tango":"Pool your carry/mid.",
+				"courier":"Alternately, buy Sentry wards instead of a courier, depending on how tryhard your team is.",
+				"mekansm":"Another support might need to significantly help out warding so that you can afford a Mekansm",
+				"flying_courier":"Be a team player.",
+				"pipe":"Late game, defensive",
+				"cyclone":"I want to see him fly!",
+				"force_staff":"Get you, your enemies, your teammates into position. Save stunned teammates.",
+				"ultimate_scepter":"The aghs upgrade's selling point is that it disables items, making it like an AOE Doom. This item is absolutely CRUCIAL for mid-late game teamfights. If you can arrange for the other support on your team to get a Mekansm, then prioritize this item.",
+				"arcane_boots":"You and your allies will need lots of mana.",
+				"ancient_janggo":"Fairly good item to pick up after a Mekansm, especially if nobody on your team is carrying one. Don't forget to use it.",
+				"smoke_of_deceit":"Setup ganks, take Roshan safely, try really hard... You may want to start with this item instead of a salve, or if someone else got courier/wards.",
+				"veil_of_discord":"Late game, offensive"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"disruptor_glimpse",
+			"2":"disruptor_kinetic_field",
+			"3":"disruptor_glimpse",
+			"4":"disruptor_thunder_strike",
+			"5":"disruptor_glimpse",
+			"6":"disruptor_static_storm",
+			"7":"disruptor_glimpse",
+			"8":"disruptor_kinetic_field",
+			"9":"disruptor_kinetic_field",
+			"10":"disruptor_kinetic_field",
+			"11":"disruptor_static_storm",
+			"12":"disruptor_thunder_strike",
+			"13":"disruptor_thunder_strike",
+			"14":"disruptor_thunder_strike",
+			"15":"attribute_bonus",
+			"16":"disruptor_static_storm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"disruptor_thunder_strike":"Provides target vision for the 4 second duration. Cast on a target, and then Glimpse them back to the casting location 3.999 seconds later! Glimpse back people that teleport to defend towers or Wisp combos.",
+				"disruptor_glimpse":"Key for setting up early kills. Range scales very well with levels. Combos well with every other skill. HUGE range at level 4. Use on heros that have recently TP'd or teleported (Wisp, Nature's Prophet, Morphling).",
+				"disruptor_kinetic_field":"Cast on the point where Glimpse is going to return its target to. Cast in team fights to isolate targets. Or cast to block/trap enemies chasing your team.",
+				"disruptor_static_storm":"Try to save this for team fights. Adds great CC to your push up ramps. Setup a WOMBO COMBO with Kinetic Field."
+		}
+	}
+}

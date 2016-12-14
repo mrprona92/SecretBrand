@@ -1,0 +1,98 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Jungle Doom guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"flask",
+				"tango",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"tranquil_boots",
+				"magic_wand"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"ancient_janggo",
+				"pipe",
+				"blink"
+			],
+			"Luxury":
+			[
+				"refresher",
+				"assault",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Definitely the most situational item in the situational items section. Sometimes, you will be in a game where dooming a specific hero before they get their abilities off will make or break the game. Blink dagger is for those games. ",
+				"stout_shield":"Pretty standard for a melee jungler that has to tank the creeps. Helps mitigate the damage you take. Due to Doom's poor armor, ring of protection may be better. Ring also turns into Basilius, which helps your mana issues, and allows enough extra starting money to buy sentry wards. Input is welcome. ",
+				"flask":"You will take a lot of damage while jungling. Use this when you are low on health. ",
+				"tango":"Without some form of regen, you would be forced to run back to fountain early on. May be better to bring 2 salves though.",
+				"courier":"Can be replaced by observer wards or smoke of deceit. The alternative to these items would be 3 branches. The extra stats won't help a jungler as much as laners, who are competing against enemy heroes for kills and farm.",
+				"phase_boots":"I usually go these, but the other boots may be better options now that i think about it. This build focuses on Doom's mobility, and phase synergizes well with that. However, you are less reliant on autoattacks than many phase users.",
+				"mekansm":"Any decent team will have a mek. If nobody else is building one, you should. Thanks to devour, you can rely on Doom to actually have enough gold to build one. Along with the great heal for your team, you sure as hell need that armor too.",
+				"pipe":"Your mobility allows you to kite physical attackers. Magic not so much. If the enemy team has a decent amount of magic damage, and you aren't making a mek, hood would be a good pick up to increase your survivability. Then you can turn it into a pipe to help your team's survivability too. ",
+				"ultimate_scepter":"For when you need to disable a hero longer!",
+				"refresher":"For when you need to disable 2 heroes at once, or make a single hero hate you forever. ",
+				"assault":"The aura on this is great. And thanks to devour, you actually have a chance at getting this without farming like a plain carry. ",
+				"shivas_guard":"My favorite luxury. Hell of a lot of much needed armor, provides a useful aura, and the freeze works well with searing flames.",
+				"vanguard":"Effective for tanking small amounts of damage from many sources. Especially good for creeps. With your low armor, the damage you take really won't be low enough for this to be effective.",
+				"soul_ring":"Helps with the mana issues you will have for most of the game. You have the hp regen to support it.",
+				"arcane_boots":"You have mana issues. Mana boots helps with that, and also benefits your team. ",
+				"ancient_janggo":"Helps with your survivability, and increases your team's mobility further. This is a great item on many heroes, and it works especially well with Doom and his speed aura. ",
+				"tranquil_boots":"Nice and cheap. You see these on a lot of heroes these days. The armor and movement speed is quite nice."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_lvl_death",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_scorched_earth",
+			"8":"doom_bringer_scorched_earth",
+			"9":"doom_bringer_lvl_death",
+			"10":"doom_bringer_lvl_death",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_devour",
+			"14":"doom_bringer_devour",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"You need at least one point to jungle. The rest are gotten later because we are going to emphasize on being a strong mid game hero, rather than late game.",
+				"doom_bringer_scorched_earth":"Maxed first for the big increase in damage/regen and uptime. Gotta go fast!",
+				"doom_bringer_lvl_death":"This skill build isn't exactly concrete. This skill is the reason. You should take levels of it over searing flames if it means getting bonus damage against a hero you are about to gank. ",
+				"doom_bringer_doom":"Will make most heroes almost completely useless for 15 seconds. Get this off early, before the hero gets their abilities off. "
+		}
+	}
+}

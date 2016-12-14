@@ -1,0 +1,90 @@
+{
+	"Hero":"slardar",
+	"Title":"Slardar - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"stout_shield",
+				"branches",
+				"branches"
+			],
+			"Primera Fase":
+			[
+				"boots",
+				"magic_wand",
+				"power_treads",
+				"ring_of_health"
+			],
+			"Objetos Principales":
+			[
+				"vanguard",
+				"desolator"
+			],
+			"Situacionales":
+			[
+				"black_king_bar",
+				"blink",
+				"assault",
+				"heart",
+				"satanic",
+				"mask_of_madness"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Quizas la quieras para iniciar saltando y lanzando tu W.",
+				"power_treads":"Ponlas en fuerza (Rojo)",
+				"assault":"Pegar mas rapido significa mas dmg y mas posibilidad de stun!",
+				"black_king_bar":"Si tienen muchos disables sacalo despues de Vanguardia.",
+				"desolator":"Personalmente me parece uno de los mejroes items del juego y muy util para slardar."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"slardar_slithereen_crush",
+			"2":"slardar_bash",
+			"3":"slardar_slithereen_crush",
+			"4":"slardar_bash",
+			"5":"slardar_slithereen_crush",
+			"6":"slardar_amplify_damage",
+			"7":"slardar_slithereen_crush",
+			"8":"slardar_sprint",
+			"9":"slardar_bash",
+			"10":"slardar_bash",
+			"11":"slardar_amplify_damage",
+			"12":"slardar_sprint",
+			"13":"slardar_sprint",
+			"14":"slardar_sprint",
+			"15":"attribute_bonus",
+			"16":"slardar_amplify_damage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"slardar_sprint":"Para escapar, para llegar a las teamfights...quien no quiere velocidad extra? Pero cuidado porque sufres mas dmg.",
+				"slardar_slithereen_crush":"Un stun de area muy muy bueno. Intenta alcanzar a mas de uno y luego sigue atacando con click derecho.",
+				"slardar_bash":"Te da la posibilidad de stunear con tus ataques normales. Es importantisima para Slardar.",
+				"slardar_amplify_damage":"No cuesta mucho mana y es muy buena. Si tienen un inivisible lanzaselo siempre que lo veas. Si no lanzalo al carry o tanque para reducirlo rapidamente."
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"storm_spirit",
+	"Title":"Now I'm over here!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"pers"
+			],
+			"coreItems":
+			[
+				"bloodstone",
+				"power_treads"
+			],
+			"Situational Core Items":
+			[
+				"magic_wand",
+				"black_king_bar",
+				"orchid",
+				"sphere"
+			],
+			"Situational":
+			[
+				"travel_boots",
+				"sheepstick",
+				"dagon",
+				"shivas_guard",
+				"necronomicon",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"Early situational, it's a great item that provides with an extra chunk of mana and health every now and then. Remember not to use it when going back to base (unless you fear getting sniped by long range abilities), save the charges instead.",
+				"flask":"I prefer this build on most mid heroes who need bottle early. The 285 gold reduction needed for bottle is amazing and especially useful for heroes that can guarantee lasthits with spells. If you prefer using all your gold at level 1, get some more stats.",
+				"bottle":"Get this as soon as possible and start picking up runes. Regeneration is almost equal to a haste due to your ultimate's perfect synergy with the rune.",
+				"travel_boots":"Provides even heavier mobility and map presence. If you have 5 items (boots included) this is what you should go for next.",
+				"power_treads":"Get these as soon as your Bloodstone is finished.",
+				"pers":"The regen and damage is great when roaming between lanes and will be used to build your bloodstone soon enough. ",
+				"sheepstick":"Should almost always be purchased as an end-game item when you have your Bloodstone/BKB/Orchid, its disable is amazing and grants you an extra 3.5 seconds to pound at your enemy. It's really good for locking down key heroes, too.",
+				"orchid":"Great item to get a big chunk of extra damage, also provides you with better autoattacking ability. Amazing to counter blinkers, heavy disablers or any other heroes that rely on their abilites.",
+				"dagon":"If your team is lacking nukes and really need the extra pickoff-power this is the item for you. Usually an orchid or BKB is better, but if you're going late and still need nukes a Dagon 5 will do the job.",
+				"necronomicon":"If you need a bost to your pushing ability or if you're afraid to carry a gem, Necro3 is great. Avoid most of the time though.",
+				"black_king_bar":"Black King Bar (BKB) will allow you to fly around in the teamfights and pick offs without having to worry about being silenced/stunned. Should almost always get this unless the enemy team is lacking stuns/silences.",
+				"shivas_guard":"Synergizes well with your ultimate, allowing a larger area to be covered in the active ability. Grants pushing and teamfight power.",
+				"bloodstone":"Disassemble your arcane boots for the energy booster, it will effectively reducing the cost of this item by 1000. This is what will help you snowball out of control, it provides great regen, reduces your spawn time and should only be skipped if you haven't been able to get it early and need BKB.",
+				"sphere":"The situational alternative to Bloodstone. If you're facing some really dangerous single target spells, this is what you'll want to get, especially if BKB doesn't help against them.",
+				"desolator":"Avoid if possible, can be bought if your team is lacking carries and need a boost to your physical DPS. Howeverv, your main focus should always be to max your mana regen and ability to disable the enemy team.",
+				"arcane_boots":"These will help your mana pool until you get your Bloodstone and will also help the lanes you gank on to easier assist you if they're lacking mana."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"storm_spirit_static_remnant",
+			"2":"storm_spirit_overload",
+			"3":"storm_spirit_electric_vortex",
+			"4":"storm_spirit_electric_vortex",
+			"5":"storm_spirit_electric_vortex",
+			"6":"storm_spirit_ball_lightning",
+			"7":"storm_spirit_overload",
+			"8":"storm_spirit_overload",
+			"9":"storm_spirit_overload",
+			"10":"storm_spirit_electric_vortex",
+			"11":"storm_spirit_ball_lightning",
+			"12":"storm_spirit_static_remnant",
+			"13":"storm_spirit_static_remnant",
+			"14":"storm_spirit_static_remnant",
+			"15":"attribute_bonus",
+			"16":"storm_spirit_ball_lightning",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"storm_spirit_static_remnant":"Use it to get lasthits and harass your opponent. When it's ganking time, use it after your stun and the enemy will be pulled into it. Note that the remnant provides flying vision which is great for scouting Roshan, through trees (especially when someone's fleeing at outpost) and similar cases.",
+				"storm_spirit_electric_vortex":"In most cases, the last point isn't necessary, only when you have an enemy with strong escapabilities like blinks. The nuke from Q is usually worth more in the mid game.",
+				"storm_spirit_overload":"Your amazing bonus damage, synergizes amazingly well with your ultimate. Always try to use the charge before casting a new spell, casting a random spell before leaving the base is great too. This should always be maxed by advanced users, it's more effective than Q. NEW players max Q.",
+				"storm_spirit_ball_lightning":"Start ganking once you have this. This is the main reason you want to get as much mana regen as possible. Use it to dodge spells and bait BKBs/initiation spells in the mid-late game since you're invulnerable while inside the ball lightning."
+		}
+	}
+}

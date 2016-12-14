@@ -1,0 +1,71 @@
+[
+    {
+        "dname": "Cold Feet",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Places a frozen hex on an enemy unit that deals damage over time, but can be dispelled by moving away from the initial cast point.  If the enemy unit doesn\u0027t move outside of the given range, it will be stunned and frozen in place after 4 seconds.",
+        "notes": "Total possible damage: 150/200/250/300.<br/>Deals damage every 0.8 seconds.",
+        "dmg": "",
+        "attrib": "DAMAGE PER TICK: <b><font color=\"#ffffff\">37.5/50/62.5/75</font></b><br/>BREAK DISTANCE: <b><font color=\"#ffffff\">740/740/740/740</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">1.25/2/2.75/3.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/150/150/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15/13/11/9",
+        "lore": "Kaldr\u0027s presence draws those around him into a frozen void, threatening to lock them in an icy prison for eternity.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_cold_feet",
+        "youtube":"wq_I0TQFqG8",
+        "id": 0
+    },
+    {
+        "dname": "Ice Vortex",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Creates a vortex of icy energy that slows movement speed and increases magic damage done in its range.  Lasts 16 seconds.",
+        "notes": "Doesn\u0027t affect Spell Immune units.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>SLOW: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b><br/>INCREASED MAGIC DAMAGE: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/90/100/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 4",
+        "lore": "Frozen, caustic winds are at the whim of Kaldr, chilling the field of battle.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_ice_vortex",
+        "youtube":"ZK9v1WLg7lc",
+        "id": 1
+    },
+    {
+        "dname": "Chilling Touch",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "A frigid gust enchants allied heroes, granting them bonus magical damage for a given number of physical attacks, while slowing their attack speed slightly.  Ancient Apparition always receives the buff. Lasts 30 seconds.",
+        "notes": "Extra damage is its own instance of damage.<br/>Only works against heroes and creeps.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">525</font></b><br/>MAX ATTACKS: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">50/60/70/80</font></b><br/>ATTACK SPEED: <b><font color=\"#ffffff\">20</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/120/130/140<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 50/42/34/26",
+        "lore": "The Ancient Apparition\u0027s eternal knowledge brings a frigid enchantment to his allies.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_chilling_touch",
+        "youtube":"vmYw33RAlCE",
+        "id": 2
+    },
+    {
+        "dname": "Ice Blast",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Launches a tracer toward any location on the battlefield, which must be triggered again to mark the area to be blasted by a damaging explosion of hail. The further the tracer travels, the larger the explosion will be. Enemies caught in the explosion, or who touch the icy ball of hail as it travels, are Frostbitten, taking damage and prevented from regenerating or healing. If a Frostbitten unit\u0027s health drops below a certain percentage, they will instantly shatter.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "The area of effect is 275 + 50*TimeTraveled, capped at 1000.  The freeze area along the path is 275.<br/>Kill will be granted to the source of the damage that triggers the shatter.<br/>The instant kill doesn\u0027t work on illusions or Meepo clones.<br/>The HP Freeze prevents most kinds of healing, including the fountain.<br/>The Frostbitten debuff cannot be purged.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">250/350/450</font></b>",
+        "attrib": "FROSTBITTEN DURATION: <b><font color=\"#ffffff\">8/9/10</font></b><br/>FROSTBITTEN DAMAGE PER SECOND: <b><font color=\"#ffffff\">12.5/20/32</font></b><br/>SHATTER HEALTH THRESHOLD: <b><font color=\"#ffffff\">10%/11%/12%</font></b><br/><font color=\"#6fe871\">SCEPTER FROSTBITTEN DURATION:</font></b> <b><font color=\"#ffffff\">17</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/125/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40",
+        "lore": "Ice storms from ages past flow through Kaldr\u0027s frosty limbs, crashing into the world and turning its inhabitants into monuments to his eternal power.",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_ice_blast",
+        "youtube":"j97qGajoj1s",
+        "id": 3
+    },
+    {
+        "dname": "Release",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Releases the ice blast to explode at the tracer\u0027s current location.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "<img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 1",
+        "lore": "",
+        "hurl": "Ancient_Apparition",
+        "name": "ancient_apparition_ice_blast_release",
+        "id": 4
+    }
+]

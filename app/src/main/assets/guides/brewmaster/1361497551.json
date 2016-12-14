@@ -1,0 +1,98 @@
+{
+	"Hero":"brewmaster",
+	"Title":"[DMX] Brewmaster (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"flask",
+				"clarity",
+				"clarity",
+				"clarity",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter",
+				"tpscroll",
+				"urn_of_shadows"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"assault",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"armlet",
+				"power_treads",
+				"phase_boots",
+				"ancient_janggo",
+				"radiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"arcane_boots":"Brewmaster manque cruellement de mana, arcane boots est donc un item qui permet de palier à ce problème."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"brewmaster_thunder_clap",
+			"2":"brewmaster_drunken_brawler",
+			"3":"brewmaster_thunder_clap",
+			"4":"brewmaster_drunken_haze",
+			"5":"brewmaster_thunder_clap",
+			"6":"brewmaster_primal_split",
+			"7":"brewmaster_thunder_clap",
+			"8":"brewmaster_drunken_brawler",
+			"9":"brewmaster_drunken_brawler",
+			"10":"brewmaster_drunken_haze",
+			"11":"brewmaster_primal_split",
+			"12":"brewmaster_drunken_haze",
+			"13":"brewmaster_drunken_haze",
+			"14":"brewmaster_drunken_brawler",
+			"15":"attribute_bonus",
+			"16":"brewmaster_primal_split",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"brewmaster_thunder_clap":"Votre principal contrôle et nuke, ne le spammez pas car vous n'avez que très peu de mana, par contre utilisez le sur vos ennemis pour les agresser au maximum",
+				"brewmaster_drunken_haze":"Un petit ralentissement plutot efficace et un malus de précision monstrueux si vous le placez sur le carry adverse !",
+				"brewmaster_drunken_brawler":"Un très bon passif qui vous permettra d'esquiver et d'infliger des coups critiques.",
+				"brewmaster_primal_split":"Assez difficile à maitriser cet ultimate est utile offensivement et défensivement. Vous disposerez d'un stun monocible, d'une tornade, d'un dispell et d'une invisibilité.
+Faites vite un aghanim's scepter afin de le booster."
+		}
+	}
+}

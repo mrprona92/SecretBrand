@@ -1,0 +1,19 @@
+{
+  "dotaId": "greater_crit",
+  "attrib": "+ 81 Damage<br/>CRITICAL CHANCE: 25%<br/>CRITICAL DAMAGE: 240%",
+  "cd": false,
+  "components": [
+    "lesser_crit",
+    "demon_edge"
+  ],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Passive: Critical Strike - Grants a chance to deal critical damage on an attack.",
+  "dname": "Daedalus",
+  "mc": false,
+  "img": "greater_crit_lg.png",
+  "lore": "A weapon of incredible power that is difficult for even the strongest of warriors to control.",
+  "id": 141,
+  "created": true,
+  "cost": 5520
+}

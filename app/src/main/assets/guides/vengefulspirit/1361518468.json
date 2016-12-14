@@ -1,0 +1,90 @@
+{
+	"Hero":"vengefulspirit",
+	"Title":"Call me Vengeance by IAmStaka",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"courier",
+				"branches",
+				"flask",
+				"ward_observer",
+				"branches"
+			],
+			"By my wings!":
+			[
+				"boots",
+				"bracer",
+				"ring_of_aquila"
+			],
+			"Mine at last":
+			[
+				"phase_boots",
+				"ancient_janggo",
+				"mekansm",
+				"power_treads",
+				"ultimate_scepter",
+				"vladmir"
+			],
+			"You shall be broken!":
+			[
+				"butterfly",
+				"monkey_king_bar",
+				"invis_sword",
+				"greater_crit",
+				"heart",
+				"desolator",
+				"manta",
+				"sange_and_yasha",
+				"satanic"
+			],
+			"What is this?":
+			[
+				"ward_sentry",
+				"ward_observer",
+				"gem",
+				"smoke_of_deceit",
+				"ghost",
+				"travel_boots"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"vengefulspirit_magic_missile",
+			"2":"vengefulspirit_wave_of_terror",
+			"3":"vengefulspirit_magic_missile",
+			"4":"vengefulspirit_wave_of_terror",
+			"5":"vengefulspirit_magic_missile",
+			"6":"vengefulspirit_nether_swap",
+			"7":"vengefulspirit_magic_missile",
+			"8":"vengefulspirit_wave_of_terror",
+			"9":"vengefulspirit_command_aura",
+			"10":"vengefulspirit_wave_of_terror",
+			"11":"vengefulspirit_nether_swap",
+			"12":"vengefulspirit_command_aura",
+			"13":"vengefulspirit_command_aura",
+			"14":"vengefulspirit_command_aura",
+			"15":"attribute_bonus",
+			"16":"vengefulspirit_nether_swap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

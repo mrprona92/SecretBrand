@@ -1,0 +1,98 @@
+{
+	"Hero":"terrorblade",
+	"Title":"GreyShark.Terrorblade",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"power_treads",
+				"orb_of_venom",
+				"yasha",
+				"black_king_bar"
+			],
+			"Mid Game":
+			[
+				"manta",
+				"greater_crit"
+			],
+			"Late Game":
+			[
+				"skadi",
+				"heart"
+			],
+			"Situation":
+			[
+				"diffusal_blade",
+				"satanic",
+				"invis_sword",
+				"butterfly"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"Поначалу даст немного ХП, и много АС, очень классная обувь, поможет в трудные ситуации, иногда нехватает МП или ХП",
+				"heart":"У нас маленький прирост силы, с тараской иллюзии очень живучие, и мы тоже !",
+				"black_king_bar":"Очень нужный для нас арт, так как мы в основном дерёмся до конца ! Ждем пока у врага лоу хп, и даем ульту, так вот чтобы небыло такого что мы дожидаемся лоу хп и получаем стан, нужно собирать БКБ !",
+				"monkey_king_bar":"Если у чуваков есть уклонения то пригодится.",
+				"butterfly":"Неплохой арт для ловкачей, очень много статов, плюс уклонения",
+				"greater_crit":"У нас очень много урона, ну прямо ООООЧЕНЬ, а с критами ЕЩЕ БОЛЬШЕ :)))",
+				"manta":"У наших иллюзий очень много урона и неплохо ХП ближе к мид гейму, по этому наши иллюзии с манты и второго скилла будут очень сильно дамажить и будут живучими. Также дает много статов !",
+				"invis_sword":"Специально получаем много урона например от крипов, подбегаем в инвизе и юзаем ульту.",
+				"satanic":"Любому керри пригодится сатаник, можно вместо кирассы !",
+				"skadi":"Очень много статов и замедление ЕЩЕ БОЛЬШЕ ЧЕМ ОТ ОРБА ! Нам и его хватало, а тут еще круче + замедление АС, очень полезная штука для ТБ !",
+				"yasha":"Потом апнем в манту, а для начала очень много брони, урона, и АС, но самое главное это скорость, с яшей и орбом мы очень быстрые, а враги замедленны !",
+				"diffusal_blade":"У нас будет много иллюзий которые выжигают ману + замедление и снятие дебафов",
+				"orb_of_venom":"Очень крутой арт тем более для ТБ, во время метаморфозиса от нас все убегают, с этим орбом уже никто не убежит !"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"terrorblade_reflection",
+			"2":"terrorblade_metamorphosis",
+			"3":"terrorblade_metamorphosis",
+			"4":"terrorblade_conjure_image",
+			"5":"terrorblade_metamorphosis",
+			"6":"terrorblade_sunder",
+			"7":"terrorblade_metamorphosis",
+			"8":"terrorblade_conjure_image",
+			"9":"terrorblade_conjure_image",
+			"10":"terrorblade_conjure_image",
+			"11":"terrorblade_sunder",
+			"12":"terrorblade_reflection",
+			"13":"terrorblade_reflection",
+			"14":"terrorblade_reflection",
+			"15":"attribute_bonus",
+			"16":"terrorblade_sunder",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

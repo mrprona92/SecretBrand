@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Dual Breath",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Поток льда, за которым следует волна огня. Лед замедляет врагов, тогда как огонь наносит им урон с течением времени.",
+        "notes": "Наносит урон врагам в пределах 1000 единиц.<br/>Задержка между дыханиями — 0,3 секунды.",
+        "dmg": "",
+        "attrib": "ПЕРВИЧНЫЙ РАДИУС: <b><font color=\"#ffffff\">200/200/200/200</font></b><br/>КОНЕЧНЫЙ РАДИУС: <b><font color=\"#ffffff\">250/250/250/250</font></b><br/>ОГНЕННЫЙ УРОН: <b><font color=\"#ffffff\">16/36/56/76</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">28%/32%/36%/40%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">28/32/36/40</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 135/140/155/170<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 10",
+        "lore": "Драконы-близнецы крайне опасны своим дыханием, воздействующим на цель разными видами магии; представить разрушительную силу некоторых таких комбинаций просто невозможно.",
+        "hurl": "Jakiro",
+        "name": "jakiro_dual_breath",
+        "youtube":"TF0T7EZuxqU",
+        "id": 0
+    },
+    {
+        "dname": "Ice Path",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает ледяную дорожку, которая оглушает и наносит урон врагам, прикоснувшимся к ней.",
+        "notes": "Задержка до заморозки — 0,5 секунды.",
+        "dmg": "",
+        "attrib": "ЗАДЕРЖКА: <b><font color=\"#ffffff\">0.5</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1/1.4/1.8/2.2</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">150</font></b><br/>УРОН: <b><font color=\"#ffffff\">50</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 90<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12/11/10/9",
+        "lore": "Правая голова Jakiro, владеющая ледяной магией, покрывает землю наледью, примораживая всякого, кто коснется ее.",
+        "hurl": "Jakiro",
+        "name": "jakiro_ice_path",
+        "youtube":"opuYKyouxJk",
+        "id": 1
+    },
+    {
+        "dname": "Liquid Fire",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Jakiro сжигает врагов в области действия огнем, замедляя их атаки.<br/>Liquid Fire — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+        "notes": "Действует как на юнитов, так и на строения.",
+        "dmg": "",
+        "attrib": "ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">20/30/40/50</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">300/300/300/300</font></b><br/>ОГНЕННЫЙ УРОН: <b><font color=\"#ffffff\">12/16/20/24</font></b><br/>DURATION: <b><font color=\"#ffffff\">5/5/5/5</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/15/10/4",
+        "lore": "Левая пасть Jakiro открывается, уничтожая любого на своем пути.",
+        "hurl": "Jakiro",
+        "name": "jakiro_liquid_fire",
+        "youtube":"cdBmGuFveks",
+        "id": 2
+    },
+    {
+        "dname": "Macropyre",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Jakiro извергает широкую линию жидкого пламени, которое держится некоторое время и ежесекундно наносит урон вражеским юнитам.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Уничтожает деревья в области действия.",
+        "dmg": "",
+        "attrib": "УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">100/140/180</font></b><br/>ДЛИНА ЛИНИИ ОГНЯ: <b><font color=\"#ffffff\">900</font></b><br/>ШИРИНА ЛИНИИ ОГНЯ: <b><font color=\"#ffffff\">240</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10</font></b><br/><font color=\"#6fe871\">УРОН В СЕКУНДУ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">125/175/225</font></b><br/><font color=\"#6fe871\">ДЛИНА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">1800</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">20</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 220/330/440<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60",
+        "lore": "При соединении лед и огонь разрывают поле боя в клочья с огромными температурами.",
+        "hurl": "Jakiro",
+        "name": "jakiro_macropyre",
+        "youtube":"RWGgjf-GEy4",
+        "id": 3
+    }
+]

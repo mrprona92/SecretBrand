@@ -1,0 +1,15 @@
+{
+  "dotaId": "ring_of_regen",
+  "attrib": "+ 2 к регенерации здоровья",
+  "cd": false,
+  "qual": "component",
+  "notes": "Можно передавать союзникам.",
+  "desc": "",
+  "dname": "Ring of Regen",
+  "mc": false,
+  "img": "ring_of_regen_lg.png",
+  "lore": "Гномы считают, что это кольцо приносит удачу.",
+  "id": 27,
+  "created": false,
+  "cost": 350
+}

@@ -1,0 +1,16 @@
+{
+  "dotaId": "radiance",
+  "attrib": "+ 65 Damage<br/>BURN DAMAGE PER SECOND: 50<br/>BURN MISS CHANCE: 17%<br/>BURN RADIUS: 700 ",
+  "cd": false,
+  "components": ["relic"],
+  "qual": "epic",
+  "notes": "",
+  "desc": "Active: Toggle Burn - When active, scorches nearby enemies for 50 damage per second and blinds them, causing them to miss 17% of their attacks. ",
+  "dname": "Radiance",
+  "mc": false,
+  "img": "radiance_lg.png",
+  "lore": "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.",
+  "id": 137,
+  "created": true,
+  "cost": 5225
+}

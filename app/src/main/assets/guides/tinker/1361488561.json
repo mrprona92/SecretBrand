@@ -1,0 +1,183 @@
+{
+	"Hero":"tinker",
+	"Title":"The Global Nuisance",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"mantle",
+				"branches",
+				"magic_stick"
+			],
+			"Core":
+			[
+				"soul_ring",
+				"bottle",
+				"travel_boots"
+			],
+			"Utility Items":
+			[
+				"force_staff",
+				"blink",
+				"ghost"
+			],
+			"Extensions":
+			[
+				"sheepstick",
+				"dagon",
+				"shivas_guard",
+				"manta"
+			],
+			"Situational Extensions":
+			[
+				"ethereal_blade",
+				"cyclone",
+				"skadi",
+				"black_king_bar",
+				"sphere",
+				"bloodstone",
+				"veil_of_discord",
+				"diffusal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Either go Blink or Forcestaff, which of the two is completely situational. (you can buy both for maximum mobility)
+
+Blink will assure that you will able to farm safely unless youre playing against a Beastmaster, make innitiating and chasing easier and is overall the better item for mobility.",
+				"mantle":"Can be skipped, buy more Branches instead.",
+				"magic_stick":"Situational item.
+
+Extremely useful against heroes like Batrider and Zeus.",
+				"ghost":"Item that should be purchased vs certain heroes to completely render them useless (for example Orchid Clinkz, most right click dependant heroes)
+
+Because you can Rearm it being safe from physical attacks is assured, but be careful around casters.",
+				"bottle":"A lot of new players skip the Bottle because they think its redundant due of Tinkers playstyle.
+
+Get it!
+
+Spamming Bottle while sitting in fountain will make your mana regenerate way faster than it would normally do. The less time you spend in base the more influence on the game you have.",
+				"travel_boots":"Tinkers defining item. They are rearmable which pretty much means that your TP does not have a cooldown.",
+				"phase_boots":"BOOTS OF TRAVEL ARE THE ONLY BOOTS YOU SHOULD CONSIDER",
+				"power_treads":"BOOTS OF TRAVEL ARE THE ONLY BOOTS YOU SHOULD CONSIDER",
+				"hand_of_midas":"Why not Icefrog",
+				"mekansm":"You can Rearm Mek, but it wont heal more often than once every 30 seconds.",
+				"pipe":"You can Rearm Pipe, but it wont buff people more than once every 40 seconds.",
+				"urn_of_shadows":"Regeneration is not what you need. ",
+				"sheepstick":"First choice.
+
+Scythe is never a bad item, and especially on Tinker its 10 times more useful than on any other hero.
+
+Rearm makes it possible for you to chainhex people for [insert time your manapool can stand it]. If you have infinite mana/regen in theory you can Hex a person for ever.",
+				"orchid":"Scythe, Euls and most of the extentions are superior. Orchid focuses on regen which you dont need since you TP back to fountain pretty much constantly. ",
+				"cyclone":"Situational Item.
+
+Euls is a cheap Hex on Tinker. Get this item when you either cant afford Scythe or need additional CC.
+
+Its a really good item against Lone Druids Bear and against Orchid (Storm and Clinkz come to mind)",
+				"force_staff":"Either go Blink or Forcestaff, which of the two is completely situational. (you can buy both for maximum mobility)
+
+Force Staff has its perks. You can assist your team in mid game, it is functional against Radiance and will actually safe you from skills like Smoke Screen (Rikis cloud).",
+				"dagon":"You can rearm it, therefore deal a lot of burst. It should be purchased if you have a good early game, youre a confident Tinker player (in which case you wont read this) or if youre going to be the teams main carry.
+
+If thats the case you should rush Dagon instead of a Hex.",
+				"necronomicon":"Would be nice, wouldnt it",
+				"black_king_bar":"Situational Item.
+
+You cant Rearm and not even sell it anymore. Still, its a good item on Tinker and from time to time necessary. You will notice when you need magic immunity believe me.",
+				"shivas_guard":"Armor, a decent nuke, a slow aura and a decent amount of INT. Shivas is an overall good item on Tinker that provides everything you want.
+
+Used for pushing, crowd control or granting vision (underrated feature of the active effect)
+
+Spamming Shivas is pretty inefficient most of the time so dont.",
+				"bloodstone":"Situational Item.
+
+Bloodstone can be good on Tinker in later stages of the game, I wouldnt recommend the item though.
+
+There are better items for you to get so only get Bloodstone if you have too much money and no clue what to spend it on.",
+				"sphere":"Situational Item.
+
+Linkens is not a really good item on Tinker, but sometimes its necessary (Beastmasters Roar comes to mind).
+
+It gives a decent amount of stats but should not be bought unless you really feel that you have to.
+
+IMPORTANT IT LOOKS LIKE IT REARMS BUT IT DOESNT!",
+				"radiance":"Situational Item. I dont recommend this item on Tinker but its a funny item to have when youre confident in your play and only focus on pushing.",
+				"manta":"A really underrated item on Tinker.
+
+Primarly used for pushing, dispelling silences and dodging stuns in fights.
+
+The overall stats are really useful. The movement speed provided Yasha will make it nearly impossible for people to chase you.",
+				"skadi":"Situational Item.
+
+You need life? Then please buy Skadi and not Heart. Eye at least gives you a decent Orb effect and overall good stats. Heart on the other hand doesnt give you anything but raw health which wont help you survive.",
+				"helm_of_the_dominator":"Wouldnt even be useful since the former summon dies.",
+				"diffusal_blade":"Situational Item.
+
+It grants you access to a Purge. Normally an AGI hero should buy it but since the item isnt good for more than a handful of heroes they might refuse to.
+
+When you feels that the only reason youre losing is because of buffs the enemy team has (OMNI KNIGHT) get it yourself.",
+				"ethereal_blade":"Situational Item.
+
+Can be pruchased when dealing with a lot of physical damage for additional crowd controll or to amplify your Dagons damage.
+
+IMPORTANT: Rockets do not hit targets who are etherealed - Laser is pure damage so wont get amplified",
+				"soul_ring":"Next to Boots of Travel THE core item. Since you can Rearm the item it grants you a lot of mana if you use it on every cooldown.
+
+It pretty much makes your level 1 Rearm a freecast.",
+				"arcane_boots":"BOOTS OF TRAVEL ARE THE ONLY BOOTS YOU SHOULD CONSIDER",
+				"veil_of_discord":"Situational Item.
+
+It can be good if your team has a lot of nukes since the amplification increases the damage of everybodys nukes.",
+				"rod_of_atos":"The only targets you can kill with a slow are probably killable without one as well. The item gives a good chunk of stats overall but simply doesnt fit what youre looking for. 3200 Gold are 60% of your Scythe after all.",
+				"tranquil_boots":"BOOTS OF TRAVEL ARE THE ONLY BOOTS YOU SHOULD CONSIDER"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_laser",
+			"2":"tinker_heat_seeking_missile",
+			"3":"tinker_march_of_the_machines",
+			"4":"tinker_march_of_the_machines",
+			"5":"tinker_march_of_the_machines",
+			"6":"tinker_heat_seeking_missile",
+			"7":"tinker_march_of_the_machines",
+			"8":"tinker_rearm",
+			"9":"tinker_heat_seeking_missile",
+			"10":"tinker_heat_seeking_missile",
+			"11":"tinker_laser",
+			"12":"tinker_laser",
+			"13":"tinker_laser",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"tinker_rearm",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"tinker_laser":"The Blind is good tool to deny creeps in laning phase, thats why getting at least one level is essential. Later on it server primarely as a nuke to finish off enemies. Its pure damage, that means it wont get reduced my magic resistances.",
+				"tinker_heat_seeking_missile":"You primary nuke. As soon as you bought your BoT simply teleport onto a lane, spam Rockets until youre oom and go back to base. By doing so the enemies supports will have lost the majority of their health. will have to play more passively/return to base. In both cases they lose a lot of time.",
+				"tinker_march_of_the_machines":"Your farming tool. It helps pushing, defending, deals a lot of damage and is quite hard to dodge. The damage is physical and goes through BKB and any kind of magic immunity.",
+				"tinker_rearm":"Get level 1 around 7-10, depending on how fast you get your BoT. Level 2 should not be leveled before you have at least Soulring + your utility item. Before having purchased either Scythe or Shivas you should never get level 3 Rearm. In some matches skipping it completely is a viable tactic.",
+				"attribute_bonus":"Get stats instead of Rearm as long as you dont have the manapool to support the spell."
+		}
+	}
+}

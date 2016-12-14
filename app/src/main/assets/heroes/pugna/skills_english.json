@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Nether Blast",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "An exploding pulse deals damage to enemies and structures in the area.  Deals half damage to structures.",
+        "notes": "Damage is delayed by 0.9 seconds.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "BLAST DELAY: <b><font color=\"#ffffff\">0.9/0.9/0.9/0.9</font></b><br/>RADIUS: <b><font color=\"#ffffff\">400/400/400/400</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 85/105/125/145<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5.50",
+        "lore": "The Arts of Oblivion include a deafening blast of emerald flames from the Nether Reaches.",
+        "hurl": "Pugna",
+        "name": "pugna_nether_blast",
+        "youtube":"S-CNAxuxwbU",
+        "id": 0
+    },
+    {
+        "dname": "Decrepify",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "A powerful banishing spell that slows a unit and renders it unable to attack or be attacked. Afflicted units take extra magic damage.",
+        "notes": "Only magical and pure damage can affect a unit under the effects of Decrepify.",
+        "dmg": "",
+        "attrib": "ALLY INCREASED MAGIC DAMAGE: <b><font color=\"#ffffff\">25%</font></b><br/>ALLY MOVE SLOW: <b><font color=\"#ffffff\">25%</font></b><br/>ENEMY INCREASED MAGIC DAMAGE: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>ENEMY MOVE SLOW: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>DURATION: <b><font color=\"#ffffff\">3.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15/12/9/6",
+        "lore": "A now-mastered relic from his childhood, Pugna delights in banishing others into the Nether Realm, whether for good, evil, or simple enjoyment.",
+        "hurl": "Pugna",
+        "name": "pugna_decrepify",
+        "youtube":"vslnhbjQiXw",
+        "id": 1
+    },
+    {
+        "dname": "Nether Ward",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Pugna places a nether ward that fires mana flares at enemy heroes who dare to cast spells, while also causing them to lose mana.  Nether Ward deals damage equal to the damage multiplier times the mana spent by the enemy hero.  Lasts 30 seconds.",
+        "notes": "Nether Ward deals damage before the actual spell is cast, so if the caster dies the spell will have no effect.<br/>Nether Ward can be decrepified.<br/>Nether Ward has 4 HP. Heroes can attack it for 1 damage, while non-hero units deal 0.25 damage.",
+        "dmg": "",
+        "attrib": "WARD ATTACK RADIUS: <b><font color=\"#ffffff\">1600</font></b><br/>DAMAGE PER MANA: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b><br/>MANA LEAK: <b><font color=\"#ffffff\">1.5/3/4.5/6</font></b><br/>ATTACKS TO DESTROY: <b><font color=\"#ffffff\">4/4/4/4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/80/80/80<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 35",
+        "lore": "While at the lamasery for the Arts of Oblivion, Pugna learned to dominate his classmates with a simple ward charged with Nether magic.",
+        "hurl": "Pugna",
+        "name": "pugna_nether_ward",
+        "youtube":"1GLjEtZRA7M",
+        "id": 2
+    },
+    {
+        "dname": "Life Drain",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Channeled, Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "CHANNELED - When cast on an enemy, Pugna drains health from the target enemy unit to heal himself. If Pugna has full HP, and the enemy target is a Hero, Life Drain will restore mana instead.<br/>When cast on an ally, Pugna will drain his own health into his ally.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "HP drained depends on the actual damage dealt.<br/>Illusions are destroyed on the first tick of damage.",
+        "dmg": "",
+        "attrib": "DRAIN PER SECOND: <b><font color=\"#ffffff\">150/185/220</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">900/1050/1200</font></b><br/>MAX DURATION: <b><font color=\"#ffffff\">10</font></b><br/><font color=\"#6fe871\">SCEPTER DRAIN PER SECOND:</font></b> <b><font color=\"#ffffff\">180/240/300</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/175/225<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 22",
+        "lore": "Pugna has truly become more powerful than even the grandmaster of Oblivion.",
+        "hurl": "Pugna",
+        "name": "pugna_life_drain",
+        "youtube":"G9pGWvXj0aE",
+        "id": 3
+    }
+]

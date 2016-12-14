@@ -1,0 +1,158 @@
+{
+  "AbilityBuild": {
+    "AbilityOrder": {
+      "1": "lion_impale",
+      "2": "lion_mana_drain",
+      "3": "lion_voodoo",
+      "4": "lion_impale",
+      "5": "lion_impale",
+      "6": "lion_finger_of_death",
+      "7": "lion_mana_drain",
+      "8": "lion_impale",
+      "9": "lion_mana_drain",
+      "10": "lion_voodoo",
+      "11": "lion_finger_of_death",
+      "12": "lion_mana_drain",
+      "13": "lion_voodoo",
+      "14": "lion_voodoo",
+      "15": "attribute_bonus",
+      "16": "lion_finger_of_death",
+      "17": "attribute_bonus",
+      "18": "attribute_bonus",
+      "19": "attribute_bonus",
+      "20": "attribute_bonus",
+      "21": "attribute_bonus",
+      "22": "attribute_bonus",
+      "23": "attribute_bonus",
+      "24": "attribute_bonus",
+      "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+      "lion_finger_of_death": "Magic burst ability is good to shut down squishy heroes easily. You may level this up later if you are playing hard support. It costs you a chunk of mana. This ability coordinates with dagon and you can deal 1k+ damage in a second.",
+      "lion_voodoo": "Lion is picked for his ability to disable a hero at a long duration. Get this at lease 1 level before  reaching Level 6 so that you have an extra disable other than your stun. Some players maxed out first skill fully without having levels of hex. Hexing is mainly a bonus to Lion. Having 2 disables with shorter disable duration is better than having 1 disable that has long duration.Usually players would use stun before hex. It would be much more better to hex (slow) so that the stun can be easily positioned. Unless enemy hero is at a far range.",
+      "lion_impale": "Stunning is an asset to your team. Being the best disable in the game can turn the tables during the fight or initiating a war. It cost you a lot of mana, so think before using this skill. Make a quick calculation before using this skill, so that youbwill have enough mana for your ultimate. You can use Euls or Blink Dagger to assist you in positioning the stun. Use hex before this.",
+      "attribute_bonus": "Your skills are more important than your attributes. Level this up later.",
+      "lion_mana_drain": "Lion has many spells that have high mana cost. Use this to bolster your usage of mana. Try to absorb mana from enemy heroes rather than from the range creep. It does sort of harass them is a different way."
+    }
+  },
+  "Hero": "lion",
+  "ItemBuild": {
+    "ItemTooltips": {
+      "flying_courier": "No harm getting this for your team.",
+      "flask": "Playing semi-carry can mean mid or laning as a carry. Get this to secure yourself from not dying.",
+      "dagon": "Used along with your ultimate to deal massive magic damage. Using dagon for last-hitting may not be so efficient, but you have high mana regen potential. So why not use it to farm when it is off cooldown? ",
+      "tranquil_boots": "Wants you get this. You will less likely be harassed. High movement speed gives you high mobility. Your job ain\u0027t last-hitting if you are getting this.",
+      "sphere": "Stats. Good item to balance yourself and avoid death spells.",
+      "mantle": "Mainly for last-hitting purposes. ",
+      "refresher": "Having a refresher allows you to deal twice the damage of your ultimate as well as dagon. Wouldn\u0027t that be great? Get Aghanim Scepter and Dagon before considering to get this.",
+      "sheepstick": "Extra hex. Isn\u0027t that good? Probably if the enemy has a fed hard carry can never escape since the amount of disables you have is a lot. More intelligence means bigger mana pool to sustain yourself to use high mana cost spells.",
+      "ghost": "You are very vulnerable when you are playing Lion support. Prevent yourself from taking further physical damage from the enemy team\u0027s carry with this. Whats more is it gives you nice stats.",
+      "mekansm": "Regen and more regen for your team and yourself. Refills you instant health. Whats great is that you don\u0027t have to worry about the mana cost of using this since you already have absorb mana.",
+      "phase_boots": "Run faster. Hit harder. Last hit better.",
+      "mask_of_madness": "This may look like a mistake. But it is not. Player underestimate the power of MOM as it helps you run faster. You are not using this to lifesteal but mainly as an escape mechanism. You also can use this to farm or push lanes easily or towers.",
+      "pipe": "Regen and magic protection. Help your team a lot and makes you tanky somehow.",
+      "gauntlets": "Being support Lion, you ain\u0027t getting so much levels. Get this to improve your health pool. ",
+      "cyclone": "Extra disable. Use this to position your stun or to chase up heroes that you and your team are trying to kill. Gives you tonnes of mana regen.",
+      "black_king_bar": "You will be jumping in to initiate. Make yourself a little tanky and immune to magic damage by having this. Last longer in fights.",
+      "ultimate_scepter": "Improves ultimate and gives an AOE damage. Excellent coordination if you have a Magnus or a Dark Seer. Stats are really good.",
+      "ethereal_blade": "Adds extra damage to your burst. Stats and more attack speed. Use it on yourself if necessary. ",
+      "branches": "Early stats.",
+      "heart": "Extra extra tanky. Since you are the main disabler of the team, the enemy is gonna tryhard to shut you down as fast as possible. So why not consider a Heart for yourself?",
+      "force_staff": "Escape mechanism. Sometimes you just need to take the risk to place a ward at the enemy\u0027s jungle. This will help you escape from ganks.",
+      "heavens_halberd": "Like I said. More disables. Given if you have this, the enemy team will beg for mercy. They don\u0027t even get a chance to survive without getting any debuffs. Improves health pool and evasion.",
+      "magic_wand": "Free up the space in your inventory. Very useful against heroes that uses skills constantly.",
+      "courier": "Get yourself a courier if your team doesn\u0027t have one.",
+      "ward_observer": "Observer ward is a must throughout the game if you are playing support.",
+      "veil_of_discord": "Since you deal extreme amounts of magic damage, consider getting this item as it reduces enemy hero\u0027s magic resistance. Plus, it gives you some decnt stats.",
+      "invis_sword": "Good initiation item. Good escape mechanism. Makes you like an assasin. With this you can be like Nyx Assasin, killing heroes almost instantly and silently.",
+      "bottle": "Players get bottle because of their limited mana pool or regen. But here, you will need it more for regaining your health since Lion is soft. Getting mana wouldn\u0027t be a problem since you have third skill.",
+      "necronomicon_3": "Pushing the lanes can be wasy with this. Help your team to push. The auras given by the nevro warriors are excellent.",
+      "orchid": "Mana regen and attack speed. Silencing an enemy hero is another disable! It is Lion\u0027s job to disable. ",
+      "blink": "Blink Dagger helps you improve positioning. It serves you as an escape mechanism too. Initiating ganks will be so much easier with this. If you are a support, only get this if you are getting very high income.",
+      "bloodstone": "As a support you would probably die many times. Get this to help your team. Reduce your respawn time by having more charges through killing and assisting. Great item. With this, you probably don\u0027t have to worry about mana.",
+      "tango": "Some regen, in case of harassment from creeps or enemy heroes.",
+      "ward_sentry": "Sentry wards are required mainly for dewarding. Its Lion\u0027s job. If he is ganked while dewarding, he can give quick response by stunning or hexing, allowing him to escape or even kill.",
+      "crimson_guard": "Mainly for the team. Tanking is one key tging to getting this item. You become very tough with this.",
+      "bracer": "Extra tankiness and stats.",
+      "dagon_5": "High burst. Coordinates with your ultimate.",
+      "travel_boots": "Teleport here, teleport there to help you team as well as push lanes faster. High movement speed means more mobility. Positioning yourself is easier too.",
+      "ancient_janggo": "Attributes. Balances you up. Team item. ",
+      "shivas_guard": "More armour and mana pool. Helps your team a lot. You better more resistant to physical damage."
+    },
+    "Items": {
+      "Starting items (support)": [
+        "courier",
+        "tango",
+        "branches",
+        "ward_observer",
+        "gauntlets"
+      ],
+      "Starting items (semi-carry)": [
+        "tango",
+        "flask",
+        "mantle",
+        "mantle",
+        "branches"
+      ],
+      "Laning items (support)": [
+        "bracer",
+        "magic_wand",
+        "flying_courier",
+        "ward_observer",
+        "tranquil_boots"
+      ],
+      "Laning items (semi-carry)": [
+        "bottle",
+        "phase_boots",
+        "magic_wand"
+      ],
+      "Core items (support)": [
+        "mekansm",
+        "ancient_janggo",
+        "force_staff",
+        "ghost",
+        "ward_observer"
+      ],
+      "Core items (semi-carry)": [
+        "blink",
+        "dagon",
+        "ultimate_scepter"
+      ],
+      "Luxury items (support)": [
+        "blink",
+        "black_king_bar",
+        "travel_boots",
+        "sheepstick",
+        "pipe",
+        "ward_observer",
+        "bloodstone",
+        "necronomicon_3"
+      ],
+      "Luxury items (semi-carry)": [
+        "dagon_5",
+        "sphere",
+        "black_king_bar",
+        "ethereal_blade",
+        "shivas_guard",
+        "refresher",
+        "heart",
+        "bloodstone"
+      ],
+      "Situational items (support)": [
+        "invis_sword",
+        "veil_of_discord",
+        "ward_sentry",
+        "travel_boots",
+        "crimson_guard"
+      ],
+      "Situational items (semi-carry)": [
+        "cyclone",
+        "sheepstick",
+        "orchid",
+        "mask_of_madness",
+        "heavens_halberd"
+      ]
+    }
+  },
+  "Title": "雯琳，我好想念妳^o^\u0027s guide to Lion"
+}

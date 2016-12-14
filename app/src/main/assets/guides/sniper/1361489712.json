@@ -1,0 +1,69 @@
+{
+	"Hero":"sniper",
+	"Title":"Pay2Lose - Sniper for New Players",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"slippers",
+				"slippers",
+				"branches",
+				"branches"
+			],
+			"Mid Game":
+			[
+				"boots",
+				"power_treads",
+				"magic_wand",
+				"invis_sword"
+			],
+			"End Game Options":
+			[
+				"greater_crit",
+				"yasha",
+				"manta",
+				"mjollnir",
+				"black_king_bar"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sniper_take_aim",
+			"2":"sniper_headshot",
+			"3":"sniper_headshot",
+			"4":"sniper_take_aim",
+			"5":"sniper_headshot",
+			"6":"sniper_assassinate",
+			"7":"sniper_headshot",
+			"8":"sniper_take_aim",
+			"9":"sniper_take_aim",
+			"10":"sniper_shrapnel",
+			"11":"sniper_assassinate",
+			"12":"sniper_shrapnel",
+			"13":"sniper_shrapnel",
+			"14":"sniper_shrapnel",
+			"15":"attribute_bonus",
+			"16":"sniper_assassinate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

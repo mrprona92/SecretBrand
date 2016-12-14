@@ -1,0 +1,19 @@
+{
+  "dotaId": "refresher",
+  "id": 110,
+  "img": "refresher_lg.png",
+  "dname": "Refresher Orb",
+  "qual": "rare",
+  "cost": 5300,
+  "desc": "Активируемая: Reset Cooldowns — сбрасывает время перезарядки всех ваших предметов и способностей.",
+  "notes": "",
+  "attrib": "+ 10 к регенерации здоровья<br/>+ 250% к регенерации маны<br/>+ 20 УРОНА",
+  "mc": 375,
+  "cd": 195,
+  "lore": "Могущественный артефакт, созданный для магов.",
+  "components": [
+    "pers",
+    "pers"
+  ],
+  "created": true
+}

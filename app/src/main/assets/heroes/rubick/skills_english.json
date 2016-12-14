@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Telekinesis",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Rubick uses his telekinetic powers to lift the enemy into the air briefly and then hurls them back at the ground. The unit lands on the ground with such force that it stuns nearby enemies.",
+        "notes": "While the target is in the air, Rubick may use a secondary ability to throw the enemy in a targeted direction.<br/>When the unit lands, it isn\u0027t affected by the area of effect stun.<br/>The farthest you can throw an enemy is 375.",
+        "dmg": "",
+        "attrib": "LIFT DURATION: <b><font color=\"#ffffff\">1.5/1.75/2/2.25</font></b><br/>STUN DURATION: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b><br/>IMPACT RADIUS: <b><font color=\"#ffffff\">325/325/325/325</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">550/575/600/625</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/120/120/120<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 22",
+        "lore": "Even the Grandest Magus may use his powers for enjoyment.",
+        "hurl": "Rubick",
+        "name": "rubick_telekinesis",
+        "youtube":"SbfekAl6ZBM",
+        "id": 0
+    },
+    {
+        "dname": "Telekinesis Land",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b>",
+        "desc": "Chooses the location the target will land when Telekinesis finishes.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "",
+        "cmb": "",
+        "lore": "",
+        "hurl": "Rubick",
+        "name": "rubick_telekinesis_land",
+        "youtube":"ZLrd3_57xKw",
+        "id": 1
+    },
+    {
+        "dname": "Fade Bolt",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Rubick creates a powerful stream of arcane energy that travels between enemy units, dealing damage and reducing their attack damage.  Each jump deals less damage.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAMAGE: <b><font color=\"#ffffff\">70/140/210/280</font></b><br/>JUMP REDUCTION: <b><font color=\"#ffffff\">4%/4%/4%/4%</font></b><br/>HERO DAMAGE REDUCTION: <b><font color=\"#ffffff\">14/20/26/32</font></b><br/>CREEP DAMAGE REDUCTION: <b><font color=\"#ffffff\">7/10/13/16</font></b><br/>DEBUFF DURATION: <b><font color=\"#ffffff\">10/10/10/10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/130/140/150<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16/14/12/10",
+        "lore": "Rubick\u0027s favorite spell for dispatching would-be assassins is a rather simple conjuration.",
+        "hurl": "Rubick",
+        "name": "rubick_fade_bolt",
+        "youtube":"eZ6g4fnlkC8",
+        "id": 2
+    },
+    {
+        "dname": "Null Field",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Rubick\u0027s mastery of the arcane protects nearby allies against weaker magics, granting them magic resistance.",
+        "notes": "Stacks multiplicatively with other spell resistance sources.",
+        "dmg": "",
+        "attrib": "MAGIC RESISTANCE: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>RADIUS: <b><font color=\"#ffffff\">900/900/900/900</font></b>",
+        "cmb": "",
+        "lore": "Not every magus can be a Grand Magus...",
+        "hurl": "Rubick",
+        "name": "rubick_null_field",
+        "youtube":"rGPFkEHi8QA",
+        "id": 3
+    },
+    {
+        "dname": "Spell Steal",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Rubick studies the trace magical essence of one enemy hero, learning the secrets of the last spell the hero cast. Rubick can use this spell as his own for several minutes or until he dies.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Cannot steal item abilities.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">180/240/300</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">2</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 25/25/25<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/18/16",
+        "lore": "...but even their lesser magics can be a source of much utility.",
+        "hurl": "Rubick",
+        "name": "rubick_spell_steal",
+        "youtube":"RBiGEs77jDQ",
+        "id": 4
+    }
+]

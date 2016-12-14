@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Devour",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b>",
+        "desc": "Consumes an enemy or neutral creep, acquiring any special abilities that it possessed.",
+        "notes": "Gives Doom the original bounty of the creep, along with the bonus gold.<br/>The amount of time it takes to Devour depends on the current HP of the unit.<br/>Doom can\u0027t Devour mechanical or ancient units.<br/>If you devour a creep without abilities, you\u0027ll keep the abilities you had previously.",
+        "dmg": "",
+        "attrib": "BONUS GOLD: <b><font color=\"#ffffff\">25/50/75/100</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/60/50/40",
+        "lore": "Lucifer\u0027s appetite and greed are never sated.",
+        "hurl": "Doom",
+        "name": "doom_bringer_devour",
+        "youtube":"hbJpllULcxo",
+        "id": 0
+    },
+    {
+        "dname": "Scorched Earth",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Carpets the nearby earth in flames, damaging enemies while Doom gains bonus HP regen and increased movement speed.",
+        "notes": "Scorched Earth follows Doom, centered on his location.<br/>Other units Doom controls also benefit from Scorched Earth.",
+        "dmg": "",
+        "attrib": "DAMAGE/REGEN: <b><font color=\"#ffffff\">12/18/24/30</font></b><br/>RADIUS: <b><font color=\"#ffffff\">600/600/600/600</font></b><br/>BONUS MOVE SPEED: <b><font color=\"#ffffff\">16%/16%/16%/16%</font></b><br/>DURATION: <b><font color=\"#ffffff\">10/12/14/16</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/65/70/75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/55/50/45",
+        "lore": "The Fallen One spreads destruction in his wake, sparing none from the flame which sustains him.",
+        "hurl": "Doom",
+        "name": "doom_bringer_scorched_earth",
+        "youtube":"Cma29C2JmqM",
+        "id": 1
+    },
+    {
+        "dname": "LVL? Death",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Ignites an enemy hero\u0027s soul, dealing base damage and a mini-stun. If the target hero\u0027s level is a multiple of the Hero Level Multiplier, or they are level 25, they will be dealt additional damage equal to 20% of their maximum health.",
+        "notes": "Interrupts channeling abilities.",
+        "dmg": "",
+        "attrib": "BASE DAMAGE: <b><font color=\"#ffffff\">125/175/225/275</font></b><br/>HERO LEVEL MULTIPLIER: <b><font color=\"#ffffff\">6/5/4/3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110/110/110/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 8",
+        "lore": "Lucifer shares the fire branding bestowed upon him at the time of his exile.",
+        "hurl": "Doom",
+        "name": "doom_bringer_lvl_death",
+        "youtube":"dbLhai2msWU",
+        "id": 2
+    },
+    {
+        "dname": "Doom",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Inflicts a curse that prevents an enemy Hero from casting spells or using items, while taking damage over time.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "If a magic shield is present, such as the barrier from Pipe of Insight, Doom will damage the barrier first before moving on to the Hero.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">15</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">20/35/50</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">16/16/16</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE PER SECOND:</font></b> <b><font color=\"#ffffff\">40/60/80</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 150/200/250<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 100",
+        "lore": "When a name is tolled from the bell of Vashundol, doom is sure to follow.",
+        "hurl": "Doom",
+        "name": "doom_bringer_doom",
+        "youtube":"6fFIUnuh1r0",
+        "id": 3
+    }
+]

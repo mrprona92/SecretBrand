@@ -1,0 +1,105 @@
+{
+	"Hero":"obsidian_destroyer",
+	"Title":"6.82 - Standard Outworld Devourer (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"force_staff",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"rod_of_atos",
+				"assault"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Astral Imprisonment to let your Blink Dagger get off cooldown, then use it to escape! Very underrated item on Outworld Devourer.",
+				"branches":"Increase your last-hitting capabilities with iron branches.",
+				"bottle":"If you find yourself needing the extra mana during the laning phase of middle lane due to Astral Imprisonment's cost, pick this item up.",
+				"mekansm":"Pick this up for the survivability and if no other support is getting it.",
+				"buckler":"Buckler activates your Essence aura, another reason to build this into Mekansm or simply keep it alone for the extra survivability.",
+				"sheepstick":"Get this if you can reach the items necessarily, otherwise move on to the Extension Items list.",
+				"cyclone":"Great movement speed, incredible disable and offers a bit more intelligence for Outworld Devourer. Use this to initiate fights and/or to save yourself from initial ganks as you can delay attacks for a significant amount of time thanks to this scepter and Astral Imprisonment",
+				"force_staff":"Due to Outworld Devourer's slow speed, Force Staff is to help you move in and out of battles and as an escape mechanism.",
+				"black_king_bar":"You will find yourself constantly targeted down due to your incredible damage from Arcane Orb. Black King Bar is to prevent this.",
+				"shivas_guard":"Shiva's Guard adds extra armor against physical carries while offering a slow to allow you to continue destroying nearby foes.",
+				"rod_of_atos":"More intelligence, more health and a slow to boot. Great item for Outworld Devourer."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"obsidian_destroyer_astral_imprisonment",
+			"2":"obsidian_destroyer_essence_aura",
+			"3":"obsidian_destroyer_astral_imprisonment",
+			"4":"obsidian_destroyer_essence_aura",
+			"5":"obsidian_destroyer_essence_aura",
+			"6":"obsidian_destroyer_sanity_eclipse",
+			"7":"obsidian_destroyer_essence_aura",
+			"8":"obsidian_destroyer_arcane_orb",
+			"9":"obsidian_destroyer_astral_imprisonment",
+			"10":"obsidian_destroyer_astral_imprisonment",
+			"11":"obsidian_destroyer_sanity_eclipse",
+			"12":"obsidian_destroyer_arcane_orb",
+			"13":"obsidian_destroyer_arcane_orb",
+			"14":"obsidian_destroyer_arcane_orb",
+			"15":"attribute_bonus",
+			"16":"obsidian_destroyer_sanity_eclipse",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"obsidian_destroyer_arcane_orb":"With Essence Aura maxed, Arcane Orb becomes a lot easier to use without the problem of running out. Use it to wear down foes incredibly fast.",
+				"obsidian_destroyer_astral_imprisonment":"We're getting early levels in Astral Imprisonment due to its low mana cost, great disable and it helps you dominate the lane.
+
+Use this move constantly to diminish the enemy's intelligence and mana pool, allowing you to freely farm without fear with a ton of extra damage.",
+				"obsidian_destroyer_essence_aura":"Your Q and W and ultimate are abilities that activate this passive ability and keeps you always at a high amount of mana to continue casting.",
+				"obsidian_destroyer_sanity_eclipse":"Use this on Strength and Agility heroes with a small mana pool. Be sure to use Astral Imprisonment to take more intelligence from the foe, thus more potential mana to be done."
+		}
+	}
+}

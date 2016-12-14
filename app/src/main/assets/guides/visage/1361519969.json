@@ -1,0 +1,87 @@
+{
+	"Hero":"visage",
+	"Title":"[DMX] Visage - Support (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_regen",
+				"tango",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm",
+				"hood_of_defiance",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"sheepstick",
+				"assault",
+				"shivas_guard",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"medallion_of_courage",
+				"vanguard",
+				"dagon"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_grave_chill",
+			"2":"visage_soul_assumption",
+			"3":"visage_soul_assumption",
+			"4":"visage_gravekeepers_cloak",
+			"5":"visage_soul_assumption",
+			"6":"visage_summon_familiars",
+			"7":"visage_soul_assumption",
+			"8":"visage_gravekeepers_cloak",
+			"9":"visage_gravekeepers_cloak",
+			"10":"visage_gravekeepers_cloak",
+			"11":"visage_summon_familiars",
+			"12":"visage_grave_chill",
+			"13":"visage_grave_chill",
+			"14":"visage_grave_chill",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"visage_grave_chill":"Un très bon slow qui vous permettra d'engager ou de fuir.",
+				"visage_soul_assumption":"Le sort qui fait des ravages en teamfight car il se recharge très vite ! Spammez le lorsque vous avez le maximum de charges.",
+				"visage_gravekeepers_cloak":"Un excellent passif qui vous permet d'être très tanky au début des teamfights.",
+				"visage_summon_familiars":"Avec une bonne micro ces familiers vous seront très utile pour augmenter votre dps, scouter et étourdir vos opposants."
+		}
+	}
+}

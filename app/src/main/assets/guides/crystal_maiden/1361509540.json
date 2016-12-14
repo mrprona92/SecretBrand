@@ -1,0 +1,111 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"6.82 - Standard Crystal Maiden (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"urn_of_shadows",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"ghost",
+				"black_king_bar"
+			],
+			"Extension Items":
+			[
+				"blink",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If ahead or really needing that intiaiton. Blink Dagger works great with Frostbite to keep foes in place while your allies come to finish them off.",
+				"ghost":"Works great in combination with your ultimate as it forces only people with magic-type targets to disable or interrupt your channeling ability.",
+				"ward_observer":"Buy wards or courier for the team as per one of the support's duties.",
+				"courier":"Buy wards or courier for the team as per one of the support's duties.",
+				"bracer":"Crystal Maiden doesn't survive for long. A bracer should fix her right up without needing to invest too much in her life.",
+				"urn_of_shadows":"Be active and gank often if obtaining Urn. The stats will also help you survive.",
+				"black_king_bar":"To allow you to channel your ultimate safely.",
+				"ancient_janggo":"Whether chasing or escaping, Drums of Endurance gives you the necessary movement speed.",
+				"tranquil_boots":"On-the-go heal with decent movement speed. Relatively cheaper than other boots and helps you stay alive."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_frostbite",
+			"2":"crystal_maiden_crystal_nova",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_brilliance_aura",
+			"5":"crystal_maiden_crystal_nova",
+			"6":"crystal_maiden_crystal_nova",
+			"7":"crystal_maiden_crystal_nova",
+			"8":"crystal_maiden_frostbite",
+			"9":"crystal_maiden_freezing_field",
+			"10":"crystal_maiden_frostbite",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_brilliance_aura",
+			"13":"crystal_maiden_frostbite",
+			"14":"crystal_maiden_brilliance_aura",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Try to avoid harassing with Crystal Nova during the lane phase due to its AOE effect. This could ultimately push your lane rather than just scaring your foes away. Be sure to take advantage of its range to be able to follow-up with Frostbite",
+				"crystal_maiden_frostbite":"This is your best disabling ability and should be your follow-up with your slow, unless you have Blink Dagger/Force Staff to get closer to your foe.",
+				"crystal_maiden_brilliance_aura":"It's debatable whether to max out Arcane Aura first. The mana regeneration is immense, but it all depends if your team is starving for mana or not.",
+				"crystal_maiden_freezing_field":"In combination with your Ghost Scepter, you can cast this ability safely. Nonetheless, use this ability after someone else initiates to ensure no one targets you yet."
+		}
+	}
+}

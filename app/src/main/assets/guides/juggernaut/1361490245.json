@@ -1,0 +1,115 @@
+{
+	"Hero":"juggernaut",
+	"Title":"Glasscannon Juggernaut Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"quelling_blade",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Laning":
+			[
+				"boots",
+				"magic_wand",
+				"phase_boots",
+				"pers",
+				"tpscroll"
+			],
+			"Core":
+			[
+				"bfury",
+				"manta",
+				"tpscroll"
+			],
+			"Luxury":
+			[
+				"mjollnir",
+				"butterfly",
+				"abyssal_blade",
+				"monkey_king_bar",
+				"vladmir",
+				"black_king_bar",
+				"travel_boots",
+				"tpscroll"
+			],
+			"If nobody else picks up":
+			[
+				"ancient_janggo",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"jugger have quite bad basic attackdamage so i recomend qb for easier lasthitting in lane",
+				"branches":"Best iterm in the whole game if you were to have unlimited item slots.",
+				"boots":"Get these first so you can hold up with your fleeing enemy while spinning.",
+				"magic_wand":"Nice to get mana for some wombo combo in earlygame",
+				"flask":"Basic regen",
+				"tango":"Basic regen",
+				"tpscroll":"ALWAYS HAVE ONE! use spin the port away, cant get easier!",
+				"travel_boots":"Just so you have room for more items since you wont need more tps. And you can push alot easier with creep porting.",
+				"phase_boots":"Makes you crit rediculous in the early state and its good for chasing. PT is also viable pickup for a change",
+				"pers":"Gives nice regen, also build into your future love, battlefury.",
+				"vladmir":"If you have alot of right click melee heroes on the team",
+				"assault":"good attackspeed and minus armor, why not?",
+				"black_king_bar":"Good item if enemies have disables",
+				"monkey_king_bar":"Nice item to kill thos pesky windrunners and brewmasters as you cant hit them otherwise.",
+				"butterfly":"Just a nice item for every agi carry against teams with alot of right clicks",
+				"bfury":"Makes your farmspeed jump skyhigh as you can clear creep waves in a couple of hits aswell as taking jungle creeps with no problem. this also gives your ultimate cleave damage.",
+				"manta":"Gives you even more movement speed and lets you make illusions right after your ult so your extremly hard to get a hold on.",
+				"mjollnir":"One of the best DPS items in the game with crazy attackspeed and nice damage, as you also have crazy attackspeed with this build you will proc it often",
+				"ancient_janggo":"Maybe the best midgame item in the whole game, nice stats and huge team buff.",
+				"abyssal_blade":"100 damage and a reliable stunn as well as some strenght to go with you."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"juggernaut_blade_fury",
+			"2":"attribute_bonus",
+			"3":"juggernaut_blade_fury",
+			"4":"attribute_bonus",
+			"5":"juggernaut_blade_fury",
+			"6":"juggernaut_omni_slash",
+			"7":"juggernaut_blade_fury",
+			"8":"juggernaut_healing_ward",
+			"9":"juggernaut_blade_dance",
+			"10":"juggernaut_blade_dance",
+			"11":"juggernaut_omni_slash",
+			"12":"juggernaut_blade_dance",
+			"13":"juggernaut_blade_dance",
+			"14":"juggernaut_healing_ward",
+			"15":"attribute_bonus",
+			"16":"juggernaut_omni_slash",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"juggernaut_healing_ward",
+			"20":"juggernaut_healing_ward",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"juggernaut_blade_fury":"This is what makes you such a treat in the early lane and later on its very good for its magic imunity. Tis also lets you teleport of of nearly every situasion.",
+				"juggernaut_healing_ward":"The healing ward is great for.. well.. healing, so you take a point in it when you feel you need it. Always tke the first point in it by lvl 8 if you havent speced it yet. when it is lvl 2 you can easly solo roshan as well.",
+				"juggernaut_blade_dance":"Boosts your dps by alot as well as it can proc in your ultimate.",
+				"juggernaut_omni_slash":"Not much to say about this, its quite obvius what you do with it. The great thing is that you use ormal attacks while in this ult and therefor it deals so insane damage.",
+				"attribute_bonus":"Stats are great if not needed for early mana and damage in the lane for CS and you spinn."
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "dotaId": "javelin",
+  "id": 7,
+  "img": "javelin_lg.png",
+  "dname": "Javelin",
+  "qual": "component",
+  "cost": 1500,
+  "desc": "Passive: Pierce - Grants each attack a chance to deal bonus damage.",
+  "notes": "",
+  "attrib": "+ 21 Damage<br/>CHANCE TO PIERCE: 20%<br/>PIERCE DAMAGE: 40",
+  "mc": false,
+  "cd": false,
+  "lore": "A rather typical spear that can sometimes pierce through an enemy\u0027s armor when used to attack.",
+  "components": null,
+  "created": false
+}

@@ -1,0 +1,122 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"6.82 - Standard Ogre Magi (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"ghost",
+				"mekansm"
+			],
+			"Extension Items":
+			[
+				"veil_of_discord",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support hero, be sure to pick up a courier or wards.",
+				"courier":"As a support hero, be sure to pick up a courier or wards.",
+				"mekansm":"Mekansm can be an acceptable pick-up for Ogre Magi if your team lacks support heroes.
+
+However, Ogre Magi tends to stay in the back of the fights and there are plenty of items that he could take advantage of.",
+				"urn_of_shadows":"Urn of Shadows gives even further capability for Ogre to roam around and snag some kills with his great stun!",
+				"cyclone":"Use Eul's Scepter of Divinity to improve Ogre Magi's waddle-like movement and further add to his disabile arsenal.",
+				"force_staff":"For escaping or engaging. Use Force Staff to get in range for your Fireblast.",
+				"ultimate_scepter":"Aghanim's Scepter is the next sensible item for Ogre and pretty much the last of what he needs.
+
+The extra stun multicasts as well, giving you a chance for more damage, more crowd-control for Ogre Magi.",
+				"orb_of_venom":"Snag this early if you want to be a continued nuisance during the early phase of the game.",
+				"ancient_janggo":"Drums of Endurance gives Ogre Magi further maneuverability and survivability. Not bad given its price.",
+				"veil_of_discord":"Veil of Discord is overall a particulary strong item for Ogre Magi's nuke-heavy damage and damage-over-time effects.",
+				"rod_of_atos":"Rod of Atos gives a bigger mana pool for Ogre Magi and more life. Its active ability's range to slow enemies is quite good given how much Ogre Magi wants to stay out of fights."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_bloodlust",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_ignite",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"This is your best ability and its a great stun. Use this often, but be careful of the mana cost.",
+				"ogre_magi_ignite":"Ingnite targets an enemy, but also hits any nearby enemies as well. Use this after your stun to follow-up with the slow and extra DPS.",
+				"ogre_magi_bloodlust":"At a constant 75 mana cost, this ability is great for carries and heros who do physical damage. Use it plenty of times.",
+				"ogre_magi_unrefined_fireblast":"Make sure to time your two stuns (Fireblast and this one) to maximize the duration.",
+				"ogre_magi_multicast":"Marry Lady Luck to increase likelihood of this working."
+		}
+	}
+}

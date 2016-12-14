@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Poison Touch",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Casts a poisonous spell on an enemy unit, gradually slowing movement, and causing damage over time.<br/><font color=\"#ffb2ff\">LEVEL 1</font> - Slows the target by 33% for 3 seconds.<br/><font color=\"#ff99ff\">LEVEL 2</font> - Slows the target by 33% for 2 seconds, then by 66% for 1 second.<br/><font color=\"#ff66ff\">LEVEL 3</font> - Slows the target by 33%, 66%, and 100%, for 1 second each.<br/><font color=\"#ff33ff\">LEVEL 4</font> - Slows the target by 33% for 1 second, then 66% for 1 second, then stuns for 1 second.",
+        "notes": "The damage is not reduced by damage block abilities.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">14/20/26/36</font></b>",
+        "attrib": "SLOW TIME: <b><font color=\"#ffffff\">3</font></b><br/>DAMAGE DURATION: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/115/130/145<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 15/13/11/7",
+        "lore": "One of the few Dezun rites used for offensive purposes, the paralytic enchantment often proves useful.",
+        "hurl": "Dazzle",
+        "name": "dazzle_poison_touch",
+        "youtube":"iNu7gMUOovI",
+        "id": 0
+    },
+    {
+        "dname": "Shallow Grave",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "An ally blessed with Shallow Grave, no matter how close to death, cannot die while under its protection.",
+        "notes": "HP cannot go below 1 while under the effects of Shallow Grave, but Axe\u0027s Culling Blade will still kill the hero.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">5/5/5/5</font></b><br/>RANGE: <b><font color=\"#ffffff\">550/700/850/1000</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/130/120/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/45/30/15",
+        "lore": "Only a seasoned acolyte of the Shadow can properly perform the rite of preventing death.",
+        "hurl": "Dazzle",
+        "name": "dazzle_shallow_grave",
+        "youtube":"iW-w1R0pcZI",
+        "id": 1
+    },
+    {
+        "dname": "Shadow Wave",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Sends out a bolt of power that arcs between allies, healing them while damaging any units standing nearby.  Dazzle is always healed by Shadow Wave.",
+        "notes": "Prioritizes allied heroes over creeps.<br/>If enemies are near multiple allied units affected by Shadow Wave, they will take multiple instances of damage.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">80/100/120/140</font></b>",
+        "attrib": "HEAL ARC RADIUS: <b><font color=\"#ffffff\">475</font></b><br/>DAMAGE RADIUS: <b><font color=\"#ffffff\">185</font></b><br/>MAX HEAL TARGETS: <b><font color=\"#ffffff\">4/5/6/7</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 80/90/100/110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/10/8/6",
+        "lore": "While it is a simplistic and routine rite among Shadow Priests, the Shadow Wave is also the most critical for success.",
+        "hurl": "Dazzle",
+        "name": "dazzle_shadow_wave",
+        "youtube":"hiqYtx3MNck",
+        "id": 2
+    },
+    {
+        "dname": "Weave",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Applies a buff that increases the armor of allied heroes while decreasing the armor of enemy heroes in the target area over time.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Places a buff on units, so entering or leaving the area after the cast has no effect.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">575/575/575</font></b><br/>ARMOR PER SECOND: <b><font color=\"#ffffff\">0.75/1/1.25</font></b><br/>DURATION: <b><font color=\"#ffffff\">24</font></b><br/><font color=\"#6fe871\">SCEPTER RADIUS:</font></b> <b><font color=\"#ffffff\">775/775/775</font></b><br/><font color=\"#6fe871\">SCEPTER ARMOR PER SECOND:</font></b> <b><font color=\"#ffffff\">1.25/1.5/1.75</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40",
+        "lore": "His ethereal journey into the Nothl realm has allowed Dazzle to mend together the powers of light and dark, creating shifting waves of enchantments.",
+        "hurl": "Dazzle",
+        "name": "dazzle_weave",
+        "youtube":"kobWMCcOQLc",
+        "id": 3
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Wraithfire Blast",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Wraith King поджигает врага спектральным огнем, оглушая его и нанося урон. После окончания оглушения жертва продолжает получать урон в течение некоторого времени, а скорость ее передвижения снижается.",
+        "notes": "Всего наносит 80/160/230/300 единиц урона.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">50/100/150/200</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">2</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">2</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">20%</font></b><br/>УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">15/30/40/50</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 8",
+        "lore": "Остарион призывает своих проклятых предков, уничтожая противников.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_hellfire_blast",
+        "youtube":"cjBrHQKjxm4",
+        "id": 0
+    },
+    {
+        "dname": "Vampiric Aura",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">союзников</font></b>",
+        "desc": "Ближайшие союзники за каждый удар восстанавливают свое здоровье пропорционально нанесенному урону.",
+        "notes": "Складывается с другими источниками вампиризма.",
+        "dmg": "",
+        "attrib": "ВАМПИРИЗМ: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b>",
+        "cmb": "",
+        "lore": "Клинок Wraith King вытягивает жизненные силы из своих врагов и питает ауру хозяина.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_vampiric_aura",
+        "youtube":"0ZD6iTDTjcQ",
+        "id": 1
+    },
+    {
+        "dname": "Mortal Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b>",
+        "desc": "Wraith King пассивно получает возможность нанести дополнительный урон при атаке.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "КРИТИЧЕСКИЙ УРОН: <b><font color=\"#ffffff\">150%/200%/250%/300%</font></b><br/>ШАНС КРИТА: <b><font color=\"#ffffff\">15%</font></b>",
+        "cmb": "",
+        "lore": "Один удар, чтобы сокрушить врага.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_mortal_strike",
+        "youtube":"UMPnfE_N0YI",
+        "id": 2
+    },
+    {
+        "dname": "Reincarnation",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>Действует на <b><font color=\"#ffffff\">союзных героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "После смерти тело Wraith King вновь собирается воедино, воскрешая его на поле боя. При этом все враги в радиусе 900 замедляются.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Wraith King не возродится, если у него нет достаточного количества маны.<br/>Если Wraith King имеет одновременно Aegis of the Immortal и готовую способность, то способность сработает первой.<br/>Возвращает к жизни с полным запасом здоровья и маны.<br/>Награду за убийство героя, смерть которого была отложена, отдадут тому, кто нанес смертельный удар.<br/>Не действует на способность Suicide Squad, Attack! у Techies.<br/>Срабатывает при настоящей смерти Wraith King, а не перед перерождением.",
+        "dmg": "",
+        "attrib": "ВРЕМЯ ПЕРЕРОЖДЕНИЯ: <b><font color=\"#ffffff\">3/3/3</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">75%</font></b><br/>ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ: <b><font color=\"#ffffff\">75</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">5</font></b><br/>ЗАДЕРЖКА СМЕРТИ СОЮЗНИКОВ: <b><font color=\"#ffffff\">5</font></b><br/><font color=\"#6fe871\">РАДИУС ЗАДЕРЖКИ СМЕРТИ:</font></b> <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 160<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 260/160/60",
+        "lore": "Участники заговора против Wraith King удивляются тому, что он никогда не умирает.",
+        "hurl": "Wraith_King",
+        "name": "skeleton_king_reincarnation",
+        "youtube":"3yGidbPrewk",
+        "id": 3
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Shrapnel",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Consumes a charge to launch a ball of shrapnel that showers the target area in explosive pellets. Enemies are subject to damage and slowed movement. Reveals the targeted area. Shrapnel charges restore every 55 seconds.",
+        "notes": "Damage is dealt 11 times, immediately at spell effect then every second.<br/>Does not damage buildings.<br/>Provides vision in the targeted area.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">12/24/36/48</font></b>",
+        "attrib": "MOVEMENT SLOW: <b><font color=\"#ffffff\">15%/20%/25%/30%</font></b><br/>RADIUS: <b><font color=\"#ffffff\">450</font></b><br/>DURATION: <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 50",
+        "lore": "Kardel\u0027s modular rifle also fires incendiary rounds, useful for assaulting entrenched locations.",
+        "hurl": "Sniper",
+        "name": "sniper_shrapnel",
+        "youtube":"ZQuwiZ4LErM",
+        "id": 0
+    },
+    {
+        "dname": "Headshot",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Sniper increases his accuracy, giving him a chance to deal extra damage and briefly stop the movements of his enemies.",
+        "notes": "Works on allied creeps.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">15/40/65/90</font></b>",
+        "attrib": "CHANCE: <b><font color=\"#ffffff\">40%</font></b>",
+        "cmb": "",
+        "lore": "Taking potshots at steepstalkers in his childhood has been thoroughly refined into perfect leads on enemy combatants.",
+        "hurl": "Sniper",
+        "name": "sniper_headshot",
+        "youtube":"xwArHJFxywE",
+        "id": 1
+    },
+    {
+        "dname": "Take Aim",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
+        "desc": "Extends the attack range of Sniper\u0027s rifle.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "BONUS RANGE: <b><font color=\"#ffffff\">100/200/300/400</font></b>",
+        "cmb": "",
+        "lore": "Kardel always takes it upon himself to stay as far from harm as he can while still performing his role - taking perfect aim.",
+        "hurl": "Sniper",
+        "name": "sniper_take_aim",
+        "youtube":"ZehVtSyXDaE",
+        "id": 2
+    },
+    {
+        "dname": "Assassinate",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Sniper locks onto a target enemy unit and, after 2 seconds, fires a devastating shot that deals damage at long range, and mini-stuns the target.",
+        "notes": "Crosshair effect is only visible to allies.<br/>Invisibility doesn\u0027t disjoint the projectile.<br/>Interrupts channeling spell, including on Spell Immune units.",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">320/485/650</font></b>",
+        "attrib": "RANGE: <b><font color=\"#ffffff\">2000/2500/3000</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/275/375<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/15/10",
+        "lore": "In order to fulfill the prophecy and return to his home town, Kardel must make another shot as perfect as the one on the day of his ancient test.",
+        "hurl": "Sniper",
+        "name": "sniper_assassinate",
+        "youtube":"Ghp0_Dnk05A",
+        "id": 3
+    }
+]

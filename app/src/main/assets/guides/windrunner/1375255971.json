@@ -1,0 +1,87 @@
+{
+	"Hero":"windrunner",
+	"Title":"NevL - Windrunner",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"flask",
+				"tango",
+				"clarity",
+				"courier",
+				"ward_observer"
+			],
+			"Early game":
+			[
+				"phase_boots",
+				"ring_of_basilius",
+				"orchid"
+			],
+			"Mid game":
+			[
+				"force_staff",
+				"desolator"
+			],
+			"Late game":
+			[
+				"sheepstick",
+				"greater_crit",
+				"travel_boots"
+			],
+			"Situation":
+			[
+				"ultimate_scepter",
+				"sphere",
+				"monkey_king_bar",
+				"black_king_bar",
+				"blink",
+				"shivas_guard",
+				"heavens_halberd",
+				"assault",
+				"mjollnir",
+				"skadi",
+				"ancient_janggo",
+				"ghost"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"windrunner_shackleshot",
+			"2":"windrunner_windrun",
+			"3":"windrunner_powershot",
+			"4":"windrunner_powershot",
+			"5":"windrunner_powershot",
+			"6":"windrunner_shackleshot",
+			"7":"windrunner_powershot",
+			"8":"windrunner_windrun",
+			"9":"windrunner_shackleshot",
+			"10":"windrunner_focusfire",
+			"11":"windrunner_focusfire",
+			"12":"windrunner_shackleshot",
+			"13":"windrunner_windrun",
+			"14":"windrunner_windrun",
+			"15":"attribute_bonus",
+			"16":"windrunner_focusfire",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

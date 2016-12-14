@@ -1,0 +1,83 @@
+{
+	"Hero":"bane",
+	"Title":"BANE-Russian Edition",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"boots",
+				"tango"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"dagon",
+				"ancient_janggo"
+			],
+			"luxury":
+			[
+				"mekansm",
+				"sphere",
+				"invis_sword",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"ARCANE BOOTS !!!!!!!!!!!!",
+				"tango":"FOR HEAL ++++",
+				"mekansm":"May to heal your friends",
+				"dagon":"I think that YOU dont must to buy AGHANIM!! Because Dagon in last level better that AGHANIM",
+				"ultimate_scepter":"May to buy ONLY FOR ULT",
+				"sphere":"May to buy if your enemies have HARD STUNS",
+				"invis_sword":"INVISIBLE BANE better that always BANE",
+				"arcane_boots":"MANA ",
+				"ancient_janggo":"In many cases it saves your live !!!!!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_brain_sap",
+			"2":"bane_nightmare",
+			"3":"bane_brain_sap",
+			"4":"bane_nightmare",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_nightmare",
+			"8":"bane_brain_sap",
+			"9":"bane_enfeeble",
+			"10":"bane_nightmare",
+			"11":"bane_fiends_grip",
+			"12":"attribute_bonus",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"bane_enfeeble",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"bane_enfeeble",
+			"24":"bane_enfeeble",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bane_enfeeble":"IF ENEMIES HAVE LINKEN SPHERE USE IT FIRST.",
+				"bane_brain_sap":"HEALING AND WITH DAGON YOU MAY KILL 1vs1 MANY HEROES ON  BEGINNING LEVELS",
+				"bane_nightmare":"FOR ESCAPE OR IF YOUR FRIENDS HARD STILLERS",
+				"bane_fiends_grip":"1vs1 BECAUSE YOUR FRIENDS OR SUCKS WANT TO STEAL WHEN YOU ULT. DONT FORGET, STEALERS-SUCKS!!!!!"
+		}
+	}
+}

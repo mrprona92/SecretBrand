@@ -1,0 +1,74 @@
+{
+	"Hero":"nyx_assassin",
+	"Title":"(Master)Nyx Assassin",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"gauntlets",
+				"gauntlets",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"urn_of_shadows"
+			],
+			"coreItems":
+			[
+				"dagon",
+				"ethereal_blade",
+				"heart",
+				"sphere",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"dagon":"100% need upgrade to high dagon(lvl 8) before Ethereal Blade."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nyx_assassin_spiked_carapace",
+			"2":"nyx_assassin_impale",
+			"3":"nyx_assassin_impale",
+			"4":"nyx_assassin_mana_burn",
+			"5":"nyx_assassin_impale",
+			"6":"nyx_assassin_vendetta",
+			"7":"nyx_assassin_impale",
+			"8":"nyx_assassin_mana_burn",
+			"9":"nyx_assassin_mana_burn",
+			"10":"nyx_assassin_mana_burn",
+			"11":"nyx_assassin_vendetta",
+			"12":"nyx_assassin_spiked_carapace",
+			"13":"nyx_assassin_spiked_carapace",
+			"14":"nyx_assassin_spiked_carapace",
+			"15":"attribute_bonus",
+			"16":"nyx_assassin_vendetta",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nyx_assassin_spiked_carapace":"Frist Skill UP Spiked Carapace."
+		}
+	}
+}

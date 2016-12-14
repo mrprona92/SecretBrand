@@ -1,0 +1,115 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"NUCLEAR LAUNCH DETECTED: A Solo Mid Skywrath Mage Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"arcane_boots",
+				"vitality_booster"
+			],
+			"DOMINATING? BUY ONE OF THESE":
+			[
+				"bloodstone",
+				"rod_of_atos"
+			],
+			"NOT DOING TO WELL?":
+			[
+				"force_staff",
+				"ancient_janggo",
+				"bracer",
+				"cyclone"
+			],
+			"YOU USED YOUR MANA BOOSTER FOR BLOODSTONE?":
+			[
+				"power_treads",
+				"phase_boots",
+				"travel_boots"
+			],
+			"OH SHIT LATE GAME?":
+			[
+				"sheepstick",
+				"orchid",
+				"black_king_bar",
+				"shivas_guard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"The standard 3 gg branches and tango build, this allows you to get a bottle in 2 minutes or less if all goes well for you.",
+				"bottle":"You'll want a bottle so you can spam your Q ability",
+				"phase_boots":"Phase boots allows you to position yourself, gives you right click however your glass.",
+				"vitality_booster":"This can either go two ways; Bloodstone or Atos depending on how well the game is going. Of course the main goal is to get a Bloodstone, but if you're on the low side of kills/cs an atos is fine too.
+",
+				"power_treads":"If you do get a bloodstone by dissasembling your mana boots, consider getting treads for further survivability.",
+				"bracer":"If you're really not doing well consider buying one of these and turning it into a drums later on.",
+				"sheepstick":"If the game is going well, this is the cherry on top, it'll allow you to get off your combo unhindered. YOU CAN PAINT YOUR TARGET RED TO LET THE RAIN DROP.",
+				"orchid":"DOUBLE SILENCE, this is also another alternative to your mana problems. The one reason why I prefer bloodstone over orchid is bloodstone gives you what you need health.",
+				"cyclone":"This allows you to theoritcally setup your mystic flare much easier, the extra movement speed is nice too. It gives you a disable but it doesn't provide that much survivability.",
+				"force_staff":"An escape mechanism, that you'll probably need.",
+				"black_king_bar":"There's a pesky pugna dropping that damn nether ward? Bkb it",
+				"shivas_guard":"Increases your EHP and also provides an aoe slow to your arsenal.",
+				"bloodstone":"Bloodstone basically fixes all your health and mana problems; should you get the kills
+",
+				"arcane_boots":"To maintain your mana
+",
+				"ancient_janggo":"If you did buy a bracer, and no one has a set of drums consider buying one, of course after your core.",
+				"rod_of_atos":"Atos allows you to aim your Mystic Flare much more easier not only that it allows you to kite with your Q."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_ancient_seal",
+			"9":"skywrath_mage_ancient_seal",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_concussive_shot",
+			"13":"skywrath_mage_concussive_shot",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skywrath_mage_arcane_bolt":"At level 1; use Arcane bolt to get last hits. Its best to nuke at close to melee range due to the slow projectile speed. Level 3 onwards this is your bread and butter nuke, and unlike most nukes it scales with your primary status int. Use it to zone enemies out of the lane",
+				"skywrath_mage_concussive_shot":" I usually leave this at level 1, purely for the slow. Depending on your lineup and the enemies Seal and Concussive can be swapped around.",
+				"skywrath_mage_ancient_seal":"To me Seal is much more important early game when nukes are more potent, the silence is nice too.",
+				"skywrath_mage_mystic_flare":"Think of this as Invokers sunstrike but it doesnt affect creeps. The damage is split if it lands on 2 or more heroes, so you want this to land on a single unit. The combo is Arcane Bolt+Seal+Concussive Show followed flare.
+
+ITS BETTER TO FIRE THIS SOONER RATHER THAN LATER.",
+				"attribute_bonus":"Stats."
+		}
+	}
+}

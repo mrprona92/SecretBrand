@@ -1,0 +1,93 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"[DMX] Dragon Knight (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"helm_of_the_dominator",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"black_king_bar",
+				"assault",
+				"heart",
+				"satanic",
+				"travel_boots"
+			],
+			"Situationnel":
+			[
+				"hood_of_defiance",
+				"pipe",
+				"blade_mail",
+				"sange_and_yasha",
+				"heavens_halberd",
+				"greater_crit",
+				"abyssal_blade",
+				"ancient_janggo"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_tail",
+			"2":"dragon_knight_dragon_blood",
+			"3":"dragon_knight_breathe_fire",
+			"4":"dragon_knight_breathe_fire",
+			"5":"dragon_knight_breathe_fire",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_breathe_fire",
+			"8":"dragon_knight_dragon_blood",
+			"9":"dragon_knight_dragon_blood",
+			"10":"dragon_knight_dragon_blood",
+			"11":"dragon_knight_elder_dragon_form",
+			"12":"dragon_knight_dragon_tail",
+			"13":"dragon_knight_dragon_tail",
+			"14":"dragon_knight_dragon_tail",
+			"15":"attribute_bonus",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_dragon_tail":"Un stun très long mais qui n'inflige presque pas de dommages. Très pratique tout au long de la partie, n'oubliez pas que sa portée augmente lorsque vous êtes en forme de dragon.",
+				"dragon_knight_dragon_blood":"Un passif très utile qui vous permettra de tenir plus facilement votre lane au début de la partie et qui vous aidera à tanker en fin de game.",
+				"dragon_knight_elder_dragon_form":"Votre forme de dragon ! Le dragon de niveau un applique un poison qui fonctionne sur les batiments, c'est pourquoi vous devez le garder le plus longtemps possible !"
+		}
+	}
+}

@@ -1,0 +1,109 @@
+{
+	"Hero":"venomancer",
+	"Title":"[DMX] Venomancer (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"flask",
+				"tango",
+				"courier",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"force_staff",
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"manta",
+				"sheepstick",
+				"butterfly",
+				"shivas_guard",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"power_treads",
+				"medallion_of_courage",
+				"cyclone",
+				"pipe",
+				"invis_sword",
+				"blink",
+				"orchid",
+				"veil_of_discord",
+				"rod_of_atos",
+				"ghost",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"courier":"Si le coursier a déjà été pris, achetez des wards"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"venomancer_venomous_gale",
+			"2":"venomancer_poison_sting",
+			"3":"venomancer_plague_ward",
+			"4":"venomancer_plague_ward",
+			"5":"venomancer_plague_ward",
+			"6":"venomancer_poison_nova",
+			"7":"venomancer_plague_ward",
+			"8":"venomancer_venomous_gale",
+			"9":"venomancer_venomous_gale",
+			"10":"venomancer_venomous_gale",
+			"11":"venomancer_poison_nova",
+			"12":"venomancer_poison_sting",
+			"13":"venomancer_poison_sting",
+			"14":"venomancer_poison_sting",
+			"15":"attribute_bonus",
+			"16":"venomancer_poison_nova",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"venomancer_venomous_gale":"Sort très puissant pour agresser vos adversaires ! Attention les ennemis pourront se faire deny sous l'effet de ce sort.",
+				"venomancer_poison_sting":"Très bon passif pour harass, essayez de toucher les héros ennemis au maximum.",
+				"venomancer_plague_ward":"Un sort parfait pour pousser les lignes, défendre les tours ou donner la vision.",
+				"venomancer_poison_nova":"Un ultimate faisant d'énormes dégâts en AOE, dévastateur en teamfight. Attention, les dégâts de l'ultimate ne peuvent pas tuer, ne l'utiliser donc pas comme finisher."
+		}
+	}
+}

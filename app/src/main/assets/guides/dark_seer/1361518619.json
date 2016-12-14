@@ -1,0 +1,92 @@
+{
+	"Hero":"dark_seer",
+	"Title":"[DMX] Dark Seer - Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"magic_stick",
+				"tranquil_boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"arcane_boots",
+				"vanguard",
+				"hood_of_defiance",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"pipe",
+				"shivas_guard",
+				"ultimate_scepter",
+				"sheepstick",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"refresher",
+				"veil_of_discord"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dark_seer_ion_shell",
+			"2":"dark_seer_surge",
+			"3":"dark_seer_ion_shell",
+			"4":"dark_seer_vacuum",
+			"5":"dark_seer_ion_shell",
+			"6":"dark_seer_vacuum",
+			"7":"dark_seer_ion_shell",
+			"8":"dark_seer_vacuum",
+			"9":"dark_seer_vacuum",
+			"10":"dark_seer_wall_of_replica",
+			"11":"dark_seer_wall_of_replica",
+			"12":"dark_seer_surge",
+			"13":"dark_seer_surge",
+			"14":"dark_seer_surge",
+			"15":"attribute_bonus",
+			"16":"dark_seer_wall_of_replica",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dark_seer_vacuum":"Excellent sort de contrôle qui ramènera tout le monde au centre de l'AOE.
+A utiliser en combinaison avec les sorts AOE de vos alliés et avec votre ultimate.",
+				"dark_seer_ion_shell":"Le sort qui vous permettra de wood sans aucun soucis.",
+				"dark_seer_surge":"Un buff qui vous mettra vous ou votre allié à la vitesse maximale du jeu. Sauvez vos alliés !",
+				"dark_seer_wall_of_replica":"Un très bon ultimate pour turtle ou lors des teamfights.
+Utilisez le vaccuum pour ramener tous vos ennemis dans le mur."
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Hero":"ursa",
+	"Title":"Godlike Ursa",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"flask",
+				"quelling_blade"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius",
+				"boots"
+			],
+			"coreItems":
+			[
+				"vladmir",
+				"phase_boots",
+				"invis_sword"
+			],
+			"Late Game":
+			[
+				"basher",
+				"black_king_bar",
+				"lesser_crit"
+			],
+			"Luxury":
+			[
+				"greater_crit",
+				"abyssal_blade"
+			],
+			"Situational":
+			[
+				"heart",
+				"blade_mail",
+				"monkey_king_bar",
+				"blink"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If your team already have at least 2 invisible heroes, you might want to consider Blink Dagger. Shadow blade can be countered by gems and wards, blink might be a better choice if that is the situation.",
+				"vladmir":"After getting vladimir, go for Roshan. If you want a safe Roshan kill, use smoke before going in to avoid wards.",
+				"heart":"*Get this if you don't want BKB.
+       Heart gives lots of HP. With higher HP, Ursa's ulti would be so much more powerful. At 3000 HP, the ulti makes the damage go up to +400 which is really powerful to take down enemies instantly",
+				"black_king_bar":"Get this after shadow blade if the enemy team have many disablers or annoying spell casters.
+
+* not necessary if enemy team doesn't have annoying disabler",
+				"blade_mail":"Get this if enemies got a lot of damage dealers",
+				"monkey_king_bar":"Only get if enemy team got heroes that can dodge attacks.",
+				"basher":"* Must have item for late game
+
+Get this after shadow blade if the enemy team doesn't have many disablers. With ursa's overpower attack speed, Skull basher would prevent any enemy from escaping.",
+				"lesser_crit":"Get this after Skull Basher / BKB. This gives you a way higher damage and faster kills.",
+				"invis_sword":"* Must have item
+
+Some people choose blink over shadow blade. However, I truly believe that shadow blade is a much better choice. Unlike blink, you can get close to the enemy without them seeing you anywhere and you get an instant kill.
+           *Read blink description for more information  "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ursa_fury_swipes",
+			"2":"ursa_overpower",
+			"3":"ursa_earthshock",
+			"4":"ursa_overpower",
+			"5":"ursa_fury_swipes",
+			"6":"ursa_enrage",
+			"7":"ursa_overpower",
+			"8":"ursa_overpower",
+			"9":"ursa_fury_swipes",
+			"10":"ursa_fury_swipes",
+			"11":"ursa_enrage",
+			"12":"ursa_earthshock",
+			"13":"ursa_earthshock",
+			"14":"ursa_earthshock",
+			"15":"attribute_bonus",
+			"16":"ursa_enrage",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ursa_earthshock":"Get 1 level of this at level 3 to slow down enemies. This makes killing a lot easier"
+		}
+	}
+}

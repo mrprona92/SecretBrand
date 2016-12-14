@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Storm Hammer",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Sven использует всю мощь своей магической рукавицы, нанося урон и оглушая врагов.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">255</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 140<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13",
+        "lore": "Железная рукавица мятежного рыцаря, позаимствованная в отцовской школе, выбивает дух из его врагов.",
+        "hurl": "Sven",
+        "name": "sven_storm_bolt",
+        "youtube":"-BNx6j67GMM",
+        "id": 0
+    },
+    {
+        "dname": "Great Cleave",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Sven атакует с огромной силой, прорубаясь сквозь всех ближайших врагов.",
+        "notes": "Урон неосновным целям снижается типом брони, но не ее значением.<br/>Урон неосновным целям проходит через иммунитет к заклинаниям.<br/>Урон неосновным целям наносится в круговой области перед героем.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">300.000000</font></b><br/>УРОН СОСЕДНИМ ЦЕЛЯМ: <b><font color=\"#ffffff\">20%/35%/50%/65%</font></b>",
+        "cmb": "",
+        "lore": "Вигилийские рыцари до сих пор ищут способ вернуть Меч изгнания, который украл Sven, ведь это оружие способно прорубать целые ряды менее сильных воинов.",
+        "hurl": "Sven",
+        "name": "sven_great_cleave",
+        "youtube":"XRI-eUBr_S8",
+        "id": 1
+    },
+    {
+        "dname": "Warcry",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Боевой клич Sven воодушевляет союзников в бою, увеличивая их скорость передвижения и броню. Длится 8 секунд.",
+        "notes": "Складывается с другими способностями, увеличивающими броню или скорость.",
+        "dmg": "",
+        "attrib": "ДОП. БРОНЯ: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>ДОП. СКОРОСТЬ: <b><font color=\"#ffffff\">12%</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">900</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">8</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 25/25/25/25<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 32/26/20/14",
+        "lore": "Произнесение нескольких строк из Вигильского кодекса укрепляет верность Sven своим мятежным законам. Как поэтично!",
+        "hurl": "Sven",
+        "name": "sven_warcry",
+        "youtube":"npLme9BdTy8",
+        "id": 2
+    },
+    {
+        "dname": "God's Strength",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Sven концентрирует свою неконтролируемую силу, получая бонус к урону на 25 секунд.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Дополнительный урон подсчитывается на основе базового урона и вашей основной характеристики.",
+        "dmg": "",
+        "attrib": "ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">100%/150%/200%</font></b><br/>РАДИУС АУРЫ СО СКИПЕТРОМ: <b><font color=\"#ffffff\">900</font></b><br/><font color=\"#6fe871\">ДОП. УРОН ОТ АУРЫ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">50%/75%/100%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/150/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 80",
+        "lore": "Наделенный силой, сокрушившей Священный шлем, мятежный рыцарь непобедим в ближнем бою.",
+        "hurl": "Sven",
+        "name": "sven_gods_strength",
+        "youtube":"EbnTUOTMvkg",
+        "id": 3
+    }
+]

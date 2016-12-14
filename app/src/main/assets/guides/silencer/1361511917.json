@@ -1,0 +1,102 @@
+{
+	"Hero":"silencer",
+	"Title":"[DMX] Silencer (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"gauntlets",
+				"mantle"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"bracer",
+				"null_talisman"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"power_treads",
+				"mekansm",
+				"force_staff",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"shivas_guard",
+				"sheepstick",
+				"ultimate_scepter",
+				"heart",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"urn_of_shadows",
+				"ancient_janggo",
+				"ghost",
+				"cyclone",
+				"rod_of_atos",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"rod_of_atos":"Très utile sur silencer qui ne possède aucun disable.
+De plus le bonus de hp est très intéressant
+"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_curse_of_the_silent",
+			"2":"silencer_glaives_of_wisdom",
+			"3":"silencer_last_word",
+			"4":"silencer_last_word",
+			"5":"silencer_last_word",
+			"6":"silencer_global_silence",
+			"7":"silencer_last_word",
+			"8":"silencer_curse_of_the_silent",
+			"9":"silencer_curse_of_the_silent",
+			"10":"silencer_glaives_of_wisdom",
+			"11":"silencer_global_silence",
+			"12":"silencer_glaives_of_wisdom",
+			"13":"silencer_glaives_of_wisdom",
+			"14":"silencer_curse_of_the_silent",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"silencer_curse_of_the_silent":"Ce sort est très pratique pour harass car vos adverses devront utiliser un sort (souvent dans le vide) pour arrêter la malédiction.",
+				"silencer_glaives_of_wisdom":"Cet orb effect vous permet d'harass sans prendre l'aggro des creeps.
+En fin de game silencer infligera de très gros dégâts grâce à cette compétence et avec les bons items.",
+				"silencer_last_word":"Un nuke extrêmement puissant car il silencera votre cible et pourra même la désarmer ! A utiliser avec votre curse pour infliger un maximum de dommages.
+Mettez ce sort sur les mages adverses pour limiter leurs actions.",
+				"silencer_global_silence":"Le parfait ulti pour contre engage ou engager un fight, car une équipe sans sorts est une équipe très affaiblie."
+		}
+	}
+}

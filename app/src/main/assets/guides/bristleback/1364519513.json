@@ -1,0 +1,86 @@
+{
+	"Hero":"bristleback",
+	"Title":"Unmedicated KING passive-aggressive",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"branches",
+				"branches",
+				"stout_shield",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"poor_mans_shield",
+				"ring_of_regen"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"vladmir"
+			],
+			"luxury":
+			[
+				"sange_and_yasha",
+				"lesser_crit",
+				"invis_sword",
+				"desolator",
+				"blade_mail",
+				"demon_edge"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_regen":"For getting Vladimirs offering, this also helps with HP regen, staying in lane.",
+				"boots":"A fast movement speed will help getting out of sticky situations."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bristleback_quill_spray",
+			"2":"bristleback_viscous_nasal_goo",
+			"3":"bristleback_quill_spray",
+			"4":"bristleback_viscous_nasal_goo",
+			"5":"bristleback_quill_spray",
+			"6":"bristleback_warpath",
+			"7":"bristleback_quill_spray",
+			"8":"bristleback_viscous_nasal_goo",
+			"9":"bristleback_bristleback",
+			"10":"bristleback_viscous_nasal_goo",
+			"11":"bristleback_warpath",
+			"12":"bristleback_bristleback",
+			"13":"bristleback_bristleback",
+			"14":"bristleback_bristleback",
+			"15":"attribute_bonus",
+			"16":"bristleback_warpath",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bristleback_viscous_nasal_goo":"In early teamfights, you should be able to gank with this one.",
+				"bristleback_quill_spray":"Good ability to max quick for getting farm early on.",
+				"bristleback_bristleback":"Horribly tricky ability.",
+				"bristleback_warpath":"Get at level 6 where you will be able to stay strong in any lane."
+		}
+	}
+}

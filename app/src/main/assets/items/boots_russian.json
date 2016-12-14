@@ -1,0 +1,15 @@
+{
+  "dotaId": "boots",
+  "attrib": "+ 50 к скорости передвижения",
+  "cd": false,
+  "qual": "component",
+  "notes": "",
+  "desc": "Основные бонусы к скорости передвижения от нескольких пар ботинок не складываются.",
+  "dname": "Boots of Speed",
+  "mc": false,
+  "img": "boots_lg.png",
+  "lore": "Удобная обувь, ускоряющая передвижение.",
+  "id": 29,
+  "created": false,
+  "cost": 450
+}

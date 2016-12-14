@@ -1,0 +1,122 @@
+{
+  "Hero": "oracle",
+  "Title": "6.82- Oracle (Support) Standard Build",
+  "GuideRevision": "1",
+  "FileVersion": "1",
+  "Scratch": "0",
+  "ItemBuild": {
+    "Items": {
+      "startingItems": [
+        "tango",
+        "flask",
+        "clarity",
+        "branches",
+        "branches"
+      ],
+      "earlyGame": [
+        "boots",
+        "magic_stick",
+        "urn_of_shadows"
+      ],
+      "coreItems": [
+        "tranquil_boots",
+        "magic_wand",
+        "mekansm",
+        "cyclone"
+      ],
+      "Situational Offensive": [
+        "arcane_boots",
+        "sheepstick",
+        "veil_of_discord",
+        "rod_of_atos",
+        "blink",
+        "dagon"
+      ],
+      "Situational Defensive": [
+        "force_staff",
+        "ghost",
+        "pipe",
+        "sphere"
+      ],
+      "Utility": [
+        "courier",
+        "ward_observer",
+        "ward_sentry",
+        "flying_courier",
+        "smoke_of_deceit",
+        "dust",
+        "tpscroll",
+        "gem"
+      ],
+      "See also Middle Guide.": [
+      ]
+    },
+    "ItemTooltips": {
+      "blink": "Blink Dagger is great for mobility, one of your biggest weaknesses. Pick a up a Blink Dagger early on, or a Force Staff if their team has a lot of initiation, this will solve your positioning issues for the rest of the game. ",
+      "branches": "Iron Branches will give you more stats, helping you with survivability and mana management during the laning phase, build these into a wand later if needed.",
+      "boots": "Boots of Speed will make you faster! Remember you can pick both Boots and Magic Stick up from the side shop.",
+      "gem": "Gem of True Sight is the most reliable yet risky of the True Sight options. It provides an aura of True Sight around the holder which will reveal invisible enemies and wards. However, when the holder is killed, the item is dropped on the ground, purchasing this item must be carefully considered.",
+      "magic_stick": "A Magic Stick is helpful as an extra boost to your longevity; the extra hp and mana can prove vital, especially when laning.",
+      "magic_wand": "Magic Wand is good for burst healing and mana while providing bonus attributes compared to the Magic Stick.",
+      "ghost": "Ghost Scepter allows the Hero to avoid receiving physical damage in efforts to help you survive against right click heavy carries. Later on you have the option to upgrade this to an Ethereal Blade.",
+      "clarity": "Clarity provides some mana regeneration during the laning phase. Take in consideration that this will take you out the fight for 40 seconds.",
+      "flask": "A Healing Salve can be used on allies as well, letting you patch up a friend in need. Just be careful not to use it too close to the action, since the effect ends if the target takes enough damage.",
+      "dust": "Dust of Appearance is a direct counter to invisible units. It comes with two charges and lays down an area of revealing dust that will reveal any invisible heroes inside of it. Though it doesn't last long, the effect will prevent heroes from turning invisible again for 12 seconds.",
+      "ward_observer": "Absolutely essential to victory, Observer Wards allow you to keep watch over areas and spy on your enemies while keeping you and other heroes safe. It is important to keep wards up in key locations. Make sure you have at least 2 Observer wards on the battlefield at one time.",
+      "ward_sentry": "Sentry Wards offer temporary natural vision, and offer True Sight which can detect invisible enemies. Their detection radius is large, making them useful as long as you have vision in that area. Their primary use is for countering enemy wards, but can also be used for spotting invisible heroes.",
+      "tango": "Tangos are useful in sustaining team-mates and yourself - don't be afraid to share one with a low hp teammate!",
+      "courier": "Both Courier and Wards should be bought at the start of the game. Be sure to pick up Observer Wards if someone else buys the Courier.",
+      "tpscroll": "Always carry a Town Portal Scroll. Using the scroll allows you teleport to a friendly building. It can also be used as a means of escape against heroes who have no way to cancel the channeling.",
+      "mekansm": "Mekansm grants more stats, more armour and more HP regeneration, making you harder to kill. Its active ability is useful both for supporting and to save yourself from danger. Consider picking up Arcane Boots if you plan on going Mekansm, since your mana pool may be crippled.",
+      "pipe": "Pipe of Insight gives much more HP regeneration and increases your magic resistance. Its ability is useful if the enemy team has a great initiator: with this item you'll be able to partially counter him.",
+      "urn_of_shadows": "Urn of Shadows provides quick healing without a mana cost, and boosts your mana regeneration by a fair amount. With this you can remain relevant in the game until you get your major items up. You should pick this up early, but only if your team doesn't have one already.",
+      "sheepstick": "Scythe of Vyse gives good stats and plenty of mana and mana regeneration. It comes with a reliable disable with a moderate cooldown and removes evasion.",
+      "cyclone": "This is a great pick up vs a team with a lot of silence or initiation. This is basically a poor man’s BKB with some nice bonuses like increased mana regen and movement speed. Its active also grants you a disable (to set up kills), a purge, and It can also used to dodge a number of projectiles.",
+      "force_staff": "Force Staff is great to chase enemies and to save yourself or teammates from sure death. This item makes positioning a lot easier. It's sometimes very nice to have both a blink dagger and a Force Staff so that you can both initiate and escape from an engagement.",
+      "dagon": "Dagon can be picked if you need an additional nuke. Overall, it gives stats, damage and a scaling ability which can be used to kill enemy Heroes while all your other skills are on cooldown.",
+      "necronomicon": "Necronomicon provides you with additional pushing power and additional damage to enemy heroes when ganking. At level 3, the Necronomicon will also provide True Sight for invisible heroes, further increasing your teams ganking power.",
+      "sphere": "Though situational, Linken's Sphere is a good counter to teams with skills that could leave you (or an ally) stunned or disabled for a long time, a good example being Doom or Batrider. Overall, it grants nice stats, some health and mana.",
+      "arcane_boots": "Arcane Boots give you an instant source of mana, which can help with your mana-expensive abilities. As well as this, the active mana regeneration is helpful for your allies. Pick these up over Tranquil Boots if you feel you will have trouble managing your mana pool.",
+      "smoke_of_deceit": "Smoke of Deceit plays a cunning role against a well-warded team. The added mobility makes it easy to set up surprise attacks or to slip behind enemies without being spotted.",
+      "veil_of_discord": "Veil of Discord grants you health regeneration and armour, gives you more Intelligence, and also provides a useful amplification of you and your teams magical damage dealt to any enemy caught in its blast.",
+      "rod_of_atos": "Rod of Atos will provide you with additional health and Intelligence, as well as an active slowing ability against a single target.",
+      "tranquil_boots": "Tranquil Boots give you a great movement speed bonus, armour and good HP regeneration when out of a fight for 13 seconds, this allows you to stay on the field without going back to the fountain."
+    }
+  },
+  "AbilityBuild": {
+    "AbilityOrder": {
+      "1": "oracle_fortunes_end",
+      "2": "oracle_fates_edict",
+      "3": "oracle_purifying_flames",
+      "4": "oracle_purifying_flames",
+      "5": "oracle_purifying_flames",
+      "6": "oracle_false_promise",
+      "7": "oracle_purifying_flames",
+      "8": "oracle_fortunes_end",
+      "9": "oracle_fortunes_end",
+      "10": "oracle_fortunes_end",
+      "11": "oracle_false_promise",
+      "12": "oracle_fates_edict",
+      "13": "oracle_fates_edict",
+      "14": "oracle_fates_edict",
+      "15": "attribute_bonus",
+      "16": "oracle_false_promise",
+      "17": "attribute_bonus",
+      "18": "attribute_bonus",
+      "19": "attribute_bonus",
+      "20": "attribute_bonus",
+      "21": "attribute_bonus",
+      "22": "attribute_bonus",
+      "23": "attribute_bonus",
+      "24": "attribute_bonus",
+      "25": "attribute_bonus"
+    },
+    "AbilityTooltips": {
+      "oracle_fortunes_end": "The purge happens before the damage and can also remove both Fate's Edict and Purifying Flames, which means it can remove the healing effect of it, turning it into a strong instant nuke with no heal for enemies.",
+      "oracle_fates_edict": "Take note that Fate's Edict grants the target 100% magic resistance, so take care when going for kills and communicate well with your team. It may be better to nuke your target first and then cast Fate's Edict to finish with right-clicks. This can be cast on both allies and enemies.",
+      "oracle_purifying_flames": "The initial damage from Purifying Flames is fully blocked by the 100% magic resistance from Fate's Edict, turning it into a strong heal for allies. Other sources do bonus damage though, so it can backfire if timed poorly.",
+      "oracle_false_promise": "False Promise doubles all healing received during it, including the healing of Purifying Flames, making it heal a total of 198/216/324/432 health (if the spell's damage is taken into account).",
+      "attribute_bonus": "Stats! Stats! Stats!"
+    }
+  }
+}

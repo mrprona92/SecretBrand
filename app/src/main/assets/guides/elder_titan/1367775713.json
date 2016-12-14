@@ -1,0 +1,107 @@
+{
+	"Hero":"elder_titan",
+	"Title":"Siege Engine",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"urn_of_shadows",
+				"boots"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Core Extensions":
+			[
+				"mekansm",
+				"pipe",
+				"ancient_janggo",
+				"black_king_bar",
+				"necronomicon"
+			],
+			"Luxuries":
+			[
+				"shivas_guard",
+				"assault",
+				"sheepstick",
+				"refresher",
+				"heart"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Boots!",
+				"magic_wand":"Good burst regen of HP and Mana",
+				"tpscroll":"Don't leave home without one",
+				"mekansm":"Use for early pushing power, teamfights, and for hte stats.  Buy the buckler first.",
+				"pipe":"Great on you; buy if nobody else has.",
+				"urn_of_shadows":"Take early to provide much-needed mana regen.  Use charges to sustain pushes or nuke down low HP enemy heroes",
+				"sheepstick":"If the other team has a really gnarly carry, grab this instead.",
+				"necronomicon":"excellent stats and pushing power.",
+				"refresher":"double ult power",
+				"assault":"for the aura",
+				"heart":"If you have a hard time staying alive",
+				"black_king_bar":"Only if other team has a lot of disables and are unable to be effective in team fights.",
+				"shivas_guard":"Your #1 best luxury for survival and teamfight utility.",
+				"arcane_boots":"Take so that you can cast your spells continuously!  If your team has lot of Arcane boots take some treads
+",
+				"ancient_janggo":"A good early item that will boost your utility and survival.  Use charges to chase, flee, and siege towers."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_ancestral_spirit",
+			"2":"elder_titan_echo_stomp",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_echo_stomp",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_earth_splitter",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_natural_order",
+			"9":"elder_titan_natural_order",
+			"10":"elder_titan_natural_order",
+			"11":"elder_titan_natural_order",
+			"12":"elder_titan_echo_stomp",
+			"13":"elder_titan_echo_stomp",
+			"14":"elder_titan_earth_splitter",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"Does an AOE pseudo-stun after a 1.7 channel.  The damage stays same but duration rises.",
+				"elder_titan_ancestral_spirit":"Your best skill!  Use to harass enemies in lane and as proxy for using the echo stomp",
+				"elder_titan_natural_order":"Max early to push and win.",
+				"elder_titan_earth_splitter":"Does tremendous damage after a 3.14 second delay.  Try to set up with echo slam and then hit enemies duirng the stun."
+		}
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"Hero":"axe",
+	"Title":"GET RIPPED WITH THE KING OF BEARDS",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"tango",
+				"clarity",
+				"branches"
+			],
+			"BASIC WORKOUT EQUIPMENT":
+			[
+				"ring_of_regen",
+				"tranquil_boots",
+				"soul_ring",
+				"magic_wand"
+			],
+			"FEEL THE PUMP":
+			[
+				"sange"
+			],
+			"STRIKE A POSE AND FLEX EM":
+			[
+				"heavens_halberd"
+			],
+			"I SKIPPED GYM FOR 6 MONTHS":
+			[
+				"blink",
+				"force_staff",
+				"blade_mail"
+			],
+			"CAN'T STOP THE BEARD":
+			[
+				"heart",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"NOW YOU ARE A WALKING DISABLE. BLINK IN, TAUNT AND PRAY. SKIP THE PRAYING PART IF YOU ARE BALLIN.",
+				"stout_shield":"YOU ARE LITERALLY UNKILLABLE WITH THIS EARLY ON.",
+				"ring_of_regen":"THIS IS THE FIRST ITEM YOU SHOULD BE BUYING. YOU WILL HAVE 5HP/S AND THE STOUT BLOCK, WHICH MEANS YOU ARE A RED FORTRESS OF DOOM. MAN UP, RIGHT CLICK ENEMY HEROES AND START SPINNING.",
+				"magic_wand":"PEOPLE WILL BE JEALOUS OF YOUR MUSSLES AND WILL START THROWING STUFF AT YOU.",
+				"force_staff":"CAN DO MORE OR LESS THE SAME JOB AS THE BLINK DAGGER. IF YOU HAVE MAD SKILL YOU CAN FORCE STAFF AN ENEMY IN AND TAUNT FOR BIG PLAY CREDITS.",
+				"ultimate_scepter":"RESTORE YOUR BEARD TO ITS FORMER GLORY",
+				"heart":"THIS IS THE MR. OLYMPIA CHAMPIONSHIP TITLE. YOU SPUN AND YELLED AND FLEXED AND KILLED EVERYTHING AND EVERYONE. GET THIS AND PARADE YOUR INCREDIBLY SCULPTED MUSCLES AND YOUR BRAND NEW 600-PACK HEALTH BAR.",
+				"vanguard":"GET THIS IF YOU ARE BALLIN. NOT A GOOD CHOICE IF THE GAME IS 15-20 MINUTES IN. SANGE SCALES BETTER INTO THE LATEGAME.",
+				"blade_mail":"GET THIS IF THE ENEMY HAS GLASS CANNON RIGHT CLICK HEROES SUCH AS DROW RANGER, CLINKZ OR VIPER. USING THIS WITH TAUNT REQUIRES CARE, DO NOT USE IT WHILE THE TAUNT IS IN EFFECT. TAUNT, WAIT FOR IT TO END, POP BLADE MAIL AND HOPE EVERYONE IS DUMB ENOUGH TO CONTINUE ATTACKING.",
+				"sange":"GET THIS IF YOU WANT TO BE THE RED TORNADO OF DEATH LIKE YOU SHOULD. SCALES BETTER INTO THE LATEGAME THAN VANGUARD.",
+				"soul_ring":"NOW EVEN MORE RIDICULOUSLY OVERPOWERED WHEN USED WITH TRANQUILS.  BUY THIS SHIT IF YOU WANT TO WIN.",
+				"heavens_halberd":"UPGRADE YOUR SANGE INTO THIS. SPIN TRIGGERS EVEN IF YOU EVADE THE ATTACK. USE IT ON A GUY THATS NOT ATTACKING YOU THOUGH.",
+				"tranquil_boots":"UPGRADE YOUR RING TO THIS DUH. ABSOLUTELY NECESSARY. GORILLIONS OF REGEN AND MOVE SPEED TO FUCK EVERYONE UP HOLY SHIT THANKS ICEFROG."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"axe_counter_helix",
+			"2":"axe_battle_hunger",
+			"3":"axe_battle_hunger",
+			"4":"axe_berserkers_call",
+			"5":"axe_battle_hunger",
+			"6":"axe_culling_blade",
+			"7":"axe_battle_hunger",
+			"8":"axe_counter_helix",
+			"9":"axe_counter_helix",
+			"10":"axe_counter_helix",
+			"11":"axe_culling_blade",
+			"12":"axe_berserkers_call",
+			"13":"axe_berserkers_call",
+			"14":"axe_berserkers_call",
+			"15":"attribute_bonus",
+			"16":"axe_culling_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"axe_berserkers_call":"AXE ATTRACTS EVERYONE'S ATTENTION WHILE DOING THE LAST REP OF HIS SET. TRY TO USE IT WITH A LOT OF ENEMIES AROUND YOU. AFFECTS INVIS AND MAGIC IMMUNE UNITS SO FUCK THAT RIKI UP.",
+				"axe_battle_hunger":"USE THIS WHEN ENGAGING AN OPPONENT. NOTHING CAN STOP THE RED TORNADO EARLY SO MOST LIKELY THE ENEMY WILL DIE OR HE WILL RUN AWAY, WHICH LETS BH TICK FOR FULL DAMAGE. DON'T BLOW YOUR WAD EARLY AND USE THIS SHIT TO \"HARASS\". MOST PUBS DON'T KNOW HOW TO DISPEL IT THOUGH.",
+				"axe_counter_helix":"DOTA'S SIGNATURE SKILL. THIS SHIT IS AMAZING EARLY GAME. PLACE YOURSELF BETWEEN THE ENEMY HERO AND HIS CREEPS, IF HE COMES CLOSE JUST RIGHT CLICK HIM AND SPIN FOR HALF HIS HEALTH BAR. DON'T BE A FUCKING PUSSY YOU HAVE 2HP/S AND A STOUT SHIELD GOD DAMN. DON'T FORGET TO USE BATTLE HUNGER WHEN ENGAGING",
+				"axe_culling_blade":"AXE'S MAJESTIC BEARD INSTANTLY WIPES OUT THE FAINT OF HEART. BREAKS THROUGH EVERYTHING. DOES NOT GET REFLECTED BY BLADE MAIL. IT DOESNT GO ON COOLDOWN IF YOU GET A KILL SO CULL THEM ALL AND FLEX THOSE MUSSLES. WATCH THE GOD DAMN HEALTH BAR FFS.",
+				"attribute_bonus":"AXE DOESNT NEED THIS CRAP"
+		}
+	}
+}

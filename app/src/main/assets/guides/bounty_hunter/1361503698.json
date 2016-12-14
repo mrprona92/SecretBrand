@@ -1,0 +1,95 @@
+{
+	"Hero":"bounty_hunter",
+	"Title":"[DMX] Bounty Hunter (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"poor_mans_shield"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"phase_boots",
+				"medallion_of_courage",
+				"desolator",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"monkey_king_bar",
+				"butterfly",
+				"assault",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"bottle",
+				"power_treads",
+				"urn_of_shadows",
+				"ancient_janggo",
+				"vladmir",
+				"sange_and_yasha",
+				"orchid",
+				"bfury"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bounty_hunter_wind_walk",
+			"2":"bounty_hunter_jinada",
+			"3":"bounty_hunter_shuriken_toss",
+			"4":"bounty_hunter_shuriken_toss",
+			"5":"bounty_hunter_shuriken_toss",
+			"6":"bounty_hunter_track",
+			"7":"bounty_hunter_shuriken_toss",
+			"8":"bounty_hunter_wind_walk",
+			"9":"bounty_hunter_wind_walk",
+			"10":"bounty_hunter_wind_walk",
+			"11":"bounty_hunter_track",
+			"12":"bounty_hunter_jinada",
+			"13":"bounty_hunter_jinada",
+			"14":"bounty_hunter_jinada",
+			"15":"attribute_bonus",
+			"16":"bounty_hunter_track",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bounty_hunter_shuriken_toss":"Ce sort est très pratique pour finir un héros hors de portée, pour annuler une compétence canalisée ou un parchemin de téléportation. C’est votre principal nuke au début de la partie.",
+				"bounty_hunter_jinada":"ce skill est parfait pour engager une cible, car il ralentit beaucoup et permet à gondar de continuer d’attaquer sa cible. De plus, il infligera des dégats monstrueux en fin de partie avec les items appropriés.",
+				"bounty_hunter_wind_walk":"Cette compétence vous permet de fuir ou d’engager vos adversaires. Essayez toujours de sortir de votre invisibilité le plus tard possible pour pouvoir réactiver le skill après votre burst.",
+				"bounty_hunter_track":"Cette compétence est parfaite pour gondar, car elle lui facilite grandement les ganks. De plus le bonus de gold apporté permet de très vite engranger de l’or, et ce, même sans farmer énormément !"
+		}
+	}
+}

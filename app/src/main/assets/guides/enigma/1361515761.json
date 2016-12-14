@@ -1,0 +1,110 @@
+{
+	"Hero":"enigma",
+	"Title":"[DMX] Enigma - Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"clarity",
+				"ward_observer"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots",
+				"soul_ring",
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"mekansm",
+				"black_king_bar",
+				"blink",
+				"tpscroll",
+				"phase_boots",
+				"power_treads"
+			],
+			"Late Game":
+			[
+				"shivas_guard",
+				"refresher",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"force_staff",
+				"cyclone",
+				"hood_of_defiance",
+				"pipe",
+				"radiance",
+				"courier",
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Si vous voulez privilégiez la vitesse de déplacement.
+Bien sur n'achetez qu'une paire de bottes.",
+				"power_treads":"A faire si vous sentez que vous manquez de stats.
+Bien sur ne faites qu'une paire de bottes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enigma_demonic_conversion",
+			"2":"enigma_malefice",
+			"3":"enigma_demonic_conversion",
+			"4":"enigma_malefice",
+			"5":"enigma_demonic_conversion",
+			"6":"enigma_black_hole",
+			"7":"enigma_demonic_conversion",
+			"8":"enigma_malefice",
+			"9":"enigma_malefice",
+			"10":"enigma_midnight_pulse",
+			"11":"enigma_black_hole",
+			"12":"enigma_midnight_pulse",
+			"13":"enigma_midnight_pulse",
+			"14":"enigma_midnight_pulse",
+			"15":"attribute_bonus",
+			"16":"enigma_black_hole",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enigma_malefice":"Un très bon stun en plusieurs temps qui vous permettra de décaler efficacement sur les lanes.",
+				"enigma_demonic_conversion":"Le sort qui vous permet de wood sans soucis mais aussi de push très facilement.
+Vous pourrez également deny vos creeps pour empêcher de push une lane.",
+				"enigma_midnight_pulse":"Un sort qui infligera des dégâts monstrueux si les ennemis restent dedans.
+Essayez de le combiner avec votre ultimate.",
+				"enigma_black_hole":"Un des meilleurs ultimate AOE du jeu, qui pourra renverser le cours d'un teamfight.
+Faites bien attention à ne pas vous faire annuler votre sort car c'est une canalisation."
+		}
+	}
+}

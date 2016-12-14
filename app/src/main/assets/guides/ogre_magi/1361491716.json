@@ -1,0 +1,94 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"OGEY MAGEY",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"tango",
+				"tango",
+				"courier"
+			],
+			"NECESSARY":
+			[
+				"arcane_boots",
+				"soul_ring"
+			],
+			"MORE FUN":
+			[
+				"ultimate_scepter"
+			],
+			"MORE DAMAGE":
+			[
+				"veil_of_discord",
+				"ethereal_blade",
+				"orchid"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"STATS ARE GOOD",
+				"clarity":"Mana regen for spamming stun in lane. Because its fun.",
+				"tango":"HP regen.",
+				"courier":"Because you're not going to find anyone else buying this if they see you pick ogre.",
+				"orchid":"DAMAGE",
+				"ultimate_scepter":"This item is a must buy every game as ogre, unless you have no idea how to have fun in this game. In that case youre a loser Drow picker who doesn't find it fun to instagib a CM with 2 4x multicasts.
+
+",
+				"ethereal_blade":"MULTICAST",
+				"soul_ring":"Good for getting an extra nuke off. He can afford losing the 150 HP.",
+				"arcane_boots":"Ogre has terrible INT gain and high mana costs.",
+				"veil_of_discord":"MORE"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_bloodlust",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_fireblast":"This spell is alot of fun once you hit level 6.",
+				"ogre_magi_ignite":"Good slow. Good for slowing enemies while you beat them with your club.",
+				"ogre_magi_bloodlust":"Better early and mid game than late game. Give this buff to everyone because movespeed is nice.",
+				"ogre_magi_unrefined_fireblast":"Extra skillstun",
+				"ogre_magi_multicast":"FUN"
+		}
+	}
+}

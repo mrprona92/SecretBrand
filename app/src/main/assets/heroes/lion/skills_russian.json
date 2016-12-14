@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Earth Spike",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Каменные шипы прорываются из земли перед вами. Враги будут подброшены в воздух, а затем оглушены и получат урон от падения.",
+        "notes": "Скорость шипов — 1600 единиц в секунду.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">80/140/200/260</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">1.02/1.52/2.02/2.52</font></b><br/>ДЛИНА: <b><font color=\"#ffffff\">825</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/120/145/170<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 12",
+        "lore": "Демонолог осуществляет свой демонический завет, открывая трещину в ад.",
+        "hurl": "Lion",
+        "name": "lion_impale",
+        "youtube":"IS20TjZpD2M",
+        "id": 0
+    },
+    {
+        "dname": "Hex",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Превращает врага в безобидную зверюшку, блокируя все его способности.",
+        "notes": "Мгновенно уничтожает иллюзии.<br/>Цель будет иметь базовую скорость в 100 единиц в секунду, но эффекты, дающие максимальную скорость, сняты не будут.<br/>Отключает блокировку урона и увороты.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2.5/3/3.5/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/150/175/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 30/24/18/12",
+        "lore": "Lion вынужден разделять свое преобразование, закручивая сущность противников.",
+        "hurl": "Lion",
+        "name": "lion_voodoo",
+        "youtube":"1H8xWP_19Lo",
+        "id": 1
+    },
+    {
+        "dname": "Mana Drain",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — поглощает магическую энергию цели, с каждой секундой передавая ее ману игроку.",
+        "notes": "Уничтожает иллюзии.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5</font></b><br/>МАНЫ В СЕКУНДУ: <b><font color=\"#ffffff\">20/40/60/120</font></b><br/>РАССТОЯНИЕ РАЗРЫВА: <b><font color=\"#ffffff\">1200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 10/10/10/10<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/15/10/5",
+        "lore": "Младшие маги — не более чем источник магической силы для демонолога.",
+        "hurl": "Lion",
+        "name": "lion_mana_drain",
+        "youtube":"jclbhiTM7aA",
+        "id": 2
+    },
+    {
+        "dname": "Finger of Death",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Разрывает вражеского юнита, пытаясь вывернуть его наизнанку. Наносит очень много урона.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Между прочтением заклинания и нанесением урона есть задержка в 0,25 секунды, что позволяет избежать урона с помощью некоторых предметов.",
+        "dmg": "",
+        "attrib": "УРОН: <b><font color=\"#ffffff\">600/725/850</font></b><br/><font color=\"#6fe871\">УРОН СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">725/875/1025</font></b><br/><font color=\"#6fe871\">РАСХОД МАНЫ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">200/420/625</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">100/60/20</font></b><br/><font color=\"#6fe871\">ОБЛАСТЬ ДЕЙСТВИЯ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">200</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 200/420/650<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 160/100/40",
+        "lore": "Изувеченная рука Lion является источником его великой силы, способной утопить жертв колдовской силой.",
+        "hurl": "Lion",
+        "name": "lion_finger_of_death",
+        "youtube":"PoS308yRk5c",
+        "id": 3
+    }
+]

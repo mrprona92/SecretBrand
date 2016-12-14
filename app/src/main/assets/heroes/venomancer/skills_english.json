@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Venomous Gale",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Launches a ball of venom in a line, poisoning enemy units so that they take both initial damage and damage over time, as well as suffering slowed movement.  Venomous Gale deals damage every 3 seconds over its duration.",
+        "notes": "Units afflicted by Venomous Gale can be denied when their HP drops below 25%.<br/>Duration damage is dealt every 3 seconds.<br/>Slow starts at 50%, and decreases as time passes.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">15/15/15/15</font></b><br/>INITIAL DAMAGE: <b><font color=\"#ffffff\">25/50/75/100</font></b><br/>DAMAGE PER TICK: <b><font color=\"#ffffff\">10/40/70/100</font></b><br/>SLOW: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 22",
+        "lore": "A concoction of various stings, poisons, and toxins gathered from the jungles of Jidi Isle, victims surviving it are rare.",
+        "hurl": "Venomancer",
+        "name": "venomancer_venomous_gale",
+        "youtube":"NMl5uOEHfCM",
+        "id": 0
+    },
+    {
+        "dname": "Poison Sting",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Adds poison damage to Venomancer\u0027s normal attacks, slowing movement speed.",
+        "notes": "Poison Sting damage can be lethal.<br/>Damage from Poison Sting does not interrupt healing from items, nor does it activate the cooldown on Blink Dagger.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">6/9/12/15</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>SLOW: <b><font color=\"#ffffff\">11%/12%/13%/14%</font></b>",
+        "cmb": "",
+        "lore": "The paralytic sting of the creature which caused his transformation now belongs to the Venomancer.",
+        "hurl": "Venomancer",
+        "name": "venomancer_poison_sting",
+        "youtube":"wHPx7hm2j8w",
+        "id": 1
+    },
+    {
+        "dname": "Plague Ward",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#71a9ea\">Physical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Summons a plague ward to attack enemy units and structures. The ward is immune to magic. Wards gain the Poison Sting level from Venomancer, dealing 50% of the full damage.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">40</font></b><br/>WARD HP: <b><font color=\"#ffffff\">75/200/325/450</font></b><br/>WARD DAMAGE: <b><font color=\"#ffffff\">10/19/29/38</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/20/20/20<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 5",
+        "lore": "A mixture of his old herbalist talents and newfound toxic mastery creates a living embodiment of plague.",
+        "hurl": "Venomancer",
+        "name": "venomancer_plague_ward",
+        "youtube":"vQ0AFxdBUwk",
+        "id": 2
+    },
+    {
+        "dname": "Poison Nova",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "A spreading ring of poison that does damage over time to enemy units around Venomancer.  Poison Nova cannot deal lethal damage; targets will be left with at least 1 health.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">830/830/830</font></b><br/>DURATION: <b><font color=\"#ffffff\">12/14/15</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">36/58/81</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">140/120/60</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">14/15/16</font></b><br/><font color=\"#6fe871\">SCEPTER DAMAGE:</font></b> <b><font color=\"#ffffff\">58/81/108</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/300/400<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/120/100",
+        "lore": "In the Acid Jungles, creatures releasing noxious poison to their attackers is common; Venomancer spreads this plague beyond the Jidi Isle.",
+        "hurl": "Venomancer",
+        "name": "venomancer_poison_nova",
+        "youtube":"gL3GCUp1Ins",
+        "id": 3
+    }
+]

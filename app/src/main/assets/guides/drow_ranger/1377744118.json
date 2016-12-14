@@ -1,0 +1,86 @@
+{
+	"Hero":"drow_ranger",
+	"Title":"도타2의 대표 미녀 원거리 캐리 드로우 레인저! 치명적인 아름다움의 그녀!",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"wraith_band",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"wraith_band",
+				"power_treads",
+				"shadow_amulet"
+			],
+			"coreItems":
+			[
+				"invis_sword",
+				"greater_crit",
+				"manta"
+			],
+			"luxury":
+			[
+				"monkey_king_bar",
+				"butterfly"
+			]
+		},
+		"ItemTooltips":
+		{
+				"power_treads":"민첩 능력치도 올려주고 공격속도도 상승하는 장화. 꼭 사세요!",
+				"wraith_band":"드로우 레인저는 민첩 능력치가 아주 중요합니다. 민첩 능력치도 올려주고 데미지도 상승! 초반에 좋습니다.",
+				"monkey_king_bar":"적에 회피기(EX 유령자객)가 있는 영웅이 있다면 꼭 구매해주세요.",
+				"butterfly":"민첩 능력치와 공격속도를 극적으로 올려주는 아이템입니다. 다른 아이템들을 가고도 골드가 남을 때 사주세요.",
+				"greater_crit":"궁극기로 인한 기본적인 민첩 능력치와 다이달로스가 합쳐지면 드로우 레인져는 괴물이 됩니다. 평타 한방 한방이 엄청나게 아파집니다.",
+				"manta":"드로우 레인저의 민첩과 이동속도를 많이 상향시켜주고, 공격속도를 올려주며 분신을 생성시 무적이 되는 순간 때문에 생존기도 늘어납니다. 생성된 분신도 꽤나 강력한 점은 당연합니다. 백도어 할 때 아주 유용합니다.",
+				"invis_sword":"도주기가 없고 한번 물리면 쉽게 죽는 드로우 레인저를 위한 필수 아이템입니다. 잘 큰 드로우 레인저는 숨어서 다가가 침묵을 걸고 적을 1:1로 죽일 수도 있습니다. 추가적인 공격속도와 피해량은 물론 옵션입니다.",
+				"shadow_amulet":"공격속도가 아주 빨라집니다. 드로우 레인저가의 필수 아이템인 어둠의 검의 하위 아이템이기도 합니다."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"drow_ranger_frost_arrows",
+			"2":"drow_ranger_trueshot",
+			"3":"drow_ranger_frost_arrows",
+			"4":"drow_ranger_silence",
+			"5":"drow_ranger_frost_arrows",
+			"6":"drow_ranger_marksmanship",
+			"7":"drow_ranger_frost_arrows",
+			"8":"drow_ranger_trueshot",
+			"9":"drow_ranger_trueshot",
+			"10":"drow_ranger_trueshot",
+			"11":"drow_ranger_marksmanship",
+			"12":"drow_ranger_silence",
+			"13":"drow_ranger_silence",
+			"14":"drow_ranger_silence",
+			"15":"attribute_bonus",
+			"16":"drow_ranger_marksmanship",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"drow_ranger_frost_arrows":"마스터 시 60%의 둔화 효과를 자랑하는 얼음 화살입니다. 적을 잡을 때 아주 용이하니 무조건 마스터해주세요.",
+				"drow_ranger_silence":"시전 모션이 좀 커서 초반에는 차라리 한 번 더 때리는 것이 탁월한 선택일 정도이지만, 하나 정도는 찍고 마지막에 다 찍어주세요.",
+				"drow_ranger_trueshot":"드로우 레인저의 민첩을 기반으로 맵 전체 원거리 영웅들에게 보너스 데미지 오라를 부여합니다. 이 기술과 명사수(궁극기)로 드로우 레인저는 평타 데미지가 레벨6 기준으로 최소 130이 됩니다.",
+				"drow_ranger_marksmanship":"드로우 레인저의 기본 민첩 능력치를 급격하게 올려주며, 드로우 레인저를 평타 원거리 여왕으로 만들어주는 패시브 궁극기입니다."
+		}
+	}
+}

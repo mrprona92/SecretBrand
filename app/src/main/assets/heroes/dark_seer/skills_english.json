@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Vacuum",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Dark Seer creates a vacuum over the target area that sucks in enemy units, disrupting them and dealing damage.",
+        "notes": "This ability interrupts channeling.<br/>Pulls units over 0.5 seconds before dealing damage.<br/>Doesn\u0027t pull invulnerable units.<br/>Trees near the center of the vacuum will be destroyed.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">250/350/450/550</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">40/80/120/160</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/130/160/190<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 28",
+        "lore": "Ish\u0027Kafel modifies the center of gravity to a place of his choosing.",
+        "hurl": "Dark_Seer",
+        "name": "dark_seer_vacuum",
+        "youtube":"X9BW1-PhEY8",
+        "id": 0
+    },
+    {
+        "dname": "Ion Shell",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Heroes</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Surrounds the target unit with a bristling shield that damages enemy units in an area around it.",
+        "notes": "Deals small amounts of damage in 0.1 intervals.<br/>Doesn\u0027t damage the target it is cast on.<br/>If cast on a unit that already has Ion Shell, the new Shell replaces the old one.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">250</font></b><br/>DAMAGE PER SECOND: <b><font color=\"#ffffff\">30/50/70/90</font></b><br/>DURATION: <b><font color=\"#ffffff\">25</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/90/110/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 9",
+        "lore": "The Dark Seer slices holes into the \u0027Land Behind the Wall,\u0027 causing prismatic energy to seep forth.",
+        "hurl": "Dark_Seer",
+        "name": "dark_seer_ion_shell",
+        "youtube":"ZnXjN2FdNQA",
+        "id": 1
+    },
+    {
+        "dname": "Surge",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Charges a target friendly unit with power, giving it a brief burst of maximum movement speed.",
+        "notes": "Units with Surge cannot be slowed unless the Surge effect is removed.",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">3/4.5/6/7.5</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 20/30/40/50<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12/11/10/9",
+        "lore": "Ish\u0027Kafel once used his speed of mind to navigate the maze between the walls.",
+        "hurl": "Dark_Seer",
+        "name": "dark_seer_surge",
+        "youtube":"Vi9f-Bs2KX0",
+        "id": 2
+    },
+    {
+        "dname": "Wall of Replica",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Raises a wall of warping light that damages and creates replicas of any enemy hero who crosses it. Enemy replicas serve at the Dark Seer\u0027s will. Replicas last until they are destroyed, or until the wall\u0027s duration ends.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Doesn\u0027t create illusions from other illusions, or Meepo clones.<br/>Creates a wall 1000 units long, perpendicular to the line between Dark Seer and the target point.",
+        "dmg": "",
+        "attrib": "WALL DAMAGE: <b><font color=\"#ffffff\">150/150/150</font></b><br/>WALL DURATION: <b><font color=\"#ffffff\">45</font></b><br/>REPLICA DAMAGE: <b><font color=\"#ffffff\">60%/75%/90%</font></b><br/>REPLICA DAMAGE TAKEN: <b><font color=\"#ffffff\">400%/400%/400%</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">500/900/1300</font></b><br/><font color=\"#6fe871\">SCEPTER REPLICA DAMAGE:</font></b> <b><font color=\"#ffffff\">100%/120%/140%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/250/375<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 100",
+        "lore": "The Dark Seer, while unable to return to his natural realm, can channel part of the prismatic wall with powerful strength of mind, sowing confusion amongst enemy ranks.",
+        "hurl": "Dark_Seer",
+        "name": "dark_seer_wall_of_replica",
+        "youtube":"3Z1ndpKQZVg",
+        "id": 3
+    }
+]

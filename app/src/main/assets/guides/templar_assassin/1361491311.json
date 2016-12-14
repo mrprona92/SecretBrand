@@ -1,0 +1,102 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"Standard Solo Mid TA",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"magic_wand",
+				"phase_boots"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar",
+				"desolator"
+			],
+			"luxury":
+			[
+				"heart",
+				"manta",
+				"greater_crit",
+				"monkey_king_bar",
+				"sphere",
+				"ancient_janggo",
+				"butterfly",
+				"satanic"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This is your bread and butter, Get this fast to blink onto enemies and burst them down with trap-> meld-> blink-> refraction",
+				"branches":"A few branches are good to build into a magic wand later, and give you the extra stats you need to last hit, cast spells, and survive harass in lane.",
+				"magic_wand":"Once you have magic wand and bottle, your mana problems are pretty much solved, and the burst heal can save your life many times over.",
+				"bottle":"Get this early, you start with few items so you can get a bottle extremely early and use runes to win mid",
+				"tango":"With refraction you shouldn't be harassed too hard, so one set of tangoes is enough to get you to your bottle.",
+				"phase_boots":"If your farm is good you can keep your boots brown and get a fast blink",
+				"heart":"Games where survivability is a concern, and you cannot manipulate refraction to survive, a heart will let you live through teamfights to get your damage off. Sometimes if they have a lot of damage but not stun, you can skip BKB for a vitality booster, and build it into a heart after desolator. ",
+				"black_king_bar":"This is essential as this keeps you from getting stunlocked as soon as you blink in.",
+				"sphere":"Dont rush to get this, think about the skills they have. If they only have single target stuns and nothing they can use to waste this, linkens could be good, but that happens rarely.",
+				"monkey_king_bar":"MKB is pretty just here to boost your damage and help you avoid evasion. Get against heroes with evasion, butterfly, or miss chance debuffs,",
+				"butterfly":"If most of the damage hitting you is physical, butterfly is a great survivability item and dps item rolled into one. Usually you want something more versatile or with better buildup like manta, but if you find yourself with the money, you can get this instead of manta.",
+				"greater_crit":"Daedalus is really good for when you are ahead and want to be able to oneshot supports after a desolator, or if you just need to scale harder as the primary carry.",
+				"manta":"Manta is one of the best go to Items for agi carries, as it gives lots of movespeed, health, mana, damage, and attack speed, along with the split which you can use to dodge spells or purge certain debuffs.",
+				"satanic":"Games where you will need to be the primary carry and are farming, get a helm of the dominator early instead of deso, and get satanic as your last item. This can really help when you have to be the only carry late game.",
+				"desolator":"This is most likely the damage item you will want, as it synergizes with meld and your high physical damage.",
+				"ancient_janggo":"Drum is good for when you are behind or need to help the team really early. Some games when you just cant get a blink, opt for this since buildup is easy, and the movespeed and tank will help get you through teamfights."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_refraction",
+			"2":"templar_assassin_psi_blades",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"This is your main survivability spell, use it wisely against large nukes or tower hits early, dont let charges get wasted. Feel free to use early to last hit and harass with psi spill. ",
+				"templar_assassin_meld":"The meld timing is actually according to your blink dagger. If your farm is really behind, sometimes you might want to get a few extra levels of psi blades before maxing meld since hitting enemies will be a challenge",
+				"templar_assassin_psi_blades":"Always try to splash attacks against the enemy hero to harass him when laning. ",
+				"templar_assassin_trap":"While this is easy to use, it plays an animation. If you can, try to click on a trap and detonate it with the trap's skill, as that doesn't interrupt your hero.  ",
+				"templar_assassin_psionic_trap":"As soon as you get the skill put 2 traps on the runs so you can see where they spawn, and slow opponents that try to take them. Otherwise, place and detonate traps instantly to slow enemies before blinking on them, or while chasing them. "
+		}
+	}
+}

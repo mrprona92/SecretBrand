@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Thunder Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Несколько раз бьет молнией указанного юнита. Каждый удар наносит урон по вражеским юнитам неподалеку.",
+        "notes": "",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">40/60/80/100</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">240/240/240/240</font></b><br/>УДАРОВ: <b><font color=\"#ffffff\">4/4/4/4</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">6/6/6/6</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 130/130/130/130<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16",
+        "lore": "Заряженные катушки Disruptor время от времени перегружаются, и на месте противника остается лишь пластина брони или клочок шерсти.",
+        "hurl": "Disruptor",
+        "name": "disruptor_thunder_strike",
+        "youtube":"cgsZb1yUxAE",
+        "id": 0
+    },
+    {
+        "dname": "Glimpse",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Телепортирует выбранного героя туда, где он был четыре секунды назад. Мгновенно убивает иллюзии.",
+        "notes": "Время возвращения зависит от пройденного целью расстояния.",
+        "dmg": "",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">600/1000/1400/1800</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/46/32/18",
+        "lore": " Игры с электричеством иногда приносят неожиданные результаты.",
+        "hurl": "Disruptor",
+        "name": "disruptor_glimpse",
+        "youtube":"npnjwS7jIco",
+        "id": 1
+    },
+    {
+        "dname": "Kinetic Field",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Через небольшой промежуток времени создает круговой барьер из кинетической энергии, через который враги не могут пройти.",
+        "notes": "Враги, невосприимчивые к заклинаниям, могут проходить сквозь барьер.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">325</font></b><br/>ЗАДЕРЖКА ДО СОЗДАНИЯ: <b><font color=\"#ffffff\">1.2/1.2/1.2/1.2</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2.6/3.2/3.8/4.4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/70/70/70<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13/12/11/10",
+        "lore": "Страйдеру не страшны ураганы, поглощающие его врагов.",
+        "hurl": "Disruptor",
+        "name": "disruptor_kinetic_field",
+        "youtube":"T8vTW3QdEEc",
+        "id": 2
+    },
+    {
+        "dname": "Static Storm",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Создает статический шторм, наносящий урон и запрещающий колдовать всем вражеским юнитам в указанной области. Урон сначала маленький, но постепенно увеличивается.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">450</font></b><br/>РАЗРЯДОВ: <b><font color=\"#ffffff\">20</font></b><br/>МАКС. УРОНА В СЕКУНДУ: <b><font color=\"#ffffff\">200/250/300</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">7</font></b><br/><font color=\"#6fe871\">РАЗРЯДОВ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">28</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/175/225<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 90/80/70",
+        "lore": "Летний друудский шквал может пережить только уроженец народа Оглоди.",
+        "hurl": "Disruptor",
+        "name": "disruptor_static_storm",
+        "youtube":"5a6DMRqF2o8",
+        "id": 3
+    }
+]

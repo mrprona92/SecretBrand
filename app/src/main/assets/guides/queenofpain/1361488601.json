@@ -1,0 +1,82 @@
+{
+	"Hero":"queenofpain",
+	"Title":"QoPertive ganking",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"orchid",
+				"sphere"
+			],
+			"luxury":
+			[
+				"ultimate_scepter",
+				"skadi",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"sphere":"More situational, but gives good stats"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_blink",
+			"2":"queenofpain_shadow_strike",
+			"3":"queenofpain_shadow_strike",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_scream_of_pain",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_blink",
+			"13":"attribute_bonus",
+			"14":"attribute_bonus",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"queenofpain_shadow_strike",
+			"25":"queenofpain_shadow_strike"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Max for harass mid lane, if you know you can get a kill",
+				"queenofpain_blink":"Max for survivabilty",
+				"queenofpain_scream_of_pain":"Max for creep clearing.  Attack ranged creep once, get the others low, and pop for all of them to die"
+		}
+	}
+}

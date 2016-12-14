@@ -1,0 +1,113 @@
+{
+	"Hero":"lion",
+	"Title":"6.82 - Standard Lion (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"force_staff"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"cyclone",
+				"blink",
+				"veil_of_discord"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"dagon",
+				"ultimate_scepter"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Catch foes off-guard with Blink Dagger, it will help your ganks so much more and may even save your life once or twice.",
+				"ward_observer":"As a support hero, be sure to buy the courier or wards. You can only afford one, so choose appropriately.",
+				"courier":"As a support hero, be sure to buy the courier or wards.",
+				"mekansm":"We're getting Mekansm as you are a decent holder of the item and desperately need the armor.",
+				"force_staff":"Your escape and initation. Building into Force Staff is much easier than Blink, but consider the alternative if it ever comes up as an opportunity.",
+				"dagon":"Double the nuking damage, double the kill-stealing with Lion. Though Dagon isn't justified, it can be if you find yourself in a huge advantage as Lion. Other items in Situational may also be preferred in that regard.",
+				"ultimate_scepter":"This item works great when you can get someone to set it up such as Dark Seer, Magnus or Enigma as they gather enemies in a small AOE for you to take advantage of.",
+				"veil_of_discord":"Great particular item when looking to increase the damage of your casters. Veil of Discord can add to the survivability of Lion; though it is situationally useful as a whole.",
+				"tranquil_boots":"Lion needs very little to be in the field. Tranquil's Boots gives him the regeneration and survivability he needs at an easy cost."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lion_impale",
+			"2":"lion_voodoo",
+			"3":"lion_impale",
+			"4":"lion_mana_drain",
+			"5":"lion_impale",
+			"6":"lion_finger_of_death",
+			"7":"lion_impale",
+			"8":"lion_mana_drain",
+			"9":"lion_mana_drain",
+			"10":"lion_mana_drain",
+			"11":"lion_finger_of_death",
+			"12":"lion_voodoo",
+			"13":"lion_voodoo",
+			"14":"lion_voodoo",
+			"15":"attribute_bonus",
+			"16":"lion_finger_of_death",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lion_impale":"Earth Spike is a great dedicated stun that is your core abilities to disrupting fights, catching enemies off-guard and being an overall nuisance. ",
+				"lion_voodoo":"Be sure to time this ability with Earth Spike to lengthen the disable duration.",
+				"lion_mana_drain":"Works on creeps and heroes, but requires you to channel. Use wisely where you aren't vulnerable. The range is quite well; so use it whenever possible or even on enemies as your cooldown is low.",
+				"lion_finger_of_death":"Use it to tear down carries that are fragile in form but dish out a lot of damage. In most cases, you'll be able to kill them given you follow-up with your other damage-dealing ability: Earth Spike."
+		}
+	}
+}

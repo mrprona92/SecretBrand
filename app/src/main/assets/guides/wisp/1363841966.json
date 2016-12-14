@@ -1,0 +1,79 @@
+{
+	"Hero":"wisp",
+	"Title":"B's Wisp",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"flask",
+				"flask",
+				"gauntlets"
+			],
+			"earlyGame":
+			[
+				"bracer",
+				"boots",
+				"headdress"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"urn_of_shadows",
+				"ancient_janggo"
+			],
+			"Very Useful":
+			[
+				"heart",
+				"mjollnir",
+				"heavens_halberd",
+				"assault"
+			],
+			"If Needed":
+			[
+				"monkey_king_bar",
+				"radiance",
+				"desolator"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"wisp_tether",
+			"2":"wisp_spirits",
+			"3":"wisp_overcharge",
+			"4":"wisp_spirits",
+			"5":"wisp_spirits",
+			"6":"wisp_relocate",
+			"7":"wisp_spirits",
+			"8":"wisp_tether",
+			"9":"wisp_overcharge",
+			"10":"wisp_overcharge",
+			"11":"wisp_relocate",
+			"12":"wisp_tether",
+			"13":"wisp_tether",
+			"14":"wisp_overcharge",
+			"15":"attribute_bonus",
+			"16":"wisp_relocate",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

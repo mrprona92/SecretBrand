@@ -1,0 +1,120 @@
+{
+	"Hero":"nevermore",
+	"Title":"SF MID ",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"slippers",
+				"slippers",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"ward_observer",
+				"power_treads",
+				"smoke_of_deceit",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"black_king_bar",
+				"manta",
+				"greater_crit",
+				"helm_of_the_dominator"
+			],
+			"luxury":
+			[
+				"ethereal_blade",
+				"invis_sword",
+				"satanic",
+				"skadi",
+				"dagon",
+				"rapier",
+				"monkey_king_bar",
+				"assault",
+				"butterfly",
+				"travel_boots",
+				"sange_and_yasha",
+				"desolator"
+			],
+			"Без имени":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"magic_wand":"cheapest well very useful thing for the Thin heroes",
+				"assault":"if to this rags add Desolator Yes another plus our passive Presence of the Dark Lord, it turns out that helps us to quickly kill the enemy",
+				"black_king_bar":"Black King Bar- not to shot down castrs ulta,and for Carrie This is a useful artifact",
+				"rapier":"well this is rapier and here everything is clear",
+				"monkey_king_bar":"gives a lot of damage + never miss for the heroes who have a Butterfly or skills/passive skills miss Drunken Brawler,Windrun.Blur,incapacitating Bite",
+				"greater_crit":"With our damage crits will fly huge",
+				"manta":"gives us the stats,MS,al,Yes,and the is useful for quick murder",
+				"invis_sword":"if you know what you much Ganges/kill,you can buy this",
+				"skadi":"gives a lot of stat and slows down when attacks",
+				"desolator":"in the stack with our passive Presense of the Dark lord is very useful
+",
+				"ethereal_blade":"if everything is done, you can get kill =)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"nevermore_necromastery",
+			"2":"nevermore_shadowraze1",
+			"3":"nevermore_shadowraze1",
+			"4":"nevermore_necromastery",
+			"5":"nevermore_shadowraze1",
+			"6":"nevermore_necromastery",
+			"7":"nevermore_shadowraze1",
+			"8":"nevermore_necromastery",
+			"9":"nevermore_requiem",
+			"10":"nevermore_dark_lord",
+			"11":"nevermore_requiem",
+			"12":"nevermore_dark_lord",
+			"13":"nevermore_dark_lord",
+			"14":"nevermore_dark_lord",
+			"15":"attribute_bonus",
+			"16":"nevermore_requiem",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"nevermore_shadowraze1":"The first Shadowraze (Q) causes damage to a distance of 200 units
+
+The second Shadowraze (W) causes damage to the distance of 450 units
+
+The third Shadowraze (E) damage to a distance of 700 units",
+				"nevermore_necromastery":"Accumulates the souls of the dead from the hands of the sf. For each of the creep, tower and etc. is given 1 soul (+2damage) for each character + 12 shower (+24 of the damage). The maximum number of souls - 36 (+72 damage).This passive swinging on 1 lvl that raise the damage and easily kill creeps  ",
+				"nevermore_dark_lord":"Very good passive, which each lvl reduces the protection of the enemy by 1 unit (3/4/5/6). But this passive in the beginning of the game we
+can t use, so as CP opponents and so little, and the damage we have enough",
+				"nevermore_requiem":"ULTA! He was so strong that in the initial stage of the game will kill all, if the enemy will be in focus with you, because the opponent closer the damage more. shake it must be at 9 lvl because of its damage depends on thenumber of souls
+
+
+
+
+"
+		}
+	}
+}

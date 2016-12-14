@@ -1,0 +1,105 @@
+{
+	"Hero":"queenofpain",
+	"Title":"6.82 - Standard Queen of Pain (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"orchid",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"sphere",
+				"veil_of_discord",
+				"dagon"
+			],
+			"Extension Items":
+			[
+				"sheepstick",
+				"ultimate_scepter",
+				"monkey_king_bar"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"If physical carries are giving you problems, ghost scepter is your &amp;amp;quot;Get out of Jail&amp;amp;quot; card.",
+				"null_talisman":"These help bolster Queen of Pain's mana pool and her survivability.",
+				"sheepstick":"A fast Scythe of Vyse is scary on a ganking hero like Queen of Pain. Keep your foes down and taking all your damage with this item. Generally, this should be your first item to shoot for.",
+				"orchid":"Increase your damage and crowd-control with this item. Easy to build, great amplified damage for all your moves and extra attack speed for your decent autoattack output.",
+				"dagon":"Early-game dominance? Get a Dagon and keep that lead! Obliterate foes with a combination of your abilities. With Dagon, be sure the gank constantly.",
+				"ultimate_scepter":"More damage, but get this after level 11 since it does not affect the damage of your ultimate at level 1 (just the cooldown).",
+				"black_king_bar":"When jumping into the fray, Black King Bar should ensure you are not prevented from dealing all that initial damage. A double safety-pin alongside Orchid Malevolence.",
+				"sphere":"The stats are good and the protective shell from targetable abilities is always a nice safety measure for Queen of Pain.",
+				"monkey_king_bar":"At this point of the game, you pretty much have everything you need. This is to help your autoattack damage output since you have all this attack speed and established magic-damage.",
+				"veil_of_discord":"Veil of Discord is pretty good considering your line-up. If you find most of your team are magic-damaging nukers, Veil of Discord is a safe bet."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_shadow_strike",
+			"2":"queenofpain_blink",
+			"3":"queenofpain_scream_of_pain",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_blink",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_shadow_strike",
+			"13":"queenofpain_shadow_strike",
+			"14":"queenofpain_shadow_strike",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"Shadow Strike is your slow, due to its consistent mana cost and the extra damage provided from Scream of Pain, it's generally maxed last due to priority.",
+				"queenofpain_blink":"Use this to disjoint stuns and ranged attacks. It will disrupt the damage and allow you to avoid danger.",
+				"queenofpain_scream_of_pain":"Incredible damage, this nearly kills most frail enemies with your ultimate. Blink in, pop Scream of Pain, then your ultimate and finish fleeing foes with your Shadow Strike.",
+				"queenofpain_sonic_wave":"An incredible nuke and a huge range, Sonic Wave is a great item to dish out in team-fights. This should be your follow-up from Scream of Pain."
+		}
+	}
+}

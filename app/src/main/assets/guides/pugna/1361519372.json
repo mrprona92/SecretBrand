@@ -1,0 +1,160 @@
+{
+	"Hero":"pugna",
+	"Title":"Aether's build to unleash the rage of the mage",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"magic_stick",
+				"branches",
+				"branches",
+				"clarity"
+			],
+			"Early  (10-15 mins)":
+			[
+				"boots",
+				"point_booster",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Core (15-30 mins)":
+			[
+				"arcane_boots",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"Situational":
+			[
+				"rod_of_atos",
+				"dagon",
+				"black_king_bar",
+				"sphere",
+				"sheepstick",
+				"bloodstone",
+				"diffusal_blade",
+				"veil_of_discord",
+				"force_staff",
+				"ghost",
+				"shivas_guard",
+				"blink"
+			],
+			"MY TEAM PICKED 4 CARRIES":
+			[
+				"ward_observer",
+				"courier",
+				"mekansm",
+				"pipe",
+				"urn_of_shadows",
+				"flying_courier",
+				"ancient_janggo",
+				"vladmir"
+			],
+			"MY TEAM BEING A DOUCHE":
+			[
+				"ward_sentry"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"surprise buttsecks",
+				"branches":"GG branches makes it GG.",
+				"boots":"You can upgrade your boots once you get your scepter",
+				"magic_stick":"Panic button, just in case",
+				"magic_wand":"Best item ingame, beats voldemort everytime",
+				"ghost":"Dat PA cant slap you while you're sucking on her ****",
+				"clarity":"a refreshment after that one first blood",
+				"flask":"Green bull energy drink. Restores 4/5 of your max hp in 4 sec. Use on creeps for teh laughs",
+				"ward_observer":"your teammates feed people like a chef? get this eye thingy",
+				"ward_sentry":"Write down -pugna- with these. Then ask for commends.",
+				"tango":"Trees ARE nutritious. also mom told you to eat your vegetables",
+				"courier":"this courier has more use than your teammates, trust me",
+				"tpscroll":"The ultimate countergank item",
+				"point_booster":"Adds mana and survivability, will be upgraded to scepter later",
+				"mekansm":"your lousy teammates want to early push but they're too weak to do so?
+buy this",
+				"vladmir":"your teammates picked 4 carries but their idiocy didn't stop there, they picked all melee, THEN WHINE ABOUT THEIR LANING PHASE BEING SHITTY? Cheer those clowns up with free lifesteals. If they flame you for buying vlads then buy sentries (you know what i mean) ",
+				"flying_courier":"Some sort of dark magic that gives your courier WINGS. Enables your courier to move faster than your 4 carry teammates' gpm (522 km/s).",
+				"pipe":"your teammates dies to a single ravage?
+buy this",
+				"urn_of_shadows":"it GIVES you more STR, MANAREG, and YET another kill securing tool. also can be used to heal your puny teammates because they can't SUCK THE LIFE OUT OF THE LIVING, AWW",
+				"sheepstick":"you'll be sucking on a pig",
+				"cyclone":"The +ms helps chasing/escape. The cyclone helps you to land a blast (which might be used to secure a kill A.K.A. KS)
+Not to mention the manareg",
+				"force_staff":"you thought you got away did you?
+also can force people into the fountain",
+				"dagon":"ksksksskskkskskssk
+
+KAY. FUCKIN. ES.
+
+ Upgrading dagon is genius.
+Is that a sarcasm? 
+Who knows?",
+				"ultimate_scepter":">removes cd, adds dmg, adds range  WHAT THE HELL ICEFROG
+",
+				"black_king_bar":"Stand in the middle of the clash, Pop bkb. drain a guy. If he goes out of range, suck on his teammate, if no one is at range, suck yourself ",
+				"shivas_guard":"Another ms slowing item, adds physical damage reduction, mana, damage, and most importantly,  arctic blasts' visual effect which is pretty damn scary.",
+				"bloodstone":"Spam blast and drain on everyone like there's no tomorrow",
+				"sphere":"Handy for those 1-target-spell heroes like uncle Ostarion, Pudge, Batrider or sven.",
+				"helm_of_the_dominator":"new meta, hitter pugna with 4.0 int gain. alright",
+				"diffusal_blade":"i don't know why i put this here, but. purge
+NO PLS DONT
+",
+				"arcane_boots":"GIves you the ability to spam those blasts or drains more often",
+				"ancient_janggo":"an item cost less than an ultimate orb, yet more useful, good on every hero",
+				"veil_of_discord":"Bonus magic damage, ACTUALLY works with your ult. It's like adding a cream topping on top of your cake before smashing it",
+				"rod_of_atos":"It's good that an ice cream won't run away when you suck on them"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"pugna_nether_blast",
+			"2":"pugna_decrepify",
+			"3":"pugna_nether_blast",
+			"4":"pugna_nether_ward",
+			"5":"pugna_nether_blast",
+			"6":"pugna_life_drain",
+			"7":"pugna_nether_blast",
+			"8":"pugna_nether_ward",
+			"9":"pugna_nether_ward",
+			"10":"pugna_nether_ward",
+			"11":"pugna_life_drain",
+			"12":"pugna_decrepify",
+			"13":"pugna_decrepify",
+			"14":"pugna_decrepify",
+			"15":"attribute_bonus",
+			"16":"pugna_life_drain",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"pugna_nether_blast":"TOWERS WENT BOOM, GANKS WENT KS
+ENEMIES ARE DOOMED, I GET ALL THE COMMENDS
+",
+				"pugna_decrepify":"1 point is enough early on, since you'll just need it for one nether blast.
+also good for ks ing enemy heroes if followed up with one of your spells",
+				"pugna_nether_ward":"OMG lion is fingering himself",
+				"pugna_life_drain":"The mana drain only works on heroes. Any excess hp gained from the spell will be converted to mana. ",
+				"attribute_bonus":"sweet sweet stats
+anyway it's taken later"
+		}
+	}
+}

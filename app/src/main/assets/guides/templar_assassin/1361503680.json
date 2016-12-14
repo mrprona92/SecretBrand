@@ -1,0 +1,107 @@
+{
+	"Hero":"templar_assassin",
+	"Title":"6.82 - Standard Templar Assassin (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"blink",
+				"desolator",
+				"black_king_bar"
+			],
+			"Instead of Blink (both)":
+			[
+				"ancient_janggo",
+				"yasha",
+				"monkey_king_bar"
+			],
+			"Extension Items":
+			[
+				"manta",
+				"greater_crit",
+				"butterfly"
+			],
+			"Last Updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Works great in combination with Meld. Open with Refraction, then use Blink, Meld, attack. Be sure to blink right where the opponent is to make sure Meld hits too.",
+				"phase_boots":"Phase boots is to help with chasing after heros as you do not need the survivability and stats from treads, just the damage.",
+				"monkey_king_bar":"Pure damage. Monkey King Bar makes your burst damage even more deadly especially when combined with the amount of debuff armour you're donating to enemy teams.",
+				"butterfly":"Faster attack speed and more evasion for Templar Assassin who suffers from decent attack speed (though Manta Style tries to remedy that).",
+				"greater_crit":"With the amount of burst damage and armor decreasing you are doing. Daedalus is a handy item that can give even further burst.",
+				"manta":"Manta Style let's you break crowd-control effects and provide further spread of damage through Psi Blades.",
+				"sange_and_yasha":"If Blink Dagger doesn't seem possible (and subsequently, perhaps, Desolator), Yasha into Sange &amp;amp;amp;amp; Yasha is an average alternative; though your impact will be much less.",
+				"desolator":"The strength of Templar Assassin is to take down opponents in the least amount of hits possible. Desolator works with Meld's reduced armor effect and the additional damage it deals.",
+				"yasha":"If Blink Dagger doesn't seem possible (and subsequently, perhaps, Desolator), Yasha into Sange &amp;amp;amp;amp; Yasha is an average alternative; though your impact will be much less.",
+				"medallion_of_courage":"If Desolator can't be reached, Medallion of Courage is a decent alternative until you can. It's debuff works great alongside your other abilities can help you pull your own weight in the meantime."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"templar_assassin_refraction",
+			"2":"templar_assassin_psi_blades",
+			"3":"templar_assassin_refraction",
+			"4":"templar_assassin_meld",
+			"5":"templar_assassin_refraction",
+			"6":"templar_assassin_psionic_trap",
+			"7":"templar_assassin_refraction",
+			"8":"templar_assassin_meld",
+			"9":"templar_assassin_meld",
+			"10":"templar_assassin_meld",
+			"11":"templar_assassin_psionic_trap",
+			"12":"templar_assassin_psi_blades",
+			"13":"templar_assassin_psi_blades",
+			"14":"templar_assassin_psi_blades",
+			"15":"attribute_bonus",
+			"16":"templar_assassin_psionic_trap",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"templar_assassin_refraction":"Refraction works in two parts: 1. It allows any hits on you to be completely nullified (no matter how strong or weak) and 2. It allows you to deal more damage. Due to its low cooldown and cost, this can be used to remain in the middle lane despite harassment as well as dive towers to get enemies.",
+				"templar_assassin_meld":"Use Meld and Blink to get away from opponents. Meld lasts as long as you want it to be so long as you don't move. Make sure to Meld near opponents and hit them to deal massive damage with your Refraction ability!",
+				"templar_assassin_psi_blades":"Only one level in Psi blades is needed for the range when in the middle lane to last hit. Refraction is better for last-hitting and surviving in lane than the range of Psi Blades.
+
+Psi Blades also can be used to harass your opponent in the mid-lane. Angle yourself.",
+				"templar_assassin_psionic_trap":"You can use traps to give permanent sight on Roshan, up hills or at the rune spots. Use them appropriately and in key areas you want to look out for!
+
+These have an incredible range, so use it often."
+		}
+	}
+}

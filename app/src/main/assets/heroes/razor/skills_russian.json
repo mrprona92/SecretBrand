@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Plasma Field",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Высвобождает волну энергетической плазмы, которая усиливается по мере ее увеличения, но ослабевает по мере уменьшения, нанося урон всем врагам на своем пути. Урон увеличивается прямо пропорционально расстоянию от волны до Razor.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "МИН. УРОН: <b><font color=\"#ffffff\">30/50/70/90</font></b><br/>МАКС. УРОН: <b><font color=\"#ffffff\">160/230/300/370</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">700</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/125/125/125<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 14",
+        "lore": "Призрак молний правит Андерскейпом с помощью силы плазмы.",
+        "hurl": "Razor",
+        "name": "razor_plasma_field",
+        "youtube":"3wvYOe_TxFY",
+        "id": 0
+    },
+    {
+        "dname": "Static Link",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских героев</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Создает электрическое соединение между Razor и врагом, воруя урон от атак у цели и передавая его Razor.",
+        "notes": "Соединение распадается, если цель заклинания умрет или отойдет на расстояние более 700.<br/>Можно применять на невосприимчивых к заклинаниям врагов.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">8/8/8/8</font></b><br/>ДЛИТЕЛЬНОСТЬ ЭФФЕКТА: <b><font color=\"#ffffff\">18/18/18/18</font></b><br/>СКОРОСТЬ ИЗМЕНЕНИЯ УРОНА: <b><font color=\"#ffffff\">7/14/21/28</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 50<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 32/30/28/26",
+        "lore": "Razor способен создавать электрический канал, который вытягивает силы из его врагов.",
+        "hurl": "Razor",
+        "name": "razor_static_link",
+        "youtube":"F8ZIMc-BLEo",
+        "id": 1
+    },
+    {
+        "dname": "Unstable Current",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Razor движется с повышенной скоростью. Любые способности, примененные на него врагами, вызовут электрический заряд, наносящий урон нападающим, замедляющий их и снимающий с них положительные эффекты.",
+        "notes": "Урон наносится, только если целью заклинания был ваш герой.<br/>Активируется, только если заклинание произнес герой.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">40/70/100/130</font></b>",
+        "attrib": "ДОП. СКОРОСТЬ: <b><font color=\"#ffffff\">4%/8%/12%/16%</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">0.5/1/1.5/2</font></b>",
+        "cmb": "",
+        "lore": "Атаки призрака молний сопровождаются шоковой терапией для врагов.",
+        "hurl": "Razor",
+        "name": "razor_unstable_current",
+        "youtube":"K2FcewK9HYQ",
+        "id": 2
+    },
+    {
+        "dname": "Eye of the Storm",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Разрушительная гроза бьет врагов с наименьшим здоровьем, нанося им урон и уменьшая их броню.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Каждый удар наносится противнику с наименьшим количеством здоровья в области действия.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">500/500/500</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">30</font></b><br/>ИНТЕРВАЛ РАЗРЯДОВ: <b><font color=\"#ffffff\">0.7/0.6/0.5</font></b><br/>СНИЖЕНИЕ БРОНИ: <b><font color=\"#ffffff\">1/1/1</font></b><br/>УРОН: <b><font color=\"#ffffff\">37/50/63</font></b><br/><font color=\"#6fe871\">ИНТЕРВАЛ РАЗРЯДОВ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">0.6/0.5/0.4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 100/150/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/70/60",
+        "lore": "Прокатитесь на молнии.",
+        "hurl": "Razor",
+        "name": "razor_eye_of_the_storm",
+        "youtube":"aMqqRjUH9g8",
+        "id": 3
+    }
+]

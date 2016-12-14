@@ -1,0 +1,101 @@
+{
+	"Hero":"batrider",
+	"Title":"Godzy's Mid Batrider",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"clarity",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"coreItems":
+			[
+				"tranquil_boots",
+				"blink",
+				"force_staff"
+			],
+			"luxury":
+			[
+				"heart",
+				"sheepstick",
+				"travel_boots",
+				"ghost",
+				"pipe"
+			],
+			"Core Addition for Beginners":
+			[
+				"vanguard"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"This will be your signature item since you will be diving most of the game.",
+				"boots":"Get these after you get a bottle.",
+				"ghost":"In cases when the opponent team has many \"right click\" heroes (carry especially) OR you're facing a Juggernaut who hates you.",
+				"bottle":"The key to winning the mid lane is a bottle. Keep that in mind. It will also help you throughout the game since you will not be building any Mana regen items so fast.",
+				"travel_boots":"Higher MS than your old Tranquil Boots and one less inventory slot occupied by the TP Scroll.",
+				"pipe":"The exact opposite situation of the Ghost Scepter (you're facing a team with lots of nukers).",
+				"sheepstick":"This will be your main Mana Regen item. A Shiva's Guard COULD replace this if you really need the extra armor but the Disable this item offer could be way more helpful since you already have crazy slow skills.",
+				"force_staff":"Batrider is all about mobility. No matter the situation, Force Staff is a GREAT item. The best way to use it would be after you dive in with the Blink Dagger and grab someone with your ultimate.",
+				"heart":"At late stages of the game a Heart will give you the extra tanky-ness an initiator needs.",
+				"black_king_bar":"Blink Dagger + Force Staff + Firefly offer you crazy mobility while a Vanguard offers you enough tankiness to run far enough so you could use one of those 3 and escape. If you really need extra tankiness save money for a Heart.",
+				"vanguard":"I added Vanguard as a core item because Batrider is pretty squishy at the start and will require that extra HP. If you consider yourself a skilled player, skip it for now an build a Force Staff asap. I usually preffer the Force Staff before the vanguard.",
+				"tranquil_boots":"Tranquil boots offer EXACTLY what you need. Hp regen (helps a lot after a dive even if u have a bottle), great MS and low cost (helping u save money for an early Blink Dagger)"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"batrider_firefly",
+			"2":"batrider_sticky_napalm",
+			"3":"batrider_sticky_napalm",
+			"4":"batrider_firefly",
+			"5":"batrider_sticky_napalm",
+			"6":"batrider_flaming_lasso",
+			"7":"batrider_sticky_napalm",
+			"8":"batrider_firefly",
+			"9":"batrider_firefly",
+			"10":"batrider_flamebreak",
+			"11":"batrider_flaming_lasso",
+			"12":"batrider_flamebreak",
+			"13":"batrider_flamebreak",
+			"14":"batrider_flamebreak",
+			"15":"attribute_bonus",
+			"16":"batrider_flaming_lasso",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"batrider_sticky_napalm":"Try to get 1-2 stacks on the creeps just to be sure you will get last hits. Other than that you should use this skill on every ocasion since it's mana cost is really small. ",
+				"batrider_flamebreak":"Flamebreak will NOT be considered a nuke. It does some decent damage but you will not use it for harass purpose unless you will be defending. Use it ONLY to push heroes towards or interrupt channeling abilities such as TP. Don't add this before lvl 10 unless you need to interrupt abilities early.",
+				"batrider_firefly":"At early stages try to get 3-4 stacks of Napalm before diving with Firefly on. This does not apply when you're ganking.",
+				"batrider_flaming_lasso":"Reminder: Try to get as many stacks of Napalm on the shackled target just to be sure he won't get far away after this is over.",
+				"attribute_bonus":"Yay stats!!"
+		}
+	}
+}

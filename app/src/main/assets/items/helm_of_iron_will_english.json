@@ -1,0 +1,16 @@
+{
+  "dotaId": "helm_of_iron_will",
+  "id": 6,
+  "img": "helm_of_iron_will_lg.png",
+  "dname": "Helm of Iron Will",
+  "qual": "component",
+  "cost": 950,
+  "desc": "",
+  "notes": "",
+  "attrib": "+ 5 Armor<br/>+ 3 HP Regeneration",
+  "mc": false,
+  "cd": false,
+  "lore": "The helmet of a legendary warrior who fell in battle.",
+  "components": null,
+  "created": false
+}

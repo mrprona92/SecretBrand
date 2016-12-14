@@ -1,0 +1,125 @@
+{
+	"Hero":"elder_titan",
+	"Title":"ET/TC: When Played Competitively",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Starting Offlane":
+			[
+				"boots",
+				"tango",
+				"clarity"
+			],
+			"Starting Offlane 2":
+			[
+				"tango",
+				"flask",
+				"stout_shield",
+				"branches",
+				"clarity"
+			],
+			"Early Mid":
+			[
+				"bottle",
+				"power_treads",
+				"magic_wand"
+			],
+			"Early Offlane":
+			[
+				"power_treads",
+				"magic_stick",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"ancient_janggo",
+				"black_king_bar",
+				"tpscroll"
+			],
+			"Situational After Core":
+			[
+				"assault",
+				"heavens_halberd",
+				"force_staff",
+				"sheepstick",
+				"shivas_guard",
+				"mekansm"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"Extra stats and builds into Magic Wand",
+				"boots":"Standard buy. Astral shares your movement speed which is why buying boots at the start of the game is mandatory.",
+				"magic_stick":"Stores for extra hp/mana. Always great to help stay in the lane. Very good against Batrider.",
+				"magic_wand":"Helps storing extra health/mana.",
+				"clarity":"Helps keep your mana up with the Astrals you are throwing out.",
+				"bottle":"6.79 - costs 50 gold more
+
+Standard for mid lane. Helps lash out Astral spam too.",
+				"tango":"Starting regen to help in lane till you have bottle. Due to 6.79 changes you cannot be pooled a set of tangoes but you can be given 1.",
+				"power_treads":"Treads are your standard boots. Other viable boots are arcanes (if building meka) or phase.",
+				"mekansm":"Very strong for fights and pushes, two things TC does very good at. Gives an extra +2 armour when used.",
+				"sheepstick":"A very strong item that gives you decent stats and regen. Due to it's high cost, you will largely get the gold not from farming, but from kills.",
+				"force_staff":"A defensive item that is great for getting right in the middle of everyone or getting a teammate out.",
+				"assault":"AC gives TC his tankiness and even stacks with Natural Order for extra minus armour. This makes it a deadly combination against high armour heroes.",
+				"black_king_bar":"Because you will get most of your damage through your spirit, expect teams to attempt at crowd controlling TC. A BKB well help you land a Stomp, Earth Splitter and just whack everyone like a truck.",
+				"shivas_guard":"Slow slow slow. Shiva's helps keeps the enemy team in your natural order. An alternative to AC as both items give TC his tankiness.",
+				"soul_ring":"The best item for little gold you can buy. It will help spamming Astrals right on top of the enemy supports, jungle camps and lane creeps.",
+				"ancient_janggo":"Drums is a cost efficient early item that synergises well with TC. The passive stats helps out A LOT for himself and the team.",
+				"heavens_halberd":"Heavens Halberd is a very strong item with decent stats on TC due to him being a STR hero. It will come in handy when you can disarm an enemy carry in a fight."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"elder_titan_ancestral_spirit",
+			"2":"elder_titan_natural_order",
+			"3":"elder_titan_ancestral_spirit",
+			"4":"elder_titan_natural_order",
+			"5":"elder_titan_ancestral_spirit",
+			"6":"elder_titan_natural_order",
+			"7":"elder_titan_ancestral_spirit",
+			"8":"elder_titan_natural_order",
+			"9":"elder_titan_earth_splitter",
+			"10":"elder_titan_echo_stomp",
+			"11":"elder_titan_earth_splitter",
+			"12":"elder_titan_echo_stomp",
+			"13":"elder_titan_echo_stomp",
+			"14":"elder_titan_echo_stomp",
+			"15":"attribute_bonus",
+			"16":"elder_titan_earth_splitter",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"elder_titan_echo_stomp":"Echo Stomp requires help to set it up correctly. Level 2 Stomp will successfully land an Earth Splitter. If you stomp an enemy underneath your tower, the tower attacks will not wake them up allowing you to either stop a push or get an easy kill. The Spirit deals magical damage whilst TC is Physical.",
+				"elder_titan_ancestral_spirit":"This is the abilty that will make you scary if used correctly. Make sure you hit and chase enemy heroes + creeps. Your spirit also has Natural Order meaning you do not need to always be infront of everyone. Besides for harrassment, it's very strong to use for scouting.",
+				"elder_titan_natural_order":"Arguably your strongest ability next to Astral Spirit. Reducing the base armour and magic resist from the enemy is a huge deal.",
+				"elder_titan_return_spirit":"Returns the Spirit back.",
+				"elder_titan_earth_splitter":"Like your Stomp, Earth Splitter requires a setup to hit. 50% of the damage is physical whilst the other 50% is magical. A very huge hit against STR based heroes and those with a Heart of Tarrassque.",
+				"attribute_bonus":"Stats stats stats!"
+		}
+	}
+}

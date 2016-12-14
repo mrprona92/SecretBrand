@@ -1,0 +1,109 @@
+{
+	"Hero":"sven",
+	"Title":"Hard Carry Sven",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"clarity",
+				"gauntlets"
+			],
+			"10 min mark items":
+			[
+				"bracer",
+				"boots",
+				"ogre_axe"
+			],
+			"before 25 min mark items":
+			[
+				"power_treads",
+				"black_king_bar",
+				"mask_of_madness"
+			],
+			"Before min 45 Mark items":
+			[
+				"greater_crit",
+				"heart"
+			],
+			"Can be Very helpfull":
+			[
+				"invis_sword",
+				"bfury",
+				"heavens_halberd",
+				"quelling_blade"
+			],
+			"Very Important":
+			[
+				"flask",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"quelling_blade":"This item gives you bonus damage to creeps which will improve your last hitting if you are not the best last hitter",
+				"gauntlets":"Adding 3 bonus damage, and 3 bonus strength, with the ability to be upgraded to bracers, this item is the best starting item for sven, giving him 57 more hp in the very early game.",
+				"ogre_axe":"Give you more survivability, and will be turned into a black king bar later on.",
+				"lifesteal":"Life Steal, allows you to jungle earlier and is the item which will be upgraded to Mask of madness which will give 100 Bonus attack speed, perfect item for sven.",
+				"boots":"50 increased movement speed, allows you to escape, chase and can be upgraded to Treads which are very important for sven",
+				"clarity":"Mana regeneration is pretty important since it can help you in many situations such as after getting first blood, or after escaping using the stun ability, and because sven's mana pool is very low getting one is very essential in the case you want to TP out or cast the stun again.",
+				"flask":"Do not hesitate to pick these up, even in mid game, they are very good and heal 400 hp very fast.",
+				"tango":"Regenration items are one of the most important early game, so be sure to pick either Tango or Healing salve, i would recocmend tango.",
+				"tpscroll":"You have to keep atleast 1 Tp scroll in you inventory at all times, you can escape or help your team win a team fight by using this to teleport.",
+				"power_treads":"Treads are the perfect item for sven they give him 55 extra movement speed, +30 attack speed, and 8 important stats in the selected attribute which can solve some of sven mana pool problem and also give him more survivability.",
+				"bracer":"9 bonus damage, and 6 bonus strength, a very good item that gives much more survivability by increasing sven's hp by 114.",
+				"heart":"One of the best items for any strength hero, giving a total of 1060 hit points, 40 more damage and a 2% health regenration per second.",
+				"black_king_bar":"You should get this item before Mask of madness. it gives you imunity from magic.",
+				"greater_crit":"Want rampages? get this item, not only will it give 81 damage, but also a 25% chance to crit for 240% damage, in my experiance, 80% of the time you get this item it is a win for you.",
+				"bfury":"One of the most under-rated items on sven, not only does it give you 65 damage, 6 hp regain, and 150% mana regain, but also gives you cleave which stacks with your natural cleave resulting in 100% PURE Cleave damage, if you crit a creep 1500, you give all the surrounding enemys 1500 pure damage.",
+				"invis_sword":"if you need escape or some kind of intiating, this item can be amazing, also giving you 150 bonus damage which can give you bonus crit damage. this item might be a one hit rampage item.",
+				"mask_of_madness":"Gives a wooping 100 more attack speed and 30% movement speed when activated, but has 30% bonus incoming damage to sven, so before activating in a team fight, dont go in first , let your team intiate and then go in. also is a very good for woods.",
+				"heavens_halberd":"You can buy this if you are very low on farm as it gives you 20 strength + 40 total damage and 25% evasion, or if you are facing a very hard hitting carry disarming him for 4.5 seconds! a very good item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"sven_storm_bolt",
+			"2":"sven_warcry",
+			"3":"sven_storm_bolt",
+			"4":"attribute_bonus",
+			"5":"sven_storm_bolt",
+			"6":"sven_gods_strength",
+			"7":"sven_storm_bolt",
+			"8":"attribute_bonus",
+			"9":"attribute_bonus",
+			"10":"attribute_bonus",
+			"11":"sven_gods_strength",
+			"12":"sven_great_cleave",
+			"13":"sven_great_cleave",
+			"14":"sven_great_cleave",
+			"15":"sven_great_cleave",
+			"16":"sven_gods_strength",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"sven_warcry",
+			"24":"sven_warcry",
+			"25":"sven_warcry"
+		},
+		"AbilityTooltips":
+		{
+				"sven_storm_bolt":"Unavoidable 2 seconds high damaging AOE Stun, the mana cost is large for sven but can help you claim first blood or even escape from some sticky situations.",
+				"sven_great_cleave":"65% Bonus cleave, this passive can let you jungle very easily and stacks with battlefury which will give you 100% pure cleave damage which can easily give you triple kills with one single hit, this skill can be picked up earlier depending on how well you are farming.",
+				"sven_warcry":"Only is picked up because of the 12% movement speed, while this Ability can help you escape, stats are alot better when going hard carry, and the bonus armour does not scale very well.",
+				"sven_gods_strength":"This Ability will turn you from a blue nice guy to a pub stomper red guy, it will give you 200% bonus damage at max points.",
+				"attribute_bonus":"Will help you solve mana pool problem, give you more survivability and lets you go into jungle earlier, getting stats is a very good way to build sven."
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"Hero":"centaur",
+	"Title":"Initiator Centaur by Brun1K^",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"ring_of_protection",
+				"stout_shield",
+				"branches"
+			],
+			"15 min to have this":
+			[
+				"boots",
+				"magic_wand",
+				"blink",
+				"hood_of_defiance"
+			],
+			"Late game":
+			[
+				"heart",
+				"assault",
+				"mjollnir",
+				"tranquil_boots",
+				"blink",
+				"pipe"
+			],
+			"6 slot ":
+			[
+				"heart",
+				"heart",
+				"mjollnir",
+				"assault",
+				"travel_boots",
+				"blink"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"centaur_hoof_stomp",
+			"2":"centaur_double_edge",
+			"3":"centaur_return",
+			"4":"centaur_double_edge",
+			"5":"centaur_double_edge",
+			"6":"centaur_stampede",
+			"7":"centaur_return",
+			"8":"centaur_double_edge",
+			"9":"centaur_return",
+			"10":"centaur_return",
+			"11":"centaur_stampede",
+			"12":"centaur_hoof_stomp",
+			"13":"centaur_hoof_stomp",
+			"14":"centaur_hoof_stomp",
+			"15":"attribute_bonus",
+			"16":"centaur_stampede",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

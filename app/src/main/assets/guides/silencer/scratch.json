@@ -1,0 +1,109 @@
+{
+	"Hero":"silencer",
+	"Title":"Silencer - Guia de G40",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"courier",
+				"ward_observer",
+				"clarity",
+				"clarity"
+			],
+			"Principio de Partida":
+			[
+				"boots",
+				"null_talisman",
+				"tranquil_boots",
+				"magic_wand",
+				"tpscroll"
+			],
+			"Items Principales":
+			[
+				"mekansm",
+				"force_staff"
+			],
+			"Final de Partida":
+			[
+				"cyclone",
+				"ultimate_scepter",
+				"sheepstick",
+				"urn_of_shadows",
+				"black_king_bar",
+				"orchid",
+				"bottle",
+				"arcane_boots",
+				"shivas_guard",
+				"rod_of_atos"
+			],
+			"De Support":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tpscroll",
+				"dust",
+				"smoke_of_deceit",
+				"gem"
+			]
+		},
+		"ItemTooltips":
+		{
+				"bottle":"Si vas mid compra botella.",
+				"ward_observer":"Si alguien compra wards tu compra courier.",
+				"courier":"Si alguien compra courier tu compra wards.",
+				"tpscroll":"Lleva siempre un tp encima!",
+				"null_talisman":"Si vas mid compralo, si eres support en linea deberias saltarlo porque el daño no es lo mas importante (no haces last hits) y asi consigues otros items utiles de support como Mek, wards, etc.",
+				"mekansm":"Habla con los demás supports para ver quien compra mekans.",
+				"urn_of_shadows":"Puede ser util comprarlo para ayudar con regen a los aliados. Por supuesto si es el caso compralo antes o después de Mekans (nunca al final de partida).",
+				"force_staff":"Movilidad, regen, etc.",
+				"arcane_boots":"Si ves que vas a necesitar mucho maná o tu equipo lo va a necesitar puedes comprar botas de maná."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"silencer_curse_of_the_silent",
+			"2":"silencer_glaives_of_wisdom",
+			"3":"silencer_curse_of_the_silent",
+			"4":"silencer_last_word",
+			"5":"silencer_glaives_of_wisdom",
+			"6":"silencer_global_silence",
+			"7":"silencer_glaives_of_wisdom",
+			"8":"silencer_glaives_of_wisdom",
+			"9":"silencer_last_word",
+			"10":"silencer_last_word",
+			"11":"silencer_global_silence",
+			"12":"silencer_last_word",
+			"13":"silencer_curse_of_the_silent",
+			"14":"silencer_curse_of_the_silent",
+			"15":"attribute_bonus",
+			"16":"silencer_global_silence",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"silencer_curse_of_the_silent":"Usalo para harassear a los enemigos y luego lanzalo en teamfights. Muy molesto. Intenta lanzarlo sobre la mayor cantidad posible de enemigos.",
+				"silencer_glaives_of_wisdom":"Te aumenta el daño. Usalo en teamfights, al gankear y si te cuesta hacer algún last hit.",
+				"silencer_last_word":"Marcas a un enemigo haciendole silence si castean un hechizo. Si no les haces daño, les desarmas (no pueden atacar), etc. Es muy buen hechizo para confirmar muertes, para inutilizar enemigos, etc.",
+				"silencer_global_silence":"Una habilidad super potente si la coordinas bien para las teamfights con tus aliados. Si la lanzas en el momento justo puedes definir una partida. Silencai a todos los enemigos."
+		}
+	}
+}

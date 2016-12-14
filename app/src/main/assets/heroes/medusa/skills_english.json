@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Split Shot",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Toggle</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Medusa magically splits her shot into several arrows. These arrows deal a lower percent of her normal damage.<br/>The extra targets will not receive other attack effects (such as critical strike) and Unique Attack Modifiers.",
+        "notes": "Secondary targets will be the closest enemy units excluding the primary target.<br/>If illusions of Medusa are created while Split Shot is active, they will also have this ability.",
+        "dmg": "",
+        "attrib": "OUTGOING DAMAGE: <b><font color=\"#ffffff\">80%</font></b><br/>TOTAL TARGETS: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>RANGE: <b><font color=\"#ffffff\">700</font></b>",
+        "cmb": "",
+        "lore": "All who encounter the cursed Gorgon will feel her rage.",
+        "hurl": "Medusa",
+        "name": "medusa_split_shot",
+        "youtube":"RTArHnkz0UQ",
+        "id": 0
+    },
+    {
+        "dname": "Mystic Snake",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "A mystic snake made of energy jumps from target to target dealing damage and stealing mana. After it reaches its last target, it returns to Medusa to replenish her with mana. The snake deals more damage and steals more mana per jump. Deals Pure damage to units petrified by Stone Gaze.",
+        "notes": "Only units with mana will steal and increment the mana steal.<br/>Mystic Snake cannot be disjointed.",
+        "dmg": "",
+        "attrib": "JUMP RADIUS: <b><font color=\"#ffffff\">475/475/475/475</font></b><br/>JUMPS: <b><font color=\"#ffffff\">3/4/5/6</font></b><br/>DAMAGE: <b><font color=\"#ffffff\">80/120/160/200</font></b><br/>MANA STEAL: <b><font color=\"#ffffff\">20/35/50/65</font></b><br/>INCREASE PER JUMP: <b><font color=\"#ffffff\">25%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 140/150/160/170<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 11",
+        "lore": "The Gorgon\u0027s curse is her greatest strength.",
+        "hurl": "Medusa",
+        "name": "medusa_mystic_snake",
+        "youtube":"BQw3_zhLK9o",
+        "id": 1
+    },
+    {
+        "dname": "Mana Shield",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target, Toggle</font></b>",
+        "desc": "Creates a shield that absorbs 60% of the incoming damage in exchange for Medusa\u0027s mana.",
+        "notes": "Absorbs damage before any damage reduction takes place, meaning that armor will not reduce the amount of mana needed to absorb damage.",
+        "dmg": "",
+        "attrib": "DAMAGE PER MANA: <b><font color=\"#ffffff\">1.6/1.9/2.2/2.5</font></b>",
+        "cmb": "",
+        "lore": "While Medusa was not gifted with eternal life upon birth, her curse bestowed her with impressive defensive powers.",
+        "hurl": "Medusa",
+        "name": "medusa_mana_shield",
+        "youtube":"OPryhacnXBg",
+        "id": 2
+    },
+    {
+        "dname": "Stone Gaze",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Any enemy units looking at Medusa will have their movement and attack speed slowed.  If 2 seconds of total time is accumulated looking at Medusa while Stone Gaze is active, that unit will turn to stone.  Petrified units are stunned, have 100% magic damage resistance, and take bonus physical damage.  If the petrified unit is an illusion, it is immediately killed.",
+        "notes": "Affects Spell Immune units.<br/>Regardless of when a unit receives the Stone Gaze buff while the ability is active on Medusa, it will still receive the full debuff duration.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">1000/1000/1000</font></b><br/>DURATION: <b><font color=\"#ffffff\">6/6/6</font></b><br/>SLOW: <b><font color=\"#ffffff\">50%</font></b><br/>STONE DURATION: <b><font color=\"#ffffff\">3/3/3</font></b><br/>BONUS PHYSICAL DAMAGE: <b><font color=\"#ffffff\">30%/40%/50%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/200/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 90",
+        "lore": "The beauty of Medusa is legendary.",
+        "hurl": "Medusa",
+        "name": "medusa_stone_gaze",
+        "youtube":"q_X57PFtq4o",
+        "id": 3
+    }
+]

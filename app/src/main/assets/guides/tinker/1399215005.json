@@ -1,0 +1,81 @@
+{
+	"Hero":"tinker",
+	"Title":"GreyShark.Tinker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"bottle",
+				"ring_of_aquila",
+				"soul_ring",
+				"travel_boots"
+			],
+			"Mid Game":
+			[
+				"blink",
+				"sphere",
+				"bloodstone"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"shivas_guard"
+			],
+			"Situation":
+			[
+				"black_king_bar",
+				"ethereal_blade",
+				"dagon",
+				"ultimate_scepter"
+			],
+			"https://www.youtube.com/GreySharkVideos":
+			[
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tinker_heat_seeking_missile",
+			"2":"tinker_laser",
+			"3":"tinker_laser",
+			"4":"tinker_heat_seeking_missile",
+			"5":"tinker_laser",
+			"6":"tinker_rearm",
+			"7":"tinker_laser",
+			"8":"tinker_heat_seeking_missile",
+			"9":"tinker_heat_seeking_missile",
+			"10":"tinker_march_of_the_machines",
+			"11":"tinker_rearm",
+			"12":"tinker_march_of_the_machines",
+			"13":"tinker_march_of_the_machines",
+			"14":"tinker_march_of_the_machines",
+			"15":"attribute_bonus",
+			"16":"tinker_rearm",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

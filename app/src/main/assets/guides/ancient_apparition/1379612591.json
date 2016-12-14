@@ -1,0 +1,92 @@
+{
+	"Hero":"ancient_apparition",
+	"Title":"Apparition-сборка от Серого Волка",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"branches",
+				"branches",
+				"tango",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"основные предметы ":
+			[
+				"arcane_boots",
+				"cyclone",
+				"ultimate_scepter",
+				"urn_of_shadows",
+				"dagon"
+			],
+			"бывает нужны такие предметы":
+			[
+				"sphere",
+				"orchid",
+				"force_staff"
+			]
+		},
+		"ItemTooltips":
+		{
+				"mekansm":"Obtain if no other support is going to.",
+				"urn_of_shadows":"Be sure to gank often with AA to really make use of the Urn of Shadows.",
+				"cyclone":"Eul's Scepter of Divinity works great with your Cold Feet. Be sure to cast it as soon as Cold Feet starts and place Ice Vortex just below the cyclone. Finish with your ultimate for a nice kill.",
+				"force_staff":"For Escaping or reaching a fleeing enemy hero.",
+				"ultimate_scepter":"Aghanim's Scepter on Ancient Apparition means an immense duration where the enemies cannot heal and take even more damage. A very strong late-game item to give AA even more of an impact.",
+				"rod_of_atos":"You want to pick up Atos when you feel enemies are getting away and/or avoiding your Cold Feet. The extra life and intelligence is very welcomed on AA."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ancient_apparition_cold_feet",
+			"2":"ancient_apparition_ice_vortex",
+			"3":"ancient_apparition_cold_feet",
+			"4":"ancient_apparition_ice_vortex",
+			"5":"ancient_apparition_cold_feet",
+			"6":"ancient_apparition_ice_blast",
+			"7":"ancient_apparition_cold_feet",
+			"8":"ancient_apparition_ice_vortex",
+			"9":"ancient_apparition_ice_vortex",
+			"10":"ancient_apparition_chilling_touch",
+			"11":"ancient_apparition_ice_blast",
+			"12":"ancient_apparition_chilling_touch",
+			"13":"ancient_apparition_chilling_touch",
+			"14":"ancient_apparition_chilling_touch",
+			"15":"attribute_bonus",
+			"16":"ancient_apparition_ice_blast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ancient_apparition_cold_feet":"Cold Feet is your stun and damage-dealer. If you have Eul's Scepter of Divinity, be sure to cast it right after your Cold Feet. They are timed together to disable and then stun consecutively (6+ seconds)",
+				"ancient_apparition_ice_vortex":"Make sure when casting Cold Feet to cast Ice Vortex as well, the extra damage and slow could net you that stun that you need. Ice Vortex is also a great way to see up cliffs and fogged areas.
+
+Vortex is not efficient in the middle lane, so getting it so early isn't practical.",
+				"ancient_apparition_chilling_touch":"It's debatable whether you want to get Chilling Touch or not. The extra damage is magical and would only help a selective amount of carries. ",
+				"ancient_apparition_ice_blast":"Use this to harass lanes outside of middle or to also push back lanes that you are not in. This works best from an extreme range given how much large the area-of-effect becomes.",
+				"attribute_bonus":"These stats are to help with your early-game survivability and to help you last hit."
+		}
+	}
+}

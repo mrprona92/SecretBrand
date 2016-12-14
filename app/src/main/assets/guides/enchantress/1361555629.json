@@ -1,0 +1,139 @@
+{
+	"Hero":"enchantress",
+	"Title":"I'm a predator - Advanced Enchantress Jungle Support Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"branches",
+				"branches",
+				"branches",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_wand",
+				"boots",
+				"ward_observer",
+				"tpscroll",
+				"urn_of_shadows",
+				"bracer"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"mekansm"
+			],
+			"Mid- lategame":
+			[
+				"ultimate_scepter",
+				"force_staff",
+				"black_king_bar"
+			],
+			"Situational":
+			[
+				"bloodstone",
+				"rod_of_atos",
+				"shivas_guard",
+				"sheepstick",
+				"pipe"
+			],
+			"Support/Consumables":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"If you have some money left after the initial purchases of supporting items and consumables you should fill your inventory with branches since they provide stats at the lowest possible price and Enchantress' base stats, especially her strength, are very low.",
+				"boots":"Basic boots provide you enough movespeed to catch up to enemys early and slow/attack them. They can be upgraded to Power Treads later",
+				"magic_wand":"You always want to get magic wand on almost any hero since it frees up some inventory space, provides cheap stats and acts as an all around utility item. It can bring you some mana or health in clutch situations    and acts as a free mekansm for yourself at 15 charges.",
+				"clarity":"One or two claritys should provide enough sustain for your early game. They are especially useful if you heavily gank a lane.",
+				"dust":"Against stealthed heroes you should always carry a dust on at least two people.",
+				"ward_observer":"Since you need virtually no items at all to effectively jungle any camp you should always buy at least one of the starting support items e.g. courier/flying courier and wards.
+
+Also you are a support and actually get quite a bit of farm so take some weight off the shoulders off of your lane support.",
+				"ward_sentry":"Usually your main support should take care of counterwarding and invisible heroes but he will thank you alot if you are helping him with your farm from the jungle.",
+				"tango":"Ganks can go wrong and can drop you very low. Sometimes you may need some extra regen in the jungle though this normally shouldn't be the case.",
+				"courier":"Since you need virtually no items to effectively jungle any camp you should always buy at least one of the starting support items e.g. courier/flying courier and wards.",
+				"tpscroll":"ALWAYS carry a Teleport Scroll. Help defending, assist in ganks or counterganks, push lanes: The utility is too just big to not always have at least one in your inventory.",
+				"power_treads":"Power Treads add strenght and attack speed - two things which you need desperately early to midgame.",
+				"bracer":"If you are significantly falling behind early buying up some cheap cost efficient health can often be the way to go but can also be neglected if it's going to delay your mekansm.",
+				"mekansm":"Combined with your Natures Attendants, Mekansm provides some impressive burst heal and you become deceptively tanky yourself.
+
+Always tell your team when you are getting Mekansm as to avoid having two.",
+				"pipe":"If your team already has a mekansm, get a pipe instead if you are still lacking one.",
+				"urn_of_shadows":"If you are falling behind earlygame and need extra health and utility you can go for a urn but I recomend skipping it in favour of a fast mekansm in most cases.",
+				"sheepstick":"A good addition to any team as it is one of the best actives in the game if you have ridiculous farm but the weak buildup and the high cost will prevent you from getting this item in most cases.",
+				"force_staff":"Helps you get yourself and your allies in- and enemys out of position. Always a good pickup against any lineup.
+
+It also synergizes well with your Impetus.",
+				"ultimate_scepter":"Aghanims should be a no-brainer on Bambi: It provides stats, especially health, and makes your Impetus hit really hard. Combined with the tankyness from Mekanism, Untouchable and Natures Attendants you should be harder to focus and and deal significant damage with your Impeti.",
+				"black_king_bar":"Stun-heavy teams are giving you a hard time? Big AoE ultimates lock you for entire fights? In that case get Black King Bar before anything else. It again provides you health and some damage and one of the best actives for an item.",
+				"shivas_guard":"Against an heavy autoattack-team shivas can be a good pickup.",
+				"bloodstone":"If you are having mana problems due to mass impetus-usage mid- to lategame this can be a very good pickup as well if your farm allows it.",
+				"smoke_of_deceit":"Buy Smoke to gank warded lanes in early- to midgame and to sneak up against the enemy team in the lategame.",
+				"rod_of_atos":"A very unpopular item with great cost efficiency. Can be a good pickup against melee-heavy teams and synergizes well with enchant and Impetus."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_natures_attendants",
+			"4":"attribute_bonus",
+			"5":"enchantress_natures_attendants",
+			"6":"enchantress_impetus",
+			"7":"enchantress_natures_attendants",
+			"8":"enchantress_enchant",
+			"9":"enchantress_enchant",
+			"10":"enchantress_enchant",
+			"11":"enchantress_impetus",
+			"12":"enchantress_untouchable",
+			"13":"enchantress_untouchable",
+			"14":"enchantress_untouchable",
+			"15":"enchantress_untouchable",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"Untouchable is a very potent ability which will let carries think twice before right-clicking you.
+
+Since its true potential impact is higher lategame when enemys start to build up some attack speed you should max this last.",
+				"enchantress_enchant":"There is no reason not to jungle with Bambi and for obvious reasons you should level this skill at level 1.
+
+later in the game for ganking and catching people out of position this skill shouldnt be underestimated and should be maxed second.",
+				"enchantress_natures_attendants":"A great skill in the early to midgame which gives you the ability to save allies and yourself with bursts of healing. This skill should be maxed imediately since its synergy with mekansm is great.",
+				"enchantress_impetus":"The skill which makes you the true predator. Skill it when avaliable and always manually cast it since leaving it on autocast will drain your mana very fast and leave you vulnerable.
+
+The Aghanims-upgrade will make this spell hurt alot and solve most of your mana problems so don't hesitate to use it",
+				"attribute_bonus":"One point in Atribute Bonus at level 4 will be better than one point in Untouchable or Enchant since the extra stats are very important early in the game.
+
+If you feel confident or are against a certain lineup feel free to skip this for something else."
+		}
+	}
+}

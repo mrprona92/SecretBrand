@@ -1,0 +1,101 @@
+{
+	"Hero":"huskar",
+	"Title":"6.82 - Standard Huskar (Middle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"helm_of_the_dominator",
+				"armlet",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"blade_mail",
+				"heavens_halberd"
+			],
+			"Extension Items":
+			[
+				"satanic",
+				"greater_crit",
+				"monkey_king_bar"
+			],
+			"Last updated: 26/9/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ghost":"Ghost Scepter may seem counter-productive towards Huskar's previous weakness, but because he gains so much more magic resistance, this is a great item to deter physical carries and to allow you to keep hitting safely since your flaming spear is an orb-effect.",
+				"urn_of_shadows":"Urn of Shadows offers the heal that you need a pinch; but is not always worthwhile depending if you have a strong lead or need to serialize ganks to catch up!",
+				"ultimate_scepter":"Given the low cooldown and the added effect of how Huskar works in terms of damage, Aghanim's gets bumped to situational.",
+				"assault":"Assault Cuirass diminishes the amount of physical damage you take and adds onto your attack speed to make you ungodly, pretty damn good.",
+				"heart":"More survivability, this is a pretty straight-forward item for Huskar.",
+				"black_king_bar":"As you are losing and regenerating health, you want to be able to consistently deal out damage. Black King Bar prevents anyone from disrupting you.",
+				"blade_mail":"This item works wonders to restrict the damage you take, mitigate the amount of physical damage you take and further increase your survivability.",
+				"armlet":"More damage, more life, more strength, this item was made for Huskar. Huskar wants the extra strength and the attack speed to be able to tear down enemies before he, himself, gets too near to death.",
+				"satanic":"An obvious follow-up to be able to lifestealer faster than foes focusing you and the extra life is always appreciated.",
+				"helm_of_the_dominator":"Helm of the Dominator and Armlet work hand-in-hand with one another as the lifesteal with Inner Vitality and Armlet keep your health at a sizable amount to let Berserker's Blood give you the attack speed and damage you need.",
+				"ancient_janggo":"Chasing power and more attack, drums is a great item if you need a pinch more speed to catch up to your foes.",
+				"heavens_halberd":"Though Butterfly is nice, you don't need more attack speed. This alternative is superb because of its evasion and its prevention to rivaling physical carries from attacking you."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"huskar_burning_spear",
+			"2":"huskar_berserkers_blood",
+			"3":"huskar_burning_spear",
+			"4":"huskar_berserkers_blood",
+			"5":"huskar_burning_spear",
+			"6":"huskar_life_break",
+			"7":"huskar_burning_spear",
+			"8":"huskar_berserkers_blood",
+			"9":"huskar_berserkers_blood",
+			"10":"huskar_inner_vitality",
+			"11":"huskar_life_break",
+			"12":"huskar_inner_vitality",
+			"13":"huskar_inner_vitality",
+			"14":"huskar_inner_vitality",
+			"15":"attribute_bonus",
+			"16":"huskar_life_break",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"huskar_inner_vitality":"Use this during fights or before initiating, there is a small casting animation, so use it where you know you'll have time to cast it. With your item: Armlet and this, you'll find yourself staying just above alive and tearing down teams.",
+				"huskar_burning_spear":"During the laning phase, use this to last hit and harass your foe. Later on, this will be how you tear down foes as the flames do stack and deal additional damage.",
+				"huskar_berserkers_blood":"This is what makes you so incredibly powerful and strong. We're maximizing this first because of its incredible attack speed gain and magic resist!",
+				"huskar_life_break":"This is your initiation. Use this ability to get close with your prey then follow-up with your flaming spears. Once you jump, don't back down: there is typically no way for you to turn back and survive."
+		}
+	}
+}

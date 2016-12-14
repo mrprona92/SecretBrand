@@ -1,0 +1,115 @@
+{
+	"Hero":"ogre_magi",
+	"Title":"Supporting as Ogre Magi",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"flying_courier",
+				"ward_observer"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"mekansm",
+				"ward_observer"
+			],
+			"luxury":
+			[
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit",
+				"bloodstone",
+				"ultimate_scepter",
+				"pipe",
+				"sheepstick",
+				"shivas_guard",
+				"necronomicon",
+				"cyclone",
+				"force_staff"
+			],
+			"Try to always have at least one with you":
+			[
+				"tpscroll"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"It gives nice early stat boots and you can later turn it into Mekanasm.",
+				"gem":"Useful for taking down enemy wards and spotting invisible heroes.  Pass it to your more tanky teammates if necessary.
+",
+				"dust":"Useful for spotting invisible heroes.",
+				"ward_observer":"MUST HAVE in EVERY game. Your role as support is giving vision at certain points of the map by placing THIS, often on cliffs near a river and crossroads/cliffs in a woods.",
+				"ward_sentry":"Useful for taking down enemy wards and spotting invisible heroes.",
+				"courier":"MUST HAVE in EVERY game. It's your role as support to buy it.",
+				"tpscroll":"Mobility is EVERYTHING.",
+				"mekansm":"Use it to replenish your and your allies health. Always stay close to your allies when you have this item in your inventory - it gives nice hp regen aura.",
+				"flying_courier":"Used to upgrade Animal Courier. Buy one in  first minutes of the game if necessary.",
+				"pipe":"VERY useful when you're playing vs heroes with lots of powerful spells. Used correctly can turn tides of war to your side.",
+				"sheepstick":"Gives you nice boost to stats and POWERFUL active ability called Hex. This ability can be used to disable the most annoying in enemy team (for example their carry). Pretty rare item on support heroes because of its high price.",
+				"cyclone":"Can be used to disable yourself of enemy hero from teamfight. ",
+				"force_staff":"Can be used as offensive or defensive item and even help you save your someone's life. Don't troll your teammates by using this without reason. Just don't.",
+				"necronomicon":"Active ability gives you control over 2 pesky units that can be used to damage enemies, burn their mana and even scout their invisible units (requires Necronomicon lvl 3). Ranged unit gives your team a minor boost to attack speed and movement speed.",
+				"ultimate_scepter":"It helps you to survive in battle and gives extra ability called Unrefined Fireblast that can be used to stun single enemy when your primary Fireblast is on cooldown. Great item that is useful in most of games.",
+				"bloodstone":"It helps you to survive in battle, reduces respawn time and gold lost after death. Great item that is useful in most of games.",
+				"arcane_boots":"Used to replenish your and friendly heroes mana. Use it on every cooldown if needed.",
+				"smoke_of_deceit":"Some uses:
+- setting sneaky teamfights
+- sneaky Roshan killing
+- sneaky ward placing
+- setting ganks"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ogre_magi_fireblast",
+			"2":"ogre_magi_ignite",
+			"3":"ogre_magi_fireblast",
+			"4":"ogre_magi_ignite",
+			"5":"ogre_magi_fireblast",
+			"6":"ogre_magi_multicast",
+			"7":"ogre_magi_fireblast",
+			"8":"ogre_magi_ignite",
+			"9":"ogre_magi_ignite",
+			"10":"ogre_magi_bloodlust",
+			"11":"ogre_magi_multicast",
+			"12":"ogre_magi_bloodlust",
+			"13":"ogre_magi_bloodlust",
+			"14":"ogre_magi_bloodlust",
+			"15":"attribute_bonus",
+			"16":"ogre_magi_multicast",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ogre_magi_bloodlust":"Can be leveled after maxing Fireblast and adding just 1 skillpoint in Ignite ability, starting from lvl 4. Make use of it early when your team profits greatly from increased attack speed."
+		}
+	}
+}

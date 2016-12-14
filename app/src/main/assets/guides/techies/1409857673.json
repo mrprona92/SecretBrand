@@ -1,0 +1,70 @@
+{
+	"Hero":"techies",
+	"Title":"BLOW THE SHIT OUT OF YOUR FRIENDS",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity",
+				"sobi_mask"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"urn_of_shadows",
+				"invis_sword",
+				"ultimate_scepter"
+			],
+			"BUY THIS RED THING":
+			[
+				"bloodstone"
+			],
+			"BLOW THE FUCK UP":
+			[
+				"dagon",
+				"radiance"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"techies_land_mines",
+			"2":"techies_stasis_trap",
+			"3":"techies_land_mines",
+			"4":"techies_suicide",
+			"5":"techies_land_mines",
+			"6":"techies_remote_mines",
+			"7":"techies_suicide",
+			"8":"techies_suicide",
+			"9":"techies_stasis_trap",
+			"10":"techies_stasis_trap",
+			"11":"techies_remote_mines",
+			"12":"attribute_bonus",
+			"13":"techies_stasis_trap",
+			"14":"techies_suicide",
+			"15":"techies_land_mines",
+			"16":"techies_remote_mines",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

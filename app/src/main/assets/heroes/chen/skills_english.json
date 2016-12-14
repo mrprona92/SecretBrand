@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Penitence",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Forces an enemy unit to move slower and take more damage from attacks and spells.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">5/6/7/8</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">14%/18%/22%/26%</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">14%/18%/22%/26%</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 14/13/12/11",
+        "lore": "Although Chen\u0027s brand of animal enthrallment isn\u0027t quite strong enough to control the minds of enemy heroes, it still tests their resolve in combat.",
+        "hurl": "Chen",
+        "name": "chen_penitence",
+        "youtube":"Q0lQaxZ2bG8",
+        "id": 0
+    },
+    {
+        "dname": "Test of Faith",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#d61107\">Pure</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Deals random damage to test an enemy unit\u0027s faith.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DAMAGE MIN: <b><font color=\"#ffffff\">50/100/150/200</font></b><br/>DAMAGE MAX: <b><font color=\"#ffffff\">100/200/300/400</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 175/175/175/175<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 24",
+        "lore": "Knights of the Fold possess a fanatical form of magic that is considered quite unwieldy by most other users of arcane arts.",
+        "hurl": "Chen",
+        "name": "chen_test_of_faith",
+        "youtube":"NfeyK2IK4mg",
+        "id": 1
+    },
+    {
+        "dname": "Test of Faith",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Teleports an allied unit back to the base.  Creeps are teleported instantly, while Heroes have a delay before teleporting. If cast on Chen, all units controlled by Chen through Holy Persuasion will be teleported to him after a delay.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "HERO/SELF TP DELAY: <b><font color=\"#ffffff\">6/5/4/3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/200/200/200<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 24",
+        "lore": "",
+        "hurl": "Chen",
+        "name": "chen_test_of_faith_teleport",
+        "youtube":"TY-WEAij0KM",
+        "id": 2
+    },
+    {
+        "dname": "Holy Persuasion",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b>",
+        "desc": "Chen takes control of an enemy or neutral creep. If the persuaded creep's base health is naturally below the health minimum, its base health will be raised to the health minimum.<br/>Upgradable by Aghanim\u0027s Scepter, allowing Chen to persuade Ancient Creeps. The number of Ancient Creeps that can be persuaded is based on the level of Hand of God.",
+        "notes": "You may only cast this ability on Ancient Creeps with Aghanim\u0027s Scepter.<br/>When persuading a new creep above your max unit count, the oldest persuaded unit will die.",
+        "dmg": "",
+        "attrib": "MAX UNITS: <b><font color=\"#ffffff\">1/2/3/4</font></b><br/>MINIMUM BASE HEALTH: <b><font color=\"#ffffff\">700/800/900/1000</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/26/22/18",
+        "lore": "Although they may not be knights, Chen incorporates beasts into the Fold in the same way he himself was converted.",
+        "hurl": "Chen",
+        "name": "chen_holy_persuasion",
+        "youtube":"Jhk_gA5AeZo",
+        "id": 3
+    },
+    {
+        "dname": "Hand of God",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Fully regenerates any creeps under Chen\u0027s control and heals all allied heroes on the map.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Heals Spell Immune units.",
+        "dmg": "",
+        "attrib": "HEAL: <b><font color=\"#ffffff\">200/300/400</font></b><br/><font color=\"#6fe871\">SCEPTER COOLDOWN:</font></b> <b><font color=\"#ffffff\">30</font></b><br/><font color=\"#6fe871\">SCEPTER HOLY PERSUASION ANCIENTS:</font></b> <b><font color=\"#ffffff\">1/2/3</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 200/300/400<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 160/140/120",
+        "lore": "Using the mental link with his thralls, Chen calls down restoration and well-being to those who share his fanaticism.",
+        "hurl": "Chen",
+        "name": "chen_hand_of_god",
+        "youtube":"BxXGyInKTpQ",
+        "id": 4
+    }
+]

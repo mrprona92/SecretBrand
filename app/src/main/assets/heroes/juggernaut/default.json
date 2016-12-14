@@ -1,0 +1,41 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_juggernaut",
+	"Title":"Recommended items for Juggernaut",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"branches",
+			"slippers",
+			"slippers"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"poor_mans_shield",
+			"magic_stick",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"phase_boots",
+			"magic_wand",
+			"ancient_janggo",
+			"ultimate_scepter",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"sange_and_yasha",
+			"butterfly",
+			"desolator",
+			"bfury",
+			"vladmir",
+			"black_king_bar"
+		]
+	}
+}

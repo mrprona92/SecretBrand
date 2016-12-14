@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Nether Blast",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Pugna создает взрыв астральной энергии, который наносит урон врагам и сооружениям в области действия. Сооружения получают только половину урона.",
+        "notes": "Задержка перед взрывом — 0,9 секунды.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/175/250/325</font></b>",
+        "attrib": "ЗАДЕРЖКА: <b><font color=\"#ffffff\">0.9/0.9/0.9/0.9</font></b><br/>РАДИУС: <b><font color=\"#ffffff\">400/400/400/400</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 85/105/125/145<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 5.50",
+        "lore": "Искусства Забвения включают в себя оглушающий взрыв изумрудного пламени из самого Предела.",
+        "hurl": "Pugna",
+        "name": "pugna_nether_blast",
+        "youtube":"S-CNAxuxwbU",
+        "id": 0
+    },
+    {
+        "dname": "Decrepify",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Могущественное заклятие изгнания замедляет выбранного юнита, лишает его возможности атаковать или быть атакованным, а также увеличивает получаемый им урон от заклинаний.",
+        "notes": "Юниту под действием этой способности наносится только магический и чистый урон.",
+        "dmg": "",
+        "attrib": "УВЕЛИЧЕНИЕ МАГ. УРОНА СОЮЗНИКОВ: <b><font color=\"#ffffff\">25%</font></b><br/>ЗАМЕДЛЕНИЕ СОЮЗНИКОВ: <b><font color=\"#ffffff\">25%</font></b><br/>УВЕЛИЧЕНИЕ МАГ. УРОНА ПО ПРОТИВНИКАМ: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>ЗАМЕДЛЕНИЕ ПРОТИВНИКОВ: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">3.5</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 60<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 15/12/9/6",
+        "lore": "Pugna много практиковался в перемещении физических тел в астральную реальность. Сейчас он таким образом может спасать союзников, вредить врагам или просто развлекаться.",
+        "hurl": "Pugna",
+        "name": "pugna_decrepify",
+        "youtube":"vslnhbjQiXw",
+        "id": 1
+    },
+    {
+        "dname": "Nether Ward",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Pugna создает Nether Ward, стреляющий вспышками маны по врагам, которые осмеливаются применять заклинания, в то же время уменьшая их регенерацию маны. Nether Ward наносит урон, равный коэффициенту урона, помноженному на ману, потраченную вражеским героем. Действует 30 секунд.",
+        "notes": "Наносит урон перед произнесением заклинания, так что заклинание убитого им противника не подействует.<br/>На Nether Ward можно использовать способность Decrepify.<br/>У варда 4 единицы здоровья. Герои наносят ему 1 единицу урона, а простые юниты — 0,25 единицы урона.",
+        "dmg": "",
+        "attrib": "РАДИУС ДЕЙСТВИЯ: <b><font color=\"#ffffff\">1600</font></b><br/>УРОНА ЗА ЕД. МАНЫ: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b><br/>РЕГЕН МАНЫ: <b><font color=\"#ffffff\">1.5/3/4.5/6</font></b><br/>УДАРОВ ДЛЯ УНИЧТОЖЕНИЯ: <b><font color=\"#ffffff\">4/4/4/4</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/80/80/80<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 35",
+        "lore": "Во время изучения искусств Забвения Pugna научился побеждать своих товарищей простым тотемом, заряженным магией Предела.",
+        "hurl": "Pugna",
+        "name": "pugna_nether_ward",
+        "youtube":"1GLjEtZRA7M",
+        "id": 2
+    },
+    {
+        "dname": "Life Drain",
+        "affects": "Способность: <b><font color=\"#ffffff\">прерываемая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">героев</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "ПРЕРЫВАЕМАЯ — используя эту способность на врага, Pugna поглощает его здоровье. Если целью является герой, а запас здоровья Pugna полон, то восстанавливается мана.<br/>Если целью является союзник, Pugna будет передавать свое здоровье выбранному союзнику.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Количество полученного здоровья зависит от количества нанесенного урона.<br/>Мгновенно уничтожает иллюзии.",
+        "dmg": "",
+        "attrib": "ЗДОРОВЬЯ В СЕКУНДУ: <b><font color=\"#ffffff\">150/185/220</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">900/1050/1200</font></b><br/>МАКС. ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10</font></b><br/><font color=\"#6fe871\">ЗДОРОВЬЯ В СЕКУНДУ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">180/240/300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/175/225<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 22",
+        "lore": "Pugna становится действительно сильнее повелителя Забвения.",
+        "hurl": "Pugna",
+        "name": "pugna_life_drain",
+        "youtube":"G9pGWvXj0aE",
+        "id": 3
+    }
+]

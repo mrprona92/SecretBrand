@@ -1,0 +1,112 @@
+{
+	"Hero":"visage",
+	"Title":"Visage - Support Nuker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"flask",
+				"clarity",
+				"courier",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"flying_courier",
+				"ward_observer",
+				"boots"
+			],
+			"coreItems":
+			[
+				"tpscroll",
+				"medallion_of_courage",
+				"buckler",
+				"power_treads",
+				"mekansm",
+				"ward_observer"
+			],
+			"Late Game":
+			[
+				"maelstrom",
+				"assault"
+			],
+			"Luxury":
+			[
+				"mjollnir",
+				"greater_crit"
+			],
+			"Situational":
+			[
+				"ring_of_basilius"
+			]
+		},
+		"ItemTooltips":
+		{
+				"ring_of_protection":"A great starting item - Visage's attack range is amazing, so you'll want to harass.
+
+This keeps you from feeling the damage you'll take in return.",
+				"magic_stick":"Can solve your early-game mana pool problems. Only cost efficient if you're laning against two spell casters.",
+				"ward_observer":"Now that you can hand off wards, you have no reason NOT to buy them.",
+				"tpscroll":"Teleport to gank or to counter-gank the enemy team.",
+				"power_treads":"You can no longer disassemble Tranquil boots, so we skip them completely. Keep brown boots until you can buy Treads.",
+				"mekansm":"You get your Mek a minute or two late. But your Treads give you a much stronger mid-game.",
+				"flying_courier":"Buy it with your first round of gank gold or leave it for your other support.",
+				"buckler":"Build this before Medllion if you're getting harassed.",
+				"ring_of_basilius":"I usually skip Ring of Basi. However, I sometimes finish it mid game with my spare Ring of Protection. ",
+				"assault":"More damage, more survivability and a debuff for the enemy team. This item synchs perfectly with your late game role - edge of teamfight right click / nuker.",
+				"maelstrom":"Buy this before your AC. You get 25 more attack speed. And a 120 dmg AoE nuke (which adds an average of 30 bonus dmg to every auto attack.)
+
+Maelstorm + Treads = Dangerous Mid-Game Visage.",
+				"medallion_of_courage":"Build this before Buckler if you get an early gank.",
+				"tranquil_boots":"The poor man's support boots: Easy to afford, they allow you to stay in lane for farm, harass or ganking. Don't worry about the mana cost - your mana pool regens fast and you only burst nuke every few minutes."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"visage_grave_chill",
+			"2":"visage_soul_assumption",
+			"3":"visage_soul_assumption",
+			"4":"visage_gravekeepers_cloak",
+			"5":"visage_gravekeepers_cloak",
+			"6":"visage_summon_familiars",
+			"7":"visage_gravekeepers_cloak",
+			"8":"visage_soul_assumption",
+			"9":"visage_grave_chill",
+			"10":"visage_soul_assumption",
+			"11":"visage_summon_familiars",
+			"12":"visage_gravekeepers_cloak",
+			"13":"visage_grave_chill",
+			"14":"visage_grave_chill",
+			"15":"attribute_bonus",
+			"16":"visage_summon_familiars",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"visage_grave_chill":"A great ganking slow. The duration increase isn't amazing - but you notice the difference between 3 and 4 seconds. So we sneak a second level in as soon as we can.",
+				"visage_soul_assumption":"Use this nuke to secure kills or to burst down supports in team fights. An easy way to manage your soul charges: Start nuking once ANYONE hits half HP. (Whether on your team or the other team.)
+
+Then continue to spam this nuke on cooldown.",
+				"visage_gravekeepers_cloak":"This extra armor helps you survive and mini-tank while you nuke. The increase from level 2 to level 3 is HUGE! So we get 3 as fast as possible. But we put off maxing it until our slow  is a little bit stronger.",
+				"visage_summon_familiars":"Micro your familiars with care - each is worth 100 gold. Remember: Familiars have an AOE stun. Used correctly, you can stun lock an enemy team for a full 4 seconds."
+		}
+	}
+}

@@ -1,0 +1,127 @@
+{
+	"Hero":"shredder",
+	"Title":"Purge's Guide to Timbersaw",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"magic_stick",
+				"tpscroll",
+				"stout_shield",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"boots",
+				"bloodstone",
+				"magic_wand",
+				"stout_shield",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"force_staff",
+				"mekansm",
+				"pipe",
+				"shivas_guard",
+				"ghost",
+				"heavens_halberd",
+				"blade_mail",
+				"black_king_bar",
+				"heart",
+				"blink",
+				"rod_of_atos",
+				"radiance"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"I haven't used Blink yet, but if you're having trouble breaking rax high ground, Blink could help a lot for positioning your combo. Throw Chakram in, blink, spin, and timber chain out for a good 600 pure damage!",
+				"stout_shield":"Timbersaw has terrible base armor at level 1 so you NEED a stout shield. This along with reactive armor helps you resist damage and harass in the early and mid game against creeps.",
+				"branches":"1 Ironwood branch gives you 19 hp and 13 mana. It pays off more than 1 clarity potion since you'd rather be in melee range getting last hits.",
+				"boots":"After Bloodstone Assembly, you'll have regular brown boots, and I kinda recommend keeping them there until you get Boots of Travel. Movement speed isn't a necessity because you have mobility from Timber Chain, and I'd rather spend gold on higher tier items than a mid game boots switch.",
+				"magic_stick":"Magic stick is 100% necessary on any diving tanky hero! You can buy this from the side shop either before or after Arcane boots, depending on how your lane is going.",
+				"magic_wand":"Upgraded magic stick so that you have a bigger hp/mp heal to work with and stay alive!",
+				"ghost":"Ghost scepter can easily be purchased against a large variety of situations. If you're up against a silence, Either Ghost scepter, force staff, or a Plate mail(for later shivas) is your best option. If you are ahead, Plate or force might be the best choice. Ghost scepter if you're behind.",
+				"flask":"1 salve in case you take a large amount of damage.",
+				"tango":"I recommend 2 tangos starting if you are either safe farm or offlane, because you want to buy arcanes as fast as possible, and ring of health after the arcane.",
+				"tpscroll":"Always carry a TP scroll so you can save your allies!",
+				"ring_of_health":"Ring of Health can be purchased form the side or secret shop in preparation of either a Bloodstone if the game is going ok, or a pipe if you're behind and need to catch up.",
+				"mekansm":"Timbersaw can pick up Mek if no one else on your team is making it, but generally I'd rather get a tanky item that doesn't cost me mana.",
+				"pipe":"I like pipe on timbersaw a lot against heroes like Zues or Necrolyte, since you WILL be in melee range and taking a lot of damage.
+
+I think Pipe should be your item choice if you aren't snowballing and need as much teamfight as possible because you might lose the game.",
+				"force_staff":"Timbersaw has a HUGE item choice range. Force staff is good against silences(since timber chain can get you out of most soft disables like slows).
+
+This item is great against rikimaru's and heroes like that.",
+				"heart":"Heart can be gotten mid-late if you want to really pump up your HP into the 3k mark. Generally Bloodstone and Pipe are better for earlier moments, but Heart gives the most hp per item slot, and the regen out of combat can be very useful as well.",
+				"black_king_bar":"If your opponents have too many stuns and too much aoe teamfight, Black King bar can guaranteed that you can dive supports the first couple of seconds in a teamfight, and help your team win those fights. I would get this item against VERY stun heavy lineups in teamfight crucial games.",
+				"shivas_guard":"Shivas is the best armor item choice for Timbersaw because more mana won't hurt, and the aoe slow can easily be applied on the enemy team as soon as you dive.",
+				"bloodstone":"I'm a little unsure if you should ALWAYS get a bloodstone, but in most cases you should pick it up because the mana it provides allows you to cast way more.",
+				"blade_mail":"Sometimes you need to leverage damage in any way you can(especially if you are behind on a tanky hero). In those times, Blademail can help do a couple extra hundred points of damage to enemy casters and carries. The + int and +armor help a lot as well.",
+				"radiance":"If you want to increase the damage that you do, Radiance is by FAR the best damage item you get, since the damage is done in an aoe around you. It isn't super often that TImbersaw attacks either, so relying on something like an Abyssal Blade isn't the right choice.
+
+This is a rare pickup!",
+				"arcane_boots":"Arcane is the most important item for Timbersaw because it gives him a huge mana pool to throw Chakram(his ulti) with. Once you hit lv. 6 and have arcanes, you can quite easily harass with your ulti and go for solo kills on your opponent.
+
+You can later turn this into a Bloodstone by disassembling!",
+				"rod_of_atos":"Rod of Atos could situationally be gotten on Timbersaw if you are having trouble executing the combo on fast heroes. The +hp and +int are exactly what he needs, plus the extra disable and be really helpful as well!",
+				"heavens_halberd":"Halberd provides damage, hp, and evasion, and if you're against a major physical damage dealer, the active disarm can be quite useful. This is situationaly a fansastic item for a tanky utility/damage hero like Timbersaw!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"shredder_timber_chain",
+			"2":"shredder_reactive_armor",
+			"3":"shredder_whirling_death",
+			"4":"shredder_timber_chain",
+			"5":"shredder_timber_chain",
+			"6":"shredder_chakram",
+			"7":"shredder_timber_chain",
+			"8":"shredder_whirling_death",
+			"9":"shredder_whirling_death",
+			"10":"shredder_whirling_death",
+			"11":"shredder_chakram",
+			"12":"shredder_reactive_armor",
+			"13":"shredder_reactive_armor",
+			"14":"shredder_reactive_armor",
+			"15":"attribute_bonus",
+			"16":"shredder_chakram",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"shredder_whirling_death":"This ability can be gotten earlier depending on your lane(in safe lane I'll usually get it lv. 1) but it should be used for last hitting 2 creeps at the same time, or 1 creep + harass on the opponent. Mid-late it can be used for farming and harassing your opponents",
+				"shredder_timber_chain":"Timber chain is a mix of escape ability and damage dealer. Generally it is maxed first to increase your possibility of survival against enemies, since it lets you chain farther! Use it to position yourself during teamfights, and to escape bad situations!",
+				"shredder_reactive_armor":"Reactive armor is a pretty neat skill. It effectively reduces damage taken in teamfights, and helps keep you alive. During pushes, I recommend tanking creeps to hit max armor then diving, but early game it can be used to tank creeps with stout shield and get net gain on HP! This should be maxed last",
+				"shredder_chakram":"Chakram makes Timbersaw REALLY strong at level 6 because it only costs about 100 mana to throw a 200 pure damage ranged nuke! With an 8 second cooldown, it should be used constantly during teamfights. If the harass puts them at low hp, let it sit on them to keep them super slowed!",
+				"shredder_return_chakram":"Release the Chakram immediately to get the pull back damage, or let it sit on your opponents if they are low! Remember this costs mana to leave it spinning though!",
+				"attribute_bonus":"Stats are great for tanky heroes! Get them when you can!"
+		}
+	}
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Infodota.Base" parent="Theme.AppCompat">
+        <item name="clickableItemBackground">?android:attr/selectableItemBackground</item>
+    </style>
+    <style name="Infodota" parent="Infodota.Base">
+        <item name="android:overScrollMode">never</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlNormal">@android:color/white</item>
+        <!--<item name="android:navigationBarColor">@color/primary_dark</item>-->
+        <item name="android:colorForeground">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColorLink">@color/primaryTextColor</item>
+    </style>
+
+    <style name="Infodota.Dark" parent="Infodota">
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+    </style>
+
+    <style name="Infodota.OverlayActionBar" parent="Infodota">
+        <item name="android:windowActionBarOverlay">true</item>
+
+        <!-- Support library compatibility -->
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+
+    <!-- Binh.TH add splash screen -->
+    <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+    <style name="TextView.Tabbar" parent="Layout.FillWidth">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/ranking_bgr_row</item>
+        <item name="android:drawablePadding">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_tabbar</item>
+    </style>
+
+    <style name="SettingSection" parent="Layout.FillWidth">
+        <item name="text">@string/app_name</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">@dimen/padding_normal</item>
+        <item name="android:padding">@dimen/padding_normal</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:background">@color/cmn_transparent</item>
+    </style>
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="Button.Dialog" parent="Layout.WrapWidthHeight">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">@dimen/btn_height_medium</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/cmn_white</item>
+        <item name="android:minWidth">70dp</item>
+        <item name="android:padding">@dimen/padding_normal</item>
+        <item name="android:textSize">@dimen/text_title</item>
+    </style>
+
+
+    <style name="Button.Dialog.Green" parent="Button.Dialog">
+        <item name="android:background">@drawable/bg_common_round_green</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:padding">@dimen/padding_small</item>
+    </style>
+
+</resources>

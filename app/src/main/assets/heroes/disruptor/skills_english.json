@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Thunder Strike",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Repeatedly strikes the targeted unit with lightning.  Each strike damages nearby enemy units in a small radius.",
+        "notes": "",
+        "dmg": "DAMAGE: <b><font color=\"#ffffff\">40/60/80/100</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">240/240/240/240</font></b><br/>STRIKES: <b><font color=\"#ffffff\">4/4/4/4</font></b><br/>DURATION: <b><font color=\"#ffffff\">6/6/6/6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 130/130/130/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16",
+        "lore": "Disruptor\u0027s charged coils occasionally overload, and a singed armor plate or tuft of fur is the enemy\u0027s result.",
+        "hurl": "Disruptor",
+        "name": "disruptor_thunder_strike",
+        "youtube":"cgsZb1yUxAE",
+        "id": 0
+    },
+    {
+        "dname": "Glimpse",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemy Heroes</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Teleports the target hero back to where it was 4 seconds ago.  Instantly kills illusions.",
+        "notes": "The travel time is a function of the distance the target will travel.",
+        "dmg": "",
+        "attrib": "CAST RANGE: <b><font color=\"#ffffff\">600/1000/1400/1800</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/46/32/18",
+        "lore": "Playing with electricity can have unexpected results.",
+        "hurl": "Disruptor",
+        "name": "disruptor_glimpse",
+        "youtube":"npnjwS7jIco",
+        "id": 1
+    },
+    {
+        "dname": "Kinetic Field",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "After a short formation time, creates a circular barrier of kinetic energy that enemies can\u0027t pass.",
+        "notes": "Spell Immune units can travel through the field.",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">325</font></b><br/>FORMATION DELAY: <b><font color=\"#ffffff\">1.2/1.2/1.2/1.2</font></b><br/>DURATION: <b><font color=\"#ffffff\">2.6/3.2/3.8/4.4</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 70/70/70/70<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 13/12/11/10",
+        "lore": "The stryder is immune to the gale-force winds that will consume its adversaries.",
+        "hurl": "Disruptor",
+        "name": "disruptor_kinetic_field",
+        "youtube":"T8vTW3QdEEc",
+        "id": 2
+    },
+    {
+        "dname": "Static Storm",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Point Target</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Creates a damaging static storm that also silences all enemy units in the area for the duration.  The damage starts off weak, but increases in power over the duration.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">450</font></b><br/>PULSES: <b><font color=\"#ffffff\">20</font></b><br/>MAX DAMAGE PER SECOND: <b><font color=\"#ffffff\">200/250/300</font></b><br/>DURATION: <b><font color=\"#ffffff\">5</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">7</font></b><br/><font color=\"#6fe871\">SCEPTER PULSES:</font></b> <b><font color=\"#ffffff\">28</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 125/175/225<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 90/80/70",
+        "lore": "A summer squall in Druud is a hardship that only an Oglodi can survive.",
+        "hurl": "Disruptor",
+        "name": "disruptor_static_storm",
+        "youtube":"5a6DMRqF2o8",
+        "id": 3
+    }
+]

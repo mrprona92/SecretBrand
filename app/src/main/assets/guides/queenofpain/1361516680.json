@@ -1,0 +1,117 @@
+{
+	"Hero":"queenofpain",
+	"Title":"Neviskio's Solo Mid Queen of Pain Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"null_talisman",
+				"null_talisman",
+				"magic_wand",
+				"tpscroll"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"ultimate_scepter",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"orchid",
+				"sphere",
+				"black_king_bar",
+				"gem",
+				"skadi",
+				"hyperstone"
+			],
+			"Luxury Items":
+			[
+				"sheepstick",
+				"veil_of_discord",
+				"monkey_king_bar",
+				"greater_crit",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"branches":"The iron branch, the best investment you can make.The easiest mistake you can do is to not realize the power of stats in dota2, this item gives you:
+
+19 health, 0.03 health regen, 1/7th of armor, 1% attack speed, 13 mana, 0.04 mana per second, and 1 damage since it gives 1 of your primary attribute.",
+				"gem":"Rarely you might want to carry a gem, since you're hard to kill unless stopped by stuns and silences.Take care though for unexpected items that can get you killed.If you don't feel safe, buy one and give it to someone stronger that has less chances to die.",
+				"magic_wand":"Good stats, burst hp e mana with charges, you can skip this if you feel ok with bottle and nulls, but I still get it most of the times.",
+				"bottle":"You are bottle-rushing which means you should focus on last hits to get your bottle before the 2 minute mark to go and control the rune.QoP is a strong mid because she gets runes and does strong ganks, abuse that power!",
+				"tango":"Regeneration and stats is the base of early game dota, you need on any hero some regen, you're going to get 2 set of tangoes only for a quick bottle rush, leaving you enough gold to be able to get a bottle up before the 2 minute rune if you don't have issues mid last hitting.",
+				"tpscroll":"You need to be carrying one, better if 2 at ALL TIMES.It's the best dota2 item and yet people fail to use it, you WILL lose towers/raxes/heroes during ganks because you are not carrying one.There's
+no excuse it costs 2-3 last hits and maybe some passive gold, you HAVE to have one.No excuses.",
+				"travel_boots":"Global control, can help you push with your aghanim ulti and get out easier.Also you can defend split pushes with just a couple spells, you need to be there to fight though if the team wants to go!",
+				"hyperstone":"Sometimes getting a casual hyperstone can help later in the game with autoattack damage.You can also upgrade it even later in the game in a mjollnir but even as a single hyperstone it can help with the damage.A mkb and hyperstone pickup late is a good choice.",
+				"power_treads":"Power threads are your core for a few reasons.You can change stats to get more mana before casting a spell, you get more str for fights, and attack speed for later in the game when your magic damage goes down in favour of your right click damage.",
+				"null_talisman":"QoP can easily use some more stats since she has fairly low str, and a terrible low base damage.She needs definitely the null talismans to last hit properly.You could make one and a wand or 2 and a wand or one alone.I still like the 2 and wand.",
+				"sheepstick":"Hex is always good but since you can blink and hex instantly it is a really strong initiation tool.Most people don't expect it, and they get nuked before they can react.",
+				"orchid":"Sometimes there are some heroes that are more evasive or annoying than QoP, like storm spirit, you definitely can make a good use of the orchid since your damage is instant and most people will pop by that or by the orchid finisher.A good choice all around.",
+				"ultimate_scepter":"Aghanim is the item for qop.Her ulti becomes such a low cooldown that sometimes pro gamers use it to farm creeps quickly.You should get one as soon as possible.",
+				"black_king_bar":"If you don't feel safe with a linken because they can chainstun you, or they just outnuke you, a bkb is a must.Gets you really scary in teamfights where you can do huge amounts of damage and still escape with a blink.",
+				"sphere":"If you're getting targeted and killed by single target spells and stuns before you can blink you NEED a linken's sphere.It has some good stat that you like and the spellblock can easily save you.Not a core though.",
+				"monkey_king_bar":"Late in the game when BKB start to pop out, you can't deal the awesome magic damage, you might even find yourself only nuking some poor supports.This is where MKB right click damage helps you.You have fairly good stats for autoattack late in the game and power threads help you even more.",
+				"greater_crit":"If mkb doesn't work, add a dedalus.Rarely you can go wrong with more right click damage in the REALLY LATE game.Definitely a good pickup if the game won't end.",
+				"skadi":"Late game sometimes you might want to have some form of physical damage but maybe the enemies don't have bkbs and can be still affected by the skadi slow, or some other scenarios I can't think right now.This is quite expensive and generally subpar compared to other choices, but still might be good.",
+				"veil_of_discord":"The veil is a strong item if you plan to keep up the strong magic damage into the mid-late game.Better if there are more aoe magic damage dealers, also gives you some survival, a really underused but good item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"queenofpain_shadow_strike",
+			"2":"queenofpain_blink",
+			"3":"queenofpain_shadow_strike",
+			"4":"queenofpain_scream_of_pain",
+			"5":"queenofpain_scream_of_pain",
+			"6":"queenofpain_sonic_wave",
+			"7":"queenofpain_scream_of_pain",
+			"8":"queenofpain_scream_of_pain",
+			"9":"queenofpain_blink",
+			"10":"queenofpain_blink",
+			"11":"queenofpain_sonic_wave",
+			"12":"queenofpain_blink",
+			"13":"queenofpain_shadow_strike",
+			"14":"queenofpain_shadow_strike",
+			"15":"attribute_bonus",
+			"16":"queenofpain_sonic_wave",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"queenofpain_shadow_strike":"You should get this at level one but decide in lane.If you see that something isn't right get level one blink instead.Dont' get more than 2 points early, the other spells are more important.",
+				"queenofpain_blink":"You should get a level into blink if you don't feel safe in lane at level 1, but you should decide in lane after seeing your match.Generally you should max it second to decrease the cooldown.",
+				"queenofpain_scream_of_pain":"This is your core ability that needs to be maxed first.Don't take it before blink or dagger though or you'll be pushing and getting yourself ready to be ganked from behind.This hits invisible units, and does huge aoe damage.Strong for pushing.",
+				"queenofpain_sonic_wave":"Your most powerfull nuke.Be aware that casting this at point blank range might make you miss since qop might turn around in weird angles and the range is smaller near you and gets bigger farther they are.Long range huge damage low cd especially with aghanim.Must get every time is available.",
+				"attribute_bonus":"Just don't get stats early, you need your other abilities maxed before."
+		}
+	}
+}

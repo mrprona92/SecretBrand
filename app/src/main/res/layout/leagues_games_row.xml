@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/clickableItemBackground"
+    android:minHeight="40dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/flag1"
+        android:layout_width="14dp"
+        android:layout_height="9dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/view_padding" />
+
+    <TextView
+        android:id="@+id/team1"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/half_view_padding"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:gravity="left"
+        android:maxLines="1"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/middle_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/view_padding"
+        android:layout_marginRight="@dimen/view_padding" />
+
+    <TextView
+        android:id="@+id/team2"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="@dimen/half_view_padding"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:gravity="right"
+        android:maxLines="1"
+        android:singleLine="true" />
+
+    <ImageView
+        android:id="@+id/flag2"
+        android:layout_width="14dp"
+        android:layout_height="9dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="@dimen/view_padding" />
+</LinearLayout>

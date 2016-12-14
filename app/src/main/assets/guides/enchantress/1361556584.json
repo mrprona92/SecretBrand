@@ -1,0 +1,118 @@
+{
+	"Hero":"enchantress",
+	"Title":"6.82 - Standard Enchantress (Jungle) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"clarity",
+				"ring_of_protection"
+			],
+			"earlyGame":
+			[
+				"ring_of_basilius"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"urn_of_shadows",
+				"force_staff",
+				"ultimate_scepter"
+			],
+			"Core - Aghanim's":
+			[
+				"hand_of_midas",
+				"power_treads",
+				"ultimate_scepter",
+				"orchid"
+			],
+			"Utility Items":
+			[
+				"smoke_of_deceit"
+			],
+			"luxury":
+			[
+				"vladmir",
+				"ancient_janggo",
+				"black_king_bar",
+				"ghost"
+			],
+			"Extension Items":
+			[
+				"assault",
+				"shivas_guard",
+				"sheepstick"
+			],
+			"Last updated: 15/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"ward_observer":"As a support hero, buy wards or courier as it is a part of your duties.",
+				"courier":"As a support hero, buy wards or courier as it is a part of your duties.",
+				"power_treads":"Survive, survive, survive.",
+				"hand_of_midas":"Hand of Midas is seldom good as a reward for being so proactive in your ganks. If you find the game will be passive or you're ahead, try and snag a Hand of Midas to alleviate the need to farm.",
+				"mekansm":"Mekansm is a decent item for Enchantress given how far away from the fight you want to be and how you gain from the extra armor.",
+				"vladmir":"If you have a strong pushing line-up and quite the army of jungle creeps. Vladmir's Offering can prove its worth offering you more armor and lifesteal for all your friends. Definitely a nice pocket pick-up if your line-up can take advantage of it.",
+				"urn_of_shadows":"Urn of Shadows urges you to gank often and to give you the survivability to stay in fights during those ganks. A great items and definitely underutilized with Enchantress.",
+				"orchid":"The attack speed and active ability is good for Enchantress, but generally there are other heroes who will be carrying and Aghanim's is just too good to pass up. There are other alternatives, but Orchid should be mentioned here.",
+				"force_staff":"Although you have drums, Enchantress can use Force Staff offensively to further the damage of your ultimate ability: Impetus. Great escaping mechanism as well.",
+				"ultimate_scepter":"More range means more damage, so why not get an Aghanim's Scepter if it keeps you out of trouble and improves your damage immensely?",
+				"assault":"This aura offers the extra attack speed you want while also buffing ally heroes who rely on additional attack speed to finish off foes.",
+				"ancient_janggo":"A great aura for your team and controlled jungle creeps. A definite pick-up during the first few levels of the game.",
+				"smoke_of_deceit":"Typically, you can buy this early on in the game to get first-blood, allowing you to rush Hand of Midas or simply a faster Mekansm",
+				"rod_of_atos":"Although seemingly redundant, Atos with your slow allows you to slow two enemies or increase the slow duration on one given the range of this item."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_untouchable",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_natures_attendants",
+			"6":"enchantress_impetus",
+			"7":"enchantress_natures_attendants",
+			"8":"enchantress_untouchable",
+			"9":"enchantress_untouchable",
+			"10":"enchantress_untouchable",
+			"11":"enchantress_impetus",
+			"12":"enchantress_enchant",
+			"13":"enchantress_enchant",
+			"14":"enchantress_enchant",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"At max level, Untouchable let's you easily tank Roshan for your allies. Do not rely on this ability too much to fight off physical carries as you are still very fragile.",
+				"enchantress_enchant":"One of your most useful abilities throughout the game. Take advantage of its low cooldown to control as many creeps as you can as well as to slow down feeling opponents. Do not hesitate to gank at the first few levels with a controlled creep to get a first blood.",
+				"enchantress_natures_attendants":"During every engagement, use this ability to ensure you can stay alive a little longer. It's got a great heal that affects all nearby party members and its rate of healing is very good.",
+				"enchantress_impetus":"Be careful of the mana drain for this one, use it at a true distance and not for the extra damage when extremely close to an opponent. "
+		}
+	}
+}

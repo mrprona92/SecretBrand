@@ -1,0 +1,76 @@
+{
+	"Hero":"chen",
+	"Title":"Carry Chechen",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_protection",
+				"clarity",
+				"tango",
+				"flask",
+				"courier"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"desolator",
+				"sheepstick"
+			],
+			"Late game":
+			[
+				"greater_crit",
+				"mjollnir",
+				"butterfly"
+			],
+			"Alternative":
+			[
+				"monkey_king_bar",
+				"skadi",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"chen_holy_persuasion",
+			"2":"chen_test_of_faith",
+			"3":"chen_holy_persuasion",
+			"4":"chen_test_of_faith",
+			"5":"chen_holy_persuasion",
+			"6":"chen_hand_of_god",
+			"7":"chen_holy_persuasion",
+			"8":"chen_test_of_faith",
+			"9":"chen_test_of_faith",
+			"10":"chen_penitence",
+			"11":"chen_hand_of_god",
+			"12":"chen_penitence",
+			"13":"chen_penitence",
+			"14":"chen_penitence",
+			"15":"attribute_bonus",
+			"16":"chen_hand_of_god",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

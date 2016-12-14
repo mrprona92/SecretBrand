@@ -1,0 +1,47 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_rubick",
+	"Title":"Recommended items for Rubick",
+	
+	"Items":
+	{		
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"clarity",
+			"branches",
+			"branches",
+			"courier"
+		],
+		
+		"earlyGame":[
+			"boots",
+			"magic_stick",
+			"bracer"
+		],
+		
+		"coreItems":[
+			"arcane_boots",
+			"blink",
+			"ultimate_scepter",
+			"magic_wand",
+			"ward_observer",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"ancient_janggo",
+			"sheepstick",
+			"black_king_bar",
+			"shivas_guard",
+			"travel_boots",
+			"rod_of_atos",
+			"pipe",
+			"cyclone",
+			"force_staff",
+			"bloodstone",
+			"flying_courier"
+		]
+	}
+}

@@ -1,0 +1,2 @@
+{
+    "roles": ["Disabler", "Nuker", "Lane Support", "Support"],"ID":80,"Patch":"6.79c","Name":"Lion","Alignment":1,"Movespeed":290,"MaxDmg":55,"MinDmg":49,"HP":454,"Mana":286,"HPRegen":0.25,"ManaRegen":0.01,"Armor":1.1,"Range":600,"ProjectileSpeed":900,"BaseStr":16,"BaseAgi":15,"BaseInt":22,"StrGain":1.7,"AgiGain":1.5,"IntGain":3,"PrimaryStat":2,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.43,"AttackSwing":0.74,"CastPoint":0.3,"CastSwing":0.51,"Turnrate":0.5,"Legs":2}

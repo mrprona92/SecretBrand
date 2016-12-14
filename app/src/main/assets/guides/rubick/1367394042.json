@@ -1,0 +1,72 @@
+{
+	"Hero":"rubick",
+	"Title":"GreyShark.Rubick",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"tango",
+				"clarity",
+				"clarity",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"Early Game":
+			[
+				"magic_wand",
+				"boots"
+			],
+			"Mid Game":
+			[
+				"arcane_boots",
+				"cyclone",
+				"force_staff",
+				"hood_of_defiance"
+			],
+			"Late Game":
+			[
+				"sheepstick",
+				"bloodstone"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"rubick_telekinesis",
+			"2":"rubick_fade_bolt",
+			"3":"rubick_fade_bolt",
+			"4":"rubick_null_field",
+			"5":"rubick_fade_bolt",
+			"6":"rubick_spell_steal",
+			"7":"rubick_fade_bolt",
+			"8":"rubick_null_field",
+			"9":"rubick_null_field",
+			"10":"rubick_null_field",
+			"11":"rubick_spell_steal",
+			"12":"rubick_telekinesis",
+			"13":"rubick_telekinesis",
+			"14":"rubick_telekinesis",
+			"15":"attribute_bonus",
+			"16":"rubick_spell_steal",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

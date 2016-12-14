@@ -1,0 +1,72 @@
+[
+    {
+        "dname": "Wild Axes",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита, направленная на точку</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Beastmaster швыряет свои топоры, а те срубают деревья и головы противников на своем пути и возвращаются обратно. Каждый топор задевает одного врага лишь единожды.",
+        "notes": "Действует на врагов, невосприимчивых к заклинаниям.<br/>Разрушает деревья.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">70/100/130/160</font></b>",
+        "attrib": "ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">1300/1300/1300/1300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 13",
+        "lore": "Учась передвигаться по пересеченной местности, Beastmaster приноровился использовать два томагавка, способные проложить дорогу сквозь как лес, так и вражеский строй.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_wild_axes",
+        "youtube":"RfMTKPalQ_E",
+        "id": 0
+    },
+    {
+        "dname": "Call of the Wild: Ястреб",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Beastmaster призывает зоркого ястреба, наблюдающего за полем боя. С 3 уровня ястреб становится невидимым, если не передвигается в течение 4 секунд.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ЗДОРОВЬЕ ЯСТРЕБА: <b><font color=\"#ffffff\">40/60/80/100</font></b><br/>СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">250/275/300/325</font></b><br/>ОБЗОР ЯСТРЕБА ДНЕМ: <b><font color=\"#ffffff\">700/1000/1300/1600</font></b><br/>ОБЗОР ЯСТРЕБА НОЧЬЮ: <b><font color=\"#ffffff\">700/800/900/1000</font></b><br/>ДЛИТЕЛЬНОСТЬ ЖИЗНИ ЯСТРЕБА: <b><font color=\"#ffffff\">60/60/60/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 15<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 40",
+        "lore": "После того, как Beastmaster подружился со странным зверем в детстве, он научился призывать животных на помощь.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_call_of_the_wild",
+        "youtube":"az1QugljYAA",
+        "id": 1
+    },
+    {
+        "dname": "Call of the Wild: Кабан",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b>",
+        "desc": "Beastmaster призывает на поле боя могучего кабана, способного плеваться во врагов ядом, замедляющим их скорость передвижения и атаки.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ЗДОРОВЬЕ КАБАНА: <b><font color=\"#ffffff\">200/300/400/500</font></b><br/>УРОН: <b><font color=\"#ffffff\">15/30/45/60</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>ЗАМЕДЛЕНИЕ СКОРОСТИ АТАКИ: <b><font color=\"#ffffff\">10/20/30/40</font></b><br/>ДЛИТЕЛЬНОСТЬ ОТРАВЛЕНИЯ: <b><font color=\"#ffffff\">3</font></b><br/>ДЛИТЕЛЬНОСТЬ ЖИЗНИ КАБАНА: <b><font color=\"#ffffff\">60/60/60/60</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 15<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 40",
+        "lore": "После того, как в детстве Beastmaster подружится со странным зверем, он научился призывать животных когда ему нужно.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_call_of_the_wild_boar",
+        "youtube":"dLViKx2MQd4",
+        "id": 2
+    },
+    {
+        "dname": "Inner Beast",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная, аура</font></b><br/>Действует на <b><font color=\"#ffffff\">союзников</font></b>",
+        "desc": "Высвобождает силу гнева союзников, увеличивая скорость их атак.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">900</font></b><br/>ДОП. СКОРОСТЬ АТАКИ: <b><font color=\"#ffffff\">15/25/35/45</font></b>",
+        "cmb": "",
+        "lore": "Способности пробуждать в других существах их внутреннюю ярость проявилась у Карроха еще в день смерти короля Слома от лап его зверей.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_inner_beast",
+        "youtube":"aC2jU2vrI8U",
+        "id": 3
+    },
+    {
+        "dname": "Primal Roar",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Beastmaster издает оглушительный рык, который оглушает цель и раскидывает всех между Beastmaster и целью. Все существа на пути к цели также получают урон, а их скорость атаки и передвижения снижается.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Оглушает врагов, невосприимчивых к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">3/3.5/4</font></b><br/>УРОН: <b><font color=\"#ffffff\">200/250/300</font></b><br/>ШИРИНА КРИКА: <b><font color=\"#ffffff\">300</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">50%/50%/50%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">50/50/50</font></b><br/>ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ: <b><font color=\"#ffffff\">2/3/4</font></b><br/><font color=\"#6fe871\">ДАЛЬНОСТЬ ПРИМЕНЕНИЯ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">950/950/950</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">45/45/45</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 150/175/200<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/75/70",
+        "lore": "Beastmaster научился сливать все свои первобытные инстинкты в оглушающий вопль, сеющий смятение в рядах противника.",
+        "hurl": "Beastmaster",
+        "name": "beastmaster_primal_roar",
+        "youtube":"mnHbT9GLIdU",
+        "id": 4
+    }
+]

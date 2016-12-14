@@ -1,0 +1,97 @@
+{
+	"Hero":"bane",
+	"Title":"Jaffa's Lane Bane outta nowhere Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"clarity",
+				"clarity",
+				"ring_of_regen"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"soul_ring"
+			],
+			"coreItems":
+			[
+				"tpscroll",
+				"smoke_of_deceit",
+				"black_king_bar"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"invis_sword",
+				"blink",
+				"sphere",
+				"necronomicon",
+				"travel_boots"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Initiation Item. Gives you the positioning you want and initiating power when combined with BKB.",
+				"ring_of_regen":"Buy the Soul ring recipie as well, you can finish it when you get 325 gold at the sideshop. This item's regen as well as Brain Sap spam should keep you alive in the early game.",
+				"clarity":"Mana regen for pre-soul ring for spamming enfeeble on enemy carries in your lane.",
+				"tpscroll":"While your t1 towers are still up, teleport to them and gank lanes with Grip, with the help of any allies already there.",
+				"travel_boots":"Baller tier global ganking item. Get this if you've had a good start.",
+				"sheepstick":"More CC, simple as that. Drop it on someone BEFORE you grip someone else.",
+				"necronomicon":"Situational item for pushing and countering enemy invisible heroes in teamfights. Sheepstick is almost always better unless you're getting owned in teamfights by invisibles and for some reason you won't buy a gem.",
+				"black_king_bar":"A must have for later teamfighting. Build for this with your ganking money. You won't get off a full ultimate without it unless you're against one enemy or very lucky.",
+				"sphere":"Highly situational item, get this against Beastmaster or other BKB piercing ultimates which your BKB can't block. Still use your BKB first while channeling grip however, so the only thing that can trigger your linkens are BKB piercing spells.",
+				"invis_sword":"Initiation Item.
+
+Really does the same thing as blink dagger, so dont get both. This can be activated AFTER you start channeling Grip to become invisible.",
+				"soul_ring":"Mainly a laning item, used to keep Brain Sap and enfeeble spam going. Gives good regen as well.",
+				"arcane_boots":"This item should be preferred over phase or treads if there are no mana boots on your team. If mana isn't needed or your team already has boots up the butt get phase.",
+				"smoke_of_deceit":"This item is extremely important in the mid game. You need to be roaming to lanes to gank with Fiends Grip -- Its pretty much a gauranteed kill if you can catch someone in an ally's lane, no matter how escapable they are. You should be in grip range by the time you are revealed."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"bane_enfeeble",
+			"2":"bane_brain_sap",
+			"3":"bane_brain_sap",
+			"4":"bane_nightmare",
+			"5":"bane_brain_sap",
+			"6":"bane_fiends_grip",
+			"7":"bane_brain_sap",
+			"8":"bane_enfeeble",
+			"9":"bane_enfeeble",
+			"10":"bane_enfeeble",
+			"11":"bane_fiends_grip",
+			"12":"bane_nightmare",
+			"13":"bane_nightmare",
+			"14":"bane_nightmare",
+			"15":"attribute_bonus",
+			"16":"bane_fiends_grip",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"bane_enfeeble":"Spam this on the enemy in your lane who needs the most farm, usually a carry. It'll seriously screw them over for last hitting/denying. Use your starting clarities
+and try to keep this spell active while enemies are at the creep wave. ",
+				"bane_brain_sap":"Harass spell. Keep in mind this spell does PURE damage, ignoring magic resistance but not magic immunity. In other words, it will do the damage is says. Use this skill after using soul ring for a low cost harass.",
+				"bane_nightmare":"One of Bane's hardest skills to master. NEVER use this skill on someone who's being attacked unless you could write a 5 paragraph essay validating your action. Always perfer using this on an enemy who can disable and is being ignored in teamfights, or could interrupt your Fiend's Grip.",
+				"bane_fiends_grip":"One of the strongest disable spells in the game. This skill penetrates BKB, but attracts stuns to you like a magnet. Be sure you know where enemy disables are when you cast it, and use your secondary CC (Nightmare/Sheepstick) FIRST. Usually target a carry with this skill or a high escape hero."
+		}
+	}
+}

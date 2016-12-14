@@ -1,0 +1,116 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"EarthSpirit-Mid/Support/Ganker-Backpak's Guide has your back",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches"
+			],
+			"Ganking Early Game":
+			[
+				"bottle",
+				"magic_wand",
+				"arcane_boots",
+				"tpscroll",
+				"urn_of_shadows",
+				"ward_observer"
+			],
+			"Support Mid game":
+			[
+				"mekansm",
+				"force_staff",
+				"arcane_boots",
+				"ward_observer",
+				"dust"
+			],
+			"Situational Late Game":
+			[
+				"vanguard",
+				"veil_of_discord",
+				"shivas_guard",
+				"pipe",
+				"sheepstick",
+				"bloodstone"
+			]
+		},
+		"ItemTooltips":
+		{
+				"stout_shield":"You can buy this at side-shop if no one else buys wards/courier.",
+				"branches":"I usually build into wand, but if you are laning against someone without spells I build directly into mekanism. (Thats why you grab 2 instead of 3.)",
+				"boots":"Build into Mana Boots ASAP to help with ganks, if you aren't doing that well in lane buy clarity instead.",
+				"magic_wand":"Gives cheap, much needed burst regen.",
+				"clarity":"Buy if you feel you don't need either a tango or a salve.",
+				"flask":"Again, decide if Tangos or Healing Salve are needed in lane.",
+				"dust":"In case of enemy invis, you chase well and are thus a good dust carrier. ",
+				"bottle":"On a ganking hero this is a must have. Keeps your mana and health up.",
+				"tango":"Keeps you in lane until you finish bottle.",
+				"tpscroll":"Always carry TP's, especially on a ganker.",
+				"mekansm":"A standard support item that gives ES some armor also.",
+				"pipe":"Great for bouldering in unharmed.",
+				"urn_of_shadows":"If you feel you have the money, or if you skip wand.",
+				"sheepstick":"If the team has that 1 carry that you just need to shut down.",
+				"force_staff":"Extra mobility and positioning. ",
+				"heart":"Get instead of vanguard for great regen and health, or with vanguard for some nice tankyness. ",
+				"shivas_guard":"Useful if you have more mana problems or need some slow to keep them in the teamfight/magnetize radius.",
+				"bloodstone":"If you have a lot of extra money, and Scythe of Vyse doesn't seem necessary then bloodstone is a great way to spam your spells.",
+				"vanguard":"If you feel you are dying to fast.",
+				"arcane_boots":"Must have on such a mana dependent hero.",
+				"smoke_of_deceit":"Feeling pro?",
+				"veil_of_discord":"If vanguard seems a bit to much tank, and if your team has a lot of magic damage this is the place to be."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_boulder_smash",
+			"3":"earth_spirit_rolling_boulder",
+			"4":"earth_spirit_boulder_smash",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_boulder_smash",
+			"8":"earth_spirit_boulder_smash",
+			"9":"earth_spirit_geomagnetic_grip",
+			"10":"earth_spirit_geomagnetic_grip",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_rolling_boulder",
+			"13":"earth_spirit_rolling_boulder",
+			"14":"earth_spirit_rolling_boulder",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"A great nuke that also helps you either position enemy heroes, or chain a silence during your ult. If you feel that the damage isn't needed in your team comp then feel free to max Magnetic Grip first.",
+				"earth_spirit_rolling_boulder":"A decent slow that is more useful in chasing down enemies and lining up your Boulder Smash.
+The easiest combo for this is stun, roll, then smash them into your team or under tower.",
+				"earth_spirit_geomagnetic_grip":"A useful stun that should be maxed first if you don't need the burst damage in boulder smash.",
+				"earth_spirit_stone_caller":"Don't just spam these. Use deliberately right before a spell to line it up, if you keep throwing them down the enemy can position around them.
+Keep your stack as full as possible whenever you plan to ult for an easy re-magnetize.",
+				"earth_spirit_magnetize":"Feel free to use this your ult for solo ganks(if needed), but where it really shines is a teamfight.
+Your goal in every teamfight is to magnetize everyone. Then silence and stun.(The status effects from Boulder Smash and Rolling Boulder affect all magnetized units)",
+				"attribute_bonus":"Built in GG branches.
+"
+		}
+	}
+}

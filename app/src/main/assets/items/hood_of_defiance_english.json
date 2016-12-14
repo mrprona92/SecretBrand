@@ -1,0 +1,21 @@
+{
+  "attrib": "+ 9 HP Regeneration<br/>+ 30% Spell Resistance",
+  "cd": false,
+  "components": [
+    "ring_of_health",
+    "cloak",
+    "ring_of_regen",
+    "ring_of_regen"
+  ],
+  "qual": "epic",
+  "notes": "Stacks multiplicatively with non-item sources of spell resistance.",
+  "desc": "Multiple instances of spell resistance from items do not stack.",
+  "dname": "Hood of Defiance",
+  "dotaId": "hood_of_defiance",
+  "mc": false,
+  "img": "hood_of_defiance_lg.png",
+  "lore": "A furred, magic resistant headpiece that is feared by wizards.",
+  "id": 131,
+  "created": true,
+  "cost": 2125
+}

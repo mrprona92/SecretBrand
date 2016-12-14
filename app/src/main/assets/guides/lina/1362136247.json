@@ -1,0 +1,100 @@
+{
+	"Hero":"lina",
+	"Title":"Lina Mid Ganker",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"phase_boots",
+				"bottle",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"blink",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"sheepstick",
+				"orchid"
+			],
+			"Semi-carry in late":
+			[
+				"greater_crit",
+				"desolator",
+				"skadi",
+				"black_king_bar"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Lina's stun can be hard to land versus a wary opponent. You need to surprise your enemies by blinking into stun range. Also, it helps with general positioning, chasing and escaping. Great synergy with ghost scepter. 12-13m mark.",
+				"magic_wand":"One of the most cost-efficient items in the game.",
+				"ghost":"Very cost efficient item, even just by stats. Amazing active to avoid being attacked, gets even more amazing in synergy with Blink. Builds into Ethereal Blade. 30m mark.",
+				"bottle":"This is your bread and butter early game. Ask your support to ward one rune, so you can refill your charges. In pub games, sometimes you are gonna have to ward runes yourself.",
+				"phase_boots":"With Arcanes nerf and Blink no longer using mana, phase is a good boots alternative, if someone else on your team has Arcanes. It synergises with your passive and provides more mobility.",
+				"null_talisman":"This item is very cost effective and synergises great with Lina's attack speed passive.  Great for harrassing with Lina's amazing 670 attack range. Start with this and ask your support to pull a couple of tangoes.",
+				"sheepstick":"When enemies have overfarmed carry(ies), this is the best answer. Very good stats and mana regen too.",
+				"orchid":"Amazing item for an int semi-carry, a lot dps and damaging silence. If you don't really need a hard disable, this is more efficient than Hex.",
+				"ultimate_scepter":"A lot of stats. A lot of HP/Mana. Amazing Ultimate upgrade to kill BKBs. What else do you need? 25 min mark.",
+				"black_king_bar":"In case you're getting shut down by disables, and you really need to carry.",
+				"bloodstone":"Be tanky and have amazing mana regen? What's not to like. Also, dying isn't as bad with this. ",
+				"greater_crit":"When you feel like being just an amazing nuker isn't enough, go for this. You have up to 255 free bonus attack speed, so add some damage to it.",
+				"ethereal_blade":"With this you can one-shot non-tanky enemies even in late game. The magic damage amplification gets applied before the Ether Blast itself. You deal 300-400 damage from the blade and 1312 with ultimate. That usually equals dead enemy. Slow and extra agility are nice bonuses.",
+				"arcane_boots":"You are a nuker. That means you will need a lot of mana, and nothing helps better with that early game than Arcane Boots. You will also help your teammates."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lina_dragon_slave",
+			"2":"lina_light_strike_array",
+			"3":"lina_dragon_slave",
+			"4":"lina_fiery_soul",
+			"5":"lina_dragon_slave",
+			"6":"lina_laguna_blade",
+			"7":"lina_dragon_slave",
+			"8":"lina_fiery_soul",
+			"9":"lina_fiery_soul",
+			"10":"lina_fiery_soul",
+			"11":"lina_laguna_blade",
+			"12":"lina_light_strike_array",
+			"13":"lina_light_strike_array",
+			"14":"lina_light_strike_array",
+			"15":"attribute_bonus",
+			"16":"lina_laguna_blade",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"lina_dragon_slave":"Looks easy on paper, but there's a trick to this ability. You can only cast it at 800 range, but it travels considerably farther - 1275. You can score amazing long range finishes with this once you master it.",
+				"lina_light_strike_array":"Get into position and stun. Predict enemies' movement. Learn the animation and delay timing. Very hard to master but this is the difference between good and bad Lina.",
+				"lina_fiery_soul":"Simply amazing passive. Very important to take 1 point of this early game. In my current build with phase boots, I max this second after Q.",
+				"lina_laguna_blade":"Your signature ability. Always try to check the HP levels of enemies before using. You deal pure damage throught magic immunity with Aghs, so don't mind magic resistance and BKBs."
+		}
+	}
+}

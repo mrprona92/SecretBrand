@@ -1,0 +1,112 @@
+{
+	"Hero":"tusk",
+	"Title":"Support/Utility Tusk",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"clarity",
+				"flask",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"sobi_mask",
+				"boots",
+				"magic_stick"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"bracer",
+				"arcane_boots",
+				"urn_of_shadows",
+				"orb_of_venom"
+			],
+			"luxury":
+			[
+				"medallion_of_courage",
+				"cyclone",
+				"force_staff",
+				"mekansm",
+				"ancient_janggo",
+				"vladmir",
+				"rod_of_atos",
+				"necronomicon",
+				"blade_mail",
+				"pipe",
+				"blink",
+				"sheepstick"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Blink is sort of a cocky item, and 9 times out of 10 I would just get Forcestaff instead. But sometimes you need the extra finesse of a blink dagger. ",
+				"branches":"Buying one of these insures a good game!",
+				"sobi_mask":"Pick up an early Sobi mask for the regen you will need. You will turn this into an urn or a medallion later.",
+				"boots":"Every hero needs boots, especially tusk.",
+				"magic_stick":"Tusk is on the front lines, so I would consider magic stick to be invaluable. The charges will save your life. ",
+				"magic_wand":"Wand is probably the best possible item on Tusk in the early game. It will save you in fights, and people underestimate just how many spells even a support Tusk can absorb. ",
+				"clarity":"You will run out of mana after 1-2 Snowball + Ice shard combos. I usually get at least 1 clarity. ",
+				"flask":"Tusk is on the front lines, even as a support. This is why I suggest both tango and salve. ",
+				"ward_observer":"If someone else buys wards, get something else. ",
+				"tango":"Tusk is on the front lines, even as a support. This is why I suggest both tango and salve. ",
+				"courier":"Obviously if your team already has a chick, just get more branches or perhaps work a stout shield or a gauntlet into your starting items.",
+				"bracer":"This gives you just enough stats to survive the initial outpouring of enemy spells, and can be made into Drums later. ",
+				"mekansm":"Tusk is a great Mekansm holder in the same way Clockwerk might be. He benefits greatly from the armor and the tankiness, and he will always be with his allies during fights due to the nature of the hero. ",
+				"vladmir":"Vlads is great when you feel your team needs the extra push. Tusk benefits from the lifesteal too, being melee. ",
+				"pipe":"Pipe is great on initiatiors like Tusk, as he will always be readily available to buff his team. If your team needs this item and no one else can get it, you should think of farming for it. ",
+				"urn_of_shadows":"Urn is amazing. You will be involved in a lot of ganks as Tusk, so you will get charges. After diving/teamfights, use Urn to allow your push to continue. Don't forget it can be used offensively too!",
+				"sheepstick":"Hex is hex, when the game goes super late, any disable is invaluable. ",
+				"cyclone":"I LOVE THIS ITEM ON TUSK. It gives Tusk everything I think he needs in the support role. Mobility, survivability, and mana regen. The movespeed lets your snowball go faster and the disable can be used to turn 3v3 snowball situations in your favor. ",
+				"force_staff":"Forcestaff is good on all support heroes, but it can be even niftier with Tusk. It lets you get out of sticky situations you may have accidently snowballed into. ",
+				"necronomicon":"Tusk can snowball his necro minions to the front lines, and he benefits from the stats. If your team needs the push, and you have the farm, Necro can be very powerful. ",
+				"blade_mail":"Blademail is more situational than one might think. Usually, when you bring your teammates into battle, they will be more dangerous than yourself, and thus focused more than you. If you notice your opponents like to kill you quickly, however, blademail could be useful in getting some extra value.",
+				"arcane_boots":"In a support role, Tusk is relying almost exclusively on his spells. His mana pool is small, so arcanes both increase it and provide useful utility for the entire team. ",
+				"orb_of_venom":"This item is perhaps more \"Situational\", but I have started getting it almost every time I play Tusk. Sometimes the slow is all you need to finish off a running hero, and since you are playing support, any utility you give is great. ",
+				"ancient_janggo":"If you have the money, make those bracers into drums. ",
+				"medallion_of_courage":"I don't consider Medallion core, but it can be good. I usually only get it against certain armor weak heroes (Alchemist, Doom), or when my team is looking to take an early Roshan.",
+				"rod_of_atos":"Atos gives Tusk some survivability and some extra utility. aui_2000 approved!"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"tusk_ice_shards",
+			"2":"tusk_snowball",
+			"3":"tusk_ice_shards",
+			"4":"tusk_snowball",
+			"5":"tusk_ice_shards",
+			"6":"tusk_walrus_punch",
+			"7":"tusk_ice_shards",
+			"8":"tusk_snowball",
+			"9":"tusk_snowball",
+			"10":"tusk_frozen_sigil",
+			"11":"tusk_walrus_punch",
+			"12":"tusk_frozen_sigil",
+			"13":"tusk_frozen_sigil",
+			"14":"tusk_frozen_sigil",
+			"15":"attribute_bonus",
+			"16":"tusk_walrus_punch",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

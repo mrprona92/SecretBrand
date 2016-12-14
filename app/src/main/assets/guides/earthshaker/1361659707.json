@@ -1,0 +1,114 @@
+{
+	"Hero":"earthshaker",
+	"Title":"6.82 - Standard Earthshaker (Lane) Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"branches",
+				"branches",
+				"branches",
+				"tango",
+				"clarity",
+				"clarity",
+				"clarity",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"magic_wand"
+			],
+			"coreItems":
+			[
+				"arcane_boots",
+				"blink",
+				"ultimate_scepter"
+			],
+			"Utility Items":
+			[
+				"flying_courier",
+				"ward_observer",
+				"ward_sentry",
+				"dust",
+				"gem",
+				"smoke_of_deceit"
+			],
+			"Situational Items":
+			[
+				"bottle"
+			],
+			"Extension Items":
+			[
+				"shivas_guard",
+				"refresher",
+				"sheepstick"
+			],
+			"Last updated: 15/10/14":
+			[
+			],
+			"Contact - @TorteDeLini":
+			[
+			]
+		},
+		"ItemTooltips":
+		{
+				"clarity":"You'll be roaming and ganking a lot. Clarity is to keep you rolling.",
+				"bottle":"ROAM ROAM ROAM! Earthshaker is an insane stunner and can really screw the middle lane. But you need to keep up with mana costs. Grabbing Bottle and getting the rune every two minutes will keep you in shape and crushing! But you need to be efficient!",
+				"ward_observer":"As a support, be sure to buy either a Courier or Wards.",
+				"courier":"As a support, be sure to buy either a Courier or Wards.",
+				"bracer":"For added survivability if you just can't seem to stay alive.",
+				"urn_of_shadows":"Survivability and the extra mana. Getting Earthshaker to blink dagger is harder than one might think.",
+				"ultimate_scepter":"This is a natural next item you want as it gives more oomph to Earthshaker's ultimate at the same cost.",
+				"refresher":"Refresher's Orb let's you dish out all your stuns and damage all over again. Be sure to use all your abilities before refreshing and then use them all again!",
+				"shivas_guard":"After stunning them all, you still want them nearby for your other stuns. Shiva's Guard keeps Earthshaker in battle thanks to armour and foes nearby to take the rest of his damage."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earthshaker_fissure",
+			"2":"earthshaker_aftershock",
+			"3":"earthshaker_fissure",
+			"4":"earthshaker_aftershock",
+			"5":"earthshaker_fissure",
+			"6":"earthshaker_echo_slam",
+			"7":"earthshaker_fissure",
+			"8":"earthshaker_enchant_totem",
+			"9":"earthshaker_aftershock",
+			"10":"earthshaker_aftershock",
+			"11":"earthshaker_echo_slam",
+			"12":"earthshaker_enchant_totem",
+			"13":"earthshaker_enchant_totem",
+			"14":"earthshaker_enchant_totem",
+			"15":"attribute_bonus",
+			"16":"earthshaker_echo_slam",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earthshaker_fissure":"This is a great way to block exits, separate foes to make team-fights easier or to catch a fleeing opponent that no one can quite reach. Be creative with your Fissure.",
+				"earthshaker_enchant_totem":"Follow up all Fissures and Echo Slam's with this ability. Since you got Aftershock at level 2, Enchant Totem should also provide a small stun, long enough to keep the opponent immobilized.",
+				"earthshaker_aftershock":"Any ability you do will cause your opponent to be further stunned near you. In addition, the extra damage is a nice touch especially towards the mid-game as you are casting three other abilities.",
+				"earthshaker_echo_slam":"The more units there are, the more damage it does. So be sure to catch it when all illusions or summoned units are nearby."
+		}
+	}
+}

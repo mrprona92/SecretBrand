@@ -1,0 +1,48 @@
+{"AbilityBuild": {
+    "AbilityOrder": {
+        "1": "juggernaut_blade_fury",
+        "2": "attribute_bonus",
+        "3": "juggernaut_blade_fury",
+        "4": "attribute_bonus",
+        "5": "juggernaut_healing_ward",
+        "6": "juggernaut_omni_slash",
+        "7": "juggernaut_blade_fury",
+        "8": "juggernaut_blade_dance",
+        "9": "juggernaut_blade_fury",
+        "10": "juggernaut_blade_dance",
+        "11": "juggernaut_omni_slash",
+        "12": "juggernaut_healing_ward",
+        "13": "juggernaut_blade_dance",
+        "14": "juggernaut_healing_ward",
+        "15": "juggernaut_blade_dance",
+        "16": "juggernaut_omni_slash",
+        "17": "juggernaut_healing_ward",
+        "18": "attribute_bonus",
+        "19": "attribute_bonus",
+        "20": "attribute_bonus",
+        "21": "attribute_bonus",
+        "22": "attribute_bonus",
+        "23": "attribute_bonus",
+        "24": "attribute_bonus",
+        "25": "attribute_bonus"
+    }
+}, "Hero": "juggernaut", "ItemBuild": {
+    "ItemTooltips": {
+        "butterfly": "Просто лучший арт для ловкоча",
+        "abyssal_blade": "Стан сквозь иммун к магии и море урона",
+        "heart": "Очень много HP+ реген со скоростью света",
+        "basher": "Баши никогда не подведут +40 урона",
+        "ring_of_aquila": "Очень  полезный арт на ранних стадиях игры так как дает много всего.9 урона,броня,реген маны,хороший буст ко всем атрибутам",
+        "sange_and_yasha": "Дополняем Яшу Сашей,ведь они вместе могучая сила. Урон,AS,MS и шанс искалечить",
+        "yasha": "Добавим еще скорости ,урона и скорости атаки которая нам важна для ульты ",
+        "ultimate_scepter": "Добавляет нам плотности и улучшет ульт",
+        "orb_of_venom": "Так как у Джаги нет ни одного дизейбла чтобы догонять противника берем этот полезный для нас артефакт",
+        "phase_boots": "Класика для джаги ,хороший MS и 24 дамага которые заметно повлияют на статы"
+    },
+    "Items": {
+        "Начальные предметы": ["circlet", "tango", "quelling_blade", "branches", "branches", "slippers"],
+        "Early game": ["ring_of_aquila", "orb_of_venom", "phase_boots", "yasha"],
+        "Mid Game": ["basher", "ultimate_scepter", "sange_and_yasha"],
+        "Late game": ["butterfly", "abyssal_blade", "heart"]
+    }
+}, "Title": "Jeb.Juggernaut"}

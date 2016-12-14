@@ -1,0 +1,82 @@
+{
+	"Hero":"dragon_knight",
+	"Title":"Dragon Knight Alt-Tab Guide",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"branches",
+				"branches",
+				"branches",
+				"flask",
+				"tango",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"quelling_blade"
+			],
+			"coreItems":
+			[
+				"power_treads",
+				"black_king_bar",
+				"helm_of_the_dominator"
+			],
+			"Extension Items":
+			[
+				"greater_crit",
+				"hyperstone",
+				"satanic",
+				"mjollnir",
+				"assault"
+			]
+		},
+		"ItemTooltips":
+		{
+				"helm_of_the_dominator":"If you get a Helm of the Dominator, use a creep to stack ancients."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"dragon_knight_dragon_tail",
+			"2":"dragon_knight_dragon_blood",
+			"3":"dragon_knight_breathe_fire",
+			"4":"dragon_knight_breathe_fire",
+			"5":"dragon_knight_breathe_fire",
+			"6":"dragon_knight_elder_dragon_form",
+			"7":"dragon_knight_breathe_fire",
+			"8":"dragon_knight_dragon_blood",
+			"9":"dragon_knight_dragon_blood",
+			"10":"dragon_knight_dragon_blood",
+			"11":"dragon_knight_dragon_tail",
+			"12":"dragon_knight_dragon_tail",
+			"13":"dragon_knight_dragon_tail",
+			"14":"attribute_bonus",
+			"15":"dragon_knight_elder_dragon_form",
+			"16":"dragon_knight_elder_dragon_form",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"dragon_knight_elder_dragon_form":"Level 1 of Elder Dragon Form is often better then level 2, since it deals damage to towers.
+Only get the second level sooner if you need to counter-push or farm a big stack of ancients."
+		}
+	}
+}

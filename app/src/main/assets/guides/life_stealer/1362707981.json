@@ -1,0 +1,89 @@
+{
+	"Hero":"life_stealer",
+	"Title":"LifeStealer Jungler (Bidu)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"quelling_blade",
+				"stout_shield"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"armlet"
+			],
+			"coreItems":
+			[
+				"hand_of_midas",
+				"phase_boots",
+				"armlet",
+				"maelstrom",
+				"desolator",
+				"abyssal_blade"
+			],
+			"Itens Final-1":
+			[
+				"armlet",
+				"phase_boots",
+				"desolator",
+				"abyssal_blade",
+				"mjollnir",
+				"assault"
+			],
+			"Itens Final-2":
+			[
+				"travel_boots",
+				"desolator",
+				"abyssal_blade",
+				"mjollnir",
+				"assault",
+				"heart"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"life_stealer_feast",
+			"2":"life_stealer_rage",
+			"3":"life_stealer_feast",
+			"4":"life_stealer_open_wounds",
+			"5":"life_stealer_feast",
+			"6":"life_stealer_infest",
+			"7":"life_stealer_rage",
+			"8":"life_stealer_open_wounds",
+			"9":"life_stealer_rage",
+			"10":"life_stealer_open_wounds",
+			"11":"life_stealer_infest",
+			"12":"life_stealer_feast",
+			"13":"life_stealer_rage",
+			"14":"life_stealer_open_wounds",
+			"15":"attribute_bonus",
+			"16":"life_stealer_infest",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"life_stealer_consume":"Builds go jungler"
+		}
+	}
+}

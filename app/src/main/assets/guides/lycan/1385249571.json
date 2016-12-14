@@ -1,0 +1,84 @@
+{
+	"Hero":"lycan",
+	"Title":"Пукано рватель",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"quelling_blade",
+				"stout_shield",
+				"tango"
+			],
+			"для дальнейшей игры до 30  минуты":
+			[
+				"vladmir",
+				"phase_boots",
+				"maelstrom",
+				"basher",
+				"hyperstone"
+			],
+			"основные предметы":
+			[
+				"abyssal_blade",
+				"heart"
+			],
+			"по обстоятельству ":
+			[
+				"mjollnir",
+				"black_king_bar",
+				"satanic",
+				"heavens_halberd",
+				"monkey_king_bar"
+			],
+			"для пушера":
+			[
+				"necronomicon",
+				"assault",
+				"desolator"
+			]
+		},
+		"ItemTooltips":
+		{
+				"vladmir":"помогает устоять на лайне или в лесу",
+				"greater_crit":"насчет диадалуса с ним неплохо сносит керри"
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"lycan_summon_wolves",
+			"2":"lycan_feral_impulse",
+			"3":"lycan_summon_wolves",
+			"4":"lycan_feral_impulse",
+			"5":"lycan_summon_wolves",
+			"6":"lycan_shapeshift",
+			"7":"lycan_feral_impulse",
+			"8":"lycan_summon_wolves",
+			"9":"lycan_feral_impulse",
+			"10":"lycan_howl",
+			"11":"lycan_shapeshift",
+			"12":"lycan_howl",
+			"13":"lycan_howl",
+			"14":"lycan_howl",
+			"15":"attribute_bonus",
+			"16":"lycan_shapeshift",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		}
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"Hero":"doom_bringer",
+	"Title":"Doom of the Jungle",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"flask",
+				"gloves"
+			],
+			"earlyGame":
+			[
+				"hand_of_midas",
+				"boots",
+				"ring_of_aquila"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"radiance",
+				"basher"
+			],
+			"Late Game":
+			[
+				"assault",
+				"heart"
+			],
+			"luxury":
+			[
+				"abyssal_blade",
+				"mjollnir",
+				"sange_and_yasha",
+				"satanic",
+				"rapier"
+			],
+			"Caster / Semi-Carry":
+			[
+				"refresher",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"gloves":"To be built into a Hand of Midas",
+				"boots":"Boots of Speed. Everyone needs them.",
+				"flask":"Good for healing after you devour the big creep camp at level 1.",
+				"phase_boots":"As you don't have a reliable stun or slow, this is great for escaping if you are being hunted, and good for catching up to fleeing heroes.",
+				"hand_of_midas":"This item enhances your attack speed, and makes your GPM go out of control. Use whenever off cooldown.",
+				"ultimate_scepter":"Makes your DOOM extremely potent.",
+				"refresher":"DOOM two heroes at once!",
+				"assault":"Attack Speed and Armour. An all-round useful item , seeing that doom has little to no armour.",
+				"heart":"Gives you a great amount of strength, which is your primary stat, and the health and regeneration greatly increases your survivability.",
+				"rapier":"If you are doing a GODLIKE... and you can survive.",
+				"radiance":"The Core item for Doom-Bringer. Yes, it helps your farm, but the damage addition and the burn damage allows you to start really participating in fights.",
+				"basher":"Allows your attacks to have a chance to stun, which is great, and can be built into a Abyssal Blade.",
+				"sange_and_yasha":"Good for stats and movement speed. The Slow proc is helpful for getting those pickoff kills.",
+				"satanic":"Lifesteal galore! Great for turning around fights when you activate it.",
+				"mjollnir":"More Attack Speed, and the Chain Lightning and Shield increases your teamfight.",
+				"abyssal_blade":"Build from your skull basher. Gives you a target-able stun, and insane amounts of damage, and a good amount of Strength",
+				"ring_of_aquila":"Not really required , but great to get some mana regeneration and armour."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"doom_bringer_devour",
+			"2":"doom_bringer_scorched_earth",
+			"3":"doom_bringer_devour",
+			"4":"doom_bringer_scorched_earth",
+			"5":"doom_bringer_devour",
+			"6":"doom_bringer_doom",
+			"7":"doom_bringer_devour",
+			"8":"doom_bringer_scorched_earth",
+			"9":"doom_bringer_lvl_death",
+			"10":"doom_bringer_scorched_earth",
+			"11":"doom_bringer_doom",
+			"12":"doom_bringer_lvl_death",
+			"13":"doom_bringer_lvl_death",
+			"14":"doom_bringer_lvl_death",
+			"15":"attribute_bonus",
+			"16":"doom_bringer_doom",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"doom_bringer_devour":"Great for your farm, and the abilities from the creeps are helpful. Don't activate any of them to farm, as the spells are mana-intensive.",
+				"doom_bringer_scorched_earth":"Good for farming and regeneration, and catching up to those pesky heroes. Also useful for escape.",
+				"doom_bringer_lvl_death":"Good for timing ganks, but make sure they meet the level criteria before moving in, and get your team in the lane to help.",
+				"doom_bringer_doom":"A counter to all heroes, I recommend using to disable heroes that have invisibility, or team-fight heroes so they cannot cast those troublesome spells.",
+				"attribute_bonus":"Stats. You don't have anything else to level ;)"
+		}
+	}
+}

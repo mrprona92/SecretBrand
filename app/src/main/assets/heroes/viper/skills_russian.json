@@ -1,0 +1,57 @@
+[
+    {
+        "dname": "Poison Attack",
+        "affects": "Способность: <b><font color=\"#ffffff\">автоматическая, направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Усиливает яд Viper, добавляя к его обычной атаке периодический урон и уменьшение скорости атаки и передвижения врага. <br/>Poison Attack — уникальный модификатор атаки, он не будет сочетаться с другими уникальными модификаторами атаки.",
+        "notes": "Повторное применение способности не увеличит замедление или урон, но обновит время действия.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2/2/2/2</font></b><br/>УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">10/16/22/28</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/20/20/20<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0",
+        "lore": "Врожденное ядовитое дыхание Netherdrake быстро высасывает жизненные силы жертвы.",
+        "hurl": "Viper",
+        "name": "viper_poison_attack",
+        "youtube":"FWLMTu44daQ",
+        "id": 0
+    },
+    {
+        "dname": "Nethertoxin",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Nethertoxin позволяет Viper наносить дополнительный урон в зависимости от утраченного врагами здоровья. Дополнительный урон удваивается при отсутствии у врага очередных 20% здоровья. Nethertoxin наносит половину урона крипам и постройкам.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ДОПОЛНИТЕЛЬНЫЙ ОСНОВНОЙ УРОН: <b><font color=\"#ffffff\">2.5/5/7.5/10</font></b><br/>УРОН НЕ ПО ГЕРОЯМ: <b><font color=\"#ffffff\">50%/50%/50%/50%</font></b><br/>МАКС. ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">40/80/120/160</font></b>",
+        "cmb": "",
+        "lore": "Ядовитые атаки Viper с каждым разом все сильнее и сильнее заражают раны, приводя к гибели любого живого существа.",
+        "hurl": "Viper",
+        "name": "viper_nethertoxin",
+        "youtube":"OH2fLJO993U",
+        "id": 1
+    },
+    {
+        "dname": "Corrosive Skin",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Viper источает клейкий яд, который замедляет врага и наносит ему урон, если тот наносит урон Viper и находится на расстоянии до 1400 единиц от него. Кроме того, Viper получает дополнительную сопротивляемость к заклинаниям.",
+        "notes": "Перемножается с другими источниками сопротивления магическому урону.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">4</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">10/15/20/25</font></b><br/>СОПРОТИВЛЕНИЕ МАГИИ: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">10/15/20/25</font></b><br/>МАКС. ДАЛЬНОСТЬ ДЕЙСТВИЯ: <b><font color=\"#ffffff\">1400</font></b>",
+        "cmb": "",
+        "lore": "Щиты и мечи, ржавеющие прямо в руках бойцов — обычная ситуация для тех, кто посмеет напасть на Netherdrake.",
+        "name": "viper_corrosive_skin",
+        "youtube":"RGDVz0J6g2g",
+        "id": 2
+    },
+    {
+        "dname": "Viper Strike",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Viper замедляет скорость атаки и передвижения выбранного врага, при этом нанося ему периодический урон. Скорость врага постепенно восстанавливается в течение действия яда.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Замедляет врагов, невосприимчивых к заклинаниям.<br/>Враг под воздействием этой способности может быть добит союзниками, если уровень его здоровья опустится ниже 25%.",
+        "dmg": "",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">5.1/5.1/5.1</font></b><br/>УРОН В СЕКУНДУ: <b><font color=\"#ffffff\">60/100/145</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">40%/60%/80%</font></b><br/>ЗАМЕДЛЕНИЕ АТАКИ: <b><font color=\"#ffffff\">40/60/80</font></b><br/><font color=\"#6fe871\">РАСХОД МАНЫ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">125/125/125</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">12/12/12</font></b><br/><font color=\"#6fe871\">ДАЛЬНОСТЬ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 125/175/250<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 70/50/30",
+        "lore": "Самый опасный из своих ядов Viper использовал для того, чтобы убить призвавшего его мага. Этот яд мгновенно распространяется по венам любого, кто решится противостоять ему.",
+        "hurl": "Viper",
+        "name": "viper_viper_strike",
+        "youtube":"109y0icISWw",
+        "id": 3
+    }
+]

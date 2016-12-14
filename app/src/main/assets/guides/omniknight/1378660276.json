@@ -1,0 +1,100 @@
+{
+	"Hero":"omniknight",
+	"Title":"Русский Carry Omniknight",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"ring_of_regen",
+				"sobi_mask"
+			],
+			"earlyGame":
+			[
+				"soul_ring",
+				"arcane_boots",
+				"lifesteal"
+			],
+			"coreItems":
+			[
+				"basher",
+				"sange_and_yasha",
+				"radiance",
+				"vladmir"
+			],
+			"Собираем дальше":
+			[
+				"abyssal_blade",
+				"greater_crit",
+				"heart",
+				"travel_boots"
+			],
+			"Рандом":
+			[
+				"soul_ring"
+			]
+		},
+		"ItemTooltips":
+		{
+				"lifesteal":"Пригодится позже но закупаем сразу после ARCANE BOOTS !",
+				"ring_of_regen":"Для Cоул ринг.",
+				"sobi_mask":"Жди у лавки на лайне 25 сек и покупай маску !",
+				"travel_boots":"В конце меняем вместо Арканов !",
+				"vladmir":"Нужная вещь но на 25 можете заменить на Тараску.",
+				"heart":"По сути отличная вещь но собираем последней заменяя на владимирку !",
+				"radiance":"Радианс\" нужен лишь для фарма.",
+				"greater_crit":"Криты, криты, идут криты как будто ты врубил читы.",
+				"basher":"Его собирайте первым из основных !",
+				"sange_and_yasha":"Для Омника этот итем полезен скорстью атаки и передвижения. Собирайте после \"Башера\".",
+				"soul_ring":"Используйте быстрей иначе потеряете хп просто т.к у вас забирают хп и дают на несколько сек использовать ману, если не использовать то мана пропадет.При рандоме закупайте сразу.",
+				"arcane_boots":"Можете уже продать SOUL RING (на ваше усмотрение)!",
+				"abyssal_blade":"Отличная вещь собирайте последним перед тараской."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"omniknight_purification",
+			"2":"omniknight_degen_aura",
+			"3":"omniknight_purification",
+			"4":"omniknight_degen_aura",
+			"5":"omniknight_purification",
+			"6":"omniknight_guardian_angel",
+			"7":"omniknight_purification",
+			"8":"omniknight_degen_aura",
+			"9":"omniknight_repel",
+			"10":"omniknight_degen_aura",
+			"11":"omniknight_guardian_angel",
+			"12":"omniknight_repel",
+			"13":"omniknight_repel",
+			"14":"omniknight_repel",
+			"15":"attribute_bonus",
+			"16":"omniknight_guardian_angel",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"omniknight_purification":"Подходим в плотную к врагу и используем на себя желательно когда у вас отнято хп или же кидаем на союзника который близко
+к врагу !",
+				"omniknight_repel":"БКБ.",
+				"omniknight_degen_aura":"Замедление.",
+				"omniknight_guardian_angel":"Неуязвимость против физических атак. Лучше врубайте 2 скил (БКБ) вдобавок !",
+				"attribute_bonus":"Прокач статов, думаю сами разберетесь."
+		}
+	}
+}

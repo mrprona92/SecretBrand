@@ -1,0 +1,124 @@
+{
+	"Hero":"crystal_maiden",
+	"Title":"Purge's guide to Crystal Maiden",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"courier",
+				"ward_observer",
+				"tango",
+				"flask",
+				"clarity"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"ward_observer",
+				"magic_wand",
+				"ward_sentry",
+				"tpscroll",
+				"bracer",
+				"flying_courier"
+			],
+			"coreItems":
+			[
+				"ward_observer",
+				"ward_sentry",
+				"tranquil_boots",
+				"ancient_janggo",
+				"force_staff",
+				"tpscroll"
+			],
+			"luxury":
+			[
+				"urn_of_shadows",
+				"ghost",
+				"heavens_halberd",
+				"gem",
+				"blink",
+				"sheepstick",
+				"black_king_bar",
+				"ultimate_scepter"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"If you have an over-abundance of farm, you can purchase a blink dagger to enhance your ganking and teamfighting.",
+				"gem":"Sometimes your team will need a gem purchased, and it's often better for you to buy than your carry, if you can afford it.",
+				"magic_wand":"Magic Wand is generally the best item that any support hero can purchase(with the exception of maybe Urn). It gives you about 60 hp, and with 3 wand charges it gives you more hp than a bracer. Always get a relatively early wand or magic stick as a support hero.",
+				"ghost":"Ghost scepter will often times make your previously squishy support very hard to kill. If you are ahead and you can afford a Ghost Scepter, it will make it very tough for the enemy's carries to snowball back from killing you.",
+				"clarity":"If you have spare money, a clarity potion is often times better to have over an ironwood branch since 100 mana can often times be enough after a gank to get your mana high enough for an extra nuke.",
+				"flask":"The salve is more often given to your carry who is tanking creep waves, but you can use it to heal up after a gank or to stay alive.",
+				"ward_observer":"Not all teams purchase Observer Wards at the start of the game, but it really increases your Mid heroes' ability to win his lane, as well as your vision of enemy team movement!
+
+It is your job to buy wards for the rest of the game!",
+				"ward_sentry":"If needed, purchase sentries to protect yourself against Nyx Asassins, Bounty Hunter's, or Rikimaru's. Keeping detection for ganks is super crucial.",
+				"tango":"I think it's safest for support heroes to buy both a Tango and a Salve, but if you're careful you can get away with only a single tango.",
+				"courier":"Every team needs a courier, and it's generally best if you just purchase it. Besides, what better way to show off your cool courier?",
+				"tpscroll":"Carrying a tp scroll as a support hero and keeping it off cooldown to support tp allies is very crucial in case they get dived. Support heroes often have really good fight contribution early, so those skills need to be available for use.",
+				"phase_boots":"I recommend Phase boots on Crystal Maiden against chasing carries with low disable like Lycan, or Anti Mage, or if you are quite ahead and can sacrifice a bit of hp for positioning.",
+				"power_treads":"I like treads when I'm really behind and need as much hp as possible, or you feel like tread switching to make your mana go farther.",
+				"bracer":"Support heroes often want to spend their money as soon as they have enough for their next item, because an extra 100 hp can sometimes save you, which is 250 less gold for the enemy carry. This is a SUPER important concept as supports are more likely to die than any other hero.",
+				"flying_courier":"It's usually your job to upgrade the courier into a flying courier with your first 220 gold that you get upon going to lane.",
+				"urn_of_shadows":"Every team should have an urn because it allows your team to heal after teamfights, and gives you more offensive potential during ganks.",
+				"sheepstick":"If you have ridiculous amounts of money a sheepstick is always a good purchase.",
+				"force_staff":"Force staff is a Core item on nearly every support hero because of its ability to save allies and position yourself better for teamfights.
+
+Once someone grabs a force staff, it becomes much harder to die.",
+				"ultimate_scepter":"Aghs can situationally be a nice pickup if you are overly rich since it will make your ultimate do more damage.",
+				"black_king_bar":"If you have too much money a BkB is a good purchase so that you can fully channel your ultimate.",
+				"ancient_janggo":"Drum is a natural upgrade from Bracer that makes Crystal Maiden's abysmal movement speed a bit better, and helps buff your allies movement and attack speed during fights.",
+				"heavens_halberd":"Heaven's Halberd is a great support pickup as it makes you tanky and hard to kill, and you EASILY have the mana pool to afford the active, which can be used as a Ghose Scepter of sorts.",
+				"tranquil_boots":"Crystal Maiden's Boot upgrades are quite situational. If you want hp regen and better mobility between the lanes, I recommend tranquil boots. Phase or treads are fine alternatives as well."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"crystal_maiden_crystal_nova",
+			"2":"crystal_maiden_frostbite",
+			"3":"crystal_maiden_brilliance_aura",
+			"4":"crystal_maiden_crystal_nova",
+			"5":"crystal_maiden_frostbite",
+			"6":"crystal_maiden_crystal_nova",
+			"7":"crystal_maiden_frostbite",
+			"8":"crystal_maiden_crystal_nova",
+			"9":"crystal_maiden_frostbite",
+			"10":"crystal_maiden_brilliance_aura",
+			"11":"crystal_maiden_freezing_field",
+			"12":"crystal_maiden_freezing_field",
+			"13":"crystal_maiden_brilliance_aura",
+			"14":"crystal_maiden_brilliance_aura",
+			"15":"attribute_bonus",
+			"16":"crystal_maiden_freezing_field",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"crystal_maiden_crystal_nova":"Crystal Nova is Crystal Maiden's best way to initiate ganks, as the range on it is farther than Frostbite. It should also be used in teamfights to apply a large slow to all of your enemies. It is generally leveled in preference to Frostbite because the damage is easier to apply.",
+				"crystal_maiden_frostbite":"Frostbite is your skill with a ministun that can be used effectively against dps heroes that require movement and attacking. It does NOT stun, as your opponents can use Manta or BkB to remove it. It DOES prevent blink, so if you are playing against a QoP or Anti Mage, I like maxing it before Nova.",
+				"crystal_maiden_brilliance_aura":"Arcane Aura provides global mana regen to your allied heroes which gives them a nice boost in the early game. I do not recommend getting more than 2 levels of this in the early game, but if you're extremely active in ganks, pick up levels earlier.
+
+",
+				"crystal_maiden_freezing_field":"Your ultimate CAN be gotten earlier if you feel like you are winning your lane and can afford the mana cost. It now slows attack speed by a massive amount, so don't be afraid to use it in teamfights or juke spots to stay alive!",
+				"attribute_bonus":"Crystal Maiden often times has a hard time staying alive, so grabbing stat levels over Arcane Aura is sometimes a good decision. You can max out Arcane instead of getting stats to help your allies, but you will be more squishy as a result."
+		}
+	}
+}

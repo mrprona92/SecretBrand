@@ -1,0 +1,41 @@
+{
+	"author":"Valve",
+	"hero":"npc_dota_hero_troll_warlord",
+	"Title":"Recommended Items for Troll Warlord",
+	
+	"Items":
+	{
+		"startingItems":[
+			"tango",
+			"flask",
+			"clarity",
+			"branches",
+			"branches",
+			"ring_of_protection"
+		],
+		
+		"earlyGame":[
+			"magic_stick",
+			"boots",
+			"ring_of_aquila"
+		],
+		
+		"coreItems":[
+			"magic_wand",
+			"phase_boots",
+			"helm_of_the_dominator",
+			"black_king_bar",
+			"tpscroll"
+		],
+		
+		"luxury":[
+			"greater_crit",
+			"butterfly",
+			"satanic",
+			"monkey_king_bar",
+			"manta",
+			"invis_sword",
+			"sange_and_yasha"
+		]
+	}
+}

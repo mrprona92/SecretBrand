@@ -1,0 +1,94 @@
+{
+	"Hero":"enchantress",
+	"Title":"[DMX] Enchantress - Woods (FR)",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"gauntlets",
+				"gauntlets",
+				"branches",
+				"branches",
+				"flask",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"magic_stick",
+				"boots"
+			],
+			"coreItems":
+			[
+				"magic_wand",
+				"urn_of_shadows",
+				"power_treads",
+				"tpscroll"
+			],
+			"Fin de partie":
+			[
+				"ultimate_scepter",
+				"shivas_guard",
+				"sheepstick",
+				"travel_boots"
+			],
+			"Situationnels":
+			[
+				"force_staff",
+				"bloodstone",
+				"orchid",
+				"assault",
+				"heart",
+				"ward_observer",
+				"ward_sentry",
+				"smoke_of_deceit",
+				"dust",
+				"gem"
+			]
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"enchantress_enchant",
+			"2":"enchantress_natures_attendants",
+			"3":"enchantress_enchant",
+			"4":"enchantress_natures_attendants",
+			"5":"enchantress_enchant",
+			"6":"enchantress_impetus",
+			"7":"enchantress_enchant",
+			"8":"enchantress_natures_attendants",
+			"9":"enchantress_natures_attendants",
+			"10":"enchantress_untouchable",
+			"11":"enchantress_impetus",
+			"12":"enchantress_untouchable",
+			"13":"enchantress_untouchable",
+			"14":"enchantress_untouchable",
+			"15":"attribute_bonus",
+			"16":"enchantress_impetus",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"enchantress_untouchable":"Ce sort vous permettra de très bien résister face aux carrys qui perdront énormément de leur efficacité en vous focusant. De plus Untouchable fait de vous le meilleur tank de Roshan possible.",
+				"enchantress_enchant":"Ce sort vous permet de wood facilement en prenant le contrôle des creeps des bois. Il vous aidera aussi à gank, en ralentissant vos adversaires et en utilisant les capacités de vos creeps sur vos adversaires.",
+				"enchantress_natures_attendants":"Au maximum ce sort vous rendra 900 points de vie, ce qui est énorme, surtout vu votre faible réserve de vie ! Nature’s Attendants vous permettra aussi d’être efficace dans les push, car vous pourrez soigner vos alliés et vos creeps.",
+				"enchantress_impetus":"Un orb effect qui décuplera la puissance de vos auto attaques. Attention cependant, chaque coup coûtera 50 de mana !"
+		}
+	}
+}

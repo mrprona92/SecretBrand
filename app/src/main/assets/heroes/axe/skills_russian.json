@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Berserker's Call",
+        "affects": "Способность: <b><font color=\"#ffffff\">ненаправленная</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Axe отвлекает ближайших вражеских юнитов, заставляя их атаковать его, а также получает бонус к броне на время действия способности.",
+        "notes": "Действует на юнитов, невосприимчивых к заклинаниям.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">0/0/0/0</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">300</font></b><br/>ДОП. БРОНЯ: <b><font color=\"#ffffff\">40</font></b><br/>ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">2/2.4/2.8/3.2</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 80/90/100/110<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 16/14/12/10",
+        "lore": "Могучий рев Могул Хана заставляет врагов вступить в заведомо проигранную схватку с ним.",
+        "hurl": "Axe",
+        "name": "axe_berserkers_call",
+        "youtube":"EYSMC12J9vw",
+        "id": 0
+    },
+    {
+        "dname": "Battle Hunger",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Приводит врага в бешенство, замедляя его и нанося ему урон, пока он не убьет кого-нибудь или действие способности не закончится. Axe получает бонус к скорости передвижения за каждого юнита под воздействием этой способности.",
+        "notes": "Эффект от этой способности можно также снять, разрушив строение.<br/>Юниты под эффектом от этой способности не могут быть добиты союзниками.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">16/24/32/40</font></b>",
+        "attrib": "ДЛИТЕЛЬНОСТЬ: <b><font color=\"#ffffff\">10</font></b><br/>ЗАМЕДЛЕНИЕ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">12%</font></b><br/>ДОП. СКОРОСТЬ: <b><font color=\"#ffffff\">12%</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 75<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 20/15/10/5",
+        "lore": "Обычные герои не могут сопротивляться ярости Могул Хана, и она калечит их, пока они не выместят ее на ком-нибудь.",
+        "hurl": "Axe",
+        "name": "axe_battle_hunger",
+        "youtube":"1Xmzu79iaX0",
+        "id": 1
+    },
+    {
+        "dname": "Counter Helix",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#71a9ea\">физический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Будучи атакован, Axe контратакует, нанося урон всем близстоящим врагам.",
+        "notes": "Срабатывает при завершении удара по Axe.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/135/170/205</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">275</font></b><br/>ШАНС КОНТРАТАКИ: <b><font color=\"#ffffff\">20%</font></b>",
+        "cmb": "<img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 0.45/0.40/0.35/0.30",
+        "lore": "Единственное пополнение, необходимое этой армии — это сам Axe.",
+        "hurl": "Axe",
+        "name": "axe_counter_helix",
+        "youtube":"vSvMgF_gAqo",
+        "id": 2
+    },
+    {
+        "dname": "Culling Blade",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>Действует на <b><font color=\"#ffffff\">вражеских существ</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Axe наносит удар по слабому месту, мгновенно убивая юнита с низким уровнем здоровья, а в ином случае нанося небольшой урон. При убийстве вражеского героя способность мгновенно восстановится, а Axe и союзники поблизости получат дополнительную скорость передвижения.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "ГРАНИЦА УБИЙСТВА: <b><font color=\"#ffffff\">250/325/400</font></b><br/>УРОН: <b><font color=\"#ffffff\">150/250/300</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ ПРИ УБИЙСТВЕ: <b><font color=\"#ffffff\">30%</font></b><br/>ДОП. СКОРОСТЬ АТАКИ ПРИ УБИЙСТВЕ: <b><font color=\"#ffffff\">30</font></b><br/>ДЛИТЕЛЬНОСТЬ УСКОРЕНИЯ: <b><font color=\"#ffffff\">6</font></b><br/>РАДИУС УСКОРЕНИЯ: <b><font color=\"#ffffff\">900</font></b><br/><font color=\"#6fe871\">ПЕРЕЗАРЯДКА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">6/6/6</font></b><br/><font color=\"#6fe871\">ПОРОГ ЗДОРОВЬЯ ДЛЯ УБИЙСТВА СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">300/425/550</font></b><br/><font color=\"#6fe871\">ДЛИТЕЛЬНОСТЬ ДОП. СКОРОСТИ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">10</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 60/120/180<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 75/65/55",
+        "lore": "Могул Хан — воплощение битвы и ярости, превращающееся в ужасную смерть для того, кто осмелится сразиться с ним.",
+        "hurl": "Axe",
+        "name": "axe_culling_blade",
+        "youtube":"iSkNp5ty7xI",
+        "id": 3
+    }
+]

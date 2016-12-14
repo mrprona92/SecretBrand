@@ -1,0 +1,93 @@
+{
+	"Hero":"skywrath_mage",
+	"Title":"Skywrath Mage Public hero",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"null_talisman",
+				"tango"
+			],
+			"earlyGame":
+			[
+				"arcane_boots",
+				"pers"
+			],
+			"Core (Ядро)":
+			[
+				"travel_boots",
+				"bloodstone",
+				"shivas_guard",
+				"sheepstick",
+				"ethereal_blade",
+				"ultimate_scepter"
+			],
+			"luxury":
+			[
+				"sphere",
+				"rod_of_atos",
+				"dagon"
+			]
+		},
+		"ItemTooltips":
+		{
+				"travel_boots":"Высокая скорость бега и возможность ТП.",
+				"pers":"ХП и МП реген, незаменимый в начале игры",
+				"null_talisman":"Поможет легко фармить на лайне",
+				"sheepstick":"Дизейбл опасных противников и много необходимого для нас интеллекта",
+				"dagon":"Вместе с нашим 3 скиллом хорошо дамажит",
+				"ultimate_scepter":"Снижает перезарядку ульты до 0, что не может не радовать",
+				"shivas_guard":"Дает броню, полезную ауру и самое важное- интеллект",
+				"bloodstone":"No comments, must have",
+				"sphere":"Если имеется контрпик (Huskar, Chaos Knight and etc)",
+				"ethereal_blade":"Для самых беспощадных) Etheral+Ancient seal+dagon+ulti=over9000 damage",
+				"arcane_boots":"Дает возможность пополнять ману, также можно разобрать для Bloodstoun",
+				"rod_of_atos":"Неплохое замедление, интеллект и ХП. Обычно хватает 2-го скилла, но можно и собрать."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"skywrath_mage_arcane_bolt",
+			"2":"skywrath_mage_concussive_shot",
+			"3":"skywrath_mage_arcane_bolt",
+			"4":"skywrath_mage_ancient_seal",
+			"5":"skywrath_mage_arcane_bolt",
+			"6":"skywrath_mage_mystic_flare",
+			"7":"skywrath_mage_arcane_bolt",
+			"8":"skywrath_mage_ancient_seal",
+			"9":"skywrath_mage_ancient_seal",
+			"10":"skywrath_mage_ancient_seal",
+			"11":"skywrath_mage_mystic_flare",
+			"12":"skywrath_mage_concussive_shot",
+			"13":"skywrath_mage_concussive_shot",
+			"14":"skywrath_mage_concussive_shot",
+			"15":"attribute_bonus",
+			"16":"skywrath_mage_mystic_flare",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"skywrath_mage_arcane_bolt":"Основной нюк на протяжении всей игры, максим в первую очередь. ",
+				"skywrath_mage_concussive_shot":"Отличное замедление, не требует наведения. Для начала игры хватает и одного уровня прокачки.",
+				"skywrath_mage_ancient_seal":"Сайленс и снижение магической защиты. Кидаем сначала его, а потом весь прокаст.",
+				"skywrath_mage_mystic_flare":"Огромный магический урон, но распределяющийся между врагами, попавшими в зону поражения. Желательно использовать на замедленных или застаненных противниках."
+		}
+	}
+}

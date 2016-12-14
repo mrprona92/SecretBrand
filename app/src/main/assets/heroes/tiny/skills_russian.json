@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Avalanche",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на точку</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#ffffff\">Нет</font></b>",
+        "desc": "Заваливает зону камнями, нанося урон наземным вражеским юнитам и оглушая их.",
+        "notes": "Наносит урон в течение 1 секунды.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">100/180/260/300</font></b>",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 17",
+        "lore": "Безжизненный камень оживает от зова каменного гиганта.",
+        "hurl": "Tiny",
+        "name": "tiny_avalanche",
+        "youtube":"t4JvtlBfJug",
+        "id": 0
+    },
+    {
+        "dname": "Toss",
+        "affects": "Способность: <b><font color=\"#ffffff\">направленная на юнита</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b><br/>СКВОЗЬ ИММУНИТЕТ К МАГИИ: <b><font color=\"#70EA72\">Да</font></b>",
+        "desc": "Tiny хватает ближайшего юнита в радиусе 275, а затем бросает его в указанную цель или руну. В месте приземления наносится урон. Если был брошен враг, он получит на 20% больше этого урона. Урон по юниту, брошенному способностью Toss, растет по мере того, как Tiny разучивает финальную способность.",
+        "notes": "Если враг под действием Avalanche был подброшен этой способностью и приземлился на то же место, он может получить урон от Avalanche во второй раз.<br/>Подброшенный союзник не получит урона.<br/>Наносит 33% своего урона строениям.",
+        "dmg": "",
+        "attrib": "РАДИУС: <b><font color=\"#ffffff\">275/275/275/275</font></b><br/>ДАЛЬНОСТЬ: <b><font color=\"#ffffff\">1300</font></b><br/>УРОН: <b><font color=\"#ffffff\">75/150/225/300</font></b>",
+        "cmb": "<img alt=\"Расход маны\" title=\"Расход маны\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\"/> 120/120/120/120<br/><img alt=\"Перезарядка\" title=\"Перезарядка\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\"/> 9",
+        "lore": "Колоссальная сила Tiny позволяет ему подкидывать в воздух даже самых крепких воинов.",
+        "hurl": "Tiny",
+        "name": "tiny_toss",
+        "youtube":"4oDiWbybHgM",
+        "id": 1
+    },
+    {
+        "dname": "Craggy Exterior",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b><br/>ТИП УРОНА: <b><font color=\"#ffffff\">магический</font></b>",
+        "desc": "Защищает Tiny от физических атак. При этом любые враги, атакующие Tiny в радиусе 300, могут быть оглушены.",
+        "notes": "Урон и оглушение срабатывают в начале атаки.",
+        "dmg": "УРОНА: <b><font color=\"#ffffff\">25/35/45/55</font></b>",
+        "attrib": "ШАНС ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b><br/>ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ: <b><font color=\"#ffffff\">1/1.25/1.5/1.75</font></b><br/>ДОП. БРОНЯ: <b><font color=\"#ffffff\">2/3/4/5</font></b><br/>ДАЛЬНОСТЬ ПРИМЕНЕНИЯ: <b><font color=\"#ffffff\">300/300/300/300</font></b>",
+        "cmb": "",
+        "lore": "Атаки в ближнем бою против каменного гиганта крайне неэффективны.",
+        "hurl": "Tiny",
+        "name": "tiny_craggy_exterior",
+        "youtube":"P0uPxATF8XE",
+        "id": 2
+    },
+    {
+        "dname": "Grow",
+        "affects": "Способность: <b><font color=\"#ffffff\">пассивная</font></b>",
+        "desc": "Tiny прибавляет в весе, увеличивая урон ценой скорости атаки. Увеличивает скорость передвижения и урон брошенным способностью Toss врагам.<br/>Улучшается с Aghanim's Scepter.",
+        "notes": "Урон неосновным целям снижается типом брони, но не ее значением.<br/>Урон неосновным целям проходит через иммунитет к заклинаниям.",
+        "dmg": "",
+        "attrib": "ДОПОЛНИТЕЛЬНЫЙ УРОН: <b><font color=\"#ffffff\">50/100/150</font></b><br/>УМЕНЬШЕНИЕ СКОРОСТИ АТАКИ: <b><font color=\"#ffffff\">20/35/50</font></b><br/>ДОП. СКОРОСТЬ ПЕРЕДВИЖЕНИЯ: <b><font color=\"#ffffff\">40/50/60</font></b><br/>БОНУС TOSS: <b><font color=\"#ffffff\">35%/50%/65%</font></b><br/><font color=\"#6fe871\">ДОП. РАДИУС АТАКИ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">107</font></b><br/><font color=\"#6fe871\">УРОН СОСЕДНИМ ЦЕЛЯМ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">50%</font></b><br/><font color=\"#6fe871\">ДОП. УРОН ЗДАНИЯМ СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">75%</font></b><br/><font color=\"#6fe871\">ДОП. УРОН TOSS СО СКИПЕТРОМ:</font></b> <b><font color=\"#ffffff\">50%/65%/80%</font></b>",
+        "cmb": "",
+        "lore": "Наблюдать превращение холма в гору становится вдвойне интереснее, когда эта гора в одиночку начинает сокрушать армии противников.",
+        "hurl": "Tiny",
+        "name": "tiny_grow",
+        "youtube":"4GB3qojLOHo",
+        "id": 3
+    }
+]

@@ -1,0 +1,108 @@
+{
+	"Hero":"death_prophet",
+	"Title":"Death Prophet Mid Build",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"branches"
+			],
+			"earlyGame":
+			[
+				"bottle",
+				"boots"
+			],
+			"Early Mid Game":
+			[
+				"arcane_boots",
+				"point_booster",
+				"void_stone",
+				"magic_wand"
+			],
+			"Core":
+			[
+				"bloodstone",
+				"travel_boots"
+			],
+			"Situational":
+			[
+				"sheepstick",
+				"skadi",
+				"rod_of_atos",
+				"heart",
+				"force_staff"
+			],
+			"Ultra Late Game (60 Minutes+)":
+			[
+				"refresher"
+			]
+		},
+		"ItemTooltips":
+		{
+				"boots":"Boot should be the next pickup after the bottle.  I would say this is more important than the wand (unless you are against really heavy harass).  You need boots for rune control, and to make ganking the side lanes more efficient.  ",
+				"magic_wand":"This is a good item.  Get it.  Generally, I grab this right after my boots and bottle.  This will also free you inventory up for bigger items while still using your starting branches.",
+				"bottle":"You should be rushing for bottle which is why you don't need a full set of starting items.  Ideally, you should have this by 1:45 at the latest so you can bottle the 2 minute rune.  ",
+				"travel_boots":"Once you complete your Blood Stone, and have tier 1 boots, upgrade to either BoTs or Phase Boots depending on farm.",
+				"void_stone":"If you are not having problems surviving, and are pushing heavily, invest in a Void Stone earlier to help push.",
+				"point_booster":"Builds into Blood Stone.  Prioritize this and/or the Vitality booster of you are having problems with surviving fights.",
+				"sheepstick":"Especially if you are having problems with a hard carry on the other team being overly strong, this item is almost essential.  If you are attacking someone with exorcism, the sheep period should be enough time to almost kill all but the strongest heroes.",
+				"refresher":"ONLY purchase this item for ultra-late game when you are moving into a stalemate.  Often in really long games, you will have an issue of needing to pop your ult to win a fight, and then don't have it to push. This can allow two ults in one push.  Ults do NOT stack.  Wait till the first ult ends.",
+				"bloodstone":"Once you grab the Bloodstone, spam skills.  Crypt swarm can be cast on cool down.  Silence can often be cast twice within a fight.
+
+Creep waves can be nuked down with two crypt swarms for most of the game.  You should be actively pushing and farming.  That said, save some farm for your hard carry.",
+				"skadi":"This item is great on DP.  It gives you a much needed slow in addition to a lot of HP which helps with survivability.  If you need an earlier slow and have an item slot, pick up the Orb of Venom early for a cheap early slow.",
+				"arcane_boots":"This should eventually build into a blood stone.",
+				"rod_of_atos":"This item is really good.  You have amazing move speed, and with the slow, you can chase just about anyone down, or get away if you are trying to escape.  "
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"death_prophet_carrion_swarm",
+			"2":"death_prophet_witchcraft",
+			"3":"death_prophet_carrion_swarm",
+			"4":"death_prophet_witchcraft",
+			"5":"death_prophet_carrion_swarm",
+			"6":"death_prophet_exorcism",
+			"7":"death_prophet_carrion_swarm",
+			"8":"death_prophet_silence",
+			"9":"death_prophet_witchcraft",
+			"10":"death_prophet_witchcraft",
+			"11":"death_prophet_exorcism",
+			"12":"death_prophet_silence",
+			"13":"death_prophet_silence",
+			"14":"death_prophet_silence",
+			"15":"attribute_bonus",
+			"16":"death_prophet_exorcism",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"death_prophet_carrion_swarm":"This should be spammed constantly.  Use it for last hits even in early game.  The bottle should be enough to keep your mana high enough for spamming.  This should also help to push enemy heroes out of lane.  ",
+				"death_prophet_silence":"If you are getting harassed a lot, a point in silence can be taken instead of a level of crypt swarm.
+
+Level 1 silence is difficult to land however.  For this reason, if possible prioritize the other skills and play aggressively.",
+				"death_prophet_witchcraft":"Points in your passive are essential.  It helps to lower the cost of crypt swarm and allow you to push.  Additionally, you need a couple points to help with rune control early game.  You should be faster than everyone except for a QoP with blink.",
+				"death_prophet_exorcism":"Early level exorcism is not extremely powerful, but a couple of hits on side-lane heroes will knock them down quickly.
+The cooldown for this is VERY short. You should use it in almost every fight early game. It is not until late game that you need to worry about saving it for specific situations."
+		}
+	}
+}

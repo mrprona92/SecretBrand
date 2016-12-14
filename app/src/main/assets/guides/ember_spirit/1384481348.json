@@ -1,0 +1,116 @@
+{
+	"Hero":"ember_spirit",
+	"Title":"RAMPAGE [Allifreyr] [6.82]",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"stout_shield",
+				"tango",
+				"flask"
+			],
+			"earlyGame":
+			[
+				"boots",
+				"poor_mans_shield",
+				"ring_of_health"
+			],
+			"coreItems":
+			[
+				"phase_boots",
+				"bfury"
+			],
+			"Late Game":
+			[
+				"bfury",
+				"greater_crit",
+				"vladmir"
+			],
+			"luxury":
+			[
+				"black_king_bar",
+				"desolator",
+				"sphere",
+				"assault",
+				"maelstrom",
+				"monkey_king_bar",
+				"heart",
+				"ancient_janggo"
+			]
+		},
+		"ItemTooltips":
+		{
+				"phase_boots":"Gives damage and enables you to chase down or run away from your enemies.",
+				"ring_of_health":"Will build up to Battle Fury. Gives nice hp regen.
+
+Note: You can buy this in the side shop.",
+				"poor_mans_shield":"This might not be totally necessary, still testing and deciding.",
+				"vladmir":"This item will give you more regen, 15% more damage, 5 armor for survivability and 15% lifesteal. This works with Sleight of Fist and can heal you a lot if you manage to use it on many enemies.
+
+You are also invulnerable while Sleight of Fist is active and you can use it every 6 seconds.",
+				"assault":"Increase the survivability of your team and make the enemy more squishy.",
+				"black_king_bar":"This will keep you in the fight a lot longer. Get this if the enemy team has annoying spells that can shut you down.",
+				"sphere":"Does the enemy team have nukers that annihilate you? This item will save your life or at least extend it enough so that you can kill them. Disablers are less of a problem for Ember Spirit but if they are shutting you down then this is also a viable option.",
+				"greater_crit":"Sleight of Fist works wonders with this, you can crit every hero for 800-1000 damage at this point. This will wreck the enemy team and make it easier for your team to win the fight. This plus Sleight of Fist can get you a Rampage if the enemy team is low enough.",
+				"bfury":"Gives you necessary damage, Hp and mana regen that you badly need and cleave for farming. Cleave works with Sleight of Fist.
+
+Note: Cleave [Plus the stats] will stack and it's going to make farming and nuking down enemy heroes with Sleight of Fist more effective.",
+				"desolator":"With Sleight of Fist you can desolate their entire team at once.
+
+Get this if you need more damage and the enemy team is too tanky."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"ember_spirit_searing_chains",
+			"2":"ember_spirit_sleight_of_fist",
+			"3":"ember_spirit_searing_chains",
+			"4":"ember_spirit_flame_guard",
+			"5":"ember_spirit_searing_chains",
+			"6":"ember_spirit_fire_remnant",
+			"7":"ember_spirit_searing_chains",
+			"8":"ember_spirit_flame_guard",
+			"9":"ember_spirit_flame_guard",
+			"10":"ember_spirit_flame_guard",
+			"11":"ember_spirit_fire_remnant",
+			"12":"ember_spirit_sleight_of_fist",
+			"13":"ember_spirit_sleight_of_fist",
+			"14":"ember_spirit_sleight_of_fist",
+			"15":"attribute_bonus",
+			"16":"ember_spirit_fire_remnant",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"ember_spirit_searing_chains":"This will hold down and damage 2 enemies within radius.
+
+Put one point into this early so that you can get away or secure kills on enemy heroes.",
+				"ember_spirit_sleight_of_fist":"This can be used to harass and get last hits in the laning phase.
+
+This will also destroy your enemies in late game. ",
+				"ember_spirit_flame_guard":"This is like Radiance and Pipe put together. It will help you survive and kill enemies faster.
+
+This works with Sleight of Fist so use it before you use your Fists.",
+				"ember_spirit_fire_remnant":"1: Use this to &quot;ward&quot; the forest in the laning phase.
+2: Leave Remnant behind, tp to fountain and active Remnant to get instantly back.
+3: Nuke, escape or chase your enemies."
+		}
+	}
+}

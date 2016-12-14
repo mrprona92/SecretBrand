@@ -1,0 +1,123 @@
+{
+	"Hero":"earth_spirit",
+	"Title":"Pubstomping Offlane Kaolin",
+	"GuideRevision":"1",
+	"FileVersion":"1",
+	"Scratch":"0",
+
+	"ItemBuild":
+	{
+		"Items":
+		{
+			"startingItems":
+			[
+				"tango",
+				"branches",
+				"branches",
+				"clarity",
+				"clarity",
+				"stout_shield"
+			],
+			"The arcane path":
+			[
+				"boots",
+				"energy_booster",
+				"magic_wand"
+			],
+			"The warrior path":
+			[
+				"bottle",
+				"boots",
+				"power_treads",
+				"magic_wand"
+			],
+			"Pick any combination of these":
+			[
+				"necronomicon",
+				"veil_of_discord",
+				"sphere",
+				"force_staff",
+				"blink"
+			],
+			"Luxury items":
+			[
+				"dagon",
+				"black_king_bar",
+				"rod_of_atos",
+				"pipe",
+				"travel_boots",
+				"shivas_guard",
+				"heavens_halberd",
+				"heart",
+				"ethereal_blade"
+			]
+		},
+		"ItemTooltips":
+		{
+				"blink":"Honestly? I was never one for blinky Kaolin. But it's a good item on him nevertheless. Especially since it doesn't cost you any mana anymore. If you ask me, get that Necro III and Force Staff and leave Blink for Sandy Claws.",
+				"stout_shield":"Makes damage you take from that pesky support who tries to get you out of exp range considerably lower. A must-take on offlane.",
+				"branches":"2 points in stats earlygame are always welcome, especially if you are going to build a wand later.",
+				"belt_of_strength":"",
+				"boots":"Note: Do NOT get double boots, PT and brown boots in \"warrior path\" are there together only because first you buy brown boots and then upgrade them into PT. Similarly, don't get scared when yout brown boots turn into Arcanes when you buy a Mana Booster.",
+				"magic_wand":"Instant regeneration is good. Wand is good. If you have any ability-spamming hero against you, pick it asap. Otherwise you 'can' skip it for faster core items, but it still is a good item to take, especially if you bought these 2 Iron Branches when the game started.",
+				"clarity":"3 clarities...? Actually, 2 clarities. I used to recommend 3 of them, but 2 work just as well in current meta of push-offlaner-out-of-exp-range-with-harrass. Also: Unless you have Rylai on your team, you'll need some source of mana for Grip harass and lasthits.",
+				"bottle":"One may notice how strangely often mid heroes leave their builds bottle-less. You may get an early bottle yourself, get one or two runes from the river on occasions, but what is more important, get a reliable source of hp and mana regen when out of fights. Don't build arcanes if you've bought bottle",
+				"tango":"Kinda obvious choice.",
+				"travel_boots":"Travels are good. Get them only later in the game when you have all of your more needed items already or if your team needs to counter/become the rats.",
+				"energy_booster":"Are you swimming in early gold? Can you do things well without increased movement speed? Rush arcanes with a fast Mana Booster. If you aren't so sure of your ability to survive without brown boots on 3rd minute or you have a hard time getting lasthits, pick Boots of Speed first.",
+				"power_treads":"It won't giff manas to hard working caster classes (your teammates) but it will increase your dps nicely and will allow you to switch between bonus mana or health according to your needs. Also, turn PT on agility, use the bottle and then turn them back; enjoy increased HP/mana regen from bottle.",
+				"pipe":"Zeus and Veno are on your team?  Get a VoD.They are on the enemy team? Get a Pipe. If nobody else will or you feel like you need more magic ressistance along with great hp regen, go on, get a pipe.",
+				"force_staff":"Initiated properly, stunned the enemy, silenced and magnetized him and you just await for his death. Make sure you won't get killed by some nearby hidden Nyx or Gondar. Force staff was, is and will be a good item. If you need help escaping and/or want to contribute to your team even more, pick it.",
+				"dagon":"Are you rich as hell? Raping scrubs all day long? Are they squishy? There you go. If you have a good tank and some stuns on your team, you can forget about getting tanky yourself and devote to being a KSing faggot or Nyx 2.0. Build a Dagon ONLY along with a VoD or when you are winning the game.",
+				"necronomicon":"Wanna push towers? Wanna become more tanky and intelligent at the same time? Wanna deal shitton of dmg without even noticing it? There you are. Necronomicon helps alot, especially if you can order your troops around while keeping up with your hero at the same time. Upgrade it to lvl 3 asap.",
+				"heart":"If your team doesn't have a proper tank or you are being constantly brought near-death in teamfights, yet escape them anyway and need to be available soon after, pick HoT. Only if you are swimming in pools of gold and jewels.",
+				"black_king_bar":"If you simply have to be able to fuck your enemies despite their multiple long-range stuns and silences, pick a BKB. Nuff said.",
+				"shivas_guard":"You literally walk between silenced, stunned or slowed enemy heroes who all pulse with power from Magnetize. So why not slow them again with Shiva?",
+				"sphere":"Doom? Duel? Fiend's Grip? Annoying stuns like Wraithfire Blast or Chaos Bolt? Oh, you also want some regen, don't you? Perfect item for such occasions. Unless the enemy team has Doom/LC with them, don't build it if you are going to get a BKB.",
+				"ethereal_blade":"Don't do it. No, don't buy this item. Seriously don't.But if you have VoD and a dagon 5, you are either in a 70-minute long game or are stomping hard... why not?",
+				"veil_of_discord":"Magnetize + VoD = Death for all. If you have any other magical dmg nukers on your team like Zeus, Venomancer or Leshrac, go on and melt your enemies' magic ressistance. Also a good idea when you need some HP regen but don't feel like Linkens/Pipe/HoT",
+				"rod_of_atos":"Luxury item. Only get this if you have all the other neccessities on you already. Rod of Atos makes it as easy as it can get to land a good Rolling Boulder by yourself. Also, nice stats.",
+				"heavens_halberd":"Evasion and tankiness that goes along with a disarm ability. If that pesky enemy Drow or WK who forgot to build a BKB are getting out of control and you need to become more of a tank and less of a homewrecker, here you go."
+		}
+	},
+
+	"AbilityBuild":
+	{
+		"AbilityOrder":
+		{
+			"1":"earth_spirit_geomagnetic_grip",
+			"2":"earth_spirit_rolling_boulder",
+			"3":"earth_spirit_geomagnetic_grip",
+			"4":"earth_spirit_boulder_smash",
+			"5":"earth_spirit_geomagnetic_grip",
+			"6":"earth_spirit_magnetize",
+			"7":"earth_spirit_geomagnetic_grip",
+			"8":"earth_spirit_boulder_smash",
+			"9":"earth_spirit_boulder_smash",
+			"10":"earth_spirit_boulder_smash",
+			"11":"earth_spirit_magnetize",
+			"12":"earth_spirit_rolling_boulder",
+			"13":"earth_spirit_rolling_boulder",
+			"14":"earth_spirit_rolling_boulder",
+			"15":"attribute_bonus",
+			"16":"earth_spirit_magnetize",
+			"17":"attribute_bonus",
+			"18":"attribute_bonus",
+			"19":"attribute_bonus",
+			"20":"attribute_bonus",
+			"21":"attribute_bonus",
+			"22":"attribute_bonus",
+			"23":"attribute_bonus",
+			"24":"attribute_bonus",
+			"25":"attribute_bonus"
+		},
+		"AbilityTooltips":
+		{
+				"earth_spirit_boulder_smash":"It's not the smash that makes ES powerful early, it's the grip. The stun is rarely useful on lower levels and scaling it doesn't give you any additional damage, unlike grip. It's best to max it out second when offlaning with first point in it on lvl 4.",
+				"earth_spirit_rolling_boulder":"Rollin' in.A must-have on lvl 2. Perfect initiation (as long as you can hit it) which isn't getting any better with more levels in it. Only diffirence between lvl 1 and lvl 4 Roll is the cooldown. So ALWAYS get it on lvl 2 and ALWAYS max it out last.",
+				"earth_spirit_geomagnetic_grip":"Can't nuke the enemies without damage. Maxing it first gives you more and more damage for harass and lasthitting with Grip on your offlane and provides you with a reliable, 5 seconds long silence, and a nuke.I've gotten more offlane first bloods thanks to this ability than I can remember.",
+				"earth_spirit_stone_caller":"35 seconds recharge time is bullshit, I'm telling you. It's literally the only way they could hurt skilled ES players, by taking away their precious stones. But it's still managable. Play passively when you are short on stones and bite sharp when you have more than 3 of them on you.",
+				"earth_spirit_magnetize":"Max it first and never hesitate to use it if you think it can get you a kill. 300/450/600 DoT which can be refreshed over and over again AND provides an easy way to silence and slow multiple targets. Roll/blink in, Magnetize, Place a stone, Silence, Stun, then refresh it. Boom, you got a triple kill"
+		}
+	}
+}
