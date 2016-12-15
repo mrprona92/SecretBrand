@@ -1,0 +1,18 @@
+{
+  "dotaId": "iron_talon",
+  "id": 7,
+  "id": 244,
+  "img": "iron_talon.png",
+  "dname": "Iron Talon",
+  "qual": "common",
+  "cost": 500,
+  "desc": "Active: Take away 40% of the current health of a monster.",
+  "notes": "When assigned to hell, it will deal damage based on the target's current health. The unit can not be used on monsters under-right-thing-control-of-people-play and Ancient creeps. Games using 350, 14 sec cooldown. When used on plants or eyes , would instantly destroy it.",
+  "attrib": "+2 Armor",
+  "mc": false,
+  "cd": 14,
+  "lore": "A simple but effective weapon devised to quell a great Hellbear uprising.",
+  "components": ["quelling_blade", "ring_of_protection"],
+  "created": true
+}
+

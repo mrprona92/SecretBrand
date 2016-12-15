@@ -19,7 +19,7 @@ import java.util.List;
  */
 public class Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "dota2.db";
-    public static final int DATABASE_VERSION = 51;
+    public static final int DATABASE_VERSION = 54;
 
     /*public static final String CREATE_ITEMS_FROM="create table if not exists "+
             " items_from ( _id integer PRIMARY KEY AUTOINCREMENT, item_id integer not null, need_id integer not null);";*/

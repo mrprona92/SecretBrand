@@ -1,0 +1,18 @@
+{
+  "id": 250,
+  "attrib": "+ 15 Strength \n +20 Agility \n +10 Intelligence \n +4 Health Regeneration",
+  "cd": 14,
+  "components": [
+    "force_staff",
+    "dragon_lance"
+  ],
+  "qual": "Armor",
+  "notes": "Games reviews plus ( Attack range ) from Hurricane Pike or Dragon Lance is not cumulative. \n Change the range of use of Focus Fire and adjusting it with the new type of range Windranger \n Increase range of skills using a special type ( active attack modifier ).",
+  "desc": "When used on an enemy, it pushes you both away from each other 450 units each, and allows you to attack the target without range restrictions for 4 attacks for a maximum of 5 seconds. Works like Force Staff when used on self or allies.",
+  "dname": "Hurricane Pike",
+  "mc": 25,
+  "img": "hurricane_pike.png",
+  "lore": "A legendary pike once held as royal sigil of the ancient wyvern riders.",
+  "created": false,
+  "cost": 4375
+}

@@ -1,0 +1,20 @@
+{
+  "dotaId": "dragon_lance",
+  "attrib": "+ 12 Strength \n +4 Agility",
+  "cd": false,
+  "components": [
+    "ogre_axe",
+    "boots_of_elves",
+    "boots_of_elves"
+  ],
+  "qual": "Artifacts",
+  "notes": "Games reviews plus ( Attack range ) from Hurricane Pike or Dragon Lance is not cumulative. \n Change the range of use of Focus Fire and adjusting it with the new type of range Windranger \n Increase range of skills using a special type ( active attack modifier ).",
+  "desc": "Increase your range hit -hit-distant Hero additional 140 units.",
+  "dname": "Dragon Lance",
+  "mc": false,
+  "img": "dragon_lance.png",
+  "lore": "The forward charge of the wyvern host grants no quarter.",
+  "id": 248,
+  "created": false,
+  "cost": 1900
+}

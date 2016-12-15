@@ -1,6 +1,6 @@
 {
   "dotaId": "boots",
-  "attrib": "+ 50 Movement Speed",
+  "attrib": "+ 45 Movement Speed",
   "cd": false,
   "qual": "component",
   "notes": "",
@@ -11,5 +11,5 @@
   "lore": "Fleet footwear, increasing movement.",
   "id": 29,
   "created": false,
-  "cost": 450
+  "cost": 400
 }

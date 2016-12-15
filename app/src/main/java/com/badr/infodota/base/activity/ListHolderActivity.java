@@ -3,6 +3,7 @@ package com.badr.infodota.base.activity;
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.Dialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -166,7 +167,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
-
+        Log.d(TAG, "onCreate() called with: " + "savedInstanceState = [" + this.getDatabasePath("dota2.db") + "]");
         setTheme(R.style.Infodota);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_fragment_holder);

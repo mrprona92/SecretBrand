@@ -1,0 +1,16 @@
+{
+  "dotaId": "faerie_fire",
+  "id": 246,
+  "img": "faerie_fire.png",
+  "dname": "Faerie Fire",
+  "qual": "consumable",
+  "cost": 75,
+  "desc": "Turn Faerie Fire will immediately recover blood 75.",
+  "notes": "Faerie Fire is not cumulative amount of baggage, each cell contains its own requirements first. Cumulative Score attack.",
+  "attrib": "Charges 1",
+  "mc": false,
+  "cd": 5,
+  "lore": "The ethereal flames from the ever-burning ruins of Kindertree ignite across realities.",
+  "components": null,
+  "created": false
+}
