@@ -174,7 +174,7 @@ public class ItemsList extends SCBaseFragment implements SearchableFragment, OnI
 
     @Override
     public int getToolbarTitle() {
-        return 0;
+        return R.string.menu_items_game;
     }
 
     @Override

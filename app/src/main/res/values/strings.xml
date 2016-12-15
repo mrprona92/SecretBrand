@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dota2 Helper</string>
+    <string name="app_name">Dota2 Assitant</string>
     <string name="language">english</string>
 
     <string name="heroes_list">Loading heroes list</string>
@@ -355,16 +355,14 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-
-    cmn_ok
     <string name="cmn_ok">OK</string>
     <string name="cmn_cancel">CANCEL</string>
-
-
+    <string name="cmn_nullvalue">""</string>
 
     <string name="menu_counter_pick">COUNTER PICK</string>
     <string name="menu_quiz">QUIZ GAME</string>
     <string name="menu_menuname">MENU</string>
+
     <string name="ask_quit">Do you want quit application?</string>
 
 

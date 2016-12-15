@@ -88,7 +88,7 @@ public class TrackdotaMain extends SCBaseFragment implements RequestListener<Gam
 
     @Override
     public int getToolbarTitle() {
-        return 0;
+        return R.string.cmn_nullvalue;
     }
 
     @Override

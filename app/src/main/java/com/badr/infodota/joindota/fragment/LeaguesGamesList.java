@@ -68,7 +68,7 @@ public class LeaguesGamesList extends UpdatableListFragment implements RequestLi
 
     @Override
     public int getToolbarTitle() {
-        return 0;
+        return R.string.menu_tournament_match;
     }
 
     @Override

@@ -48,7 +48,7 @@ public class TwitchHolder extends SCBaseFragment { //pullToRefresh + FloatingAct
 
     @Override
     public int getToolbarTitle() {
-        return 0;
+        return R.string.menu_twitch_tv;
     }
 
     @Override

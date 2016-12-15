@@ -23,6 +23,8 @@ import com.octo.android.robospice.UncachedSpiceService;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
 
+import com.badr.infodota.R;
+
 /**
  * User: ABadretdinov
  * Date: 21.04.14
@@ -121,7 +123,7 @@ public class NewsList extends UpdatableRecyclerFragment<NewsItem, NewsItemViewHo
 
     @Override
     public int getToolbarTitle() {
-        return 0;
+        return R.string.menu_news_dota;
     }
 
     @Override

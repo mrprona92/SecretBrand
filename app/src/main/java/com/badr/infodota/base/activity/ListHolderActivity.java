@@ -186,8 +186,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         UpdateUtils.checkNewVersion(this, false);
 
 
-
-        navSpinner= (Spinner) mToolbar.findViewById(R.id.nav_spinner);
+        navSpinner = (Spinner) mToolbar.findViewById(R.id.nav_spinner);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 R.layout.spinner_item, getResources().getStringArray(R.array.main_menu));
         adapter.setDropDownViewResource(R.layout.spinner_dropdown_item);
@@ -197,7 +196,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
         navSpinner.setOnItemSelectedListener(this);
         navSpinner.setSelection(Math.min(selected, adapter.getCount() - 1));
-       // navSpinner.setVisibility(View.GONE);
+        // navSpinner.setVisibility(View.GONE);
 
         initControl();
 
@@ -209,9 +208,9 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu items for use in the action bar
-        if(mCurrentFragment instanceof MenuFragment){
+        if (mCurrentFragment instanceof MenuFragment) {
             navSpinner.setVisibility(View.VISIBLE);
-        }else{
+        } else {
             navSpinner.setVisibility(View.GONE);
         }
 
@@ -262,8 +261,9 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         } else {
             Log.d(TAG, "onBackPressed() called. Finish()");
             ConfirmDialog confirmDialog = new ConfirmDialog(ListHolderActivity.this);
-            confirmDialog.setMessageId(R.string.quiz);
-            confirmDialog.setTitleId(R.string.ask_quit);
+            confirmDialog.setMessageId(R.string.ask_quit);
+            confirmDialog.setTitleId(R.string.app_name);
+
             confirmDialog.setOnConfirmDialogListener(new ConfirmDialog.ConfirmDialogListener() {
                 @Override
                 public void onSelect(int indexButton) {
@@ -306,47 +306,47 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-            switch (position) {
-                default:
-                case 0:
-                    mCurrentFragment = new HeroesList();
-                    break;
-                case 1:
-                    mCurrentFragment = new ItemsList();
-                    break;
-                case 2:
-                    mCurrentFragment = new PlayerGroupsHolder();
-                    break;
-                case 3:
-                    mCurrentFragment = new CounterPickFilter();
-                    break;
-                case 4:
-                    mCurrentFragment = new CosmeticItemsList();
-                    break;
-                case 5:
-                    mCurrentFragment = new QuizTypeSelect();
-                    break;
-                case 6:
-                    mCurrentFragment = new TwitchHolder();
-                    break;
-                case 7:
-                   // mCurrentFragment = new NewsList();
-                    break;
-                case 8:
-                    mCurrentFragment = LeaguesGamesList.newInstance(null);
-                    break;
-                case 9:
-                    mCurrentFragment = new TrackdotaMain();
-                    break;
+        switch (position) {
+            default:
+            case 0:
+                mCurrentFragment = new HeroesList();
+                break;
+            case 1:
+                mCurrentFragment = new ItemsList();
+                break;
+            case 2:
+                mCurrentFragment = new PlayerGroupsHolder();
+                break;
+            case 3:
+                mCurrentFragment = new CounterPickFilter();
+                break;
+            case 4:
+                mCurrentFragment = new CosmeticItemsList();
+                break;
+            case 5:
+                mCurrentFragment = new QuizTypeSelect();
+                break;
+            case 6:
+                mCurrentFragment = new TwitchHolder();
+                break;
+            case 7:
+                // mCurrentFragment = new NewsList();
+                break;
+            case 8:
+                mCurrentFragment = LeaguesGamesList.newInstance(null);
+                break;
+            case 9:
+                mCurrentFragment = new TrackdotaMain();
+                break;
                     /*
                 case 9:
 					details=new LeaguesGamesList.newInstance("&c2=7057&c1=2390");
                     break;*/
-            }
-            replaceFragment(mCurrentFragment);
-            lastSelected = position;
-            SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-            prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
+        }
+        replaceFragment(mCurrentFragment);
+        lastSelected = position;
+        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
     }
 
     @Override
@@ -484,46 +484,46 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
     public void onChangeFragment(int position) {
-            switch (position) {
-                default:
-                case 0:
-                    //mFragmentDetails = new ItemsList();
-                    openScreen(ScreenIDs.ScreenTab.MENU, ItemsList.class, null, true, true);
-                    break;
-                case 1:
-                    openScreen(ScreenIDs.ScreenTab.MENU, NewsList.class, null, true, true);
-                    break;
-                case 2:
-                    mCurrentFragment =  LeaguesGamesList.newInstance(null);
-                    break;
-                case 3:
-                    mCurrentFragment = new TrackdotaMain();
-                    break;
-                case 4:
-                    mCurrentFragment = new TwitchHolder();
-                    break;
-                case 5:
-                    UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
-                    break;
-                case 6:
-                    startActivity(new Intent(ListHolderActivity.this, AboutActivity.class));
-                    break;
-                case 7:
-                    //TODO quit app
-                    AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
-                    alertDialog.setTitle("Dota Assitant");
-                    alertDialog.setMessage("Do you want quit application?");
-                    alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
-                        public void onClick(DialogInterface dialog, int which) {
-                            android.os.Process.killProcess(android.os.Process.myPid());
-                            System.exit(1);
-                        } });
-                    alertDialog.show();
-                    break;
-            }
-            replaceFragment(mCurrentFragment);
+        switch (position) {
+            default:
+            case 0:
+                //mFragmentDetails = new ItemsList();
+                openScreen(ScreenIDs.ScreenTab.MENU, ItemsList.class, null, true, true);
+                break;
+            case 1:
+                openScreen(ScreenIDs.ScreenTab.MENU, NewsList.class, null, true, true);
+                break;
+            case 2:
+                openScreen(ScreenIDs.ScreenTab.MENU, LeaguesGamesList.class, null, true, true);
+                break;
+            case 3:
+                openScreen(ScreenIDs.ScreenTab.MENU, TrackdotaMain.class, null, true, true);
+                break;
+            case 4:
+                openScreen(ScreenIDs.ScreenTab.MENU, TwitchHolder.class, null, true, true);
+                break;
+            case 5:
+                UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
+                break;
+            case 6:
+                startActivity(new Intent(ListHolderActivity.this, AboutActivity.class));
+                break;
+            case 7:
+                //TODO quit app
+                AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
+                alertDialog.setTitle("Dota Assitant");
+                alertDialog.setMessage("Do you want quit application?");
+                alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        android.os.Process.killProcess(android.os.Process.myPid());
+                        System.exit(1);
+                    }
+                });
+                alertDialog.show();
+                break;
+        }
+        replaceFragment(mCurrentFragment);
     }
-
 
 
     /**
@@ -535,7 +535,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     private Dialog getProgressDialog() {
         if (mProgressDialog == null) {         // Create if null
             mProgressDialog = new Dialog(this, android.R.style.Theme_Black);
-            View view = LayoutInflater.from(this).inflate(R.layout.cmn_process,null);
+            View view = LayoutInflater.from(this).inflate(R.layout.cmn_process, null);
             mProgressDialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
             mProgressDialog.getWindow().setBackgroundDrawableResource(R.color.transparent);
             mProgressDialog.setContentView(view);
@@ -549,6 +549,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     public void showProgressDialog(final String message) {
         showProgressDialog(message, false);
     }
+
     private int sDialogCount = 0;
 
     /**
@@ -557,15 +558,16 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
      * @param message
      * @param cancelable
      */
+
     public void showProgressDialog(final String message, final boolean cancelable) {
-        try{
+        try {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
                     try {
                         Dialog dlg = getProgressDialog();
                         sDialogCount++;
-                        if(!dlg.isShowing()){
+                        if (!dlg.isShowing()) {
                             dlg.setCancelable(cancelable);
                             dlg.show();
                         }
@@ -574,8 +576,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                     }
                 }
             });
+        } catch (Exception e) {
         }
-        catch(Exception e){}
     }
 
     private SCAlertDialog mAlertDialog;
@@ -607,14 +609,13 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
 
-
     public void updateUI() {
         Log.d(TAG, "updateUI: called");
 
-        if(mCurrentFragment instanceof HeroesList){
+        if (mCurrentFragment instanceof HeroesList) {
             lblToolbarTitle.setVisibility(View.GONE);
             mActionMenuView.setVisibility(View.GONE);
-        }else{
+        } else {
             lblToolbarTitle.setVisibility(View.VISIBLE);
         }
 
