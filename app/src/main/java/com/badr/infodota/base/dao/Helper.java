@@ -19,7 +19,7 @@ import java.util.List;
  */
 public class Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "dota2.db";
-    public static final int DATABASE_VERSION = 54;
+    public static final int DATABASE_VERSION = 59;
 
     /*public static final String CREATE_ITEMS_FROM="create table if not exists "+
             " items_from ( _id integer PRIMARY KEY AUTOINCREMENT, item_id integer not null, need_id integer not null);";*/
@@ -40,7 +40,7 @@ public class Helper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        if (oldVersion < 46) {
+        if (oldVersion < 59) {
             reinitHeroesAndItems(db);
         }
         List<CreateTableDao> allDaos = BeanContainer.getInstance().getAllDaos();

@@ -1,5 +1,5 @@
 {
-  "attrib": "HEALTH RESTORED: 2500<br/>MANA RESTORED: 1000",
+  "attrib": "HEALTH RESTORED: 2500<br/>MANA RESTORED: 1500",
   "cd": 40.0,
   "qual": "epic",
   "notes": "Cheese is shareable.",
@@ -11,5 +11,5 @@
   "lore": "Made from the milk of a long lost Furbolg vendor, it restores the vitality of those who taste it.",
   "id": 33,
   "created": false,
-  "cost": 1000
+  "cost": 500
 }

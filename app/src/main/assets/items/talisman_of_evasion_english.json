@@ -1,6 +1,6 @@
 {
   "dotaId": "talisman_of_evasion",
-  "attrib": "+ 25% Evasion",
+  "attrib": "+ 20% Evasion",
   "cd": false,
   "qual": "secret_shop",
   "notes": "",
@@ -11,5 +11,5 @@
   "lore": "A necklace that allows you to anticipate enemy attacks.",
   "id": 32,
   "created": false,
-  "cost": 1800
+  "cost": 1450
 }

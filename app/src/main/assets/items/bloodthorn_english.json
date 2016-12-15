@@ -1,0 +1,19 @@
+{
+  "dotaId": "bloodthorn",
+  "id": 252,
+  "img": "bloodthorn.png",
+  "dname": "Bloodthorn",
+  "qual": "artifacts",
+  "cost": 7195,
+  "desc": "Silences a target for 5 seconds and amplifies the damage it takes by 30%. All attacks on the silenced target will have True Strike and land a crit on impact.",
+  "notes": "Only the first Bloodstone will gain charges.",
+  "attrib": "+ +25 Intelligence<br/>+ 150% Mana Regeneration<br/>+ +60 Attack Damage<br/>+ +30 Attack Speed",
+  "mc": 11,
+  "cd": 100,
+  "lore": "A reviled blade that bites deeper with each wriggle of its victim's final throes.",
+  "components": [
+    "orchid",
+    "lesser_crit"
+  ],
+  "created": true
+}

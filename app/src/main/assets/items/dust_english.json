@@ -9,7 +9,7 @@
   "notes": "Places a buff on enemy units in the area that prevents them from becoming invisible.",
   "attrib": "DURATION: 12<br/>RADIUS: 1050<br/>SLOW: 20%",
   "mc": 5,
-  "cd": 60,
+  "cd": 30,
   "lore": "",
   "components": null,
   "created": false
