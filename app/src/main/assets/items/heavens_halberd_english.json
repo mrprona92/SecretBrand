@@ -7,7 +7,7 @@
   ],
   "qual": "artifact",
   "notes": "The disarm effect cannot be purged.",
-  "desc": "Active: Disarms the target for 4.5 seconds. Lasts 3.0 on Melee targets. <br/>Passive: Lesser Maim - Gives a chance on attack to slow movement speed for 4.0 seconds.",
+  "desc": "Active: Disarms the target for 5.5 seconds. Lasts 3.0 on Melee targets. <br/>Passive: Lesser Maim - Gives a chance on attack to slow movement speed for 4.0 seconds.",
   "dname": "Heaven\u0027s Halberd",
   "dotaId": "heavens_halberd",
   "mc": 100.0,
@@ -15,5 +15,5 @@
   "lore": "This halberd moves with the speed of a smaller weapon, allowing the bearer to win duels that a heavy edge would not.",
   "id": 210,
   "created": true,
-  "cost": 3850
+  "cost": 3750
 }

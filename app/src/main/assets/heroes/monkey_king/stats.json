@@ -1,0 +1,2 @@
+{
+    "roles": ["Carry", "Nuker", "Disabler", "Escape"],"ID":33,"Patch":"6.79c","Name":"Mirana","Alignment":0,"Movespeed":300,"MaxDmg":49,"MinDmg":38,"HP":473,"Mana":221,"HPRegen":0.25,"ManaRegen":0.01,"Armor":1.8,"Range":600,"ProjectileSpeed":900,"BaseStr":17,"BaseAgi":20,"BaseInt":17,"StrGain":1.85,"AgiGain":2.75,"IntGain":1.65,"PrimaryStat":1,"BaseAttackTime":1.7,"DayVision":1800,"NightVision":800,"AttackPoint":0.3,"AttackSwing":0.7,"CastPoint":0.5,"CastSwing":0.83,"Turnrate":0.4,"Legs":6}

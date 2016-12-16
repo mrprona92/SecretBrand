@@ -1,5 +1,5 @@
 {
-  "attrib": "+ 20 Damage<br/>+ 5 Armor<br/>+ 3 hp regen<br/>LIFESTEAL: 15%",
+  "attrib": "+ 10 Damage<br/>+ 10 Attack speed<br/>+ 8 hp regen<br/>LIFESTEAL: 15%",
   "cd": 60.0,
   "components": [
     "lifesteal",
@@ -15,5 +15,5 @@
   "lore": "The powerful headpiece of a dead necromancer.",
   "id": 164,
   "created": true,
-  "cost": 1850
+  "cost": 1800
 }
