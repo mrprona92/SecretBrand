@@ -1,0 +1,15 @@
+{
+  "dotaId": "blightstone",
+  "id": 254,
+  "img": "blight_stone.png",
+  "dname": "Blight Stone",
+  "qual": "armaments",
+  "cost": 300,
+  "desc": "Your attacks reduce target's armor for 8 seconds.(2 armor)",
+  "notes": "Only the first Bloodstone will gain charges.",
+  "attrib": "",
+  "mc": false,
+  "cd": false,
+  "lore": "An unnerving stone unearthed beneath the Fields of Endless Carnage.",
+  "created": true
+}

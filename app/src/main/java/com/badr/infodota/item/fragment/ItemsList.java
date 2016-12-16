@@ -290,7 +290,7 @@ public class ItemsList extends SCBaseFragment implements SearchableFragment, OnI
 
     @Override
     public void onRequestSuccess(Item.List items) {
-        mAdapter = new ItemsAdapter(items);
+        mAdapter = new ItemsAdapter(items,mAppContext);
         mFilter = mAdapter.getFilter();
         mFilter.filter(search);
         gridView.setAdapter(mAdapter);

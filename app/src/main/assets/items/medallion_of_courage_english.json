@@ -3,7 +3,8 @@
   "cd": 7.0,
   "components": [
     "chainmail",
-    "sobi_mask"
+    "sobi_mask",
+    "blightstone"
   ],
   "qual": "rare",
   "notes": "",
@@ -15,5 +16,5 @@
   "lore": "The bearer has no fear of combat.",
   "id": 187,
   "created": true,
-  "cost": 1200
+  "cost": 1175
 }

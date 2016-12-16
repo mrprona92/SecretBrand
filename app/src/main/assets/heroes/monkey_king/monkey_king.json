@@ -1,0 +1,305 @@
+{
+	"Dota2Hero": {
+		"code": "1",
+		"hash": "",
+		"name": "Monkey King",
+		"faction": "Radiant",
+		"image": "monkey_king",
+		"image_portrait": "monkey_king_portrait",
+		"image_icon": "monkey_king_icon",
+		"long_name": "Sun Wukong, the Monkey King",
+		"audio_line": "\"Over the course of my journeys, I've been called many things. A warrior. An animal. A trickster. Out of all the names I've been called, one has always remained my favorite: King.\"",
+		"type": "Agility",
+		"roles": {
+			"role": [
+				"Carry",
+				"Escape",
+				"Disabler",
+				"Initiator"
+			]
+		},
+		"lore": "For 500 years the mountain pressed down upon him, and only his head free from the crushing weight of the stonewrought prison the elder gods had summoned to halt his childish rebellion. Moss grew along the lines of his exposed face, tufts of grass sprouted from his ears; his vision was framed in wildflowers reaching from the soil around his cheeks. Most thought him long dead, tormented by the gods for waging war against the heavens until naught but his legend survived. But, as the stories go, the Monkey King cannot die.\nSo he waited. Until the gods came to offer a chance at absolution, he endured. And when they did come to name the price, Sun Wukong accepted their charge: he would accompany a young acolyte on a secret pilgrimage, protect him from demons and dangers of the road, and guide the man home in possession of a coveted relic. Do that, and humbly obey the human's commands in service to their holy mission, and Wukong would prove himself reformed.\nFor a change, Sun Wukong fulfilled his oath to the gods with honor, and atoned for the sins of past insurrections. The acolyte, much learned in hardships, was returned to his home temple, relic in hand; and Wukong—finding himself for the first time in proper standing with any gods of consequence—was content for a short while to give up his old thirst for adventure and glory. But the Monkey King was born for mischief...and offending the gods never gets old.",
+		"attributes": {
+			"strength": "18",
+			"strength_gain": "2.2",
+			"agility": "22",
+			"agility_gain": "3.2",
+			"intelligence": "20",
+			"intelligence_gain": "1.8",
+			"move_speed": "305",
+			"turn_rate": "0.6",
+			"sight_range": "1800/800",
+			"attack_range": "300",
+			"missile_speed": "Instant",
+			"base_attack_time": "1.7",
+			"magic_resistance": "25%",
+			"base_armor": "3.14",
+			"base_damage": "52-58"
+		},
+		"talents": {
+			"talent": [
+				{
+					"level": "10",
+					"choice": [
+						"+5 Armor",
+						"+20 Attack Speed"
+					]
+				},
+				{
+					"level": "15",
+					"choice": [
+						"+20 Movement Speed",
+						"+275 Health"
+					]
+				},
+				{
+					"level": "20",
+					"choice": [
+						"+15 Strength",
+						"+40 Damage"
+					]
+				},
+				{
+					"level": "25",
+					"choice": [
+						"+100% Boundless Strike Crit",
+						"+25% Magic Resistance"
+					]
+				}
+			]
+		},
+		"spells": {
+			"spell": [
+				{
+					"show_in_loadout": "true",
+					"name": "Boundless Strike",
+					"image": "monkey_king_boundless_strike",
+					"description": "Monkey King enlarges his staff and slams it against the ground, stunning enemies in a line and damaging them with a critical hit based on his attack. Has True Strike.",
+					"lore": "The legendary Jingu Bang grows to match its master's will, ensuring no enemy can escape the Monkey King's reach.",
+					"ability": "Target Point/Target Unit",
+					"affects": "Enemies",
+					"damage": "Physical",
+					"cooldown": "25",
+					"manacost": "100",
+					"extra": {
+						"kvpair": [
+							{
+								"key": "Cast Animation",
+								"value": "0.4+0.0"
+							},
+							{
+								"key": "Stun Duration",
+								"value": "0.5/1/1.5/2"
+							},
+							{
+								"key": "Crit Multiplier",
+								"value": "200%"
+							},
+							{
+								"key": "Cast Range",
+								"value": "1200"
+							},
+							{
+								"key": "Radius",
+								"value": "150"
+							}
+						]
+					},
+					"spell_immunity": "",
+					"dispel": "",
+					"linkens": ""
+				},
+				{
+					"show_in_loadout": "true",
+					"name": "Tree Dance",
+					"image": "monkey_king_tree_dance",
+					"description": "Monkey King jumps to a tree and perches atop it. While perched, he gains the Primal Spring ability—a channeled leap attack. If Monkey King's tree is destroyed, he falls and is stunned for 4 seconds. Taking damage from enemy heroes while on the ground puts Tree Jump on cooldown.",
+					"lore": "Sun Wukong dances nimbly along the treetop canopy, always just out of arm's reach.",
+					"ability": "",
+					"affects": "",
+					"cooldown": "1.4",
+					"manacost": "0",
+					"extra": {
+						"kvpair": [
+							{
+								"key": "Cast Animation",
+								"value": "0.3+0.0"
+							},
+							{
+								"key": "Cast Range",
+								"value": "1000"
+							},
+							{
+								"key": "Damage Cooldown",
+								"value": "3"
+							},
+							{
+								"key": "Tree Vision",
+								"value": "800"
+							}
+						]
+					},
+					"spell_immunity": ""
+				},
+				{
+					"show_in_loadout": "true",
+					"name": "Primal Spring",
+					"image": "monkey_king_primal_spring",
+					"description": "Monkey King springs out from his tree perch, damaging and slowing enemies in the area where he lands. Damage and slow amounts are in proportion to channel duration.",
+					"lore": "Leaping from the safety of cover into the midst of his enemies, Sun Wukong attacks without mercy.",
+					"ability": "Target Area/Channeled",
+					"affects": "Enemies",
+					"damage": "Magical",
+					"cooldown": "16",
+					"manacost": "100/110/120/130",
+					"extra": {
+						"kvpair": [
+							{
+								"key": "Damage",
+								"value": "100/180/260/340"
+							},
+							{
+								"key": "Movement Slow",
+								"value": "40%/50%/60%/70%"
+							},
+							{
+								"key": "Slow Duration",
+								"value": "4"
+							},
+							{
+								"key": "Cast Range",
+								"value": "1000"
+							},
+							{
+								"key": "Charge Time",
+								"value": "3"
+							},
+							{
+								"key": "Channel Time",
+								"value": "1.6"
+							},
+							{
+								"key": "Radius",
+								"value": "375"
+							}
+						]
+					},
+					"spell_immunity": "",
+					"dispel": "",
+					"linkens": ""
+				},
+				{
+					"show_in_loadout": "true",
+					"name": "Jingu Mastery",
+					"image": "monkey_king_jingu_mastery",
+					"description": "Monkey King's attacks awaken the Jingu Bang's power. Upon the fourth hit on the same enemy hero, Monkey King earns four charged attacks that have bonus damage and lifesteal.",
+					"lore": "Always sensitive to the moods of its master, the Jingu Bang radiates power when Sun Wukong's combat fervor is on full display.",
+					"ability": "Passive",
+					"affects": "Enemies/Self",
+					"extra": {
+						"kvpair": [
+							{
+								"key": "Required Hits",
+								"value": "4"
+							},
+							{
+								"key": "Charges",
+								"value": "4"
+							},
+							{
+								"key": "Bonus Damage",
+								"value": "80/120/160/200"
+							},
+							{
+								"key": "Bonus Lifesteal",
+								"value": "20%/30%/40%/50%"
+							},
+							{
+								"key": "Duration",
+								"value": "15"
+							}
+						]
+					},
+					"spell_immunity": "",
+					"dispel": "",
+					"linkens": "",
+					"illusions": ""
+				},
+				{
+					"show_in_loadout": "true",
+					"name": "Mischief",
+					"image": "monkey_king_mischief",
+					"description": "Changes Monkey King's shape to deceive opponents, using the environment nearby as inspiration for the disguise. Taking damage, attacking, or using any item or ability breaks Monkey King's disguise.",
+					"lore": "Watch out for that tree.",
+					"ability": "No Target",
+					"affects": "Self",
+					"cooldown": "3",
+					"extra": {
+						"kvpair": {
+							"key": "Movespeed",
+							"value": "200"
+						}
+					},
+					"spell_immunity": "",
+					"dispel": ""
+				},
+				{
+					"show_in_loadout": "false",
+					"name": "Revert Form",
+					"image": "monkey_king_revert_form",
+					"description": "Reverts Monkey King's shape to his original form.",
+					"ability": "No Target",
+					"affects": "Self",
+					"cooldown": "1",
+					"spell_immunity": ""
+				},
+				{
+					"show_in_loadout": "true",
+					"name": "Wukong's Command",
+					"image": "monkey_king_wukongs_command",
+					"description": "Monkey King creates a circular formation of soldiers that spread out from his position. If Monkey King leaves the area his soldiers disperse. The soldiers have Monkey King's attack and only target heroes. Monkey King and all his soldiers receive bonus damage for the spell's duration.",
+					"lore": "Monkey King rips out a tuft of fur to blow at his enemies, charging each strand to transform into a copy of himself.",
+					"ability": "Target Point",
+					"affects": "Enemies",
+					"damage": "Physical",
+					"cooldown": "100/85/70",
+					"manacost": "100",
+					"extra": {
+						"kvpair": [
+							{
+								"key": "Bonus Damage",
+								"value": "50/70/90"
+							},
+							{
+								"key": "Soldier Attack Speed",
+								"value": "2.1"
+							},
+							{
+								"key": "Duration",
+								"value": "13/14/15"
+							},
+							{
+								"key": "Number of Soldiers",
+								"value": "14"
+							},
+							{
+								"key": "Cast Range",
+								"value": "550"
+							},
+							{
+								"key": "Dispersal Radius",
+								"value": "1050"
+							},
+							{
+								"key": "Leadership Radius",
+								"value": "780"
+							}
+						]
+					},
+					"spell_immunity": "",
+					"dispel": ""
+				}
+			]
+		}
+	}
+}

@@ -1,6 +1,6 @@
 {
   "dotaId": "radiance",
-  "attrib": "+ 65 Damage<br/>BURN DAMAGE PER SECOND: 50<br/>BURN MISS CHANCE: 17%<br/>BURN RADIUS: 700 ",
+  "attrib": "+ 65 Damage<br/>BURN DAMAGE PER SECOND: 60<br/>BURN MISS CHANCE: 17%<br/>BURN RADIUS: 700 ",
   "cd": false,
   "components": ["relic"],
   "qual": "epic",
@@ -12,5 +12,5 @@
   "lore": "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.",
   "id": 137,
   "created": true,
-  "cost": 5225
+  "cost": 5150
 }

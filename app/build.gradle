@@ -13,7 +13,7 @@ android {
     buildToolsVersion '24.0.0'
     defaultConfig {
         applicationId "com.prona.dotainfo"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 23
         versionCode 777
         versionName "1.0.0"
@@ -61,5 +61,6 @@ dependencies {
     compile 'com.balysv:material-ripple:1.0.2'
     compile 'com.jakewharton:butterknife:8.0.1'
     compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.makeramen:roundedimageview:2.2.1'
 }
 

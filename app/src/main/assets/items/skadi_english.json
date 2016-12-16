@@ -1,5 +1,5 @@
 {
-  "attrib": "+ 25 All Attributes<br/>+ 250 Health<br/>+ 250 Mana<br/>MOVE SLOW: 35%<br/>ATTACK SLOW: 45%",
+  "attrib": "+ 25 All Attributes<br/>+ 225 Health<br/>+ 250 Mana<br/>MOVE SLOW: 35%<br/>ATTACK SLOW: 45",
   "cd": false,
   "components": [
     "ultimate_orb",
@@ -8,7 +8,7 @@
     "orb_of_venom"
   ],
   "qual": "artifact",
-  "notes": "Lasts 5 seconds with melee Eye of Skadi, 3 seconds with ranged Eye of Skadi.",
+  "notes": "Lasts 5 seconds with melee Eye of Skadi, 2.5 seconds with ranged Eye of Skadi.",
   "desc": "Passive: Cold Attack - Attacks slow the movement and attack speed of the target.<br/><br/>Eye of Skadi is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.  On ranged heroes, Eye of Skadi can be combined with Lifesteal Attack Modifiers.",
   "dname": "Eye of Skadi",
   "dotaId": "skadi",
