@@ -24,6 +24,8 @@ import java.util.List;
 public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implements Filterable {
 
     private List<Item> mFiltered;
+    private Context mContext;
+
     private Filter mFilter = new Filter() {
         @Override
         protected FilterResults performFiltering(CharSequence constraint) {
@@ -52,9 +54,10 @@ public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implemen
         }
     };
 
-    public ItemsAdapter(List<Item> items) {
+    public ItemsAdapter(List<Item> items, Context current) {
         super(items);
         this.mFiltered = mData;
+        this. mContext= current;
     }
 
     @Override
@@ -83,6 +86,13 @@ public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implemen
 
         Item item = getItem(position);
         holder.name.setText(item.getDotaName());
+
+        final int sdk = android.os.Build.VERSION.SDK_INT;
+        if(sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
+            holder.image.setBackgroundDrawable(mContext.getResources().getDrawable(R.drawable.border_image_item) );
+        } else {
+            holder.image.setBackground( mContext.getResources().getDrawable(R.drawable.border_image_item));
+        }
 
         Context context = holder.name.getContext();
         Glide.with(context).load(SteamUtils.getItemImage(item.getDotaId())).into(holder.image);

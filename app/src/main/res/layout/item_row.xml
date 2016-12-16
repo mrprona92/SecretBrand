@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="128dp"
     android:layout_height="wrap_content"
     android:background="?attr/clickableItemBackground"
@@ -9,10 +10,28 @@
     android:paddingRight="@dimen/half_view_padding"
     android:paddingTop="@dimen/half_view_padding">
 
-    <ImageView
+
+    <!-- <com.makeramen.roundedimageview.RoundedImageView
+     android:id="@+id/imgAvatar"
+     android:layout_width="@dimen/avatar_small"
+     android:layout_height="@dimen/avatar_small"
+     android:layout_centerHorizontal="true"
+     android:layout_marginBottom="@dimen/padding_small"
+     android:layout_marginLeft="@dimen/padding_small"
+     android:layout_marginTop="@dimen/padding_small"
+     android:scaleType="centerCrop"
+     android:src="@drawable/img_big_avatar"
+     app:riv_corner_radius="10dip"
+     app:riv_oval="false" />-->
+
+    <com.makeramen.roundedimageview.RoundedImageView
         android:id="@+id/img"
         android:layout_width="@dimen/item_row_image_size"
-        android:layout_height="@dimen/item_row_image_size" />
+        android:layout_height="50dp"
+        android:scaleType="fitCenter"
+        app:riv_corner_radius="3dip"
+        android:adjustViewBounds ="true"
+        app:riv_oval="false" />
 
     <TextView
         android:id="@+id/name"

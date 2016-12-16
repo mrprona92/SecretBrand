@@ -177,7 +177,7 @@ public class ItemSelectActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onRequestSuccess(Item.List items) {
-        mAdapter = new ItemsAdapter(items);
+        mAdapter = new ItemsAdapter(items,this);
         filter = mAdapter.getFilter();
         filter.filter(search);
         gridView.setAdapter(mAdapter);
