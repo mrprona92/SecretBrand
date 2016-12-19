@@ -1,6 +1,7 @@
 package com.badr.infodota.item.adapter;
 
 import android.content.Context;
+import android.graphics.drawable.Drawable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,6 +26,7 @@ public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implemen
 
     private List<Item> mFiltered;
     private Context mContext;
+
 
     private Filter mFilter = new Filter() {
         @Override
@@ -57,7 +59,7 @@ public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implemen
     public ItemsAdapter(List<Item> items, Context current) {
         super(items);
         this.mFiltered = mData;
-        this. mContext= current;
+        this.mContext = current;
     }
 
     @Override
@@ -78,7 +80,7 @@ public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implemen
     @Override
     public ItemHolder onCreateViewHolder(ViewGroup parent, int i) {
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_row, parent, false);
-        return new ItemHolder(view, mOnItemClickListener);
+        return new ItemHolder(view);
     }
 
     @Override
@@ -88,10 +90,34 @@ public class ItemsAdapter extends BaseRecyclerAdapter<Item, ItemHolder> implemen
         holder.name.setText(item.getDotaName());
 
         final int sdk = android.os.Build.VERSION.SDK_INT;
-        if(sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
-            holder.image.setBackgroundDrawable(mContext.getResources().getDrawable(R.drawable.border_image_item) );
+        String costItem = item.getType();
+        Drawable tempDrawAble = null;
+
+        if (costItem != null) {
+            if (costItem.equalsIgnoreCase("consumable")) {
+                tempDrawAble = mContext.getResources().getDrawable(R.drawable.border_image_item_consumer);
+            }
+            if (costItem.equalsIgnoreCase("attributes") || costItem.equalsIgnoreCase("armaments") || costItem.equalsIgnoreCase("arcane")) {
+                tempDrawAble = mContext.getResources().getDrawable(R.drawable.border_image_item_attribute);
+            }
+            if (costItem.equalsIgnoreCase("common")) {
+                tempDrawAble = mContext.getResources().getDrawable(R.drawable.border_image_item_common);
+            }
+            if (costItem.equalsIgnoreCase("support") || costItem.equalsIgnoreCase("caster")) {
+                tempDrawAble = mContext.getResources().getDrawable(R.drawable.border_image_item_support);
+            }
+            if (costItem.equalsIgnoreCase("weapons") || costItem.equalsIgnoreCase("armor")) {
+                tempDrawAble = mContext.getResources().getDrawable(R.drawable.border_image_item_armor);
+            }
+            if (costItem.equalsIgnoreCase("artifacts")) {
+                tempDrawAble = mContext.getResources().getDrawable(R.drawable.border_image_item_artifact);
+            }
+        }
+
+        if (sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
+            holder.image.setBackgroundDrawable(tempDrawAble);
         } else {
-            holder.image.setBackground( mContext.getResources().getDrawable(R.drawable.border_image_item));
+            holder.image.setBackground(tempDrawAble);
         }
 
         Context context = holder.name.getContext();

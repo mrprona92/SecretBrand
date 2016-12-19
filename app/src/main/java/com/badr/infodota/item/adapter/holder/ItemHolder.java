@@ -1,5 +1,6 @@
 package com.badr.infodota.item.adapter.holder;
 
+import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -13,12 +14,12 @@ import com.badr.infodota.base.adapter.holder.BaseViewHolder;
  * 17.12.2014
  * 18:05
  */
-public class ItemHolder extends BaseViewHolder {
+public class ItemHolder extends  BaseViewHolder {
     public TextView name;
     public ImageView image;
 
-    public ItemHolder(View itemView, OnItemClickListener listener) {
-        super(itemView, listener);
+    public ItemHolder(View itemView) {
+        super(itemView);
     }
 
     @Override

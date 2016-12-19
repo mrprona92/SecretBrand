@@ -34,6 +34,8 @@
 -keep class com.pnikosis.** { *; }
 -keep class com.balysv.** { *; }
 -keep class com.jakewharton:butterknife.** { *; }
+-keep class com.yayandroid.** { *; }
+
 
 -keep class android.support.v4.** { *; }
 -keep interface android.support.v4.app.** { *; }

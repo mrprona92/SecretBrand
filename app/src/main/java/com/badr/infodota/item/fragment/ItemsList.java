@@ -226,6 +226,9 @@ public class ItemsList extends SCBaseFragment implements SearchableFragment, OnI
             gridView.setLayoutManager(layoutManager);
             setColumnSize();
         }
+
+
+
     }
 
     private void loadItems() {
