@@ -1,11 +1,13 @@
 package com.badr.infodota.hero.adapter;
 
 import android.content.Context;
+import android.media.Image;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Filter;
 import android.widget.Filterable;
+import android.widget.ImageView;
 
 import com.badr.infodota.R;
 import com.badr.infodota.base.adapter.BaseRecyclerAdapter;
@@ -16,6 +18,8 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+
 
 /**
  * User: ABadretdinov
@@ -24,10 +28,15 @@ import java.util.List;
  */
 public class HeroesAdapter extends BaseRecyclerAdapter<Hero, HeroHolder> implements Filterable {
     private List<Hero> filtered;
+    private Context mContext;
+    private Map<Long, Integer> mMapType;
 
-    public HeroesAdapter(List<Hero> heroes) {
+
+    public HeroesAdapter(List<Hero> heroes, Context current, Map<Long, Integer> mMapType) {
         super(heroes);
         filtered = mData;
+        this.mContext = current;
+        this.mMapType = mMapType;
     }
 
     @Override
@@ -50,8 +59,29 @@ public class HeroesAdapter extends BaseRecyclerAdapter<Hero, HeroHolder> impleme
     public void onBindViewHolder(HeroHolder holder, int position) {
         Hero hero = getItem(position);
         holder.name.setText(hero.getLocalizedName());
+        final int sdk = android.os.Build.VERSION.SDK_INT;
+        int type = mMapType.get(hero.getId());
+
+        if (sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
+            if (type == 0) {
+                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_str));
+            } else if (type == 1) {
+                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_agi));
+            } else if (type == 2){
+                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_int));
+            }
+        } else {
+            if (type == 0) {
+                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_str));
+            } else if (type == 1) {
+                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_agi));
+            } else if (type == 2){
+                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_int));
+            }
+        }
+
         Context context = holder.name.getContext();
-        Glide.with(context).load(SteamUtils.getHeroFullImage(hero.getDotaId())).placeholder(R.drawable.default_img).into(holder.image);
+        Glide.with(context).load(SteamUtils.getHeroFullImage(hero.getDotaId())).into(holder.image);
     }
 
     @Override

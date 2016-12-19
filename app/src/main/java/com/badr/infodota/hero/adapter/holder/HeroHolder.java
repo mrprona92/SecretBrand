@@ -8,6 +8,8 @@ import com.badr.infodota.R;
 import com.badr.infodota.base.adapter.OnItemClickListener;
 import com.badr.infodota.base.adapter.holder.BaseViewHolder;
 
+import butterknife.ButterKnife;
+
 /**
  * Created by ABadretdinov
  * 17.12.2014
@@ -16,6 +18,7 @@ import com.badr.infodota.base.adapter.holder.BaseViewHolder;
 public class HeroHolder extends BaseViewHolder {
     public TextView name;
     public ImageView image;
+    public ImageView heroType;
 
     public HeroHolder(View itemView, OnItemClickListener listener) {
         super(itemView, listener);
@@ -25,5 +28,6 @@ public class HeroHolder extends BaseViewHolder {
     protected void initView(View itemView) {
         name = (TextView) itemView.findViewById(R.id.name);
         image = (ImageView) itemView.findViewById(R.id.img);
+        heroType = (ImageView) itemView.findViewById(R.id.imgHeroType);
     }
 }
