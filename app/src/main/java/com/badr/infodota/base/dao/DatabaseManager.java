@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 public class DatabaseManager {
     private static DatabaseManager instance;
-    private static Helper mHelper;
+    public static Helper mHelper;
     private AtomicInteger mOpenCounter = new AtomicInteger();
     private SQLiteDatabase mDatabase;
 

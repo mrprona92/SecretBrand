@@ -1,16 +1,23 @@
 package com.badr.infodota.base.dao;
 
 import android.content.Context;
+import android.content.Intent;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import com.badr.infodota.BeanContainer;
+import com.badr.infodota.hero.api.Hero;
+import com.badr.infodota.hero.api.HeroStats;
 import com.badr.infodota.hero.dao.AbilityDao;
 import com.badr.infodota.hero.dao.HeroDao;
 import com.badr.infodota.hero.dao.HeroStatsDao;
 import com.badr.infodota.item.dao.ItemDao;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * User: ABadretdinov
@@ -19,7 +26,7 @@ import java.util.List;
  */
 public class Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "dota2.db";
-    public static final int DATABASE_VERSION = 59;
+    public static final int DATABASE_VERSION = 60;
 
     /*public static final String CREATE_ITEMS_FROM="create table if not exists "+
             " items_from ( _id integer PRIMARY KEY AUTOINCREMENT, item_id integer not null, need_id integer not null);";*/
@@ -40,7 +47,7 @@ public class Helper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        if (oldVersion < 59) {
+        if (oldVersion < 60) {
             reinitHeroesAndItems(db);
         }
         List<CreateTableDao> allDaos = BeanContainer.getInstance().getAllDaos();
@@ -56,5 +63,27 @@ public class Helper extends SQLiteOpenHelper {
         db.execSQL("drop table " + HeroStatsDao.TABLE_NAME);
         db.execSQL("drop table " + AbilityDao.TABLE_NAME);
         db.execSQL("update updated_version set version=0;");
+    }
+
+    public Map<Long,Integer> getAllStatsHero() {
+        Map<Long,Integer> statsList = new HashMap<>();
+        // Select All Query
+        String selectQuery = "SELECT  * FROM " + HeroStatsDao.TABLE_NAME;
+
+        SQLiteDatabase db = this.getWritableDatabase();
+        Cursor cursor = db.rawQuery(selectQuery, null);
+
+        // looping through all rows and adding to list
+        if (cursor.moveToFirst()) {
+            do {
+                HeroStats heroStats = new HeroStats();
+                heroStats.setId(cursor.getInt(0));
+                heroStats.setPrimaryStat(cursor.getInt(20));
+                // Adding contact to list
+                statsList.put(heroStats.getId(),heroStats.getPrimaryStat());
+            } while (cursor.moveToNext());
+        }
+        // return contact list
+        return statsList;
     }
 }

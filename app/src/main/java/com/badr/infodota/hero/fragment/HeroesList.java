@@ -33,6 +33,7 @@ import com.badr.infodota.R;
 import com.badr.infodota.base.activity.AboutActivity;
 import com.badr.infodota.base.activity.ListHolderActivity;
 import com.badr.infodota.base.adapter.OnItemClickListener;
+import com.badr.infodota.base.dao.DatabaseManager;
 import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.fragment.SearchableFragment;
 import com.badr.infodota.base.service.LocalSpiceService;
@@ -58,6 +59,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 
 import pl.droidsonroids.gif.GifDrawable;
 import pl.droidsonroids.gif.GifImageView;
@@ -77,9 +79,14 @@ public class HeroesList extends SCBaseFragment implements SearchableFragment, Re
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private String mSearch = null;
     private String mFilter = null;
+    private Map<Long, Integer> mMapTypeHero;
 
     @Override
     public void onStart() {
+        Activity activity = getActivity();
+
+        mMapTypeHero= DatabaseManager.getInstance(activity).mHelper.getAllStatsHero();
+
         if (!mSpiceManager.isStarted()) {
             mSpiceManager.start(getActivity());
             if (carousel) {
@@ -373,7 +380,7 @@ public class HeroesList extends SCBaseFragment implements SearchableFragment, Re
             pager.setAdapter(adapter);
         } else if (o instanceof Hero.List) {
             Hero.List result = (Hero.List) o;
-            final HeroesAdapter adapter = new HeroesAdapter(result);
+            final HeroesAdapter adapter = new HeroesAdapter(result,mActivity,mMapTypeHero);
             Filter filter = adapter.getFilter();
             filter.filter(mSearch);
             gridView.setAdapter(adapter);
