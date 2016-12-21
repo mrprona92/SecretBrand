@@ -1,0 +1,58 @@
+[
+    {
+        "dname": "Flux",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Unit Target</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>",
+        "desc": "Infuses a lone enemy unit with swirling, volatile energy, slowing its movement speed and dealing damage over time. The effect is muted if another enemy unit is near the target.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "Cast Animation: <b><font color=\"#ffffff\">0.3+0.77</font></b><br/>Cast Range: <b><font color=\"#ffffff\">500/600/700/800</font></b>Search Radius: <b><font color=\"#ffffff\">225</font></b>Damage per Second: <b><font color=\"#ffffff\">15/30/45/60</font></b>Move Speed Slow: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b>Duration: <b><font color=\"#ffffff\">6</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 18",
+        "lore": "An infinitesimal fraction of the power which imprisoned the Ancients.",
+        "hurl": "Arc_Warden",
+        "name": "arc_warden_flux",
+        "youtube":"pONHCWXnurg",
+        "id": 0
+    },
+    {
+        "dname": "Magnetic Field",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Target Area</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allied Units</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#ffffff\">No</font></b>",
+        "desc": "Generates a circular distortion field of magnetic energy that protects allied heroes and buildings within it by evading attacks coming from outside the field.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">15</font></b><br/>MAX DAMAGE ABSORBED: <b><font color=\"#ffffff\">110/140/170/200</font></b><br/>BURST RADIUS: <b><font color=\"#ffffff\">675</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 35/30/25/20",
+        "lore": "Time and space are of little consequence to one as old as Zet.",
+        "hurl": "Arc_Warden",
+        "name": "arc_warden_magnetic_field",
+        "youtube":"aCoP7DZgu8o",
+        "id": 1
+    },
+    {
+        "dname": "Curse of Avernus",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b><br/>PIERCES SPELL IMMUNITY: <b><font color=\"#70EA72\">Yes</font></b>",
+        "desc": "Abaddon strikes an enemy with chilling curse on each attack, causing all units who attack the slowed enemy to gain increased movement speed, along with faster attack speed, for a limited time.",
+        "notes": "",
+        "dmg": "",
+        "attrib": "DEBUFF DURATION: <b><font color=\"#ffffff\">2.5</font></b><br/>BUFF DURATION: <b><font color=\"#ffffff\">4.5</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">5%/10%/15%/20%</font></b><br/>ATTACK SLOW: <b><font color=\"#ffffff\">5/10/15/20</font></b><br/>MOVE SPEED BONUS: <b><font color=\"#ffffff\">15%</font></b><br/>ATTACK SPEED BONUS: <b><font color=\"#ffffff\">10/20/30/40</font></b>",
+        "cmb": "",
+        "lore": "The curse that slows an enemy, speeds an ally.",
+        "hurl": "Arc_Warden",
+        "name": "abaddon_frostmourne",
+        "youtube":"83iU74QhxWw",
+        "id": 2
+    },
+    {
+        "dname": "Borrowed Time",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "When activated, all damage dealt to you will heal instead of harm. Most negative buffs will also be removed. If the ability is not on cooldown, it will passively activate if your hitpoints drop below 400.<br/>Upgradable by Aghanim\u0027s Scepter.",
+        "notes": "Borrowed Time can be activated while Abaddon is disabled, but not while silenced.",
+        "dmg": "",
+        "attrib": "HP THRESHOLD: <b><font color=\"#ffffff\">400</font></b><br/>DURATION: <b><font color=\"#ffffff\">4/5/6</font></b><br/><font color=\"#6fe871\">SCEPTER DURATION:</font></b> <b><font color=\"#ffffff\">5/6/7</font></b><br/><font color=\"#6fe871\">REDIRECT RANGE:</font></b> <b><font color=\"#ffffff\">900</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 0/0/0<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 60/50/40",
+        "lore": "The most unnatural of all the gifts of the Font of Avernus, this power defies mortal understanding.  What should hurt, instead heals; and what should kill gives strength anew.",
+        "hurl": "Arc_Warden",
+        "name": "abaddon_borrowed_time",
+        "youtube":"9J7CPbAg9dU",
+        "id": 3
+    }
+]
