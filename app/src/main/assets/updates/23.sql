@@ -108,3 +108,6 @@ UNION ALL SELECT '109','Terrorblade','npc_dota_hero_terrorblade'
 UNION ALL SELECT '110','Phoenix','npc_dota_hero_phoenix'
 UNION ALL SELECT '111','Oracle','npc_dota_hero_oracle'
 UNION ALL SELECT '112','Winter Wyvern','npc_dota_hero_winter_wyvern';
+UNION ALL SELECT '113','Arc Warden','npc_dota_hero_arc_warden';
+UNION ALL SELECT '114','Monkey King','npc_dota_hero_monkey_king';
+UNION ALL SELECT '115','Underlord','npc_dota_hero_underlord';

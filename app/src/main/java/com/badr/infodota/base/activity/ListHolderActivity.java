@@ -1,6 +1,7 @@
 package com.badr.infodota.base.activity;
 
 import android.annotation.SuppressLint;
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -8,6 +9,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
@@ -37,6 +39,7 @@ import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
 import com.badr.infodota.base.api.Constants;
 import com.badr.infodota.base.configs.ScreenIDs;
+import com.badr.infodota.base.dao.DatabaseManager;
 import com.badr.infodota.base.dao.Helper;
 import com.badr.infodota.base.fragment.ConfirmDialog;
 import com.badr.infodota.base.fragment.SCAlertDialog;
@@ -51,7 +54,10 @@ import com.badr.infodota.base.util.UpdateUtils;
 import com.badr.infodota.cosmetic.fragment.CosmeticItemsList;
 import com.badr.infodota.counter.api.TruepickerHero;
 import com.badr.infodota.counter.fragment.CounterPickFilter;
+import com.badr.infodota.hero.api.TalentTree;
+import com.badr.infodota.hero.dao.TalentDao;
 import com.badr.infodota.hero.fragment.HeroesList;
+import com.badr.infodota.hero.service.HeroService;
 import com.badr.infodota.item.fragment.ItemsList;
 import com.badr.infodota.joindota.fragment.LeaguesGamesList;
 import com.badr.infodota.news.fragment.NewsList;
@@ -63,7 +69,10 @@ import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.DurationInMillis;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
+import com.parser.JsonSimpleExample;
 
+
+import java.util.Map;
 
 import butterknife.BindColor;
 import butterknife.BindView;
@@ -80,6 +89,7 @@ import static android.view.View.GONE;
 public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener, RequestListener<String> {
     int lastSelected = -1;
 
+    HeroService heroService = BeanContainer.getInstance().getHeroService();
     LocalUpdateService localUpdateService = BeanContainer.getInstance().getLocalUpdateService();
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private boolean doubleBackToExitPressedOnce = false;
@@ -150,9 +160,19 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
 
+
+    public static Map<Long, Integer> mMapTypeHero;
+
+
+
+    public static Map<Long, Integer> getMapTypeHero(){
+        return mMapTypeHero;
+    }
+
     @Override
     protected void onStart() {
         ButterKnife.bind(this);
+        mMapTypeHero= DatabaseManager.getInstance(this).mHelper.getAllStatsHero();
 
         if (!mSpiceManager.isStarted()) {
             mSpiceManager.start(getApplicationContext());

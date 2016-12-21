@@ -21,6 +21,7 @@ import com.badr.infodota.base.activity.BaseActivity;
 import com.badr.infodota.base.util.FileUtils;
 import com.badr.infodota.hero.adapter.pager.HeroPagerAdapter;
 import com.badr.infodota.hero.api.Hero;
+import com.badr.infodota.hero.api.TalentTree;
 import com.badr.infodota.hero.service.HeroService;
 
 /**
@@ -30,6 +31,7 @@ import com.badr.infodota.hero.service.HeroService;
  */
 public class HeroInfoActivity extends BaseActivity {
     private Hero hero;
+    private TalentTree talentTree;
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -60,6 +62,7 @@ public class HeroInfoActivity extends BaseActivity {
         if (intent != null && intent.containsKey("id")) {
             HeroService heroService = BeanContainer.getInstance().getHeroService();
             hero = heroService.getHeroWithStatsById(this, intent.getLong("id"));
+            talentTree= heroService.getTalentTreeByID(this, (int)intent.getLong("id"));
 
             final TypedArray styledAttributes = getTheme()
                     .obtainStyledAttributes(new int[]{R.attr.actionBarSize});
@@ -73,8 +76,7 @@ public class HeroInfoActivity extends BaseActivity {
             }
             getSupportActionBar().setTitle(hero.getLocalizedName());
 
-
-            FragmentPagerAdapter adapter = new HeroPagerAdapter(getSupportFragmentManager(), this, hero);
+            FragmentPagerAdapter adapter = new HeroPagerAdapter(getSupportFragmentManager(), this, hero, talentTree);
 
             final ViewPager pager = (ViewPager) findViewById(R.id.pager);
             pager.setAdapter(adapter);

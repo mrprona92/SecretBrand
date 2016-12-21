@@ -1,0 +1,58 @@
+[
+  {
+    "dname": "Firestorm",
+    "affects": "ABILITY: <b><font color=\"#ffffff\">Target Point</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>",
+    "desc": "Calls down waves of fire that damage enemy units in the target area, burning for additional damage over time.",
+    "notes": "1:The Firestorm burn is dispellable with any dispel.<br/>2:Attempts to damage if debuff was placed before spell immunity.<br/>",
+    "dmg": "",
+    "attrib": "Cast Animation: <b><font color=\"#ffffff\">0.6+0.47</font></b><br/>Cast Range: <b><font color=\"#ffffff\">750</font></b>Effect Radius: <b><font color=\"#ffffff\">400</font></b>Number of Waves: <b><font color=\"#ffffff\">6</font></b>Wave Interval: <b><font color=\"#ffffff\">1</font><br/>Damage per Wave: <b><font color=\"#ffffff\">25/40/55/70</font><br/>Max HP Burn Damage: <b><font color=\"#ffffff\">0.75%/1.5%/2.25%/3%</font><br/>Burn Duration: <b><font color=\"#ffffff\">2</font><br/>",
+    "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/110/120/130<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+    "lore": "The flames of conquest blaze forth from the darkest depths of the abyss.",
+    "hurl": "Underlord",
+    "name": "underlord_firestorm",
+    "youtube": "OfOsXi4zAoA",
+    "id": 0
+  },
+  {
+    "dname": "Pit of Malice",
+    "affects": "ABILITY: <b><font color=\"#ffffff\">Target Area</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies Units</font></b><br/>DAMAGE TYPE: <b><font color=\"#ffffff\">Magical</font></b><br/>",
+    "desc": "A deadly pit is conjured at the target location; any unit that enters is unable to move for some time. Each enemy unit can only be affected once.",
+    "notes": "1:The ensnare is dispellable with any dispel.",
+    "dmg": "",
+    "attrib": "Cast Animation: <b><font color=\"#ffffff\">0.45+0.47</font></b><br/>Cast Range: <b><font color=\"#ffffff\">750</font></b><br/>Effect Radius: <b><font color=\"#ffffff\">375</font></b><br/>Effect Interval: <b><font color=\"#ffffff\">3.5</font></b><br/>Root Duration: <b><font color=\"#ffffff\">0.9/1.2/1.5/1.8</font></b><br/>Pit Duration: <b><font color=\"#ffffff\">12</font></b><br/>",
+    "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/115/130/145<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/26/22/18",
+    "lore": "Sun Wukong dances nimbly along the treetop canopy, always just out of arm's reach.",
+    "hurl": "Underlord",
+    "name": "underlord_pit_of_malice",
+    "youtube": "nMxaUq36Zh8",
+    "id": 1
+  },
+  {
+    "dname": "Atrophy Aura",
+    "affects": "ABILITY: <b><font color=\"#ffffff\">Aura</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Enemies</font></b><br/>",
+    "desc": "To merely stand in the presence of the Underlord is to feel the conviction of battle sapped from one's soul.",
+    "notes": "",
+    "dmg": "",
+    "attrib": "Radius: <b><font color=\"#ffffff\">900</font></b><br/>Attack Damage Reduction: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>Attack Damage per Hero Death: <b><font color=\"#ffffff\">30/35/40/45</font></b><br/>Attack Damage per Non-Hero Death: <b><font color=\"#ffffff\">5</font></b><br/>Attack Damage Bonus Duration: <b><font color=\"#ffffff\">30/40/50/60</font></b><br/>",
+    "cmb": "",
+    "lore": "To merely stand in the presence of the Underlord is to feel the conviction of battle sapped from one's soul.",
+    "hurl": "Underlord",
+    "name": "underlord_atrophy_aura",
+    "youtube": "FxIREz6YYpo",
+    "id": 2
+  },
+  {
+    "dname": "Dark Rift",
+    "affects": "ABILITY: <b><font color=\"#ffffff\">Target Point/Target Unit</font></b><br/>AFFECTS: <b><font color=\"#ffffff\">Allies</font></b><br/>",
+    "desc": "Opens a dark rift at the targeted friendly unit's position. After a short delay, Underlord and all nearby friendly heroes are teleported to that unit's location. Dark Rift can be cancelled at any time during the cast. If it is cancelled in this way, or the target unit dies before the spell becomes active, Dark Rift goes into cooldown.",
+    "notes": "",
+    "dmg": "",
+    "attrib": "Cast Animation: <b><font color=\"#ffffff\">0.6+0.47</font></b><br/>Cast Range: <b><font color=\"#ffffff\">Global</font></b><br/><font color=\"#6fe871\"></b><br/>Radius</font></b> <b><font color=\"#ffffff\">600</font></b><br/>Teleport Delay: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>Duration: <b><font color=\"#ffffff\">6/5/4</font></b><br/>",
+    "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75/150/225<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 130/120/110",
+    "lore": "They come without warning, leaving fire and blood where kingdoms once flourished.",
+    "hurl": "Underlord",
+    "name": "underlord_dark_rift",
+    "youtube": "AoQeP-c5_CQ",
+    "id": 3
+  }
+]

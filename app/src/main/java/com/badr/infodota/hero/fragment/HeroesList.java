@@ -85,7 +85,7 @@ public class HeroesList extends SCBaseFragment implements SearchableFragment, Re
     public void onStart() {
         Activity activity = getActivity();
 
-        mMapTypeHero= DatabaseManager.getInstance(activity).mHelper.getAllStatsHero();
+        mMapTypeHero= ListHolderActivity.getMapTypeHero();
 
         if (!mSpiceManager.isStarted()) {
             mSpiceManager.start(getActivity());

@@ -60,23 +60,25 @@ public class HeroesAdapter extends BaseRecyclerAdapter<Hero, HeroHolder> impleme
         Hero hero = getItem(position);
         holder.name.setText(hero.getLocalizedName());
         final int sdk = android.os.Build.VERSION.SDK_INT;
-        int type = mMapType.get(hero.getId());
+        if (mMapType != null && mMapType.containsKey(hero.getId())) {
+            int type = mMapType.get(hero.getId());
 
-        if (sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
-            if (type == 0) {
-                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_str));
-            } else if (type == 1) {
-                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_agi));
-            } else if (type == 2){
-                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_int));
-            }
-        } else {
-            if (type == 0) {
-                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_str));
-            } else if (type == 1) {
-                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_agi));
-            } else if (type == 2){
-                holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_int));
+            if (sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
+                if (type == 0) {
+                    holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_str));
+                } else if (type == 1) {
+                    holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_agi));
+                } else if (type == 2) {
+                    holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_int));
+                }
+            } else {
+                if (type == 0) {
+                    holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_str));
+                } else if (type == 1) {
+                    holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_agi));
+                } else if (type == 2) {
+                    holder.heroType.setImageDrawable(mContext.getResources().getDrawable(R.drawable.overviewicon_int));
+                }
             }
         }
 

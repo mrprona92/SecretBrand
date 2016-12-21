@@ -7,6 +7,7 @@ import android.text.TextUtils;
 
 import com.badr.infodota.base.dao.GeneralDaoImpl;
 import com.badr.infodota.hero.api.Hero;
+import com.badr.infodota.hero.api.TalentTree;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,6 +23,40 @@ public class HeroDao extends GeneralDaoImpl<Hero> {
 
     public static final String COLUMN_NAME = "name";
     public static final String COLUMN_LOCALIZED_NAME = "localized_name";
+
+    public static final String COLUMN_ITEM_ID = "item_id";
+
+
+
+    public static final String COLUMN_NAME_TALENT = "hero_name";
+    public static final String TABLE_TALENT_NAME = "talent_tree";
+    /*
+    * 0- id
+    * 1- name
+    * 2- 25left
+    * 3- 20left
+    * 4- 15left
+    * 5- 10left
+    * 6- 25right
+    * 7- 20right
+    * 8- 15right
+    * 9- 10right
+
+    * */
+    public static final String COLUMN_TALENT_TREE_NAME = "hero_name";
+    public static final String COLUMN_25LEFT = "col25left";
+    public static final String COLUMN_20LEFT = "col20left";
+    public static final String COLUMN_15LEFT = "col15left";
+    public static final String COLUMN_10LEFT = "col10left";
+    public static final String COLUMN_25RIGHT = "col25right";
+    public static final String COLUMN_20RIGHT = "col20right";
+    public static final String COLUMN_15RIGHT = "col15right";
+    public static final String COLUMN_10RIGHT = "col10right";
+
+
+
+
+
     private static final String CREATE_TABLE_QUERY = "( "
             + COLUMN_ID + " integer primary key, "
             + COLUMN_NAME + " text default null,"
@@ -121,5 +156,26 @@ public class HeroDao extends GeneralDaoImpl<Hero> {
         } finally {
             cursor.close();
         }
+    }
+
+    public static void bindItems(SQLiteDatabase database, TalentTree talentTree) {
+        unbindTalentTree(database, talentTree);
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_ID, talentTree.getId());
+        values.put(COLUMN_NAME_TALENT, talentTree.getName());
+        values.put(COLUMN_25LEFT, talentTree.getLv25Left());
+        values.put(COLUMN_20LEFT, talentTree.getLv20Left());
+        values.put(COLUMN_15LEFT, talentTree.getLv15Left());
+        values.put(COLUMN_10LEFT, talentTree.getLv10Left());
+        values.put(COLUMN_25RIGHT, talentTree.getLv25Right());
+        values.put(COLUMN_20RIGHT, talentTree.getLv20Right());
+        values.put(COLUMN_15RIGHT, talentTree.getLv15Right());
+        values.put(COLUMN_10RIGHT, talentTree.getLv10Right());
+        database.insert(TABLE_TALENT_NAME, null, values);
+
+    }
+
+    public static void unbindTalentTree(SQLiteDatabase database, TalentTree talentTree) {
+        database.delete(TABLE_TALENT_NAME, COLUMN_ID + "=?", new String[]{String.valueOf(talentTree.getId())});
     }
 }

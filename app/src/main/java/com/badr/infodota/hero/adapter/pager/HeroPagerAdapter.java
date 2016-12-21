@@ -7,6 +7,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import com.badr.infodota.R;
 import com.badr.infodota.hero.api.Hero;
+import com.badr.infodota.hero.api.TalentTree;
 import com.badr.infodota.hero.fragment.HeroDefaultItemBuild;
 import com.badr.infodota.hero.fragment.HeroResponses;
 import com.badr.infodota.hero.fragment.HeroSkills;
@@ -20,18 +21,20 @@ import com.badr.infodota.hero.fragment.HeroStatInfo;
 public class HeroPagerAdapter extends FragmentPagerAdapter {
     private Context context;
     private Hero hero;
+    private TalentTree talentTree;
 
-    public HeroPagerAdapter(FragmentManager fragmentManager, Context context, Hero hero) {
+    public HeroPagerAdapter(FragmentManager fragmentManager, Context context, Hero hero,TalentTree mTalentTree) {
         super(fragmentManager);
         this.hero = hero;
         this.context = context;
+        this.talentTree= mTalentTree;
     }
 
     @Override
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                return HeroStatInfo.newInstance(hero);
+                return HeroStatInfo.newInstance(hero,talentTree);
             case 1:
                 return HeroSkills.newInstance(hero);
             case 2:

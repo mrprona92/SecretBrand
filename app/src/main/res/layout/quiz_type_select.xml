@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/half_view_padding"
         android:text="@string/record_attempt"
+        android:checked="true"
         android:textSize="18sp" />
 
     <TextView

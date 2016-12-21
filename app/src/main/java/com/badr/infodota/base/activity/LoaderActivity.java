@@ -152,4 +152,65 @@ public class LoaderActivity extends Activity implements RequestListener<String> 
 
         super.onActivityResult(requestCode, resultCode, data);
     }
+
+    /*private void checkGooglePlayServicesAndRun() {
+        *//*int code= GooglePlayServicesUtil.isGooglePlayServicesAvailable(this);
+        if(ConnectionResult.SUCCESS==code){*//*
+        *//*new LoaderProgressTask<>(new ProgressTask<String>() {
+            @Override
+            public String doTask(OnPublishProgressListener listener) throws Exception {
+                try {
+                    listener.progressUpdated("STARTING");
+                    String path=FileUtils.externalFileDir(LoaderActivity.this).getAbsolutePath();
+                    String setsVDF=FileUtils.getTextFromAsset(LoaderActivity.this, "item_sets.txt");
+                    String jsonSets= VDFtoJsonParser.parse(setsVDF);
+                    FileUtils.saveFile(path + File.separator + "sets.json", new ByteArrayInputStream(jsonSets.getBytes("UTF-8")));
+                    listener.progressUpdated("SETS DONE");
+                    String itemsVDF=FileUtils.getTextFromAsset(LoaderActivity.this,"items.txt");
+                    String jsonItems= VDFtoJsonParser.parse(itemsVDF);
+                    FileUtils.saveFile(path + File.separator + "items.json", new ByteArrayInputStream(jsonItems.getBytes("UTF-8")));
+                    listener.progressUpdated("ITEMS DONE");
+                }
+                catch (Exception e){
+                    e.printStackTrace();
+                }
+                return "";
+            }
+            @Override
+            public void doAfterTask(String result) {*//*
+        runApp();
+            *//*}
+            @Override
+            public void handleError(String error) {
+            }
+            @Override
+            public String getName() {
+                return null;
+            }
+        }, new LoaderProgressTask.OnProgressUpdateListener() {
+            @Override
+            public void onStart() {
+            }
+            @Override
+            public void onProgressUpdate(String... progress) {
+                Toast.makeText(LoaderActivity.this,progress[0],Toast.LENGTH_SHORT).show();
+            }
+            @Override
+            public void onFinish() {
+            }
+        }).execute();*//*
+        *//*}
+        else {
+            //showDialog=false;
+            GooglePlayServicesUtil.getErrorDialog(code, this,PLAY_SERVICES_REQUEST,new DialogInterface.OnCancelListener() {
+                @Override
+                public void onCancel(DialogInterface dialog) {
+                    dialog.dismiss();
+                    finish();
+                }
+            }).show();
+			info.setText(getString(R.string.loading_heroes_completed_and_stoped));
+        }*//*
+    }*/
+
 }

@@ -5,6 +5,7 @@ import android.content.Context;
 import com.badr.infodota.InitializingBean;
 import com.badr.infodota.hero.api.CarouselHero;
 import com.badr.infodota.hero.api.Hero;
+import com.badr.infodota.hero.api.TalentTree;
 import com.badr.infodota.hero.api.abilities.Ability;
 
 import java.util.List;
@@ -17,6 +18,9 @@ import java.util.List;
 public interface HeroService extends InitializingBean {
 
     List<Hero> getAllHeroes(Context context);
+
+    TalentTree getTalentTreeByID(Context context, int id);
+
 
     Hero.List getFilteredHeroes(Context context, String filter);
 
@@ -43,5 +47,7 @@ public interface HeroService extends InitializingBean {
     String getAbilityPath(Context context, long id);
 
     void saveAbility(Context context, Ability ability);
+
+    void saveTalentsTree(Context context, List<TalentTree> talentTrees);
 
 }

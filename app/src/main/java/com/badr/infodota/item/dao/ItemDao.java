@@ -186,10 +186,10 @@ public class ItemDao extends GeneralDaoImpl<Item> {
                     }
                 }
                 ContentValues values = new ContentValues();
-                values.put(COLUMN_ITEM_ID, item.getId());
-                values.put(COLUMN_NEED_ID, fromId);
-                database.insert(ITEMS_FROM_MAPPER_TABLE_NAME, null, values);
-            }
+            values.put(COLUMN_ITEM_ID, item.getId());
+            values.put(COLUMN_NEED_ID, fromId);
+            database.insert(ITEMS_FROM_MAPPER_TABLE_NAME, null, values);
+        }
         }
     }
 

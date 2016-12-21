@@ -13,9 +13,11 @@ import com.badr.infodota.cosmetic.service.CosmeticServiceImpl;
 import com.badr.infodota.counter.dao.TruepickerHeroDao;
 import com.badr.infodota.counter.remote.CounterRemoteEntityServiceImpl;
 import com.badr.infodota.counter.service.CounterServiceImpl;
+import com.badr.infodota.hero.api.TalentTree;
 import com.badr.infodota.hero.dao.AbilityDao;
 import com.badr.infodota.hero.dao.HeroDao;
 import com.badr.infodota.hero.dao.HeroStatsDao;
+import com.badr.infodota.hero.dao.TalentDao;
 import com.badr.infodota.hero.service.HeroServiceImpl;
 import com.badr.infodota.item.dao.ItemDao;
 import com.badr.infodota.item.service.ItemServiceImpl;
@@ -94,6 +96,8 @@ public class BeanContainer implements InitializingBean {
 
     private HeroServiceImpl heroService;
     private HeroDao heroDao;
+    private TalentDao talentDao;
+
     private HeroStatsDao heroStatsDao;
     private TruepickerHeroDao truepickerHeroDao;
     private AbilityDao abilityDao;
@@ -112,6 +116,7 @@ public class BeanContainer implements InitializingBean {
 
         allDaos = new ArrayList<>();
 
+        talentDao= new TalentDao();
         heroDao = new HeroDao();
         heroStatsDao = new HeroStatsDao();
         truepickerHeroDao = new TruepickerHeroDao(heroDao);
@@ -121,6 +126,8 @@ public class BeanContainer implements InitializingBean {
         streamDao = new StreamDao();
         teamDao = new TeamDao();
 
+
+        allDaos.add(talentDao);
         allDaos.add(heroDao);
         allDaos.add(heroStatsDao);
         allDaos.add(truepickerHeroDao);
@@ -130,6 +137,8 @@ public class BeanContainer implements InitializingBean {
         allDaos.add(streamDao);
         //todo updated_version
         allDaos.add(teamDao);
+
+
 
         localUpdateService = new LocalUpdateService();
 
@@ -239,7 +248,7 @@ public class BeanContainer implements InitializingBean {
     }
 
     public TI4ServiceImpl getTi4Service() {
-        return ti4Service;
+        return ti4Service ;
     }
 
     public TeamServiceImpl getTeamService() {
@@ -260,6 +269,11 @@ public class BeanContainer implements InitializingBean {
 
     public HeroDao getHeroDao() {
         return heroDao;
+    }
+
+
+    public TalentDao getTalentDao() {
+        return talentDao;
     }
 
     public HeroStatsDao getHeroStatsDao() {

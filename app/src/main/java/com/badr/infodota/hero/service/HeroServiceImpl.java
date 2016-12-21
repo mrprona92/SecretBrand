@@ -1,6 +1,7 @@
 package com.badr.infodota.hero.service;
 
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.text.TextUtils;
 
@@ -9,10 +10,12 @@ import com.badr.infodota.base.dao.DatabaseManager;
 import com.badr.infodota.hero.api.CarouselHero;
 import com.badr.infodota.hero.api.Hero;
 import com.badr.infodota.hero.api.HeroStats;
+import com.badr.infodota.hero.api.TalentTree;
 import com.badr.infodota.hero.api.abilities.Ability;
 import com.badr.infodota.hero.dao.AbilityDao;
 import com.badr.infodota.hero.dao.HeroDao;
 import com.badr.infodota.hero.dao.HeroStatsDao;
+import com.badr.infodota.hero.dao.TalentDao;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -29,6 +32,7 @@ public class HeroServiceImpl implements HeroService {
     private HeroDao heroDao;
     private HeroStatsDao heroStatsDao;
     private AbilityDao abilityDao;
+    private TalentDao talentDao;
 
     @Override
     public void initialize() {
@@ -36,6 +40,7 @@ public class HeroServiceImpl implements HeroService {
         heroDao = beanContainer.getHeroDao();
         heroStatsDao = beanContainer.getHeroStatsDao();
         abilityDao = beanContainer.getAbilityDao();
+        talentDao= beanContainer.getTalentDao();
     }
 
     @Override
@@ -44,6 +49,17 @@ public class HeroServiceImpl implements HeroService {
         SQLiteDatabase database = manager.openDatabase();
         try {
             return heroDao.getAllEntities(database);
+        } finally {
+            manager.closeDatabase();
+        }
+    }
+
+    @Override
+    public TalentTree getTalentTreeByID(Context context, int id) {
+        DatabaseManager manager = DatabaseManager.getInstance(context);
+        SQLiteDatabase database = manager.openDatabase();
+        try {
+            return talentDao.getShortTalentsTree(database,id);
         } finally {
             manager.closeDatabase();
         }
@@ -319,6 +335,19 @@ public class HeroServiceImpl implements HeroService {
             abilityDao.saveOrUpdate(database, ability);
         } finally {
             manager.closeDatabase();
+        }
+    }
+
+    @Override
+    public void saveTalentsTree(Context context, List<TalentTree> talentTrees) {
+        DatabaseManager manager = DatabaseManager.getInstance(context);
+        for (TalentTree talentTree : talentTrees) {
+            SQLiteDatabase database = manager.openDatabase();
+            try {
+                heroDao.bindItems(database, talentTree);
+            } finally {
+                manager.closeDatabase();
+            }
         }
     }
 }

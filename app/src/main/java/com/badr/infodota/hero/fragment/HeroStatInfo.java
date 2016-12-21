@@ -24,6 +24,7 @@ import com.badr.infodota.base.util.SteamUtils;
 import com.badr.infodota.base.util.Utils;
 import com.badr.infodota.hero.api.Hero;
 import com.badr.infodota.hero.api.HeroStats;
+import com.badr.infodota.hero.api.TalentTree;
 import com.badr.infodota.hero.task.MediaPlayerForRandomHeroResponseRequest;
 import com.bumptech.glide.Glide;
 import com.octo.android.robospice.SpiceManager;
@@ -35,6 +36,9 @@ import java.io.File;
 import java.io.IOException;
 import java.text.MessageFormat;
 
+import butterknife.BindView;
+import butterknife.BindViews;
+import butterknife.ButterKnife;
 import pl.droidsonroids.gif.GifDrawable;
 import pl.droidsonroids.gif.GifImageView;
 
@@ -48,10 +52,42 @@ public class HeroStatInfo extends Fragment implements RequestListener<MediaPlaye
     private Hero mHero;
     private GifImageView mImageView;
     private MediaPlayer mMediaPlayer;
+    private static TalentTree mTalentTree;
 
-    public static HeroStatInfo newInstance(Hero hero) {
+
+    @BindView(R.id.txt25Left)
+    TextView txt25Left;
+
+    @BindView(R.id.txt20Left)
+    TextView txt20Left;
+
+    @BindView(R.id.txt15Left)
+    TextView txt15Left;
+
+    @BindView(R.id.txt10Left)
+    TextView txt10Left;
+
+    @BindView(R.id.txt25Right)
+    TextView txt25Right;
+
+    @BindView(R.id.txt20Right)
+    TextView txt20Right;
+
+    @BindView(R.id.txt15Right)
+    TextView txt15Right;
+
+    @BindView(R.id.txt10Right)
+    TextView txt10Right;
+
+
+
+
+
+
+    public static HeroStatInfo newInstance(Hero hero, TalentTree talentTree) {
         HeroStatInfo fragment = new HeroStatInfo();
         fragment.mHero = hero;
+        mTalentTree= talentTree;
         return fragment;
     }
 
@@ -96,7 +132,9 @@ public class HeroStatInfo extends Fragment implements RequestListener<MediaPlaye
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.hero_stats, container, false);
+        View v=inflater.inflate(R.layout.hero_stats, container, false);
+        ButterKnife.bind(this,v);
+        return v;
     }
 
     @Override
@@ -256,6 +294,16 @@ public class HeroStatInfo extends Fragment implements RequestListener<MediaPlaye
             String path = "heroes/" + mHero.getDotaId() + "/lore_" + locale + ".txt";
             ((TextView) root.findViewById(R.id.txtLore)).setText(Html.fromHtml(FileUtils.getTextFromAsset(getActivity(), path)));
             //http://www.playdota.com/mechanics/damagearmor
+
+            txt25Left.setText(mTalentTree.getLv25Left());
+            txt20Left.setText(mTalentTree.getLv20Left());
+            txt15Left.setText(mTalentTree.getLv15Left());
+            txt10Left.setText(mTalentTree.getLv10Left());
+
+            txt25Right.setText(mTalentTree.getLv25Right());
+            txt20Right.setText(mTalentTree.getLv20Right());
+            txt15Right.setText(mTalentTree.getLv15Right());
+            txt10Right.setText(mTalentTree.getLv10Right());
         }
     }
 
