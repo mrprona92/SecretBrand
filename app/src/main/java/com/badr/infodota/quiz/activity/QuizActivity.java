@@ -1,7 +1,9 @@
 package com.badr.infodota.quiz.activity;
 
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
@@ -10,13 +12,16 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import android.support.v4.app.FragmentManager;
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.BaseActivity;
 import com.badr.infodota.base.util.IncreasingCountDownTimer;
 import com.badr.infodota.base.util.prefs.AchievementPreferences;
+import com.badr.infodota.quiz.fragment.GameOverFragment;
 import com.badr.infodota.quiz.fragment.HeroSkillsQuiz;
 import com.badr.infodota.quiz.fragment.ItemsQuiz;
 import com.badr.infodota.quiz.fragment.QuizFragment;
+
 
 import java.text.MessageFormat;
 import java.util.HashMap;
@@ -62,6 +67,8 @@ public class QuizActivity extends BaseActivity {
     private AchievementPreferences prefs;
     private Map<String, String> attrs = new HashMap<String, String>();
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -69,6 +76,8 @@ public class QuizActivity extends BaseActivity {
         getSupportActionBar().setTitle(R.string.quiz);
         idRandom = new Random();
         Bundle bundle = getIntent().getExtras();
+
+
         /*if(bundle.containsKey("forAchievements")){
             findViewById(R.id.quiz_stats).setVisibility(View.GONE);
             if(isSignedIn())
@@ -130,7 +139,17 @@ public class QuizActivity extends BaseActivity {
                         checkAchievements();
                         updateLeaderboards(score);
                     }
-                    AlertDialog.Builder builder = new AlertDialog.Builder(QuizActivity.this);
+                    if(true){
+                        Intent returnIntent = new Intent();
+                        returnIntent.putExtra("result", "gameover");
+                        returnIntent.putExtra("score",score);
+                        returnIntent.putExtra("mode",mode);
+                        returnIntent.putExtra("forRecord",forRecord);
+                        setResult(Activity.RESULT_OK,returnIntent);
+                        finish();
+                    }
+
+                  /*  AlertDialog.Builder builder = new AlertDialog.Builder(QuizActivity.this);
                     builder.setTitle(getString(R.string.game_over));
                     builder.setMessage(MessageFormat.format(getString(R.string.total_score), score));
                     builder.setNegativeButton(getString(R.string.back), new DialogInterface.OnClickListener() {
@@ -146,7 +165,7 @@ public class QuizActivity extends BaseActivity {
                             dialog.dismiss();
                             ((QuizFragment) getSupportFragmentManager().findFragmentById(R.id.details)).showLoosed();
                         }
-                    });
+                    });*/
                     /*if (forRecord) {
                         builder.setNeutralButton(getString(R.string.show_records), new DialogInterface.OnClickListener() {
                             @Override
@@ -157,14 +176,14 @@ public class QuizActivity extends BaseActivity {
                             }
                         });
                     }*/
-                    builder.setCancelable(false);
+                   // builder.setCancelable(false);
                 /*builder.setOnCancelListener(new DialogInterface.OnCancelListener() {
                     @Override
 					public void onCancel(DialogInterface dialog) {
 						finish();
 					}
 				});*/
-                    builder.show();
+                  //  builder.show();
                 }
 
                 @Override
@@ -383,4 +402,7 @@ public class QuizActivity extends BaseActivity {
             // getGamesClient().submitScore(getString(strMode), score);
         }
     }
+
+
+
 }

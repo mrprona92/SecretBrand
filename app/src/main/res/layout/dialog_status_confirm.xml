@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.FillWidthHeight.Vertical"
+    android:layout_gravity="center"
+    android:background="@color/cmn_transparent">
+
+    <LinearLayout
+        style="@style/Layout.FillWidth"
+        android:orientation="vertical"
+        android:background="@drawable/bg_rounded_white_border"
+        android:padding="@dimen/padding_small">
+
+        <LinearLayout
+            android:id="@+id/layoutTop"
+            style="@style/Layout.FillWidth.Vertical">
+
+            <TextView
+                android:id="@+id/lblTitle"
+                style="@style/Text.Normal.Dark"
+                android:layout_marginTop="@dimen/padding_medium"
+                android:gravity="center"
+                android:text="@string/quiz_high_score_submit"
+                android:textSize="@dimen/text_normal" />
+
+            <TextView
+                android:id="@+id/lblMessage"
+                style="@style/Text.Normal.Dark"
+                android:layout_margin="@dimen/padding_big"
+                android:gravity="center_horizontal"
+                android:textColor="@color/cmn_black"
+                android:text="JEHAFAFAF"
+                android:textSize="@dimen/text_normal" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/llTextName"
+            android:layout_height="60dp"
+            style="@style/Layout.FillWidth.Horizontal">
+
+            <TextView
+                android:id="@+id/lblTitle2"
+                style="@style/Text.Normal.Dark"
+                android:layout_width="100dp"
+                android:layout_gravity="center"
+                android:text="@string/quiz_high_score_dialog_title_name"
+                android:textSize="@dimen/text_normal" />
+
+            <EditText android:id="@+id/eTxtName"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/cmn_black"
+                android:textSize="@dimen/text_normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llFlags"
+            android:layout_height="60dp"
+            style="@style/Layout.FillWidth.Horizontal">
+
+            <TextView
+                android:id="@+id/lblTitleFlag"
+                style="@style/Text.Normal.Dark"
+                android:layout_width="100dp"
+                android:layout_gravity="center"
+                android:text="@string/quiz_high_score_dialog_title_country"
+                android:textSize="@dimen/text_normal" />
+
+            <TextView android:id="@+id/lblChooseCountry"
+                style="@style/Text.Normal.Dark"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/quiz_high_score_choose_title_country"
+                android:textSize="@dimen/text_normal" />
+
+
+            <ImageView
+                android:id="@+id/imgViewFlag"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:padding="10dp"
+                android:layout_margin="5dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/layoutButton"
+            android:layout_below="@+id/layoutTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="@dimen/padding_medium">
+
+            <RelativeLayout
+                android:id="@+id/llbtnActionCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padding_medium"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/btnActionCancel"
+                    style="@style/Button.Dialog.GrayWeak"
+                    android:layout_height="@dimen/btn_height_medium"
+                    android:layout_width="140dp"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/cmn_text_black"
+                    android:text="@string/cmn_cancel" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/llbtnOk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padding_medium"
+                android:layout_weight="1">
+            <Button
+                android:id="@+id/btnSettle"
+                style="@style/Button.Dialog.Gray"
+                android:layout_height="@dimen/btn_height_medium"
+                android:layout_width="140dp"
+                android:layout_centerInParent="true"
+                android:text="@string/cmn_ok" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

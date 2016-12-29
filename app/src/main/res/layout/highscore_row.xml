@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Layout.FillWidth">
+
+
+    <LinearLayout
+        android:id="@+id/llColumns"
+        style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout style="@style/Layout.FillWidth">
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1.05">
+
+                <TextView
+                    android:id="@+id/lblRanking"
+                    style="@style/Text.Small.Grey.Center"
+                    android:text="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="0.85">
+
+                <TextView
+                    android:id="@+id/lblName"
+                    style="@style/Layout.FillWidth"
+                    android:padding="@dimen/padding_small"
+                    android:gravity="center"
+                    android:text="Binh Tran"
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1.1">
+
+                <ImageView
+                    android:id="@+id/imgFlag"
+                    style="@style/Layout.FillWidth"
+                    android:padding="@dimen/padding_small"
+                    android:src="@drawable/vn" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/lblTextFlag"
+                    style="@style/Text.Small.Grey.Center"
+                    android:text="Viet Nam" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/lblScore"
+                    style="@style/Text.Small.Grey.Center"
+                    android:text="10,000" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1">
+
+
+                <TextView
+                    android:id="@+id/lblDate"
+                    style="@style/Text.Small.Grey.Center"
+                    android:lines="1"
+                    android:text="02/03 11:07" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:id="@+id/viewDivider"
+        style="@style/divider_no_margin"
+        android:layout_below="@id/llColumns"
+        android:layout_marginLeft="0dp" />
+
+</RelativeLayout>
+

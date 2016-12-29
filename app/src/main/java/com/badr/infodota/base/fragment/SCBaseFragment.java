@@ -62,6 +62,9 @@ public abstract class SCBaseFragment extends Fragment {
             onInitializeView();
             mIsViewInitialized = true;
         }
+
+        onConnected();
+
         return mView;
     }
 
@@ -69,9 +72,6 @@ public abstract class SCBaseFragment extends Fragment {
     public void onResume() {
         super.onResume();
         mActivity.updateUI();
-/*        if(mRPC.isConnected()) {
-            onConnected();
-        } else mRPC.connect(mRPC.getConnectListener());*/
     }
 
     @Override

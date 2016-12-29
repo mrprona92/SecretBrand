@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Layout.FillWidthHeight"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout style="@style/Layout.FillWidth"
+        android:id="@+id/rlHeader"
+        android:background="@color/bg_cmn_gray">
+
+            <LinearLayout
+            style="@style/Layout.FillWidth"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/padding_small"
+            >
+
+            <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1.05">
+                <TextView
+                    style="@style/Text.Small.Dark"
+                    android:gravity="center"
+                    android:text="@string/quiz_high_score_title_ranking" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="0.85">
+
+                <TextView
+                    style="@style/Text.Small.Dark"
+                    android:gravity="center"
+                    android:text="@string/quiz_high_score_title_name"/>
+            </LinearLayout>
+
+
+                <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                    android:layout_weight="1.1">
+
+                    <TextView
+                        style="@style/Text.Small.Dark"
+                        android:gravity="center"
+                        android:text="@string/quiz_high_score_title_flag"/>
+                </LinearLayout>
+
+            <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1">
+
+                <TextView
+                    style="@style/Text.Small.Dark"
+                    android:gravity="center"
+                    android:text="@string/quiz_high_score_title_nation_name"/>
+            </LinearLayout>
+
+                <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                    android:layout_weight="1">
+
+                    <TextView
+                        style="@style/Text.Small.Dark"
+                        android:gravity="center"
+                        android:text="@string/quiz_high_score_title_score"/>
+                </LinearLayout>
+
+                <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                    android:layout_weight="1">
+
+                    <TextView
+                        style="@style/Text.Small.Dark"
+                        android:gravity="center"
+                        android:text="@string/quiz_high_score_title_date"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/viewDivider"
+        style="@style/divider_no_margin" />
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerHighscore"
+        style="@style/Layout.FillWidthHeight"
+
+        android:layout_below="@+id/rlHeader"
+        tools:listitem="@layout/highscore_row"/>
+
+    <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+        android:id="@+id/lblBottomText">
+        <TextView
+            style="@style/Text.Normal.Dark"
+            android:layout_width="match_parent"
+            android:layout_margin="@dimen/padding_normal"
+            android:gravity="center_horizontal"
+            android:text="@string/quiz_high_score_no_records" />
+    </LinearLayout>
+
+
+</RelativeLayout>

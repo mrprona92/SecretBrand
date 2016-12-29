@@ -5,4 +5,18 @@
         <item name="clickableItemBackground">?android:attr/selectableItemBackground</item>
         <item name="android:scrollbarThumbVertical">@drawable/scrollbar_handle_material</item>
     </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        ...
+    </style>
+
+    <style name="AppTheme.ActionBar.Transparent" parent="AppTheme">
+        <item name="colorPrimary">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/buy_color</item>
+        <item name="colorPrimary">@color/tabbar_active</item>
+    </style>
+
 </resources>

@@ -1,7 +1,6 @@
 package com.badr.infodota.base.activity;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -9,16 +8,13 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
-import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.os.Handler;
 import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.ActionBar;
-import android.support.v7.widget.ActionMenuPresenter;
 import android.support.v7.widget.SearchView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -33,11 +29,9 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
-import com.badr.infodota.base.api.Constants;
 import com.badr.infodota.base.configs.ScreenIDs;
 import com.badr.infodota.base.dao.DatabaseManager;
 import com.badr.infodota.base.dao.Helper;
@@ -49,28 +43,27 @@ import com.badr.infodota.base.menu.fragment.MenuFragment;
 import com.badr.infodota.base.service.LocalSpiceService;
 import com.badr.infodota.base.service.LocalUpdateService;
 import com.badr.infodota.base.task.UpdateLoadRequest;
-import com.badr.infodota.base.util.UiUtils;
 import com.badr.infodota.base.util.UpdateUtils;
 import com.badr.infodota.cosmetic.fragment.CosmeticItemsList;
-import com.badr.infodota.counter.api.TruepickerHero;
 import com.badr.infodota.counter.fragment.CounterPickFilter;
-import com.badr.infodota.hero.api.TalentTree;
-import com.badr.infodota.hero.dao.TalentDao;
 import com.badr.infodota.hero.fragment.HeroesList;
 import com.badr.infodota.hero.service.HeroService;
 import com.badr.infodota.item.fragment.ItemsList;
 import com.badr.infodota.joindota.fragment.LeaguesGamesList;
 import com.badr.infodota.news.fragment.NewsList;
 import com.badr.infodota.player.fragment.PlayerGroupsHolder;
+import com.badr.infodota.quiz.activity.HighscoreActivity;
+import com.badr.infodota.quiz.activity.QuizActivity;
+import com.badr.infodota.quiz.dialog.SubmitHighscoreDialog;
+import com.badr.infodota.quiz.fragment.GameOverFragment;
+import com.badr.infodota.quiz.fragment.HighscoreFragment;
 import com.badr.infodota.quiz.fragment.QuizTypeSelect;
+import com.badr.infodota.quiz.fragment.RecentHighscoreFragment;
 import com.badr.infodota.stream.fragment.TwitchHolder;
 import com.badr.infodota.trackdota.fragment.TrackdotaMain;
 import com.octo.android.robospice.SpiceManager;
-import com.octo.android.robospice.persistence.DurationInMillis;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
-import com.parser.JsonSimpleExample;
-
 
 import java.util.Map;
 
@@ -79,14 +72,14 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-import static android.view.View.GONE;
+//import android.support.v7.widget.ActionMenuPresenter;
 
 /**
  * User: ABadretdinov
  * Date: 15.01.14
  * Time: 14:27
  */
-public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener, RequestListener<String> {
+public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener, RequestListener<String>,SubmitHighscoreDialog.ConfirmDialogListener {
     int lastSelected = -1;
 
     HeroService heroService = BeanContainer.getInstance().getHeroService();
@@ -142,6 +135,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     private FragmentManager mFragmentManager;
 
+    private static Context appContext;
+
 
     private void initControl() {
         mFragmentManager = getSupportFragmentManager();
@@ -181,6 +176,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
             }
         }
+
         super.onStart();
     }
 
@@ -192,7 +188,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_fragment_holder);
 
-        mActionMenuView.setPresenter(new ActionMenuPresenter(this));
+        //mActionMenuView.setPresenter(new ActionMenuPresenter(this));
 
         MenuFragment.updateActivity(this);
 
@@ -222,6 +218,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         initControl();
 
         UpdateUtils.checkNewVersion(this, false);
+
+        appContext = this;
 
         //не нужен AppRater.onAppLaunched(this);
     }
@@ -719,5 +717,21 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         }
     }
 
+    @Override
+    public void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+    }
 
+    public static Context getAppContext() {
+        return appContext;
+    }
+
+    @Override
+    public void onSelect(int indexButton,int mode) {
+        if((indexButton==1)||(mCurrentFragment instanceof GameOverFragment)){
+            Intent intent = new Intent(this, HighscoreActivity.class);
+            intent.putExtra("mode", mode);
+            startActivity(intent);
+        }
+    }
 }

@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
+import android.support.annotation.Nullable;
 import android.support.v7.widget.ActionMenuView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -12,22 +12,45 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.CheckBox;
-import android.widget.CompoundButton;
-import android.widget.LinearLayout;
+import android.widget.Button;
+import android.widget.TextView;
 
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.ListHolderActivity;
 import com.badr.infodota.base.configs.ScreenIDs;
 import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.quiz.activity.QuizActivity;
+import com.badr.infodota.quiz.dialog.SubmitHighscoreDialog;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
 
 
 /**
  * User: Histler
  * Date: 09.02.14
  */
-public class QuizTypeSelect extends SCBaseFragment {
+public class GameOverFragment extends SCBaseFragment {
+
+
+    @BindView(R.id.btnSubmitScore)
+    Button btnSubmitScore;
+
+
+    @BindView(R.id.btnRetry)
+    Button btnRetry;
+
+
+    @BindView(R.id.btnShareFb)
+    Button btnShareFb;
+
+
+    @BindView(R.id.lblNoticeScore)
+    TextView lblScore;
+
+    private int mode;
+    private boolean isForRecord;
+    private long score;
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
@@ -39,13 +62,23 @@ public class QuizTypeSelect extends SCBaseFragment {
     }
 
     @Override
+    public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        initListenerForButton();
+        updateTextScore();
+
+    }
+
+    @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.quiz_type_select, container, false);
+        View v =inflater.inflate(R.layout.fragment_quiz_notice_endgame, container, false);
+        ButterKnife.bind(this, v);
+        return v;
     }
 
     @Override
     public int getToolbarTitle() {
-        return R.string.menu_quiz;
+        return R.string.quiz_end_game_title;
     }
 
     @Override
@@ -63,6 +96,9 @@ public class QuizTypeSelect extends SCBaseFragment {
 
     }
 
+
+
+
     @Override
     protected void initControls() {
 
@@ -72,6 +108,46 @@ public class QuizTypeSelect extends SCBaseFragment {
     protected void initData() {
 
     }
+
+
+    private void initListenerForButton(){
+        btnSubmitScore.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Bundle mBundle= new Bundle();
+                mBundle.putLong("score",score);
+                mBundle.putInt("mode", mode);
+                SubmitHighscoreDialog mSubmit = new SubmitHighscoreDialog(getContext(),mBundle);
+                mSubmit.show();
+            }
+        });
+        btnRetry.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), QuizActivity.class);
+                intent.putExtra("mode", mode);
+                intent.putExtra("forRecord", isForRecord);
+                startActivityForResult(intent, 1);
+            }
+        });
+    }
+
+    protected void updateTextScore() {
+        Bundle scoreEndGame= getArguments();
+        score= scoreEndGame.getLong("score");
+        mode = scoreEndGame.getInt("mode");
+        isForRecord= scoreEndGame.getBoolean("forRecord");
+        lblScore.setText(String.format(getString(R.string.quiz_high_score_notice_score), score+""));
+    }
+
+    protected void updateTextScore2(Bundle mBundle) {
+        score= mBundle.getLong("score");
+        mode = mBundle.getInt("mode");
+        isForRecord= mBundle.getBoolean("forRecord");
+        lblScore.setText(String.format(getString(R.string.quiz_high_score_notice_score), score+""));
+    }
+
+
 
     @Override
     public void hideInformation() {
@@ -94,47 +170,7 @@ public class QuizTypeSelect extends SCBaseFragment {
         setHasOptionsMenu(true);
         setConfiguration();
 
-        final CheckBox timer = (CheckBox) getView().findViewById(R.id.setTimer);
-        timer.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked) {
-                    getView().findViewById(R.id.for_record_help).setVisibility(View.VISIBLE);
-                } else {
-                    getView().findViewById(R.id.for_record_help).setVisibility(View.GONE);
-                }
-            }
-        });
-        getView().findViewById(R.id.by_items).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), QuizActivity.class);
-                intent.putExtra("mode", QuizActivity.MODE_ITEMS);
-                intent.putExtra("forRecord", timer.isChecked());
-                //startActivity(intent);
-                startActivityForResult(intent, 1);
-            }
-        });
-        getView().findViewById(R.id.by_skills).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), QuizActivity.class);
-                intent.putExtra("mode", QuizActivity.MODE_HEROES);
-                intent.putExtra("forRecord", timer.isChecked());
-                startActivityForResult(intent, 2);
-               // startActivity(intent);
-            }
-        });
-        getView().findViewById(R.id.by_random).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), QuizActivity.class);
-                intent.putExtra("mode", QuizActivity.MODE_NONE);
-                intent.putExtra("forRecord", timer.isChecked());
-                startActivityForResult(intent, 3);
-                //startActivity(intent);
-            }
-        });
+
        /* getView().findViewById(R.id.achievements).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -160,13 +196,8 @@ public class QuizTypeSelect extends SCBaseFragment {
     }
 
     private void setConfiguration() {
-        if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE) {
-            ((LinearLayout) getView().findViewById(R.id.buttonsHolder)).setOrientation(LinearLayout.HORIZONTAL);
-        } else {
-            ((LinearLayout) getView().findViewById(R.id.buttonsHolder)).setOrientation(LinearLayout.VERTICAL);
-        }
-    }
 
+    }
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -177,7 +208,8 @@ public class QuizTypeSelect extends SCBaseFragment {
         mBundle= data.getExtras();
         if (resultCode == Activity.RESULT_OK) {
             //some code
-            mActivity.openScreen(ScreenIDs.ScreenTab.QUIZ, GameOverFragment.class, mBundle, false, false);
+            updateTextScore2(mBundle);
         }
     }
+
 }

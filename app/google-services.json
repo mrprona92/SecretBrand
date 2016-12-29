@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1044900799167",
+    "firebase_url": "https://dota2-assistant-bb9a2.firebaseio.com",
+    "project_id": "dota2-assistant-bb9a2",
+    "storage_bucket": "dota2-assistant-bb9a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044900799167:android:290b0e9add3fa629",
+        "android_client_info": {
+          "package_name": "com.prodo.dotaassitant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044900799167-m0i1l67c4rl4tn3diu27d2me35qb99ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -80,4 +80,29 @@
         <item name="android:padding">@dimen/padding_small</item>
     </style>
 
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+    </style>
+
+    <style name="AppTheme.ActionBar.Transparent" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="AppTheme">
+        <item name="windowActionBarOverlay">false</item>
+        <item name="colorPrimary">@color/tabbar_active</item>
+    </style>
+
+
+    <style name="Button.Dialog.Gray" parent="Button.Dialog">
+        <item name="android:background">@drawable/bg_common_round_grey_dark</item>
+        <item name="textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="Button.Dialog.GrayWeak" parent="Button.Dialog">
+        <item name="android:background">@drawable/bg_common_round_grey_darkweak</item>
+        <item name="textSize">@dimen/text_normal</item>
+    </style>
+
 </resources>

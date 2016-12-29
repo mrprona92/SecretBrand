@@ -34,6 +34,10 @@
         <item name="android:orientation">vertical</item>
     </style>
 
+    <style name="Layout.FillWidth.Horizontal">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
     <style name="Layout.FillWidthHeight.Vertical">
         <item name="android:orientation">vertical</item>
     </style>

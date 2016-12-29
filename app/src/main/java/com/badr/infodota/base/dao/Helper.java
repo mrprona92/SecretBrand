@@ -29,7 +29,7 @@ import java.util.Map;
  */
 public class Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "dota2.db";
-    public static final int DATABASE_VERSION = 72;
+    public static final int DATABASE_VERSION = 74;
     public Context mContext;
 
     /*public static final String CREATE_ITEMS_FROM="create table if not exists "+
@@ -52,17 +52,18 @@ public class Helper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        if (oldVersion < 72) {
+        if (oldVersion < 74) {
             reinitHeroesAndItems(db);
         }
         List<CreateTableDao> allDaos = BeanContainer.getInstance().getAllDaos();
         for (CreateTableDao dao : allDaos) {
             dao.onUpgrade(db, oldVersion, newVersion);
         }
-
-        List<TalentTree> mListTalentTreee= JsonSimpleExample.ConvertJsonFile(mContext);
-        for (TalentTree mTalentTree: mListTalentTreee) {
-            HeroDao.bindItems(db, mTalentTree);
+        if (oldVersion < 74) {
+            List<TalentTree> mListTalentTreee= JsonSimpleExample.ConvertJsonFile(mContext);
+            for (TalentTree mTalentTree: mListTalentTreee) {
+                HeroDao.bindItems(db, mTalentTree);
+            }
         }
     }
 
