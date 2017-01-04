@@ -34,6 +34,18 @@
           <option name="url" value="http://117.6.172.186:8084/sofiamedix/trs-mobile.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.1.40:82" />
+          <option name="userName" value="binh.tran.hoa@socialfintech.net" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.1.40:82/sofiamedix/trs-mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.1.40:82/socialfintech/trs-mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/TRSSC_20161022/TRSSC_20170225" />
