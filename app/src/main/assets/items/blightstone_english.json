@@ -1,7 +1,7 @@
 {
   "dotaId": "blightstone",
-  "id": 254,
-  "img": "blight_stone.png",
+  "id": 255,
+  "img": "blight_stone_lg.png",
   "dname": "Blight Stone",
   "qual": "armaments",
   "cost": 300,
@@ -11,5 +11,5 @@
   "mc": false,
   "cd": false,
   "lore": "An unnerving stone unearthed beneath the Fields of Endless Carnage.",
-  "created": true
+  "created": false
 }

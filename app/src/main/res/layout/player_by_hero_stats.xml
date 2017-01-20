@@ -40,7 +40,7 @@
                     android:background="@color/primary" />
             </LinearLayout>
 
-            <com.badr.infodota.base.view.ObservableHorizontalScrollView
+            <com.mrprona.dota2assitant.base.view.ObservableHorizontalScrollView
                 android:id="@+id/observable1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -52,7 +52,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="horizontal" />
-            </com.badr.infodota.base.view.ObservableHorizontalScrollView>
+            </com.mrprona.dota2assitant.base.view.ObservableHorizontalScrollView>
         </LinearLayout>
 
         <ScrollView
@@ -70,7 +70,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical" />
 
-                <com.badr.infodota.base.view.ObservableHorizontalScrollView
+                <com.mrprona.dota2assitant.base.view.ObservableHorizontalScrollView
                     android:id="@+id/observable2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
                         android:layout_height="match_parent"
                         android:orientation="vertical" />
 
-                </com.badr.infodota.base.view.ObservableHorizontalScrollView>
+                </com.mrprona.dota2assitant.base.view.ObservableHorizontalScrollView>
             </LinearLayout>
         </ScrollView>
     </LinearLayout>

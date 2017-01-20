@@ -1,0 +1,36 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_monkey_king",
+  "Title": "Recommended items for Monkey King",
+  "Items": {
+    "startingItems": [
+      "tango",
+      "flask",
+      "branches",
+      "branches",
+      "stout_shield"
+    ],
+    "earlyGame": [
+      "boots",
+      "wind_lace",
+      "magic_stick",
+      "urn_of_shadows"
+    ],
+    "coreItems": [
+      "phase_boots",
+      "magic_wand",
+      "echo_sabre",
+      "desolator"
+    ],
+    "luxury": [
+      "black_king_bar",
+      "skadi",
+      "sphere",
+      "monkey_king_bar",
+      "rapier",
+      "assault",
+      "butterfly",
+      "satanic"
+    ]
+  }
+}

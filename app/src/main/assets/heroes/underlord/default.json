@@ -1,0 +1,42 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_underlord",
+  "Title": "Recommended items for Underlord",
+  "Items": {
+    "startingItems": [
+      "tango",
+      "flask",
+      "branches",
+      "branches",
+      "stout_shield"
+    ],
+    "earlyGame": [
+      "boots",
+      "wind_lace",
+      "magic_stick",
+      "headdress",
+      "urn_of_shadows"
+    ],
+    "coreItems": [
+      "arcane_boots",
+      "magic_wand",
+      "mekansm",
+      "blink_dagger",
+      "cyclone"
+    ],
+    "luxury": [
+      "guardian_greaves",
+      "necronomicon",
+      "blade_mail",
+      "crimson_guard",
+      "shivas_guard",
+      "assault",
+      "heart",
+      "radiance",
+      "pipe",
+      "force_staff",
+      "lotus_orb",
+      "sphere"
+    ]
+  }
+}

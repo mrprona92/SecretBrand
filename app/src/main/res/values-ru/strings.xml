@@ -2,14 +2,18 @@
 <resources>
 
     <string name="language">russian</string>
-    <string name="app_name">Dota2 Helper</string>
+    <string name="app_name">Dota2 Assistant</string>
     <string name="radiant">RADIANT</string>
     <string name="dire">DIRE</string>
     <string name="truepicker">Truepicker.com</string>
-    <string name="tab_hero">Hero</string>
+
+    <string name="tab_hero">HERO</string>
     <string name="tab_counter_pick">Counter Pick</string>
     <string name="tab_quiz">Quiz</string>
     <string name="tab_menu">Menu</string>
+    <string name="tab_live">Live</string>
+
+    <string name="adbUnitID">ca-app-pub-1818774973864163/9287420336</string>
 
     <string name="heroes_list">Загружаем список героев</string>
     <string name="loading_data_for">Загружаем данные для: {0}</string>
@@ -362,9 +366,43 @@
     <string name="cmn_nullvalue">""</string>
 
 
+    <string name="ask_quit">Do you want quit application?</string>
+
+    <string name="quiz_high_score_no_records">Cant load any result about high score from server. Recheck your connection.</string>
+
+    <string name="quiz_high_score_item">Items</string>
+    <string name="quiz_high_score_abilities">Abilities</string>
+    <string name="quiz_high_score_random">Random</string>
+
+
+
     <string name="menu_counter_pick">COUNTER PICK</string>
     <string name="menu_quiz">QUIZ GAME</string>
     <string name="menu_menuname">MENU</string>
-    <string name="ask_quit">Do you want quit application?</string>
+    <string name="quiz_high_score_choose_title_country">Click to choose country...</string>
+    <string name="quiz_high_score_notice_share">I\'ve reached %s points in quiz game dota2 assitant!</string>
+
+    //Title for high score row
+    <string name="quiz_high_score_title_ranking">Ranking</string>
+    <string name="quiz_high_score_title_name">Name</string>
+    <string name="quiz_high_score_title_flag">Flag</string>
+    <string name="quiz_high_score_title_nation_name">Nation</string>
+    <string name="quiz_high_score_title_score">Score</string>
+    <string name="quiz_high_score_title_date">Date</string>
+    <string name="quiz_high_score">High score records</string>
+
+    <string name="quiz_high_score_item_title">High score Item</string>
+    <string name="quiz_high_score_ability_title">High score Ability</string>
+    <string name="quiz_high_score_random_title">High score Random</string>
+
+    <string name="quiz_high_score_endgame">GAME OVER!</string>
+    <string name="quiz_high_score_notice_score">You\'ve reached %s points in game!</string>
+    <string name="quiz_high_score_submit">SUBMIT SCORE</string>
+    <string name="quiz_high_score_dialog_title_name">NAME : </string>
+    <string name="quiz_high_score_dialog_title_country">COUNTRY: </string>
+    <string name="quiz_high_score_dialog_title_score">Your score: %s </string>
+    <string name="quiz_end_game_title">GAME OVER</string>
+
+    <string name="facebook_app_id">622236094645140</string>
 
 </resources>

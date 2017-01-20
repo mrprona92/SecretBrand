@@ -1,0 +1,19 @@
+{
+  "dotaId": "echo_sabre",
+  "attrib": "+10 Strength</br>10 Intelligence</br>+75% Mana Regeneration</br>+15 Attack Damage</br>+10 Attack Speed</br>",
+  "cd": false,
+  "qual": "artifacts",
+  "notes": "",
+  "components": [
+    "ogre_axe",
+    "oblivion_staff"
+  ],
+  "desc": "Causes melee attacks to attack twice in quick succession. The double attacks apply a 0.6 second 100% movement and attack speed slow on each strike.",
+  "dname": "Echo Sabre",
+  "mc": false,
+  "img": "echo_sabre.png",
+  "lore": "A deceptively swift blade imbued with resonant magic.",
+  "id": 260,
+  "created": false,
+  "cost": 2650
+}

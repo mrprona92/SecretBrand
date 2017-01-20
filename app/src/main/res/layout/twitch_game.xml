@@ -13,7 +13,7 @@
         support:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
 
 
-    <com.badr.infodota.base.view.TappableSurfaceView
+    <com.mrprona.dota2assitant.base.view.TappableSurfaceView
         android:id="@+id/video"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

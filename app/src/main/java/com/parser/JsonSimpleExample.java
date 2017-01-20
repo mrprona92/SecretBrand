@@ -2,7 +2,7 @@ package com.parser;
 
 import android.content.Context;
 
-import com.badr.infodota.hero.api.TalentTree;
+import com.mrprona.dota2assitant.hero.api.TalentTree;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -17,7 +17,6 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Objects;
 
 /**
  * Created by Admin on 12/19/2016.

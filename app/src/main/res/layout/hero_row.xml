@@ -40,8 +40,7 @@
             android:layout_width="20dp"
             android:layout_height="20dp"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
-            android:src="@drawable/overviewicon_str" />
+            android:layout_alignParentTop="true" />
 
         <TextView
             android:id="@+id/name"

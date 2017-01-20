@@ -1,0 +1,19 @@
+{
+  "dotaId": "aether_lens",
+  "id": 256,
+  "img": "aether_lens.png",
+  "dname": "Aether Lens",
+  "qual": "caster",
+  "cost": 2350,
+  "desc": "Increases spell cast range by 220. The spell damage bonus from Aether Lens (5%) is equivalent to the amount provided by 80",
+  "notes": "Cast range bonuses of multiple Aether Lenses do not stack.<br/>The cast range bonus only affects ability and item cast ranges. It does not affect the radius of any spell.<br/>Some spells which affect a line or an area in front of the caster, have their reach increased as well (with some exceptions).",
+  "attrib": "+250 Mana<br/>+8 Health regeneration<br/>+5% Spell damage<br/>",
+  "mc": false,
+  "cd": 0,
+  "lore": "Polished with the incantation of his final breath, the gift of a dying mage to his sickly son.",
+  "components": [
+    "ring_of_health",
+    "energy_booster"
+  ],
+  "created": true
+}

@@ -15,8 +15,8 @@
         <TextView
             android:id="@+id/lblTabHero"
             style="@style/TextView.Tabbar"
-            android:drawableTop="@drawable/ic_tab1_hero"
-            android:text="@string/tab_hero" />
+            android:drawableTop="@drawable/ic_menu_twitch"
+            android:text="@string/tab_live" />
     </LinearLayout>
 
     <LinearLayout

@@ -32,7 +32,7 @@
                 android:layout_margin="@dimen/view_padding"
                 android:src="@drawable/emptyitembg" />
 
-            <com.badr.infodota.base.view.FlowLayout
+            <com.mrprona.dota2assitant.base.view.FlowLayout
                 android:id="@+id/recipe_holder"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

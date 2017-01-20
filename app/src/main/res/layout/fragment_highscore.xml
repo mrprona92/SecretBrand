@@ -3,6 +3,7 @@
     style="@style/Layout.FillWidthHeight"
     xmlns:tools="http://schemas.android.com/tools">
 
+
     <RelativeLayout style="@style/Layout.FillWidth"
         android:id="@+id/rlHeader"
         android:background="@color/bg_cmn_gray">
@@ -78,22 +79,36 @@
 
 
 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal"
+        android:id="@+id/llProgress"
+        android:orientation="horizontal" >
+
+        <ProgressBar
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:text="Loading data..." />
+    </LinearLayout>
+
+
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerHighscore"
-        style="@style/Layout.FillWidthHeight"
-
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_below="@+id/rlHeader"
         tools:listitem="@layout/highscore_row"/>
 
-    <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
-        android:id="@+id/lblBottomText">
-        <TextView
-            style="@style/Text.Normal.Dark"
-            android:layout_width="match_parent"
-            android:layout_margin="@dimen/padding_normal"
-            android:gravity="center_horizontal"
-            android:text="@string/quiz_high_score_no_records" />
-    </LinearLayout>
+
 
 
 </RelativeLayout>

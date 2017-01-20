@@ -50,6 +50,15 @@
         </android.support.v7.widget.Toolbar>
     </LinearLayout>
 
+ <!--   <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adUnitId="ca-app-pub-1818774973864163/9287420336"
+        ads:adSize="360x320">
+    </com.google.android.gms.ads.NativeExpressAdView>-->
+
+
     <FrameLayout
         android:id="@+id/details"
         android:layout_width="match_parent"

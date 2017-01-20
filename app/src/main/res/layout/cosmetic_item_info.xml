@@ -102,7 +102,7 @@
                     android:textStyle="bold" />
             </LinearLayout>
 
-            <com.badr.infodota.base.view.FlowLayout
+            <com.mrprona.dota2assitant.base.view.FlowLayout
                 android:id="@+id/flow_set"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

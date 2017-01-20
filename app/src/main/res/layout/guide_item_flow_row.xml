@@ -12,7 +12,7 @@
         android:textColor="@android:color/white"
         android:textStyle="bold" />
 
-    <com.badr.infodota.base.view.FlowLayout
+    <com.mrprona.dota2assitant.base.view.FlowLayout
         android:id="@+id/items"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

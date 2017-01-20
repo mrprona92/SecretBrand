@@ -3,7 +3,7 @@ package com.util.infoparser.remote;
 import android.content.Context;
 import android.util.Pair;
 
-import com.badr.infodota.base.remote.BaseRemoteServiceImpl;
+import com.mrprona.dota2assitant.base.remote.BaseRemoteServiceImpl;
 
 import java.lang.reflect.Type;
 

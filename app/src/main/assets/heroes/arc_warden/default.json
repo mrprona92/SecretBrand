@@ -1,0 +1,45 @@
+{
+  "author": "Valve",
+  "hero": "npc_dota_hero_arc_warden",
+  "Title": "Recommended items for Alchemist",
+  "Items": {
+    "startingItems": [
+      "tango",
+      "flask",
+      "branches",
+      "branches",
+      "stout_shield"
+    ],
+    "earlyGame": [
+      "boots",
+      "ring_of_aquila",
+      "enchanted_mango"
+    ],
+    "coreItems": [
+      "hand_of_midas",
+      "maelstrom",
+      "travel_boots"
+    ],
+    "luxury": [
+      "sheepstick",
+      "mjollnir",
+      "diffusal_blade",
+      "desolator",
+      "black_king_bar",
+      "blink_dagger",
+      "hurricane_pike",
+      "skadi",
+      "satanic",
+      "orchid_malevolence",
+      "moon_shard",
+      "ultimate_scepter",
+      "greater_crit",
+      "monkey_king_bar",
+      "manta",
+      "greater_crit",
+      "monkey_king_bar",
+      "aether_lens",
+      "pipe"
+    ]
+  }
+}

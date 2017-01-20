@@ -46,7 +46,7 @@
                     android:id="@+id/imgFlag"
                     style="@style/Layout.FillWidth"
                     android:padding="@dimen/padding_small"
-                    android:src="@drawable/vn" />
+                    />
 
             </LinearLayout>
 
@@ -58,7 +58,7 @@
                 <TextView
                     android:id="@+id/lblTextFlag"
                     style="@style/Text.Small.Grey.Center"
-                    android:text="Viet Nam" />
+                     />
 
             </LinearLayout>
 

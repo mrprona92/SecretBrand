@@ -3,10 +3,11 @@
   "cd": 30.0,
   "components": [
     "bracer",
+    "robe",
     "robe"
   ],
   "qual": "rare",
-  "notes": "",
+  "notes": "Multiple instances of Swiftness Aura do not stack.",
   "desc": "Active: Endurance - Gives bonus +25 attack and +13% movement speed to surrounding allies in 6s.<br/>Passive: Swiftness Aura - Gives bonus attack and movement speed to surrounding allies.<br/><br/>Multiple instances of Swiftness Aura do not stack.",
   "dname": "Drum of Endurance",
   "dotaId": "ancient_janggo",
@@ -15,5 +16,5 @@
   "lore": "A relic that enchants the bodies of those around it for swifter movement in times of crisis.",
   "id": 185,
   "created": true,
-  "cost": 1785
+  "cost": 1780
 }

@@ -129,7 +129,7 @@
                     android:textStyle="bold"
                     android:visibility="gone" />
 
-                <com.badr.infodota.base.view.FlowLayout
+                <com.mrprona.dota2assitant.base.view.FlowLayout
                     android:id="@+id/makes_to"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -145,7 +145,7 @@
                     android:textStyle="bold"
                     android:visibility="gone" />
 
-                <com.badr.infodota.base.view.FlowLayout
+                <com.mrprona.dota2assitant.base.view.FlowLayout
                     android:id="@+id/makes_from"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
