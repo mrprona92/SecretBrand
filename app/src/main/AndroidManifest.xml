@@ -14,7 +14,8 @@
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/Infodota">
+        android:theme="@style/Infodota"
+        android:name="android.support.multidex.MultiDexApplication">
 
         <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
 
@@ -118,6 +119,12 @@
             android:name="com.mrprona.dota2assitant.quiz.activity.HighscoreActivity"
             android:configChanges="keyboard|orientation|screenSize" />
 
+        <activity
+            android:name="com.chartboost.sdk.CBImpressionActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
 
 
         <!--

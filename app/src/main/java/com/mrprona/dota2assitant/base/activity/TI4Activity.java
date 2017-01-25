@@ -39,7 +39,7 @@ public class TI4Activity extends BaseActivity implements RequestListener<Long> {
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

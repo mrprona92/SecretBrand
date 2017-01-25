@@ -70,7 +70,7 @@ public class LeagueGameActivity extends BaseActivity implements RequestListener,
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

@@ -44,6 +44,11 @@ public class Helper extends SQLiteOpenHelper {
         }
         db.execSQL("create table if not exists updated_version(version integer not null);");
         db.execSQL("insert into updated_version (version) values(0);");
+
+        List<TalentTree> mListTalentTreee= JsonSimpleExample.ConvertJsonFile(mContext);
+        for (TalentTree mTalentTree: mListTalentTreee) {
+            HeroDao.bindItems(db, mTalentTree);
+        }
     }
 
     @Override
@@ -55,12 +60,12 @@ public class Helper extends SQLiteOpenHelper {
         for (CreateTableDao dao : allDaos) {
             dao.onUpgrade(db, oldVersion, newVersion);
         }
-        if (oldVersion < DATABASE_VERSION) {
+        /*if (oldVersion < DATABASE_VERSION) {
             List<TalentTree> mListTalentTreee= JsonSimpleExample.ConvertJsonFile(mContext);
             for (TalentTree mTalentTree: mListTalentTreee) {
                 HeroDao.bindItems(db, mTalentTree);
             }
-        }
+        }*/
     }
 
     private void reinitHeroesAndItems(SQLiteDatabase db) {

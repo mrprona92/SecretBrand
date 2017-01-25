@@ -52,7 +52,7 @@ public class MatchDetailsActivity extends BaseActivity implements RequestListene
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

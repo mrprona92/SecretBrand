@@ -1,10 +1,13 @@
 package com.mrprona.dota2assitant.hero.fragment;
 
+import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Context;
 import android.media.MediaPlayer;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
+import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -17,8 +20,12 @@ import android.widget.Filter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.chartboost.sdk.CBLocation;
+import com.chartboost.sdk.Chartboost;
+import com.chartboost.sdk.Libraries.CBLogging;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.service.LocalSpiceService;
+import com.mrprona.dota2assitant.hero.activity.HeroInfoActivity;
 import com.mrprona.dota2assitant.hero.adapter.HeroResponsesAdapter;
 import com.mrprona.dota2assitant.hero.api.Hero;
 import com.mrprona.dota2assitant.hero.api.responses.HeroResponse;
@@ -43,12 +50,24 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
     private EditText searchView;
     private ListView listView;
     private Hero hero;
+    private HeroInfoActivity mActivity;
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
 
-    public static HeroResponses newInstance(Hero hero) {
+    public static HeroResponses newInstance(Hero hero, Context mContext) {
         HeroResponses fragment = new HeroResponses();
         fragment.hero = hero;
+        fragment.mActivity = (HeroInfoActivity) mContext;
         return fragment;
+    }
+
+    @Override
+    public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        Chartboost.setActivityCallbacks(false);
+        Chartboost.setLoggingLevel(CBLogging.Level.ALL);
+        Chartboost.onCreate(mActivity);
+        hideSystemUI();
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAME_SCREEN);
     }
 
     @Override
@@ -68,6 +87,7 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
         View view = inflater.inflate(R.layout.hero_responses, container, false);
         listView = (ListView) view.findViewById(android.R.id.list);
         searchView = (EditText) view.findViewById(R.id.search);
+
         return view;
     }
 
@@ -132,6 +152,8 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
             });
             setOnClickListener();
         }
+
+
     }
 
     private void killMediaPlayer() {
@@ -161,6 +183,22 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
             }
         });
     }
+
+
+
+    @TargetApi(Build.VERSION_CODES.KITKAT)
+    protected void hideSystemUI() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+            mActivity.getWindow().getDecorView().setSystemUiVisibility(
+                    View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+                            | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+                            | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
+                            | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION // hide nav bar
+                            | View.SYSTEM_UI_FLAG_FULLSCREEN // hide status bar
+                            | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+        }
+    }
+
 
     @Override
     public void onDestroy() {

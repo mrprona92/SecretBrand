@@ -48,7 +48,7 @@ public class ItemSelectActivity extends BaseActivity implements SearchView.OnQue
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

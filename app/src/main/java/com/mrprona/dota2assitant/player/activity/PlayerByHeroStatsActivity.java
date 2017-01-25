@@ -81,7 +81,7 @@ public class PlayerByHeroStatsActivity extends BaseActivity implements Horizonta
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }
