@@ -57,7 +57,7 @@ public class CounterPickerHeroesSelectActivity extends BaseActivity implements S
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

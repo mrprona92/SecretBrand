@@ -1,6 +1,7 @@
 package com.mrprona.dota2assitant.base.activity;
 
 import android.annotation.SuppressLint;
+import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -8,6 +9,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
@@ -30,6 +32,9 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.chartboost.sdk.CBLocation;
+import com.chartboost.sdk.Chartboost;
+import com.chartboost.sdk.Libraries.CBLogging;
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
 import com.google.android.gms.ads.AdRequest;
@@ -66,6 +71,7 @@ import com.mrprona.dota2assitant.trackdota.fragment.TrackdotaMain;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
+
 
 import java.util.Map;
 
@@ -194,7 +200,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
         FacebookSdk.sdkInitialize(getApplicationContext());
 
-        // Initialize the Mobile Ads SDK.
+        // Initialize the Mobile Ads SDK.§
         MobileAds.initialize(this, getString(R.string.adbUnitID));
 
         AppEventsLogger.activateApp(this);
@@ -272,8 +278,13 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         return true;
     }
 
+
     @Override
     public void onBackPressed() {
+        // If an interstitial is on screen, close it.
+        if (Chartboost.onBackPressed())
+            return;
+
         /*if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
             return;
@@ -343,7 +354,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         switch (position) {
             default:
             case 0:
-                mCurrentFragment = new TrackdotaMain();
+                mCurrentFragment = new MenuFragment();
                 break;
             case 1:
                 mCurrentFragment = new ItemsList();
@@ -751,4 +762,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             startActivity(intent);
         }
     }
+
+
 }

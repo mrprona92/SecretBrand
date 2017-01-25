@@ -57,7 +57,7 @@ public class TrackdotaGameInfoActivity extends BaseActivity implements Refresher
     }
 
     @Override
-    protected void onStop() {
+    public void onStop() {
         cancelDelayedUpdate();
         super.onStop();
     }
@@ -89,7 +89,7 @@ public class TrackdotaGameInfoActivity extends BaseActivity implements Refresher
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

@@ -70,9 +70,11 @@
 -keep class * implements android.os.Parcelable {
   public static final android.os.Parcelable$Creator *;
 }
+-keep class com.chartboost.** { *; }
 -keepattributes *Annotation*
 -keep public class com.google.vending.licensing.ILicensingService
 -keep public class com.android.vending.licensing.ILicensingService
 -keepclassmembers class **.R$* {
     public static <fields>;
 }
+

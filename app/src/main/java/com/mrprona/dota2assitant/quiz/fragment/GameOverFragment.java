@@ -1,9 +1,11 @@
 package com.mrprona.dota2assitant.quiz.fragment;
 
+import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.ActionMenuView;
@@ -16,6 +18,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.chartboost.sdk.CBLocation;
+import com.chartboost.sdk.Chartboost;
+import com.chartboost.sdk.Libraries.CBLogging;
 import com.facebook.share.model.ShareLinkContent;
 import com.facebook.share.widget.ShareDialog;
 import com.mrprona.dota2assitant.R;
@@ -70,7 +75,14 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
         initListenerForButton();
         updateTextScore();
 
-        if(score<=0){
+        Chartboost.setActivityCallbacks(false);
+        Chartboost.setLoggingLevel(CBLogging.Level.ALL);
+        Chartboost.onCreate(mActivity);
+        hideSystemUI();
+
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
+
+        if(score<=0||!isForRecord){
             btnSubmitScore.setEnabled(false);
         }else{
             btnSubmitScore.setEnabled(true);
@@ -245,4 +257,59 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
             btnSubmitScore.setEnabled(false);
         }
     }
+
+
+
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        hideSystemUI();
+        Chartboost.onStart(mActivity);
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        Chartboost.onPause(mActivity);
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        hideSystemUI();
+        Chartboost.onResume(mActivity);
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        Chartboost.onStop(mActivity);
+    }
+
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        Chartboost.onDestroy(mActivity);
+    }
+
+
+
+    @TargetApi(Build.VERSION_CODES.KITKAT)
+    protected void hideSystemUI() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+            mActivity.getWindow().getDecorView().setSystemUiVisibility(
+                    View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+                            | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+                            | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
+                            | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION // hide nav bar
+                            | View.SYSTEM_UI_FLAG_FULLSCREEN // hide status bar
+                            | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
+        }
+    }
+
+
+
+
 }

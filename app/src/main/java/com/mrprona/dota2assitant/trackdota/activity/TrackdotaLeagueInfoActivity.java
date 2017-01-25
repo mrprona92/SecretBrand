@@ -92,7 +92,7 @@ public class TrackdotaLeagueInfoActivity extends BaseActivity implements SwipeRe
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

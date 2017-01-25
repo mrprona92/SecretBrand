@@ -33,6 +33,7 @@ public class QuizTypeSelect extends SCBaseFragment {
 
 
     private AdView mAdView;
+    private boolean isCheckTime=false;
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
@@ -120,6 +121,7 @@ public class QuizTypeSelect extends SCBaseFragment {
         timer.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                isCheckTime=isChecked;
                 if (isChecked) {
                     getView().findViewById(R.id.for_record_help).setVisibility(View.VISIBLE);
                 } else {

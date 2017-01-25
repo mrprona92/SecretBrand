@@ -71,7 +71,7 @@ public class GuideActivity extends BaseActivity implements RequestListener<List>
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }

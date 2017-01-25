@@ -177,7 +177,7 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
     }
 
     @Override
-    protected void onPause() {
+    public void onPause() {
         super.onPause();
         if (mediaPlayer != null && mediaPlayer.isPlaying()) {
             pause.setImageResource(R.drawable.play);
@@ -226,7 +226,7 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
     }
 
     @Override
-    protected void onDestroy() {
+    public void onDestroy() {
         if (mSpiceManager.isStarted()) {
             mSpiceManager.shouldStop();
         }
