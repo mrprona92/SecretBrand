@@ -95,7 +95,6 @@
 
 
     <View
-        android:id="@+id/viewDivider"
         style="@style/divider_no_margin"
         android:layout_below="@id/llColumns"
         android:layout_marginLeft="0dp" />

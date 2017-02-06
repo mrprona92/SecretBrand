@@ -114,7 +114,6 @@ public class BeanContainer implements InitializingBean {
     public BeanContainer() {
 
         allDaos = new ArrayList<>();
-
         talentDao= new TalentDao();
         heroDao = new HeroDao();
         heroStatsDao = new HeroStatsDao();
@@ -182,8 +181,8 @@ public class BeanContainer implements InitializingBean {
         synchronized (MONITOR) {
             if (instance == null) {
                 instance = new BeanContainer();
-                instance.initialize();
             }
+            instance.initialize();
         }
         return instance;
     }

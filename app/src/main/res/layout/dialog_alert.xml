@@ -40,7 +40,6 @@
         </ScrollView>
 
         <LinearLayout
-            android:id="@+id/layoutButton"
             android:layout_below="@id/layoutTop"
             style="@style/Layout.WrapWidthHeight"
             android:layout_centerHorizontal="true"

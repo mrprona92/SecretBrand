@@ -70,8 +70,6 @@
         <attr name="possibleMaxValues" format="reference" />
     </declare-styleable>
 
-    <color name="rippleColor">#ffff</color>
-
     <declare-styleable name="RippleView">
         <attr name="rv_alpha" format="integer" />
         <attr name="rv_framerate" format="integer" />

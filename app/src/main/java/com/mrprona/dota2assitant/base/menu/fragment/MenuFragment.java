@@ -11,6 +11,8 @@ import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.mrprona.dota2assitant.base.fragment.SCBaseFragment;
@@ -41,6 +43,8 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
     protected View mView;
     protected Unbinder mUnbinder;
 
+    private AdView mAdView;
+
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         menu.clear();
@@ -62,6 +66,20 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
         mRecyclerMenu.setHasFixedSize(false);
         mRecyclerMenu.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
         mRecyclerMenu.setNestedScrollingEnabled(false);
+
+         // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
+        // values/strings.xml.
+        mAdView = (AdView) mView.findViewById(R.id.ad_view);
+        // Create an ad request. Check your logcat output for the hashed device ID to
+        // get test ads on a physical device. e.g.
+        // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
+        AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0")
+                .build();
+
+        // Start loading the ad in the background.
+        mAdView.loadAd(adRequest);
+
         return mView;
     }
 

@@ -31,6 +31,7 @@ public class DHMenuAdapter extends RecyclerView.Adapter<DHMenuAdapter.ViewHolder
     // 50*50 is for xxhdpi
     private void initializeMenuItems() {
         mArrayMenuItems = new MenuItem[]{
+                new MenuItem(R.string.menu_darkmoon, R.drawable.ic_menu_moon, 2, false),
                 new MenuItem(R.string.tab_hero, R.drawable.ic_tab1_hero, 1, false),
                 new MenuItem(R.string.menu_items_game, R.drawable.ic_menu_items, 1, false),
                 new MenuItem(R.string.menu_news_dota, R.drawable.ic_menu_news, 1, false),

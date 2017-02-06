@@ -73,9 +73,7 @@
 
     </RelativeLayout>
 
-    <View
-        android:id="@+id/viewDivider"
-        style="@style/divider_no_margin" />
+    <View style="@style/divider_no_margin" />
 
 
 

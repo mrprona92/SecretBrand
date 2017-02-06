@@ -34,7 +34,6 @@
 
 
         <LinearLayout
-            android:id="@+id/layoutButton"
             style="@style/Layout.WrapWidthHeight"
             android:layout_below="@+id/layoutTop"
             android:layout_centerHorizontal="true"

@@ -1,7 +1,6 @@
 package com.mrprona.dota2assitant.base.activity;
 
 import android.annotation.SuppressLint;
-import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -9,7 +8,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
-import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
@@ -32,19 +30,16 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.chartboost.sdk.CBLocation;
 import com.chartboost.sdk.Chartboost;
-import com.chartboost.sdk.Libraries.CBLogging;
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
-import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
-import com.google.android.gms.ads.NativeExpressAdView;
 import com.mrprona.dota2assitant.BeanContainer;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.configs.ScreenIDs;
 import com.mrprona.dota2assitant.base.dao.DatabaseManager;
 import com.mrprona.dota2assitant.base.dao.Helper;
+import com.mrprona.dota2assitant.base.fragment.AgreementFragment;
 import com.mrprona.dota2assitant.base.fragment.ConfirmDialog;
 import com.mrprona.dota2assitant.base.fragment.SCAlertDialog;
 import com.mrprona.dota2assitant.base.fragment.SCBaseFragment;
@@ -53,6 +48,7 @@ import com.mrprona.dota2assitant.base.menu.fragment.MenuFragment;
 import com.mrprona.dota2assitant.base.service.LocalSpiceService;
 import com.mrprona.dota2assitant.base.service.LocalUpdateService;
 import com.mrprona.dota2assitant.base.task.UpdateLoadRequest;
+import com.mrprona.dota2assitant.base.util.AppRater;
 import com.mrprona.dota2assitant.base.util.UpdateUtils;
 import com.mrprona.dota2assitant.cosmetic.fragment.CosmeticItemsList;
 import com.mrprona.dota2assitant.counter.fragment.CounterPickFilter;
@@ -71,7 +67,6 @@ import com.mrprona.dota2assitant.trackdota.fragment.TrackdotaMain;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
-
 
 import java.util.Map;
 
@@ -185,6 +180,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             }
         }
 
+
         super.onStart();
     }
 
@@ -201,7 +197,10 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         FacebookSdk.sdkInitialize(getApplicationContext());
 
         // Initialize the Mobile Ads SDK.§
-        MobileAds.initialize(this, getString(R.string.adbUnitID));
+        MobileAds.initialize(this, getString(R.string.banner_ad_unit_id));
+
+
+        Chartboost.startWithAppId(this, getString(R.string.appIDChartboost), getString(R.string.appSignature));
 
         AppEventsLogger.activateApp(this);
 
@@ -235,6 +234,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         UpdateUtils.checkNewVersion(this, false);
 
         appContext = this;
+
+        AppRater.showRate(appContext);
 
        /* NativeExpressAdView adView = (NativeExpressAdView)findViewById(R.id.adView);
 
@@ -382,6 +383,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 break;
             case 9:
                 mCurrentFragment = new TrackdotaMain();
+            case 10:
+                mCurrentFragment = new AgreementFragment();
                 break;
                     /*
                 case 9:
@@ -532,28 +535,33 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         switch (position) {
             default:
             case 0:
-                openScreen(ScreenIDs.ScreenTab.MENU, HeroesList.class, null, true, true);
+                Bundle bundle = new Bundle();
+                bundle.putString(AgreementFragment.ARG_URL, "http://steamcommunity.com/sharedfiles/filedetails/?id=853095874");
+                openScreen(ScreenIDs.ScreenTab.MENU, AgreementFragment.class, bundle, true, true);
                 break;
             case 1:
+                openScreen(ScreenIDs.ScreenTab.MENU, HeroesList.class, null, true, true);
+                break;
+            case 2:
                 //mFragmentDetails = new ItemsList();
                 openScreen(ScreenIDs.ScreenTab.MENU, ItemsList.class, null, true, true);
                 break;
-            case 2:
+            case 3:
                 openScreen(ScreenIDs.ScreenTab.MENU, NewsList.class, null, true, true);
                 break;
-            case 3:
+            case 4:
                 openScreen(ScreenIDs.ScreenTab.MENU, LeaguesGamesList.class, null, true, true);
                 break;
-            case 4:
+            case 5:
                 openScreen(ScreenIDs.ScreenTab.MENU, TwitchHolder.class, null, true, true);
                 break;
-            case 5:
+            case 6:
                 UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
                 break;
-            case 6:
+            case 7:
                 startActivity(new Intent(ListHolderActivity.this, AboutActivity.class));
                 break;
-            case 7:
+            case 8:
                 //TODO quit app
                 AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
                 alertDialog.setTitle("Dota Assitant");
@@ -624,6 +632,36 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         } catch (Exception e) {
         }
     }
+
+
+    /**
+     * Hide progress dialog.
+     */
+    public void hideProgressDialog() {
+        hideProgressDialog(true);
+    }
+
+    public void hideProgressDialog(final boolean isWait) {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Dialog dlg = getProgressDialog();
+                    sDialogCount--;
+                    if( dlg != null && dlg.isShowing()){
+                        if(!isWait) {
+                            sDialogCount =0;dlg.dismiss();
+                        }else{
+                            if (sDialogCount <=0 )dlg.dismiss();
+                        }
+                    }
+                } catch (Exception ex) {
+                    // Do nothing
+                }
+            }
+        });
+    }
+
 
     private SCAlertDialog mAlertDialog;
 

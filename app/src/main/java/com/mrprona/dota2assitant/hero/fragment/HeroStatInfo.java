@@ -17,6 +17,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.util.FileUtils;
 import com.mrprona.dota2assitant.base.util.ResourceUtils;
@@ -129,9 +131,25 @@ public class HeroStatInfo extends Fragment implements RequestListener<MediaPlaye
         super.onDestroy();
     }
 
+
+    private AdView mAdView;
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v=inflater.inflate(R.layout.hero_stats, container, false);
+
+        mAdView = (AdView) v.findViewById(R.id.ad_view);
+        // Create an ad request. Check your logcat output for the hashed device ID to
+        // get test ads on a physical device. e.g.
+        // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
+        AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0")
+                .build();
+
+        // Start loading the ad in the background.
+        mAdView.loadAd(adRequest);
+
+
         ButterKnife.bind(this,v);
         return v;
     }

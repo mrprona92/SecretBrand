@@ -147,6 +147,14 @@ public abstract class SCBaseFragment extends Fragment {
     }
 
 
+    protected void hideProgressDialog() {
+        hideProgressDialog(true);
+    }
+
+    protected void hideProgressDialog(final boolean isWait) {
+        if(mActivity != null) mActivity.hideProgressDialog(isWait);
+    }
+
     /**
      * Show a progress dialog.
      *

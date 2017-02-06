@@ -130,6 +130,7 @@ public class CounterPickFilter extends SCBaseFragment implements RequestListener
         // get test ads on a physical device. e.g.
         // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
         AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0")
                 .build();
 
 

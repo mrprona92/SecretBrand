@@ -3,195 +3,71 @@
     <color name="enemy_team">@color/red</color>
     <color name="ally_team">@color/green</color>
     <color name="colorPrimary">#1d68bf</color>
-    <color name="colorPrimaryDark">#1d68a2</color>
-    <color name="colorAccent">#FF4081</color>
 
     <!-- COMMON -->
     <color name="cmn_black">#000</color>
     <color name="cmn_white">#ffffff</color>
     <color name="cmn_transparent">#00000000</color>
-    <color name="cmn_white_gray">#f5f5f5</color>
-    <color name="cmn_white_transparent">#80ffffff</color>
     <color name="cmn_gray">#757575</color>
-    <color name="cmn_gray_bold">#6b6666</color>
     <color name="cmn_gray_hint">#b3b3b3</color>
     <color name="cmn_gray_light">#EFEFEF</color>
     <color name="cmn_gray_bg">#f7f7f7</color>
-    <color name="cmn_gray_ranking_button">#e7e7e7</color>
 
     <color name="cmn_blue">#085EAB</color>
-    <color name="cmn_green">#00b277</color>
-    <color name="cmn_red">#c62828</color>
-    <color name="cmn_yellow">#e6af21</color>
-    <color name="cmn_tab_indicator">#e6e765</color>>
+    <color name="cmn_green">#00b277</color><![CDATA[
+
+
+    >
+    ]]>
     <color name="cmn_text_dark">#807f7f</color>
     <color name="cmn_text_black">#4a4b4c</color>
-    <color name="cmn_text_hint_white">#D0EDEA</color>
     <color name="cmn_text_red">#c62827</color>
-    <color name="cmn_text_green">#6ec408</color>
-    <color name="cmn_grey_border">#a0a0a0</color>
-    <color name="cmn_blue_button">#1d68bf</color>
-    <color name="cmn_grey_button">#bcbcbc</color>
-    <color name="cmn_grey_button2">#e6e6e6</color>
     <color name="cmn_red_text_view">#b23222</color>
     <color name="cmn_blue_text_view">#1665c1</color>
     <color name="cmn_background">#f1f2f2</color>
     <color name="cmn_background_divider">#DDD</color>
-    <color name="cmn_seek_bar_active">#509bd8</color>
-    <color name="cmn_seek_bar_thumbnail_normal">#f1f1f2</color>
-    <color name="cmn_seek_bar_thumbnail_border">#999</color>
-    <color name="cmn_bg_tutorial">#6C6C6C</color>
-    <color name="cmn_bg_dot">#535353</color>
 
     <!-- MENU -->
-    <color name="bg_trading_status">#C62827</color>
-    <color name="menu_item_text">#888888</color>
-    <color name="avatar_border">#fff</color>
 
     <!--Rate, Chart Color-->
-    <color name="rate_increase_color">@color/cmn_blue</color>
-    <color name="rate_decrease_color">@color/cmn_red_text_view</color>
-    <color name="pl_positive_color">@color/cmn_text_black</color>
-    <color name="pl_negative_color">@color/cmn_red_text_view</color>
-    <color name="pl_positive_trade_setting_color">@color/cmn_blue_text_view</color>
     <color name="buy_color">@color/cmn_red_text_view</color>
-    <color name="sell_color">@color/cmn_blue_text_view</color>
-    <color name="bg_chart_candle">#f8f8f8</color>
-    <color name="candle_positive">#1d68be</color>
-    <color name="candle_negative">#c22629</color>
-    <color name="account_info_positive">@color/cmn_text_black</color>
-    <color name="account_info_negative">@color/cmn_red_text_view</color>
 
     <!--TABBAR-->
     <color name="tabbar_normal">#e6e6e6</color>
     <color name="tabbar_active">#FFD14337</color>
-    <color name="tabbar_text_normal">#4c4c4c</color>
 
     <!-- RANKING -->
     <color name="ranking_row_bgr_tag_recommend">#000000</color>
-    <color name="ranking_row_bgr_tag_normal">#636361</color>
-    <color name="ranking_row_bgr_tag_first">#58B0BC</color>
-    <color name="ranking_row_bgr_tag_second">#429897</color>
-    <color name="ranking_row_bgr_tag_third">#325267</color>
-    <color name="ranking_row_bgr_normal">#242222</color>
-    <color name="ranking_row_bgr_recommend">#151515</color>
     <color name="ranking_bgr_row">#151515</color>
-    <color name="ranking_bgr_tab_unselected">#242222</color>
-    <color name="ranking_bgr_tab_selected">#636361</color>
-    <color name="ranking_bgr_view_ahead_avatar_1">#8CB06A</color>
-    <color name="ranking_bgr_view_ahead_avatar_2">#D39C36</color>
-    <color name="ranking_bgr_view_ahead_avatar_3">#843996</color>
-    <color name="ranking_bgr_view_ahead_avatar_4">#78B3BB</color>
-    <color name="ranking_bgr_view_ahead_avatar_11">#78B3BB</color>
-    <color name="ranking_bgr_view_ahead_avatar_12">#8CB06A</color>
-    <color name="ranking_bgr_view_ahead_avatar_13">#843996</color>
-    <color name="ranking_bgr_view_ahead_avatar_14">#D39C36</color>
-    <color name="ranking_bgr_ranking_line_separator">#6d6b6b</color>
 
     <!-- TRADE SETTING -->
-    <color name="trade_setting_users_following_bgr">#762C2B</color>
-    <color name="trade_setting_view_row_two_column_split">#6d6b6b</color>
-    <color name="trade_setting_background">#2C2A2D</color>
-    <color name="trade_setting_action_start_bgr">#AF5659</color>
-    <color name="trade_setting_action_stop_bgr">#45436D</color>
-    <color name="trade_type_red">#ff0000</color>
-    <color name="trade_type_blue">#55b4be</color>
-    <color name="trade_type_blue_title">#558ed5</color>
-    <color name="trade_type_blue_title_number">#0070c0</color>
-    <color name="trade_contest_background">#3A3B3B</color>
 
     <!-- TRADE STATUS -->
-    <color name="trade_status_bgr_1">#3D3D3D</color>
-    <color name="trade_status_bgr_2">#2D2D2D</color>
-    <color name="trade_status_estimated_profit">#6FB2BF</color>
-    <color name="trade_status_total_investment">#FFFFFF</color>
-    <color name="trade_status_button_setting_bgr">#8BAF6D</color>
-    <color name="trade_status_button_setting_txt">#FFFFFF</color>
-    <color name="trade_status_button_condition_bgr">#AF5659</color>
-    <color name="trade_status_button_condition_txt">#FFFFFF</color>
-    <color name="trade_status_title_bgr">#2C2A2D</color>
-    <color name="trade_status_estimated_pl_lbl">#E3D86C</color>
 
-    <color name="copier_manager_copied_color">#fffcd0</color>
-
-
-
-    <color name="trade_status_estimated_pl_txt">#6FB2BF</color>
-    <color name="trade_status_symbol_unit_txt">#E3D86C</color>
-    <color name="trade_status_condition_bgr">#87B16C</color>
-    <color name="trade_status_simulating_bgr">#AF5659</color>
-    <color name="trade_status_usr_bgr">#30556E</color>
-    <color name="trade_status_bg_transparent">#60FFFFFF</color>
 
     <!-- COPIER MANAGEMENT -->
-    <color name="copier_mngt_yellow">#c1b65c</color>
-    <color name="copier_mngt_red">#bf555a</color>
-    <color name="copier_mngt_green">#439893</color>
-    <color name="copier_mngt_violet">#6b4e71</color>
-    <color name="copier_mngt_disable">#636261</color>
-    <color name="copier_mngt_tab_selected">#636261</color>
-    <color name="copier_mngt_tab_unselected">#242222</color>
-    <color name="copier_mngt_copier_status_selected">#656464</color>
-    <color name="copier_mngt_copier_status_unselected">#252222</color>
-    <color name="copier_mngt_gray_bg">#3a3b3b</color>
-    <color name="copier_mngt_spiner_bg">#1c1c1c</color>
-    <color name="copier_mngt_status_bg">#282929</color>
-    <color name="copier_mngt_border">#3a3b3b</color>
-    <color name="copier_mngt_item_bg">#303030</color>
-    <color name="copier_item_bg">#fff</color>
 
     <!-- INDIVIDUAL -->
-    <color name="cmn_register">#d60d1b</color>
     <color name="cmn_text">#4c4c4c</color>
     <color name="cmn_text_gray">#888</color>
-    <color name="cmn_text_hint">#e6e6e6</color>
-    <color name="text_box_right">#E6AF21</color>
-    <color name="bg_performance_date_time">#F1F2F2</color>
-    <color name="bg_upper_gap">#F9F9F9</color>
     <color name="bg_cmn_gray">#F1F2F2</color>
-    <color name="solid_divider">#999</color>
-    <color name="setting_section_bg_1">#EFEFEF</color>
 
     <!-- USER DETAIL -->
-    <color name="user_detail_bg">#3B3B3B</color>
 
     <!-- POSITION -->
-    <color name="position_order_buy">#f00</color>
-    <color name="position_order_sell">#55b4c0</color>
 
     <!-- ORDER HISTORY -->
-    <color name="order_history_bg_transparent">#60FFFFFF</color>
-    <color name="order_history_buy">#f00</color>
-    <color name="order_history_sell">#55b4c0</color>
 
     <!-- RATE INFO -->
-    <color name="rate_info_bg_bar">#292a2b</color>
-    <color name="rate_info_bg_bar_middle">#3b3b3b</color>
-    <color name="rate_info_bg_transparent">#60FFFFFF</color>
 
     <!-- TRANSFER/HISTORY -->
-    <color name="transfer_history_bg_dialog">#797979</color>
-    <color name="transfer_money_bg_transparent">#60FFFFFF</color>
 
     <!-- SETTING -->
-    <color name="setting_bg">#3b3b3b</color>
-    <color name="setting_red">#cc0000</color>
-    <color name="setting_header_bg">#555555</color>
-    <color name="setting_check_bg">#201e1e</color>
 
     <!-- MEMBER MNGT -->
-    <color name="member_mngt_bg_unit_copying">#762C2B</color>
-    <color name="member_mngt_bg_unit">#1D1E19</color>
 
     <!-- MEMBER CHANGE -->
-    <color name="member_change_bg">#3D3D3D</color>
-    <color name="member_change_drag_highlight">#FFFF00</color>
-    <color name="member_change_user_item_bg">#303030</color>
-
-    <color name="dialog_detail_bg">#2d2a2a</color>
-    <color name="dialog_policy_box_bg">#f3b757</color>
 
     <!-- CONTEST HISTORY -->
-    <color name="contest_history_title">#99CCFF</color>
 
 </resources>

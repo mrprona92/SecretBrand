@@ -11,6 +11,7 @@
         <item>NEWS</item>
         <item>TOURNAMENT GAMES</item>
         <item>TRACKDOTA</item>
+        <item>DARKMOON</item>
         <!--<item>THE INTERNATIONAL</item>-->
     </string-array>
     <string-array name="game_modes">
@@ -94,11 +95,6 @@
         <item>COMMON STATS</item>
         <item>HEROES STATS</item>
     </string-array>
-    <string-array name="stats_dateType">
-        <item>All time</item>
-        <item>This week</item>
-        <item>This month</item>
-    </string-array>
     <string-array name="statsByHero_date">
         <item>All time</item>
         <item>This month</item>
@@ -131,25 +127,6 @@
         <item>Highest Win Rate</item>
         <item>Most Game Impact</item>
         <item>Best Economy</item>
-    </string-array>
-    <string-array name="truepicker_level">
-        <item>Novice</item>
-        <item>Acolyte</item>
-        <item>Amateur</item>
-        <item>Master</item>
-    </string-array>
-    <string-array name="truepicker_roles">
-        <item>Carry</item>
-        <item>Support</item>
-        <item>Ganker</item>
-        <item>Pusher</item>
-        <item>Initiator</item>
-        <item>Jungler</item>
-        <item>Solo hard</item>
-        <item>Solo mid</item>
-        <item>Solo easy</item>
-        <item>Triple easy</item>
-        <item>Triple hard</item>
     </string-array>
     <string-array name="twitch_pages_title">
         <item>Live</item>

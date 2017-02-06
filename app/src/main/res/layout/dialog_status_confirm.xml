@@ -35,12 +35,10 @@
 
 
         <LinearLayout
-            android:id="@+id/llTextName"
             android:layout_height="60dp"
             style="@style/Layout.FillWidth.Horizontal">
 
             <TextView
-                android:id="@+id/lblTitle2"
                 style="@style/Text.Normal.Dark"
                 android:layout_width="100dp"
                 android:layout_gravity="center"
@@ -56,12 +54,10 @@
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/llFlags"
             android:layout_height="60dp"
             style="@style/Layout.FillWidth.Horizontal">
 
             <TextView
-                android:id="@+id/lblTitleFlag"
                 style="@style/Text.Normal.Dark"
                 android:layout_width="100dp"
                 android:layout_gravity="center"
@@ -90,7 +86,6 @@
 
 
         <LinearLayout
-            android:id="@+id/layoutButton"
             android:layout_below="@+id/layoutTop"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -98,7 +93,6 @@
             android:layout_marginBottom="@dimen/padding_medium">
 
             <RelativeLayout
-                android:id="@+id/llbtnActionCancel"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/padding_medium"
@@ -114,7 +108,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:id="@+id/llbtnOk"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/padding_medium"

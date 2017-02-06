@@ -1,11 +1,15 @@
 package com.mrprona.dota2assitant.base.activity;
 
+import android.annotation.SuppressLint;
+import android.app.Dialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.ActionMenuView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.Window;
 
 import com.mrprona.dota2assitant.R;
 
@@ -48,4 +52,6 @@ public  abstract  class BaseActivity extends AppCompatActivity {
     public ActionMenuView getActionMenuView() {
         return mActionMenuView;
     }
+
+
 }

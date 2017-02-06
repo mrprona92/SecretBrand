@@ -42,7 +42,6 @@
     </RelativeLayout>
 
     <LinearLayout
-        android:id="@+id/skill_other_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/half_view_padding"

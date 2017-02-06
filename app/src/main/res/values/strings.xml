@@ -3,11 +3,9 @@
     <string name="app_name">Dota2 Assistant</string>
     <string name="language">english</string>
 
-    <string name="adbUnitID">ca-app-pub-1818774973864163/9287420336</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1818774973864163/5531434737</string>
 
 
-    <string name="heroes_list">Loading heroes list</string>
-    <string name="loading_data_for">Loading data for: {0}</string>
     <string name="loading">Loading…</string>
     <string name="loading_complete">Loading completed</string>
     <string name="error_during_load">There was an error during loading</string>
@@ -28,7 +26,6 @@
     <string name="cast_duration">Cast duration</string>
     <string name="missile_speed">Missile Speed</string>
     <string name="instant">Instant</string>
-    <string name="exit_msg">Close app?</string>
     <string name="back_toast">Click BACK again to exit</string>
     <string name="makes_from">Recipe</string>
     <string name="makes_to">Reqired for</string>
@@ -70,12 +67,9 @@
     <string name="search_history">Search history:</string>
     <string name="heroes_search">Search by heroes</string>
     <string name="nick_search">Search by nickname</string>
-    <string name="empty_match_hostory">Empty match list</string>
-    <string name="error_loading">Data loading error. Please, check your internet connection and try again later.</string>
     <string name="abandoned">Abandoned game</string>
     <string name="leaved">Clicked leave</string>
     <string name="disconnected">Disconnected</string>
-    <string name="not_picked">Haven\'t picked</string>
     <string name="afk">AFK</string>
     <string name="never_connected">Never connected</string>
     <string name="never_connected_too_long">Too long to connect</string>
@@ -113,11 +107,6 @@
     <string name="invert_selection">Invert selection</string>
     <string name="attempt">Attempts:</string>
     <string name="score">Score:</string>
-    <string name="back">Back</string>
-    <string name="total_score">Total score: {0}</string>
-    <string name="game_over">Game over!</string>
-    <string name="show_right">Correct answer</string>
-    <string name="right">Right!</string>
     <string name="wrong">Wrong!</string>
     <string name="quiz">QUIZ</string>
     <string name="choose_items_from">Test Your Dota 2 items knowledge</string>
@@ -126,13 +115,9 @@
     <string name="by_abilities">By abilities</string>
     <string name="by_random">Random</string>
     <string name="record_attempt">With time limit</string>
-    <string name="repeat">Repeat</string>
     <string name="seconds_remaining">Time left: {0} sec.</string>
     <string name="record_attempt_help">You\'ll have 3 attempts and 60 seconds time limit. \n
         Each correct answer will increase your time limit for 0.5 sec.</string>
-    <string name="show_records">Show records</string>
-    <string name="leaderboards">Leaderboards</string>
-    <string name="achievements">Achievements</string>
     <string name="guide_name">Guide title</string>
     <string name="attention">Attention</string>
     <string name="guide_creator_message">Guides contains 2 parts:\n
@@ -152,18 +137,13 @@
     <string name="add_tooltip">Add tooltip</string>
     <string name="add">Add</string>
 
-    <string name="error">Error</string>
     <string name="skill_tooltip">Skill tooltip</string>
     <string name="guide_saved">Guide saved!</string>
     <string name="edit_guide">Edit guide</string>
     <string name="delete_guide">Delete guide</string>
     <string name="guide_deleted">Guide deleted</string>
     <string name="guide_deletion_error">Deleting guide error</string>
-    <string name="send_guide">Send to developer</string>
-    <string name="send_mail">Send mail…</string>
     <string name="result">Result:</string>
-    <string name="record">Total score: {0}-{1}</string>
-    <string name="winRate">Total win rate: {0}</string>
     <string name="record_with_win_rate">Total score: {0}-{1} ({2})</string>
     <string name="win">Win</string>
     <string name="lost">Lost</string>
@@ -211,7 +191,6 @@
     <string name="win_streak_">Winning Streak: {0}</string>
     <string name="lost_streak_">Losing Streak: {0}</string>
     <string name="change_language">Change app language</string>
-    <string name="locale">Language</string>
     <string name="refresh">Refresh</string>
     <string name="show_results">Show results</string>
     <string name="time">Time:</string>
@@ -231,12 +210,8 @@
     <string name="enemies_selected">Enemies selected: {0}</string>
     <string name="allies">Allies:</string>
     <string name="enemies">Enemies:</string>
-    <string name="select">Select</string>
     <string name="recommended_to_you">Recommendations:</string>
     <string name="hero_roles">Hero role</string>
-    <string name="truepicker_hero_roles">Choose hero roles</string>
-    <string name="players_level">Your level:</string>
-    <string name="any_role">Any role</string>
     <string name="empty_truepicker">Cannot find heroes for You</string>
     <string name="truepicker_attention">Counterpick function uses TruePicker services api.\n
         That means, that Counterpick works only when internet-connection is enabled.\n
@@ -246,31 +221,18 @@
     <string name="twitch_attention">Twitch.tv stream watching function is in a beta phase.\n
         So please send all bug and error reports at my email which can be found in About section.
     </string>
-    <string name="install">Install</string>
-    <string name="game_watch_help">If You want to watch live streams, You need to install Twitch app from play market. Do You want to install it?
-    </string>
-    <string name="truepicker">Truepicker.com</string>
     <string name="quality">Quality</string>
-    <string name="coming_soon">Coming soon</string>
     <string name="channel_name">Channel name</string>
     <string name="add_channel">Add favourite channel</string>
     <string name="player">Player</string>
-    <string name="native_player">Built-in player</string>
-    <string name="loading_heroes_completed_and_stoped">Finished loading.\n
-        If You can see this message, then your Google Play services app needs to update.
-        Update it from Play market and then restart Dota 2 Info app.
-    </string>
     <string name="last_updated_time">Last update time: {0}</string>
     <string name="part_of_set">Part of set/bundle:</string>
     <string name="press_refresh_button">Press \'Refresh\' button</string>
     <string name="network_unavailable">Network is unavailable</string>
     <string name="watch_on_youtube">Watch on YouTube</string>
-    <string name="counters_not_found">Found no recommendations</string>
-    <string name="no_more_news">No more news</string>
     <string name="view_original">View original</string>
     <string name="author">Author:</string>
     <string name="date">Date:</string>
-    <string name="no_more_games">No more games</string>
     <string name="bans">Bans:</string>
     <string name="picks">Picks:</string>
     <string name="streams">Video streams</string>
@@ -283,7 +245,6 @@
     <string name="new_app_available">New version\'s available!</string>
     <string name="no_new_version">No new version\'s available</string>
     <string name="new_version">New version</string>
-    <string name="check_new_version">Check for updates</string>
     <string name="hero_status">Hero status:</string>
     <string name="ult_status">Ultimate status:</string>
     <string name="alive">Alive</string>
@@ -351,14 +312,13 @@
     <string name="menu_items_game">ITEMS</string>
     <string name="menu_news_dota">NEWS</string>
     <string name="menu_tournament_match">TOURNAMENT SCHEDULE</string>
-    <string name="menu_recent_match">RECENT MATCH RESULT</string>
     <string name="menu_twitch_tv">TWITCH.TV</string>
     <string name="menu_check_for_update">CHECK FOR UPDATE</string>
     <string name="menu_about">ABOUT</string>
     <string name="menu_exit">QUIT APP</string>
+    <string name="menu_darkmoon">DARK MOON</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="cmn_ok">OK</string>
     <string name="cmn_cancel">CANCEL</string>
     <string name="cmn_nullvalue">""</string>
@@ -368,8 +328,6 @@
     <string name="menu_menuname">MENU</string>
 
     <string name="ask_quit">Do you want quit application?</string>
-
-    <string name="quiz_high_score_no_records">Cant load any result about high score from server. Recheck your connection.</string>
 
     <string name="quiz_high_score_item">Items</string>
     <string name="quiz_high_score_abilities">Abilities</string>
@@ -384,10 +342,6 @@
     <string name="quiz_high_score_title_score">Score</string>
     <string name="quiz_high_score_title_date">Date</string>
     <string name="quiz_high_score">High score records</string>
-
-    <string name="quiz_high_score_item_title">High score Item</string>
-    <string name="quiz_high_score_ability_title">High score Ability</string>
-    <string name="quiz_high_score_random_title">High score Random</string>
 
     <string name="quiz_high_score_endgame">GAME OVER!</string>
     <string name="quiz_high_score_notice_score">You\'ve reached %s points in game!</string>

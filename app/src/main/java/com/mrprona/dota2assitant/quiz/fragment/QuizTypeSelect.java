@@ -44,26 +44,38 @@ public class QuizTypeSelect extends SCBaseFragment {
         actionMenuView.setVisibility(View.GONE);
     }
 
+    View rootView;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        View rootView = inflater.inflate(R.layout.quiz_type_select, container,
+
+         rootView = inflater.inflate(R.layout.quiz_type_select, container,
                 false);
 
         // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
         // values/strings.xml.
+
+
+        return rootView;
+    }
+
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
         mAdView = (AdView) rootView.findViewById(R.id.ad_view);
         // Create an ad request. Check your logcat output for the hashed device ID to
         // get test ads on a physical device. e.g.
         // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
         AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0")
                 .build();
 
 
         // Start loading the ad in the background.
         mAdView.loadAd(adRequest);
 
-        return rootView;
     }
 
     @Override

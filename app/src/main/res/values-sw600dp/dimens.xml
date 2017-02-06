@@ -13,13 +13,10 @@
     <dimen name="carousel_name_margin_left">4dp</dimen>
     <dimen name="carousel_name_margin_top">35dp</dimen>
     <dimen name="carousel_name_text_size">18sp</dimen>
-    <dimen name="carousel_role_holder_margin_top">90dp</dimen>
     <dimen name="carousel_role_holder_width">80dp</dimen>
     <dimen name="carousel_role_holder_height">60dp</dimen>
-    <dimen name="carousel_role_size">40dp</dimen>
     <dimen name="skill_role_holder_margin_bottom">20dp</dimen>
     <dimen name="skill_role_holder_padding">2dp</dimen>
-    <dimen name="skill_role_holder_height">72dp</dimen>
     <dimen name="skill_role_bkg_size">72dp</dimen>
     <dimen name="skill_role_size">68dp</dimen>
     <dimen name="hero_row_textSize">14sp</dimen>

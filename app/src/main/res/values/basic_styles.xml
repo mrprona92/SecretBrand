@@ -95,13 +95,6 @@
         <item name="android:layout_height">0dp</item>
     </style>
 
-    <style name="LayoutFillWidthHW">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">match_parent</item>
-        <item name="android:layout_weight">1</item>
-        <item name="android:layout_margin">4dp</item>
-    </style>
-
     <style name="Layout.FillWidth.Weight" parent="Layout.FillWidth">
         <item name="android:layout_weight">1</item>
     </style>
@@ -123,15 +116,6 @@
         <item name="android:layout_weight">1</item>
         <item name="android:gravity">center</item>
     </style>
-
-    <style name="LayoutFillWidthHWNoMargin">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">match_parent</item>
-        <item name="android:layout_weight">1</item>
-        <item name="android:layout_margin">0dp</item>
-    </style>
-
-    <style name="Button"></style>
 
     <style name="ToggleButton" parent="Layout.WrapWidthHeight">
         <item name="android:textOn"></item>
@@ -592,14 +576,6 @@
         <!--<item name="android:mViewDivider">@android:color/cmn_transparent</item>-->
     </style>
 
-    <style name="captionOnly">
-        <item name="android:background">@null</item>
-        <item name="android:clickable">false</item>
-        <item name="android:focusable">false</item>
-        <item name="android:minHeight">0dp</item>
-        <item name="android:minWidth">0dp</item>
-    </style>
-
     <style name="divider_common">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">1px</item>
@@ -642,27 +618,12 @@
         <item name="android:background">@color/cmn_background_divider</item>
     </style>
 
-    <style name="progress_common">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_centerInParent">true</item>
-        <item name="android:indeterminate">false</item>
-        <item name="android:visibility">gone</item>
-        <!--<item name="style">?android:attr/progressBarStyle</item>-->
-    </style>
-
     <style name="myToolBar" parent="Widget.AppCompat.Toolbar">
         <item name="android:layout_height">45dp</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:background">@color/tabbar_active</item>
         <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
         <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
-    </style>
-
-    <style name="RadioWrapper">
-        <item name="android:layout_width">40dp</item>
-        <item name="android:layout_height">40dp</item>
-        <item name="android:gravity">center</item>
     </style>
 
     <style name="DialogThemeFullScreen" parent="android:Theme.Dialog">
@@ -686,32 +647,6 @@
         <item name="mrl_rippleColor">@color/cmn_gray</item>
         <item name="mrl_rippleAlpha">0.3</item>small
         <item name="mrl_rippleHover">true</item>
-    </style>
-
-    <style name="SpinnerCommon">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">@dimen/btn_height_medium</item>
-        <item name="android:layout_marginTop">@dimen/padding_small</item>
-        <item name="android:background">@drawable/spinner_background</item>
-        <item name="android:spinnerMode">dropdown</item>
-    </style>
-
-
-    <style name="SpinnerRanking">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">@dimen/btn_height_small</item>
-        <item name="android:layout_marginTop">@dimen/padding_smaller</item>
-        <item name="android:background">@drawable/spinner_background</item>
-        <item name="android:spinnerMode">dropdown</item>
-    </style>
-
-
-    <style name="SpinnerProfile">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">@dimen/btn_height_medium</item>
-        <item name="android:layout_marginTop">@dimen/padding_small</item>
-        <item name="android:background">@drawable/spinner_profile_background</item>
-        <item name="android:spinnerMode">dropdown</item>
     </style>
 
 

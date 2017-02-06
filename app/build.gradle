@@ -15,8 +15,8 @@ android {
         applicationId "com.prodo.dotaassitant"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 778
-        versionName "1.0.0"
+        versionCode 782
+        versionName "1.0.1"
         multiDexEnabled true
     }
     buildTypes {

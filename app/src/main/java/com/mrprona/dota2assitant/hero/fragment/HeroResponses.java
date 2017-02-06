@@ -63,11 +63,15 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        Chartboost.setActivityCallbacks(false);
+
+/*      Chartboost.setActivityCallbacks(false);
         Chartboost.setLoggingLevel(CBLogging.Level.ALL);
-        Chartboost.onCreate(mActivity);
+        Chartboost.onCreate(mActivity);*/
+        //Chartboost.onResume(mActivity);
         hideSystemUI();
-        Chartboost.showInterstitial(CBLocation.LOCATION_GAME_SCREEN);
+
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
+
     }
 
     @Override

@@ -72,7 +72,6 @@
         android:background="?attr/colorPrimary" />
 
     <include
-        android:id="@+id/tabbar"
         layout="@layout/toolbar_bottom_common"
         android:layout_width="match_parent"
         android:layout_height="@dimen/toolbar_bottom_height"

@@ -132,7 +132,6 @@
                     android:text="@string/hero_roles" />
 
                 <Spinner
-                    android:id="@+id/role_select"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
             </LinearLayout>
@@ -184,7 +183,7 @@
             android:layout_height="match_parent"
             android:layout_alignParentBottom="true"
             ads:adSize="BANNER"
-            ads:adUnitId="@string/adbUnitID" />
+            ads:adUnitId="@string/banner_ad_unit_id" />
     </LinearLayout>
 
 </LinearLayout>
