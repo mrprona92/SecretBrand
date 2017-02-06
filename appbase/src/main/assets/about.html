@@ -5,7 +5,7 @@
 Author: Prodo Studio<br/>
 Contact: prodostudios@gmail.com<br />
 Follow us on Facebook<br />
-<a href="https://www.facebook.com/Dota-Assistant-185471691916832/">https://www.facebook.com/Dota-Assistant</a><br /><br />
+<a href="https://www.facebook.com/Dota-Assistant-185471691916832/">https://www.facebook.com/Dota-Assistant-185471691916832</a><br /><br />
         Dota 2 content and materials are trademarks and copyrights of Valve or its license. All rights reserved. This app is not affiliated with Valve.<br /><br />
         Used data from<br /><br />
 <a href="http://dota2.com/">dota2.com</a><br /><br />
