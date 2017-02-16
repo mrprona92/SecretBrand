@@ -10,8 +10,8 @@ public interface Constants {
     int MILLIS_FOR_EXIT = 2000;
     String STEAM_API_URL = "https://api.steampowered.com/IDOTA2Match_570/";
 
-    String GITHUB_LAST_APK_URL = "https://github.com/Histler/Infodota/blob/master/infodota.apk?raw=true";
-    String GITHUB_UPDATE_URL = "https://github.com/Histler/Infodota/blob/master/updates.json?raw=true";
+    String GITHUB_LAST_APK_URL = "https://github.com/mrprona92/SecretBrand/blob/master/dota2assistant.apk?raw=true";
+    String GITHUB_UPDATE_URL = "https://github.com/mrprona92/SecretBrand/blob/master/updates.json?raw=true";
 
     interface History {
         String SUBURL = STEAM_API_URL + "GetMatchHistory/V001/?key=";

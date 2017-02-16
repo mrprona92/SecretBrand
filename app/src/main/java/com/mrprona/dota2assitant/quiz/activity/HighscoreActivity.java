@@ -13,6 +13,7 @@ import android.view.MenuItem;
 
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.BaseActivity;
+import com.mrprona.dota2assitant.base.activity.FullAdsActivity;
 import com.mrprona.dota2assitant.base.util.FileUtils;
 import com.mrprona.dota2assitant.quiz.adapter.HighscorePagerAdapter;
 
@@ -49,7 +50,6 @@ public class HighscoreActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
 
         Intent i = getIntent();
         Bundle extras = i.getExtras();
@@ -92,12 +92,15 @@ public class HighscoreActivity extends BaseActivity {
 
             }
         });
-
         pager.setCurrentItem(mModePlayed-1);
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(pager);
+
+        Intent intent = new Intent(HighscoreActivity.this, FullAdsActivity.class);
+        startActivity(intent);
     }
+
 
 
     public static int getValueSelected(){

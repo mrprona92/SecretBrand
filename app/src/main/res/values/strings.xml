@@ -4,7 +4,7 @@
     <string name="language">english</string>
 
     <string name="banner_ad_unit_id">ca-app-pub-1818774973864163/5531434737</string>
-
+    <string name="interstitial_ad_unit_id">ca-app-pub-1818774973864163/7883981930</string>
 
     <string name="loading">Loading…</string>
     <string name="loading_complete">Loading completed</string>
@@ -313,6 +313,7 @@
     <string name="menu_news_dota">NEWS</string>
     <string name="menu_tournament_match">TOURNAMENT SCHEDULE</string>
     <string name="menu_twitch_tv">TWITCH.TV</string>
+    <string name="menu_report_a_bug">REPORT BUG</string>
     <string name="menu_check_for_update">CHECK FOR UPDATE</string>
     <string name="menu_about">ABOUT</string>
     <string name="menu_exit">QUIT APP</string>

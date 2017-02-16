@@ -121,6 +121,11 @@ public class SubmitHighscoreDialog extends DABaseDialog {
         super(context);
     }
 
+    public SubmitHighscoreDialog(Context context) {
+        super(context);
+    }
+
+
     private Context mContext;
 
     public SubmitHighscoreDialog(Context context, Bundle mBundle, ConfirmDialogListener mListener) {

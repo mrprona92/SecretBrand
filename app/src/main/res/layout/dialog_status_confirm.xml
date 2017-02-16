@@ -43,7 +43,8 @@
                 android:layout_width="100dp"
                 android:layout_gravity="center"
                 android:text="@string/quiz_high_score_dialog_title_name"
-                android:textSize="@dimen/text_normal" />
+                android:textSize="@dimen/text_normal"
+                android:id="@+id/textView" />
 
             <EditText android:id="@+id/eTxtName"
                 android:layout_width="270dp"
@@ -55,6 +56,8 @@
 
         <LinearLayout
             android:layout_height="60dp"
+            android:id="@+id/layoutCountry"
+
             style="@style/Layout.FillWidth.Horizontal">
 
             <TextView
@@ -62,6 +65,7 @@
                 android:layout_width="100dp"
                 android:layout_gravity="center"
                 android:text="@string/quiz_high_score_dialog_title_country"
+                android:id="@+id/titleCountry"
                 android:textSize="@dimen/text_normal" />
 
             <TextView android:id="@+id/lblChooseCountry"

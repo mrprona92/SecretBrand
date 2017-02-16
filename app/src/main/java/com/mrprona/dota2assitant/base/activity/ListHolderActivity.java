@@ -39,6 +39,7 @@ import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.configs.ScreenIDs;
 import com.mrprona.dota2assitant.base.dao.DatabaseManager;
 import com.mrprona.dota2assitant.base.dao.Helper;
+import com.mrprona.dota2assitant.base.dialog.SubmitBugDialog;
 import com.mrprona.dota2assitant.base.fragment.AgreementFragment;
 import com.mrprona.dota2assitant.base.fragment.ConfirmDialog;
 import com.mrprona.dota2assitant.base.fragment.SCAlertDialog;
@@ -556,12 +557,16 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 openScreen(ScreenIDs.ScreenTab.MENU, TwitchHolder.class, null, true, true);
                 break;
             case 6:
-                UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
+                SubmitBugDialog mSubmit = new SubmitBugDialog(this);
+                mSubmit.show();
                 break;
             case 7:
-                startActivity(new Intent(ListHolderActivity.this, AboutActivity.class));
+                UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
                 break;
             case 8:
+                startActivity(new Intent(ListHolderActivity.this, AboutActivity.class));
+                break;
+            case 9:
                 //TODO quit app
                 AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
                 alertDialog.setTitle("Dota Assitant");
