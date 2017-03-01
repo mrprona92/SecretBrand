@@ -56,12 +56,12 @@ public class UpdateServiceImpl implements UpdateService {
     public long loadNewVersion(Context context) {
         DownloadManager.Request request = new DownloadManager.Request(Uri.parse(Constants.GITHUB_LAST_APK_URL));
         request.setDescription(context.getString(R.string.new_version));
-        request.setTitle("Infodota.apk");
+        request.setTitle("Dota2Assistant.apk");
 
         request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED);
 
         request.setMimeType("application/vnd.android.package-archive");
-        request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, "Infodota.apk");
+        request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, "Dota2Assistant.apk");
 
         // get download service and enqueue file
         DownloadManager manager = (DownloadManager) context.getSystemService(Context.DOWNLOAD_SERVICE);
