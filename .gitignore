@@ -15,7 +15,7 @@ out/
 
 # Gradle files
 .gradle/
-build/
+
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -43,3 +43,19 @@ captures/
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
+.DS_Store
+app/.DS_Store
+app/libs/.DS_Store
+app/libs/doc/
+app/src/main/assets/heroes/.DS_Store
+app/src/main/res/.DS_Store
+app/src/main/res/drawable-xxxhdpi/.DS_Store
+app/src/main/res/mipmap-xxxhdpi/.DS_Store
+appbase/.DS_Store
+appbase/src/.DS_Store
+appbase/src/main/.DS_Store
+appbase/src/main/assets/.DS_Store
+appbase/src/main/res/.DS_Store
+appbase/src/main/res/layout/.DS_Store
+libs/
+projectFilesBackup/
