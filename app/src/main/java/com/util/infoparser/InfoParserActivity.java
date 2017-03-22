@@ -140,7 +140,7 @@ public class InfoParserActivity extends Activity implements RequestListener {
 				abilityResult.setAbilities(abilitiesList);
 				saveStringFile("npc_abilities.json",new Gson().toJson(abilityResult));
 				*//*
-                HeroService heroService = BeanContainer.getInstance().getHeroService();
+                RankingService heroService = BeanContainer.getInstance().getHeroService();
                 for (int heroesLoaded = 0; heroesLoaded < heroes.size(); heroesLoaded++) {
                     Hero hero = heroes.get(heroesLoaded);
                     //publishProgress(hero.getLocalizedName(),String.valueOf(position));
@@ -243,7 +243,7 @@ public class InfoParserActivity extends Activity implements RequestListener {
             }.getType();
             final List<Skill> skills = new Gson().fromJson(skillsJson, skillListType);
 
-            HeroService heroService = BeanContainer.getInstance().getHeroService();
+            RankingService heroService = BeanContainer.getInstance().getHeroService();
             List<Ability> abilities = abilityResult.getAbilities();
             for (Skill skill : skills) {
                 int i = 0;
@@ -528,7 +528,7 @@ public class InfoParserActivity extends Activity implements RequestListener {
                 } else if ("Natures Prophet".equals(heroName)) {
                     heroName = "Nature's Prophet";
                 }
-                HeroService heroService = BeanContainer.getInstance().getHeroService();
+                RankingService heroService = BeanContainer.getInstance().getHeroService();
                 List<Hero> heroes = heroService.getHeroesByName(LoaderActivity.this, heroName);
                 Hero hero = heroes.size() != 0 ? heroes.get(0) : null;
                 if (hero != null) {
@@ -612,7 +612,7 @@ public class InfoParserActivity extends Activity implements RequestListener {
             HeroResponsesResult result = new HeroResponsesResult();
             result.setResponses(new ArrayList<HeroResponse>());
 
-            HeroService heroService = BeanContainer.getInstance().getHeroService();
+            RankingService heroService = BeanContainer.getInstance().getHeroService();
             if (elements != null && elements.size() != 0) {
                 //System.out.println(elements);
                 for (Element mp3element : elements) {

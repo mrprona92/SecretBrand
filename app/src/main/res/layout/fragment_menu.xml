@@ -7,20 +7,43 @@
 
 
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/recyclerMenu"
-        style="@style/Layout.FillWidth"
-        tools:listitem="@layout/item_menu"/>
-
-
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/ad_view"
+    <LinearLayout
+        android:id="@+id/llRecyclelayout"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@+id/ad_layout"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerMenu"
+            style="@style/Layout.FillWidth"
+            tools:listitem="@layout/item_menu"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ad_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_id"
-     />
+        android:orientation="horizontal">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/ad_view"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"
+            />
+
+    </LinearLayout>
+
+
+
+
 
 </RelativeLayout>
 

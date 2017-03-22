@@ -30,6 +30,8 @@ import com.mrprona.dota2assitant.news.service.NewsServiceImpl;
 import com.mrprona.dota2assitant.player.dao.AccountDao;
 import com.mrprona.dota2assitant.player.remote.PlayerRemoteServiceImpl;
 import com.mrprona.dota2assitant.player.service.PlayerServiceImpl;
+import com.mrprona.dota2assitant.ranking.service.RankingService;
+import com.mrprona.dota2assitant.ranking.service.RankingServiceImpl;
 import com.mrprona.dota2assitant.stream.dao.StreamDao;
 import com.mrprona.dota2assitant.stream.remote.DouyuRestService;
 import com.mrprona.dota2assitant.stream.remote.TwitchRemoteServiceImpl;
@@ -111,6 +113,10 @@ public class BeanContainer implements InitializingBean {
 
     private List<CreateTableDao> allDaos;
 
+    private RankingServiceImpl mRankingService;
+
+
+
     public BeanContainer() {
 
         allDaos = new ArrayList<>();
@@ -172,6 +178,9 @@ public class BeanContainer implements InitializingBean {
 
         updateRemoteService=new UpdateRemoteServiceImpl();
         updateService=new UpdateServiceImpl();
+
+        mRankingService= new RankingServiceImpl();
+
     }
 
     public static BeanContainer getInstance() {
@@ -189,6 +198,7 @@ public class BeanContainer implements InitializingBean {
 
     @Override
     public void initialize() {
+        mRankingService.initialize();
         heroService.initialize();
         itemService.initialize();
         counterService.initialize();
@@ -292,6 +302,10 @@ public class BeanContainer implements InitializingBean {
 
     public HeroServiceImpl getHeroService() {
         return heroService;
+    }
+
+    public RankingServiceImpl getmRankingService() {
+        return mRankingService;
     }
 
     public ItemServiceImpl getItemService() {

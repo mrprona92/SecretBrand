@@ -343,6 +343,10 @@
     <string name="quiz_high_score_title_score">Score</string>
     <string name="quiz_high_score_title_date">Date</string>
     <string name="quiz_high_score">High score records</string>
+    <string name="team_ranking">TEAM RANKINGS</string>
+    <string name="quiz_ranking_change_status">Status</string>
+
+
 
     <string name="quiz_high_score_endgame">GAME OVER!</string>
     <string name="quiz_high_score_notice_score">You\'ve reached %s points in game!</string>

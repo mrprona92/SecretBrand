@@ -217,7 +217,7 @@ public class HeroesList extends SCBaseFragment implements SearchableFragment, Re
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        SharedPreferences preferences = getActivity().getSharedPreferences("settings", 1);
+        SharedPreferences preferences = getActivity().getSharedPreferences("settings", Context.MODE_PRIVATE);
         carousel = preferences.getBoolean("carousel", false);
         if (!carousel) {
             return inflater.inflate(R.layout.hero_list, container, false);

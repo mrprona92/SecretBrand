@@ -17,6 +17,7 @@
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
         <item name="android:textColorLink">@color/primaryTextColor</item>
+        <item name="android:typeface">serif</item>
     </style>
 
     <style name="Infodota.Dark" parent="Infodota">
@@ -104,5 +105,8 @@
         <item name="android:background">@drawable/bg_common_round_grey_darkweak</item>
         <item name="textSize">@dimen/text_normal</item>
     </style>
+
+
+
 
 </resources>

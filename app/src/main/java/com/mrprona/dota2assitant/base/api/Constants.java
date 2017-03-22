@@ -12,6 +12,7 @@ public interface Constants {
 
     String GITHUB_LAST_APK_URL = "https://github.com/mrprona92/SecretBrand/blob/master/Dota2Assistant.apk?raw=true";
     String GITHUB_UPDATE_URL = "https://github.com/mrprona92/SecretBrand/blob/master/updates.json?raw=true";
+    String GOSUGAMER_RANKINGTEAM= "http://www.gosugamers.net/dota2/rankings";
 
     interface History {
         String SUBURL = STEAM_API_URL + "GetMatchHistory/V001/?key=";

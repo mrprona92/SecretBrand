@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Layout.FillWidth">
+
+    <View
+        style="@style/divider_no_margin"
+        android:layout_below="@id/llColumns"
+        android:layout_marginLeft="0dp" />
+
+    <LinearLayout
+        android:id="@+id/llColumns"
+        style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout style="@style/Layout.FillWidth">
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1.2">
+
+                <TextView
+                    android:id="@+id/lblRanking"
+                    style="@style/Text.Small.Grey.Center"
+                    android:text="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="0.85">
+
+                <TextView
+                    android:id="@+id/lblTeamName"
+                    style="@style/Layout.FillWidth"
+                    android:padding="@dimen/padding_small"
+                    android:gravity="center"
+                    android:text="Binh Tran"
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1.1">
+
+                <ImageView
+                    android:id="@+id/imgFlag"
+                    style="@style/Layout.FillWidth"
+                    android:src="@mipmap/ad_flag"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:padding="@dimen/padding_small"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.2">
+
+                <TextView
+                    android:id="@+id/lblNumberRanking"
+                    style="@style/Text.Small.Grey.Center"
+                    android:text="1992" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.2">
+
+                <ImageView
+                    android:id="@+id/imgRankingChange"
+                    style="@style/Layout.FillWidth"
+                    android:src="@mipmap/ad_flag"
+                    android:layout_width="30dp"
+                    android:layout_height="20dp"
+                    android:padding="@dimen/padding_small"
+                    />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+

@@ -49,6 +49,7 @@ public class FullAdsActivity extends AppCompatActivity {
 
             @Override
             public void onAdClosed() {
+                finish();
                 super.onAdClosed();
                 Log.i(TAG, "onAdClosed: ");
             }

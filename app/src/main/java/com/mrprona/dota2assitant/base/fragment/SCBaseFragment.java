@@ -71,7 +71,7 @@ public abstract class SCBaseFragment extends Fragment {
     @Override
     public void onResume() {
         super.onResume();
-        mActivity.updateUI();
+       // mActivity.updateUI();
     }
 
     @Override

@@ -15,7 +15,7 @@
             >
 
             <LinearLayout style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
-                android:layout_weight="1.05">
+                android:layout_weight="1">
                 <TextView
                     style="@style/Text.Small.Dark"
                     android:gravity="center"
@@ -105,8 +105,6 @@
         android:layout_height="match_parent"
         android:layout_below="@+id/rlHeader"
         tools:listitem="@layout/highscore_row"/>
-
-
 
 
 </RelativeLayout>

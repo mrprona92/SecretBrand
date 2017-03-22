@@ -10,6 +10,7 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
+import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -63,11 +64,14 @@ import com.mrprona.dota2assitant.quiz.activity.HighscoreActivity;
 import com.mrprona.dota2assitant.quiz.dialog.SubmitHighscoreDialog;
 import com.mrprona.dota2assitant.quiz.fragment.GameOverFragment;
 import com.mrprona.dota2assitant.quiz.fragment.QuizTypeSelect;
+import com.mrprona.dota2assitant.ranking.adapter.TeamRankingHolder;
+import com.mrprona.dota2assitant.ranking.fragment.TeamrankingFragment;
 import com.mrprona.dota2assitant.stream.fragment.TwitchHolder;
 import com.mrprona.dota2assitant.trackdota.fragment.TrackdotaMain;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
+import com.util.TypefaceUtil;
 
 import java.util.Map;
 
@@ -117,11 +121,11 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @BindView(R.id.lblTabMenu)
     TextView lblTabMenu;
 
-
+    @Nullable
     @BindView(R.id.btnBack)
     ImageView btnBack;
 
-
+    @Nullable
     @BindView(R.id.lblToolbarTitle)
     TextView lblToolbarTitle;
 
@@ -192,6 +196,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         setTheme(R.style.Infodota);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_fragment_holder);
+
+        TypefaceUtil.overrideFont(getApplicationContext(), "SERIF", "fonts/future.ttf"); // font from assets: "assets/fonts/Roboto-Regular.ttf
 
         //mActionMenuView.setPresenter(new ActionMenuPresenter(this));
 
@@ -536,9 +542,12 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         switch (position) {
             default:
             case 0:
-                Bundle bundle = new Bundle();
-                bundle.putString(AgreementFragment.ARG_URL, "http://steamcommunity.com/sharedfiles/filedetails/?id=853095874");
+                //When want open link  to display
+                /*Bundle bundle = new Bundle();
+                bundle.putString(AgreementFragment.ARG_URL, "http://www.gosugamers.net/dota2/rankings");
                 openScreen(ScreenIDs.ScreenTab.MENU, AgreementFragment.class, bundle, true, true);
+                */
+                openScreen(ScreenIDs.ScreenTab.MENU, TeamrankingFragment.class, null, true, true);
                 break;
             case 1:
                 openScreen(ScreenIDs.ScreenTab.MENU, HeroesList.class, null, true, true);
