@@ -1,7 +1,7 @@
 {
-    "versionCode": 783,
+    "versionCode": 784,
     "message":
     {
-        "en-us": "-Add firebase notification\n-Create update new version\n"
+        "en-us": "-Add team ranking function\n-Change font text\n-Fix crash on android version 7.0\n-Fix advertisement overlap hero info\n"
     }
 }

@@ -78,3 +78,4 @@
     public static <fields>;
 }
 
+-printmapping mapping.txt

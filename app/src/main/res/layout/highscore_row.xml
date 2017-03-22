@@ -16,7 +16,7 @@
 
             <LinearLayout
                 style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
-                android:layout_weight="1.05">
+                android:layout_weight="1">
 
                 <TextView
                     android:id="@+id/lblRanking"
