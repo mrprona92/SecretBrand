@@ -1,7 +1,7 @@
 {
-    "versionCode": 784,
+    "versionCode": 785,
     "message":
     {
-        "en-us": "-Add team ranking function\n-Change font text\n-Fix crash on android version 7.0\n-Fix advertisement overlap hero info\n"
+        "en-us": "-Fix download response and set ringtone on android api 23 \n-Fix display for 5 hero Arc warden, Monkey King, Underlord\n"
     }
 }

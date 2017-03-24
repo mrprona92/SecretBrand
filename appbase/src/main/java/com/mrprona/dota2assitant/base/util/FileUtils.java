@@ -1,13 +1,22 @@
 package com.mrprona.dota2assitant.base.util;
 
+import android.Manifest;
+import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.content.res.AssetManager;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
+import android.net.Uri;
+import android.os.Build;
 import android.os.Environment;
+import android.provider.Settings;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.widget.ImageView;
 
@@ -126,27 +135,77 @@ public class FileUtils {
         return text;
     }
 
-    public static boolean saveFile(String fileName, InputStream input) {
-        File parent = new File(fileName).getParentFile();
-        if (!parent.exists()) {
-            parent.mkdirs();
-        }
-        try {
-            OutputStream output = new FileOutputStream(fileName);
-            byte data[] = new byte[1024];
-            int count;
 
-            while ((count = input.read(data)) != -1) {
-                output.write(data, 0, count);
-            }
-            output.flush();
-            output.close();
-            input.close();
-            return true;
-        } catch (IOException e) {
-            e.printStackTrace();
+    public static final int MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE = 1;
+
+    public static int isHavePermisson(Context mContext,String permisson) { // make a folder under Environment.DIRECTORY_DCIM
+        int returnValue = 0;
+        String state = Environment.getExternalStorageState();
+        if (!Environment.MEDIA_MOUNTED.equals(state)) {
+            Log.d("myAppName", "Error: external storage is unavailable");
+            return 0;
         }
-        return false;
+        if (Environment.MEDIA_MOUNTED_READ_ONLY.equals(state)) {
+            Log.d("myAppName", "Error: external storage is read only.");
+            return 0;
+        }
+        Log.d("myAppName", "External storage is not read only or unavailable");
+
+        if (ContextCompat.checkSelfPermission(mContext, // request permission when it is not granted.
+                permisson)
+                != PackageManager.PERMISSION_GRANTED) {
+            Log.d("myAppName", "permission:WRITE_EXTERNAL_STORAGE: NOT granted!");
+            // Should we show an explanation?
+            if (ActivityCompat.shouldShowRequestPermissionRationale((Activity) mContext,
+                   permisson)) {
+
+                // Show an expanation to the user *asynchronously* -- don't block
+                // this thread waiting for the user's response! After the user
+                // sees the explanation, try again to request the permission.
+
+            } else {
+
+                // No explanation needed, we can request the permission.
+
+                ActivityCompat.requestPermissions((Activity) mContext,
+                        new String[]{permisson},
+                        MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE);
+
+                // MY_PERMISSIONS_REQUEST_READ_CONTACTS is an
+                // app-defined int constant. The callback method gets the
+                // result of the request.
+            }
+        } else {
+            returnValue = 1;
+        }
+        return returnValue;
+    }
+
+    public static boolean saveFile(Context mContext, String fileName, InputStream input) {
+        if (FileUtils.isHavePermisson(mContext,Manifest.permission.WRITE_EXTERNAL_STORAGE) == 1) {
+            File parent = new File(fileName).getParentFile();
+            if (!parent.exists()) {
+                parent.mkdirs();
+            }
+            try {
+                OutputStream output = new FileOutputStream(fileName);
+                byte data[] = new byte[1024];
+                int count;
+
+                while ((count = input.read(data)) != -1) {
+                    output.write(data, 0, count);
+                }
+                output.flush();
+                output.close();
+                input.close();
+                return true;
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            return false;
+        } else {
+            return false;
+        }
     }
 
     public static <T> boolean saveJsonFile(String fileName, T object) {

@@ -76,7 +76,7 @@ public class GuideCreatorActivity extends BaseActivity {
                     }
                     guidePath += ".json";
                 }
-                FileUtils.saveFile(guidePath,
+                FileUtils.saveFile(getBaseContext(),guidePath,
                         new ByteArrayInputStream(entity.getBytes("UTF-8")));
                 Toast.makeText(this, R.string.guide_saved, Toast.LENGTH_SHORT).show();
                 setResult(RESULT_OK);

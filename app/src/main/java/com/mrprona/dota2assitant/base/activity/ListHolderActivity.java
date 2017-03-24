@@ -8,6 +8,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
@@ -54,6 +55,8 @@ import com.mrprona.dota2assitant.base.util.AppRater;
 import com.mrprona.dota2assitant.base.util.UpdateUtils;
 import com.mrprona.dota2assitant.cosmetic.fragment.CosmeticItemsList;
 import com.mrprona.dota2assitant.counter.fragment.CounterPickFilter;
+import com.mrprona.dota2assitant.hero.api.TalentTree;
+import com.mrprona.dota2assitant.hero.dao.HeroDao;
 import com.mrprona.dota2assitant.hero.fragment.HeroesList;
 import com.mrprona.dota2assitant.hero.service.HeroService;
 import com.mrprona.dota2assitant.item.fragment.ItemsList;
@@ -70,9 +73,11 @@ import com.mrprona.dota2assitant.stream.fragment.TwitchHolder;
 import com.mrprona.dota2assitant.trackdota.fragment.TrackdotaMain;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.exception.SpiceException;
-import com.octo.android.robospice.request.listener.RequestListener;
+import com.parser.JsonSimpleExample;
 import com.util.TypefaceUtil;
 
+
+import java.util.List;
 import java.util.Map;
 
 import butterknife.BindColor;
@@ -87,15 +92,16 @@ import butterknife.OnClick;
  * Date: 15.01.14
  * Time: 14:27
  */
-public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener, RequestListener<String>,SubmitHighscoreDialog.ConfirmDialogListener {
+public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener, SubmitHighscoreDialog.ConfirmDialogListener {
     int lastSelected = -1;
 
     HeroService heroService = BeanContainer.getInstance().getHeroService();
-    LocalUpdateService localUpdateService = BeanContainer.getInstance().getLocalUpdateService();
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private boolean doubleBackToExitPressedOnce = false;
     protected final String TAG = getClass().getSimpleName();
     private Spinner navSpinner;
+
+    public static int CODE_WRITE_SETTINGS_PERMISSION = 1001;
 
     @BindView(R.id.tabHero)
     LinearLayout tabHero;
@@ -163,32 +169,37 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
 
-
     public static Map<Long, Integer> mMapTypeHero;
 
 
-
-    public static Map<Long, Integer> getMapTypeHero(){
+    public static Map<Long, Integer> getMapTypeHero() {
         return mMapTypeHero;
     }
 
     @Override
     protected void onStart() {
         ButterKnife.bind(this);
-        mMapTypeHero= DatabaseManager.getInstance(this).mHelper.getAllStatsHero();
+        Log.d("BINH", "onStart() called");
 
+        mMapTypeHero = DatabaseManager.getInstance(this).mHelper.getAllStatsHero();
+        /*
         if (!mSpiceManager.isStarted()) {
             mSpiceManager.start(getApplicationContext());
             final int currentVersion = localUpdateService.getVersion(this);
             if (currentVersion != Helper.DATABASE_VERSION) {
                 mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
             }
-        }
+        }*/
 
 
         super.onStart();
     }
 
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -221,7 +232,9 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
         preferences.edit().remove("mainMenuLastSelected").commit();
-        UpdateUtils.checkNewVersion(this, false);
+
+        // BinhTran comment 23/03 for calling redundant
+        // UpdateUtils.checkNewVersion(this, false);
 
 
         navSpinner = (Spinner) mToolbar.findViewById(R.id.nav_spinner);
@@ -259,7 +272,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         /*if (mCurrentFragment instanceof MenuFragment) {
             navSpinner.setVisibility(View.VISIBLE);
         } else {*/
-            navSpinner.setVisibility(View.GONE);
+        navSpinner.setVisibility(View.GONE);
         //}
 
         getMenuInflater().inflate(R.menu.search, menu);
@@ -408,27 +421,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     public void onNothingSelected(AdapterView<?> parent) {
 
     }
-
-    @Override
-    public void onRequestFailure(SpiceException spiceException) {
-        AlertDialog.Builder dialog = new AlertDialog.Builder(ListHolderActivity.this);
-        dialog.setTitle(getString(R.string.error_during_load));
-        dialog.setMessage(spiceException.getLocalizedMessage());
-        dialog.setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialogInterface, int i) {
-                dialogInterface.dismiss();
-                finish();
-            }
-        });
-        dialog.show();
-    }
-
-    @Override
-    public void onRequestSuccess(String s) {
-        localUpdateService.setUpdated(ListHolderActivity.this);
-    }
-
 
     //Tab Change
     @OnClick(R.id.tabHero)
@@ -662,11 +654,12 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 try {
                     Dialog dlg = getProgressDialog();
                     sDialogCount--;
-                    if( dlg != null && dlg.isShowing()){
-                        if(!isWait) {
-                            sDialogCount =0;dlg.dismiss();
-                        }else{
-                            if (sDialogCount <=0 )dlg.dismiss();
+                    if (dlg != null && dlg.isShowing()) {
+                        if (!isWait) {
+                            sDialogCount = 0;
+                            dlg.dismiss();
+                        } else {
+                            if (sDialogCount <= 0) dlg.dismiss();
                         }
                     }
                 } catch (Exception ex) {
@@ -805,11 +798,11 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
     @Override
-    public void onSelect(int indexButton,int mode) {
-        if((indexButton==1)||(mCurrentFragment instanceof GameOverFragment)){
+    public void onSelect(int indexButton, int mode) {
+        if ((indexButton == 1) || (mCurrentFragment instanceof GameOverFragment)) {
             Intent intent = new Intent(this, HighscoreActivity.class);
-            Bundle sendData= new Bundle();
-            sendData.putInt("mode",mode);
+            Bundle sendData = new Bundle();
+            sendData.putInt("mode", mode);
             intent.putExtras(sendData);
             startActivity(intent);
         }

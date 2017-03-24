@@ -6,6 +6,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
@@ -15,16 +16,21 @@ import android.widget.Toast;
 import com.mrprona.dota2assitant.BeanContainer;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.api.Constants;
+import com.mrprona.dota2assitant.base.dao.DatabaseManager;
 import com.mrprona.dota2assitant.base.dao.Helper;
 import com.mrprona.dota2assitant.base.service.LocalSpiceService;
 import com.mrprona.dota2assitant.base.service.LocalUpdateService;
 import com.mrprona.dota2assitant.base.task.UpdateLoadRequest;
 import com.mrprona.dota2assitant.base.util.UiUtils;
+import com.mrprona.dota2assitant.hero.api.TalentTree;
+import com.mrprona.dota2assitant.hero.dao.HeroDao;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.DurationInMillis;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
+import com.parser.JsonSimpleExample;
 
+import java.util.List;
 import java.util.Locale;
 
 /**
@@ -50,6 +56,8 @@ public class LoaderActivity extends Activity implements RequestListener<String> 
                 postAnimate();
             }
         }
+
+
         super.onStart();
     }
 

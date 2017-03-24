@@ -15,8 +15,8 @@ android {
         applicationId "com.prodo.dotaassitant"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 784
-        versionName "1.0.3"
+        versionCode 785
+        versionName "1.0.4"
         multiDexEnabled true
     }
     buildTypes {
@@ -86,5 +86,6 @@ dependencies {
     compile 'com.google.android.gms:play-services-ads:10.0.1'
     apt 'org.parceler:parceler:1.0.2'
     compile 'org.parceler:parceler-api:1.0.2'
+    compile 'org.greenrobot:eventbus:3.0.0'
 }
 apply plugin: 'com.google.gms.google-services'

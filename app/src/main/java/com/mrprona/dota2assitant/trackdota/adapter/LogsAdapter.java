@@ -133,7 +133,11 @@ public class LogsAdapter extends BaseAdapter implements PinnedSectionListView.Pi
                 holder.text.setTextColor(Color.WHITE);
                 Player player = gameManager.getPlayer(logEvent.getAccountId());
                 Hero hero = gameManager.getHero(player.getHeroId());
+
+
+                Log.d("BINH", "getView() called with: position = [" + position + "], convertView = [" + convertView + "], parent = [" + parent + "]");
                 Glide.with(context).load(SteamUtils.getHeroMiniImage(hero.getDotaId())).placeholder(0).into(holder.heroIcon);
+
                 String playerName = getHtmlColorWrap(player.getName(), player.getTeam() == TrackdotaUtils.RADIANT ? resources.getColor(R.color.ally_team) : resources.getColor(R.color.enemy_team));
                 if (logEvent.getDelta() > 1) {
                     holder.text.setText(

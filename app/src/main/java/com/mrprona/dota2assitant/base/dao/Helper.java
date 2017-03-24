@@ -4,15 +4,23 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 import com.mrprona.dota2assitant.BeanContainer;
+import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
+import com.mrprona.dota2assitant.base.service.LocalSpiceService;
+import com.mrprona.dota2assitant.base.service.LocalUpdateService;
+import com.mrprona.dota2assitant.base.task.UpdateLoadRequest;
 import com.mrprona.dota2assitant.hero.api.HeroStats;
 import com.mrprona.dota2assitant.hero.api.TalentTree;
 import com.mrprona.dota2assitant.hero.dao.AbilityDao;
 import com.mrprona.dota2assitant.hero.dao.HeroDao;
 import com.mrprona.dota2assitant.hero.dao.HeroStatsDao;
 import com.mrprona.dota2assitant.item.dao.ItemDao;
+import com.octo.android.robospice.SpiceManager;
 import com.parser.JsonSimpleExample;
+
+import org.greenrobot.eventbus.EventBus;
 
 import java.util.HashMap;
 import java.util.List;
@@ -25,7 +33,7 @@ import java.util.Map;
  */
 public class Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "dota2.db";
-    public static final int DATABASE_VERSION = 82;
+    public static final int DATABASE_VERSION = 84;
     public Context mContext;
 
     /*public static final String CREATE_ITEMS_FROM="create table if not exists "+
@@ -44,15 +52,12 @@ public class Helper extends SQLiteOpenHelper {
         }
         db.execSQL("create table if not exists updated_version(version integer not null);");
         db.execSQL("insert into updated_version (version) values(0);");
-
-        List<TalentTree> mListTalentTreee= JsonSimpleExample.ConvertJsonFile(mContext);
-        for (TalentTree mTalentTree: mListTalentTreee) {
-            HeroDao.bindItems(db, mTalentTree);
-        }
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
+        Log.d("BINH", "onUpgrade() called with: db = [" + db + "], oldVersion = [" + oldVersion + "], newVersion = [" + newVersion + "]");
+
         if (oldVersion < DATABASE_VERSION) {
             reinitHeroesAndItems(db);
         }
@@ -60,6 +65,7 @@ public class Helper extends SQLiteOpenHelper {
         for (CreateTableDao dao : allDaos) {
             dao.onUpgrade(db, oldVersion, newVersion);
         }
+
         /*if (oldVersion < DATABASE_VERSION) {
             List<TalentTree> mListTalentTreee= JsonSimpleExample.ConvertJsonFile(mContext);
             for (TalentTree mTalentTree: mListTalentTreee) {

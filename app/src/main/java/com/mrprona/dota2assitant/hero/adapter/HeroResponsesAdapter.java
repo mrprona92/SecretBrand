@@ -1,14 +1,22 @@
 package com.mrprona.dota2assitant.hero.adapter;
 
+import android.Manifest;
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.ContentValues;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.media.RingtoneManager;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.provider.MediaStore;
+import android.provider.Settings;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -25,6 +33,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.mrprona.dota2assitant.R;
+import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.mrprona.dota2assitant.base.util.FileUtils;
 import com.mrprona.dota2assitant.base.util.Utils;
 import com.mrprona.dota2assitant.base.view.PinnedSectionListView;
@@ -365,8 +374,12 @@ public class HeroResponsesAdapter extends BaseAdapter implements PinnedSectionLi
             Uri newUri = context.getContentResolver().insert(uri, values);
 
             try {
-                RingtoneManager.setActualDefaultRingtoneUri(context, RingtoneManager.TYPE_RINGTONE, newUri);
-                Toast.makeText(context, R.string.ringtone_set, Toast.LENGTH_SHORT).show();
+                if(!Settings.System.canWrite(context)){
+                    youDesirePermissionCode((Activity) context);
+                }else{
+                    RingtoneManager.setActualDefaultRingtoneUri(context, RingtoneManager.TYPE_RINGTONE, newUri);
+                    Toast.makeText(context, R.string.ringtone_set, Toast.LENGTH_SHORT).show();
+                }
             } catch (Throwable e) {
                 e.printStackTrace();
                 Toast.makeText(context, e.getLocalizedMessage(), Toast.LENGTH_LONG).show();
@@ -438,7 +451,7 @@ public class HeroResponsesAdapter extends BaseAdapter implements PinnedSectionLi
                     InputStream input = new BufferedInputStream(urlConnection.getInputStream());
                     String[] urlPath = heroResponse.getUrl().split("/");
                     String path = holderFolder + File.separator + urlPath[urlPath.length - 1];
-                    if (FileUtils.saveFile(path, input)) {
+                    if (FileUtils.saveFile(context, path, input)) {
                         heroResponse.setLocalUrl(path);
                     } else {
                         throw new Exception(context.getString(R.string.file_saving_error));
@@ -472,4 +485,27 @@ public class HeroResponsesAdapter extends BaseAdapter implements PinnedSectionLi
 
         }
     }
+
+
+
+    public static void youDesirePermissionCode(Activity context){
+        boolean permission;
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+            permission = Settings.System.canWrite(context);
+        } else {
+            permission = ContextCompat.checkSelfPermission(context, Manifest.permission.WRITE_SETTINGS) == PackageManager.PERMISSION_GRANTED;
+        }
+        if (permission) {
+            //do your code
+        }  else {
+            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.M) {
+                Intent intent = new Intent(Settings.ACTION_MANAGE_WRITE_SETTINGS);
+                intent.setData(Uri.parse("package:" + context.getPackageName()));
+                context.startActivity(intent);
+            } else {
+                ActivityCompat.requestPermissions(context, new String[]{Manifest.permission.WRITE_SETTINGS}, ListHolderActivity.CODE_WRITE_SETTINGS_PERMISSION);
+            }
+        }
+    }
+
 }

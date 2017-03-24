@@ -31,7 +31,7 @@ public class ParserInfoTeam {
 
         Document doc = null;
         try {
-            doc = Jsoup.connect(url).get();
+            doc = Jsoup.connect(url).timeout(10*1000).get();
             Elements links = doc.select("a[href]");
             Elements media = doc.select("[src]");
             Elements imports = doc.select("link[href]");

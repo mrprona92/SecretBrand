@@ -11,6 +11,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -219,8 +220,9 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
 
     @Override
     public void onRequestSuccess(HeroResponsesSection.List heroResponses) {
-        File musicFolder = new File(Environment.getExternalStorageDirectory() + File.separator + "Music" + File.separator + "dota2" + File.separator + hero.getDotaId() + File.separator);
+        File musicFolder = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_MUSIC) + File.separator + "dota2" + File.separator + hero.getDotaId() + File.separator);
         String musicPath = musicFolder.getAbsolutePath();
+
         mAdapter = new HeroResponsesAdapter(getActivity(), heroResponses, musicPath);
         mFilter = mAdapter.getFilter();
         listView.setAdapter(mAdapter);
