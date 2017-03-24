@@ -36,6 +36,9 @@ public class Helper extends SQLiteOpenHelper {
     public static final int DATABASE_VERSION = 84;
     public Context mContext;
 
+
+    
+
     /*public static final String CREATE_ITEMS_FROM="create table if not exists "+
             " items_from ( _id integer PRIMARY KEY AUTOINCREMENT, item_id integer not null, need_id integer not null);";*/
 
