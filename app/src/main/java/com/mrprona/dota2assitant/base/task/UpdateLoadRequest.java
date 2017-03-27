@@ -35,7 +35,7 @@ public class UpdateLoadRequest extends TaskRequest<String> {
     public String loadData() throws Exception {
         Log.d("BINH", "loadData() called");
 
-        DatabaseManager manager= DatabaseManager.getInstance(mContext);
+        /*DatabaseManager manager= DatabaseManager.getInstance(mContext);
 
         SQLiteDatabase db= manager.openDatabase();
 
@@ -44,7 +44,7 @@ public class UpdateLoadRequest extends TaskRequest<String> {
             HeroDao.bindItems(db, mTalentTree);
         }
 
-        manager.closeDatabase();
+        manager.closeDatabase();*/
 
         LocalUpdateService localUpdateService = BeanContainer.getInstance().getLocalUpdateService();
         AssetManager assetManager = mContext.getAssets();

@@ -4,6 +4,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
 
 import com.mrprona.dota2assitant.base.dao.DatabaseManager;
 import com.mrprona.dota2assitant.base.dao.Helper;
@@ -20,6 +21,7 @@ public class LocalUpdateService {
             ContentValues values = new ContentValues();
             values.put("version", version);
             database.update("updated_version", values, null, null);
+            Log.d("BINH", "update() called with: context = [" + context + "], sql = [" + sql + "], version = [" + version + "]");
         } finally {
             manager.closeDatabase();
         }

@@ -439,24 +439,20 @@ UNION ALL SELECT null,null,'oracle_fortunes_end','5637','111'
 UNION ALL SELECT null,null,'oracle_fates_edict','5638','111'
 UNION ALL SELECT null,null,'oracle_purifying_flames','5639','111'
 UNION ALL SELECT null,null,'oracle_false_promise','5640','111'
-
 UNION ALL SELECT null,null,'winter_wyvern_arctic_burn','5651','112'
 UNION ALL SELECT null,null,'winter_wyvern_splinter_blast','5652','112'
-UNION ALL SELECT null,null,'winter_wyvern_cold_embrace','5653','112''
+UNION ALL SELECT null,null,'winter_wyvern_cold_embrace','5653','112'
 UNION ALL SELECT null,null,'winter_wyvern_winters_curse','5654','112'
-
 UNION ALL SELECT null,null,'arc_warden_flux','5677','113'
 UNION ALL SELECT null,null,'arc_warden_magnetic_field','5678','113'
-UNION ALL SELECT null,null,'arc_warden_spark_wraith','5679','113''
+UNION ALL SELECT null,null,'arc_warden_spark_wraith','5679','113'
 UNION ALL SELECT null,null,'arc_warden_tempest_double','5683','113'
-
 UNION ALL SELECT null,null,'monkey_king_boundless_strike','5716','114'
 UNION ALL SELECT null,null,'monkey_king_tree_dance','5721','114'
-UNION ALL SELECT null,null,'monkey_king_primal_spring','5724','114''
+UNION ALL SELECT null,null,'monkey_king_primal_spring','5724','114'
 UNION ALL SELECT null,null,'monkey_king_primal_spring_early','5726','114'
 UNION ALL SELECT null,null,'monkey_king_jingu_mastery','5723','114'
-UNION ALL SELECT null,null,'monkey_king_mischief','5719','114''
+UNION ALL SELECT null,null,'monkey_king_mischief','5719','114'
 UNION ALL SELECT null,null,'monkey_king_untransform','5722','114'
 UNION ALL SELECT null,null,'monkey_king_wukongs_command','5725','114'
-
 UNION ALL SELECT null,null,'attribute_bonus','5002',null;

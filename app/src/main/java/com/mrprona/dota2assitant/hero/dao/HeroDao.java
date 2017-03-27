@@ -58,7 +58,7 @@ public class HeroDao extends GeneralDaoImpl<Hero> {
 
 
     private static final String CREATE_TABLE_QUERY = "( "
-            + COLUMN_ID + " integer primary key, "
+            + COLUMN_ID + " integer, "
             + COLUMN_NAME + " text default null,"
             + COLUMN_LOCALIZED_NAME + " text default null);";
     private static final String[] ALL_COLUMNS = {

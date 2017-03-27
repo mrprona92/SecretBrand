@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -58,6 +59,8 @@ public class HeroSkillsQuiz extends QuizFragment {
         List<Ability> heroAbilities = heroService.getHeroAbilities(activity, hero.getId());
         //Random random=new Random();
         //любой скил, кроме attribute_bonus
+        Log.d("BINH", "onActivityCreated() called with: savedInstanceState = [" + hero.getId() + "]");
+
         realAbility = heroAbilities.get(idRandom.nextInt(heroAbilities.size() - 1));
         List<Ability> nonHeroAbilities = heroService.getNotThisHeroAbilities(activity, hero.getId());
         fakeAbilities = new ArrayList<>();

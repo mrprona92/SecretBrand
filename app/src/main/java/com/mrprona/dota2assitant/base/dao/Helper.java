@@ -10,7 +10,6 @@ import com.mrprona.dota2assitant.BeanContainer;
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.mrprona.dota2assitant.base.service.LocalSpiceService;
 import com.mrprona.dota2assitant.base.service.LocalUpdateService;
-import com.mrprona.dota2assitant.base.task.UpdateLoadRequest;
 import com.mrprona.dota2assitant.hero.api.HeroStats;
 import com.mrprona.dota2assitant.hero.api.TalentTree;
 import com.mrprona.dota2assitant.hero.dao.AbilityDao;
@@ -33,8 +32,7 @@ import java.util.Map;
  */
 public class Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "dota2.db";
-    public static final int DATABASE_VERSION = 84;
-    public Context mContext;
+    public static final int DATABASE_VERSION = 1;
 
 
 
@@ -44,7 +42,6 @@ public class Helper extends SQLiteOpenHelper {
 
     public Helper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
-        mContext= context;
     }
 
     @Override
@@ -61,9 +58,9 @@ public class Helper extends SQLiteOpenHelper {
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         Log.d("BINH", "onUpgrade() called with: db = [" + db + "], oldVersion = [" + oldVersion + "], newVersion = [" + newVersion + "]");
 
-        if (oldVersion < DATABASE_VERSION) {
+        //if (oldVersion < 0) {
             reinitHeroesAndItems(db);
-        }
+        //}
         List<CreateTableDao> allDaos = BeanContainer.getInstance().getAllDaos();
         for (CreateTableDao dao : allDaos) {
             dao.onUpgrade(db, oldVersion, newVersion);
