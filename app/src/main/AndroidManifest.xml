@@ -127,7 +127,7 @@
                 android:name="com.google.ads.AdActivity" />
         -->
 
-     <!--   <activity android:name="com.mrprona.dota2assitant.base.activity.SplashActivity"
+     <activity android:name="com.mrprona.dota2assitant.base.activity.SplashActivity"
             android:launchMode="singleInstance"
             android:screenOrientation="sensorPortrait">
             <intent-filter>
@@ -136,19 +136,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
--->
 
-        <activity
-            android:name=".base.activity.LoaderActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:launchMode="singleInstance"
-            android:screenOrientation="sensorPortrait"
-            android:theme="@style/Infodota.Dark">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
 
 
         <service

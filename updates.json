@@ -1,7 +1,8 @@
 {
-    "versionCode": 785,
+    "versionCode": 786,
     "message":
     {
-        "en-us": "-Fix download response and set ringtone on android api 23 \n-Fix display for 3 hero Arc warden, Monkey King, Underlord\n"
+        "en-us": "-Big update version for android 4.0\n-Fix crash when view hero underlord, monkeyking\n-Fix crash when view item echo sarber, radian\n-Fix crash on live tab, view log\n"
     }
 }
+

@@ -455,4 +455,4 @@ UNION ALL SELECT null,null,'monkey_king_jingu_mastery','5723','114'
 UNION ALL SELECT null,null,'monkey_king_mischief','5719','114'
 UNION ALL SELECT null,null,'monkey_king_untransform','5722','114'
 UNION ALL SELECT null,null,'monkey_king_wukongs_command','5725','114'
-UNION ALL SELECT null,null,'attribute_bonus','5002',null;
+UNION ALL SELECT null,null,'attribute_bonus','5002','000';

@@ -15,8 +15,8 @@ android {
         applicationId "com.prodo.dotaassitant"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 785
-        versionName "1.0.4"
+        versionCode 786
+        versionName "1.0.5"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true
     }

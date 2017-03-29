@@ -28,6 +28,7 @@ public class SplashActivity extends Activity implements RequestListener<String> 
     LocalUpdateService localUpdateService = BeanContainer.getInstance().getLocalUpdateService();
     private boolean doubleBackToExitPressedOnce = false;
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
+    private boolean isNeedUpdate;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,14 +44,6 @@ public class SplashActivity extends Activity implements RequestListener<String> 
             config.locale = locale;
             getApplicationContext().getResources().updateConfiguration(config, null);
         }
-
-        int secondsDelayed = 1;
-        new Handler().postDelayed(new Runnable() {
-            public void run() {
-                startActivity(new Intent(SplashActivity.this, ListHolderActivity.class));
-                finish();
-            }
-        }, secondsDelayed * 1000);
     }
 
 
@@ -58,12 +51,30 @@ public class SplashActivity extends Activity implements RequestListener<String> 
     protected void onStart() {
         if (!mSpiceManager.isStarted()) {
             mSpiceManager.start(getApplicationContext());
-            final int currentVersion = localUpdateService.getVersion(this);
+            final int currentVersion = localUpdateService.getVersion(getApplicationContext());
             if (currentVersion != Helper.DATABASE_VERSION) {
-                mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
+                isNeedUpdate=true;
+                Handler handlerTimer = new Handler();
+                handlerTimer.postDelayed(new Runnable(){
+                    public void run() {
+                        callUpdateResquest();
+                    }}, 5000);
+            }else{
+                int secondsDelayed = 1;
+                new Handler().postDelayed(new Runnable() {
+                    public void run() {
+                        startActivity(new Intent(SplashActivity.this, ListHolderActivity.class));
+                        finish();
+                    }
+                }, secondsDelayed * 1000);
             }
         }
         super.onStart();
+    }
+
+
+    private void callUpdateResquest(){
+        mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
     }
 
     @Override
@@ -84,6 +95,13 @@ public class SplashActivity extends Activity implements RequestListener<String> 
     @Override
     public void onRequestSuccess(String s) {
         localUpdateService.setUpdated(SplashActivity.this);
+        int secondsDelayed = 1;
+        new Handler().postDelayed(new Runnable() {
+            public void run() {
+                startActivity(new Intent(SplashActivity.this, ListHolderActivity.class));
+                finish();
+            }
+        }, secondsDelayed * 1000);
     }
 
 

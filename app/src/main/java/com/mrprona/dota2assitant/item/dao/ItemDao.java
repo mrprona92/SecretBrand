@@ -28,7 +28,7 @@ public class ItemDao extends GeneralDaoImpl<Item> {
     public static final String COLUMN_ITEM_ID = "item_id";
     public static final String COLUMN_NEED_ID = "need_id";
     private static final String CREATE_TABLE_QUERY = "( "
-            + COLUMN_ID + " integer, "
+            + COLUMN_ID + " integer primary key AUTOINCREMENT, "
             + COLUMN_DNAME + " text not null, "
             + COLUMN_COST + " integer default null, "
             + COLUMN_TYPE + " text default null, "

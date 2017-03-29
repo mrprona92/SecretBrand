@@ -21,7 +21,6 @@ public class LocalUpdateService {
             ContentValues values = new ContentValues();
             values.put("version", version);
             database.update("updated_version", values, null, null);
-            Log.d("BINH", "update() called with: context = [" + context + "], sql = [" + sql + "], version = [" + version + "]");
         } finally {
             manager.closeDatabase();
         }
