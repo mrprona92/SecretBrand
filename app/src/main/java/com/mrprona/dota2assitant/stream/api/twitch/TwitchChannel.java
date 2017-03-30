@@ -1,5 +1,7 @@
 package com.mrprona.dota2assitant.stream.api.twitch;
 
+import android.util.Log;
+
 import com.mrprona.dota2assitant.base.entity.HasId;
 import com.google.gson.annotations.SerializedName;
 
@@ -156,7 +158,7 @@ public class TwitchChannel implements HasId, Serializable {
         TwitchChannel channel = (TwitchChannel) o;
 
         if (name != null ? !name.equals(channel.name) : channel.name != null) return false;
-
+        Log.d("TEST", "equals() called with: o = [" + o + "]");
         return true;
     }
 
