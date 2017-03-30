@@ -29,21 +29,21 @@ import com.mrprona.dota2assitant.base.service.update.UpdateService;
 public class UpdateUtils {
 
     private static Context mContext;
-    public static void checkNewVersion(final Context context,final boolean userInitiative) {
-        mContext=context;
-        if(BaseRemoteServiceImpl.isNetworkAvailable(context))
-        {
-            ProgressTask<Pair<Boolean,String>> task=new ProgressTask<Pair<Boolean, String>>() {
+
+    public static void checkNewVersion(final Context context, final boolean userInitiative) {
+        mContext = context;
+        if (BaseRemoteServiceImpl.isNetworkAvailable(context)) {
+            ProgressTask<Pair<Boolean, String>> task = new ProgressTask<Pair<Boolean, String>>() {
                 @Override
                 public Pair<Boolean, String> doTask(OnPublishProgressListener listener) throws Exception {
-                    UpdateService updateService= BeanContainer.getInstance().getUpdateService();
+                    UpdateService updateService = BeanContainer.getInstance().getUpdateService();
                     return updateService.checkUpdate(context);
                 }
 
                 @Override
                 public void doAfterTask(Pair<Boolean, String> result) {
-                    if(result.first!=null){
-                        if(result.first){
+                    if (result.first != null) {
+                        if (result.first) {
                             DialogUtils.showYesNoDialog(
                                     context,
                                     context.getString(R.string.new_app_available),
@@ -52,25 +52,26 @@ public class UpdateUtils {
                                     context.getString(android.R.string.cancel),
                                     new DialogInterface.OnClickListener() {
                                         private long enqueueId;
-                                @Override
-                                public void onClick(DialogInterface dialog, int which) {
-                                    UpdateService updateService=BeanContainer.getInstance().getUpdateService();
+
+                                        @Override
+                                        public void onClick(DialogInterface dialog, int which) {
+                                   /* UpdateService updateService=BeanContainer.getInstance().getUpdateService();
                                     BroadcastReceiver receiver = new BroadcastReceiver() {
                                         @Override
                                         public void onReceive(Context context, Intent intent) {
                                             String action = intent.getAction();
                                             if (DownloadManager.ACTION_DOWNLOAD_COMPLETE.equals(action)) {
-                                                long downloadId = intent.getLongExtra(DownloadManager.EXTRA_DOWNLOAD_ID, 0);
-                                                DownloadManager.Query query = new DownloadManager.Query();
-                                                query.setFilterById(enqueueId);
-                                                Cursor cursor = ((DownloadManager) context.getSystemService(Context.DOWNLOAD_SERVICE)).query(query);
-                                                if (cursor.moveToFirst()) {
-                                                    if (DownloadManager.STATUS_SUCCESSFUL == cursor.getInt(cursor.getColumnIndex(DownloadManager.COLUMN_STATUS))) {
-                                                        String uriStr = cursor.getString(cursor.getColumnIndex(DownloadManager.COLUMN_LOCAL_URI));
-                                                        Intent promptInstall = new Intent(Intent.ACTION_VIEW)
-                                                                .setDataAndType(Uri.parse(uriStr),
-                                                                        "application/vnd.android.package-archive");
-                                                        context.startActivity(promptInstall);
+                                                            long downloadId = intent.getLongExtra(DownloadManager.EXTRA_DOWNLOAD_ID, 0);
+                                                            DownloadManager.Query query = new DownloadManager.Query();
+                                                            query.setFilterById(enqueueId);
+                                                            Cursor cursor = ((DownloadManager) context.getSystemService(Context.DOWNLOAD_SERVICE)).query(query);
+                                                            if (cursor.moveToFirst()) {
+                                                                if (DownloadManager.STATUS_SUCCESSFUL == cursor.getInt(cursor.getColumnIndex(DownloadManager.COLUMN_STATUS))) {
+                                                                    String uriStr = cursor.getString(cursor.getColumnIndex(DownloadManager.COLUMN_LOCAL_URI));
+                                                                    Intent promptInstall = new Intent(Intent.ACTION_VIEW)
+                                                                            .setDataAndType(Uri.parse(uriStr),
+                                                                                    "application/vnd.android.package-archive");
+                                                                    context.startActivity(promptInstall);
                                                     }
                                                 }
                                             }
@@ -82,26 +83,26 @@ public class UpdateUtils {
 
                                     if(checkPermission()){
                                         enqueueId = updateService.loadNewVersion(context);
-                                    }
-
-                                    dialog.dismiss();
-                                }
-                            },new DialogInterface.OnClickListener() {
-                                @Override
-                                public void onClick(DialogInterface dialog, int which) {
-                                    dialog.dismiss();
-                                }
-                            });
-                        }else if(userInitiative){
-                            DialogUtils.showAlert(context,null,context.getString(R.string.no_new_version),new DialogInterface.OnClickListener() {
+                                    }*/
+                                            openGooglePlay();
+                                            dialog.dismiss();
+                                        }
+                                    }, new DialogInterface.OnClickListener() {
+                                        @Override
+                                        public void onClick(DialogInterface dialog, int which) {
+                                            dialog.dismiss();
+                                        }
+                                    });
+                        } else if (userInitiative) {
+                            DialogUtils.showAlert(context, null, context.getString(R.string.no_new_version), new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
                                     dialog.dismiss();
                                 }
                             });
                         }
-                    }else if(userInitiative){
-                        DialogUtils.showAlert(context,null,result.second,new DialogInterface.OnClickListener() {
+                    } else if (userInitiative) {
+                        DialogUtils.showAlert(context, null, result.second, new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 dialog.dismiss();
@@ -120,23 +121,26 @@ public class UpdateUtils {
                     return null;
                 }
             };
-            if(userInitiative){
-                DialogUtils.showLoaderDialog(((BaseActivity)context).getSupportFragmentManager(),task);
-            }
-            else {
-                new LoaderProgressTask<Pair<Boolean,String>>(task,null).execute();
+            if (userInitiative) {
+                DialogUtils.showLoaderDialog(((BaseActivity) context).getSupportFragmentManager(), task);
+            } else {
+                new LoaderProgressTask<Pair<Boolean, String>>(task, null).execute();
             }
         }
     }
 
 
+    public static void openGooglePlay() {
+        Intent myIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=".concat(mContext.getApplicationContext().getPackageName())));
+        mContext.startActivity(myIntent);
+    }
+
+
     public static final int MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE = 1;
 
-    public static boolean checkPermission()
-    {
+    public static boolean checkPermission() {
         int currentAPIVersion = Build.VERSION.SDK_INT;
-        if(currentAPIVersion>=android.os.Build.VERSION_CODES.M)
-        {
+        if (currentAPIVersion >= android.os.Build.VERSION_CODES.M) {
             if (ContextCompat.checkSelfPermission(mContext, android.Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
                 if (ActivityCompat.shouldShowRequestPermissionRationale((Activity) ListHolderActivity.getAppContext(), android.Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
                     android.support.v7.app.AlertDialog.Builder alertBuilder = new android.support.v7.app.AlertDialog.Builder(mContext);
@@ -146,13 +150,13 @@ public class UpdateUtils {
                     alertBuilder.setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
                         @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
                         public void onClick(DialogInterface dialog, int which) {
-                            ActivityCompat.requestPermissions((Activity)mContext, new String[]{android.Manifest.permission.WRITE_EXTERNAL_STORAGE}, MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE);
+                            ActivityCompat.requestPermissions((Activity) mContext, new String[]{android.Manifest.permission.WRITE_EXTERNAL_STORAGE}, MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE);
                         }
                     });
                     android.support.v7.app.AlertDialog alert = alertBuilder.create();
                     alert.show();
                 } else {
-                    ActivityCompat.requestPermissions((Activity)mContext, new String[]{android.Manifest.permission.WRITE_EXTERNAL_STORAGE}, MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE);
+                    ActivityCompat.requestPermissions((Activity) mContext, new String[]{android.Manifest.permission.WRITE_EXTERNAL_STORAGE}, MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE);
                 }
                 return false;
             } else {

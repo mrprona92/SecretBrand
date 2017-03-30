@@ -243,6 +243,8 @@ public class TruepickerHeroDao extends GeneralDaoImpl<TruepickerHero> {
         bindTruepickerId(db, 105, 109);//techies
         bindTruepickerId(db, 111, 111);//oracle
         bindTruepickerId(db, 112, 112);//wintern wyvern
+        bindTruepickerId(db, 113, 113);//arc
+        bindTruepickerId(db, 108, 114);//underlord
     }
 
     public void bindTruepickerId(SQLiteDatabase database, long heroId, long tpId) {
