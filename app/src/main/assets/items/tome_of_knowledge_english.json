@@ -1,0 +1,16 @@
+{
+  "dotaId": "tome_of_knowledge",
+  "id": 257,
+  "img": "tome_of_knowledge_lg.png",
+  "dname": "Tome Of Knowledge",
+  "qual": "Consumable",
+  "cost": 150,
+  "desc": "Grants you experience. 500/600/700/800/etc. per consumed Tome of Knowledge on your team",
+  "notes": "",
+  "attrib": "",
+  "mc": false,
+  "cd": 600,
+  "lore": "That which raises beast to man and man to god.",
+  "created": false
+}
+

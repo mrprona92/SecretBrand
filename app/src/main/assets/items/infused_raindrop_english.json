@@ -1,0 +1,16 @@
+{
+  "dotaId": "infused_raindrop",
+  "id": 265,
+  "img": "infused_raindrop_lg.png",
+  "dname": "Infused Raindrop",
+  "qual": "armor",
+  "cost": 225,
+  "desc": "Consumes a charge to block 120 magic damage from damage instances over 50 damage. Comes with 5 charges. When the charges are gone, the item disappears.",
+  "notes": "While spell immune, Infused Raindrop does not react on magical damage.",
+  "attrib": "+ 5 Charge<br/>+0.85 Mana regeneration",
+  "mc": false,
+  "cd": 7,
+  "lore": "Elemental protection from magical assaults.",
+  "created": false
+}
+
