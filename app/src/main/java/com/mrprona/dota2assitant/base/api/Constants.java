@@ -14,6 +14,11 @@ public interface Constants {
     String GITHUB_UPDATE_URL = "https://github.com/mrprona92/SecretBrand/blob/master/updates.json?raw=true";
     String GOSUGAMER_RANKINGTEAM= "http://www.gosugamers.net/dota2/rankings";
 
+    String RANKINGTEAM0= "http://www.dota2.com/leaderboards/#americas";
+    String RANKINGTEAM1= "http://www.dota2.com/leaderboards/#europe";
+    String RANKINGTEAM2= "http://www.dota2.com/leaderboards/#se_asia";
+    String RANKINGTEAM3= "http://www.dota2.com/leaderboards/#china";
+
     interface History {
         String SUBURL = STEAM_API_URL + "GetMatchHistory/V001/?key=";
         String START_AT_MATCH_ID = "&start_at_match_id=";

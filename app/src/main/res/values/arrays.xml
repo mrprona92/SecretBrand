@@ -194,6 +194,21 @@
         <item>RECENT</item>
         <item>LEAGUES</item>
         </string-array>
+
+    <string-array name="rankingtitle">
+        <item>TEAM</item>
+        <item>PLAYER</item>
+    </string-array>
+
+
+    <string-array name="ranking_type">
+        <item>Americas</item>
+        <item>Europe</item>
+        <item>SE Asia</item>
+        <item>China</item>
+    </string-array>
+
+
     <string-array name="trackdota_game">
         <item>COMMON</item>
         <item>MAP &amp; HEROES</item>

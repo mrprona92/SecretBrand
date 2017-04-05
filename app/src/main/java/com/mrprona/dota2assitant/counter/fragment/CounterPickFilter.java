@@ -147,7 +147,7 @@ public class CounterPickFilter extends SCBaseFragment implements RequestListener
 
     @Override
     public String getToolbarTitleString() {
-        return null;
+        return "COUNTER PICK";
     }
 
     @Override

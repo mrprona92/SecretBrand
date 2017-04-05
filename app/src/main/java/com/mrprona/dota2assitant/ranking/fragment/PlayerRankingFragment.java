@@ -11,21 +11,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Filter;
+import android.widget.Spinner;
 
-import com.firebase.ui.database.FirebaseRecyclerAdapter;
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.Query;
 import com.mrprona.dota2assitant.R;
-import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.mrprona.dota2assitant.base.fragment.SCBaseFragment;
-import com.mrprona.dota2assitant.base.fragment.SCBaseFragment_HS;
 import com.mrprona.dota2assitant.base.fragment.SearchableFragment;
 import com.mrprona.dota2assitant.base.service.LocalSpiceService;
-import com.mrprona.dota2assitant.quiz.holder.HighscoreHolder;
-import com.mrprona.dota2assitant.quiz.model.HighScore;
+import com.mrprona.dota2assitant.ranking.PlayerRanking;
 import com.mrprona.dota2assitant.ranking.TeamRanking;
+import com.mrprona.dota2assitant.ranking.adapter.RankingPlayerAdapter;
 import com.mrprona.dota2assitant.ranking.adapter.RankingTeamAdapter;
 import com.mrprona.dota2assitant.ranking.service.RankingServiceImpl;
 import com.mrprona.dota2assitant.ranking.task.TeamRankingLoadRequest;
@@ -39,17 +33,21 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 
-public class TeamrankingFragment extends SCBaseFragment implements SearchableFragment, RequestListener {
+public class PlayerRankingFragment extends SCBaseFragment implements SearchableFragment, RequestListener {
     private static final String TAG = "HighscoreFragment";
     // [START define_database_reference]
     // [END define_database_reference]
 
-    private RankingTeamAdapter mAdapter;
-    private List<TeamRanking> mTeamRanking;
+    private RankingPlayerAdapter mAdapter;
+    private List<PlayerRanking> mPlayerRanking;
     private RankingServiceImpl mRankingService;
 
-    @BindView(R.id.recyclerRankingTeam)
-    RecyclerView recyclerRankingTeam;
+    @BindView(R.id.recyclerRankingPlayer)
+    RecyclerView recyclerRankingPlayer;
+
+    @BindView(R.id.spinnerTypeRanking)
+    Spinner spinnerTypeRanking;
+
     ProgressDialog mProgressDialog;
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
 
@@ -88,13 +86,13 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
     }
 
 
-    public TeamrankingFragment() {
+    public PlayerRankingFragment() {
     }
 
 
     @Override
     protected int getViewContent() {
-        return R.layout.fragment_rankingteam;
+        return R.layout.fragment_rankingplayer;
     }
 
     @Override
@@ -142,9 +140,9 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
 
         new JsoupListView().execute();
 
-        recyclerRankingTeam.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
-        recyclerRankingTeam.setHasFixedSize(false);
-        recyclerRankingTeam.setNestedScrollingEnabled(false);
+        recyclerRankingPlayer.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
+        recyclerRankingPlayer.setHasFixedSize(false);
+        recyclerRankingPlayer.setNestedScrollingEnabled(false);
 
         // Set up Layout Manager, reverse layout
 
@@ -227,10 +225,10 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
 
     @Override
     public void onRequestSuccess(Object o) {
-        if (o instanceof TeamRanking.List) {
-            TeamRanking.List result = (TeamRanking.List) o;
-            RankingTeamAdapter adapter = new RankingTeamAdapter(result, mActivity);
-            recyclerRankingTeam.setAdapter(adapter);
+        if (o instanceof PlayerRanking.List) {
+            PlayerRanking.List result = (PlayerRanking.List) o;
+            RankingPlayerAdapter adapter = new RankingPlayerAdapter(result, mActivity);
+            recyclerRankingPlayer.setAdapter(adapter);
         }
     }
 
@@ -255,7 +253,7 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
         @Override
         protected Void doInBackground(Void... params) {
             // Create an array
-            mTeamRanking = mRankingService.getAllTeamRanked();
+            mPlayerRanking = mRankingService.getAllPlayerRanked(spinnerTypeRanking.getSelectedItemPosition());
 
             return null;
         }
@@ -265,11 +263,11 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
             // Pass the results into ListViewAdapter.java
             mProgressDialog.dismiss();
 
-            mAdapter = new RankingTeamAdapter(mTeamRanking, mAppContext);
+            mAdapter = new RankingPlayerAdapter(mPlayerRanking, mAppContext);
 
             mAdapter.notifyDataSetChanged();
 
-            recyclerRankingTeam.setAdapter(mAdapter);
+            recyclerRankingPlayer.setAdapter(mAdapter);
 
             Filter filter = mAdapter.getFilter();
             filter.filter(mSearchString);

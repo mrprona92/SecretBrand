@@ -22,7 +22,7 @@ import com.util.infoparser.loader.ResponseLoadRequest;
  */
 public class InfoParserActivity extends Activity implements RequestListener {
     private SpiceManager mSpiceManager = new SpiceManager(UncachedSpiceService.class);
-    private LoadType mCurLoadType = LoadType.cosmetic_items_english;
+    private LoadType mCurLoadType = LoadType.response;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

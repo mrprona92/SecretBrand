@@ -68,6 +68,7 @@ import com.mrprona.dota2assitant.quiz.dialog.SubmitHighscoreDialog;
 import com.mrprona.dota2assitant.quiz.fragment.GameOverFragment;
 import com.mrprona.dota2assitant.quiz.fragment.QuizTypeSelect;
 import com.mrprona.dota2assitant.ranking.adapter.TeamRankingHolder;
+import com.mrprona.dota2assitant.ranking.fragment.RankingMainFragment;
 import com.mrprona.dota2assitant.ranking.fragment.TeamrankingFragment;
 import com.mrprona.dota2assitant.stream.fragment.TwitchHolder;
 import com.mrprona.dota2assitant.trackdota.fragment.TrackdotaMain;
@@ -290,6 +291,9 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         Fragment fragment = getSupportFragmentManager().findFragmentById(R.id.details);
         if (fragment instanceof SearchableFragment) {
             ((SearchableFragment) fragment).onTextSearching(textNew);
+        }
+        if(fragment instanceof RankingMainFragment){
+            ((SearchableFragment) ((RankingMainFragment) fragment).getActiveFragment()).onTextSearching(textNew);
         }
         return true;
     }
@@ -539,7 +543,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 bundle.putString(AgreementFragment.ARG_URL, "http://www.gosugamers.net/dota2/rankings");
                 openScreen(ScreenIDs.ScreenTab.MENU, AgreementFragment.class, bundle, true, true);
                 */
-                openScreen(ScreenIDs.ScreenTab.MENU, TeamrankingFragment.class, null, true, true);
+                openScreen(ScreenIDs.ScreenTab.MENU, RankingMainFragment.class, null, true, true);
                 break;
             case 1:
                 openScreen(ScreenIDs.ScreenTab.MENU, HeroesList.class, null, true, true);

@@ -323,10 +323,12 @@
     <string name="cmn_ok">OK</string>
     <string name="cmn_cancel">CANCEL</string>
     <string name="cmn_nullvalue">""</string>
+    <string name="cmn_live">LIVE</string>
 
     <string name="menu_counter_pick">COUNTER PICK</string>
     <string name="menu_quiz">QUIZ GAME</string>
     <string name="menu_menuname">MENU</string>
+
 
     <string name="ask_quit">Do you want quit application?</string>
 
@@ -344,6 +346,7 @@
     <string name="quiz_high_score_title_date">Date</string>
     <string name="quiz_high_score">High score records</string>
     <string name="team_ranking">TEAM RANKINGS</string>
+    <string name="ranking_title">RANKINGS</string>
     <string name="quiz_ranking_change_status">Status</string>
 
 

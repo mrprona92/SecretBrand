@@ -85,7 +85,7 @@ public class QuizTypeSelect extends SCBaseFragment {
 
     @Override
     public String getToolbarTitleString() {
-        return null;
+        return "QUIZ GAME";
     }
 
     @Override
