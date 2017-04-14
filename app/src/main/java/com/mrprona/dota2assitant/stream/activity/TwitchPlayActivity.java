@@ -19,6 +19,9 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
+import com.chartboost.sdk.CBLocation;
+import com.chartboost.sdk.Chartboost;
+import com.chartboost.sdk.Libraries.CBLogging;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.BaseActivity;
 import com.mrprona.dota2assitant.base.view.TappableSurfaceView;
@@ -28,6 +31,9 @@ import com.octo.android.robospice.UncachedSpiceService;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
 import com.parser.Element;
+
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * User: Histler
@@ -183,6 +189,16 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
             pause.setImageResource(R.drawable.play);
             mediaPlayer.reset();
         }
+
+        // int randomNum = ThreadLocalRandom.current().nextInt(0, 20 + 1);
+
+        //if(randomNum<10){
+        Chartboost.setActivityCallbacks(false);
+        Chartboost.setLoggingLevel(CBLogging.Level.ALL);
+        //Chartboost.onCreate(mActivity);
+        hideSystemUI();
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
+        //}
     }
 
     private void getAccessToken(String channelName) {
@@ -302,4 +318,15 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
     }
 
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Chartboost.onResume(this);
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Chartboost.onStop(this);
+    }
 }

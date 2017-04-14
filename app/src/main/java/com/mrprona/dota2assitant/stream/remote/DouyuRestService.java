@@ -11,6 +11,6 @@ import retrofit.http.Path;
  * 14:54
  */
 public interface DouyuRestService {
-    @GET("/room/{roomId}?client_sys=android")
+    @GET("/{roomId}/1?limit=1&offset=0")
     DouyuResult getRoomResult(@Path("roomId") String roomId);
 }

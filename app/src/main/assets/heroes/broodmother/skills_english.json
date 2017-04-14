@@ -33,7 +33,7 @@
         "desc": "Broodmother\u0027s venom cripples enemy units, causing her attacks to slow and giving the affected unit a chance to miss its attacks.",
         "notes": "The miss chance stacks with evasion and terrain dodge chance.",
         "dmg": "",
-        "attrib": "MISS CHANCE: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">10%/20%/30%/40%</font></b><br/>DURATION: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
+        "attrib": "MISS CHANCE: <b><font color=\"#ffffff\">30%/40%/50%/60%</font></b><br/>MOVE SLOW: <b><font color=\"#ffffff\">16/26/36/46%</font></b><br/>DURATION: <b><font color=\"#ffffff\">2/2/2/2</font></b>",
         "cmb": "",
         "lore": "Paralytic toxins come from Black Arachnia\u0027s fangs, causing a slow and painful death to those who intrude on her webs.",
         "hurl": "Broodmother",

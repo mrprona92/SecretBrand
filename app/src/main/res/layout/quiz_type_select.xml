@@ -83,13 +83,13 @@
                 android:layout_centerHorizontal="true"
                 android:orientation="vertical">
 
-                <com.google.android.gms.ads.AdView
+               <!-- <com.google.android.gms.ads.AdView
                     android:id="@+id/ad_view"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_alignParentBottom="true"
                     ads:adSize="BANNER"
-                    ads:adUnitId="@string/banner_ad_unit_id" />
+                    ads:adUnitId="@string/banner_ad_unit_id" />-->
             </LinearLayout>
 
         </LinearLayout>

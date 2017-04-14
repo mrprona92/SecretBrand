@@ -2,6 +2,7 @@ package com.util.infoparser.loader;
 
 import android.content.Context;
 import android.os.Environment;
+import android.util.Log;
 
 import com.mrprona.dota2assitant.BeanContainer;
 import com.mrprona.dota2assitant.base.api.Constants;
@@ -43,8 +44,11 @@ public class ResponseLoadRequest extends TaskRequest<String> {
     public String loadData() throws Exception {
         List<Hero> heroes = heroService.getAllHeroes(mContext);
         for (Hero hero : heroes) {
-            List<HeroResponsesSection> responses = loadHeroResponses(hero);
-            FileUtils.saveJsonFile(Environment.getExternalStorageDirectory().getPath() + "/dota/" + hero.getDotaId() + "/responses.json", responses);
+            if(hero.getId()==113||hero.getId()==114||hero.getId()==108){
+                List<HeroResponsesSection> responses = loadHeroResponses(hero);
+                FileUtils.saveJsonFile(Environment.getExternalStorageDirectory().getPath() + "/dota/" + hero.getDotaId() + "/responses.json", responses);
+                Log.d("BINH", Environment.getExternalStorageDirectory().getPath() + "/dota/" + hero.getDotaId() + "/responses.json"+"saved");
+            }
         }
         return "";
     }
@@ -54,6 +58,11 @@ public class ResponseLoadRequest extends TaskRequest<String> {
         String heroName = hero.getLocalizedName().replace("'", "%27").replace(' ', '_');
 
         String url = MessageFormat.format(Constants.Heroes.DOTA2_WIKI_RESPONSES_URL, heroName);
+
+        if(hero.getId()==114){
+            url="http://dota2.gamepedia.com/Monkey_King/Responses";
+        }
+
         System.out.println("hero url: " + url);
         Document doc = Jsoup.connect(url).get();
         Element content = doc.select("div#content").first();
@@ -69,7 +78,8 @@ public class ResponseLoadRequest extends TaskRequest<String> {
                 int index = contentChildren.indexOf(firstH2);
                 boolean isH2 = true;
                 if(index<0){//mb change for while index<0 and change from first to get(i)
-                    contentChildren=contentChildren.first().children();
+                    contentChildren=contentChildren.get(1).children();
+                    contentChildren=contentChildren.get(0).children();
                     index=contentChildren.indexOf(firstH2);
                 }
                 content=null;
@@ -77,7 +87,7 @@ public class ResponseLoadRequest extends TaskRequest<String> {
                     Element h2 = contentChildren.get(i);
                     if ("h2".equals(h2.tagName())) {
                         Element ul = contentChildren.get(i+1).select("ul").first();
-                        String sectionName=h2.child(0).text();
+                        String sectionName=h2.child(1).text();
                         if(ul!=null) {
                             i++;
                             HeroResponsesSection section = new HeroResponsesSection();

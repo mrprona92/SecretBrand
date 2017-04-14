@@ -1,5 +1,5 @@
 {
-  "attrib": "+ 85 Movement Speed<br/>+ 3 Armor<br/>+ 12 HP Regeneration",
+  "attrib": "+ 90 Movement Speed<br/>+ 12 HP Regeneration",
   "cd": 13.0,
   "components": [
     "boots",
@@ -16,5 +16,5 @@
   "lore": "While they increase the longevity of the wearer, this boot is not particularly reliable.",
   "id": 214,
   "created": true,
-  "cost": 900
+  "cost": 975
 }

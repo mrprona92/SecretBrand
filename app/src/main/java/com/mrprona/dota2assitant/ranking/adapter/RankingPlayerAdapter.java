@@ -67,6 +67,18 @@ public class RankingPlayerAdapter extends BaseRecyclerAdapter<PlayerRanking, Pla
             holder.image.setImageResource(Utils.getMipmapResId(mContext, drawableName));
         }
 
+
+        holder.rankingchange.setVisibility(View.VISIBLE);
+
+        if(playerRanking.getChangeRanking().equals("Up")){
+            holder.rankingchange.setImageDrawable(mContext.getResources().getDrawable(R.drawable.ranking_up));
+        }else if(playerRanking.getChangeRanking().equals("Down")){
+            holder.rankingchange.setImageDrawable(mContext.getResources().getDrawable(R.drawable.ranking_down));
+        }else{
+            holder.rankingchange.setImageDrawable(mContext.getResources().getDrawable(R.drawable.ranking_nochange));
+        }
+
+
         //Context context = holder.name.getContext();
     }
 

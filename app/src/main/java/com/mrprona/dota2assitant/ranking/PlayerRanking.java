@@ -13,11 +13,22 @@ public class PlayerRanking {
     private String playerName;
     private String flagID;
 
-    public PlayerRanking(String rankCurrent, String numberRanking, String playerName, String flagID) {
-        this.rankCurrent= rankCurrent;
+    public String getChangeRanking() {
+        return changeRanking;
+    }
+
+    public void setChangeRanking(String changeRanking) {
+        this.changeRanking = changeRanking;
+    }
+
+    private String changeRanking;
+
+    public PlayerRanking(String rankCurrent, String numberRanking, String playerName, String flagID, String changeRanking) {
+        this.rankCurrent = rankCurrent;
         this.numberRanking = numberRanking;
         this.playerName = playerName;
         this.flagID = flagID;
+        this.changeRanking = changeRanking;
     }
 
     public PlayerRanking() {

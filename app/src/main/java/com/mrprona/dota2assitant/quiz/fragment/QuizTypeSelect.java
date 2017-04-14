@@ -64,7 +64,9 @@ public class QuizTypeSelect extends SCBaseFragment {
     public void onStart() {
         super.onStart();
 
-        mAdView = (AdView) rootView.findViewById(R.id.ad_view);
+
+        //TODO binh.th comment block admod
+        /*mAdView = (AdView) rootView.findViewById(R.id.ad_view);
         // Create an ad request. Check your logcat output for the hashed device ID to
         // get test ads on a physical device. e.g.
         // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
@@ -74,7 +76,7 @@ public class QuizTypeSelect extends SCBaseFragment {
 
 
         // Start loading the ad in the background.
-        mAdView.loadAd(adRequest);
+        mAdView.loadAd(adRequest);*/
 
     }
 

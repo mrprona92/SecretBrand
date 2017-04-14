@@ -176,6 +176,10 @@ public class LogsAdapter extends BaseAdapter implements PinnedSectionListView.Pi
                     Glide.with(context).load(SteamUtils.getHeroMiniImage(hero.getDotaId())).placeholder(0).into(holder.heroIcon);
 
                     item = itemService.getItemById(context, itemId);
+                    if(item==null){
+                        Log.d("", "getView() called with: position = [" + itemId + "], convertView = [" + convertView + "], parent = [" + parent + "]");
+                    }
+
                     gameManager.addItem(item);
 
                     Glide.with(context).load(SteamUtils.getItemImage(item.getDotaId())).placeholder(0).into(holder.itemIcon);

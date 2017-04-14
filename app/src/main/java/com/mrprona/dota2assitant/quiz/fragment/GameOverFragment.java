@@ -75,12 +75,12 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
         initListenerForButton();
         updateTextScore();
 
-     /*   Chartboost.setActivityCallbacks(false);
+        Chartboost.setActivityCallbacks(false);
         Chartboost.setLoggingLevel(CBLogging.Level.ALL);
-        Chartboost.onCreate(mActivity);
+        //Chartboost.onCreate(mActivity);
         hideSystemUI();
 
-        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);*/
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
 
         if(score<=0||!isForRecord){
             btnSubmitScore.setEnabled(false);
@@ -264,7 +264,7 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
     @Override
     public void onStart() {
         super.onStart();
-       // hideSystemUI();
+        hideSystemUI();
         Chartboost.onStart(mActivity);
     }
 
@@ -277,7 +277,7 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
     @Override
     public void onResume() {
         super.onResume();
-      //  hideSystemUI();
+       hideSystemUI();
         Chartboost.onResume(mActivity);
     }
 
@@ -293,23 +293,5 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
         super.onDestroy();
         Chartboost.onDestroy(mActivity);
     }
-
-
-
-    @TargetApi(Build.VERSION_CODES.KITKAT)
-    protected void hideSystemUI() {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
-            mActivity.getWindow().getDecorView().setSystemUiVisibility(
-                    View.SYSTEM_UI_FLAG_LAYOUT_STABLE
-                            | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
-                            | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
-                            | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION // hide nav bar
-                            | View.SYSTEM_UI_FLAG_FULLSCREEN // hide status bar
-                            | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
-        }
-    }
-
-
-
 
 }

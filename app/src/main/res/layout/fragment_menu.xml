@@ -30,14 +30,14 @@
         android:layout_alignParentBottom="true"
         android:orientation="horizontal">
 
-        <com.google.android.gms.ads.AdView
+        <!--<com.google.android.gms.ads.AdView
             android:id="@+id/ad_view"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_alignParentBottom="true"
             ads:adSize="BANNER"
             ads:adUnitId="@string/banner_ad_unit_id"
-            />
+            />-->
 
     </LinearLayout>
 

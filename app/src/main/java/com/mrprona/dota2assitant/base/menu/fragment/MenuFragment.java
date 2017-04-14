@@ -67,7 +67,9 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
         mRecyclerMenu.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
         mRecyclerMenu.setNestedScrollingEnabled(false);
 
-         // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
+
+        //TODO binh.th commment block admod
+       /*  // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
         // values/strings.xml.
         mAdView = (AdView) mView.findViewById(R.id.ad_view);
         // Create an ad request. Check your logcat output for the hashed device ID to
@@ -78,7 +80,7 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
                 .build();
 
         // Start loading the ad in the background.
-        mAdView.loadAd(adRequest);
+        mAdView.loadAd(adRequest);*/
 
         return mView;
     }

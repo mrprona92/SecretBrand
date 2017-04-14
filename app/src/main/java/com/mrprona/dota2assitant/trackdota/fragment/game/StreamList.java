@@ -80,19 +80,19 @@ public class StreamList extends UpdatableRecyclerFragmentNotBase<Stream, StreamH
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         menu.clear();
-        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
+        /*SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
         if (Build.VERSION.SDK_INT > 14) {
             int currentPlayer = preferences.getInt("player_type", 0);
             MenuItem playerType = menu.add(1, PLAYER_TYPE, 1, getResources().getStringArray(R.array.player_types)[currentPlayer]);
             MenuItemCompat.setShowAsAction(playerType, MenuItemCompat.SHOW_AS_ACTION_ALWAYS);
         } else {
             preferences.edit().putInt("player_type", 1).commit();
-        }
+        }*/
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        if (item.getItemId() == PLAYER_TYPE) {
+       /* if (item.getItemId() == PLAYER_TYPE) {
             final MenuItem player = item;
             PopupMenu popup = new PopupMenu(getActivity(), getActivity().findViewById(item.getItemId()));
             final Menu menu = popup.getMenu();
@@ -111,8 +111,8 @@ public class StreamList extends UpdatableRecyclerFragmentNotBase<Stream, StreamH
             });
             popup.show();
             return true;
-        }
-        return false;
+        }*/
+        return true;
     }
 
     @Override
@@ -125,7 +125,7 @@ public class StreamList extends UpdatableRecyclerFragmentNotBase<Stream, StreamH
     public void onItemClick(View view, int position) {
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
         Stream stream = getAdapter().getItem(position);
-        switch (preferences.getInt("player_type", 0)) {
+        /*switch (preferences.getInt("player_type", 0)) {
             case 0: {
                 StreamUtils.openActivity(getActivity(), stream);
                 break;
@@ -137,6 +137,11 @@ public class StreamList extends UpdatableRecyclerFragmentNotBase<Stream, StreamH
             default: {
                 StreamUtils.openInVideoStreamApp(getActivity(), stream);
             }
+        }*/
+        if(stream.getProvider().contains("douyu")){
+            StreamUtils.openInSpecialApp(getActivity(), stream);
+        }else{
+            StreamUtils.openActivity(getActivity(), stream);
         }
     }
 

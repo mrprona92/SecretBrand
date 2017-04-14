@@ -17,6 +17,7 @@ public class PlayerRankingHolder extends BaseViewHolder {
     public TextView name;
     public ImageView image;
     public TextView scoreranking;
+    public ImageView rankingchange;
 
     public PlayerRankingHolder(View itemView, OnItemClickListener listener) {
         super(itemView, listener);
@@ -28,5 +29,6 @@ public class PlayerRankingHolder extends BaseViewHolder {
         name = (TextView) itemView.findViewById(R.id.lblTeamName);
         image = (ImageView) itemView.findViewById(R.id.imgFlag);
         scoreranking = (TextView) itemView.findViewById(R.id.lblNumberRanking);
+        rankingchange = (ImageView) itemView.findViewById(R.id.imgRankingChange);
     }
 }

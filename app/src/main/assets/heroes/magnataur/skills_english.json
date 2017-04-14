@@ -20,7 +20,7 @@
         "notes": "The bonus damage is based only on base damage and damage from primary attributes.<br/>Cleave damage is reduced by armor type but not by armor value.<br/>Cleave damage goes through spell immunity.<br/>Ranged units cannot Cleave.",
         "dmg": "",
         "attrib": "DURATION: <b><font color=\"#ffffff\">40/40/40/40</font></b><br/>BONUS DAMAGE: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>CLEAVE DAMAGE: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>CLEAVE RADIUS: <b><font color=\"#ffffff\">200</font></b>",
-        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/40/50/60<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 30/50/70/90<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 12",
         "lore": "With a deep bellow, Magnus displays his true power.",
         "hurl": "Magnus",
         "name": "magnataur_empower",

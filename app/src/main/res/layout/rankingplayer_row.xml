@@ -70,6 +70,22 @@
             </LinearLayout>
 
 
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.2">
+
+                <ImageView
+                    android:id="@+id/imgRankingChange"
+                    style="@style/Layout.FillWidth"
+                    android:src="@mipmap/ad_flag"
+                    android:layout_width="30dp"
+                    android:layout_height="20dp"
+                    android:padding="@dimen/padding_small"
+                    />
+            </LinearLayout>
+
         </LinearLayout>
 
     </LinearLayout>

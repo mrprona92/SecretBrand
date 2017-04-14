@@ -33,8 +33,6 @@ public class UpdateLoadRequest extends TaskRequest<String> {
 
     @Override
     public String loadData() throws Exception {
-        Log.d("BINH", "loadData() called");
-
         DatabaseManager manager= DatabaseManager.getInstance(mContext);
 
         SQLiteDatabase db= manager.openDatabase();

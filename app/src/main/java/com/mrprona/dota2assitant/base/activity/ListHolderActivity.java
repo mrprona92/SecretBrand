@@ -1,6 +1,7 @@
 package com.mrprona.dota2assitant.base.activity;
 
 import android.annotation.SuppressLint;
+import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -9,6 +10,8 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.database.sqlite.SQLiteDatabase;
+import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
@@ -192,14 +195,28 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             }
         }*/
 
-
+        Chartboost.onStart(this);
         super.onStart();
     }
 
 
     @Override
+    protected void onResume() {
+        super.onResume();
+        Chartboost.onResume(this);
+    }
+
+    @Override
     protected void onStop() {
         super.onStop();
+        Chartboost.onStop(this);
+    }
+
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Chartboost.onDestroy(this);
     }
 
     @Override
@@ -216,10 +233,12 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         FacebookSdk.sdkInitialize(getApplicationContext());
 
         // Initialize the Mobile Ads SDK.§
-        MobileAds.initialize(this, getString(R.string.banner_ad_unit_id));
+
+        //MobileAds.initialize(this, getString(R.string.banner_ad_unit_id));
 
 
         Chartboost.startWithAppId(this, getString(R.string.appIDChartboost), getString(R.string.appSignature));
+        Chartboost.onCreate(this);
 
         AppEventsLogger.activateApp(this);
 
@@ -292,7 +311,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         if (fragment instanceof SearchableFragment) {
             ((SearchableFragment) fragment).onTextSearching(textNew);
         }
-        if(fragment instanceof RankingMainFragment){
+        if (fragment instanceof RankingMainFragment) {
             ((SearchableFragment) ((RankingMainFragment) fragment).getActiveFragment()).onTextSearching(textNew);
         }
         return true;
@@ -812,5 +831,13 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         }
     }
 
+
+    @TargetApi(Build.VERSION_CODES.HONEYCOMB) // API 11
+    public void startMyTask(AsyncTask asyncTask) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB)
+            asyncTask.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
+        else
+            asyncTask.execute();
+    }
 
 }

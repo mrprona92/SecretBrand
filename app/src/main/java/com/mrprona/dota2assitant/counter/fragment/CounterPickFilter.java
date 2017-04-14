@@ -123,9 +123,11 @@ public class CounterPickFilter extends SCBaseFragment implements RequestListener
         View rootView = inflater.inflate(R.layout.counter_filters, container,
                 false);
 
+
+        //TODO binh.th comment block admod
         // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
         // values/strings.xml.
-         mAdView = (AdView) rootView.findViewById(R.id.ad_view);
+       /*  mAdView = (AdView) rootView.findViewById(R.id.ad_view);
         // Create an ad request. Check your logcat output for the hashed device ID to
         // get test ads on a physical device. e.g.
         // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
@@ -135,7 +137,7 @@ public class CounterPickFilter extends SCBaseFragment implements RequestListener
 
 
         // Start loading the ad in the background.
-        mAdView.loadAd(adRequest);
+        mAdView.loadAd(adRequest);*/
 
         return rootView;
     }

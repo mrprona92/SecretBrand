@@ -15,8 +15,8 @@ android {
         applicationId "com.prodo.dotaassitant"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 786
-        versionName "1.0.5"
+        versionCode 787
+        versionName "1.0.6"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true
     }
@@ -88,5 +88,6 @@ dependencies {
     apt 'org.parceler:parceler:1.0.2'
     compile 'org.parceler:parceler-api:1.0.2'
     compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.squareup.okhttp3:okhttp:3.6.0'
 }
 apply plugin: 'com.google.gms.google-services'

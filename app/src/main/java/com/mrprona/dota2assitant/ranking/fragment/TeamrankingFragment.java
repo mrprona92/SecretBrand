@@ -140,7 +140,9 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
-        new JsoupListView().execute();
+        if(mActivity!=null){
+            mActivity.startMyTask(new JsoupListView());
+        }
 
         recyclerRankingTeam.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
         recyclerRankingTeam.setHasFixedSize(false);
@@ -235,7 +237,7 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
     }
 
     // Title AsyncTask
-    private class JsoupListView extends AsyncTask<Void, Void, Void> {
+    private class JsoupListView extends AsyncTask<Object, Void, Void> {
 
         @Override
         protected void onPreExecute() {
@@ -253,7 +255,7 @@ public class TeamrankingFragment extends SCBaseFragment implements SearchableFra
         }
 
         @Override
-        protected Void doInBackground(Void... params) {
+        protected Void doInBackground(Object... params) {
             // Create an array
             mTeamRanking = mRankingService.getAllTeamRanked();
 

@@ -10,6 +10,7 @@ import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.Filter;
 import android.widget.Spinner;
 
@@ -22,6 +23,7 @@ import com.mrprona.dota2assitant.ranking.TeamRanking;
 import com.mrprona.dota2assitant.ranking.adapter.RankingPlayerAdapter;
 import com.mrprona.dota2assitant.ranking.adapter.RankingTeamAdapter;
 import com.mrprona.dota2assitant.ranking.service.RankingServiceImpl;
+import com.mrprona.dota2assitant.ranking.task.PlayerRankingLoadRequest;
 import com.mrprona.dota2assitant.ranking.task.TeamRankingLoadRequest;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.persistence.exception.SpiceException;
@@ -50,6 +52,7 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
 
     ProgressDialog mProgressDialog;
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
+    private boolean isFirstTime;
 
 
     @Override
@@ -58,6 +61,8 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
         super.onCreateView(inflater, container, savedInstanceState);
         // [START create_database_reference]
         // [END create_database_reference]
+        isFirstTime = true;
+
         if (mView == null) {
             mView = inflater.inflate(getViewContent(), container, false);
             mUnbinder = ButterKnife.bind(this, mView);
@@ -138,11 +143,26 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
-        new JsoupListView().execute();
-
         recyclerRankingPlayer.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
         recyclerRankingPlayer.setHasFixedSize(false);
         recyclerRankingPlayer.setNestedScrollingEnabled(false);
+
+        spinnerTypeRanking.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                //if (!isFirstTime) {
+                if (mActivity != null) {
+                    mActivity.startMyTask(new JsoupListView());
+                }
+                // }
+                //isFirstTime = false;
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
 
         // Set up Layout Manager, reverse layout
 
@@ -207,14 +227,14 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
         if (!TextUtils.isEmpty(mSearchString) || !TextUtils.isEmpty(text)) {
             this.mSearchString = text;
         }
-        TeamRankingFilter();
+        PlayerRankingFilter();
     }
 
     @SuppressWarnings("unchecked")
-    private void TeamRankingFilter() {
+    private void PlayerRankingFilter() {
         Activity activity = getActivity();
         if (activity != null) {
-            mSpiceManager.execute(new TeamRankingLoadRequest(activity.getApplicationContext(), null, mSearchString), this);
+            mSpiceManager.execute(new PlayerRankingLoadRequest(activity.getApplicationContext(), null, mSearchString), this);
         }
     }
 
@@ -233,7 +253,7 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
     }
 
     // Title AsyncTask
-    private class JsoupListView extends AsyncTask<Void, Void, Void> {
+    private class JsoupListView extends AsyncTask<Object, Void, Void> {
 
         @Override
         protected void onPreExecute() {
@@ -251,7 +271,7 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
         }
 
         @Override
-        protected Void doInBackground(Void... params) {
+        protected Void doInBackground(Object... params) {
             // Create an array
             mPlayerRanking = mRankingService.getAllPlayerRanked(spinnerTypeRanking.getSelectedItemPosition());
 
@@ -276,7 +296,6 @@ public class PlayerRankingFragment extends SCBaseFragment implements SearchableF
 
         }
     }
-
 
 }
 

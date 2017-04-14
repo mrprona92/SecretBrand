@@ -4,13 +4,13 @@
         "id":"102",
         "talents":[
             {
-                "t4left":"+200 Aphotic Shield Health",
+                "t4left":"+300 Aphotic Shield Health",
                 "t4right":"+25 Strength",
                 "t3left":"15% Cooldown Reduction",
                 "t3right":"+25 Movement Speed",
                 "t2left":"+5 Armor",
                 "t2right":"+200 Mana",
-                "t1left":"+15% XP Gain",
+                "t1left":"+20% XP Gain",
                 "t1right":"+25 Damage"
             }
         ]
@@ -20,12 +20,12 @@
         "id":"73",
         "talents":[
             {
-                "t4left":"-4 Acid Spray Armor",
+                "t4left":"-5 Acid Spray Armor",
                 "t4right":"30% Lifesteal",
                 "t3left":"+300 Health",
                 "t3right":"+30 Attack Speed",
                 "t2left":"+6 All Stats",
-                "t2right":"+15 Movement Speed",
+                "t2right":"+80 Unstable Concoction Damage",
                 "t1left":"+4 Armor",
                 "t1right":"+20 Damage"
             }
@@ -36,12 +36,12 @@
         "id":"68",
         "talents":[
             {
-                "t4left":"+80 Chilling Touch Damage",
-                "t4right":"3 Charges of Cold Feet",
-                "t3left":"-30s Respawn Time",
+                "t4left":"+100 Chilling Touch Damage",
+                "t4right":"4 Charges of Cold Feet",
+                "t3left":"-35s Respawn Time",
                 "t3right":"+35 Movement Speed",
-                "t2left":"+25 Health Regen",
-                "t2right":"+15 Intelligence",
+                "t2left":"+30 Health Regen",
+                "t2right":"-1s Ice Vortex Cooldown",
                 "t1left":"+8% Spell Amplification",
                 "t1right":"+60 Gold/Min"
             }
@@ -52,14 +52,14 @@
         "id":"1",
         "talents":[
             {
-                "t4left":"-2s Blink Cooldown",
+                "t4left":"-50s Mana Void Cooldown",
                 "t4right":"+25 Agility",
                 "t3left":"+10 All Stats",
                 "t3right":"15% Evasion",
-                "t2left":"+250 Health",
+                "t2left":"-1s Blink Cooldown",
                 "t2right":"+20 Attack Speed",
                 "t1left":"+20 Damage",
-                "t1right":"+6 Strength"
+                "t1right":"+150 Health"
             }
         ]
     },
@@ -68,14 +68,14 @@
         "id":"113",
         "talents":[
             {
-                "t4left":"+175 Spark Wraith Damage",
+                "t4left":"+250 Spark Wraith Damage",
                 "t4right":"30% Lifesteal",
                 "t3left":"+100 Attack Range",
                 "t3right":"10% Cooldown Reduction",
-                "t2left":"+8 Strength",
+                "t2left":"+200 Health",
                 "t2right":"+30 Damage",
                 "t1left":"+25 Attack Speed",
-                "t1right":"+125 Health"
+                "t1right":"+20 Flux DPS"
             }
         ]
     },
@@ -86,7 +86,7 @@
             {
                 "t4left":"+100 Battle Hunger DPS",
                 "t4right":"+15 Armor",
-                "t3left":"+30 Movement Speed",
+                "t3left":"+35 Movement Speed",
                 "t3right":"+25 Health Regen",
                 "t2left":"+250 Health",
                 "t2right":"+75 Damage",
@@ -101,10 +101,10 @@
         "talents":[
             {
                 "t4left":"+200 Brain Sap Damage/Heal",
-                "t4right":"+120 Enfeeble Damage Reduction",
+                "t4right":"+100 Movement Speed",
                 "t3left":"+175 Cast Range",
-                "t3right":"+35 Movement Speed",
-                "t2left":"+25% XP Gain",
+                "t3right":"+90 Enfeeble Damage Reduction",
+                "t2left":"+30% XP Gain",
                 "t2right":"+250 Health",
                 "t1left":"+200 Mana",
                 "t1right":"+6 Armor"
@@ -116,11 +116,11 @@
         "id":"65",
         "talents":[
             {
-                "t4left":"+200 Flamebreak AoE/Knockback",
+                "t4left":"+300 Flamebreak AoE/Knockback",
                 "t4right":"+8s Firefly Duration",
                 "t3left":"+35 Movement Speed",
                 "t3right":"15% Cooldown Reduction",
-                "t2left":"+175 Health",
+                "t2left":"+200 Health",
                 "t2right":"+5% Spell Amplification",
                 "t1left":"+4 Armor",
                 "t1right":"+10 Intelligence"
@@ -132,14 +132,14 @@
         "id":"38",
         "talents":[
             {
-                "t4left":"+175 Wild Axes Damage",
+                "t4left":"+250 Wild Axes Damage",
                 "t4right":"+120 Damage",
-                "t3left":"+300 Health",
+                "t3left":"+400 Health",
                 "t3right":"12% Cooldown Reduction",
-                "t2left":"-30s Respawn Time",
+                "t2left":"-35s Respawn Time",
                 "t2right":"+12 Strength",
                 "t1left":"+20 Movement Speed",
-                "t1right":"+15% XP Gain"
+                "t1right":"+20% XP Gain"
             }
         ]
     },
@@ -151,11 +151,11 @@
                 "t4left":"30% Lifesteal",
                 "t4right":"-7s Bloodrite Cooldown",
                 "t3left":"+10 All Stats",
-                "t3right":"-30s Respawn Time",
-                "t2left":"+250 Health",
+                "t3right":"+14% Rupture Damage",
+                "t2left":"+75 Blood Rite Damage",
                 "t2right":"+30 Attack Speed",
                 "t1left":"+25 Damage",
-                "t1right":"+5 Armor"
+                "t1right":"+225 Health"
             }
         ]
     },
@@ -165,12 +165,12 @@
         "talents":[
             {
                 "t4left":"-5s Jinada Cooldown",
-                "t4right":"20% Evasion",
-                "t3left":"+100 Damage",
-                "t3right":"+10% Spell Amplification",
+                "t4right":"25% Evasion",
+                "t3left":"+120 Damage",
+                "t3right":"+75 Shuriken Toss Damage",
                 "t2left":"+15 Movement Speed",
                 "t2right":"+40 Attack Speed",
-                "t1left":"+15% XP Gain",
+                "t1left":"+20% XP Gain",
                 "t1right":"+175 Health"
             }
         ]
@@ -180,14 +180,14 @@
         "id":"78",
         "talents":[
             {
-                "t4left":"+14 Primal Split Unit Armor",
-                "t4right":"+75 Damage",
+                "t4left":"+2000 Health to Primal Split Units ",
+                "t4right":"+120 Damage",
                 "t3left":"+20 Strength",
-                "t3right":"-25s Respawn Time",
-                "t2left":"+10% Magic Resistance",
-                "t2right":"+20 Movement Speed",
+                "t3right":"-40s Respawn Time",
+                "t2left":"+15% Magic Resistance",
+                "t2right":"+75 Thunder Clap Damage",
                 "t1left":"+3 Mana Regen",
-                "t1right":"+25 Attack Speed"
+                "t1right":"+30 Attack Speed"
             }
         ]
     },
@@ -196,14 +196,14 @@
         "id":"99",
         "talents":[
             {
-                "t4left":"+4 Max Goo Stacks",
-                "t4right":"+25 Health Regen",
-                "t3left":"-30s Respawn Time",
-                "t3right":"+45 Attack Speed",
-                "t2left":"+200 Health",
-                "t2right":"+20 Movement Speed",
+                "t4left":"+25 Quill Stack Damage",
+                "t4right":"+30 Health Regen",
+                "t3left":"-40s Respawn Time",
+                "t3right":"+50 Attack Speed",
+                "t2left":"+225 Health",
+                "t2right":"+4 Max Goo Stacks",
                 "t1left":"+2 Mana Regen",
-                "t1right":"+7 Strength"
+                "t1right":"+8 Strength"
             }
         ]
     },
@@ -212,14 +212,14 @@
         "id":"61",
         "talents":[
             {
-                "t4left":"+200 Spiders Health",
+                "t4left":"+225 Spiders Health",
                 "t4right":"+8 Max Webs",
-                "t3left":"+50 Attack Speed",
-                "t3right":"+300 Health",
-                "t2left":"+7 Armor",
+                "t3left":"+70 Attack Speed",
+                "t3right":"+12 Spiders Attack Damage",
+                "t2left":"+350 Health",
                 "t2right":"20% Cooldown Reduction",
-                "t1left":"+15% XP Gain",
-                "t1right":"+10 Agility"
+                "t1left":"+25% XP Gain",
+                "t1right":"+60 Spawn Spiderling Damage"
             }
         ]
     },
@@ -235,7 +235,7 @@
                 "t2left":"+10% Magic Resistance",
                 "t2right":"10% Evasion",
                 "t1left":"+2 Mana Regen",
-                "t1right":"+30 Damage"
+                "t1right":"+35 Damage"
             }
         ]
     },
@@ -249,8 +249,8 @@
                 "t3left":"+12 All Stats",
                 "t3right":"+120 Gold/Min",
                 "t2left":"+10 Strength",
-                "t2right":"+15 Movement Speed",
-                "t1left":"+7 Intelligence",
+                "t2right":"+20 Movement Speed",
+                "t1left":"+8 Intelligence",
                 "t1right":"+15 Attack Speed"
             }
         ]
@@ -262,12 +262,12 @@
             {
                 "t4left":"+200 Hand of God Heal",
                 "t4right":"+2 Holy Persuasion Max Count",
-                "t3left":"-40s Respawn Time",
+                "t3left":"-45s Respawn Time",
                 "t3right":"+90 Gold/Min",
-                "t2left":"+25% Spell Amplification",
-                "t2right":"+200 Health",
+                "t2left":"-10s Test of Faith Cooldown",
+                "t2right":"+250 Health",
                 "t1left":"+125 Cast Range",
-                "t1right":"+15 Movement Speed"
+                "t1right":"+30 Movement Speed"
             }
         ]
     },
@@ -281,7 +281,7 @@
                 "t3left":"+10 All Stats",
                 "t3right":"20% Evasion",
                 "t2left":"+30 Searing Arrows Damage",
-                "t2right":"+12 Strength",
+                "t2right":"+15 Strength",
                 "t1left":"+10% Magic Resistance",
                 "t1right":"+10 Intelligence"
             }
@@ -296,8 +296,8 @@
                 "t4right":"+400 Health",
                 "t3left":"+12% Magic Resistance",
                 "t3right":"-25s Respawn Time",
-                "t2left":"+15 Movement Speed",
-                "t2right":"+40 Damage",
+                "t2left":"+75 Rocket Flare Damage",
+                "t2right":"+50 Damage",
                 "t1left":"+200 Mana",
                 "t1right":"+4 Armor"
             }
@@ -308,13 +308,13 @@
         "id":"5",
         "talents":[
             {
-                "t4left":"+200 Crystal Nova Damage",
+                "t4left":"+300 Crystal Nova Damage",
                 "t4right":"+1.5s Frostbite Duration",
                 "t3left":"-35s Respawn Time",
                 "t3right":"+120 Gold/Min",
-                "t2left":"+200 Health",
+                "t2left":"+250 Health",
                 "t2right":"+125 Cast Range",
-                "t1left":"+50 Damage",
+                "t1left":"+60 Damage",
                 "t1right":"+15% Magic Resistance"
             }
         ]
@@ -324,12 +324,12 @@
         "id":"55",
         "talents":[
             {
-                "t4left":"+70 Ion Shell Damage",
-                "t4right":"12% Cooldown Reduction",
-                "t3left":"+25 Intelligence",
-                "t3right":"+12 Strength",
+                "t4left":"+80 Ion Shell Damage",
+                "t4right":"+25 Strength",
+                "t3left":"+75 Vacuum AoE",
+                "t3right":"+10% Cooldown Reduction",
                 "t2left":"+14 Health Regen",
-                "t2right":"+90 Damage",
+                "t2right":"+120 Damage",
                 "t1left":"+100 Cast Range",
                 "t1right":"12% Evasion"
             }
@@ -344,7 +344,7 @@
                 "t4right":"-6s Poison Touch Cooldown",
                 "t3left":"-30s Respawn Time",
                 "t3right":"+25 Movement Speed",
-                "t2left":"+40 Damage",
+                "t2left":"+60 Damage",
                 "t2right":"+100 Cast Range",
                 "t1left":"+125 Health",
                 "t1right":"+10 Intelligence"
@@ -356,14 +356,14 @@
         "id":"43",
         "talents":[
             {
-                "t4left":"+6 Exorcism Spirits",
-                "t4right":"+400 Health",
-                "t3left":"+25 Movement Speed",
+                "t4left":"+8 Exorcism Spirits",
+                "t4right":"+600 Health",
+                "t3left":"+50 Movement Speed",
                 "t3right":"10% Cooldown Reduction",
-                "t2left":"+75 Cast Range",
-                "t2right":"+8% Magic Resistance",
-                "t1left":"+6 Strength",
-                "t1right":"+4% Spell Amplification"
+                "t2left":"+150 Cast Range",
+                "t2right":"-1.5s Crypt Swarm Cooldown",
+                "t1left":"+12% Magic Resistance",
+                "t1right":"+5% Spell Amplification"
             }
         ]
     },
@@ -375,9 +375,9 @@
                 "t4left":"+30% Magic Resistance",
                 "t4right":"+4 Thunder Strike Hits",
                 "t3left":"+10% Spell Amplification",
-                "t3right":"15% Cooldown Reduction",
+                "t3right":"+400 Health",
                 "t2left":"-30s Respawn Time",
-                "t2right":"+200 Health",
+                "t2right":"-3s Kinetic Field Cooldown",
                 "t1left":"+60 Gold/Min",
                 "t1right":"+100 Cast Range"
             }
@@ -388,14 +388,14 @@
         "id":"69",
         "talents":[
             {
-                "t4left":"Devour Can Target Ancients",
+                "t4left":"+40 Health Regen",
                 "t4right":"+2% Infernal Blade Damage",
-                "t3left":"+20 Health Regen",
-                "t3right":"+50 Damage",
-                "t2left":"+6 Armor",
-                "t2right":"+15 Movement Speed",
-                "t1left":"+8 Intelligence",
-                "t1right":"+150 Health"
+                "t3left":"Devour Can Target Ancients",
+                "t3right":"+40 Doom DPS",
+                "t2left":"+15 Scorched Earth Damage/Heal",
+                "t2right":"+25 Movement Speed",
+                "t1left":"+80 Devour Bonus Gold",
+                "t1right":"+275 Health"
             }
         ]
     },
@@ -405,13 +405,13 @@
         "talents":[
             {
                 "t4left":"2x Dragon Blood Regen/Armor",
-                "t4right":"+50 Movement Speed",
+                "t4right":"+75 Movement Speed",
                 "t3left":"+300 Health",
                 "t3right":"+120 Gold/Min",
                 "t2left":"+40 Damage",
-                "t2right":"+25% XP Gain",
-                "t1left":"+20 Attack Speed",
-                "t1right":"+6 Strength"
+                "t2right":"+40% XP Gain",
+                "t1left":"+30 Attack Speed",
+                "t1right":"+10 Strength"
             }
         ]
     },
@@ -421,7 +421,7 @@
         "talents":[
             {
                 "t4left":"+25 Marksmanship Agility",
-                "t4right":"+350 Gust Distance/Knockback",
+                "t4right":"+400 Gust Distance/Knockback",
                 "t3left":"+14 Strength",
                 "t3right":"+6% Precision Aura Damage",
                 "t2left":"+20 Attack Speed",
@@ -437,7 +437,7 @@
         "talents":[
             {
                 "t4left":"+300 Rolling Boulder Damage",
-                "t4right":"-35s Respawn Time",
+                "t4right":"-45s Respawn Time",
                 "t3left":"+300 Health",
                 "t3right":"+15% Spell Amplification",
                 "t2left":"+90 Gold/Min",
@@ -453,13 +453,13 @@
         "talents":[
             {
                 "t4left":"-2s Enchant Totem Cooldown",
-                "t4right":"+500 Health",
+                "t4right":"+600 Health",
                 "t3left":"-35s Respawn Time",
-                "t3right":"+10% Spell Amplification",
+                "t3right":"+40 Echo Damage",
                 "t2left":"+50 Damage",
                 "t2right":"+20 Movement Speed",
                 "t1left":"+250 Mana",
-                "t1right":"+8 Strength"
+                "t1right":"+10 Strength"
             }
         ]
     },
@@ -468,11 +468,11 @@
         "id":"103",
         "talents":[
             {
-                "t4left":"+80 Astral Spirit Hero Attack",
+                "t4left":"+100 Astral Spirit Hero Attack",
                 "t4right":"+15 Armor",
                 "t3left":"+50 Attack Speed",
                 "t3right":"+12% Magic Resistance",
-                "t2left":"+25% XP Gain",
+                "t2left":"+30 Echo Stomp Damage",
                 "t2right":"+275 Health",
                 "t1left":"+10 Strength",
                 "t1right":"-20s Respawn Time"
@@ -485,13 +485,13 @@
         "talents":[
             {
                 "t4left":"+2s Searing Chains",
-                "t4right":"+500 Flame Guard Absorption",
-                "t3left":"+8 Armor",
-                "t3right":"15% Cooldown Reduction",
+                "t4right":"20% Cooldown Reduction",
+                "t3left":"+10 Armor",
+                "t3right":"+500 Flame Guard Absorption",
                 "t2left":"+6 All Stats",
                 "t2right":"+20 Movement Speed",
-                "t1left":"+20 Damage",
-                "t1right":"+15% Spell Amplification"
+                "t1left":"+25 Damage",
+                "t1right":"+10% Spell Amplification"
             }
         ]
     },
@@ -500,14 +500,14 @@
         "id":"58",
         "talents":[
             {
-                "t4left":"+10 Nature's Attendants Wisps",
-                "t4right":"+25 Intelligence",
-                "t3left":"-25s Respawn Time",
-                "t3right":"+12% Magic Resistance",
-                "t2left":"+40 Damage",
-                "t2right":"+8s Nature's Attendants Duration",
-                "t1left":"+15 Movement Speed",
-                "t1right":"+5 All Stats"
+                "t4left":"Enchant Affects Ancients",
+                "t4right":"-50s Respawn Time",
+                "t3left":"+60 Untouchable Slow",
+                "t3right":"+52% Magic Resistance",
+                "t2left":"+50 Damage",
+                "t2right":"+8 Nature's Attendants Wisps",
+                "t1left":"+25 Movement Speed",
+                "t1right":"+6 All Stats"
             }
         ]
     },
@@ -518,7 +518,7 @@
             {
                 "t4left":"+8 Demonic Conversion Eidolons",
                 "t4right":"+12 Armor",
-                "t3left":"-30s Respawn Time",
+                "t3left":"-40s Respawn Time",
                 "t3right":"+300 Health",
                 "t2left":"+120 Gold/Min",
                 "t2right":"15% Cooldown Reduction",
@@ -538,7 +538,7 @@
                 "t3right":"+300 Health",
                 "t2left":"+25 Damage",
                 "t2right":"+7 Armor",
-                "t1left":"+5 Strength",
+                "t1left":"+8 Strength",
                 "t1right":"+15 Attack Speed"
             }
         ]
@@ -551,10 +551,10 @@
                 "t4left":"+4 Flak Cannon Attacks",
                 "t4right":"+3 Homing Missile Charges",
                 "t3left":"20% Cooldown Reduction",
-                "t3right":"+25 Movement Speed",
+                "t3right":"+35 Movement Speed",
                 "t2left":"+30 Damage",
-                "t2right":"+10% Magic Resistance",
-                "t1left":"+150 Health",
+                "t2right":"+15% Magic Resistance",
+                "t1left":"+225 Health",
                 "t1right":"+6% Spell Amplification"
             }
         ]
@@ -564,14 +564,14 @@
         "id":"59",
         "talents":[
             {
-                "t4left":"+400 Life Break Cast Range",
+                "t4left":"+500 Life Break Cast Range",
                 "t4right":"+100 Attack Range",
                 "t3left":"+40 Attack Speed",
                 "t3right":"+15 Strength",
                 "t2left":"+15% Lifesteal",
                 "t2right":"+30 Damage",
-                "t1left":"+15 Movement Speed",
-                "t1right":"+150 Health"
+                "t1left":"+5 Burning Spears DPS",
+                "t1right":"+175 Health"
             }
         ]
     },
@@ -580,11 +580,11 @@
         "id":"74",
         "talents":[
             {
-                "t4left":"-15s Tornado Cooldown",
+                "t4left":"-18s Tornado Cooldown",
                 "t4right":"AoE Deafening Blast",
                 "t3left":"+35 Attack Speed",
                 "t3right":"+7 All Stats",
-                "t2left":"+20% XP Gain",
+                "t2left":"+30% XP Gain",
                 "t2right":"+1 Forged Spirit Summoned",
                 "t1left":"+125 Health",
                 "t1right":"+15 Damage"
@@ -597,7 +597,7 @@
         "talents":[
             {
                 "t4left":"+150 Spirits Damage",
-                "t4right":"-40s Respawn Time",
+                "t4right":"-50s Respawn Time",
                 "t3left":"+120 Gold/Min",
                 "t3right":"+20 Health Regen",
                 "t2left":"+10 Strength",
@@ -616,10 +616,10 @@
                 "t4right":"-50s Respawn Time",
                 "t3left":"+150 Gold/Min",
                 "t3right":"+400 Attack Range",
-                "t2left":"+250 Health",
+                "t2left":"+35 Dual Breath Burn Damage",
                 "t2right":"+125 Cast Range",
                 "t1left":"+8% Spell Amplification",
-                "t1right":"+15% XP Gain"
+                "t1right":"+25% XP Gain"
             }
         ]
     },
@@ -632,10 +632,10 @@
                 "t4right":"+20 Agility",
                 "t3left":"+8 All Stats",
                 "t3right":"+20 Movement Speed",
-                "t2left":"+6 Armor",
+                "t2left":"+7 Armor",
                 "t2right":"+20 Attack Speed",
                 "t1left":"+20 Damage",
-                "t1right":"+150 Health"
+                "t1right":"+175 Health"
             }
         ]
     },
@@ -645,13 +645,13 @@
         "talents":[
             {
                 "t4left":"+200 Illuminate Damage/Heal",
-                "t4right":"+300 Cast Range",
+                "t4right":"+400 Cast Range",
                 "t3left":"+7 Armor",
                 "t3right":"+10% Magic Resistance",
                 "t2left":"-25s Respawn Time",
                 "t2right":"+20% XP Gain",
                 "t1left":"+20 Movement Speed",
-                "t1right":"+6 Strength"
+                "t1right":"+7 Strength"
             }
         ]
     },
@@ -661,13 +661,13 @@
         "talents":[
             {
                 "t4left":"+200 Torrent AoE",
-                "t4right":"+25% Magic Resistance",
+                "t4right":"+35% Magic Resistance",
                 "t3left":"+120 Gold/Min",
                 "t3right":"+300 Health",
-                "t2left":"+15 Movement Speed",
+                "t2left":"+30 Movement Speed",
                 "t2right":"+15 Health Regen",
-                "t1left":"+150 Mana",
-                "t1right":"+20 Damage"
+                "t1left":"+40 Torrent Damage",
+                "t1right":"+30 Damage"
             }
         ]
     },
@@ -676,13 +676,13 @@
         "id":"104",
         "talents":[
             {
-                "t4left":"25% Cooldown Reduction",
+                "t4left":"-8s Press The Attack Cooldown",
                 "t4right":"+40 Duel Damage Bonus",
                 "t3left":"-20s Respawn Time",
                 "t3right":"+7 Armor",
                 "t2left":"+20 Movement Speed",
                 "t2right":"+30 Damage",
-                "t1left":"+15% XP Gain",
+                "t1left":"+20% XP Gain",
                 "t1right":"+7 Strength"
             }
         ]
@@ -692,11 +692,11 @@
         "id":"52",
         "talents":[
             {
-                "t4left":"+2s Lightning Storm Slow Duration",
+                "t4left":"+3s Lightning Storm Slow Duration",
                 "t4right":"+50 Diabolic Edict Explosions",
-                "t3left":"+12 Strength",
+                "t3left":"+15 Strength",
                 "t3right":"+5% Spell Amplification",
-                "t2left":"+8% Magic Resistance",
+                "t2left":"+10% Magic Resistance",
                 "t2right":"+400 Mana",
                 "t1left":"+15 Movement Speed",
                 "t1right":"+125 Health"
@@ -709,13 +709,13 @@
         "talents":[
             {
                 "t4left":"Attacks Apply 30% MS and AS slow",
-                "t4right":"+25 Frost Armor Structure Armor",
+                "t4right":"+35 Frost Armor Structure Armor",
                 "t3left":"+120 Gold/Min",
                 "t3right":"+150 Damage",
-                "t2left":"+5 All Stats",
-                "t2right":"+100 Cast Range",
-                "t1left":"+15 Movement Speed",
-                "t1right":"+125 Health"
+                "t2left":"-4s Frost Blast Cooldown",
+                "t2right":"+125 Cast Range",
+                "t1left":"+25 Movement Speed",
+                "t1right":"+175 Health"
             }
         ]
     },
@@ -729,7 +729,7 @@
                 "t3left":"+25 Movement Speed",
                 "t3right":"15% Evasion",
                 "t2left":"+25 Damage",
-                "t2right":"+200 Health",
+                "t2right":"+250 Health",
                 "t1left":"+15 Attack Speed",
                 "t1right":"+5 All Stats"
             }
@@ -740,14 +740,14 @@
         "id":"25",
         "talents":[
             {
-                "t4left":"+1 Fiery Soul Max Stacks",
+                "t4left":"+40/4% Fiery Soul Per Stack",
                 "t4right":"-4s Dragon Slave Cooldown",
                 "t3left":"+150 Attack Range",
-                "t3right":"+5% Spell Amplification",
-                "t2left":"+100 Cast Range",
-                "t2right":"-25s Respawn Time",
-                "t1left":"+20 Damage",
-                "t1right":"+250 Mana"
+                "t3right":"+6% Spell Amplification",
+                "t2left":"-30s Respawn Time",
+                "t2right":"+50 Damage",
+                "t1left":"+125 Cast Range",
+                "t1right":"+80 Light Strike Array Damage"
             }
         ]
     },
@@ -761,9 +761,9 @@
                 "t3left":"+8% Spell Amplification",
                 "t3right":"+20% Magic Resistance",
                 "t2left":"+90 Gold/Min",
-                "t2right":"-30s Respawn Time",
-                "t1left":"+45 Damage",
-                "t1right":"+175 Health"
+                "t2right":"+80 Earth Spike Damage",
+                "t1left":"+60 Damage",
+                "t1right":"-30s Respawn Time"
             }
         ]
     },
@@ -774,11 +774,11 @@
             {
                 "t4left":"-10s Savage Roar Cooldown",
                 "t4right":"+1.5s Entangle Duration",
-                "t3left":"-50s Respawn Time",
-                "t3right":"+7 Spirit Bear Armor",
-                "t2left":"+30 Spirit Bear Damage",
-                "t2right":"+65 Damage",
-                "t1left":"+200 Attack Range",
+                "t3left":"-40s Respawn Time",
+                "t3right":"+12 Spirit Bear Armor",
+                "t2left":"+50 Spirit Bear Damage",
+                "t2right":"+50 Damage",
+                "t1left":"+175 Attack Range",
                 "t1right":"+250 Health"
             }
         ]
@@ -794,7 +794,7 @@
                 "t3right":"+25 Attack Speed",
                 "t2left":"+40 Lucent Beam Damage",
                 "t2right":"+150 Health",
-                "t1left":"+4 Armor",
+                "t1left":"+15 Movement Speed",
                 "t1right":"+15 Damage"
             }
         ]
@@ -809,9 +809,9 @@
                 "t3left":"15% Cooldown Reduction",
                 "t3right":"15% Evasion",
                 "t2left":"+12 Strength",
-                "t2right":"-20s Respawn Time",
-                "t1left":"+150 Health",
-                "t1right":"+20 Damage"
+                "t2right":"-25s Respawn Time",
+                "t1left":"+200 Health",
+                "t1right":"+15 Damage"
             }
         ]
     },
@@ -822,9 +822,9 @@
             {
                 "t4left":"-4s Shockwave Cooldown",
                 "t4right":"-35s Respawn Time",
-                "t3left":"+20 Movement Speed",
-                "t3right":"+15 Strength",
-                "t2left":"+50 Damage",
+                "t3left":"+40 Movement Speed",
+                "t3right":"+10% Empower Damage/Cleave",
+                "t2left":"+12 Strength",
                 "t2right":"+90 Gold/Min",
                 "t1left":"+15% Spell Amplification",
                 "t1right":"+25 Attack Speed"
@@ -836,14 +836,14 @@
         "id":"94",
         "talents":[
             {
-                "t4left":"+1s Stone Gaze Stun",
+                "t4left":"+2s Stone Gaze Stun",
                 "t4right":"25% Lifesteal",
-                "t3left":"+500 Mana",
-                "t3right":"+15 Agility",
-                "t2left":"10% Evasion",
+                "t3left":"+600 Mana",
+                "t3right":"+1 Split Shot target",
+                "t2left":"15% Evasion",
                 "t2right":"+20 Attack Speed",
                 "t1left":"+15 Damage",
-                "t1right":"+10 Intelligence"
+                "t1right":"+12 Intelligence"
             }
         ]
     },
@@ -856,7 +856,7 @@
                 "t4right":"+400 Health",
                 "t3left":"+25 Attack Speed",
                 "t3right":"10% Evasion",
-                "t2left":"+20 Movement Speed",
+                "t2left":"+25 Movement Speed",
                 "t2right":"15% Lifesteal",
                 "t1left":"+15 Damage",
                 "t1right":"+4 Armor"
@@ -870,8 +870,8 @@
             {
                 "t4left":"+2 Multishot Sacred Arrows",
                 "t4right":"+100 Leap Attack Speed",
-                "t3left":"+8 Armor",
-                "t3right":"+40 Damage",
+                "t3left":"-4s Sacred Arrow cooldown",
+                "t3right":"+50 Damage",
                 "t2left":"+30 Attack Speed",
                 "t2right":"+5% Spell Amplification",
                 "t1left":"+150 Health",
@@ -885,10 +885,10 @@
         "talents":[
             {
                 "t4left":"+100% Boundless Strike Crit",
-                "t4right":"+25% Magic Resistance",
-                "t3left":"+15 Strength",
+                "t4right":"+25 Strength",
+                "t3left":"+20% Magic Resistance",
                 "t3right":"+40 Damage",
-                "t2left":"+20 Movement Speed",
+                "t2left":"+75 Jingu Mastery Damage",
                 "t2right":"+275 Health",
                 "t1left":"+5 Armor",
                 "t1right":"+20 Attack Speed"
@@ -900,7 +900,7 @@
         "id":"10",
         "talents":[
             {
-                "t4left":"+30% Replicate Damage",
+                "t4left":"+50% Replicate Damage",
                 "t4right":"+400 Waveform Range",
                 "t3left":"+40 Damage",
                 "t3right":"+25 Movement Speed",
@@ -920,7 +920,7 @@
                 "t4right":"+40 Movement Speed",
                 "t3left":"+20 Strength",
                 "t3right":"+15 Agility",
-                "t2left":"15% Evasion",
+                "t2left":"-3s Ensnare Cooldown",
                 "t2right":"+30 Attack Speed",
                 "t1left":"+125 Health",
                 "t1right":"+250 Mana"
@@ -932,14 +932,14 @@
         "id":"53",
         "talents":[
             {
-                "t4left":"+6 Treants Summoned",
-                "t4right":"-35s Respawn Time",
-                "t3left":"+8 Armor",
+                "t4left":"2x Treants HP/Damage",
+                "t4right":"-40s Respawn Time",
+                "t3left":"+10 Armor",
                 "t3right":"+35 Attack Speed",
-                "t2left":"+15 Movement Speed",
-                "t2right":"+10 Intelligence",
-                "t1left":"+175 Health",
-                "t1right":"+20 Damage"
+                "t2left":"+4 Treants Summoned",
+                "t2right":"+20 Intelligence",
+                "t1left":"+250 Health",
+                "t1right":"+30 Damage"
             }
         ]
     },
@@ -952,7 +952,7 @@
                 "t4right":"+400 Health",
                 "t3left":"+10% Magic Resistance",
                 "t3right":"+5% Spell Amplification",
-                "t2left":"+15 Movement Speed",
+                "t2left":"+20 Movement Speed",
                 "t2right":"+6 All Stats",
                 "t1left":"+6 Strength",
                 "t1right":"+40 Damage"
@@ -964,7 +964,7 @@
         "id":"60",
         "talents":[
             {
-                "t4left":"-6s Crippling Fear Cooldown",
+                "t4left":"-8s Crippling Fear Cooldown",
                 "t4right":"+12 Armor",
                 "t3left":"+50 Damage",
                 "t3right":"+30 Movement Speed",
@@ -982,10 +982,10 @@
             {
                 "t4left":"200% Spiked Carapace Damage",
                 "t4right":"+40 Movement Speed",
-                "t3left":"+15% Magic Resistance",
+                "t3left":"+40 Agility",
                 "t3right":"+120 Gold/Min",
-                "t2left":"+10 Strength",
-                "t2right":"+25 Agility",
+                "t2left":"+50 Impale Damage",
+                "t2right":"+12% Magic Resistance",
                 "t1left":"+175 Health",
                 "t1right":"+5% Spell Amplification"
             }
@@ -1001,7 +1001,7 @@
                 "t3left":"+25 Movement Speed",
                 "t3right":"+250 Health",
                 "t2left":"+8% Magic Resistance",
-                "t2right":"+40 Damage",
+                "t2right":"+50 Damage",
                 "t1left":"+100 Cast Range",
                 "t1right":"+60 Gold/Min"
             }
@@ -1018,7 +1018,7 @@
                 "t3right":"+100 Damage",
                 "t2left":"+8 Strength",
                 "t2right":"+75 Cast Range",
-                "t1left":"+15% XP Gain",
+                "t1left":"+20% XP Gain",
                 "t1right":"+60 Gold/Min"
             }
         ]
@@ -1034,7 +1034,7 @@
                 "t3right":"+25 Movement Speed",
                 "t2left":"+60 Gold/Min",
                 "t2right":"+200 Health",
-                "t1left":"+15% XP Gain",
+                "t1left":"+20% XP Gain",
                 "t1right":"-20s Respawn Time"
             }
         ]
@@ -1046,7 +1046,7 @@
             {
                 "t4left":"+8% Spell Amplification",
                 "t4right":"+60s Arcane Orb Intelligence Steal",
-                "t3left":"+250 Health",
+                "t3left":"+275 Health",
                 "t3right":"+15 Intelligence",
                 "t2left":"+20 Attack Speed",
                 "t2right":"+5 Armor",
@@ -1064,7 +1064,7 @@
                 "t4right":"+25 Agility",
                 "t3left":"+10 All Stats",
                 "t3right":"+35 Attack Speed",
-                "t2left":"+15 Movement Speed",
+                "t2left":"+20 Movement Speed",
                 "t2right":"10% Lifesteal",
                 "t1left":"+15 Damage",
                 "t1right":"+150 Health"
@@ -1083,7 +1083,7 @@
                 "t2left":"15% Cooldown Reduction",
                 "t2right":"+8 All Stats",
                 "t1left":"+20 Attack Speed",
-                "t1right":"+150 Health"
+                "t1right":"+75 Spirit Lance Damage"
             }
         ]
     },
@@ -1096,8 +1096,8 @@
                 "t4right":"+2 Supernova Hit Count",
                 "t3left":"+8% Spell Amplification",
                 "t3right":"+10 Armor",
-                "t2left":"+90 Gold/Min",
-                "t2right":"+12 Strength",
+                "t2left":"+150 Gold/Min",
+                "t2right":"+65 Fire Spirits DPS",
                 "t1left":"+175 Health",
                 "t1right":"-20s Respawn Time"
             }
@@ -1110,11 +1110,11 @@
             {
                 "t4left":"+75% Illusory Orb Distance/Speed",
                 "t4right":"+300 Gold/Min",
-                "t3left":"+20% Magic Resistance",
-                "t3right":"+8% Spell Amplification",
-                "t2left":"+20 Movement Speed",
+                "t3left":"-3s Waning Rift Cooldown",
+                "t3right":"+10% Spell Amplification",
+                "t2left":"+15% Magic Resistance",
                 "t2right":"+40 Damage",
-                "t1left":"+150 Health",
+                "t1left":"+175 Health",
                 "t1right":"+8 Intelligence"
             }
         ]
@@ -1126,7 +1126,7 @@
             {
                 "t4left":"+120 Rot Damage",
                 "t4right":"+1.75 Flesh Heap Stack Strength",
-                "t3left":"-35s Respawn Time",
+                "t3left":"-40s Respawn Time",
                 "t3right":"+150 Gold/Min",
                 "t2left":"+15 Movement Speed",
                 "t2right":"+5 Armor",
@@ -1140,13 +1140,13 @@
         "id":"47",
         "talents":[
             {
-                "t4left":"+100 Nether Blast Damage",
+                "t4left":"+150 Nether Blast Damage",
                 "t4right":"+50% Life Drain Heal",
-                "t3left":"+100 Cast Range",
-                "t3right":"+10 All Stats",
-                "t2left":"+10 Strength",
-                "t2right":"-25s Respawn Time",
-                "t1left":"+150 Health",
+                "t3left":"+150 Cast Range",
+                "t3right":"+0.5 Netherward Damage Per Mana",
+                "t2left":"-1s Netherblast Cooldown",
+                "t2right":"-35s Respawn Time",
+                "t1left":"+225 Health",
                 "t1right":"+3 Mana Regen"
             }
         ]
@@ -1157,13 +1157,13 @@
         "talents":[
             {
                 "t4left":"70% Spell Lifesteal",
-                "t4right":"+35 Intelligence",
-                "t3left":"+200 Health",
+                "t4right":"Removed Shadow Strike Cooldown",
+                "t3left":"+300 Health",
                 "t3right":"+100 Attack Range",
                 "t2left":"+90 Gold/Min",
                 "t2right":"12% Cooldown Reduction",
-                "t1left":"+5 Strength",
-                "t1right":"+20 Damage"
+                "t1left":"+10 Strength",
+                "t1right":"+25 Damage"
             }
         ]
     },
@@ -1174,12 +1174,12 @@
             {
                 "t4left":"+14 Static Link Damage Steal",
                 "t4right":"+175 Attack Range",
-                "t3left":"+30 Attack Speed",
-                "t3right":"+250 Health",
-                "t2left":"+150 Cast Range",
-                "t2right":"+5 Armor",
-                "t1left":"+10 Agility",
-                "t1right":"+15 Movement Speed"
+                "t3left":"+40 Attack Speed",
+                "t3right":"+400Health",
+                "t2left":"+175 Cast Range",
+                "t2right":"+130 Unstable Current Damage",
+                "t1left":"+15 Agility",
+                "t1right":"+25 Movement Speed"
             }
         ]
     },
@@ -1192,7 +1192,7 @@
                 "t4right":"+0.4 Backstab Multiplier",
                 "t3left":"+8 All Stats",
                 "t3right":"+250 Cast Range",
-                "t2left":"+20% XP Gain",
+                "t2left":"+30% XP Gain",
                 "t2right":"+10 Agility",
                 "t1left":"+15 Movement Speed",
                 "t1right":"+150 Health"
@@ -1210,7 +1210,7 @@
                 "t3right":"+75 Cast Range",
                 "t2left":"+15 Intelligence",
                 "t2right":"+150 Health",
-                "t1left":"+50 Damage",
+                "t1left":"+60 Damage",
                 "t1right":"+60 Gold/Min"
             }
         ]
@@ -1224,10 +1224,10 @@
                 "t4right":"+50 Health Regen",
                 "t3left":"+120 Gold/Min",
                 "t3right":"+350 Health",
-                "t2left":"+15 Movement Speed",
-                "t2right":"+12% Magic Resistance",
+                "t2left":"-30s Respawn Time",
+                "t2right":"+50 Sand Storm DPS",
                 "t1left":"+5 Armor",
-                "t1right":"+200 Mana"
+                "t1right":"+10% Magic Resistance"
             }
         ]
     },
@@ -1236,7 +1236,7 @@
         "id":"79",
         "talents":[
             {
-                "t4left":"-1s Shadow Poison Cooldown",
+                "t4left":"-6s Soul Catcher Cooldown",
                 "t4right":"+400 Demonic Purge Damage",
                 "t3left":"-25s Respawn Time",
                 "t3right":"+10% Magic Resistance",
@@ -1252,10 +1252,10 @@
         "id":"11",
         "talents":[
             {
-                "t4left":"-7s Shadow Raze Cooldown",
+                "t4left":"+125 Shadow Raze Damage",
                 "t4right":"+150 Attack Range",
                 "t3left":"+2 Damage Per Soul",
-                "t3right":"15% Evasion",
+                "t3right":"15% Lifesteal",
                 "t2left":"+175 Health",
                 "t2right":"+6% Spell Amplification",
                 "t1left":"+20 Attack Speed",
@@ -1268,14 +1268,14 @@
         "id":"27",
         "talents":[
             {
-                "t4left":"+3s Shackles Duration",
+                "t4left":"+350 Ether Shock Damage",
                 "t4right":"+1 Serpent Wards Health",
-                "t3left":"+20% Magic Resistance",
+                "t3left":"+3s Shackles Duration",
                 "t3right":"-30s Respawn Time",
-                "t2left":"+20% XP Gain",
+                "t2left":"+35% XP Gain",
                 "t2right":"+100 Cast Range",
-                "t1left":"+15 Movement Speed",
-                "t1right":"+150 Health"
+                "t1left":"+25 Movement Speed",
+                "t1right":"+200 Health"
             }
         ]
     },
@@ -1284,7 +1284,7 @@
         "id":"75",
         "talents":[
             {
-                "t4left":"+20% Curse Slow",
+                "t4left":"+25% Curse Slow",
                 "t4right":"+200 Attack Range",
                 "t3left":"+12% Magic Resistance",
                 "t3right":"+30 Attack Speed",
@@ -1304,10 +1304,10 @@
                 "t4right":"+14 Mana Regen",
                 "t3left":"+15% Magic Resistance",
                 "t3right":"+20 Movement Speed",
-                "t2left":"+60 Gold/Min",
-                "t2right":"+50 Damage",
+                "t2left":"+90 Gold/Min",
+                "t2right":"+75 Damage",
                 "t1left":"+7 Intelligence",
-                "t1right":"+125 Health"
+                "t1right":"+150 Health"
             }
         ]
     },
@@ -1321,7 +1321,7 @@
                 "t3left":"+7 Armor",
                 "t3right":"+35 Damage",
                 "t2left":"+25 Attack Speed",
-                "t2right":"+200 Health",
+                "t2right":"+225 Health",
                 "t1left":"+175 Mana",
                 "t1right":"+6 Health Regen"
             }
@@ -1335,8 +1335,8 @@
                 "t4left":"+3s Pounce Leash",
                 "t4right":"+12 All Stats",
                 "t3left":"+25 Attack Speed",
-                "t3right":"+250 Health",
-                "t2left":"+10 Strength",
+                "t3right":"+10% Cooldown Reduction",
+                "t2left":"+15 Strength",
                 "t2right":"+15 Agility",
                 "t1left":"+15 Damage",
                 "t1right":"10% Lifesteal"
@@ -1355,7 +1355,7 @@
                 "t2left":"+200 Health",
                 "t2right":"+20 Shrapnel DPS",
                 "t1left":"+15 Attack Speed",
-                "t1right":"+4 Mana Regen"
+                "t1right":"+5 Mana Regen"
             }
         ]
     },
@@ -1366,10 +1366,10 @@
             {
                 "t4left":"-10s Spectral Dagger Cooldown",
                 "t4right":"+400 Health",
-                "t3left":"+12 Strength",
-                "t3right":"+25 Attack Speed",
-                "t2left":"+15 Movement Speed",
-                "t2right":"+6 All Stats",
+                "t3left":"+20 Strength",
+                "t3right":"+30 Attack Speed",
+                "t2left":"+20 Movement Speed",
+                "t2right":"+8 All Stats",
                 "t1left":"+5 Armor",
                 "t1right":"+20 Damage"
             }
@@ -1386,7 +1386,7 @@
                 "t3right":"+120 Gold/Min",
                 "t2left":"+5 Armor",
                 "t2right":"+20 Damage",
-                "t1left":"+15 Movement Speed",
+                "t1left":"+20 Movement Speed",
                 "t1right":"+5 All Stats"
             }
         ]
@@ -1398,10 +1398,10 @@
             {
                 "t4left":"+0.75s Electric Vortex",
                 "t4right":"+10% Spell Amplification",
-                "t3left":"+7 Armor",
+                "t3left":"+8 Armor",
                 "t3right":"+40 Attack Speed",
                 "t2left":"+10 Intelligence",
-                "t2right":"+175 Health",
+                "t2right":"+200 Health",
                 "t1left":"+3 Mana Regen",
                 "t1right":"+20 Damage"
             }
@@ -1412,13 +1412,13 @@
         "id":"18",
         "talents":[
             {
-                "t4left":"-5s Storm Hammer Cooldown",
+                "t4left":"-8s Storm Hammer Cooldown",
                 "t4right":"+65 Damage",
-                "t3left":"15% Evasion",
+                "t3left":"20% Evasion",
                 "t3right":"+30 Attack Speed",
-                "t2left":"+6 All Stats",
-                "t2right":"+15 Movement Speed",
-                "t1left":"+200 Mana",
+                "t2left":"+8 All Stats",
+                "t2right":"+20 Movement Speed",
+                "t1left":"+225 Mana",
                 "t1right":"+6 Strength"
             }
         ]
@@ -1428,12 +1428,12 @@
         "id":"105",
         "talents":[
             {
-                "t4left":"+400 Blast Off Damage",
-                "t4right":"25% Cooldown Reduction",
-                "t3left":"-60s Respawn Time",
+                "t4left":"-60s Respawn Time",
+                "t4right":"20% Cooldown Reduction",
+                "t3left":"+400 Blast Off Damage",
                 "t3right":"+120 Gold/Min",
                 "t2left":"+200 Cast Range",
-                "t2right":"+25% XP Gain",
+                "t2right":"+30% XP Gain",
                 "t1left":"+2 Mana Regen",
                 "t1right":"+20 Movement Speed"
             }
@@ -1447,10 +1447,10 @@
                 "t4left":"+3 Refraction Instances",
                 "t4right":"-30s Respawn Time",
                 "t3left":"+40 Damage",
-                "t3right":"+250 Health",
+                "t3right":"+275 Health",
                 "t2left":"12% Evasion",
                 "t2right":"+6 All Stats",
-                "t1left":"+15 Movement Speed",
+                "t1left":"+20 Movement Speed",
                 "t1right":"+25 Attack Speed"
             }
         ]
@@ -1462,9 +1462,9 @@
             {
                 "t4left":"-30s Sunder Cooldown",
                 "t4right":"+15 All Stats",
-                "t3left":"+15 Movement Speed",
+                "t3left":"+25 Movement Speed",
                 "t3right":"+15 Agility",
-                "t2left":"+175 Health",
+                "t2left":"+200 Health",
                 "t2right":"+25 Damage",
                 "t1left":"+15 Attack Speed",
                 "t1right":"+6 Health Regen"
@@ -1494,11 +1494,11 @@
             {
                 "t4left":"+20 Strength",
                 "t4right":"+6% Whirling Death Attribute Reduction",
-                "t3left":"+125 Cast Range",
+                "t3left":"+150 Cast Range",
                 "t3right":"+5% Spell Amplification",
-                "t2left":"+15 Intelligence",
+                "t2left":"+20 Intelligence",
                 "t2right":"+14 Health Regen",
-                "t1left":"+10% XP Gain",
+                "t1left":"+20% XP Gain",
                 "t1right":"+150 Health"
             }
         ]
@@ -1513,8 +1513,8 @@
                 "t3left":"+15% Magic Resistance",
                 "t3right":"+75 Cast Range",
                 "t2left":"+4% Spell Amplification",
-                "t2right":"+200 Health",
-                "t1left":"+5 Armor",
+                "t2right":"+225 Health",
+                "t1left":"+6 Armor",
                 "t1right":"+8 Intelligence"
             }
         ]
@@ -1528,9 +1528,9 @@
                 "t4right":"20% Cooldown Reduction",
                 "t3left":"+14 Mana Regen",
                 "t3right":"+25 Attack Speed",
-                "t2left":"+15 Movement Speed",
-                "t2right":"+45 Damage",
-                "t1left":"+10 Intelligence",
+                "t2left":"+35 Movement Speed",
+                "t2right":"+60 Damage",
+                "t1left":"+12 Intelligence",
                 "t1right":"+6 Strength"
             }
         ]
@@ -1541,8 +1541,8 @@
         "talents":[
             {
                 "t4left":"+5 Living Armor Block Instances",
-                "t4right":"+20% 2s Bash",
-                "t3left":"+65 Damage",
+                "t4right":"-50s Respawn Time",
+                "t3left":"+90 Damage",
                 "t3right":"15% Cooldown Reduction",
                 "t2left":"+25 Movement Speed",
                 "t2right":"+90 Gold/Min",
@@ -1559,11 +1559,11 @@
                 "t4left":"-7s Whirling Axes Cooldown",
                 "t4right":"+20% Magic Resistance",
                 "t3left":"+40 Damage",
-                "t3right":"+300 Health",
+                "t3right":"+350 Health",
                 "t2left":"+6 Armor",
                 "t2right":"+15 Movement Speed",
                 "t1left":"+10 Agility",
-                "t1right":"+6 Strength"
+                "t1right":"+7 Strength"
             }
         ]
     },
@@ -1573,13 +1573,13 @@
         "talents":[
             {
                 "t4left":"+150% Walrus Punch Crit",
-                "t4right":"+500 Health",
-                "t3left":"+10% Magic Resistance",
+                "t4right":"+700 Health",
+                "t3left":"+12% Magic Resistance",
                 "t3right":"+6 Armor",
                 "t2left":"+90 Gold/Min",
-                "t2right":"+15 Strength",
-                "t1left":"+30 Damage",
-                "t1right":"+20% XP Gain"
+                "t2right":"+150 Snowball Damage",
+                "t1left":"+35 Damage",
+                "t1right":"+40% XP Gain"
             }
         ]
     },
@@ -1590,12 +1590,12 @@
             {
                 "t4left":"+0.4s Pit of Malice Root",
                 "t4right":"+50 Health Regen",
-                "t3left":"+100 Cast Range",
-                "t3right":"+50 Attack Speed",
-                "t2left":"+10% Spell Amplification",
-                "t2right":"+200 Health",
+                "t3left":"+125 Cast Range",
+                "t3right":"+60 Attack Speed",
+                "t2left":"+12% Spell Amplification",
+                "t2right":"+40 Movement Speed",
                 "t1left":"+2 Mana Regen",
-                "t1right":"+4 Armor"
+                "t1right":"+5 Armor"
             }
         ]
     },
@@ -1604,12 +1604,12 @@
         "id":"85",
         "talents":[
             {
-                "t4left":"+40 Tombstone Zombie Damage",
-                "t4right":"+12 Armor",
-                "t3left":"+20 Movement Speed",
-                "t3right":"+10 All Stats",
+                "t4left":"-2s Decay Cooldown",
+                "t4right":"+15 Armor",
+                "t3left":"+30 Movement Speed",
+                "t3right":"+50 Tombstone Zombie Damage",
                 "t2left":"+300 Health",
-                "t2right":"+30% XP Gain",
+                "t2right":"+35% XP Gain",
                 "t1left":"+90 Gold/Min",
                 "t1right":"-30s Respawn Time"
             }
@@ -1626,7 +1626,7 @@
                 "t3right":"+15 Movement Speed",
                 "t2left":"+20 Attack Speed",
                 "t2right":"+5 Armor",
-                "t1left":"+8% Magic Resistance",
+                "t1left":"+10% Magic Resistance",
                 "t1right":"+25 Damage"
             }
         ]
@@ -1638,8 +1638,8 @@
             {
                 "t4left":"Magic Missile Pierces Spell Immunity",
                 "t4right":"+20% Vengeance Aura Damage",
-                "t3left":"+20 Movement Speed",
-                "t3right":"+50 Damage",
+                "t3left":"+35 Movement Speed",
+                "t3right":"+65 Damage",
                 "t2left":"+100 Magic Missile Damage",
                 "t2right":"+8 All Stats",
                 "t1left":"+25 Attack Speed",
@@ -1657,9 +1657,9 @@
                 "t3left":"+15% Magic Resistance",
                 "t3right":"+75 Damage",
                 "t2left":"+150 Cast Range",
-                "t2right":"+175 Health",
-                "t1left":"+20 Movement Speed",
-                "t1right":"+20% XP Gain"
+                "t2right":"+200 Health",
+                "t1left":"+30 Movement Speed",
+                "t1right":"+30% XP Gain"
             }
         ]
     },
@@ -1669,12 +1669,12 @@
         "talents":[
             {
                 "t4left":"+80 Viper Strike DPS",
-                "t4right":"Poison Attack Affects Buildings",
+                "t4right":"+20 Armor",
                 "t3left":"+75 Attack Range",
-                "t3right":"+7 Armor",
-                "t2left":"+14 Agility",
-                "t2right":"+7 Strength",
-                "t1left":"+125 Health",
+                "t3right":"Poison Attack Affects Buildings",
+                "t2left":"+16 Agility",
+                "t2right":"+10 Strength",
+                "t1left":"+175 Health",
                 "t1right":"+15 Damage"
             }
         ]
@@ -1686,12 +1686,12 @@
             {
                 "t4left":"+120 Familiars Movement Speed",
                 "t4right":"+20% Spell Amplification",
-                "t3left":"-30s Respawn Time",
-                "t3right":"+250 Health",
+                "t3left":"-40s Respawn Time",
+                "t3right":"+300 Health",
                 "t2left":"+100 Cast Range",
                 "t2right":"+50 Damage",
-                "t1left":"+15% XP Gain",
-                "t1right":"+60 Gold/Min"
+                "t1left":"+30% XP Gain",
+                "t1right":"+90 Gold/Min"
             }
         ]
     },
@@ -1704,10 +1704,10 @@
                 "t4right":"Spell Immunity for Chaotic Offering Golems",
                 "t3left":"-30s Respawn Time",
                 "t3right":"+350 Health",
-                "t2left":"+20 Movement Speed",
-                "t2right":"+125 Cast Range",
+                "t2left":"-4s Shadow Word Cooldown",
+                "t2right":"+150 Cast Range",
                 "t1left":"+6 All Stats",
-                "t1right":"+15% XP Gain"
+                "t1right":"+20% XP Gain"
             }
         ]
     },
@@ -1717,7 +1717,7 @@
         "talents":[
             {
                 "t4left":"+200 Shukuchi Movement Speed",
-                "t4right":"+20% Magic Resistance",
+                "t4right":"+35% Magic Resistance",
                 "t3left":"+15 Agility",
                 "t3right":"+200 Health",
                 "t2left":"+7 All Stats",
@@ -1732,14 +1732,14 @@
         "id":"21",
         "talents":[
             {
-                "t4left":"-5s Powershot Cooldown",
+                "t4left":"-7s Powershot Cooldown",
                 "t4right":"+100 Attack Range",
-                "t3left":"+12% Magic Resistance",
-                "t3right":"+12% Spell Amplification",
-                "t2left":"+13 Intelligence",
-                "t2right":"+150 Health",
+                "t3left":"+20% Magic Resistance",
+                "t3right":"+15% Spell Amplification",
+                "t2left":"+20 Intelligence",
+                "t2right":"+40 Movement Speed",
                 "t1left":"+4 Mana Regen",
-                "t1right":"+15 Damage"
+                "t1right":"+30% Windrun Slow"
             }
         ]
     },
@@ -1752,9 +1752,9 @@
                 "t4right":"+15% Arctic Burn Slow",
                 "t3left":"-35s Respawn Time",
                 "t3right":"+120 Gold/Min",
-                "t2left":"+40 Damage",
-                "t2right":"+15 Movement Speed",
-                "t1left":"+5 Strength",
+                "t2left":"+50 Damage",
+                "t2right":"+20 Movement Speed",
+                "t1left":"+7 Strength",
                 "t1right":"+8 Intelligence"
             }
         ]
@@ -1765,12 +1765,12 @@
         "talents":[
             {
                 "t4left":"+20 Voodoo Restoration Heal",
-                "t4right":"+150 Death Ward Attack Range",
+                "t4right":"+175 Death Ward Attack Range",
                 "t3left":"+15% Magic Resistance",
                 "t3right":"+8 Armor",
-                "t2left":"-35s Respawn Time",
-                "t2right":"+75 Damage",
-                "t1left":"+20% XP Gain",
+                "t2left":"-40s Respawn Time",
+                "t2right":"+90 Damage",
+                "t1left":"+25% XP Gain",
                 "t1right":"+200 Health"
             }
         ]
@@ -1784,9 +1784,9 @@
                 "t4right":"No Reincarnation mana cost",
                 "t3left":"+20 Strength",
                 "t3right":"+40 Attack Speed",
-                "t2left":"+200 Health",
+                "t2left":"+50 Wraithfire Blast DPS",
                 "t2right":"+15 Movement Speed",
-                "t1left":"+8 Intelligence",
+                "t1left":"+10 Intelligence",
                 "t1right":"+15 Damage"
             }
         ]
@@ -1796,13 +1796,13 @@
         "id":"22",
         "talents":[
             {
-                "t4left":"+1.5% Static Field Damage",
+                "t4left":"+2% Static Field Damage",
                 "t4right":"+200 Cast Range",
-                "t3left":"-35 Respawn Time",
-                "t3right":"+30 Movement Speed",
-                "t2left":"+10% Magic Resistance",
-                "t2right":"+5 Armor",
-                "t1left":"+150 Health",
+                "t3left":"-40s Respawn Time",
+                "t3right":"+75 Arc Lightning Damage",
+                "t2left":"+15% Magic Resistance",
+                "t2right":"+7 Armor",
+                "t1left":"+25 Movement Speed",
                 "t1right":"+2 Mana Regen"
             }
         ]

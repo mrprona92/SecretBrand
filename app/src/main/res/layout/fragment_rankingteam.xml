@@ -57,6 +57,15 @@
                     android:text="@string/quiz_high_score_title_score" />
             </LinearLayout>
 
+            <LinearLayout
+                style="@style/Layout.FillWidthHeight.Weight.VerticalCenter"
+                android:layout_weight="1.2">
+
+                <TextView
+                    style="@style/Text.Small.Dark"
+                    android:gravity="center"
+                    android:text="@string/quiz_ranking_change_status" />
+            </LinearLayout>
 
         </LinearLayout>
 
@@ -70,7 +79,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/rlHeader"
-        tools:listitem="@layout/rankingplayer_row" />
+        tools:listitem="@layout/rankingteam_row" />
 
 
 </RelativeLayout>

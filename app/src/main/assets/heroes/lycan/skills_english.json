@@ -47,7 +47,7 @@
         "desc": "Lycan assumes his lupine form, granting him critical strikes and added vision at night.  During Shapeshift, Lycan and all units under his control move at increased speed and cannot be slowed.",
         "notes": "Hex doesn\u0027t remove Lycan\u0027s movement speed.<br/>Lycan has a smaller collision size in this state.",
         "dmg": "",
-        "attrib": "DURATION: <b><font color=\"#ffffff\">18/18/18</font></b><br/>SHAPESHIFT MOVE SPEED: <b><font color=\"#ffffff\">650</font></b><br/>BONUS NIGHT VISION: <b><font color=\"#ffffff\">1000</font></b><br/>CRITICAL CHANCE: <b><font color=\"#ffffff\">30%/30%/30%</font></b><br/>CRITICAL DAMAGE: <b><font color=\"#ffffff\">170%/170%/170%</font></b><br/>TRANSFORM TIME: <b><font color=\"#ffffff\">1.5</font></b>",
+        "attrib": "DURATION: <b><font color=\"#ffffff\">18/18/18</font></b><br/>SHAPESHIFT MOVE SPEED: <b><font color=\"#ffffff\">650</font></b><br/>BONUS NIGHT VISION: <b><font color=\"#ffffff\">1000</font></b><br/>CRITICAL CHANCE: <b><font color=\"#ffffff\">30%/30%/30%</font></b><br/>CRITICAL DAMAGE: <b><font color=\"#ffffff\">160/180/200%</font></b><br/>TRANSFORM TIME: <b><font color=\"#ffffff\">1.5</font></b>",
         "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 100/100/100<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 120/90/60",
         "lore": "Forever a slave to his lycanthropy, Banehallow has come to accept his curse, and embrace his own savagery.",
         "hurl": "Lycan",

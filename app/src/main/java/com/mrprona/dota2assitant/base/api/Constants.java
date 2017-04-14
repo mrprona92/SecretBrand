@@ -14,10 +14,10 @@ public interface Constants {
     String GITHUB_UPDATE_URL = "https://github.com/mrprona92/SecretBrand/blob/master/updates.json?raw=true";
     String GOSUGAMER_RANKINGTEAM= "http://www.gosugamers.net/dota2/rankings";
 
-    String RANKINGTEAM0= "http://www.dota2.com/leaderboards/#americas";
-    String RANKINGTEAM1= "http://www.dota2.com/leaderboards/#europe";
-    String RANKINGTEAM2= "http://www.dota2.com/leaderboards/#se_asia";
-    String RANKINGTEAM3= "http://www.dota2.com/leaderboards/#china";
+    String RANKINGTEAM0= "http://www.gosugamers.net/dota2/leaderboards/leaderboard?division=0";
+    String RANKINGTEAM1= "http://www.gosugamers.net/dota2/leaderboards/leaderboard?division=1";
+    String RANKINGTEAM2= "http://www.gosugamers.net/dota2/leaderboards/leaderboard?division=2";
+    String RANKINGTEAM3= "http://www.gosugamers.net/dota2/leaderboards/leaderboard?division=3";
 
     interface History {
         String SUBURL = STEAM_API_URL + "GetMatchHistory/V001/?key=";
