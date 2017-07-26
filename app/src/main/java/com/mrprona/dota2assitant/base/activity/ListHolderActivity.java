@@ -446,18 +446,21 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
     //Tab Change
+    @Nullable
     @OnClick(R.id.tabHero)
     public void onClickTabHero() {
         clearBackStack();
         openScreen(ScreenIDs.ScreenTab.LIVE, TrackdotaMain.class, null, true, false);
     }
 
+    @Nullable
     @OnClick(R.id.tabConterPick)
     public void onClickTabCounterPick() {
         clearBackStack();
         openScreen(ScreenIDs.ScreenTab.COUNTERPICK, CounterPickFilter.class, null, true, false);
     }
 
+    @Nullable
     @OnClick(R.id.tabQuiz)
     public void onClickTabQuiz() {
         clearBackStack();

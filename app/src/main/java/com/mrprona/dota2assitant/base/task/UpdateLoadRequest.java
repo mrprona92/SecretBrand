@@ -3,7 +3,6 @@ package com.mrprona.dota2assitant.base.task;
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.database.sqlite.SQLiteDatabase;
-import android.util.Log;
 
 import com.mrprona.dota2assitant.BeanContainer;
 import com.mrprona.dota2assitant.base.dao.DatabaseManager;

@@ -15,8 +15,8 @@ android {
         applicationId "com.prodo.dotaassitant"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 787
-        versionName "1.0.6"
+        versionCode 788
+        versionName "1.0.7"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true
     }
@@ -89,5 +89,6 @@ dependencies {
     compile 'org.parceler:parceler-api:1.0.2'
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'com.squareup.okhttp3:okhttp:3.6.0'
+    compile 'me.zhanghai.android.materialprogressbar:library:1.4.1'
 }
 apply plugin: 'com.google.gms.google-services'

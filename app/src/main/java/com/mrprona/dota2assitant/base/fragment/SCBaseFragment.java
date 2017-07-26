@@ -214,4 +214,8 @@ public abstract class SCBaseFragment extends Fragment {
         }
     }
 
+    public boolean isStillActive() {
+        return (getActivity() == null || getView() == null || isDetached() || getContext() == null) ? false : true;
+    }
+
 }

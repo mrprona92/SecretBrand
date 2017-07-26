@@ -106,7 +106,12 @@
         <item name="textSize">@dimen/text_normal</item>
     </style>
 
-
-
+    <style name="CellDividerGrey">
+        <item name="android:background">@color/bright_500</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:alpha">0.3</item>
+    </style>
 
 </resources>

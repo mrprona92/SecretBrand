@@ -7,7 +7,6 @@ import android.widget.Toast;
 
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
-import com.mrprona.dota2assitant.base.activity.LoaderActivity;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.UncachedSpiceService;
 import com.octo.android.robospice.persistence.exception.SpiceException;

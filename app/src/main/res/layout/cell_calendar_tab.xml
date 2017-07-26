@@ -1,0 +1,46 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/calendar_tab_holder"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <View
+        android:background="@drawable/round_black"
+        android:id="@+id/calendar_tab_inner"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:scaleX="0.0"
+        android:scaleY="0.0" />
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp">
+
+        <com.mrprona.dota2assitant.joindota.customview.DinTextView
+            android:gravity="center"
+            android:id="@+id/calendar_tab_day"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="6dp"
+            android:layout_width="wrap_content"
+            android:maxLines="1"
+            android:textAllCaps="true"
+            android:textColor="@color/bright_700"
+            android:textSize="9sp" />
+
+        <com.mrprona.dota2assitant.joindota.customview.DinTextView
+            android:gravity="center"
+            android:id="@+id/calendar_tab_date"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_width="wrap_content"
+            android:maxLines="1"
+            android:textAllCaps="true"
+            android:textColor="@color/bright_700"
+            android:textSize="13sp" />
+    </LinearLayout>
+</RelativeLayout>

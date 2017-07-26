@@ -5,6 +5,14 @@ package com.mrprona.dota2assitant.base.api;
  * Date: 28.08.13
  * Time: 15:35
  */
+
+import android.support.v4.view.animation.FastOutLinearInInterpolator;
+import android.support.v4.view.animation.FastOutSlowInInterpolator;
+import android.support.v4.view.animation.LinearOutSlowInInterpolator;
+import android.view.animation.AccelerateInterpolator;
+import android.view.animation.DecelerateInterpolator;
+import android.view.animation.Interpolator;
+
 public interface Constants {
     boolean INITIALIZATION = false;
     int MILLIS_FOR_EXIT = 2000;
@@ -126,5 +134,49 @@ public interface Constants {
     //чье-то api для будущих матчей - http://dota2matches.pp.ua/index.php/api/matches/get
     //stickylistHeadersListView  SectionIndexerAdapterWrapper
     //http://www.joindota.com/en/matches
+
+
+    public static final float ALPHA_HIGH = 0.75f;
+    public static final float ALPHA_LOW = 0.25f;
+    public static final float ALPHA_MAX = 1.0f;
+    public static final float ALPHA_MID = 0.5f;
+    public static final boolean ANALYTICS_LOGGING = true;
+    public static final long ANIMATION_DURATION_IN = 225;
+    public static final long ANIMATION_DURATION_LONG = 300;
+    public static final long ANIMATION_DURATION_MEDIUM = 200;
+    public static final long ANIMATION_DURATION_OUT = 195;
+    public static final long ANIMATION_DURATION_SHORT = 100;
+    public static final long ANIMATION_DURATION_VERY_LONG = 500;
+    public static final long ANIMATION_DURATION_VERY_SHORT = 50;
+
+    public static final long ANIMATION_TIMEOUT_DEFAULT = 2000;
+    public static boolean BRACKETS_ANIMATIONS_ENABLED = false;
+    public static boolean BRACKETS_RESIZING_ENABLED = false;
+    public static final boolean CLOUDINARY_LOGGING = false;
+    public static String COLOR_BRIGHT_700 = null;
+    public static String COLOR_DARK_300 = null;
+    public static final long DELAY_POLLING = 30000;
+    public static final boolean EXCESSIVE_LOGGING = false;
+    public static final boolean EXPERIMENTAL_ANIMATIONS_ON = false;
+    public static final long NOTIFYDATASETCHANGED_DELAY = 100;
+    public static final float PARALLAX_MULTIPLIER = 1.3f;
+    public static final int PASSWORD_MINIMUM_CHARS = 3;
+    public static final int SCROLL_THRESHOLD_MINIMUM = 3;
+    public static final String SHORTCUT_DISCOVER = "com.strafe.android.SHORTCUT_DISCOVER";
+    public static final String SHORTCUT_FEED = "com.strafe.android.SHORTCUT_FEED";
+    public static final String SHORTCUT_PROFILE = "com.strafe.android.SHORTCUT_PROFILE";
+    public static final String SHORTCUT_TODAY = "com.strafe.android.SHORTCUT_TODAY";
+    public static final boolean SHOW_USER_PRINT = false;
+    public static final int TOOLTIP_FEED_LANGUAGE_SETTINGS = 2502;
+    public static final int TOOLTIP_LIVE_MATCHES = 2500;
+    public static final int TOOLTIP_LIVE_MATCHES_EMPTY = 2501;
+    public static final int TOOLTIP_MATCH_NOTIFICATIONS = 1;
+    public static final boolean TRACKING_SESSION = false;
+    public static final boolean TWITCH_ENABLED = false;
+    public static final boolean WEAK_REFERENCE_LOGGING = false;
+
+
+
+
 }
 
