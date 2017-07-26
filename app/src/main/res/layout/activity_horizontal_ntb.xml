@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/main_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/hero_background"
     android:orientation="vertical">
 
     <LinearLayout
@@ -16,7 +16,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
+            android:background="#423752"
             support:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             support:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
@@ -30,8 +30,8 @@
                 android:layout_centerVertical="true"
                 android:layout_gravity="left"
                 android:background="?attr/selectableItemBackgroundBorderless"
-                android:visibility="gone"
-                android:src="@mipmap/btn_back" />
+                android:src="@mipmap/btn_back"
+                android:visibility="gone" />
 
             <TextView
                 android:id="@+id/lblToolbarTitle"
@@ -42,22 +42,16 @@
                 android:textColor="@color/cmn_white"
                 android:textSize="@dimen/text_title" />
 
-            <Spinner
-                android:id="@+id/nav_spinner"
-                android:layout_width="35dp"
-                android:layout_height="wrap_content" />
-
-
         </android.support.v7.widget.Toolbar>
     </LinearLayout>
 
- <!--   <com.google.android.gms.ads.NativeExpressAdView
-        android:id="@+id/adView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        ads:adUnitId="ca-app-pub-1818774973864163/9287420336"
-        ads:adSize="360x320">
-    </com.google.android.gms.ads.NativeExpressAdView>-->
+    <!--   <com.google.android.gms.ads.NativeExpressAdView
+           android:id="@+id/adView"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           ads:adUnitId="ca-app-pub-1818774973864163/9287420336"
+           ads:adSize="360x320">
+       </com.google.android.gms.ads.NativeExpressAdView>-->
 
 
     <FrameLayout
@@ -70,7 +64,7 @@
         android:id="@+id/actionMenuView"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary" />
+        android:background="@color/app_purple" />
 
 
     <devlight.io.library.ntb.NavigationTabBar

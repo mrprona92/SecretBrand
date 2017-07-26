@@ -10,6 +10,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.database.sqlite.SQLiteDatabase;
+import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
@@ -81,6 +82,7 @@ import com.parser.JsonSimpleExample;
 import com.util.TypefaceUtil;
 
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -88,6 +90,7 @@ import butterknife.BindColor;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+import devlight.io.library.ntb.NavigationTabBar;
 
 //import android.support.v7.widget.ActionMenuPresenter;
 
@@ -107,30 +110,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     public static int CODE_WRITE_SETTINGS_PERMISSION = 1001;
 
-    @BindView(R.id.tabHero)
-    LinearLayout tabHero;
-
-    @BindView(R.id.tabConterPick)
-    LinearLayout tabCounterPick;
-
-    @BindView(R.id.tabQuiz)
-    LinearLayout tabQuiz;
-
-    @BindView(R.id.tabMenu)
-    LinearLayout tabMenu;
-
-    @BindView(R.id.lblTabHero)
-    TextView lblTabHero;
-
-    @BindView(R.id.lblTabCounterPick)
-    TextView lblTabCounter;
-
-    @BindView(R.id.lblTabQuiz)
-    TextView lblTabQuiz;
-
-    @BindView(R.id.lblTabMenu)
-    TextView lblTabMenu;
-
     @Nullable
     @BindView(R.id.btnBack)
     ImageView btnBack;
@@ -138,7 +117,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Nullable
     @BindView(R.id.lblToolbarTitle)
     TextView lblToolbarTitle;
-
 
     private ScreenIDs.ScreenTab mCurrentTab;
 
@@ -268,6 +246,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         navSpinner.setOnItemSelectedListener(this);
         navSpinner.setSelection(Math.min(selected, adapter.getCount() - 1));
         // navSpinner.setVisibility(View.GONE);
+
+        initUI();
 
         initControl();
 
@@ -445,116 +425,106 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     }
 
-    //Tab Change
-    @Nullable
-    @OnClick(R.id.tabHero)
-    public void onClickTabHero() {
-        clearBackStack();
-        openScreen(ScreenIDs.ScreenTab.LIVE, TrackdotaMain.class, null, true, false);
-    }
+    private void initUI() {
+        ActionBar bar = getSupportActionBar();
+        bar.setDisplayShowTitleEnabled(false);
+        bar.setDisplayShowHomeEnabled(false);
 
-    @Nullable
-    @OnClick(R.id.tabConterPick)
-    public void onClickTabCounterPick() {
-        clearBackStack();
-        openScreen(ScreenIDs.ScreenTab.COUNTERPICK, CounterPickFilter.class, null, true, false);
-    }
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+        preferences.edit().remove("mainMenuLastSelected").commit();
 
-    @Nullable
-    @OnClick(R.id.tabQuiz)
-    public void onClickTabQuiz() {
-        clearBackStack();
-        openScreen(ScreenIDs.ScreenTab.QUIZ, QuizTypeSelect.class, null, true, false);
-    }
+        final String[] colors = getResources().getStringArray(R.array.default_preview);
 
-    @OnClick(R.id.tabMenu)
-    public void onClickTabMenu() {
-        clearBackStack();
-        openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, true, false);
-    }
-
-    public void openScreen(ScreenIDs.ScreenTab tab) {
-        if (tab != mCurrentTab) {
-            setHighLightTab(tab);
-            int position = -1;
-            switch (tab) {
-                default:
-                case LIVE:
-                    mCurrentFragment = new TrackdotaMain();
-                    position = 0;
-                    break;
-                case COUNTERPICK:
-                    mCurrentFragment = new CounterPickFilter();
-                    position = 1;
-                    break;
-                case QUIZ:
-                    mCurrentFragment = new QuizTypeSelect();
-                    position = 2;
-                    break;
-                case MENU:
-                    mCurrentFragment = new MenuFragment();
-                    position = 3;
-                    break;
-                    /*
-                case 9:
-					details=new LeaguesGamesList.newInstance("&c2=7057&c1=2390");
-                    break;*/
+        final NavigationTabBar navigationTabBar = (NavigationTabBar) findViewById(R.id.ntb_horizontal);
+        final ArrayList<NavigationTabBar.Model> models = new ArrayList<>();
+        models.add(
+                new NavigationTabBar.Model.Builder(
+                        getResources().getDrawable(R.drawable.ic_tab4_menu),
+                        Color.parseColor(colors[4]))
+                        .selectedIcon(getResources().getDrawable(R.drawable.ic_tab4_menu))
+                        .title("MENU")
+                        .badgeTitle("777")
+                        .build()
+        );
+        models.add(
+                new NavigationTabBar.Model.Builder(
+                        getResources().getDrawable(R.drawable.ic_tab1_live),
+                        Color.parseColor(colors[0]))
+                        .selectedIcon(getResources().getDrawable(R.drawable.ic_tab1_live))
+                        .title("LIVE")
+                        .badgeTitle("NTB")
+                        .build()
+        );
+        models.add(
+                new NavigationTabBar.Model.Builder(
+                        getResources().getDrawable(R.drawable.ic_tab3_quiz),
+                        Color.parseColor(colors[1]))
+//                        .selectedIcon(getResources().getDrawable(R.drawable.ic_eighth))
+                        .title("QUIZ")
+                        .badgeTitle("with")
+                        .build()
+        );
+        models.add(
+                new NavigationTabBar.Model.Builder(
+                        getResources().getDrawable(R.drawable.ic_tab4_youtube),
+                        Color.parseColor(colors[2]))
+                        .selectedIcon(getResources().getDrawable(R.drawable.ic_tab4_youtube))
+                        .title("CLIP")
+                        .badgeTitle("state")
+                        .build()
+        );
+        navigationTabBar.setModels(models);
+        navigationTabBar.setOnTabBarSelectedIndexListener(new NavigationTabBar.OnTabBarSelectedIndexListener() {
+            @Override
+            public void onStartTabSelected(NavigationTabBar.Model model, int index) {
+                clearBackStack();
+                if (index == 0) {
+                    openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, true, false);
+                } else if (index == 1) {
+                    openScreen(ScreenIDs.ScreenTab.LIVE, TrackdotaMain.class, null, true, false);
+                } else if (index == 2) {
+                    openScreen(ScreenIDs.ScreenTab.QUIZ, QuizTypeSelect.class, null, true, false);
+                } else if (index == 3) {
+                    openScreen(ScreenIDs.ScreenTab.CLIP, MenuFragment.class, null, true, false);
+                }
             }
-            replaceFragment(mCurrentFragment);
-            mCurrentTab = tab;
-            lastSelected = position;
-            SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-            prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
-        }
+
+            @Override
+            public void onEndTabSelected(NavigationTabBar.Model model, int index) {
+
+            }
+        });
+
+
+        navigationTabBar.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 0; i < navigationTabBar.getModels().size(); i++) {
+                    final NavigationTabBar.Model model = navigationTabBar.getModels().get(i);
+                    navigationTabBar.postDelayed(new Runnable() {
+                        @Override
+                        public void run() {
+                            model.showBadge();
+                        }
+                    }, i * 100);
+                }
+            }
+        }, 500);
+
+
+        /*navSpinner = (Spinner) mToolbar.findViewById(R.id.nav_spinner);
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+                R.layout.spinner_item, getResources().getStringArray(R.array.main_menu));
+        adapter.setDropDownViewResource(R.layout.spinner_dropdown_item);
+        navSpinner.setAdapter(adapter);
+        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        int selected = prefs.getInt("mainMenuLastSelected", 0);
+
+        navSpinner.setOnItemSelectedListener(this);
+        navSpinner.setSelection(Math.min(selected, adapter.getCount() - 1));*/
+        // navSpinner.setVisibility(View.GONE);
     }
 
-
-    private void setHighLightTab(ScreenIDs.ScreenTab tab) {
-        android.util.Log.d(TAG, "setHighLightTab() called with: tab = [" + tab + "]");
-        tabHero.setBackgroundResource(R.color.tabbar_normal);
-        tabMenu.setBackgroundResource(R.color.tabbar_normal);
-        tabCounterPick.setBackgroundResource(R.color.tabbar_normal);
-        tabQuiz.setBackgroundResource(R.color.tabbar_normal);
-
-       /* lblTabRanking.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab_ranking, 0, 0);
-        lblTabMenu.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab_4, 0, 0);
-        lblTabTradeFeed.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab_2, 0, 0);
-        imgTradeSetting.setImageResource(R.drawable.ic_tab_3);*/
-
-        lblTabHero.setTextColor(tabNormalTextColor);
-        lblTabCounter.setTextColor(tabNormalTextColor);
-        lblTabQuiz.setTextColor(tabNormalTextColor);
-        lblTabMenu.setTextColor(tabNormalTextColor);
-
-        switch (tab) {
-            case LIVE:
-                tabHero.setBackgroundResource(R.color.tabbar_active);
-                lblTabHero.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab1_live, 0, 0);
-                lblTabHero.setTextColor(tabHighLightTextColor);
-                break;
-            case COUNTERPICK:
-                tabCounterPick.setBackgroundResource(R.color.tabbar_active);
-                lblTabCounter.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab2_counterpick, 0, 0);
-                lblTabCounter.setTextColor(tabHighLightTextColor);
-                break;
-            case QUIZ:
-                tabQuiz.setBackgroundResource(R.color.tabbar_active);
-                lblTabQuiz.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab3_quiz, 0, 0);
-                lblTabQuiz.setTextColor(tabHighLightTextColor);
-                break;
-            case MENU:
-                tabMenu.setBackgroundResource(R.color.tabbar_active);
-                lblTabMenu.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab4_menu, 0, 0);
-                lblTabMenu.setTextColor(tabHighLightTextColor);
-                break;
-            default:
-                tabHero.setBackgroundResource(R.color.tabbar_normal);
-                tabCounterPick.setBackgroundResource(R.color.tabbar_normal);
-                tabQuiz.setBackgroundResource(R.color.tabbar_normal);
-                tabMenu.setBackgroundResource(R.color.tabbar_normal);
-                break;
-        }
-    }
 
     public void onChangeFragment(int position) {
         switch (position) {
@@ -746,9 +716,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         }
 
         //btnBack.setVisibility(mFragmentManager.getBackStackEntryCount() >= 1 ? View.VISIBLE : GONE);
-
-        if (mCurrentFragment instanceof TrackdotaMain)
-            setHighLightTab(ScreenIDs.ScreenTab.LIVE);
        /* if (mCurrentFragment instanceof Coun)
             setHighLightTab(ScreenIDs.ScreenTab.RANKING);
         if (mCurrentFragment instanceof TradeSettingFragment)
@@ -765,7 +732,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         //if (tab != ScreenIDs.ScreenTab.NOT_HIGHLIGHT) clearBackStack();
         if (getBaseContext() == null) return;
 
-        setHighLightTab(tab);
         this.mCurrentTab = tab;
 
         FragmentManager manager = getSupportFragmentManager();

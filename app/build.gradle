@@ -90,5 +90,6 @@ dependencies {
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'com.squareup.okhttp3:okhttp:3.6.0'
     compile 'me.zhanghai.android.materialprogressbar:library:1.4.1'
+    compile 'devlight.io:navigationtabbar:1.2.5'
 }
 apply plugin: 'com.google.gms.google-services'
