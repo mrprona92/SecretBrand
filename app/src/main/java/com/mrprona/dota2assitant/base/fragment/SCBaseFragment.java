@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
+import com.mrprona.dota2assitant.base.configs.ScreenIDs;
 
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
@@ -218,4 +219,10 @@ public abstract class SCBaseFragment extends Fragment {
         return (getActivity() == null || getView() == null || isDetached() || getContext() == null) ? false : true;
     }
 
+
+    protected void openScreen(final ScreenIDs.ScreenTab tab, final Class<? extends SCBaseFragment> fragmentClass, final Bundle bundles, final boolean isAnimate,
+                              final boolean shouldAddToBackstack) {
+        if (mActivity != null)
+            mActivity.openScreen(tab, fragmentClass, bundles, isAnimate, shouldAddToBackstack);
+    }
 }

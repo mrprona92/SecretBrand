@@ -112,7 +112,7 @@ public class HighscoreActivity extends BaseActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        Chartboost.onResume(this);
+      //  Chartboost.onResume(this);
     }
 
 
@@ -129,16 +129,16 @@ public class HighscoreActivity extends BaseActivity {
 
 
         //TODO BINH.TH add chartboost
-        Chartboost.setActivityCallbacks(false);
+       /* Chartboost.setActivityCallbacks(false);
         Chartboost.setLoggingLevel(CBLogging.Level.ALL);
         hideSystemUI();
-        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);*/
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-        Chartboost.onStop(this);
+      //  Chartboost.onStop(this);
     }
 
     public static int getValueSelected(){

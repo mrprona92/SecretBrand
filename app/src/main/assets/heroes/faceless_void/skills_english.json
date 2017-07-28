@@ -14,17 +14,17 @@
         "id": 0
     },
     {
-        "dname": "Backtrack",
-        "affects": "ABILITY: <b><font color=\"#ffffff\">Passive</font></b>",
-        "desc": "Faceless Void dodges damage by jumping backward in time, eluding both physical and magical attacks.",
-        "notes": "Abilities that grant True Strike don\u0027t work against Backtrack.",
+        "dname": "Time Dilation",
+        "affects": "ABILITY: <b><font color=\"#ffffff\">No Target</font></b>",
+        "desc": "Faceless Void traps all nearby enemies in a time dilation field, freezing their cooldowns and slowing their movement and attack speed by 14% for each cooldown frozen.",
+        "notes": "Time Dilation Slow: Dispellable with any dispel.",
         "dmg": "",
-        "attrib": "DODGE CHANCE: <b><font color=\"#ffffff\">10%/15%/20%/25%</font></b>",
-        "cmb": "",
-        "lore": "Darkterror sees what has yet to be seen.",
+        "attrib": "Cast Animation <b><font color=\"#ffffff\">0.1+0.77</font></b>Radius <b><font color=\"#ffffff\">725</font></b>Slow per Cooldown <b><font color=\"#ffffff\">14%</font></b>Duration <b><font color=\"#ffffff\">6/8/10/12</font></b>",
+        "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 75<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 40/34/28/22",
+        "lore": "Time Dilation sees what has yet to be seen.",
         "hurl": "Faceless_Void",
         "name": "faceless_void_backtrack",
-        "youtube":"CUVqXuRDxOc",
+        "youtube":"mYvGLC_99GE",
         "id": 1
     },
     {

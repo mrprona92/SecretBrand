@@ -113,27 +113,27 @@ public class HeroInfoActivity extends BaseActivity {
     @Override
     public void onPause() {
         super.onPause();
-        Chartboost.onPause(this);
+       // Chartboost.onPause(this);
     }
 
     @Override
     public void onResume() {
         super.onResume();
         hideSystemUI();
-        Chartboost.onResume(this);
+        //Chartboost.onResume(this);
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        Chartboost.onStop(this);
+        //Chartboost.onStop(this);
     }
 
 
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Chartboost.onDestroy(this);
+        //Chartboost.onDestroy(this);
     }
 
 }

@@ -16,6 +16,7 @@ import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.mrprona.dota2assitant.base.fragment.SCBaseFragment;
 import com.mrprona.dota2assitant.base.menu.adapter.DHMenuAdapter;
+import com.mrprona.dota2assitant.base.menu.adapter.DividerItemDecoration;
 
 import java.lang.ref.WeakReference;
 
@@ -60,6 +61,7 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
             mUnbinder = ButterKnife.bind(this, mView);
         }
         DHMenuAdapter adapterMenu = new DHMenuAdapter(getContext());
+        mRecyclerMenu.addItemDecoration(new DividerItemDecoration(mActivity, LinearLayoutManager.VERTICAL));
         mRecyclerMenu.setAdapter(adapterMenu);
         adapterMenu.setOnItemClickListener(this);
         mRecyclerMenu.setHasFixedSize(false);

@@ -927,5 +927,5 @@ You can change your app's language selection via your settings."</string>
     <string name="user_agent">%1$s/%2$s (%3$s; Build:%4$d; Android %5$s/%6$d) %7$s</string>
     <string name="video_error_offline">Stream offline</string>
     <string name="youtube_api_key">AIzaSyBLSlR-ULc3wYA3A966-pcclwaY0SbxFYk</string>
-
+    <string name="ic_menu4_youtube_title">Stream offline</string>
 </resources>

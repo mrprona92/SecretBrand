@@ -9,7 +9,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
-import android.database.sqlite.SQLiteDatabase;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Build;
@@ -36,15 +35,15 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.chartboost.sdk.Chartboost;
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
+import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.NativeExpressAdView;
 import com.mrprona.dota2assitant.BeanContainer;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.configs.ScreenIDs;
 import com.mrprona.dota2assitant.base.dao.DatabaseManager;
-import com.mrprona.dota2assitant.base.dao.Helper;
 import com.mrprona.dota2assitant.base.dialog.SubmitBugDialog;
 import com.mrprona.dota2assitant.base.fragment.AgreementFragment;
 import com.mrprona.dota2assitant.base.fragment.ConfirmDialog;
@@ -53,14 +52,10 @@ import com.mrprona.dota2assitant.base.fragment.SCBaseFragment;
 import com.mrprona.dota2assitant.base.fragment.SearchableFragment;
 import com.mrprona.dota2assitant.base.menu.fragment.MenuFragment;
 import com.mrprona.dota2assitant.base.service.LocalSpiceService;
-import com.mrprona.dota2assitant.base.service.LocalUpdateService;
-import com.mrprona.dota2assitant.base.task.UpdateLoadRequest;
 import com.mrprona.dota2assitant.base.util.AppRater;
 import com.mrprona.dota2assitant.base.util.UpdateUtils;
 import com.mrprona.dota2assitant.cosmetic.fragment.CosmeticItemsList;
 import com.mrprona.dota2assitant.counter.fragment.CounterPickFilter;
-import com.mrprona.dota2assitant.hero.api.TalentTree;
-import com.mrprona.dota2assitant.hero.dao.HeroDao;
 import com.mrprona.dota2assitant.hero.fragment.HeroesList;
 import com.mrprona.dota2assitant.hero.service.HeroService;
 import com.mrprona.dota2assitant.item.fragment.ItemsList;
@@ -71,26 +66,23 @@ import com.mrprona.dota2assitant.quiz.activity.HighscoreActivity;
 import com.mrprona.dota2assitant.quiz.dialog.SubmitHighscoreDialog;
 import com.mrprona.dota2assitant.quiz.fragment.GameOverFragment;
 import com.mrprona.dota2assitant.quiz.fragment.QuizTypeSelect;
-import com.mrprona.dota2assitant.ranking.adapter.TeamRankingHolder;
 import com.mrprona.dota2assitant.ranking.fragment.RankingMainFragment;
-import com.mrprona.dota2assitant.ranking.fragment.TeamrankingFragment;
 import com.mrprona.dota2assitant.stream.fragment.TwitchHolder;
 import com.mrprona.dota2assitant.trackdota.fragment.TrackdotaMain;
+import com.mrprona.dota2assitant.youtube.YouTubeRecyclerPlaylistFragment;
+import com.mrprona.dota2assitant.youtube.YoutubeFragment;
 import com.octo.android.robospice.SpiceManager;
-import com.octo.android.robospice.persistence.exception.SpiceException;
-import com.parser.JsonSimpleExample;
 import com.util.TypefaceUtil;
 
-
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Map;
 
 import butterknife.BindColor;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import butterknife.OnClick;
 import devlight.io.library.ntb.NavigationTabBar;
+
+import static android.view.View.VISIBLE;
 
 //import android.support.v7.widget.ActionMenuPresenter;
 
@@ -173,7 +165,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             }
         }*/
 
-        Chartboost.onStart(this);
+        //Chartboost.onStart(this);
         super.onStart();
     }
 
@@ -181,21 +173,23 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Override
     protected void onResume() {
         super.onResume();
-        Chartboost.onResume(this);
+        //Chartboost.onResume(this);
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-        Chartboost.onStop(this);
+        //Chartboost.onStop(this);
     }
 
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Chartboost.onDestroy(this);
+        //Chartboost.onDestroy(this);
     }
+
+    NativeExpressAdView adView;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -212,11 +206,11 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
         // Initialize the Mobile Ads SDK.§
 
-        //MobileAds.initialize(this, getString(R.string.banner_ad_unit_id));
+        MobileAds.initialize(this, getString(R.string.banner_ad_unit_id));
 
 
-        Chartboost.startWithAppId(this, getString(R.string.appIDChartboost), getString(R.string.appSignature));
-        Chartboost.onCreate(this);
+       /* Chartboost.startWithAppId(this, getString(R.string.appIDChartboost), getString(R.string.appSignature));
+        Chartboost.onCreate(this);*/
 
         AppEventsLogger.activateApp(this);
 
@@ -257,13 +251,18 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
         AppRater.showRate(appContext);
 
-       /* NativeExpressAdView adView = (NativeExpressAdView)findViewById(R.id.adView);
+        adView = (NativeExpressAdView) findViewById(R.id.adView);
 
         AdRequest request = new AdRequest.Builder()
+                .addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0")
                 .build();
-        adView.loadAd(request);*/
-
+        adView.loadAd(request);
+        visiableAdview(8);
         //не нужен AppRater.onAppLaunched(this);
+    }
+
+    public void visiableAdview(int hide) {
+        adView.setVisibility(hide);
     }
 
     @Override
@@ -306,8 +305,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Override
     public void onBackPressed() {
         // If an interstitial is on screen, close it.
-        if (Chartboost.onBackPressed())
-            return;
+      /*  if (Chartboost.onBackPressed())
+            return;*/
 
         /*if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
@@ -324,8 +323,9 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         }, Constants.MILLIS_FOR_EXIT);*/
         if (mFragmentManager.getBackStackEntryCount() >= 1) {
             Log.d(TAG, "onBackPressed() called. More than 0 fragment in back stack");
-            clearBackStack();
-            openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, false, false);
+           /* clearBackStack();
+            openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, false, false);*/
+            super.onBackPressed();
             return;
         } else {
             Log.d(TAG, "onBackPressed() called. Finish()");
@@ -474,18 +474,22 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                         .build()
         );
         navigationTabBar.setModels(models);
+        navigationTabBar.setModelIndex(0);
         navigationTabBar.setOnTabBarSelectedIndexListener(new NavigationTabBar.OnTabBarSelectedIndexListener() {
             @Override
             public void onStartTabSelected(NavigationTabBar.Model model, int index) {
                 clearBackStack();
+                visiableAdview(0);
                 if (index == 0) {
+                    visiableAdview(8);
                     openScreen(ScreenIDs.ScreenTab.MENU, MenuFragment.class, null, true, false);
                 } else if (index == 1) {
                     openScreen(ScreenIDs.ScreenTab.LIVE, TrackdotaMain.class, null, true, false);
                 } else if (index == 2) {
                     openScreen(ScreenIDs.ScreenTab.QUIZ, QuizTypeSelect.class, null, true, false);
                 } else if (index == 3) {
-                    openScreen(ScreenIDs.ScreenTab.CLIP, MenuFragment.class, null, true, false);
+                    visiableAdview(8);
+                    openScreen(ScreenIDs.ScreenTab.CLIP, YoutubeFragment.class, null, true, false);
                 }
             }
 
@@ -510,7 +514,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 }
             }
         }, 500);
-
 
         /*navSpinner = (Spinner) mToolbar.findViewById(R.id.nav_spinner);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
@@ -538,10 +541,12 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 openScreen(ScreenIDs.ScreenTab.MENU, RankingMainFragment.class, null, true, true);
                 break;
             case 1:
+                visiableAdview(0);
                 openScreen(ScreenIDs.ScreenTab.MENU, HeroesList.class, null, true, true);
                 break;
             case 2:
                 //mFragmentDetails = new ItemsList();
+                visiableAdview(0);
                 openScreen(ScreenIDs.ScreenTab.MENU, ItemsList.class, null, true, true);
                 break;
             case 3:
@@ -698,11 +703,12 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     public void updateUI() {
         Log.d(TAG, "updateUI: called");
 
-        if (mCurrentFragment instanceof HeroesList) {
+        if (mCurrentFragment instanceof HeroesList ||
+                mCurrentFragment instanceof YouTubeRecyclerPlaylistFragment) {
             lblToolbarTitle.setVisibility(View.GONE);
             mActionMenuView.setVisibility(View.GONE);
         } else {
-            lblToolbarTitle.setVisibility(View.VISIBLE);
+            lblToolbarTitle.setVisibility(VISIBLE);
         }
 
         if (mCurrentFragment != null) {

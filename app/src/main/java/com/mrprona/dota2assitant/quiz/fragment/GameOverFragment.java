@@ -75,12 +75,12 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
         initListenerForButton();
         updateTextScore();
 
-        Chartboost.setActivityCallbacks(false);
+        /*Chartboost.setActivityCallbacks(false);
         Chartboost.setLoggingLevel(CBLogging.Level.ALL);
         //Chartboost.onCreate(mActivity);
         hideSystemUI();
 
-        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);*/
 
         if(score<=0||!isForRecord){
             btnSubmitScore.setEnabled(false);
@@ -264,34 +264,33 @@ public class GameOverFragment extends SCBaseFragment implements SubmitHighscoreD
     @Override
     public void onStart() {
         super.onStart();
-        hideSystemUI();
-        Chartboost.onStart(mActivity);
+        //Chartboost.onStart(mActivity);
     }
 
     @Override
     public void onPause() {
         super.onPause();
-        Chartboost.onPause(mActivity);
+      //  Chartboost.onPause(mActivity);
     }
 
     @Override
     public void onResume() {
         super.onResume();
-       hideSystemUI();
-        Chartboost.onResume(mActivity);
+      // hideSystemUI();
+        //Chartboost.onResume(mActivity);
     }
 
     @Override
     public void onStop() {
         super.onStop();
-        Chartboost.onStop(mActivity);
+       // Chartboost.onStop(mActivity);
     }
 
 
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Chartboost.onDestroy(mActivity);
+        //Chartboost.onDestroy(mActivity);
     }
 
 }

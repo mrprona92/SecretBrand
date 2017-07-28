@@ -112,12 +112,17 @@
 
         <activity
             android:name="com.util.infoparser.InfoParserActivity"
-            android:configChanges="keyboard|orientation|screenSize">
-        </activity>
+            android:configChanges="keyboard|orientation|screenSize"></activity>
 
         <activity
             android:name="com.mrprona.dota2assitant.quiz.activity.HighscoreActivity"
             android:configChanges="keyboard|orientation|screenSize" />
+
+        <activity
+            android:name=".youtube.BasicYoutubePlayerActivity"
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@style/Infodota.OverlayActionBar" />
 
         <activity
             android:name="com.chartboost.sdk.CBImpressionActivity"
@@ -158,10 +163,9 @@
             </intent-filter>
         </service>
 
-        <service
-            android:name="com.mrprona.dota2assitant.base.service.notification.MyFirebaseInstanceIDService">
+        <service android:name="com.mrprona.dota2assitant.base.service.notification.MyFirebaseInstanceIDService">
             <intent-filter>
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
 

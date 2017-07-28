@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:id="@+id/main_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -30,8 +31,8 @@
                 android:layout_centerVertical="true"
                 android:layout_gravity="left"
                 android:background="?attr/selectableItemBackgroundBorderless"
-                android:visibility="gone"
-                android:src="@mipmap/btn_back" />
+                android:src="@mipmap/btn_back"
+                android:visibility="gone" />
 
             <TextView
                 android:id="@+id/lblToolbarTitle"
@@ -51,15 +52,6 @@
         </android.support.v7.widget.Toolbar>
     </LinearLayout>
 
- <!--   <com.google.android.gms.ads.NativeExpressAdView
-        android:id="@+id/adView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        ads:adUnitId="ca-app-pub-1818774973864163/9287420336"
-        ads:adSize="360x320">
-    </com.google.android.gms.ads.NativeExpressAdView>-->
-
-
     <FrameLayout
         android:id="@+id/details"
         android:layout_width="match_parent"
@@ -71,6 +63,17 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary" />
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        ads:adUnitId="ca-app-pub-1818774973864163/5531434737"
+        ads:adSize="SMART_BANNER">
+    </com.google.android.gms.ads.NativeExpressAdView>
+
+
 
 
     <devlight.io.library.ntb.NavigationTabBar

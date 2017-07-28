@@ -2,8 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@color/cmn_background"
-    style="@style/Layout.FillWidthHeight.Vertical">
+    style="@style/Layout.FillWidthHeight.Vertical"
+    android:background="@drawable/hero_background">
 
 
 

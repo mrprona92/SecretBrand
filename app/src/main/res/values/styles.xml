@@ -114,4 +114,8 @@
         <item name="android:alpha">0.3</item>
     </style>
 
+    <style name="backgroundForAll">
+        <item name="android:background">@drawable/hero_background</item>
+        </style>
+
 </resources>

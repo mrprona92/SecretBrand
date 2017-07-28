@@ -280,6 +280,10 @@
     <color name="widget_color_white">#ffffffff</color>
     <color name="widget_color_yellow">#ffffff00</color>
 
+    <color name="album_title">#4c4c4c</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="semi_transparent_black">#90000000</color>
+
     <color name="app_purple">#423752</color>
 
 </resources>
