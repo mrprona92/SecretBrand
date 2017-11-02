@@ -23,6 +23,7 @@ import com.mrprona.dota2assitant.R;
 public  abstract  class BaseActivity extends AppCompatActivity {
     protected ActionMenuView mActionMenuView;
     protected Toolbar mToolbar;
+    protected Boolean mIsTestFile;
 
     @Override
     public void setContentView(int layoutResID) {
@@ -43,6 +44,7 @@ public  abstract  class BaseActivity extends AppCompatActivity {
     }
 
     private void initActionBar() {
+        mIsTestFile= true;
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mToolbar);
         mActionMenuView = (ActionMenuView) findViewById(R.id.actionMenuView);
