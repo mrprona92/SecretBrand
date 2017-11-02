@@ -71,7 +71,7 @@ public class HeroResponses extends Fragment implements RequestListener<HeroRespo
         //Chartboost.onResume(mActivity);
         hideSystemUI();
 
-        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
+        //Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);
 
     }
 

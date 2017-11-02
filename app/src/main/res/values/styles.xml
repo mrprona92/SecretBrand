@@ -7,8 +7,8 @@
     <style name="Infodota" parent="Infodota.Base">
         <item name="android:overScrollMode">never</item>
         <item name="android:fadingEdge">none</item>
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorPrimary">@color/app_purple</item>
+        <item name="colorPrimaryDark">@color/app_purple</item>
         <item name="colorAccent">@color/accent</item>
         <item name="colorControlNormal">@android:color/white</item>
         <!--<item name="android:navigationBarColor">@color/primary_dark</item>-->
@@ -92,7 +92,7 @@
 
     <style name="AppTheme.ActionBar" parent="AppTheme">
         <item name="windowActionBarOverlay">false</item>
-        <item name="colorPrimary">@color/tabbar_active</item>
+        <item name="colorPrimary">@color/app_purple</item>
     </style>
 
 
@@ -106,7 +106,16 @@
         <item name="textSize">@dimen/text_normal</item>
     </style>
 
+    <style name="CellDividerGrey">
+        <item name="android:background">@color/bright_500</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:alpha">0.3</item>
+    </style>
 
-
+    <style name="backgroundForAll">
+        <item name="android:background">@drawable/hero_background</item>
+        </style>
 
 </resources>

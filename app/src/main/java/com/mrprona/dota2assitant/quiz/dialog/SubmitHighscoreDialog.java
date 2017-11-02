@@ -40,7 +40,7 @@ import static org.apache.commons.lang3.StringUtils.trim;
 public class SubmitHighscoreDialog extends DABaseDialog {
 
     public interface ConfirmDialogListener {
-        void onSelect(int indexButton,int mode);
+        void onSelect(int indexButton, int mode);
     }
 
     private int mTitleId, mMessageId, mConfirmTextId, mCancelTextId;
@@ -132,7 +132,7 @@ public class SubmitHighscoreDialog extends DABaseDialog {
         super(context);
         this.mContext = context;
         this.mBundle = mBundle;
-        this.mListener= mListener;
+        this.mListener = mListener;
     }
 
     private ConfirmDialogListener mListener;
@@ -158,7 +158,7 @@ public class SubmitHighscoreDialog extends DABaseDialog {
         super.onStart();
         score = mBundle.getLong("score");
         mode = mBundle.getInt("mode");
-        mListener= (ConfirmDialogListener)ListHolderActivity.getAppContext();
+        mListener = (ConfirmDialogListener) ListHolderActivity.getAppContext();
 
         lblTextMessage.setText(String.format(mContext.getResources().getString(R.string.quiz_high_score_dialog_title_score), score + ""));
 
@@ -182,7 +182,7 @@ public class SubmitHighscoreDialog extends DABaseDialog {
             public void onClick(View v) {
                 SubmitHighscoreDialog.this.dismiss();
                 if (mListener != null) {
-                    mListener.onSelect(0,mode);
+                    mListener.onSelect(0, mode);
                 }
             }
         });
@@ -191,34 +191,32 @@ public class SubmitHighscoreDialog extends DABaseDialog {
         mRightButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(!UltilsConnection.isNetworkConnected()){
+                if (!UltilsConnection.isNetworkConnected()) {
                     Toast.makeText(mContext, "Connection error. Please recheck your connect!", Toast.LENGTH_SHORT).show();
                     return;
                 }
                 mHighScore.setName(getTextName());
                 mHighScore.setDate(getDateTime());
                 mHighScore.setScore(score);
-                if (mHighScore.getName() != null && !mHighScore.getName().isEmpty()&&(trim(mHighScore.getName()).length() != 0))  {
-                    if(mode==1){
+                if (mHighScore.getName() != null && !mHighScore.getName().isEmpty() && (trim(mHighScore.getName()).length() != 0)) {
+                    if (mode == 1) {
                         mDBreference.child("score_item").child(getUid()).setValue(mHighScore);
-                    }else if(mode ==2){
+                    } else if (mode == 2) {
                         mDBreference.child("score_hero").child(getUid()).setValue(mHighScore);
-                    }else{
+                    } else {
                         mDBreference.child("score_random").child(getUid()).setValue(mHighScore);
                     }
                     SubmitHighscoreDialog.this.dismiss();
                     if (mListener != null) {
-                        mListener.onSelect(1,mode);
+                        mListener.onSelect(1, mode);
                     }
-                }else{
+                } else {
                     Toast.makeText(mContext, "Name invalid. Please refill your name!!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
 
     }
-
-
 
     private TextView lblChooseCountry;
     private TextView lblTextMessage;
@@ -228,7 +226,7 @@ public class SubmitHighscoreDialog extends DABaseDialog {
     private HighScore mHighScore;
     private EditText mEditTextName;
     private DatabaseReference mDBreference;
-
+    private CountryPickerDialog countryPicker;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -244,26 +242,30 @@ public class SubmitHighscoreDialog extends DABaseDialog {
         mImageFlag = (ImageView) findViewById(R.id.imgViewFlag);
         mEditTextName = (EditText) findViewById(R.id.eTxtName);
         mHighScore = new HighScore();
-        mDBreference= FirebaseDatabase.getInstance().getReference();
+        mDBreference = FirebaseDatabase.getInstance().getReference();
+
+        countryPicker =
+                new CountryPickerDialog(mContext, new CountryPickerCallbacks() {
+                    @Override
+                    public void onCountrySelected(final Country country, int flagResId) {
+                        if (mActivity != null) {
+                            mActivity.runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    String drawableName = country.getIsoCode().toLowerCase(Locale.ENGLISH) + "_flag";
+                                    mImageFlag.setImageResource(Utils.getMipmapResId(mContext, drawableName));
+                                    lblChooseCountry.setVisibility(View.GONE);
+                                    //Utils.getMipmapResId(mContext, c);
+                                    setContentHS(country.getIsoCode());
+                                }
+                            });
+                        }
+                    }
+                });
 
         lblChooseCountry.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                CountryPickerDialog countryPicker =
-                        new CountryPickerDialog(mContext, new CountryPickerCallbacks() {
-                            @Override
-                            public void onCountrySelected(Country country, int flagResId) {
-                                mActivity.runOnUiThread(new Runnable() {
-                                    @Override
-                                    public void run() {
-                                        lblChooseCountry.setVisibility(View.GONE);
-                                    }
-                                });
-                                setContentHS(country.getIsoCode());
-                                Log.d("Binh", "onCountrySelected() called with: country = [" + country + "], flagResId = [" + flagResId + "]");
-                                //Utils.getMipmapResId(mContext, c);
-                            }
-                        });
                 countryPicker.show();
             }
         });
@@ -271,18 +273,6 @@ public class SubmitHighscoreDialog extends DABaseDialog {
         mImageFlag.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                CountryPickerDialog countryPicker =
-                        new CountryPickerDialog(mContext, new CountryPickerCallbacks() {
-                            @Override
-                            public void onCountrySelected(Country country, int flagResId) {
-                                String drawableName = country.getIsoCode().toLowerCase(Locale.ENGLISH) + "_flag";
-                                mImageFlag.setImageResource(Utils.getMipmapResId(mContext, drawableName));
-                                lblChooseCountry.setVisibility(View.GONE);
-                                //Utils.getMipmapResId(mContext, c);
-                                setContentHS(country.getIsoCode());
-
-                            }
-                        });
                 countryPicker.show();
             }
         });

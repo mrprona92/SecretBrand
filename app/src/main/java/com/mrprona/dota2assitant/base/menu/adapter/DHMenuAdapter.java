@@ -75,14 +75,6 @@ public class DHMenuAdapter extends RecyclerView.Adapter<DHMenuAdapter.ViewHolder
             });
             ViewHolder.lblTitle.setText(menuItem.titleRes);
             ViewHolder.lblTitle.setCompoundDrawablesWithIntrinsicBounds(ContextCompat.getDrawable(mContext, menuItem.iconRes), null, null, null);
-            if(menuItem.grayBg) {
-                holder.itemView.setBackgroundResource(R.drawable.selector_row_menu_item_gray);
-            } else {
-                holder.itemView.setBackgroundResource(R.drawable.selector_row_menu_item);
-            }
-        } else {{
-            holder.itemView.setBackgroundResource(R.drawable.selector_row_menu_item);
-        }
             // Do nothing
         }
     }

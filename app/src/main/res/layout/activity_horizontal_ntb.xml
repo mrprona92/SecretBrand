@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hero_background"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/top_container"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.Toolbar xmlns:support="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#423752"
+            support:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            support:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+
+            <ImageButton
+                android:id="@+id/btnBack"
+                style="@style/Layout.WrapWidthHeight"
+                android:layout_width="35dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="left"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@mipmap/btn_back"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/lblToolbarTitle"
+                style="@style/Layout.WrapWidthHeight"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:text="@string/app_name"
+                android:textColor="@color/cmn_white"
+                android:textSize="@dimen/text_title" />
+
+        </android.support.v7.widget.Toolbar>
+    </LinearLayout>
+
+
+
+
+
+    <FrameLayout
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1" />
+
+    <android.support.v7.widget.ActionMenuView
+        android:id="@+id/actionMenuView"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/app_purple" />
+
+    <com.google.android.gms.ads.NativeExpressAdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        ads:adUnitId="ca-app-pub-1818774973864163/5531434737"
+        ads:adSize="SMART_BANNER">
+    </com.google.android.gms.ads.NativeExpressAdView>
+
+
+    <devlight.io.library.ntb.NavigationTabBar
+        android:id="@+id/ntb_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        app:ntb_badge_gravity="top"
+        app:ntb_badge_position="right"
+        app:ntb_scaled="true"
+        app:ntb_swiped="true"
+        app:ntb_tinted="true"
+        app:ntb_title_mode="all"
+        app:ntb_titled="true" />
+
+
+
+</LinearLayout>

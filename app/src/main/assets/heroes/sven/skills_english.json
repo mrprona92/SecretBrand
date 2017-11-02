@@ -19,7 +19,7 @@
         "desc": "Sven strikes with great force, cleaving all nearby enemy units with his attack.",
         "notes": "Cleave damage is reduced by armor type but not by armor value.<br/>Cleave damage goes through spell immunity.<br/>The cleave damages a circular area in front of Sven.",
         "dmg": "",
-        "attrib": "RADIUS: <b><font color=\"#ffffff\">300.000000</font></b><br/>CLEAVE DAMAGE: <b><font color=\"#ffffff\">20%/35%/50%/65%</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">570</font></b><br/>CLEAVE DAMAGE: <b><font color=\"#ffffff\">20%/35%/50%/65%</font></b>",
         "cmb": "",
         "lore": "The Vigil Knights still seek to reclaim the stolen Outcast Blade from Sven, a weapon capable of cutting wide swaths through lesser warriors.",
         "hurl": "Sven",

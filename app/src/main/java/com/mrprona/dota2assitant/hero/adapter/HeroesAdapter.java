@@ -1,6 +1,7 @@
 package com.mrprona.dota2assitant.hero.adapter;
 
 import android.content.Context;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -81,6 +82,7 @@ public class HeroesAdapter extends BaseRecyclerAdapter<Hero, HeroHolder> impleme
         }
 
         Context context = holder.name.getContext();
+        Log.d("BINH", "onBindViewHolder() called with: holder = [" + holder + "], position = [" + hero.getDotaId() + "]");
         Glide.with(context).load(SteamUtils.getHeroFullImage(hero.getDotaId())).into(holder.image);
     }
 

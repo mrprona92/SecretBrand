@@ -5,7 +5,7 @@
         "desc": "Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for 15 seconds.  An instance of damage is dealt every 3 seconds.",
         "notes": "The affected unit slowly regains its original movement speed every second during the duration.<br/>Units afflicted by Shadow Strike can be denied by their allies when their HP drops below 25% of their maximum health.",
         "dmg": "",
-        "attrib": "INITIAL DAMAGE: <b><font color=\"#ffffff\">50/75/100/125</font></b><br/>DAMAGE PER TICK: <b><font color=\"#ffffff\">30/40/50/60</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">450/475/500/525</font></b><br/>DURATION: <b><font color=\"#ffffff\">15</font></b>",
+        "attrib": "INITIAL DAMAGE: <b><font color=\"#ffffff\">50/75/100/125</font></b><br/>DAMAGE PER TICK: <b><font color=\"#ffffff\">30/45/60/75</font></b><br/>MOVEMENT SLOW: <b><font color=\"#ffffff\">20%/30%/40%/50%</font></b><br/>CAST RANGE: <b><font color=\"#ffffff\">450/500/550/600</font></b><br/>DURATION: <b><font color=\"#ffffff\">15</font></b>",
         "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 110<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 16/12/8/4",
         "lore": "Akasha\u0027s envenomed dagger allows her to delight in the drawn out suffering of her victims.",
         "hurl": "Queen_of_Pain",

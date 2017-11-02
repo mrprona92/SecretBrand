@@ -11,12 +11,12 @@ import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.mrprona.dota2assitant.base.fragment.SCBaseFragment;
 import com.mrprona.dota2assitant.base.menu.adapter.DHMenuAdapter;
+import com.mrprona.dota2assitant.base.menu.adapter.DividerItemDecoration;
 
 import java.lang.ref.WeakReference;
 
@@ -61,13 +61,16 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
             mUnbinder = ButterKnife.bind(this, mView);
         }
         DHMenuAdapter adapterMenu = new DHMenuAdapter(getContext());
+        mRecyclerMenu.addItemDecoration(new DividerItemDecoration(mActivity, LinearLayoutManager.VERTICAL));
         mRecyclerMenu.setAdapter(adapterMenu);
         adapterMenu.setOnItemClickListener(this);
         mRecyclerMenu.setHasFixedSize(false);
         mRecyclerMenu.setLayoutManager(new LinearLayoutManager(getContext(), LinearLayoutManager.VERTICAL, false));
         mRecyclerMenu.setNestedScrollingEnabled(false);
 
-         // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
+
+        //TODO binh.th commment block admod
+       /*  // Gets the ad view defined in layout/ad_fragment.xml with ad unit ID set in
         // values/strings.xml.
         mAdView = (AdView) mView.findViewById(R.id.ad_view);
         // Create an ad request. Check your logcat output for the hashed device ID to
@@ -78,7 +81,7 @@ public class MenuFragment extends SCBaseFragment implements DHMenuAdapter.OnItem
                 .build();
 
         // Start loading the ad in the background.
-        mAdView.loadAd(adRequest);
+        mAdView.loadAd(adRequest);*/
 
         return mView;
     }

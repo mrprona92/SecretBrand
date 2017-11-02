@@ -1,0 +1,2397 @@
+[
+  {
+    "name":"Entering battle",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Arc Warden.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bc/Arcwar_spawn_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Zet is the Self, and the Self is Zet.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c3/Arcwar_spawn_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self seeks to end the great schism.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6c/Arcwar_spawn_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Matter has been split from its intended form. These must be made to unite.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Arcwar_spawn_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Splinter of the Primordial Origin.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f4/Arcwar_spawn_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Self unites with Radiant self. For now.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Arcwar_spawn_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" A radiant alliance.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Arcwar_spawn_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Self bonds with Dire self. For the moment.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Arcwar_spawn_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" A Dire unification indeed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Arcwar_spawn_09.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Taunting",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Selves are in agreement: this one is in the bag.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Arcwar_inthebag_01.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Beginning battle",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" This disharmony must resolve, or be crushed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Arcwar_battlebegins_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Diruulth and Radinthul, your conflicts must be ended.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Arcwar_battlebegins_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self arrives at last.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a7/Arcwar_battlebegins_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The destruction of the Ancients begins.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Arcwar_battlebegins_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Self will crush the Dire.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8b/Arcwar_battlebegins_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Their Ancient must shatter and burn.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/44/Arcwar_battlebegins_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Self will destroy the Radiant.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Arcwar_battlebegins_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Great upheaval shall lay their Ancient to waste.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/56/Arcwar_battlebegins_08.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Moving",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Yes.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Arcwar_move_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self seeks.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Arcwar_move_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Patrolling.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Arcwar_move_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Coursing.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Arcwar_move_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Phasing.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Arcwar_move_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Primordial will.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Arcwar_move_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" It will be.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Arcwar_move_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self moves.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Arcwar_move_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self roams.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b6/Arcwar_move_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" In unison.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Arcwar_move_12.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Toward synthesis.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/17/Arcwar_move_13.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Seeking.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Arcwar_move_14.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Always aware.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5c/Arcwar_move_15.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Unity must be achieved.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Arcwar_move_16.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ever closer.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7b/Arcwar_move_17.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" All must proceed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/71/Arcwar_move_18.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ever forward.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/06/Arcwar_move_19.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ahead.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Arcwar_move_20.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Onward.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Arcwar_move_21.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hounding.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Arcwar_move_22.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Indeed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f3/Arcwar_move_23.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" So it must be.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ef/Arcwar_move_24.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Onward.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f8/Arcwar_move_25.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Yes.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Arcwar_move_26.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Yes.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Arcwar_move_27.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Attacking",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Attack.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Arcwar_attack_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Halt.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/70/Arcwar_attack_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You will cease.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Arcwar_attack_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Alarm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Arcwar_attack_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" None escape the Self.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/79/Arcwar_attack_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The warden strikes.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/59/Arcwar_attack_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Striken.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/57/Arcwar_attack_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Abide, if you dare.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Arcwar_attack_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Action.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Arcwar_attack_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Disunion.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9a/Arcwar_attack_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Concede.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Arcwar_attack_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Submit.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/65/Arcwar_attack_12.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Suffer.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e5/Arcwar_attack_13.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Justice.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7d/Arcwar_attack_14.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Doggedly.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Arcwar_attack_15.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You shall be scoured.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/42/Arcwar_attack_16.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Attack.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Arcwar_attack_17.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Ordering a spell cast",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Unity is nigh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/db/Arcwar_cast_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self comes for you.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7c/Arcwar_cast_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Arc approaches.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/bb/Arcwar_cast_03.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Abilities",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Flux!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e8/Arcwar_flux_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Sizzle and sear!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Arcwar_flux_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Vile voltage!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/11/Arcwar_flux_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Arcing!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Arcwar_flux_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Electric arc!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Arcwar_flux_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Caught!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/38/Arcwar_flux_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Flux!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/99/Arcwar_flux_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Arcing!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6e/Arcwar_flux_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Caught!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Arcwar_flux_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Caught!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/47/Arcwar_flux_12.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Leveling up",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Power emergent.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/45/Arcwar_levelup_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Primordial strength re-found.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Arcwar_levelup_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self, and yet moreso.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Arcwar_levelup_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self knows this power.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4c/Arcwar_levelup_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Sparkling infusion.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/60/Arcwar_levelup_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Greater glory.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/74/Arcwar_levelup_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Arc to power.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/33/Arcwar_levelup_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self expands.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Arcwar_levelup_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Higher unity.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/02/Arcwar_levelup_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" All comes together.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/77/Arcwar_levelup_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The arc grows brighter.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f7/Arcwar_levelup_12.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" From fragments into fuller unities.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1e/Arcwar_levelup_13.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" A charged reconciliation.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9b/Arcwar_levelup_14.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ha ha ha ha ha ha ha ha ha ha ha ha ha ha!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/09/Arcwar_levelup_15.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The Self grows in Radiance.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Arcwar_levelup_16.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The way grows Dire.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/40/Arcwar_levelup_19.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/18/Arcwar_levelup_20.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a8/Arcwar_levelup_21.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Killing an enemy",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" A thing of pity.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ef/Arcwar_kill_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Your hope fades.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Arcwar_kill_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mercy is yours, for the end comes.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Arcwar_kill_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Escape, and find absolution.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Arcwar_kill_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Embrace your end.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f8/Arcwar_kill_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" No one to blame but yourself.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/21/Arcwar_kill_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You are now the ward of death itself.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b9/Arcwar_kill_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You meet your true self at last.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/10/Arcwar_kill_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Your self is no more.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/eb/Arcwar_kill_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Life is prison. You are free.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2f/Arcwar_kill_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You will just have to accept this, and move on.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/35/Arcwar_kill_12.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Into Ancient embrace.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Arcwar_kill_13.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You will be back.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d6/Arcwar_kill_14.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Rest from your enslavement.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Arcwar_kill_15.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Selfie.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Arcwar_kill_16.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fc/Arcwar_kill_17.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Another Dire falls.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/90/Arcwar_kill_18.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Dire extinguished.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Arcwar_kill_19.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Dire filth.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/df/Arcwar_kill_20.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Another Radiant falls.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/87/Arcwar_kill_21.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" All that is green returns to dust.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d5/Arcwar_kill_22.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Radiant scum.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Arcwar_kill_23.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Arcwar_kill_24.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Resist and perish.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d0/Arcwar_kill_25.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Arcwar_laugh_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e4/Arcwar_laugh_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/00/Arcwar_laugh_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Arcwar_laugh_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm ho ho ha ha ha ha ha ha ha!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/be/Arcwar_laugh_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Hm hm hm hm hm hm hm hm hm hm hm hm hm hm hm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0b/Arcwar_laugh_06.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Meeting an ally",
+    "responses":[
+      {
+        "heroes":[
+          "elder_titan"
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Titan, let us unify what has been torn apart.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/08/Arcwar_ally_01.mp3"
+      },
+      {
+        "heroes":[
+          "phoenix"
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Phoenix, your light glittered from afar as Self traveled the cosmos.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/25/Arcwar_ally_03.mp3"
+      },
+      {
+        "heroes":[
+          "faceless_void"
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Timeless one, perhaps the end finally draws nigh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b5/Arcwar_ally_04.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Last hitting",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Recycled soul.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/43/Arcwar_lasthit_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Pitysome fragment.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b3/Arcwar_lasthit_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Rest for now.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5c/Arcwar_lasthit_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Lowly pawn.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a9/Arcwar_lasthit_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The gift of death.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Arcwar_lasthit_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Return to your master.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/51/Arcwar_lasthit_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Gold claimed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/83/Arcwar_lasthit_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" A timely reward.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c0/Arcwar_lasthit_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Futile creature.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Arcwar_lasthit_09.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Denying",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Arcwar_deny_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Not for you.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Arcwar_deny_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" By Self right.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Arcwar_deny_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" It is no use.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0f/Arcwar_deny_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Pointless effort.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/dc/Arcwar_deny_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Resistance serves nothing.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/41/Arcwar_deny_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" That gold is claimed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/29/Arcwar_deny_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Seek elsewhere.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5c/Arcwar_deny_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" No farm for you.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/af/Arcwar_deny_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Do not be selfish.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ed/Arcwar_deny_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4e/Arcwar_deny_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Arcwar_deny_12.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/27/Arcwar_deny_13.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Arcwar_deny_14.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e0/Arcwar_deny_15.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Sorry.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a2/Arcwar_deny_16.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ad/Arcwar_deny_17.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ae/Arcwar_deny_18.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Denied.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Arcwar_deny_19.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm-mm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/1b/Arcwar_deny_20.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Acquiring an item",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Worth its weight in gold.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Arcwar_items_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" This will change the course of battle.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/5e/Arcwar_items_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" What was paid with gold, the Dire shall pay with lives.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d7/Arcwar_items_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The Radiant shall regret this turn.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/d/d2/Arcwar_items_04.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Dying",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" No…",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Arcwar_death_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" What have you done?",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/01/Arcwar_death_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You fool.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c6/Arcwar_death_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self is shattered.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e9/Arcwar_death_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self sees the origin.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Arcwar_death_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self has lost its self.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Arcwar_death_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self is no more.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ca/Arcwar_death_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" You know not what you do.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/46/Arcwar_death_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The entity dies.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/e3/Arcwar_death_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Two becomes none.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3c/Arcwar_death_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Into Ancient embrace…",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Arcwar_death_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" No…",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/54/Arcwar_death_13.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Respawning",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Victory walks upon a wire. The Self must not fail.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/51/Arcwar_respawn_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" These fools must learn what they stand against.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/aa/Arcwar_respawn_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Such life is and can be when it is given by a foe.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f2/Arcwar_respawn_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" One divided against its Self cannot stand.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/78/Arcwar_respawn_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Splintered once more.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/82/Arcwar_respawn_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" What was none becomes one again.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/4f/Arcwar_respawn_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self is because it believes it is.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fd/Arcwar_respawn_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self stirs once more.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9e/Arcwar_respawn_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Returned from Ancient darkness.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/e/ec/Arcwar_respawn_09.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Bottling Runes",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Selfishly claimed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/61/Arcwar_bottle_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Saved for later.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/73/Arcwar_bottle_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Bottled.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Arcwar_bottle_03.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Activating runes",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" By Self right.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/4/49/Arcwar_deny_03.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Ability on cooldown",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Not yet.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Arcwar_notyet_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" The Self is not ready.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/16/Arcwar_notyet_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" It is not time yet.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/5/53/Arcwar_notyet_07.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Not enough mana",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Out of mana.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/03/Arcwar_nomana_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" No mana.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/76/Arcwar_nomana_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Not enough mana.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8f/Arcwar_nomana_07.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Taking damage",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ouch.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/39/Arcwar_pain_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ugh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c2/Arcwar_pain_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Arcwar_pain_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Err.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Arcwar_pain_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Uh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/85/Arcwar_pain_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/04/Arcwar_pain_06.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/fe/Arcwar_pain_07.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a6/Arcwar_pain_08.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Uh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/05/Arcwar_pain_09.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Oof.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9f/Arcwar_pain_10.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ah.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ab/Arcwar_pain_11.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Eugh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/ba/Arcwar_pain_12.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Er!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c8/Arcwar_pain_13.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ugh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/9c/Arcwar_pain_14.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/96/Arcwar_pain_15.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/20/Arcwar_pain_16.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/85/Arcwar_pain_17.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mmm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/7/7c/Arcwar_pain_18.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Ugh.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/a5/Arcwar_pain_19.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Eugh!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/1/19/Arcwar_pain_20.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/f/f9/Arcwar_pain_21.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Mm!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/a/ac/Arcwar_pain_22.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Selecting",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" From the Primordial Consciousness all came. Return to it, all must.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/34/Arcwar_rare_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" It is not to aid the Ancients that this war is joined, but to destroy them both. This disunity must end.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/0e/Arcwar_rare_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" There can be no hesistation. Dire must be extinguished just as the Radiant.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/b/b2/Arcwar_rare_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Radiant aids its enemy, but does not yet know it.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2a/Arcwar_rare_04.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Chat responses",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Top is missing.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/c/c4/Arcwar_lanemissing_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Middle is missing.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/2/2b/Arcwar_lanemissing_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Bottom is missing.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/89/Arcwar_lanemissing_03.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Match end",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" Victory!",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8d/Arcwar_win_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" One Ancient is destroyed. One remains.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/9/94/Arcwar_win_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The Dire has gone down in flames.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/6d/Arcwar_win_03.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The Dire are no more. Yet there is still much to be done.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3d/Arcwar_win_04.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The first upheaval has come. ",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Arcwar_win_05.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" The Radiant are ended. Yet this is not over.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/8/8a/Arcwar_win_06.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Cosmetic item drop",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+
+        ],
+        "title":" What is this?",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/62/Arcwar_itemdrop_common_01.mp3"
+      }
+    ]
+  },
+  {
+    "name":"Misc",
+    "responses":[
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Disharmony in thought and deed.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/63/Arcwar_failure_01.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Discord.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/0/07/Arcwar_failure_02.mp3"
+      },
+      {
+        "heroes":[
+
+        ],
+        "items":[
+          "abyssal_blade"
+        ],
+        "title":" Frowny face.",
+        "url":"https://hydra-media.cursecdn.com/dota2.gamepedia.com/6/66/Arcwar_failure_03.mp3"
+      }
+    ]
+  }
+]

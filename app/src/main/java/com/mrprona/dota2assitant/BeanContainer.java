@@ -369,7 +369,7 @@ public class BeanContainer implements InitializingBean {
     public RestAdapter getDouyuRestAdapter(){
         if(douyuRestAdapter==null){
             douyuRestAdapter=new RestAdapter.Builder()
-                    .setEndpoint("http://api.douyutv.com/api/client/")
+                    .setEndpoint("http://capi.douyucdn.cn/api/v1/searchNew/")
                     .build();
         }
         return douyuRestAdapter;

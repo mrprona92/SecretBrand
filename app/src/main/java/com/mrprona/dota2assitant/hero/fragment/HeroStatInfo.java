@@ -313,15 +313,15 @@ public class HeroStatInfo extends Fragment implements RequestListener<MediaPlaye
             //http://www.playdota.com/mechanics/damagearmor
 
             if(mTalentTree!=null){
-                txt25Left.setText(mTalentTree.getLv25Left()+"");
-                txt20Left.setText(mTalentTree.getLv20Left()+"");
-                txt15Left.setText(mTalentTree.getLv15Left()+"");
-                txt10Left.setText(mTalentTree.getLv10Left()+"");
+                txt25Left.setText(mTalentTree.getLv25Left());
+                txt20Left.setText(mTalentTree.getLv20Left());
+                txt15Left.setText(mTalentTree.getLv15Left());
+                txt10Left.setText(mTalentTree.getLv10Left());
 
-                txt25Right.setText(mTalentTree.getLv25Right()+"");
-                txt20Right.setText(mTalentTree.getLv20Right()+"");
-                txt15Right.setText(mTalentTree.getLv15Right()+"");
-                txt10Right.setText(mTalentTree.getLv10Right()+"");
+                txt25Right.setText(mTalentTree.getLv25Right());
+                txt20Right.setText(mTalentTree.getLv20Right());
+                txt15Right.setText(mTalentTree.getLv15Right());
+                txt10Right.setText(mTalentTree.getLv10Right());
             }
 
         }

@@ -11,15 +11,11 @@ import java.io.Serializable;
  */
 public class DouyuResult implements Serializable {
     @SerializedName("data")
-    private Room room;
+    private Data data;
     private int error;
 
     public Room getRoom() {
-        return room;
-    }
-
-    public void setRoom(Room room) {
-        this.room = room;
+        return data.getmRoom().get(0);
     }
 
     public int getError() {

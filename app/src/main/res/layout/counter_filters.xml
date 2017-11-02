@@ -170,7 +170,7 @@
         android:text="@string/show_results" />
 
 
-    <LinearLayout
+  <!--  <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -184,6 +184,6 @@
             android:layout_alignParentBottom="true"
             ads:adSize="BANNER"
             ads:adUnitId="@string/banner_ad_unit_id" />
-    </LinearLayout>
+    </LinearLayout>-->
 
 </LinearLayout>

@@ -14,6 +14,8 @@ import com.google.firebase.messaging.RemoteMessage;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 
+import java.util.Map;
+
 /**
  * Created by BinhTran on 2/23/17.
  */
@@ -24,21 +26,26 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
     @Override
     public void onMessageReceived(RemoteMessage remoteMessage) {
+        Map<String, String> data = remoteMessage.getData();
+        String messageTitle = data.get("title");
+        String messageBody = data.get("body");
+
         Log.d(TAG, "From: " + remoteMessage.getFrom());
-        Log.d(TAG, "Notification Message Body: " + remoteMessage.getNotification().getBody());
-        sendNotification(remoteMessage.getNotification().getBody());
+        Log.d(TAG, "Notification Message Body: ");
+        sendNotification(messageTitle, messageBody);
     }
 
-    private void sendNotification(String messageBody) {
+    private void sendNotification(String messageTitle, String messageBody) {
         Intent intent = new Intent(this, ListHolderActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0 /* Request code */, intent,
                 PendingIntent.FLAG_ONE_SHOT);
 
-        Uri defaultSoundUri= RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
+
+        Uri defaultSoundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this)
                 .setSmallIcon(R.drawable.ic_launcher)
-                .setContentTitle("FCM Message")
+                .setContentTitle(messageTitle)
                 .setContentText(messageBody)
                 .setAutoCancel(true)
                 .setSound(defaultSoundUri)

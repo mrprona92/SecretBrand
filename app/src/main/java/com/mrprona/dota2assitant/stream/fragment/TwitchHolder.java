@@ -100,7 +100,7 @@ public class TwitchHolder extends SCBaseFragment { //pullToRefresh + FloatingAct
         add.setIcon(R.drawable.ic_menu_add);
         MenuItemCompat.setShowAsAction(add, MenuItemCompat.SHOW_AS_ACTION_ALWAYS);
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
-        if (Build.VERSION.SDK_INT < 14) {
+        /*if (Build.VERSION.SDK_INT < 14) {
             preferences.edit().putInt("player_type", 1).commit();
             actionMenuView.setVisibility(View.GONE);
         } else {
@@ -115,7 +115,7 @@ public class TwitchHolder extends SCBaseFragment { //pullToRefresh + FloatingAct
                     return onOptionsItemSelected(menuItem);
                 }
             });
-        }
+        }*/
     }
 
     @Override
@@ -150,7 +150,7 @@ public class TwitchHolder extends SCBaseFragment { //pullToRefresh + FloatingAct
             });
             builder.show();
             return true;
-        } else if (item.getItemId() == PLAYER_TYPE) {
+        } /*else if (item.getItemId() == PLAYER_TYPE) {
             final MenuItem player = item;
             PopupMenu popup = new PopupMenu(getActivity(), getActivity().findViewById(item.getItemId()));
             final Menu menu = popup.getMenu();
@@ -169,7 +169,7 @@ public class TwitchHolder extends SCBaseFragment { //pullToRefresh + FloatingAct
             });
             popup.show();
             return true;
-        }
+        }*/
         return super.onOptionsItemSelected(item);
     }
 

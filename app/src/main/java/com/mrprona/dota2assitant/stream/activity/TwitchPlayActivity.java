@@ -11,6 +11,7 @@ import android.os.Handler;
 import android.preference.PreferenceManager;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.widget.PopupMenu;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -19,6 +20,12 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
+import com.chartboost.sdk.CBLocation;
+import com.chartboost.sdk.Chartboost;
+import com.chartboost.sdk.Libraries.CBLogging;
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.BaseActivity;
 import com.mrprona.dota2assitant.base.view.TappableSurfaceView;
@@ -28,6 +35,9 @@ import com.octo.android.robospice.UncachedSpiceService;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
 import com.parser.Element;
+
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * User: Histler
@@ -44,6 +54,7 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
     private int qualityPosition;
     private Element.List qualities;
     private SpiceManager mSpiceManager = new SpiceManager(UncachedSpiceService.class);
+    private InterstitialAd mInterstitialAd;
 
     @Override
     protected void onStart() {
@@ -171,6 +182,21 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
                 }
             }
         });
+
+
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId(getString(R.string.interstitial_ad_unit_id));
+
+        mInterstitialAd.loadAd(new AdRequest.Builder().addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0").build());
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdClosed() {
+                // Load the next interstitial.
+                mInterstitialAd.loadAd(new AdRequest.Builder().addTestDevice("121EC3F83A2EAFBD46DB00F1773A13A0").build());
+            }
+
+        });
+
         //http://video12.fra01.hls.twitch.tv/hls4/starladder1_8686670976_68409999/mobile/index.m3u8?token=id=2186420592380609324,bid=8686670976,exp=1393625278,node=video12-1.fra01.hls.justin.tv,nname=video12.fra01,fmt=mobile&sig=c522f7bacc493511b053c6c32301b0ef6ae863f1
         //String url="http://usher.twitch.tv/api/channel/hls/gsstudio_dota.m3u8?token={\"user_id\":null,\"channel\":\"gsstudio_dota\",\"expires\":1393530360,\"chansub\":{\"view_until\":1924905600,\"restricted_bitrates\":[]},\"private\":{\"allowed_to_view\":true},\"privileged\":false}&sig=61458b8929e15eb6508dc44484bc32ef091abec4";
         getSupportActionBar().setTitle(getIntent().getExtras().getString("channelTitle"));
@@ -183,6 +209,26 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
             pause.setImageResource(R.drawable.play);
             mediaPlayer.reset();
         }
+
+        // int randomNum = ThreadLocalRandom.current().nextInt(0, 20 + 1);
+
+        //if(randomNum<10){
+     /*   Chartboost.setActivityCallbacks(false);
+        Chartboost.setLoggingLevel(CBLogging.Level.ALL);
+        //Chartboost.onCreate(mActivity);
+        hideSystemUI();
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);*/
+        //}
+
+        int rand = new Random().nextInt(2);
+        if (rand % 2 == 0) {
+            if (mInterstitialAd.isLoaded()) {
+                mInterstitialAd.show();
+            } else {
+                Log.d("TAG", "The interstitial wasn't loaded yet.");
+            }
+        }
+
     }
 
     private void getAccessToken(String channelName) {
@@ -302,4 +348,15 @@ public class TwitchPlayActivity extends BaseActivity implements SurfaceHolder.Ca
     }
 
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        //Chartboost.onResume(this);
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        //Chartboost.onStop(this);
+    }
 }

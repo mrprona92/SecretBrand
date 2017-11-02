@@ -19,7 +19,7 @@
         "desc": "Sprays enemy units with quills dealing damage in an area of effect around Bristleback.  Deals bonus damage for every time a unit was hit by Quill Spray in the last 14 seconds.",
         "notes": "Quill Spray damage is not reduced by damage block abilities.",
         "dmg": "",
-        "attrib": "RADIUS: <b><font color=\"#ffffff\">625</font></b><br/>QUILL BASE DAMAGE: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>QUILL STACK DAMAGE: <b><font color=\"#ffffff\">30/32/34/36</font></b><br/>STACK DURATION: <b><font color=\"#ffffff\">14</font></b><br/>MAX DAMAGE: <b><font color=\"#ffffff\">400</font></b>",
+        "attrib": "RADIUS: <b><font color=\"#ffffff\">700</font></b><br/>QUILL BASE DAMAGE: <b><font color=\"#ffffff\">20/40/60/80</font></b><br/>QUILL STACK DAMAGE: <b><font color=\"#ffffff\">30/32/34/36</font></b><br/>STACK DURATION: <b><font color=\"#ffffff\">14</font></b><br/>MAX DAMAGE: <b><font color=\"#ffffff\">400</font></b>",
         "cmb": "<img alt=\"Mana Cost\" title=\"Mana Cost\" class=\"manaImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/mana.png\" width=\"16\" height=\"16\" border=\"0\" /> 35/35/35/35<br/><img alt=\"Cooldown\" title=\"Cooldown\" class=\"cooldownImg\" src=\"http://cdn.dota2.com/apps/dota2/images/tooltips/cooldown.png\" width=\"16\" height=\"16\" border=\"0\" /> 3",
         "lore": "An enforcer\u0027s honor can be a prickly thing.  So can his quills.",
         "hurl": "Bristleback",

@@ -11,6 +11,9 @@ import android.support.v4.view.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.chartboost.sdk.CBLocation;
+import com.chartboost.sdk.Chartboost;
+import com.chartboost.sdk.Libraries.CBLogging;
 import com.mrprona.dota2assitant.R;
 import com.mrprona.dota2assitant.base.activity.BaseActivity;
 import com.mrprona.dota2assitant.base.activity.FullAdsActivity;
@@ -97,11 +100,46 @@ public class HighscoreActivity extends BaseActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(pager);
 
-        Intent intent = new Intent(HighscoreActivity.this, FullAdsActivity.class);
-        startActivity(intent);
+
+        //TODO BINH.TH comment for block admod
+       /* Intent intent = new Intent(HighscoreActivity.this, FullAdsActivity.class);
+        startActivity(intent);*/
+
+
     }
 
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+      //  Chartboost.onResume(this);
+    }
+
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+    }
+
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+
+
+        //TODO BINH.TH add chartboost
+       /* Chartboost.setActivityCallbacks(false);
+        Chartboost.setLoggingLevel(CBLogging.Level.ALL);
+        hideSystemUI();
+        Chartboost.showInterstitial(CBLocation.LOCATION_GAMEOVER);*/
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+      //  Chartboost.onStop(this);
+    }
 
     public static int getValueSelected(){
         return pageSelected;

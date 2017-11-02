@@ -130,7 +130,7 @@ public class HeroesList extends SCBaseFragment implements SearchableFragment, Re
     public boolean onOptionsItemSelected(final MenuItem item) {
         switch (item.getItemId()) {
             case 1001:
-                SharedPreferences preferences = getActivity().getSharedPreferences("settings", 1);
+                SharedPreferences preferences = getActivity().getSharedPreferences("settings", Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = preferences.edit();
                 editor.putBoolean("carousel", !preferences.getBoolean("carousel", false));
                 editor.commit();

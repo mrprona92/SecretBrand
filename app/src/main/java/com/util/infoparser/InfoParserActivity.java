@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.Toast;
 
 import com.mrprona.dota2assitant.R;
-import com.mrprona.dota2assitant.base.activity.LoaderActivity;
+import com.mrprona.dota2assitant.base.activity.ListHolderActivity;
 import com.octo.android.robospice.SpiceManager;
 import com.octo.android.robospice.UncachedSpiceService;
 import com.octo.android.robospice.persistence.exception.SpiceException;
@@ -22,7 +22,7 @@ import com.util.infoparser.loader.ResponseLoadRequest;
  */
 public class InfoParserActivity extends Activity implements RequestListener {
     private SpiceManager mSpiceManager = new SpiceManager(UncachedSpiceService.class);
-    private LoadType mCurLoadType = LoadType.cosmetic_items_english;
+    private LoadType mCurLoadType = LoadType.response;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -76,7 +76,7 @@ public class InfoParserActivity extends Activity implements RequestListener {
             runTask();
         } else {
             Toast.makeText(this, "Done", Toast.LENGTH_LONG).show();
-            startActivity(new Intent(this, LoaderActivity.class));
+            startActivity(new Intent(this, ListHolderActivity.class));
             finish();
         }
     }
